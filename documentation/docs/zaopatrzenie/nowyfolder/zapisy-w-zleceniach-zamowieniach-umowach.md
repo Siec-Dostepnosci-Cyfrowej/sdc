@@ -45,7 +45,7 @@ status: projekt
 
 &nbsp;
 
-Zgodnie z at. 5 ust. 1 ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych, podmiot publiczny zapewnia dostępność cyfrową przez spełnienie przez jego stronę internetową, zarządzane elementy strony internetowej, jego aplikację mobilną lub zarządzane elementy aplikacji mobilnej wymagań określonych w załączniku do ustaw. Zasadnym jest zatem zamieszczenie **wymagania** by program (strona/aplikacja) lub dokument spełniały wymogi dostępności cyfrowej.
+Zgodnie z at. 5 ust. 1 UDC stron internetowych i aplikacji mobilnych podmiotów publicznych, podmiot publiczny zapewnia dostępność cyfrową przez spełnienie przez jego stronę internetową, zarządzane elementy strony internetowej, jego aplikację mobilną lub zarządzane elementy aplikacji mobilnej wymagań określonych w załączniku do ustaw. Zasadnym jest zatem zamieszczenie **wymagania** by program (strona/aplikacja) lub dokument spełniały wymogi dostępności cyfrowej.
 
 Uzasadnienie do zapisów fakultatywnych:
 
