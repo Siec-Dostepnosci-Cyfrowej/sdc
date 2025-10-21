@@ -33,7 +33,7 @@ Podmioty publiczne zazwyczaj nie wytwarzają oprogramowania. Zwykle korzystają 
 
 ## Propozycje tematów zaleceń, rozwiązań i praktyk
 
-1. Organizacja opracuje i wdraża proces i powiązane z nim procedury oceniania zgodności stron internetowych i aplikacji mobilnych z&nbsp;ustawą o&nbsp;dostępności cyfrowej stron internetowych i&nbsp;aplikacji mobilnych podmiotów publicznych lub z&nbsp;rozdziałami 9-11 normy PN-ETSI EN 301 549
+1. Organizacja opracuje i wdraża proces i powiązane z nim procedury oceniania zgodności stron internetowych i aplikacji mobilnych z&nbsp;ustawą o&nbsp;dostępności cyfrowej stron internetowych i&nbsp;aplikacji mobilnych podmiotów publicznych lub z&nbsp;rozdziałami 9-11 normy PN-ETSI EN 301 549 
 2. Organizacja rozwija wiedzę ekspercką w zakresie testowania dostępności cyfrowej wewnętrznie lub poprzez korzystanie z&nbsp;usług ekspertów zewnętrznych.
 3. Organizacja wypracuje i wdraża dostosowaną do swoich warunków metodykę przeprowadzania okresowych (corocznych) przeglądów i oceny zgodności dokumentów cyfrowych z obowiązującymi w organizacji zasadami formowania dokumentów, w tym wymaganiami i normami dostępności cyfrowej. Wnioski z przeglądów i oceny organizacja wykorzystuje w programach szkoleń pracowników i programach zapewniania dostępności.
 4. Organizacja określa w swoich wewnętrznych uregulowaniach dotyczących wydawania serwisów internetowych i aplikacji mobilnych oraz publikowania treści w mediach społecznościowych, regulujących zasady ich tworzenia odpowiedzialność właściciela, administratorów, twórców treści i redaktorów za dostępność cyfrową, w&nbsp;tym zgodność z&nbsp;ustawą o&nbsp;dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych lub z rozdziałami 9-11 normy PN-ETSI EN 301 549.
