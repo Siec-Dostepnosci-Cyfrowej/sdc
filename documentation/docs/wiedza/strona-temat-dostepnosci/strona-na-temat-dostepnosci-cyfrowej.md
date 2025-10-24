@@ -1,5 +1,5 @@
 ---
-id: strona-internetowa
+id: strona-na-temat-dostepnosci-cyfrowej
 title: Utworzenie strony internetowej na temat dostępności cyfrowej
 description: "Cała wiedza o dostępności cyfrowej w jednym miejscu"
 ---
