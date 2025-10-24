@@ -14,7 +14,7 @@ cykl życia
 data_zgloszenia: 6 października 2025 r.
 ostatnia_aktualizacja: 6 października 2025 r
 opracowanie: Dawid Górny
-status: projekt
+draft: true
 ---
 
 ## Ramowe wytyczne — Cykl życia strony internetowej (TIK)

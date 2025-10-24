@@ -2,10 +2,10 @@ name: Test deployment
 
 on:
   pull_request:
-    branches:
-      - main
+    branches: [main]
   workflow_dispatch:
-
+  push:
+    branches: [test-linkow]
 permissions:
   contents: read
   pages: write
