@@ -1,29 +1,17 @@
 ---
 id: praktyki-i-zalecenia-przy-zbieraniu-opinii-od-uzytkownikow
-title: Dobre praktyki i zalecenia przy zbieraniu opinii od użytkowników
+title: Cykl życia TIK - Dobre praktyki i zalecenia przy zbieraniu opinii od użytkowników
+description: Dobre praktyki i zalecenia przy zbieraniu opinii od użytkowników
 sidebar_label: Dobre praktyki i zalecenia przy zbieraniu opinii od użytkowników
 sidebar_position: 5
-keywords: [
-WCAG 2.1 AA, 
-dostepnosc cyfrowa, 
-projektowanie,
-dokumentacja projektowa,
-projektowanie,
-opinie
-]
-tags: [
-WCAG 2.1 AA, 
-dostepnosc cyfrowa, 
-projektowanie,
-dokumentacja projektowa,
-projektowanie,
-opinie
-]
+keywords: [cykl życia TIK, dostępność cyfrowa,dobre praktyki, zalecenia, opinie]
+tags: [cykl życia TIK, dostępność cyfrowa,dobre praktyki, zalecenia, opinie]
+opracowanie: Cezary Tomczyk
 data_zgloszenia: 26 października 2025 r.
 ostatnia_aktualizacja: 26 października 2025 r.
-
 wersja_robocza: true
 ---
+
 :::warning Uwaga
 
 Jest to dokument roboczy, który w dowolnym momencie może zostać zaktualizowany, zastąpiony lub usunięty przez inne dokumenty. Nie należy traktować tego dokumentu jako czegoś innego niż dokument w trakcie opracowywania.
