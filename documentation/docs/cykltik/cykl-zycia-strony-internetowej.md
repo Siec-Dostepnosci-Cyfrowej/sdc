@@ -20,7 +20,6 @@ wersja_robocza: true
 
 
 ## 1. Cel dokumentu
-
 Celem dokumentu jest przedstawienie minimalnych zasad, według których
 instytucja publiczna powinna planować, zamawiać, tworzyć, testować,
 utrzymywać i wycofywać stronę internetową w sposób dostępny cyfrowo.
