@@ -1,6 +1,7 @@
 ---
 id: plan-dostepnosci
 title: Plan zapewniania dostępności cyfrowej
+description: Projekt zalecenia dotyczącego opracowywania planów pracy dostępności cyfrowej
 sidebar_label: Organizacja powinna opracować i wdrożyć Plan działania na rzecz poprawy zapewniania dostępnośc
 sidebar_position: 0
 description: Propozycja zalecenia
