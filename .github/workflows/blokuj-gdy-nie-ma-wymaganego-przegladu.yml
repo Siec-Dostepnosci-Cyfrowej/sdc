@@ -1,29 +1,16 @@
-<<<<<<< HEAD
-name: require-one-review  # ⬅️ NIE zmieniaj – to nazwa widoczna w ruleset
-
-=======
 name: require-one-review
  
->>>>>>> main
 on:
   pull_request:
     types: [opened, reopened, synchronize, ready_for_review, review_requested]
   pull_request_review:
     types: [submitted, edited, dismissed]
-
-permissions:
-  checks: write
-  pull-requests: read
-
+ 
 jobs:
   require-one-review:
     runs-on: ubuntu-latest
-<<<<<<< HEAD
-
-=======
     permissions:
       pull-requests: read
->>>>>>> main
     steps:
       - name: Sprawdź wymagany przegląd
         uses: actions/github-script@v8
@@ -32,86 +19,6 @@ jobs:
           script: |
             const requiredReviewers = ["zwiastunsw", "redaktorbs", "MKW2017"];
             const pr = context.payload.pull_request;
-<<<<<<< HEAD
-            const sha = pr.head.sha;
-            const prAuthor = pr.user.login;
-
-            // 🟢 Utwórz wstępny check run (pending)
-            const checkName = "require-one-review";
-            const { data: check } = await github.rest.checks.create({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              name: checkName,
-              head_sha: sha,
-              status: "in_progress",
-              output: {
-                title: "Sprawdzanie wymaganego przeglądu",
-                summary: "Trwa analiza recenzji..."
-              }
-            });
-
-            // ⚙️ Dla Dependabot nie blokujemy
-            if (prAuthor === "dependabot[bot]") {
-              await github.rest.checks.update({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                check_run_id: check.id,
-                conclusion: "success",
-                completed_at: new Date().toISOString(),
-                output: {
-                  title: "PR od Dependabot",
-                  summary: "Nie wymaga przeglądu — check zaliczony ✅"
-                }
-              });
-              return;
-            }
-
-            // 📋 Pobierz recenzje
-            const { data: reviews } = await github.rest.pulls.listReviews({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              pull_number: pr.number,
-            });
-
-            const latest = {};
-            for (const r of reviews) latest[r.user.login] = r.state;
-
-            const hasApproval = requiredReviewers.some(
-              u => latest[u] === "APPROVED"
-            );
-
-            // 🟥 Gdy brak wymaganej aprobaty
-            if (!hasApproval) {
-              await github.rest.checks.update({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                check_run_id: check.id,
-                conclusion: "failure",
-                completed_at: new Date().toISOString(),
-                output: {
-                  title: "Brak wymaganego przeglądu ❌",
-                  summary: "Co najmniej jeden z wymaganych recenzentów musi zatwierdzić PR."
-                }
-              });
-              core.setFailed("❌ Pull request zablokowany: brak wymaganej akceptacji.");
-              return;
-            }
-
-            // ✅ Gdy przegląd zatwierdzony
-            await github.rest.checks.update({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              check_run_id: check.id,
-              conclusion: "success",
-              completed_at: new Date().toISOString(),
-              output: {
-                title: "Przegląd zatwierdzony ✅",
-                summary: "Co najmniej jeden wymagany recenzent wyraził zgodę."
-              }
-            });
-
-            core.info("✅ Scalanie dozwolone: wymagany przegląd został udzielony.");
-=======
             const prAuthor = pr.user.login;
  
             // ⚙️ Dependabot — pomijamy
@@ -138,4 +45,3 @@ jobs:
             }
  
             core.info("✅ Wymagany przegląd uzyskany – PR może być scalony.");
->>>>>>> main
