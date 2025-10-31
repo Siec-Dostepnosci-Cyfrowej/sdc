@@ -1,11 +1,11 @@
-name: require-one-review  # <-- pozostaje bez zmian
-
+name: require-one-review  # workflow name pozostaje bez zmian
+ 
 on:
   pull_request:
     types: [opened, reopened, synchronize, ready_for_review, review_requested]
   pull_request_review:
     types: [submitted, edited, dismissed]
-
+ 
 jobs:
   require-one-review:
     name: Sprawdź wymagany przegląd
@@ -17,32 +17,33 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const requiredReviewers = ["zwiastunsw", "redaktorbs", "MKW2017"];
-
-            // Jeśli PR od Dependabot, ignorujemy wymaganie recenzenta
             const prAuthor = context.payload.pull_request.user.login;
+ 
+            // Minimalny krok dla Dependabot, aby przypisać integration_id
             if (prAuthor === "dependabot[bot]") {
-              core.info("PR od Dependabot – wymaganie recenzenta pomijane.");
-              return; // check zakończony sukcesem
+              core.info("PR od Dependabot – check przypisany, brak blokady.");
+              return; // pusty step → check przestaje wisieć
             }
-
+ 
             // Pobierz recenzje PR
             const { data: reviews } = await github.rest.pulls.listReviews({
               owner: context.repo.owner,
               repo: context.repo.repo,
               pull_number: context.payload.pull_request.number,
             });
-
+ 
             // Najnowszy stan recenzenta
             const latest = {};
             for (const r of reviews) latest[r.user.login] = r.state;
-
+ 
+            // Sprawdzenie zatwierdzeń
             const hasApproval = requiredReviewers.some(
               (u) => latest[u] === "APPROVED"
             );
-
+ 
             if (!hasApproval) {
               core.setFailed("❌ Pull request zablokowany: co najmniej jeden z wymaganych recenzentów musi wyrazić zgodę.");
               return;
             }
-
+ 
             core.info("✅ Scalanie dozwolone: co najmniej jeden wymagany recenzent wyraził zgodę.");
