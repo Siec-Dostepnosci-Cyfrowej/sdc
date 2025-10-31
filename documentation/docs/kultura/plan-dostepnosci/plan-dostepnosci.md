@@ -1,21 +1,14 @@
 ---
 id: plan-dostepnosci
 title: Plan zapewniania dostępności cyfrowej
-description: Projekt zalecenia dotyczącego opracowywania planów pracy dostępności cyfrowej
-sidebar_label: Organizacja powinna opracować i wdrożyć Plan działania na rzecz poprawy zapewniania dostępnośc
+sidebar_label: Organizacja powinna opracować i wdrożyć Plan działania na rzecz poprawy zapewniania dostępności
 sidebar_position: 0
 description: Propozycja zalecenia
-keywords: [
-        kultura organziacyjna,
-		zarządzanie,
-]
-tags: [
-        kultura organziacyjna,
-		zarządzanie,
-]
+keywords: [kultura organizacyjna, zarządzanie]
+tags: [kultura organizacyjna, zarządzanie]
 opracowanie: Anna Czekalska
 data_zgloszenia: 2 października 2025 r.
-ostatnia_aktualizacja: 24 września 2025 r.
+ostatnia_aktualizacja: 30 października 2025 r.
 wersja_robocza: true
 ---
 
