@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 name: require-one-review  # ⬅️ NIE zmieniaj – to nazwa widoczna w ruleset
 
+=======
+name: require-one-review
+ 
+>>>>>>> main
 on:
   pull_request:
     types: [opened, reopened, synchronize, ready_for_review, review_requested]
@@ -12,9 +17,13 @@ permissions:
 
 jobs:
   require-one-review:
-    name: Sprawdź wymagany przegląd
     runs-on: ubuntu-latest
+<<<<<<< HEAD
 
+=======
+    permissions:
+      pull-requests: read
+>>>>>>> main
     steps:
       - name: Sprawdź wymagany przegląd
         uses: actions/github-script@v8
@@ -23,6 +32,7 @@ jobs:
           script: |
             const requiredReviewers = ["zwiastunsw", "redaktorbs", "MKW2017"];
             const pr = context.payload.pull_request;
+<<<<<<< HEAD
             const sha = pr.head.sha;
             const prAuthor = pr.user.login;
 
@@ -101,3 +111,31 @@ jobs:
             });
 
             core.info("✅ Scalanie dozwolone: wymagany przegląd został udzielony.");
+=======
+            const prAuthor = pr.user.login;
+ 
+            // ⚙️ Dependabot — pomijamy
+            if (prAuthor === "dependabot[bot]") {
+              core.info("PR od Dependabot – pominięty ✅");
+              return;
+            }
+ 
+            const { data: reviews } = await github.rest.pulls.listReviews({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: pr.number,
+            });
+ 
+            const latest = {};
+            for (const r of reviews) latest[r.user.login] = r.state;
+ 
+            const hasApproval = ["zwiastunsw", "redaktorbs", "MKW2017"]
+              .some(u => latest[u] === "APPROVED");
+ 
+            if (!hasApproval) {
+              core.setFailed("❌ Brak wymaganego przeglądu");
+              return;
+            }
+ 
+            core.info("✅ Wymagany przegląd uzyskany – PR może być scalony.");
+>>>>>>> main
