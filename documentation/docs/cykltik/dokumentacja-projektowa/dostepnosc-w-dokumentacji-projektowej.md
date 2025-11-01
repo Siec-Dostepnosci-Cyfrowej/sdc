@@ -25,7 +25,7 @@ wersja_robocza: true
 
 ## 1. Specyfikacja projektu
 
-- Wymagania dostępności WCAG 2.1 AA należy uwzględnić jako integralną część celów projektu.
+- Wymagania dostępności WCAG 2.1 AA należy uwzględnić jako integralną część celów projektu. (czy zamiast WCAG nie powinniśmy wymagać zgodności z ustawą?)
 - Określ konkretne kryteria sukcesu, np.:
   - Wystarczający kontrast tekstu (np. 4.5:1 dla tekstu zwykłego).
   - Obsługa interfejsu wyłącznie za pomocą klawiatury.
