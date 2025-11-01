@@ -47,6 +47,7 @@ wersja_robocza: true
   _"Wykonawca zobowiązuje się do dostarczenia rozwiązania zgodnego z WCAG 2.1 AA oraz do usunięcia ewentualnych niezgodności na własny koszt."_
 - Zastrzeż możliwość przeprowadzenia audytu dostępności.
 - Określ odpowiedzialność za utrzymanie dostępności po wdrożeniu (np. przy aktualizacjach).
+- W protokole odbioru musi pojawić się audyt od firmy trzeciej, nie związanej z wykonawca potwierdzający dostępność produktu.
 
 ## 4. Harmonogram projektu
 
