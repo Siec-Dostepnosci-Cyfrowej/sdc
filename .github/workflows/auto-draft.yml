@@ -1,0 +1,108 @@
+name: Automatyczna zmiana PR na Draft
+
+on:
+  pull_request:
+    types: [opened, reopened, ready_for_review, synchronize]
+
+permissions:
+  pull-requests: write
+  contents: read
+  issues: write
+
+jobs:
+  auto-draft:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Determine whether to skip conversion
+        id: check
+        uses: actions/github-script@v8
+        env:
+          ALLOWED_REVIEWERS: ${{ secrets.ALLOWED_REVIEWERS }}
+        with:
+          script: |
+            const allowedUsers = (process.env.ALLOWED_REVIEWERS || '')
+              .split(',')
+              .map(u => u.trim().toLowerCase())
+              .filter(Boolean);
+
+            const pr = context.payload.pull_request;
+            const prNumber = pr.number;
+
+            // Fetch PR events to see who last marked it ready
+            const { data: events } = await github.rest.issues.listEvents({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: prNumber,
+            });
+
+            const readyEvent = [...events].reverse().find(e => e.event === 'ready_for_review');
+
+            if (readyEvent && allowedUsers.includes(readyEvent.actor.login.toLowerCase())) {
+              core.info(`✅ ${readyEvent.actor.login} is allowed — PR stays ready.`);
+              core.setOutput('skip', 'true');
+            } else {
+              core.info(`❌ Not allowed user or no ready event found — PR will be draft.`);
+              core.setOutput('skip', 'false');
+            }
+
+      - name: Convert PR to draft (and comment once)
+        if: steps.check.outputs.skip == 'false'
+        uses: actions/github-script@v8
+        with:
+          script: |
+            const pr = context.payload.pull_request;
+            const prNumber = pr.number;
+
+            // Check if it's already draft
+            if (pr.draft) {
+              core.info('ℹ️ PR is already a draft — skipping conversion.');
+              return;
+            }
+
+            // Convert to draft
+            await github.rest.pulls.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: prNumber,
+              draft: true,
+            });
+            core.notice(`✅ PR #${prNumber} converted to draft automatically.`);
+
+            // Prepare comment message
+            const message = [
+              '👋 Ten PR został automatycznie przekonwertowany na **draft**.',
+              '',
+              'Tylko upoważenieni użytkownicy mogą oznaczać PR jako gotowy “Ready for review” (gotowy do końcowego przeglądu)',
+              'Jeśli uważasz, że jest to błąd, skontaktuj się z administratorem.'
+            ].join('\n');
+
+            // Check for existing bot comment
+            const { data: comments } = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: prNumber,
+              per_page: 100,
+            });
+
+            const botLogin = context.actor; // typically 'github-actions[bot]'
+            const alreadyCommented = comments.some(c =>
+              c.user.type === 'Bot' &&
+              c.user.login === botLogin &&
+              c.body.includes('automatycznie przekonwertowany na **draft**')
+            );
+
+            if (alreadyCommented) {
+              core.info('💬 Bot already commented on this PR — skipping duplicate comment.');
+              return;
+            }
+
+            // Add comment
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: prNumber,
+              body: message,
+            });
+
+            core.info('💬 Comment added to PR explaining conversion.');

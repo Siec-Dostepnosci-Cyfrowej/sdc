@@ -1,0 +1,47 @@
+name: require-one-review
+ 
+on:
+  pull_request:
+    types: [opened, reopened, synchronize, ready_for_review, review_requested]
+  pull_request_review:
+    types: [submitted, edited, dismissed]
+ 
+jobs:
+  require-one-review:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: read
+    steps:
+      - name: Sprawdź wymagany przegląd
+        uses: actions/github-script@v8
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const requiredReviewers = ["zwiastunsw", "redaktorbs", "MKW2017"];
+            const pr = context.payload.pull_request;
+            const prAuthor = pr.user.login;
+ 
+            // ⚙️ Dependabot — pomijamy
+            if (prAuthor === "dependabot[bot]") {
+              core.info("PR od Dependabot – pominięty ✅");
+              return;
+            }
+ 
+            const { data: reviews } = await github.rest.pulls.listReviews({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: pr.number,
+            });
+ 
+            const latest = {};
+            for (const r of reviews) latest[r.user.login] = r.state;
+ 
+            const hasApproval = ["zwiastunsw", "redaktorbs", "MKW2017"]
+              .some(u => latest[u] === "APPROVED");
+ 
+            if (!hasApproval) {
+              core.setFailed("❌ Brak wymaganego przeglądu");
+              return;
+            }
+ 
+            core.info("✅ Wymagany przegląd uzyskany – PR może być scalony.");
