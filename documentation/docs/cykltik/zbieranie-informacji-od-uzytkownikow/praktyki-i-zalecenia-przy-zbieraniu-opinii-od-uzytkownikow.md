@@ -15,7 +15,7 @@ wersja_robocza: true
 
 ## Zalecenie
 
-Zbieranie opinii od użytkowników jest kluczowe dla ciągłego doskonalenia dostępności cyfrowej. Ten dokument przedstawia zalecenia i dobre praktyki, które pomogą organizacjom skutecznie gromadzić informacje zwrotne, zapewniając jednocześnie zgodność z obowiązującymi przepisami i standardami.
+Organizacja aktywnie pozyskuje opinie użytkowników o dostępności treści cyfrowych udostępnianych udostępnianych na swoich stronach internetowych,  w aplikacjach mobilnych i innych platformach cyfrowych (np. w mediach społecznościowych) 
 
 ## Rekomendacje
 
