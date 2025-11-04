@@ -1,6 +1,6 @@
 ---
 id: plan-dostepnosci
-title: Plan zapewniania dostępności cyfrowej
+title: Plan działania na rzecz poprawy zapewnienia dostępności osobom ze szczególnymi potrzebami
 sidebar_label: Organizacja powinna opracować i wdrożyć Plan działania na rzecz poprawy zapewniania dostępności
 sidebar_position: 0
 description: Propozycja zalecenia
