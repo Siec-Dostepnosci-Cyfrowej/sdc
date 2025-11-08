@@ -25,9 +25,10 @@
     "@grnet/docusaurus-terminology": "2.0.0-rc.2",
     "@mdx-js/react": "3.1.1",
     "clsx": "2.1.1",
+    "dotenv": "^17.2.3",
     "prism-react-renderer": "2.4.1",
-    "react": "19.2.0",
-    "react-dom": "19.2.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.9.2",
@@ -43,6 +44,9 @@
     "markdownlint-cli": "0.45.0",
     "svgo": "4.0.0",
     "typescript": "5.9.3"
+  },
+  "overrides": {
+    "rollup": "4.52.5"
   },
   "browserslist": {
     "production": [

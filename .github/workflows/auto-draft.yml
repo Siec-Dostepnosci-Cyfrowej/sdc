@@ -1,0 +1,42 @@
+name: Auto Draft
+
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened, ready_for_review]
+
+permissions:
+  contents: read
+  pull-requests: read
+
+jobs:
+  detect-docs-change:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 2
+
+      - name: Sprawdź zmienione pliki
+        id: changes
+        run: |
+          git fetch origin ${{ github.event.pull_request.base.ref }} --depth=1
+          git diff --name-only origin/${{ github.event.pull_request.base.ref }} > changed_files.txt
+          cat changed_files.txt
+          if grep -E '^documentation/(docs|blog)/' changed_files.txt; then
+            echo "DOCS_CHANGED=true" >> $GITHUB_ENV
+          else
+            echo "DOCS_CHANGED=false" >> $GITHUB_ENV
+          fi
+
+      - name: Zapisz wynik do artefaktu
+        run: |
+          mkdir -p artifact
+          echo "{\"draftApplied\": ${DOCS_CHANGED,,}}" > artifact/result.json
+
+      - name: Upload artefakt
+        uses: actions/upload-artifact@v5
+        with:
+          name: auto-draft-result
+          path: artifact/result.json

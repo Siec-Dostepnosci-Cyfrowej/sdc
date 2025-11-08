@@ -1,3 +1,4 @@
+import 'dotenv/config';
 import type * as Preset from '@docusaurus/preset-classic';
 import type { Config } from '@docusaurus/types';
 import { themes as prismThemes } from 'prism-react-renderer';
@@ -8,7 +9,7 @@ const config: Config = {
     title: 'Sieć Dostępności Cyfrowej',
     tagline: 'Dostępność to Twoje prawo!',
     favicon: 'img/favicon.ico',
-
+	staticDirectories: ['static'],
     // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
     future: {
         v4: true, // Improve compatibility with the upcoming Docusaurus v4
@@ -18,8 +19,9 @@ const config: Config = {
     url: 'https://siec-dostepnosci-cyfrowej.github.io',
     // Set the /<baseUrl>/ pathname under which your site is served
     // For GitHub pages deployment, it is often '/<projectName>/'
-    baseUrl: '/sdc/',
-
+    
+	baseUrl: process.env.BASE_URL || '/sdc/',
+ 
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
     organizationName: 'Sieć Dostępności Cyfrowej', // Usually your GitHub org/user name.
@@ -34,6 +36,8 @@ const config: Config = {
         defaultLocale: 'pl',
         locales: ['pl']
     },
+	
+
 
     plugins: [
         ['@grnet/docusaurus-terminology', {
