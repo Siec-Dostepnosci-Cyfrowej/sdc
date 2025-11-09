@@ -1,0 +1,21 @@
+"Zaopatrzenie":
+  - changed-files:
+      - any-glob-to-any-file: ["documentation/docs/zaopatrzenie/**"]
+"Cykl życia TIK":
+  - changed-files:
+      - any-glob-to-any-file: ["documentation/docs/cykltik/**"]
+"Zarządzanie i kultura":
+  - changed-files:
+      - any-glob-to-any-file: ["documentation/docs/kultura/**"]
+"Pracownicy":
+  - changed-files:
+      - any-glob-to-any-file: ["documentation/docs/pracownicy/**"]
+"Wiedza i umiejętności":
+  - changed-files:
+      - any-glob-to-any-file: ["documentation/docs/wiedza/**"]
+"Wsparcie":
+  - changed-files:
+      - any-glob-to-any-file: ["documentation/docs/wsparcie/**"]
+"Komunikacja":
+  - changed-files:
+      - any-glob-to-any-file: ["documentation/docs/komunikacja/**"]

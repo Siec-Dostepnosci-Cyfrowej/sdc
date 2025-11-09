@@ -9,13 +9,13 @@ ostatnia_aktualizacja: 24 września 2025 r.
 wersja_robocza: true
 ---
 
-Dostępne technologie informacyjno-komunikacyjne (TIK) są kluczowym czynnikiem umożliwiającym osobom z&nbsp;niepełnosprawnościami pełne i skuteczne uczestnictwo, na zasadzie równości, we wszystkich aspektach życia społecznego i&nbsp;rozwoju związanych z&nbsp;technologią.
+Dostępne technologie informacyjno-komunikacyjne (TIK) są kluczowym czynnikiem umożliwiającym osobom z&nbsp;niepełnosprawnościami pełne i skuteczne uczestnictwo, na zasadzie równości, we wszystkich aspektach życia społecznego i&nbsp;rozwoju związanych z&nbsp;technologią. 
 
 Dostępność powinna być brana pod uwagę w całym cyklu życia TIK: od pomysłu, poprzez projektowanie, wytwarzanie, testowanie, opracowanie ACR w oparciu o uznane w branży standardy, badania użytkowników, konserwację i starzenie się po wycofanie z&nbsp;eksploatacji. 
 
 Aby zapewnić niezbędne umiejętności w zakresie wymiaru cyklu życia TIK muszą być ustanowione i stale realizowane programy szkoleniowe.
 
-:::info Uwaga redaktora
+:::info Uwaga
 
 Opis wymiaru Cykl życia TIK w modelu Dojrzałości Dostępności W3C skupia się w dużej mierze na organizacjach, które wytwarzają technologie cyfrowe, choć – oczywiście – odnosi się także do zapewniania dostępności cyfrowej technologii cyfrowych używanych w organizacjach i wytwarzanych przez organizacje treści cyfrowe.
 

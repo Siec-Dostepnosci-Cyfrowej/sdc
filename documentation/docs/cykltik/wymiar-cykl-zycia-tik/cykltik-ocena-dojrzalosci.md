@@ -13,7 +13,7 @@ wersja_robocza: true
 ---
 
 
-**Podsumowanie**: Opisuje, jak ocenić dojrzałość organizacji do zapewniania dostępności cyfrowej w caym cyklu życia technologii informacyjno-komunikacyjnych (na podstawie [Accessibility Maturity Model](https://www.w3.org/TR/maturity-model/)).
+**Podsumowanie**: Opisuje, jak ocenić dojrzałość organizacji do zapewniania dostępności cyfrowej w całym cyklu życia technologii informacyjno-komunikacyjnych (na podstawie [Accessibility Maturity Model](https://www.w3.org/TR/maturity-model/)).
 
 :::warning Uwaga
 
