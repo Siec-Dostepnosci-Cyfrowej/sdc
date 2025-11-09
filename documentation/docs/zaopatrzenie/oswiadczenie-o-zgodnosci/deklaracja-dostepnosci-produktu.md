@@ -17,7 +17,7 @@ zaopatrzenie
 opracowanie: Jacek Zadrożny
 data_zgloszenia: 16 czerwca 2025 r.
 ostatnia_aktualizacja: 24 września 2025 r.
-
+wersja_robocza: true
 ---
 
 ## Zalecenie

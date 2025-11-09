@@ -9,8 +9,6 @@ data_zgloszenia: 19 października 2025 r.
 data_aktualizacji: 19 października 2025 r.
 ---
 
-# Komentuj i sugeruj poprawki
-
 ## Proces oceny zgłoszonych projektów 
 Zgłoszone przez uczestniczki i uczestników Sieci propozycje zaleceń i rozwiązań oraz opisy praktyk do katalogu dobrych praktyk podlegają ocenie całej Sieci, która ma prawo zdecydować, które ze zgłoszonych propozycji i w jakim ostatecznie kształcie znajdą się w dokumencie końcowym Sieci.
 

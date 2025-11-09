@@ -1,0 +1,17 @@
+version: 2
+updates:
+  # 1 NPM – tylko bezpośrednie zależności
+  - package-ecosystem: "npm"
+    directory: "/documentation/" # lokalizacja package.json
+    schedule:
+      interval: "daily"
+    allow:
+      - dependency-type: "direct"
+    open-pull-requests-limit: 10
+  # 2️ GitHub Actions – aktualizacje workflowów
+  - package-ecosystem: "github-actions"
+    directory: "/" # szuka w .github/workflows
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 10
+ 

@@ -8,8 +8,6 @@ ostatnia_aktualizacja: 18 października 2025 r.
 opracowanie: Stefan Wajda
 ---
 
-# Zainstaluj Github Destkop
-
 Z Github możesz pracować bezpośrednio, tylko za pomocą przeglądarki internetowej.
 
 Jeśli cenisz sobie wygodę i wydajność, zainstaluj **Github Destkop**. Bardzo upraszcza pracę.

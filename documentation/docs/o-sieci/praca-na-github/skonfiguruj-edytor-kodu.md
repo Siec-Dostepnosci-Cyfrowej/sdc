@@ -8,8 +8,6 @@ ostatnia_aktualizacja: 18 października 2025 r.
 opracowanie: Stefan Wajda
 ---
 
-# Skonfiguruj edytor kodu
-
 Github to idealne rozwiązanie do współpracy nad kodem. Jeśli więc chcesz mieć wygodne środowisko do pracy z Github na swoim komputerze, potrzebujesz dobrego edytora kodu. Ułatwisz sobie znacznie dodawanie swoich propozycji. Nie potrzebujesz edytora, jeśli zamierzasz pracować bezpośrednio na Github. 
 
 [Lista edytorów kodu](https://docs.github.com/en/desktop/configuring-and-customizing-github-desktop/configuring-a-default-editor-in-github-desktop), które współpracują z Github Destkop jest długa. Polecamy szczególnie:

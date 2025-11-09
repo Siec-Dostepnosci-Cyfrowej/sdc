@@ -19,11 +19,9 @@ obsługa osób z niepełnosprawnością
 opracowanie: Mateusz Ciborowski
 data_zgloszenia: 18 sierpnia 2025 r.
 ostatnia_aktualizacja: 18 sierpnia 2025 r.
-status: projekt
+wersja_robocza: true
 ---
 
-
-# Szkolenia pracowników odpowiedzialnych za wsparcie 
 
 ## Zalecenie
 

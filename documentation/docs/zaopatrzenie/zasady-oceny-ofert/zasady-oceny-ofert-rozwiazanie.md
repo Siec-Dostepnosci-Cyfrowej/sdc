@@ -13,16 +13,8 @@ opracowanie: Stefan Wajda
 autor: George Rhodes, Uniwersytet Westminsterski
 data-zgloszenia: 12 czerwca 2025
 data-aktualizacji:  20 września 2025
-
+wersja_robocza: true
 ---
-
-# Stosowanie szablonu wymagań dostępności cyfrowej
-
-:::warning Uwaga
-
-Jest to dokument roboczy, który w dowolnym momencie może zostać zaktualizowany, zastąpiony lub usunięty przez inne dokumenty. Nie należy traktować tego dokumentu jako czegoś innego niż dokument w trakcie opracowywania.
-
-:::
 
 Nabycy rozwiązań cyfrowych stają wobec problemu oceny dostępności cyfrowej zgłoszonych ofert.
 

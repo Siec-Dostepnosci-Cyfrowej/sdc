@@ -1,13 +1,13 @@
 ---
 id: ja-w-sieci-wklad-uczestnika
-title: Ja w Sieci. Wkład uczestnika
+title: Organizacja pracy Sieci. Ja w Sieci. Wkład uczestnika
 sidebar_label: Ja w Sieci. Wkład uczestnika
 sidebar_position: 5
 opracowanie: Stefan Wajda
+
+data_zgloszenia: 21 lipca 2025 r.
+ostatnia_aktualizacja: 24 września 2025 r.
 ---
-
-# Ja w Sieci. Wkład uczestnika
-
 
 :::info O tym dokumencie
 

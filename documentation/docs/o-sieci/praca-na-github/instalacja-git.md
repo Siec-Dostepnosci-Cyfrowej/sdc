@@ -1,14 +1,14 @@
 ---
 id: instalacja-git
-title: Zainstaluj Git
+title: Zainstaluj i skonfiguruj Git
 sidebar_label: Zainstaluj Git
+description: Przedstawia, jak - w razie potrzeby - zainstalować Gita
 sidebar_position: 5 
 data_zgloszenia: 18 października 2025 r.
 ostatnia_aktualizacja: 18 października 2025 r.
 opracowanie: Stefan Wajda
 ---
 
-# Zainstaluj i skonfiguruj Git
 
 Aby korzystać z Githuba na swoim komputerze, potrzebujewsz programu **Git**. Git to system kontroli wersji - oprogramowanie, które pozwala programistom śledzić zmiany w kodzie źródłowym, zachowawać wcześniejsze wersje, a w razie potrzeby przywracać je. 
 

@@ -1,0 +1,84 @@
+name: require-one-review
+
+on:
+  pull_request:
+    types:
+      - opened
+      - reopened
+      - synchronize
+      - ready_for_review
+      - review_requested
+  pull_request_review:
+    types:
+      - submitted
+      - edited
+      - dismissed
+
+jobs:
+  require-one-review:
+    name: Check for required reviews
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: read
+      contents: read
+
+    steps:
+      - name: Check required reviews
+        id: check
+        uses: actions/github-script@v8
+        env:
+          ALLOWED_REVIEWERS: ${{ secrets.ALLOWED_REVIEWERS }}
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const reviewers = process.env.ALLOWED_REVIEWERS
+              ? process.env.ALLOWED_REVIEWERS.split(",").map(r => r.trim())
+              : [];
+            const pr = context.payload.pull_request;
+            const prAuthor = pr.user.login;
+
+            if (!reviewers.length) {
+              core.notice("⚠️ No reviewers defined in ALLOWED_REVIEWERS secret — skipping check.");
+              core.setOutput("status", "approved");
+              return;
+            }
+
+            // Skip Dependabot PRs
+            if (prAuthor === "dependabot[bot]") {
+              core.notice("🤖 Dependabot PR – skipping review requirement ✅");
+              core.setOutput("status", "approved");
+              return;
+            }
+
+            // Fetch all PR reviews
+            const { data: reviews } = await github.rest.pulls.listReviews({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: pr.number,
+            });
+
+            // Track latest review state per user
+            const latest = {};
+            for (const r of reviews) {
+              latest[r.user.login] = r.state;
+            }
+
+            // Collect approved reviewers who are in the allowed list
+            const approvers = reviewers.filter(u => latest[u] === "APPROVED");
+
+            const requiredApprovals = 2;
+            const approvalCount = approvers.length;
+
+            if (approvalCount >= requiredApprovals) {
+              core.notice(`✅ ${approvalCount} required reviewers approved: ${approvers.join(", ")}`);
+              core.setOutput("status", "approved");
+            } else {
+              const remaining = requiredApprovals - approvalCount;
+              core.notice(`🕒 Waiting for ${remaining} more approval(s) from: ${reviewers.join(", ")}`);
+              core.setOutput("status", "pending");
+            }
+
+      - name: Mark neutral status if waiting for approvals
+        if: steps.check.outputs.status == 'pending'
+        run: echo "⏸️ Nie ma jeszcze wystarczającej liczby przeglądów — status pozostanie neutralna."
+        continue-on-error: true

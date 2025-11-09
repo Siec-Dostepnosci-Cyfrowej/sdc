@@ -8,8 +8,6 @@ ostatnia_aktualizacja: 18 października 2025 r.
 opracowanie: Stefan Wajda
 ---
 
-# Stwórz swoje środowisko pracy z GitHub
-
 Aby wydajnie korzystać z Github, możesz skonfigurować sobie środowisko pracy na swoim komputerze.
 
 ## Czego potrzebujesz?

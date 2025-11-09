@@ -19,13 +19,11 @@ tags: [
 opracowanie: Stefan Wajda 
 data-zgloszenia: 12 czerwca 2025
 data-aktualizacji:  20 września 2025
-
+wersja_robocza: true
 ---
 
 
-# Okresowa ocena wiedzy. Opis praktyki
-
-# Metryczka
+## Metryczka
 
 - **Podmiot realizujący dobrą praktykę**: _Washington State University_
 - **Źródło**: [Digital Accessibility Assessment](https://wsu.edu/digital-accessibility/assessment/)

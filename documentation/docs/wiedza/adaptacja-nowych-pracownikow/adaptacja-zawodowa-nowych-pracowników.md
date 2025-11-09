@@ -22,9 +22,8 @@ opracowanie: Stefan Wajda
 data_zgloszenia: 25 czerwca 2025 r.
 data_aktualizacji:  18 sierpnia 2025
 status: utrwalona # projekt, wdrażana, utrwalona
+wersja_robocza: true
 ---
-
-# Adaptacja zawodowa nowych pracowników
 
 Adaptacja zawodowa nowych pracowników w UMWM w Warszawie trwa około 6 miesięcy. W planowanych działaniach adaptacyjnych uwzględniono poniższe działania służące przygotowaniu nowych pracowników do wypełniania obowiązków związanych z zapewnianiem dostępności:
 

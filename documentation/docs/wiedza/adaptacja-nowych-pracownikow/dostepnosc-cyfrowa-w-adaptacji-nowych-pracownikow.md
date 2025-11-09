@@ -19,8 +19,9 @@ tags: [
 opracowanie: Katarzyna Granda 
 wspolpraca: Stefan Wajda
 data_zgloszenia: 25 czerwca 2025 r.
-data_aktualizacji:  18 sierp nia 2025
+data_aktualizacji:  18 sierpnia 2025 r.
 status: projekt
+wersja_robocza: true
 ---
 
 ## Zalecenie

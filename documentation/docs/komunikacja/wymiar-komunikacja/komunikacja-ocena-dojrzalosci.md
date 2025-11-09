@@ -6,11 +6,9 @@ sidebar_position: 1
 opracowanie: Stefan Wajda
 data_zgloszenia: 16 czerwca 2025 r.
 ostatnia_aktualizacja: 24 września 2025 r.
-
+wersja_robocza: true
 ---
 
-
-# Komunikacja - ocena dojrzałości
 
 ## Jak ocenić poziom dojrzałości w wymiarze Komunikacja
 

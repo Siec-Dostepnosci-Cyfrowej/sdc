@@ -9,8 +9,6 @@ ostatnia_aktualizacja: 18 października 2025 r.
 opracowanie: Stefan Wajda
 ---
 
-# Wprowadzenie do Git i Github 
-
 **Git** i **Github** to niezwykłe narzedzia programistów do pracy nad projektami. Służą głównie do pracy nad kodem, ale można je wykorzystać do pracy nad dokumentami, które chcemy publikować w Sieci. I jest to równie łatwe, jak na platformie Google Docs czy podobnej, a może nawet łatwiejsze.
 
 **Git** to system kontroli wersji, czyli oprogramowanie, które pozwala programistom śledzić zmiany w kodzie źródłowym. 

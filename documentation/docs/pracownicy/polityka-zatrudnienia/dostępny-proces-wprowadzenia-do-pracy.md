@@ -15,10 +15,8 @@ wprowadzanie do pracy
 opracowanie: Anna Grzechnik-Wołosiuk
 data_zgloszenia: 18 sierpnia 2025 r.
 ostatnia_aktualizacja: 18 sierpnia 2025 r.
-status: projekt
+wersja_robocza: true
 ---
-
-# Dostępny cyfrowo proces wprowadzenia do pracy  
 
 ## Zalecenie
 

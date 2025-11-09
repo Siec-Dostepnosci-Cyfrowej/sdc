@@ -4,9 +4,10 @@ title: Jak zrealizować cel Sieci
 sidebar_label: Jak zrealizować cel SDC
 sidebar_position: 1
 opracowanie: Stefan Wajda
----
 
-# Jak zrealizować cel Sieci
+data_zgloszenia: 17 czerwca 2025 r.
+ostatnia_aktualizacja: 24 września 2025 r.
+---
 
 Postanowiłem napisać ten krótki „poradnik” po dzisiejszym, IV spotkaniu Sieci, aby rozwiać nieco wrażenie (eufemistycznie mówiąc), jakie mogło wywołać moje przedstawienie wyobrażenia efektywnej organizacji pracy Sieci. Spróbuję powiedzieć to samo, ale nieco inaczej.
 

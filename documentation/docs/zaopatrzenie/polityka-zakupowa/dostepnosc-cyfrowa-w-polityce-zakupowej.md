@@ -17,10 +17,10 @@ data_zgloszenia: 14 lipca 2025 r.
 ostatnia_aktualizacja: 1 lipca 2025,
 opracowanie: [Anna Czekalska, Stefan Wajda]
 wspolpraca: [Jadwiga Kost, Joanna Nietupska]
-status: projekt
+wersja_robocza: true
 ---
 
-# Dostepność cyfrowa w polityce zakupowej
+
 
 :::warning Uwaga
 

@@ -9,8 +9,6 @@ ostatnia_aktualizacja: 18 października 2025 r.
 opracowanie: Stefan Wajda
 ---
 
-# Utwórz konto na platformie GitHub 
-
 Aby współpracować z Siecią na Githubie, jest Ci potrzebne konto na Github, kopia repozytorium Sieci na swoim koncie i zaproszenia do zespołu SDC. Możesz także skonfigurować sobie [środowisko pracy z Github na swoim komputerze](srodowisko-pracy-z-gitgub). 
 
 ## Utworzenie konta

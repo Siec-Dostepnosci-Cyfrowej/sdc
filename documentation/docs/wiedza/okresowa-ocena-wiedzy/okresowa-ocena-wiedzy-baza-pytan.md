@@ -17,8 +17,9 @@ tags: [
 		pracownicy
 ]
 opracowanie: Stefan Wajda 
-data-zgloszenia: 12 czerwca 2025
-data-aktualizacji:  20 września 2025
+data-zgloszenia: 12 czerwca 2025 r.
+data-aktualizacji:  20 września 2025 r.
+wersja_robocza: true
 ---
 
 # Baza pytań

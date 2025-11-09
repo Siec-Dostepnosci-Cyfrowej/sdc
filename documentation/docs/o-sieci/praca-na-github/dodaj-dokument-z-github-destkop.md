@@ -9,9 +9,6 @@ ostatnia_aktualizacja: 18 października 2025 r.
 opracowanie: Stefan Wajda
 ---
 
-
-# Dodaj dokument z Github Destkop
-
 :::info Wskazówka
 Ten poradnik objaśnia, jak dodać swój projekt zalecenia, rozwiązania lub opis praktyki w środowisku **Github Destkop**.
 

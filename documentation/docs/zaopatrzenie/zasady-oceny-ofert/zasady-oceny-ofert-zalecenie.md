@@ -13,18 +13,10 @@ tags: [
 		zaopatrzenie,
 ]
 opracowanie: Stefan Wajda
-data_zgloszenia: 12 czerwca 2025
-data_aktualizacji:  20 września 2025
-status: projekt
+data_zgloszenia: 12 czerwca 2025 r.
+data_aktualizacji:  20 września 2025 r.
+wersja_robocza: true
 ---
-
-# Ocena dostępności cyfrowej deklarowanej w ofertach
-
-:::warning Uwaga
-
-Jest to dokument roboczy, który w dowolnym momencie może zostać zaktualizowany, zastąpiony lub usunięty przez inne dokumenty. Nie należy traktować tego dokumentu jako czegoś innego niż dokument w trakcie opracowywania.
-
-:::
 
 ## Zalecenie
 

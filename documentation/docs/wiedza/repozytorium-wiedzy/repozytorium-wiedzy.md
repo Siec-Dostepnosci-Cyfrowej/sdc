@@ -13,12 +13,10 @@ tagss: [
 		repozytorium wiedzy,
 ]
 opracowanie: Jacek Zadrożny 
-data_zgloszenia: 12 czerwca 2025
-data_aktualizacji:  20 września 2025
-status: projekt
+data_zgloszenia: 12 czerwca 2025 r.
+data_aktualizacji:  20 września 2025 r.
+wersja_robocza: true
 ---
-
-# Utworzenie repozytorium wiedzy o&nbsp;cyfrowej dostępności
 
 ## Zalecenie
 Minister właściwy do spraw informatyzacji powinien utworzyć repozytorium wiedzy na temat cyfrowej dostępności. Repozytorium powinno być dostępne dla wszystkich, w tym do wykorzystania przez boty internetowe i narzędzia oparte o sztuczną inteligencję. Repozytorium powinno zawierać informacje pozwalające na jednoznaczne interpretowanie wytycznych dotyczących dostępności, w tym przede wszystkim \[WCAG\]

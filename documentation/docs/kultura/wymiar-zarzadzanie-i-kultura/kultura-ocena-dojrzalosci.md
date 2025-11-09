@@ -6,10 +6,8 @@ sidebar_position: 1
 opracowanie: Stefan Wajda
 data_zgloszenia: 28 lipca 2025 r.
 ostatnia_aktualizacja: 24 września 2025 r.
-
+wersja_robocza: true
 ---
-
-# Zarządzanie i kultura - ocena dojrzałości
 
 Aby wykazać dojrzałość kulturową w zakresie dostępności, wszystkie aspekty działania [organizacji](../../terms/organizacja), procesy i umiejętności powinny uwzględniać kwestie integracji osób z&nbsp;niepełnosprawnościami. Każdy w organizacji powinien rozumieć i&nbsp;być wrażliwy na znaczenie dostępności cyfrowej, w tym na swoją osobistą rolę i obowiązki w&nbsp;osiąganiu celów organizacji w&nbsp;zakresie dostępności. Dostępność powinna być integralną częścią różnorodności i&nbsp;integracji w organizacji, z&nbsp;wyraźnym uznaniem korzyści płynących z&nbsp;integracji osób z niepełnosprawnościami oraz wpływu dostępności cyfrowej na osoby z&nbsp;niepełnosprawnościami w celu ułatwienia dostępu do miejsc pracy, usług i&nbsp;innych aspektów życia.
 

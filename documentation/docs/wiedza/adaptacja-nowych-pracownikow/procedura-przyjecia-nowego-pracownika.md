@@ -23,6 +23,7 @@ wspolpraca: Stefan Wajda
 data_zgloszenia: 25 czerwca 2025 r.
 data_aktualizacji:  18 sierpnia 2025
 status: utrwalona # projekt, wdrażana, utrwalona
+wersja_robocza: true
 ---
 
 

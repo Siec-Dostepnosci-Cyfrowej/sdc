@@ -19,10 +19,8 @@ tags: [
 opracowanie: Anna Czekalska
 data_zgloszenia: 21 października 2025 r.
 ostatnia_aktualizacja: 21 października 2025 r.
-status: projekt
+wersja_robocza: true
 ---
-
-# Wskazówki do opracowania preambuły polityki dostępności
 
 :::note Uwaga
 

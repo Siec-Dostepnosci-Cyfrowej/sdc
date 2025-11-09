@@ -13,7 +13,7 @@ opracowanie: Anna Dybiec
 wspolpraca: Anna Bizub-Jechna
 data_zgloszenia: 6 sierpnia 2025 r.
 ostatnia_aktualizacja: 24 września 2025 r.
-status: projekt
+wersja_robocza: true
 ---
 
 ## Zalecenie

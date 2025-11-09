@@ -4,24 +4,13 @@ title: Ustanowienie polityki dostępności cyfrowej
 sidebar_label: Ustanowienie polityki
 sidebar_position: 1
 description: Kierownictwo organizacji powinno ustanowić politykę zapewniania dostępności cyfrowej
-keywords: [
-        polityka dostępności,
-        dostępność cyfrowa,
-        kultura organziacyjna,
-		zarządzanie,
-]
-tags: [
-        polityka dostępności,
-        dostępność cyfrowa,
-        kultura organziacyjna,
-		zarządzanie,
-]
+keywords: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie]
+tags: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie]
 opracowanie: Anna Czekalska, Stefan Wajda 
 wspolpraca: Jadwiga Kost, Joanna Nietupska  
 data_zgloszenia: 14 lipca 2025 r.
 ostatnia_aktualizacja: 24 września 2025 r.
-status: projekt
-
+wersja_robocza: true
 ---
 
 

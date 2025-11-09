@@ -9,8 +9,6 @@ data_zgloszenia: 19 października 2025 r.
 data_aktualizacji: 19 października 2025 r.
 ---
 
-# Dodaj dokument bezpośrednio na Github
-
 :::info Wskazówka
 
 Ten poradnik objaśnia, jak dodać swój projekt zalecenia, rozwiązania lub opis praktyki **z kopii repozytorium Sieci na swoim koncie Github**.
@@ -125,7 +123,8 @@ Aby dodać nowy dokument do tego katalogu
    ![Położenie przycisku Prześlij zmiany](./img/09-dodaj-z-repo-commit-changes.png)  
 
 ## Utwórz pull request
-System przeniesie Cię na stronę główną repozytorium.
+
+Przejdź na stronę główną repozytorium.
 
 1. W obszarze terści głównej pojawi się komunikat o <q>komicie</q> oraz przycisk  **<span lang="en">Compare &amp; pull request</span>** (Porównaj i wyślij żądanie). Wybierz to polecenie:<br/><br/>  
    ![Położenie przycisku Prześlij zmiany](./img/10-dodaj-z-repo-compare-and-pull-request.png)<br/><br/> 

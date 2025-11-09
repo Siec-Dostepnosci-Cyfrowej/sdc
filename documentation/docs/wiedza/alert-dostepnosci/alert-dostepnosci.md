@@ -15,10 +15,8 @@ zalecenie
 opracowanie: Artur Marcinkowski
 data_zgloszenia: 19 września 2025 r.
 ostatnia_aktualizacja: 19 września 2025 r.
+wersja_robocza: true
 ---
-
-
-# Przycisk „Alert dostępności”
 
 ## Zalecenie
 

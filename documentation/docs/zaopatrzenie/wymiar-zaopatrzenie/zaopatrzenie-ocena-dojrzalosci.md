@@ -6,10 +6,8 @@ sidebar_position: 1
 opracowanie: Stefan Wajda
 data_zgloszenia: 28 lipca 2025 r.
 ostatnia_aktualizacja: 24 września 2025 r.
-
+wersja_robocza: true
 ---
-
-# Zaopatrzenie - ocena dojrzałości
 
 ## Jak ocenić poziom dojrzałości organizacji w wymiarze _Zaopatrzenie_
 

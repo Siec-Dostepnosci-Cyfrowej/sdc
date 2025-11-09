@@ -19,10 +19,8 @@ obsługa osób z niepełnosprawnością
 opracowanie: Mateusz Ciborowski
 data_zgloszenia: 18 sierpnia 2025 r.
 ostatnia_aktualizacja: 18 sierpnia 2025 r.
-
+wersja_robocza: true
 ---
-
-# Rekomendowane szkolenia pracowników odpowiedzialnych za wsparcie 
 
 ## 1\. Świadomość niepełnosprawności i inkluzywna etykieta
 

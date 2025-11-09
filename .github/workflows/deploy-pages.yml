@@ -1,0 +1,50 @@
+name: Deploy main site to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+permissions:
+  contents: read        # Read repository files
+  pages: write          # Publish to GitHub Pages
+  id-token: write       # Required for GitHub Pages deployments
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 25
+          cache: npm
+          cache-dependency-path: documentation/package-lock.json
+
+      - name: Install dependencies
+        run: npm install -f
+        working-directory: documentation
+
+      - name: Build Docusaurus site
+        run: npm run build --if-present
+        working-directory: documentation
+
+      - name: Upload static site artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: documentation/build
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -21,6 +21,7 @@ tags: [
 translation: Stefan Wajda
 data_zgloszenia: 14 lipca 2025 r.
 ostatnia_aktualizacja: 24 września 2025 r.
+wersja_robocza: true
 ---
 
 

@@ -6,16 +6,8 @@ sidebar_position: 0
 opracowanie: Stefan Wajda
 data_zgloszenia: 28 lipca 2025 r.
 ostatnia_aktualizacja: 24 września 2025 r.
-
+wersja_robocza: true
 ---
-
-# O wymiarze Wiedza i umiejętności
-
-:::tip Dokument roboczy
-
-**Nie wahaj się proponować zmian**. Możesz komentować, uzupełniać, redagować każdy fragment dokumentu.
-
-:::
 
 ## Opis wymiaru
 
