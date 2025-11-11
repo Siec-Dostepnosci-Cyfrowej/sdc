@@ -1,0 +1,133 @@
+# Wzór: „Alert dostępności” — prosty formularz zgłaszania problemów z dostępnością
+
+Poniższy kod HTML można umieścić w stopce lub w bloku HTML na każdej stronie serwisu publicznego.  
+Formularz rozwija się po kliknięciu przycisku i umożliwia anonimowe lub formalne zgłoszenie problemu z dostępnością.
+
+---
+
+## Kod formularza (do wklejenia w CMS)
+
+```html
+<section aria-labelledby="alert-heading" class="alert-dostepnosci">
+  <button id="alert-toggle" class="alert-toggle" aria-expanded="false" aria-controls="alert-panel">
+    💬 Zgłoś problem z dostępnością
+  </button>
+
+  <div id="alert-panel" hidden>
+    <h2 id="alert-heading">Zgłoś problem z dostępnością</h2>
+    <p>Formularz umożliwia przesłanie informacji o niedostępnych elementach lub funkcjach strony.  
+    Możesz to zrobić anonimowo lub formalnie – w ramach żądania zapewnienia dostępności.</p>
+
+    <form id="alert-form" action="/sciezka-do-obslugi-zgloszenia" method="post">
+      <fieldset>
+        <legend>Rodzaj zgłoszenia</legend>
+        <label>
+          <input type="radio" name="typ" value="anonimowe" checked>
+          Anonimowe zgłoszenie problemu
+        </label><br>
+        <label>
+          <input type="radio" name="typ" value="formalne">
+          Formalne żądanie zapewnienia dostępności
+        </label>
+      </fieldset>
+
+      <label for="opis-problemu">Opis napotkanego problemu (wymagane):</label>
+      <textarea id="opis-problemu" name="opis" rows="5" required></textarea>
+
+      <label for="adres-strony">Adres podstrony, na której wystąpił problem (opcjonalnie):</label>
+      <input type="url" id="adres-strony" name="adres-url" placeholder="https://...">
+
+      <label for="email">Adres e-mail (opcjonalny):</label>
+      <input type="email" id="email" name="email" placeholder="nazwa@domena.pl">
+
+      <p class="small">
+        Dane osobowe są przetwarzane wyłącznie w celu obsługi zgłoszenia.  
+        Administratorem danych jest [nazwa podmiotu publicznego].  
+        Więcej informacji znajdziesz w <a href="/polityka-prywatnosci">Polityce prywatności</a>.
+      </p>
+
+      <button type="submit">Wyślij zgłoszenie</button>
+    </form>
+  </div>
+</section>
+
+<script>
+  // Prosty skrypt rozwijania i zwijania panelu
+  const btn = document.getElementById('alert-toggle');
+  const panel = document.getElementById('alert-panel');
+  btn.addEventListener('click', function() {
+    const expanded = this.getAttribute('aria-expanded') === 'true';
+    this.setAttribute('aria-expanded', !expanded);
+    panel.hidden = expanded;
+  });
+</script>
+
+<style>
+.alert-dostepnosci {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  z-index: 1000;
+  font-family: system-ui, sans-serif;
+  max-width: 350px;
+}
+
+.alert-toggle {
+  background-color: #005ea5;
+  color: #fff;
+  border: none;
+  border-radius: .5rem;
+  padding: .7rem 1rem;
+  width: 100%;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.alert-toggle:hover,
+.alert-toggle:focus {
+  background-color: #004b84;
+  outline: none;
+}
+
+#alert-panel {
+  background: #fff;
+  border: 2px solid #005ea5;
+  border-radius: 1rem;
+  padding: 1rem;
+  margin-top: .5rem;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+}
+
+#alert-form label {
+  display: block;
+  margin-top: .8rem;
+}
+
+#alert-form textarea,
+#alert-form input {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+#alert-form button {
+  margin-top: 1rem;
+  width: 100%;
+  background: #00703c;
+  color: #fff;
+  border: none;
+  border-radius: .5rem;
+  padding: .7rem;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+#alert-form button:hover,
+#alert-form button:focus {
+  background: #004f2a;
+}
+
+.small {
+  font-size: 0.8rem;
+  color: #444;
+}
+</style>
