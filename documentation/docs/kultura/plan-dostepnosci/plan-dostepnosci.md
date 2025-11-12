@@ -49,7 +49,7 @@ W zakresie dostępności cyfrowej Plan działania na rzecz poprawy zapewniania d
 ## Podstawa prawna
 
 - [Art. 4 pkt. 2 ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami z dnia 19 lipca 2019 r. (Dz. U. 2019, poz. 1696)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001696)
-- Art. 14 pkt. 2 ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami z dnia 19 lipca 2019 r. (Dz. U. 2019, poz. 1696)
+- [Art. 14 pkt. 2 ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami z dnia 19 lipca 2019 r. (Dz. U. 2019, poz. 1696)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001696)
 - Art. 14 pkt. 3 ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami z dnia 19 lipca 2019 r. (Dz. U. 2019, poz. 1696)
 - Art. 14 pkt. 5 ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami z dnia 19 lipca 2019 r. (Dz. U. 2019, poz. 1696)
 
