@@ -2,7 +2,7 @@
 id: organizacja-pracy-sieci
 title: Organizacja pracy Sieci. Rola uczestnika Sieci, zespołów i całej Sieci
 sidebar_label: Rola uczestnika, zespołów i całej Sieci
-sidebar_position: 4
+sidebar_position: 2
 opracowanie: Stefan Wajda
 
 data_zgloszenia: 21 lipca 2025 r.

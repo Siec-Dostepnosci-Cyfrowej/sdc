@@ -3,259 +3,240 @@ id: formowanie-zalecen
 title: Formowanie zaleceń
 description: Definiuje i opisuje strukturę zalecenia jako jednego z podstawowych dokumentów Sieci 
 sidebar_label: Formowanie zaleceń
-sidebar_position: 6
-
+sidebar_position: 4
+keywords: [dokumenty Sieci, formy dokumentów, zasady formowania dokumentów]
 opracowanie: Stefan Wajda
 data_zgloszenia: 28 lipca 2025 r.
 ostatnia_aktualizacja: 24 września 2025 r.
 wersja_robocza: true
 ---
 
+# Formowanie zaleceń Sieci Dostępności Cyfrowej
 
-## Zalecenie jako dokument Sieci 
+## 1. Cel opracowania
 
-Jednym z trzech głównych zadań Sieci jest „wypracowanie zaleceń i rekomendacji wdrażania dostępności cyfrowej, które określą sposób wdrażania dostępności cyfrowej w podmiotach publicznych”. Według wniosku projektowego ma to być być 
+Celem niniejszego opracowania jest przedstawienie zasad, struktury i dobrych praktyk **formowania projektów zaleceń** przez uczestników Sieci Dostępności Cyfrowej.  
+Wypracowane przez zespoły projekty zaleceń stanowić będą podstawę do opracowania i wydania **zaleceń Ministra Cyfryzacji** lub **Ministerstwa Cyfryzacji** w zakresie wdrażania dostępności cyfrowej w podmiotach publicznych.
 
-> dokument, który określi, jak wdrażać dostępność cyfrową w podmiotach publicznych oraz wskaże ramy działalności instytucji odpowiedzialnej za nadzór nad dostępnością cyfrową w Polsce. Dokument będzie też uwzględniać podstawy prawne dostępności cyfrowej i, jeśli zostaną zidentyfikowane, potrzeby zmian.
+Dokument ma zapewnić **spójność, klarowność i porównywalność** wszystkich projektów opracowywanych przez zespoły tematyczne Sieci.
 
-Celem tego opracowania jest określenie spójnych zasad i struktury formowania przez uczestników Sieci projektów zaleceń, które instytucja odpowiedzialna za nadzór nad dostępnością cyfrową w Polsce skieruje do podmiotów publicznych.  
-
-## Robocza definicja zalecenia
-
-W oparciu o efekty dotychczasowej pracy Sieci i przedstawione wcześniej propozycje można przyjąć następującą **roboczą** definicję terminu **zalecenie**:
-
-:::info Definicja terminu
-
-**zalecenie**: wystąpienie o charakterze służbowym adresowane do organizacji, podstawowa forma dokumentu Sieci. 
-
-Zalecenie opisuje zwięźle zamierzony stan lub rezultat dotyczący dojrzałości organizacji do zapewniania dostępności cyfrowej oraz wskazuje, co jest konieczne lub korzystne, aby organizacja skutecznie realizowała cel polityki zapewniania dostępności cyfrowej, którego dotyczy zalecenie. Zalecenie proponuje wdrożenie w organizacji pewnego planu działania – polityki, procedury, reguły (przepisu wewnętrznego) – który prowadzi do osiągnięcia i utrzymania przez organizację zdolności efektywnego wypełniania jej misji i celów strategicznych w zakresie dostępności cyfrowej. 
-
-Zalecenie nie ma mocy wiążącej -- jest wskazówką, sugestią, instrukcją, proponowanym podejściem do zarządzania konkretnym aspektem zapewniania dostępności cyfrowej.
-
-:::
-
-Ta definicja może być  modyfikowana, rozszerzana, zawężona, uściślona. Nie jest to ostateczna wersja definicji.
-
-## Struktura zalecenia
-
-Podstawową strukturę zalecenia tworzą poniższe części:
-
-- metryczka (metadane)
-- zalecenie
-- rekomendacje
-- uzasadnienie
-- podstawa prawa
-- źródła i opracowania
-- historia wersji
-
-### Metryczka (metadane)
-
-**Metryczka** zawiera zestaw podstawowych danych o dokumencie (metadanych), wykorzystywanych do jego identyfikacji i lokalizacji w repozytorium dokumentów Sieci i w przygotowaniu dokumentu do publikacji elektronicznej.
-
-Wsystkie metadane umieszczamy w przeznaczonej do tego celu części dokumentu, która w przypadku formatu *Markdown* nazywa się **Front Matter**. Aby dane były poprawnie interpretowane, ich format jest ściśle ustalony. Każda informacja składa się z pary elementów: nazwy i treści: `nazwa-danej: treść danej`. Nazwę danej od treści danej oddzielamy po dwukropku pojedynczą spacją. Znak dwukropka i znaki cala są znakami kluczowymi. Gdy musimy ich użyć w treści danej, całą treść danych należy ująć w znaki cala, a znaki cala (cudzysłowu) wewnątrz treści poprzedzić tzw. znakiem ucieczki, którym jest w *markdown* znaku lewego ukośnika: `\`, na przykład: `nazwa danej: "treść danej, w której mamy \"cytowny tytuł\"."` 
-
-Poniżej znajduje się zestawienie metadanych ze zwięzłym opisem ich roli:
-
-```md
 ---
-id: identyfikator-dokumentu # dokładnie taki sam, jak nazwa pliku z dokumentem, bez rozszerzenia. Powinien nazywać temat zalecenia
-title: Tytuł dokumentu. Staraj się ująć tytuł w kilku słowach. 
-description: Zwięzły opis - streszczenie dokumentu dla wyszukiwarek (do 150 znaków)
-sidebar_label: Etykieta wyświetlana w bocznym menu - skrócony tytuł (kilka słów)
-sidebar_position: 1  # określa pozycję w grupie dokumentów, gdy w kategorii umieszczonych jest więcej niż jeden dokument
-keywords: [fraza 1, fraza 2, fraza 3] # słowa kluczowe dla wyszukiwarek, umieszczane w nagłówku dokumentu HTML. Wszystkie ujmujemy w nawiasy kwadratowe i oddzielamy przecinkami.   
-tags: [fraza 1, fraza 2, fraza 3] # tagi, służą do dodatkowego kategoryzowania dokumentów. Powtarzamy tutaj słowa kluczowe   
-opracowanie: Imię i Nazwisko, Imię i Nazwisko...
-wspolpraca: Imię i Nazwisko, Imie i Nazwisko... # Podajemy imiona i nazwiska osób, które szczególnie przyczyniły się do opracowania zalecenia swoimi uwagami, komentarzami, propozycjami poprawek
-data_zgloszenia: 28 lipca 2025 r. # zachowaj format, jak w przykładzie
-ostatnia_aktualizacja: 24 września 2025 r. # zachowaj format, jak w przykładzie
-wersja_robocza: true  # informacja dla systemu, by wyświetlił ostrzeżenie, że dokument jest projektem
+
+## 2. Rola zaleceń w pracach Sieci
+
+Jednym z głównych zadań Sieci jest:
+
+> „Wypracowanie zaleceń i rekomendacji wdrażania dostępności cyfrowej, które określą sposób wdrażania dostępności cyfrowej w podmiotach publicznych”.
+
+Zalecenia stanowią **podstawową formę dokumentu Sieci**, służącą przekazywaniu propozycji działań wspierających rozwój dojrzałości organizacyjnej w zakresie dostępności cyfrowej.  
+Każde zalecenie określa pożądany stan organizacji, wyjaśnia jego znaczenie oraz przedstawia środki, które pozwolą go osiągnąć.
+
 ---
-```
 
-### Oznaczanie części dokumentu
+## 3. Definicja zalecenia
 
-- **Tytuł dokumentu**: będzie generowany automatycznie z tytułu umieszczonego w metadanych. System oznaczy go jako nagłówek 1 stopnia.
-- **Główne części**: oznaczamy znakiem nagłówka 2 stopnia, np. `## Zalecenie`, `## Rekomendacje`
-- **Części głównych sekcji** oznaczamy znakami nagłówków niższego rzędu (każdy dodatkowy znak krzyżyka oznacza niższy poziom)
+:::info Definicja terminu Zalecenie
+**Zalecenie** to wystąpienie o charakterze służbowym adresowane do organizacji publicznych.  
+Opisuje pożądany rezultat lub stan w zakresie zapewniania dostępności cyfrowej oraz wskazuje działania, które są konieczne lub korzystne dla jego osiągnięcia.
 
-## Główne części dokumentu
-
-### Zalecenie
-Zalecenia są adresowane do organizacji. Najogólniej, definiują środki, które według formułującego zalecenie, służą osiągnięciu pożądanego stanu rzeczy – projektowanego w związku z nowymi celami lub obowiązkami organizacji albo, w przypadku zaleceń formułowanych np. w wyniku kontroli - służącego naprawie lub poprawie istniejącego stanu rzeczy.
-
-**Treść zalecenia** powinna przedstawiać zwięźle i jednoznacznie, jakie konkretne działanie jest zalecane, może wskazywać zarónmo cel, jak i rezultat zalecanego działania (często cel i rezultat są tożsame). 
-
-
-**Treść zalecenia** staramy się ująć **w jednym zdaniu oznajmującym**. 
-
-Treść zalecenia może być wyrażona więcej niż jednym zdaniem, gdy konieczne jest sprecyzowanie zakresu organizacji, których zalecenie dotyczy.
-
-Ponieważ zalecenia Sieci nie mają mocy wiążącej:
-
-> nie należy używać sformułowań wyrażających nakazowy lub zakazowy charakter ani struktur czy wyrażeń zbliżonych do tych stosowanych w aktach o charakterze wiążącym
->
-> -- Wspólny przewodnik praktyczny Parlamentu Europejskiej, Rady i Komisji przeznaczony dla osób redagujących akty prawne Unii Europejskiej, Unia Europejska 2015, pkt. 2.3.3, s. 12.
-
-Sekcję z treścią zalecenia tytułujemy słowem Zalecenie i oznaczamy, jako nagłówek 2. stopnia (`## Zalecenie`).
-
-#### Przedmiot zaleceń
-
-Przyjęta na początku tego opracowania definicja precyzuje, co może być przedmiotem zalecenia (co może być zalecane).
-Może to być opracowanie lub uzupełnienie i wdrożenie:
-
-- **polityki**, czyli trwale obowiązującego (ciągłego) planu dostarczającego generalnych wytycznych dotyczących działania w określonej sferze,
-- **procedury**, czyli trwale obowiązującego (ciągłego) planu, który określa, w jaki sposób mają być wykonywane powtarzające się zadania, wyszczególniającego te zadania, konieczne kroki i porządek, którego należy się trzymać,
-- **reguły i przepisy**, czyli trwale obowiązujące (ciągłe) plany, które w sposób najbardziej konkretny określają konieczny, wymagany przebieg działania,
-- **planu operacyjnego**, czyli jednorazowego planu, który może być powtarzany (po wprowadzeniu zmian dotyczących terminów, odpowiedzialnych osób, zakresu) określającego szczegółowo, jak osiągnąć krótkoterminowe cele organizacji poprzez rozpisanie konkretnych zadań, harmonogramów, przypisanie odpowiedzialności i alokację zasobów (ludzkich, technicznych).
-
-
-#### Adresaci zaleceń
-
-Zalecenia są formą wystąpienia służbowego. Zalecenia opracowane przez Sieć będą kierowane głównie do podmiotów publicznych, które mają prawny obowiązek zapewniania dostępności swoich rozwiązań cyfrowych. Ale mogą być także kierowane np. do ministra cyfryzacji. Generalnie, zalecenia są adresowane do organizacji i kadry zarządzającej.
-
-#### Stosowanie prostego języka
-
-Podczas spotkań Sieci kilkukrotnie formułowano dość oczywisty postulat stosowania w dokumentach Sieci prostego języka. Oczywisty, bo zalecenia, podobnie jak wszystkie akty prawne w Unii Europejskiej, a więc i w Polsce, muszą być:
-
-- jasne, zrozumiałe i jednoznaczne,
-- proste i zwięzłe, bez niepotrzebnych elementów,
-- precyzyjne, niepozostawiające u odbiorcy wątpliwości (Wspólny przewodnik praktyczny Parlamentu Europejskiego, Rady i Komisji przeznaczony dla osób redagujących akty prawne Unii Europejskiej, Unia Europejska 2015, pkt 1.1, s. 10;).
-
-Zasady prostego języka są zbieżne, ale nie są tożsame z tymi dyrektywami. Prosty język **stosuje się najszerzej** w tekstach **przeznaczonych dla ogółu społeczeństwa**. Zalecenia są dokumentami kierowanymi głównie do kadry zarządzającej podmiotów publicznych, a nie do ogółu społeczeństwa.
-
-Pogodzenie wymogów prostoty i precyzji może być czasem trudne. Prosty język wśród podstawowych zasad zakłada dostosowanie wypowiedzi do potrzeb i kompetencji językowych odbiorcy:
-
-> Konstruuj więc tekst z myślą o odbiorcy, ze świadomością jego potrzeb i kompetencji językowych. Jeżeli piszesz wytyczne dla inspektorów budowlanych, język techniczny będzie jak najbardziej na miejscu. Prostota Twojego pisma będzie się wyrażać przede wszystkim w sposobie uporządkowania informacji. 
->
-> -- Komunikacja pisemna. Rekomendacje. Kancelaria Prezesa Rady Ministrów. Warszawa 2017, s. 10;.
-
-Prostotę osiąga się często kosztem precyzji i odwrotnie. Wszędzie, gdzie to jest możliwe, staramy się stosować zasady prostego języka tak, aby nie utracić precyzji, nie zubażać przekazu, nie zniekształcać znaczenia. Ale tam, gdzie jest to konieczne, korzystamy z odpowiedniej, precyzyjnej terminologii oraz bardziej złożonej składni.
-
-W niektórych sugestiach próbuje się zastąpić jedną z istotnych wskazówek prostego języka, by w miarę możliwości unikać form bezosobowych i starać się kierować tekst do jednej osoby, nawet jeśli dokument odnosi się do dużej grupy osób, **nakazem kierowania tekstu** bezpośrednio do odbiorcy **za pomocą form 2. osoby liczby pojedynczej w trybie rozkazującym** („Zrób…”, „Rozważ”, „Zapewnij”) 
-
-Jest to niewątpliwie bardzo dobra forma komunikowania się z odbiorcami poradników, instrukcji, wskazówek, także forma przyjęta już dość powszechnie w Polsce komunikowaniu się w Internecie oraz w kontaktach z konkretnymi osobami.
-
-Zalecenia i rekomendacje projektowane w Sieci odnoszą się i będą kierowane do organizacji, czasem mogą odnosić się do kierownika czy kierownictwa organizacji, rzadziej do określonych służb w organizacji. Używanie w tym kontekście form 2. osoby liczby pojedynczej i trybu rozkazującego nie jest właściwe i może być odbierane jako niestosowne.
-
-Zgłoszono również **zastrzeżenie do używania czasowników modalnych**, szczególnie czasownika „powinien”, który może powodować, że tekst jest nieprecyzyjny, niejednoznaczny.
-
-Aby uniknąć niejednoznaczności, a także zważywszy na to, że zalecenia nie mają mocy wiążącej, staramy się **unikać zdań o charakterze nakazowym, dyrektywnym**. Twórcy zaleceń mają do dyspozycji wiele czasowników, którymi można wyrazić treść zalecenia czy rekomendacji w przyjazny nienakazowy sposób, takich jak: „zalecamy…”, „radzimy…”, „polecamy…”, „proponujemy…”, „zachęcamy…”, „popieramy…”, „sugerujemy…” i innych.
-
-Podobny efekt można uzyskać także innym zabiegiem stylistycznym, formułując treść zaleceń zdaniami oznajmującymi w czasie teraźniejszym, np. „Organizacje ustanawiają…”, „Organizacje regulują…”, „Organizacje wdrażają…”, „Kierownictwo organizacji wprowadza…”, „Kierownictwo organizacji określa…” i podobne.
-
-Takie konstrukcje pozwalają także unikać stosowania form bezosobowych.
-
-#### Cechy dobrego zalecenia
-
-Zalecenia określają pewne cele do określenia. Podobnie jak jakość i użyteczność celów, tak jakość i użyteczność zaleceń można ocenić, posługując się poniższymi kryteriami opartymi na takich metodach jak SMART czy SMARTER:
-
-- **sprecyzowane** (konkretne, od ang. **S**pecific): każde zalecenie powinno dotyczyć tylko jednego konkretnego zagadnienia; może być uszczegółowione rekomendacjami konkretnych działań, ale powinny one być jasno określone,
-- **mierzalne (od ang. M**easurable**): organizacja powinna być w stanie jednoznacznie ocenić, czy zalecenie zostało wdrożone i w jakim stopniu,**
-- **wykonalne** (od ang. **A**chievable): stan określony w zaleceniu powinien być osiągalny,
-- **zorientowane na wynik** (od ang. **_R_**esult oriented): sugerowane działanie powinno prowadzić do osiągnięcia konkretnego rezultatu lub stanu rzeczy; inne ujęcie: istotne (od ang. Relevant) – zalecenie powinno być ważne i zgodne z naszymi priorytetami
-- **ograniczone czasowo** (od ang. **T**ime-based): zalecenie powinno mieć określony czas lub moment, w jakim ma być wykonane,
-- **oceniane** (od ang. **E**valuate): postępy w realizacji zalecenia powinny być regularnie ocenianie i dostosowywane do zmieniających się okoliczności,
-- **korygowane** (od ang. **R**eviewed): poddawane okresowym przeglądom i, jeśli konieczne, dostosowywane do nowych celów lub priorytetów,
-- **dobrze uzasadnione** (od ang. **A**rgued): zalecenia powinny być uzasadnione przyczynami aktualnego stanu zapewniania dostępności i dowodami skuteczności sugerowanych działań.
-
-### Rekomendacje
-
-#### Treść rekomendacji
-Słowa „zalecenie” i „rekomendacja” w języku polskim to wyrazy bliskoznaczne. Ale:
-
-- **zalecenie** jest pojęciem bardziej ogólnym, służącym do przekazania informacji o tym, co należy zrobić,
-- **rekomendacja** jest pojęciem bardziej szczegółowym, służącym do wskazania najlepszego lub proponowanego sposobu, zwrócenia uwagi na istotne aspekty działania lub walory polecanego sposobu czy polecanego (rekomendowanego) wykonawcy, pracownika, lekarza, itp.
-
-Tę różnicę znaczeniową wykorzystujemy w formowaniu naszych projektów zaleceń i rekomendacji. 
-
-Opierając się na tych konotacjach (skojarzenia, wyobrażenia i uczucia, jakie słowo wywołuje u użytkowników języka) przyjęliśmy, że **rekomendacje** w dokumentach Sieci będą **częścią zaleceń**, która opisuje szczegółowiej, **jak optymalnie zrealizować zalecenie lub jego część**. W Słowniku pojęć zdefiniowaliśmy rekomendację następująco:
-
-:::info Definicja terminu
-
-**rekomendacja**: sugestia, propozycja zastosowania określonego sposobu działania lub uwzględnienia albo rozważenia określonych aspektów działania, opisujące szczegółowiej, w jaki sposób optymalnie można dane zalecenie lub jego część zrealizować. Może wskazywać na polecane sprawdzone rozwiązanie, dobrą praktykę lub kilka dobrych praktyk jako sposoby skutecznego wdrożenia zalecenia.
-
+Zalecenie ma charakter **niewiążący** – pełni funkcję **wskazówki, propozycji lub instrukcji dobrego działania**.  
+Jego celem jest inspirowanie, porządkowanie i wspieranie rozwoju praktyk zapewniania dostępności cyfrowej w podmiotach publicznych.
 :::
+---
 
-Zgodnie z tą definicją, rekomendacje mogą wyrażać lub wskazywać:
+## 4. Zalecenia i dezyderaty
 
-- elementy lub działania istotne lub wymagane w zalecanym planie operacyjnym,
-- sugestie dotyczące sposobów opracowania i wdrażania zalecanego planu,
-- czynniki, które należy uwzględnić w trakcie opracowywania i realizacji planu,
-- polecane rozwiązania lub dobre praktyki,
-- sposoby monitoringu i ewaluacji,
-- inne wskazówki, np. dotyczące publikacji planu.
+Zalecenia Sieci mogą być kierowane do różnych adresatów:
 
-#### Forma rekomendacji
+- **do podmiotów publicznych** – w celu usprawnienia ich procesów, procedur i praktyk zapewniania dostępności cyfrowej,  
+- **do Ministra Cyfryzacji** lub innych organów administracji rządowej – w celu zgłoszenia potrzeby podjęcia działań systemowych, zmian legislacyjnych, opracowania wytycznych lub narzędzi wsparcia.
 
-Rekomendacje poprzedzamy nagłówkiem 2 w brzmieniu `## Rekomendacje`.
+W tym drugim przypadku zalecenia kierowane **do Ministra Cyfryzacji lub innych organów naczelnych** określamy mianem **dezyderatów**.
 
-Wszystkie rekomendacje prezentujemy w formie listy numerowanej – **jednostopniowej** lub **wielostopniowej**. Unikamy stosowania rozbudowanych list wielopoziomowych. Zwykle powinny wystarczyć dwa, maksymalnie trzy poziomy.   
+:::info Definicja terminu  Dezyderat
+**Dezyderat** to zalecenie o charakterze postulatywnym, zawierające propozycję działań, które powinny zostać rozważone lub podjęte na poziomie centralnym (np. przez ministra, urząd, agencję rządową).  
 
-Elementy listy, zależnie od ich charakteru, ujmujemy w formę zdania, równoważnika zdania lub zawiadomienia. Przed wyliczeniem używamy zdania wprowadzającego, aby wyjaśnić listę. W listach wielostopniowych rolę zdania wprowadzającego dla listy podrzędnej spełnia punkt nadrzędny.
+Dezyderaty formułuje się w sposób szczególnie staranny, z zachowaniem urzędowego stylu, precyzyjnych odniesień i argumentacji.
+:::
+---
 
-### Uzasadnienie
+## 5. Struktura zalecenia
 
-Zalecenia muszą zawierać uzasadnienie. W uzasadnieniu przedstawiamy **kluczowe motywy** przemawiające za wydaniem zalecenia i wdrożeniem go w organizacji. Celem uzasadnienia jest wyjaśnienie, dlaczego zalecenie zostało zdefiniowane oraz przedstawienie znaczenia i korzyści, jakie ma wdrożenie zalecenia dla skutecznego wdrażania dostępności cyfrowej.
+Każde zalecenie powinno mieć wspólną strukturę, obejmującą:
 
-Na optymalny schemat motywu składają się:
+1. **Zalecenie** – zwięzłe określenie proponowanego działania (1–2 zdania).  
+2. **Rekomendacje** – opis najlepszych sposobów realizacji zalecenia, wariantów, ryzyk i możliwości rozszerzenia.  
+3. **Uzasadnienie** – wskazanie motywów i korzyści płynących z wdrożenia zalecenia.  
+4. **Podstawy prawne** – zestawienie przepisów i aktów prawnych powiązanych z tematem zalecenia.  
+5. **Źródła i opracowania** – wykaz publikacji, poradników, raportów i opracowań wykorzystanych przy tworzeniu zalecenia lub przydatnych przy jego wdrażaniu.  
+6. **Historia wersji** – informacje o etapach opracowania dokumentu.
 
-- przedstawienie warunku lub problemu skutecznego zarządzania zapewnianiem dostępności cyfrowej,
-- wniosek, iż z tego względu właściwe lub korzystne jest wdrożenie środków wskazanych w zaleceniu.
+---
 
-Każdy motyw powinien przedstawiać rzeczywisty powód lub istotny argument, który przemawia za wydaniem lub wdrożeniem zalecenia lub zawartych w nim rekomendacji.
+## 6. Zalecenie
 
-- Należy unikać uzasadnień będących w całości lub części odesłaniami do aktów prawnych lub konkretnych przepisów.
-- Nie trzeba uzasadniać osobno każdej rekomendacji zawartej w zaleceniu.
-- Każdy motyw ujmujemy w odrębnym akapicie.
+Treść zalecenia powinna:
 
-### Podstawy prawne
+- jasno i jednoznacznie określać, **co organizacja ma opracować lub wdrożyć** (np. politykę, procedurę, plan, strategię);
+- wskazywać cel i przewidywany rezultat;
+- być sformułowana w **jednym zdaniu oznajmującym** w czasie teraźniejszym;
+- unikać form nakazowych i modalnych („należy”, „powinno się”), zastępując je neutralnymi zwrotami:  
+  *„Organizacje wdrażają…”, „Kierownictwo ustala…”, „Jednostki opracowują…”*.
 
-W części „Podstawy prawne” wyliczamy akty prawne uwzględnione w opracowaniu zalecenia albo akty prawne, które powinni uwzględnić odbiorcy zalecenia.
+Zalecenie powinno dotyczyć jednego konkretnego zagadnienia, którego wdrożenie przyczynia się do poprawy zarządzania dostępnością cyfrową.
 
-Listę poprzedzamy nagłówkiem 2 w brzmieniu `## Podstawy prawne`.
+---
 
-#### Zdanie wprowadzające
+### Przedmiot zaleceń
 
-Proste przywołanie aktów prawnych, które uwzględniono przy opracowaniu zalecenia, może sugerować, że treść zalecenia jest wiążąca. Aby uniknąć takich interpretacji, listę uwzględnionych aktów prawnych poprzedzamy zdaniem: „W zaleceniu uwzględniono poniżej wymienione przepisy:”
+Przedmiotem zalecenia mogą być m.in.:
 
-#### Lista aktów prawnych
+- **Polityki** – dokumenty określające trwałe wytyczne działania w określonej sferze,  
+- **Procedury** – opisane sposoby wykonywania powtarzalnych zadań,  
+- **Reguły i przepisy** – szczegółowe instrukcje określające obowiązujący sposób działania,  
+- **Plany operacyjne** – dokumenty określające działania krótkoterminowe wraz z harmonogramem i odpowiedzialnościami.
 
-Używamy listy punktowanej. W każdym punkcie podajemy jeden przepis aktu prawnego, który został uwzględniony podczas opracowywania. Najpierw przywołujemy przepis, następnie nazwę aktu prawnego ewentualnie z dopiskiem „z późn. zmianami”, a na końcu w nawiasie miejsce publikacji np. „Art. 5 ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych z dnia 4 kwietnia 2019 r. z późn. zmianami (Dz. U. 2019, poz. 848)”.
+---
 
-### Źródła i opracowania
+### Adresaci zaleceń
 
-Do każdego zalecenia podajemy zestawienie opracowań przydatnych w realizacji zalecenia, w tym wykorzystanych źródeł.
+Zalecenia kierowane są głównie do:
 
-Wszystkie opracowania prezentujemy w formie numerowanej listy jednostopniowej. Kolejność na liście ustalamy raczej na podstawie wagi publikacji niż porządku alfabetycznego.
+- **podmiotów publicznych** objętych obowiązkiem zapewniania dostępności cyfrowej,  
+- **kierownictwa organizacji** odpowiedzialnego za planowanie i nadzór,  
+- w uzasadnionych przypadkach – do **Ministra Cyfryzacji** lub innych instytucji centralnych (w formie **dezyderatu**).
 
-Jeśli publikacja została przetłumaczona na język polski, na liście umieszczamy dane tłumaczenia.
+---
 
-Na opis każdego opracowania składa się:
+## 7. Styl i język
 
-- **nazwa autora**: osoba lub grupa osób, jeśli zostały podane jako autorzy; podajemy skrót imienia i nazwisko;
-- **tytuł publikacji**: zapisujemy kursywą; jeśli tytuł zawiera w sobie słowa obce, które normalnie zapisalibyśmy kursywą, zapisujemy je bez kursywy („odwracamy” rodzaj wyróżnienia); w tytułach publikacji w języku angielskim, wszystkie wyrazy poza spójnikami i przyimkami zapisujemy wielką literą;
-- **miejsce publikacji**: nazwa strony internetowej albo nazwa czasopisma (zarówno wydawnictw codziennych, jak i periodyków), albo nazwę organizacji, instytucji, partii, stowarzyszenia, itp.; gdy publikacja jest pracą zbiorową, sygnowaną nazwą organizacji i gdy wydawca nie podaje autora, a jedynie nazwy osób, które współtworzyły opracowanie podajemy w tym miejscu nazwę tej organizacji, a pole „autor” pozostawimy puste;
-- **data publikacji lub ostatniej aktualizacji**: podajemy przynajmniej rok, jeśli ustalenie daty jest możliwe; całą datę podajemy w formacie DD.MM.RRRR, a jeśli znany jest miesiąc i rok, miesiąc podajemy słownie, np. luty 2025
-- **ścieżka dostępu**: podajemy adres URL miejsca, w którym znajduje się publikacja; w przypadku wydawnictw naukowych, które generują numer DOI dla poszczególnych publikacji, zamiast łącza wklejamy numer DOI.
-- **data dostępu**: podajemy datę, kiedy korzystaliśmy z dostępu do treści, poprzedzoną słowem „dostęp:”.
+### 7.1. Zasada języka neutralnego
 
-W przypadku publikacji internetowych tytuł publikacji zamieniamy na łącze, a ścieżkę dostępu podajemy zwykłym tekstem, na przykład:
+Dokumenty Sieci, w tym zalecenia i dezyderaty, powinny być redagowane w **języku neutralnym** – to znaczy:
+
+- bez używania form nakazowych (trybu rozkazującego),  
+- bez zwrotów bezpośrednio adresowanych do pojedynczego odbiorcy („Zrób”, „Opracuj”, „Zadbaj”),  
+- z zachowaniem bezosobowego, rzeczowego i instytucjonalnego charakteru wypowiedzi.
+
+**Język neutralny** łączy prostotę z urzędową precyzją.  
+Nie oznacza potoczności ani stylu rozkazującego.  
+W kontekście zaleceń, które mają być potencjalnie firmowane przez **Ministra Cyfryzacji**, używanie drugiej osoby liczby pojedynczej („Zrób”, „Przygotuj”, „Opracuj”) byłoby niestosowne.  
+Właściwe są natomiast formy bezosobowe lub instytucjonalne:
+
+> „Organizacje opracowują…”, „Kierownictwo jednostki ustala…”, „Ministerstwo wspiera…”.
+
+Takie sformułowania są jednocześnie **neutralne, jednoznaczne i urzędowo poprawne**.
+
+---
+
+### 7.2. Prostota i precyzja
+
+Zalecenia powinny być:
+
+- **zwięzłe** i wolne od nadmiarowych opisów,  
+- **jednoznaczne**, tak by uniknąć różnych interpretacji,  
+- **spójne terminologicznie** z aktami prawnymi i dokumentami resortowymi,  
+- **czytelne** – w układzie logicznym, z wyraźnie oddzielonymi częściami.
+
+Prostota nie oznacza uproszczenia merytorycznego, lecz przejrzystość przekazu i logiczny porządek.  
+Tam, gdzie wymaga tego precyzja, dopuszczalne jest użycie terminologii technicznej lub prawniczej.
+
+---
+
+### 7.3. Cechy dobrego zalecenia
+
+Dobre zalecenie jest:
+
+- **konkretne** – dotyczy jednego zagadnienia,  
+- **mierzalne** – umożliwia ocenę stopnia wdrożenia,  
+- **realistyczne** – możliwe do osiągnięcia,  
+- **istotne** – odnosi się do kluczowych aspektów dostępności,  
+- **określone w czasie** – wskazuje moment wdrożenia lub przeglądu,  
+- **ocenialne i przeglądane** – poddawane regularnej ewaluacji,  
+- **uzasadnione** – oparte na danych, potrzebach lub wynikach analiz.
+
+---
+
+## 8. Rekomendacje
+
+Rekomendacje rozwijają i doprecyzowują zalecenie, wskazując, **jak najlepiej je wdrożyć**.
+
+W tej części można przedstawić:
+
+- elementy planu działań,  
+- sugerowane metody wdrożenia,  
+- czynniki ryzyka i ograniczenia,  
+- polecane rozwiązania i dobre praktyki,  
+- sposoby monitorowania efektów.
+
+Rekomendacje zapisujemy w formie **listy numerowanej**, zwykle jedno- lub dwupoziomowej, z krótkim wprowadzeniem objaśniającym jej cel.
+
+---
+
+## 9. Uzasadnienie
+
+W uzasadnieniu wyjaśniamy, **dlaczego dane zalecenie jest potrzebne** i **jakie przyniesie korzyści** organizacji.
+
+Struktura typowego motywu:
+
+1. Identyfikacja problemu lub potrzeby (np. brak procedur, niespójne praktyki).  
+2. Wniosek: wskazanie, że opracowanie i wdrożenie zalecanego rozwiązania pozwoli ten problem rozwiązać.
+
+W uzasadnieniu warto podkreślić wpływ zalecenia na:
+
+- skuteczność zarządzania dostępnością cyfrową,  
+- ograniczenie ryzyka,  
+- poprawę jakości usług publicznych,  
+- wzrost dojrzałości organizacyjnej.
+
+---
+
+## 10. Podstawy prawne
+
+W tej części wymieniamy **akty prawne i przepisy**, które były uwzględnione przy opracowywaniu zalecenia lub które odbiorcy powinni wziąć pod uwagę przy jego wdrażaniu.
+
+Listę poprzedza zdanie:
+
+> „W zaleceniu uwzględniono poniżej wymienione przepisy:”
+
+Każdą pozycję zapisujemy w postaci:
+
+> Art. [numer] [nazwa aktu prawnego] z dnia [data], z późn. zmianami (Dz. U. [rok], poz. [numer]).
+
+---
+
+## 11. Źródła i opracowania
+
+W tej części zestawiamy **publikacje i materiały** wykorzystane przy opracowaniu zalecenia lub przydatne przy jego realizacji, np.:
+
+- krajowe i unijne poradniki,  
+- wytyczne W3C,  
+- opracowania eksperckie,  
+- raporty z badań,  
+- przykłady dobrych praktyk.
+
+Każde źródło zapisujemy w postaci listy numerowanej, np.:
 
 ```md
-- [WAI W3C, Accessibility Fundamentals Overview](https://www.w3.org/WAI/fundamentals/), 
-  dostęp: 30 października 2025 
+1. [WAI W3C, *Accessibility Fundamentals Overview*](https://www.w3.org/WAI/fundamentals/), dostęp: 30 października 2025.  
+2. Kancelaria Prezesa Rady Ministrów, *Komunikacja pisemna. Rekomendacje*, Warszawa 2017.
 ```
 
-### Historia wersji
+---
 
-Historię wersji rozpoczynamy od wstępnie opracowanej wersji przedstawionej do oceny zespołowi Sieci. Tę wersję oznaczamy numerem 0.9. Kolejną jest wersja zgłoszona przez zespół do prezentacji na spotkaniu Sieci. Oznaczamy ją jako RC (kandydat do wydania). Wersję zaakceptowaną przez Sieć oznaczamy numerem 1.0.
+## 12. Historia wersji
 
-Historię wersji umieszczamy w tabeli danych z 4 kolumnami: Nr wersji, Autor, Data Opis zmian. Tabelę poprzedzamy nagłówkiem 2 w brzmieniu „Historia wersji”, np.:
+W historii wersji odnotowujemy wszystkie etapy opracowania dokumentu:
 
-```md
-## Historia wersji
-| Nr wersji |     Autor       |  Data          |     Opis zmian       |
-|-----------|-----------------|----------------|----------------------|
-| 0.9       | Imię i Nazwisko | 10 marca 2025  | kandydat do wydania  |
-```
+| Wersja | Data | Etap | Opis zmian |
+|--------|------|------|-------------|
+| 0.9 | [data] | Projekt roboczy | Pierwsza wersja opracowania |
+| 1.0-RC | [data] | Kandydat do przyjęcia | Wersja przedstawiona Sieci |
+| 1.0 | [data] | Wersja zatwierdzona | Wersja przyjęta przez Sieć |
+
+---
+
+## 13. Podsumowanie
+
+Zalecenia i dezyderaty Sieci Dostępności Cyfrowej są **narzędziami porządkowania i wspierania wdrożeń** w zakresie dostępności cyfrowej w podmiotach publicznych.  
+Ich jednolita struktura, wspólne zasady redakcyjne i neutralny język zapewniają spójność dokumentów oraz ułatwiają ich dalsze wykorzystanie przez Ministerstwo Cyfryzacji, instytucje nadzorcze i partnerów Sieci.

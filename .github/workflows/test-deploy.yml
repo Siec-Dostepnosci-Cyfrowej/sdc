@@ -1,32 +1,21 @@
-name: Deploy main site to GitHub Pages
+name: Test deployment
 
 on:
-  push:
-    branches: [main]
-  workflow_dispatch:
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: true
-
-permissions:
-  contents: read        # Read repository files
-  pages: write          # Publish to GitHub Pages
-  id-token: write       # Required for GitHub Pages deployments
+  pull_request:
+    branches:
+      - main
+    # Review gh actions docs if you want to further define triggers, paths, etc
+    # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
 
 jobs:
-  build:
+  test-deploy:
+    name: Test deployment
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v5
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v6
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v6
         with:
           node-version: 20
           cache: npm
@@ -35,8 +24,6 @@ jobs:
       - name: Install dependencies
         run: npm ci
         working-directory: documentation
-
-      - name: Build Docusaurus site
-        run: npm run build --if-present
+      - name: Test build website
+        run: npm run build
         working-directory: documentation
-

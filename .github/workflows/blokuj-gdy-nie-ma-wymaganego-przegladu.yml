@@ -14,36 +14,35 @@ on:
       - edited
       - dismissed
 
+permissions:
+  pull-requests: read
+  contents: read
+
 jobs:
   require-one-review:
-    name: Check for required reviews
     runs-on: ubuntu-latest
-    permissions:
-      pull-requests: read
-      contents: read
+    name: Check for required reviews
 
     steps:
       - name: Check required reviews
         id: check
         uses: actions/github-script@v8
-        env:
-          ALLOWED_REVIEWERS: ${{ secrets.ALLOWED_REVIEWERS }}
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            const reviewers = process.env.ALLOWED_REVIEWERS
-              ? process.env.ALLOWED_REVIEWERS.split(",").map(r => r.trim())
-              : [];
+            // ✅ Hardcoded list of allowed reviewers
+            const reviewers = ["zwiastunsw", "redaktorbs", "MKW2017"];
+
             const pr = context.payload.pull_request;
             const prAuthor = pr.user.login;
 
             if (!reviewers.length) {
-              core.notice("⚠️ No reviewers defined in ALLOWED_REVIEWERS secret — skipping check.");
+              core.notice("⚠️ No reviewers defined — skipping check.");
               core.setOutput("status", "approved");
               return;
             }
 
-            // Skip Dependabot PRs
+            // 🤖 Skip Dependabot PRs (auto-approved)
             if (prAuthor === "dependabot[bot]") {
               core.notice("🤖 Dependabot PR – skipping review requirement ✅");
               core.setOutput("status", "approved");
@@ -57,15 +56,14 @@ jobs:
               pull_number: pr.number,
             });
 
-            // Track latest review state per user
+            // Get latest review state per user
             const latest = {};
             for (const r of reviews) {
               latest[r.user.login] = r.state;
             }
 
-            // Collect approved reviewers who are in the allowed list
+            // Collect approved reviewers who are allowed
             const approvers = reviewers.filter(u => latest[u] === "APPROVED");
-
             const requiredApprovals = 2;
             const approvalCount = approvers.length;
 
@@ -80,5 +78,5 @@ jobs:
 
       - name: Mark neutral status if waiting for approvals
         if: steps.check.outputs.status == 'pending'
-        run: echo "⏸️ Nie ma jeszcze wystarczającej liczby przeglądów — status pozostanie neutralna."
+        run: echo "⏸️ Waiting for additional required reviews — status neutral."
         continue-on-error: true

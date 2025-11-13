@@ -13,28 +13,38 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      # 1️⃣ Checkout PR head safely (fork-compatible)
+      - name: Checkout PR head
         uses: actions/checkout@v5
         with:
-          fetch-depth: 2
+          ref: ${{ github.event.pull_request.head.sha }}
+          fetch-depth: 0
 
+      # 2️⃣ Fetch base branch for diff
+      - name: Fetch base branch
+        run: |
+          git fetch origin ${{ github.event.pull_request.base.ref }} --depth=1
+
+      # 3️⃣ Detect docs/blog changes
       - name: Sprawdź zmienione pliki
         id: changes
         run: |
-          git fetch origin ${{ github.event.pull_request.base.ref }} --depth=1
           git diff --name-only origin/${{ github.event.pull_request.base.ref }} > changed_files.txt
-          cat changed_files.txt
+          echo "=== Changed files ==="
+          cat changed_files.txt || true
           if grep -E '^documentation/(docs|blog)/' changed_files.txt; then
             echo "DOCS_CHANGED=true" >> $GITHUB_ENV
           else
             echo "DOCS_CHANGED=false" >> $GITHUB_ENV
           fi
 
-      - name: Zapisz wynik do artefaktu
+      # 4️⃣ Save artifact (draftApplied + PR number) in one step
+      - name: Save result for Apply Auto Draft
         run: |
           mkdir -p artifact
-          echo "{\"draftApplied\": ${DOCS_CHANGED,,}}" > artifact/result.json
+          echo "{\"draftApplied\": $DOCS_CHANGED, \"prNumber\": ${{ github.event.pull_request.number }}}" > artifact/result.json
 
+      # 5️⃣ Upload artifact
       - name: Upload artefakt
         uses: actions/upload-artifact@v5
         with:
