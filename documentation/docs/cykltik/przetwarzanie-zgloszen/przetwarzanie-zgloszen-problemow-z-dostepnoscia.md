@@ -62,68 +62,62 @@ Podmioty publiczne zobowiązane są do systematycznego identyfikowania, rejestro
 
 ### 3.2. Inwentaryzacja i raportowanie
 
-1. Wszystkie zgłoszenia i wyniki przeglądów włączać do **inwentaryzacji barier** prowadzonej na podstawie art. 9 ustawy o dostępności cyfrowej.
-2. **Raz na kwartał** przygotowywać raport zbiorczy obejmujący:
+1. Wszystkie zgłoszenia i wyniki przeglądów włączać do **inwentaryzacji barier**, prowadzonej zgodnie z wymogami art. 9 ustawy o dostępności cyfrowej.
+2. **Co 6 miesięcy** przygotowywać raport zbiorczy obejmujący:
    - liczbę i rodzaj problemów,
    - źródła ich wykrycia (użytkownicy, testy, audyty, monitoring),
    - status działań naprawczych i powtarzalność błędów.
-3. Wyniki raportów uwzględniać w **planie działań naprawczych** i **deklaracji dostępności** oraz wykorzystywać przy planowaniu szkoleń i przeglądów technicznych.
+3. Wyniki raportów uwzględniać w **planie działań naprawczych** i **deklaracji dostępności**, a także wykorzystywać przy planowaniu szkoleń, przeglądów technicznych i innych działań mających na celu poprawę dostępności cyfrowej.
 
 ---
 
-### 3.3. Szkolenia i doskonalenie kompetencji
+### 3.3. Monitorowanie skuteczności
 
-1. Organizować **cykliczne szkolenia i warsztaty** dla zespołów redakcyjnych, projektowych, technicznych i wsparcia, obejmujące:
-   - identyfikację i klasyfikację barier zgodnie z WCAG 2.1 i EN 301 549,
-   - obsługę zgłoszeń i rejestru problemów,
-   - komunikację z użytkownikami w języku prostym,
-   - analizę danych z monitoringu i raportów.
-2. W ramach przeglądów okresowych przeprowadzać **ćwiczenia praktyczne** – symulacje zgłoszeń, ocenę skuteczności poprawek, analizę trendów w barierach dostępności.
+Monitorowanie skuteczności procesu przetwarzania problemów z dostępnością jest kluczowe dla oceny efektywności wdrożonych procedur i działań naprawczych. Celem monitorowania jest:
 
----
+- ocena skuteczności procesu w rozwiązywaniu problemów z dostępnością,
+- identyfikacja obszarów wymagających poprawy,
+- zapewnienie ciągłego doskonalenia procesu.
 
-### 3.4. Monitorowanie skuteczności
-
-Monitorować efektywność procesu przetwarzania problemów z dostępnością przy użyciu następujących wskaźników:
+Do oceny skuteczności procesu przetwarzania problemów z dostępnością można wykorzystać następujące wskaźniki:
 
 | Wskaźnik                                                           | Cel                         | Częstotliwość |
 | ------------------------------------------------------------------ | --------------------------- | ------------- |
 | Czas potwierdzenia odbioru zgłoszenia                              | ≤ 3 dni robocze             | miesięcznie   |
 | Czas zamknięcia sprawy                                             | ≤ 30 dni (dla ≥ 80 % spraw) | kwartalnie    |
-| Problemy ujęte w inwentaryzacji                                    | 100 %                       | kwartalnie    |
+| Odsetek problemów ujętych w inwentaryzacji                         | 100 %                       | kwartalnie    |
 | Powtarzające się problemy                                          | < 10 % rocznie              | rocznie       |
-| Udział problemów wykrytych w przeglądach, a nie przez użytkowników | wzrost rok do roku          | rocznie       |
+| Dynamika wzrostu problemów wykrytych w przeglądach | wzrost rok do roku          | rocznie       |
 
 ---
 
-### 3.5. Proces naprawczy
+### 3.4. Proces naprawczy
 
-1. Dla każdego zgłoszenia lub wykrytego problemu należy określić **kategorię działania naprawczego**:
-   - _szybka poprawka_ – możliwa do samodzielnego wdrożenia w ciągu 2 dni (np. brak tekstu alternatywnego, błędny nagłówek, nieopisany link),
-   - _działanie planowe_ – wymagające wsparcia zespołu technicznego, dostawcy lub aktualizacji systemu,
-   - _działanie strategiczne_ – wymagające zmian w projekcie, architekturze informacji lub oprogramowaniu.
-2. Każde działanie naprawcze powinno być **zaplanowane, udokumentowane i zweryfikowane** – wraz z datą rozpoczęcia, terminem wdrożenia i wynikiem retestu.
-3. Po wdrożeniu poprawek należy przeprowadzić **retest dostępności** (automatyczny i manualny) oraz zaktualizować status w rejestrze.
-4. W przypadku zmian systemowych lub projektowych, działanie naprawcze powinno być ujęte w **planie działań naprawczych** jednostki oraz powiązane z konkretnym wskaźnikiem lub celem w polityce dostępności cyfrowej.
-5. Jeżeli bariera nie może zostać usunięta z przyczyn technicznych lub finansowych, należy:
-   - udokumentować przyczyny wyłączenia,
-   - wskazać podstawę prawną (art. 8 ustawy),
+1. **Identyfikacja typu problemu**, aby można było określić do kogo skierować dany problem.
+2. **Nadać określony status**, który będzie identyfikował postęp załatwiania sprawy.
+3. **Po rozwiązaniu problemu** przeprowadzić testy dostępności (automatyczne i manualne, jeśli przypadek tego wymaga).
+4. Jeżeli bariera nie może zostać usunięta z przyczyn technicznych lub finansowych, należy:
+   - udokumentować przyczyny wyłączenia załączając podstawę prawną (art. 8 ustawy),
    - zapewnić **alternatywny sposób dostępu** (np. wersja tekstowa, kontakt telefoniczny, pomoc asystenta).
 
 ---
 
 ## 4. Uzasadnienie
 
-Przetwarzanie wszystkich problemów z dostępnością – niezależnie od ich źródła – oraz skuteczne prowadzenie procesu naprawczego stanowi element należytej staranności w zapewnianiu dostępności cyfrowej, wynikający z art. 8 i 9 ustawy o dostępności cyfrowej.  
+
+Przetwarzanie problemów z dostępnością oraz prowadzenie procesu naprawczego stanowi element należytej staranności w zapewnianiu dostępności cyfrowej, wynikający z art. 8 i 9 ustawy o dostępności cyfrowej.
+
+Systematyczne rozwiązywanie problemów z dostępnością nie tylko zapewnia zgodność z przepisami, ale także podnosi zasób wiedzy organizacji, umożliwiając stałe doskonalenie procesów i produktów, co przyczynia się do poprawy jakości i dostępności cyfrowej.
+
 Połączenie zgłoszeń użytkowników z wynikami monitoringu, audytów i przeglądów umożliwia całościowe zarządzanie dostępnością, zwiększa efektywność działań naprawczych oraz ogranicza ryzyko wystąpienia skarg i postępowań administracyjnych.
 
 ---
 
 ## 5. Źródła i opracowania
 
-- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz.U. z 2023 r. poz. 1446).
-- Dyrektywa (UE) 2016/2102 Parlamentu Europejskiego i Rady.
-- Wytyczne W3C WCAG 2.1 i EN 301 549 v3.2.1.
+- [Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz.U. z 2023 r. poz. 1446) (wersja pdf)](https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20190000848/T/D20190848L.pdf).
+- [Dyrektywa (UE) 2016/2102 Parlamentu Europejskiego i Rady](https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:32016L2102).
+- Wytyczne [W3C WCAG 2.1 (wersja angielska)](https://www.w3.org/TR/WCAG21/) i [EN 301 549 v3.2.1 (wersja angielska)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf).
 
 ---
 
@@ -132,6 +126,6 @@ Połączenie zgłoszeń użytkowników z wynikami monitoringu, audytów i przegl
 | Sytuacja                    | Treść (uproszczona)                                                                                                                                                   |
 | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Poprawka wprowadzona        | "Dziękujemy za zgłoszenie. Alternatywny opis został już dodany. Prosimy o sprawdzenie i ewentualne kolejne uwagi."                                                    |
-| Wyłączenie prawne           | "Zgodnie z art. 5 ust. 2 pkt 3 ustawy o dostępności cyfrowej, dokument archiwalny nie podlega obowiązkowi dostępności. Oferujemy wersję tekstową, prosimy o kontakt." |
-| W planie rozwoju            | "Zgłoszenie zostało przyjęte. Modernizacja komponentu planowana jest w (tutaj data). Poinformujemy o gotowym rozwiązaniu."                                            |
+| Wyłączenie prawne           | "Zgodnie z art. 8 ustawy o dostępności cyfrowej, [nazwa dokumentu/systemu/ np. dokument archiwalny] nie podlega obowiązkowi dostępności. Oferujemy alternatywny sposób dostępu. Prosimy o kontakt." |
+| W planie rozwoju            | "Zgłoszenie zostało przyjęte. Zapisaliśmy je w naszym planie prac. Poinformujemy o gotowym rozwiązaniu."                                            |
 | Brak możliwości technicznej | "Po analizie okazało się, że obecna architektura systemu nie pozwala na wprowadzenie zmiany. Szukamy alternatywnego rozwiązania. Powiadomimy, gdy się pojawi."        |
