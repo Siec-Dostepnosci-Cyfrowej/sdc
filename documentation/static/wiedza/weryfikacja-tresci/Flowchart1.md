@@ -1,0 +1,1 @@
+Przykładowy workflow (diagram)
