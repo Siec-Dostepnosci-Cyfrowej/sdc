@@ -1,8 +1,10 @@
 ---
 id: podrecznik-tworzenia-tresci-dostepnych
-tutle: Stworzenie „Podręcznika dla twórców dostępnych cyfrowo treści”
-autor: Aleksandra Cybulska
-data stworzenia: 17 listopada 2025
+title: Stworzenie "Podręcznika dla twórców dostępnych cyfrowo treści"
+opracowanie: Aleksandra Cybulska
+data-zgloszenia: 17 listopada 2025 r.
+data-aktualizacji:  
+wersja_robocza: true
 ---
 
 **Nazwa dobrej praktyki**: Stworzenie „Podręcznika dla twórców dostępnych cyfrowo treści”
