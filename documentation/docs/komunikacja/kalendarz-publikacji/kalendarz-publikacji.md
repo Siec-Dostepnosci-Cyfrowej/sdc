@@ -91,6 +91,7 @@ flowchart TD
     B --> C[Produkcja treści]
     C --> D[Dystrybucja]
     D --> E[Ewaluacja]
+    E --> B[Tworzenie kalendarza]
 
     A:::role1
     B:::role2
