@@ -1,6 +1,10 @@
 ---
 id: weryfikacja-tresci-przed-publikacja
-title: Zalecenia dotyczące stworzenia działającego procesu weryfikacji publikowanych treści pod kątem dostępności cyfrowej
+title: Stworzenie działającego procesu weryfikacji publikowanych treści pod kątem dostępności cyfrowej
+sidebar_position: 0
+sidebar_label: Weryfikacja dostępności treści
+keywords: [weryfikacja treści]
+tags: [weryfikacja treści]
 opracowanie: Aleksandra Cybulska
 data-zgloszenia: 14 listopada 2025 r.
 data-aktualizacji:  17 listopada 2025 r.
@@ -64,37 +68,39 @@ często nie jest możliwe w czasie publikacji, określonym harmonogramem działa
 
 ## Rekomendowane dobre praktyki
 - Szkolenia dla autorów i weryfikatorów z zakresu tworzenia treści dostępnych cyfrowo.
-- [Stworzenie podręcznika dla twórców treści cyfrowo dostępnych.](https://github.com/CybulskaA/sdc/blob/CybulskaA-weryfikacja-tresci/documentation/docs/komunikacja/weryfikacja-tresci/podrecznik-tworzenia-tresci-dostepnych.md)
-- [Stosowanie checklisty dostępności dla każdego typu treści.](https://github.com/CybulskaA/sdc/blob/CybulskaA-weryfikacja-tresci/documentation/docs/komunikacja/weryfikacja-tresci/checklisty-dostepnosci.md)
+- [Stworzenie podręcznika dla twórców treści cyfrowo dostępnych](podrecznik-tworzenia-tresci-dostepnych)
+- [Stosowanie checklisty dostępności dla każdego typu treści](checklisty-dostepnosci)
 - Baza wiedzy z informacjami z zakresu tworzenia treści dostępnych do wykorzystania po szkoleniu.
 - Konsultowanie wątpliwości lub trudności autora bezpośrednio ze specjalistą z zakresu tworzenia treści cyfrowo dostępnych (mailowo, telefonicznie, na dyżurach eksperckich).
 - Regularne audyty dostępności publikowanych materiałów.
 
 ---
 
-## [Załączniki](https://github.com/CybulskaA/sdc/blob/CybulskaA-weryfikacja-tresci/documentation/docs/komunikacja/weryfikacja-tresci/checklisty-dostepnosci.md)
-1. **Lista kontrolna dostępności dla grafik**
-2. **Lista kontrolna dostępności dla plików tekstowych**
-3. **Lista kontrolna dostępności dla multimediów**
-   - transkrypcja
-   - napisy rozszerzone
-   - audiodeskrypcja
+## Przykładowy workflow (diagram)
+
+![Przykładowy przepływ pracy](/komunikacja/weryfikacja-tresci/weryfikacja-tresci.svg)
+
 
 ---
 
-## Przykładowy workflow (diagram)
+
+<!--
+W kodzie, gdyby go uzyc, trzeba dodać przed każdym nawiasem kątowym jeszcze jeden myślnik (łącznik)
 
 ```mermaid
 flowchart TD
-    A[Autor treści] --> B[Przygotowanie materiału zgodnie z zasadami dostępności]
-    B --> C[Weryfikacja techniczna przez osobę odpowiedzialną]
-    C -->|Braki| D[Zwrot do autora z listą poprawek]
-    C -->|OK| E[Akceptacja]
-    E --> F[Publikacja w kanałach cyfrowych]
+    A[Autor treści] -> B[Przygotowanie materiału zgodnie z zasadami dostępności]
+    B -> C[Weryfikacja techniczna przez osobę odpowiedzialną]
+    C ->|Braki| D[Zwrot do autora z listą poprawek]
+    C ->|OK| E[Akceptacja]
+    E -> F[Publikacja w kanałach cyfrowych]
 
     %% Oddzielny proces dla social media
-    B --> G[Publikacja w mediach społecznościowych]
-    G --> H[Okresowy przegląd treści opublikowanych w mediach społecznościowych]
-    H -->|Braki| I[Informacja zwrotna do autora + ustalenie terminu poprawek]
-    I --> H[Okresowy przegląd treści opublikowanych w mediach społecznościowych]
-    H -->|OK| E[Akceptacja]
+    B -> G[Publikacja w mediach społecznościowych]
+    G -> H[Okresowy przegląd treści opublikowanych w mediach społecznościowych]
+    H ->|Braki| I[Informacja zwrotna do autora + ustalenie terminu poprawek]
+    I -> H[Okresowy przegląd treści opublikowanych w mediach społecznościowych]
+    H ->|OK| E[Akceptacja]
+
+-->
+

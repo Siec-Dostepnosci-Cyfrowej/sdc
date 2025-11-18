@@ -1,11 +1,16 @@
 ---
 id: szkolenia-wewnetrzne-dostepne-tresci
 title: System obowiązkowych szkoleń z zakresu tworzenia treści dostępnych cyfrowo dla autorów i weryfikatorów publikacji
+sidebar_position: 2
+sidebar_label: System obowiązkowych szkoleń
+keywords: [komunikacja, wiedza i umiejętności]
+tags: [komunikacja, wiedza i umiejętności]
 opracowanie: Aleksandra Cybulska
 data-zgloszenia: 17 listopada 2025 r.
 data-aktualizacji:  
 wersja_robocza: true
 ---
+
 
 ## Nazwa dobrej praktyki
 System obowiązkowych szkoleń z zakresu tworzenia treści dostępnych cyfrowo dla autorów i weryfikatorów publikacji
@@ -29,8 +34,7 @@ bieżących problemów i wątpliwości.
 Wprowadzenie obowiązkowych szkoleń ma dodatkowy walor - zapewnianie jednolitych standardów opracowania treści.
 
 ## Charakterystyka dobrej praktyki
-- **Zakres** – Opracowanie i wdrożenie cyklicznych szkoleń dla wszystkich osób odpowiedzialnych za tworzenie i weryfikację treści cyfrowych (strony www, 
-dokumenty 9np. .docx, pdf), multimedia, media społecznościowe).
+- **Zakres** – Opracowanie i wdrożenie cyklicznych szkoleń dla wszystkich osób odpowiedzialnych za tworzenie i weryfikację treści cyfrowych (strony www, dokumenty (np. .docx, pdf), multimedia, media społecznościowe).
 - **Cel** – Zapewnienie, aby wszystkie publikowane materiały były zgodne z zasadami dostępności cyfrowej (WCAG, dobre praktyki).
 - **Grupa docelowa** – Autorzy treści, redaktorzy, weryfikatorzy, nowi pracownicy instytucji.
 

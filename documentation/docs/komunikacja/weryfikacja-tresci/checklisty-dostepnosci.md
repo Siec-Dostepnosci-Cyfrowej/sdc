@@ -1,11 +1,18 @@
 ---
 id: checklisty-dostepnosci
 title: Checklisty dostępności
+sidebar_position: 3
+sidebar_label: Listy kontrolne
+keywords: [komunikacja, wiedza i umiejętności]
+tags: [komunikacja, wiedza i umiejętności]
 opracowanie: Aleksandra Cybulska
 data-zgloszenia: 17 listopada 2025 r.
 data-aktualizacji:  
 wersja_robocza: true
 ---
+
+
+
 
 ## ✅ Lista kontrolna dla grafik (w tym grafik animowanych, np. *.gif)
 - [ ] Każda grafika ma **opis alternatywny (alt)**, który jest zrozumiały i opisuje funkcję lub treść obrazu.

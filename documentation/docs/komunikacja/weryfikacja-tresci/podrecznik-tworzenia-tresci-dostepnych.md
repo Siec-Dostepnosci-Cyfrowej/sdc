@@ -1,6 +1,10 @@
 ---
 id: podrecznik-tworzenia-tresci-dostepnych
-title: Stworzenie "Podręcznika dla twórców dostępnych cyfrowo treści"
+title: Stworzenie Podręcznika dla twórców dostępnych cyfrowo treści
+sidebar_position: 1
+sidebar_label: System obowiązkowych szkoleń
+keywords: [komunikacja, wiedza i umiejętności]
+tags: [komunikacja, wiedza i umiejętności]
 opracowanie: Aleksandra Cybulska
 data-zgloszenia: 17 listopada 2025 r.
 data-aktualizacji:  
@@ -23,8 +27,7 @@ zawsze pod ręką, zapewniające samodzielność i operatywność.
 ---
 
 ## Charakterystyka dobrej praktyki
-- **Zakres**: Stworzenie podręcznika swoim zakresem obejmowało uzupełnienie luki w bazie wiedzy, czyli zbiorze materiałów informacyjnych i pomocniczych 
-w odniesieniu do tworzenia treści dostępnych cyfrowo
+- **Zakres**: Stworzenie podręcznika swoim zakresem obejmowało uzupełnienie luki w bazie wiedzy, czyli zbiorze materiałów informacyjnych i pomocniczych w odniesieniu do tworzenia treści dostępnych cyfrowo
 - **Cel**: Usprawnienie tworzenia lub zamawiania treści publikowanych online w sposób dostępny cyfrowo
 - **Grupa docelowa**: Wszyscy pracownicy, którzy zajmują się tworzeniem lub zamawianiem treści do publikacji w cyfrowych kanałach komunikacji muzeum
 
