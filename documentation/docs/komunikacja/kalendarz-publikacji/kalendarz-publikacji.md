@@ -67,15 +67,15 @@ Zapewnienie systematycznej i skutecznej komunikacji w zakresie dostępności cyf
 ---
 
 ## Role i odpowiedzialności
-- **Specjalista ds. dostępności / analityk komunikacji** – Analiza potrzeb informacyjnych: identyfikacja kluczowych obszarów dostępności cyfrowej; 
-zebranie informacji od interesariuszy (wewnętrznych i zewnętrznych).
+- **Specjalista ds. dostępności / specjalista ds. promocji online** – Analiza potrzeb informacyjnych: identyfikacja kluczowych obszarów dostępności cyfrowej; 
+zebranie informacji od interesariuszy (wewnętrznych i zewnętrznych); organizacja webinarów i szkoleń.
 - **Koordynator projektu / Kierowniczka Sekcji Dostępności Cyfrowej** – Tworzenie kalendarza publikacji: ustalenie harmonogramu (miesięcznego lub kwartalnego);
 określenie kolejności tematów publikacji; zatwierdzenie planu z kierownictwem.
-- **Zespół ds. komunikacji / copywriterzy / graficy** – Produkcja treści: przygotowanie materiałów zgodnych z zasadami dostępności (WCAG); tworzenie artykułów,
+- **Zespół ds. komunikacji / copywriter / grafik** – Produkcja treści: przygotowanie materiałów zgodnych z zasadami dostępności (WCAG); tworzenie artykułów,
 poradników, materiałów multimedialnych; weryfikacja jakości i zgodności z wytycznymi.
-- **Specjalista ds. promocji online / social media manager** – Dystrybucja treści: publikacja w kanałach zewnętrznych (strona www, media społecznościowe, 
-newsletter); komunikacja wewnętrzna (intranet, newsletter wewnętrzny); organizacja webinarów i szkoleń.
-- **Analityk/Kierownictwo** – Monitorowanie i ewaluacja: raportowanie realizacji harmonogramu; analiza wskaźników (liczba publikacji, zasięg odbiorców); 
+- **Specjalista ds. promocji online / social media manager / specjalista ds. dostępności** – Dystrybucja treści: publikacja w kanałach zewnętrznych 
+(strona www, media społecznościowe, newsletter); komunikacja wewnętrzna (intranet, newsletter wewnętrzny); organizacja webinarów i szkoleń.
+- **Analityk/Kierownictwo** – Monitorowanie i ewaluacja: analiza wskaźników (liczba publikacji, zasięg odbiorców); raportowanie realizacji harmonogramu; 
 aktualizacja kalendarza na podstawie wyników.
 
 ---
@@ -93,22 +93,4 @@ flowchart TD
     D --> E[Ewaluacja]
     E --> B[Tworzenie kalendarza]
 
-    A:::role1
-    B:::role2
-    C:::role3
-    D:::role4
-    E:::role5
-
-    classDef role1 fill:#f9f,stroke:#333,stroke-width:2px;
-    classDef role2 fill:#bbf,stroke:#333,stroke-width:2px;
-    classDef role3 fill:#bfb,stroke:#333,stroke-width:2px;
-    classDef role4 fill:#ffb,stroke:#333,stroke-width:2px;
-    classDef role5 fill:#fbf,stroke:#333,stroke-width:2px;
-
-    %% Roles annotations
-    A:::role1 -->|Rola: Specjalista ds. dostępności| A
-    B:::role2 -->|Rola: Koordynator projektu| B
-    C:::role3 -->|Rola: Zespół ds. komunikacji| C
-    D:::role4 -->|Rola: Specjalista ds. promocji| D
-    E:::role5 -->|Rola: Analityk / Kierownictwo| E
 ```
