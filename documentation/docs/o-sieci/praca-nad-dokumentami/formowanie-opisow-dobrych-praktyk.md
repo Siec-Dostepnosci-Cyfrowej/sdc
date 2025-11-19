@@ -3,7 +3,7 @@ id: formowanie-opisow-dobrych-praktyk
 title: Formowanie opisów dobrych praktyk
 description: Określa zasady i strukturę opracowywania opisów dobrych praktyk w ramach Sieci Dostępności Cyfrowej
 sidebar_label: Formowanie opisów dobrych praktyk
-sidebar_position: 5
+sidebar_position: 4
 keywords: [dobre praktyki, opisy, struktura, zasady, dokumenty Sieci]
 opracowanie: Stefan Wajda
 data_zgloszenia: 30 lipca 2025 r.

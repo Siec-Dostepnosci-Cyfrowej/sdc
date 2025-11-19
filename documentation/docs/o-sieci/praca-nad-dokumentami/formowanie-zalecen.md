@@ -3,7 +3,7 @@ id: formowanie-zalecen
 title: Formowanie zaleceń
 description: Definiuje i opisuje strukturę zalecenia jako jednego z podstawowych dokumentów Sieci 
 sidebar_label: Formowanie zaleceń
-sidebar_position: 4
+sidebar_position: 2
 keywords: [dokumenty Sieci, formy dokumentów, zasady formowania dokumentów]
 opracowanie: Stefan Wajda
 data_zgloszenia: 28 lipca 2025 r.
@@ -232,7 +232,7 @@ W historii wersji odnotowujemy wszystkie etapy opracowania dokumentu:
 |--------|------|------|-------------|
 | 0.9 | [data] | Projekt roboczy | Pierwsza wersja opracowania |
 | 1.0-RC | [data] | Kandydat do przyjęcia | Wersja przedstawiona Sieci |
-| 1.0 | [data] | Wersja zatwierdzona | Wersja przyjęta przez Sieć |
+| 1.1 | [data] | Aktualizcja| do akceptacji |
 
 ---
 
