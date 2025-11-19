@@ -148,6 +148,12 @@ Opisy dobrych praktyk należy opracowywać w **języku neutralnym i rzeczowym**,
 - bezpośredniego zwracania się do czytelnika w 2. osobie liczby pojedynczej,  
 - skrótów myślowych i potocznych określeń.
 
+:::info **Uwaga**
+
+Formy bezpośrednie mogą być stosowane w załącznikach - w przykładowych dokumentach, takich jak instrukcje, poradniki, listy kontrolne.
+
+:::
+
 Preferowane są formy bezosobowe i instytucjonalne, np.:
 
 > „Organizacja wdrożyła…”, „Zespół opracował…”, „Wdrożone rozwiązanie umożliwia…”.
