@@ -251,11 +251,127 @@ Organizacja:
 
 ---
 
+
+
+
+## 🟦 Wymiar: Wsparcie (wersja uproszczona dla małych podmiotów publicznych)
+
+### 1. Cel wymiaru
+
+Celem wymiaru **Wsparcie** jest zapewnienie, aby zarówno **pracownicy**, jak i **użytkownicy zewnętrzni** (klienci, odbiorcy usług, mieszkańcy) mogli w łatwy sposób:
+
+- uzyskać pomoc w korzystaniu z technologii i usług cyfrowych organizacji,
+- zgłaszać problemy z dostępnością,
+- otrzymywać usprawnienia i dostosowania niezbędne do korzystania z treści i narzędzi cyfrowych.
+
+W małych organizacjach nacisk kładzie się na proste, możliwe do wdrożenia mechanizmy wsparcia: jasne instrukcje, jeden punkt kontaktowy, dostępne procedury i praktyczne narzędzia.
+
+---
+
+### 2. Opis wymiaru
+
+Wymiar **Wsparcie** obejmuje działania organizacji, dzięki którym:
+
+1. **Pracownicy otrzymują pomoc** w korzystaniu z narzędzi TIK oraz w realizacji zadań wymagających dostępnych treści.
+2. **Klienci i mieszkańcy mogą łatwo uzyskać wsparcie**, zadać pytanie, poprosić o dostępność lub zgłosić barierę.
+3. **Mechanizmy wsparcia są dostępne cyfrowo**, zrozumiałe i łatwe do użycia.
+4. **Organizacja zapewnia racjonalne usprawnienia**, czyli proste, szybkie do wprowadzenia zmiany umożliwiające dostęp do treści lub usług.
+5. **Informacje zwrotne są zbierane, analizowane i wykorzystywane** do poprawy dostępności usług i narzędzi cyfrowych.
+
+W małych podmiotach może to obejmować nawet jedną osobę pełniącą rolę punktu kontaktowego lub kilka prostych narzędzi: formularz, adres e-mail, telefon i instrukcję postępowania.
+
+---
+
+
+### 3. Odróżnienie wymiaru *Wsparcie* od wymiaru *Personel*
+
+Choć oba wymiary dotyczą pracowników i osób z niepełnosprawnościami, koncentrują się na różnych obszarach:
+
+#### **Personel**
+- dotyczy pracowników jako osób zatrudnionych,
+- obejmuje rekrutację, rozwój, dostępność narzędzi pracy, polityki HR,
+- kładzie nacisk na role zawodowe i włączające środowisko pracy.
+
+#### **Wsparcie**
+- dotyczy korzystania z technologii i usług cyfrowych,
+- obejmuje pomoc techniczną, obsługę klienta, racjonalne usprawnienia,
+- skupia się na dostępności narzędzi, informacji i procesów wsparcia.
+
+**Kluczowa różnica:**  
+*Personel → kim pracownicy są i jak funkcjonują w organizacji.*  
+*Wsparcie → jak organizacja pomaga pracownikom i klientom korzystać z technologii oraz usług cyfrowych.*
+
+---
+
+
+### 4. Odróżnienie wymiaru *Wsparcie* od wymiaru *Wiedza i umiejętności*
+
+Oba wymiary dotyczą uczenia i działania, ale z innych perspektyw:
+
+#### **Wiedza i umiejętności**
+- dotyczy kompetencji pracowników,
+- obejmuje szkolenia, certyfikacje, rozwój wiedzy i ocenę kwalifikacji,
+- koncentruje się na tym, co pracownicy *potrafią zrobić*.
+
+#### **Wsparcie**
+- dotyczy pomocy w korzystaniu z technologii i usług,
+- obejmuje narzędzia, instrukcje, punkty kontaktu, zgłoszenia problemów,
+- koncentruje się na *ułatwianiu dostępu* i rozwiązywaniu barier.
+
+**Kluczowa różnica:**  
+*Wiedza i umiejętności → przygotowanie pracowników do realizacji zadań.*  
+*Wsparcie → udzielanie bieżącej pomocy pracownikom i klientom.*
+
+---
+
+
+### 5. Uproszczone punkty dowodowe
+
+#### A. Wsparcie dla pracowników
+
+- Dostępna procedura zgłaszania problemów z TIK (np. formularz, e-mail).
+- Jasne instrukcje korzystania z narzędzi cyfrowych.
+- Możliwość uzyskania racjonalnych usprawnień (większy kontrast, wersja tekstowa, alternatywny sposób wykonania zadania).
+- Pracownicy wiedzą, do kogo zgłosić problem z dostępnością.
+
+#### B. Wsparcie dla klientów / mieszkańców
+
+- Dostępny cyfrowo punkt kontaktowy (formularz, e-mail, telefon).
+- Prosty sposób zgłaszania barier technologicznych.
+- Informacja o dostępności usług (np. w deklaracji lub zakładce „Pomoc”).
+- Możliwość uzyskania dostosowań (np. dokument w wersji dostępnej, napisy do wideo).
+
+#### C. Zbieranie i wykorzystywanie informacji zwrotnej
+
+- Organizacja gromadzi zgłoszenia dotyczące dostępności.
+- Zgłoszenia są analizowane i wykorzystywane do poprawy usług.
+- Problemy krytyczne są rozwiązywane w rozsądnym czasie.
+
+#### D. Dostępność narzędzi i instrukcji
+
+- Instrukcje obsługi są napisane prostym, zrozumiałym językiem.
+- Materiały pomocy i formularze są dostępne cyfrowo.
+- Narzędzia obsługi klienta są zgodne z podstawowymi wymaganiami dostępności (WCAG 2.1 AA).
+
+---
+
+### 6. Uproszczona ocena
+
+Organizacja **spełnia wymiar Wsparcie**, jeśli:
+
+- posiada dostępne i jasne mechanizmy udzielania pomocy,
+- pracownicy i klienci mogą szybko zgłosić problem,
+- zgłoszenia są analizowane i wykorzystywane do poprawy usług,
+- zapewniane są racjonalne usprawnienia.
+
+---
+
+
 <details>
 <summary>Wersja uproszczona - duże podmioty publiczne</summary>
 
 
-## Wymiar: Wsparcie (wersja pełna – duże podmioty publiczne)
+## 🟦 Wymiar: Wsparcie (wersja pełna – duże podmioty publiczne)
 
 ### 1. Cel wymiaru
 
@@ -387,122 +503,6 @@ Duża organizacja **spełnia wymiar Wsparcie**, jeśli:
 ---
 
 </details>
-
-
-
-
-
-## Wymiar: Wsparcie (wersja uproszczona dla małych podmiotów publicznych)
-
-### 1. Cel wymiaru
-
-Celem wymiaru **Wsparcie** jest zapewnienie, aby zarówno **pracownicy**, jak i **użytkownicy zewnętrzni** (klienci, odbiorcy usług, mieszkańcy) mogli w łatwy sposób:
-
-- uzyskać pomoc w korzystaniu z technologii i usług cyfrowych organizacji,
-- zgłaszać problemy z dostępnością,
-- otrzymywać usprawnienia i dostosowania niezbędne do korzystania z treści i narzędzi cyfrowych.
-
-W małych organizacjach nacisk kładzie się na proste, możliwe do wdrożenia mechanizmy wsparcia: jasne instrukcje, jeden punkt kontaktowy, dostępne procedury i praktyczne narzędzia.
-
----
-
-### 2. Opis wymiaru
-
-Wymiar **Wsparcie** obejmuje działania organizacji, dzięki którym:
-
-1. **Pracownicy otrzymują pomoc** w korzystaniu z narzędzi TIK oraz w realizacji zadań wymagających dostępnych treści.
-2. **Klienci i mieszkańcy mogą łatwo uzyskać wsparcie**, zadać pytanie, poprosić o dostępność lub zgłosić barierę.
-3. **Mechanizmy wsparcia są dostępne cyfrowo**, zrozumiałe i łatwe do użycia.
-4. **Organizacja zapewnia racjonalne usprawnienia**, czyli proste, szybkie do wprowadzenia zmiany umożliwiające dostęp do treści lub usług.
-5. **Informacje zwrotne są zbierane, analizowane i wykorzystywane** do poprawy dostępności usług i narzędzi cyfrowych.
-
-W małych podmiotach może to obejmować nawet jedną osobę pełniącą rolę punktu kontaktowego lub kilka prostych narzędzi: formularz, adres e-mail, telefon i instrukcję postępowania.
-
----
-
-
-### 3. Odróżnienie wymiaru *Wsparcie* od wymiaru *Personel*
-
-Choć oba wymiary dotyczą pracowników i osób z niepełnosprawnościami, koncentrują się na różnych obszarach:
-
-#### **Personel**
-- dotyczy pracowników jako osób zatrudnionych,
-- obejmuje rekrutację, rozwój, dostępność narzędzi pracy, polityki HR,
-- kładzie nacisk na role zawodowe i włączające środowisko pracy.
-
-#### **Wsparcie**
-- dotyczy korzystania z technologii i usług cyfrowych,
-- obejmuje pomoc techniczną, obsługę klienta, racjonalne usprawnienia,
-- skupia się na dostępności narzędzi, informacji i procesów wsparcia.
-
-**Kluczowa różnica:**  
-*Personel → kim pracownicy są i jak funkcjonują w organizacji.*  
-*Wsparcie → jak organizacja pomaga pracownikom i klientom korzystać z technologii oraz usług cyfrowych.*
-
----
-
-
-### 4. Odróżnienie wymiaru *Wsparcie* od wymiaru *Wiedza i umiejętności*
-
-Oba wymiary dotyczą uczenia i działania, ale z innych perspektyw:
-
-#### **Wiedza i umiejętności**
-- dotyczy kompetencji pracowników,
-- obejmuje szkolenia, certyfikacje, rozwój wiedzy i ocenę kwalifikacji,
-- koncentruje się na tym, co pracownicy *potrafią zrobić*.
-
-#### **Wsparcie**
-- dotyczy pomocy w korzystaniu z technologii i usług,
-- obejmuje narzędzia, instrukcje, punkty kontaktu, zgłoszenia problemów,
-- koncentruje się na *ułatwianiu dostępu* i rozwiązywaniu barier.
-
-**Kluczowa różnica:**  
-*Wiedza i umiejętności → przygotowanie pracowników do realizacji zadań.*  
-*Wsparcie → udzielanie bieżącej pomocy pracownikom i klientom.*
-
----
-
-
-### 5. Uproszczone punkty dowodowe
-
-#### A. Wsparcie dla pracowników
-
-- Dostępna procedura zgłaszania problemów z TIK (np. formularz, e-mail).
-- Jasne instrukcje korzystania z narzędzi cyfrowych.
-- Możliwość uzyskania racjonalnych usprawnień (większy kontrast, wersja tekstowa, alternatywny sposób wykonania zadania).
-- Pracownicy wiedzą, do kogo zgłosić problem z dostępnością.
-
-#### B. Wsparcie dla klientów / mieszkańców
-
-- Dostępny cyfrowo punkt kontaktowy (formularz, e-mail, telefon).
-- Prosty sposób zgłaszania barier technologicznych.
-- Informacja o dostępności usług (np. w deklaracji lub zakładce „Pomoc”).
-- Możliwość uzyskania dostosowań (np. dokument w wersji dostępnej, napisy do wideo).
-
-#### C. Zbieranie i wykorzystywanie informacji zwrotnej
-
-- Organizacja gromadzi zgłoszenia dotyczące dostępności.
-- Zgłoszenia są analizowane i wykorzystywane do poprawy usług.
-- Problemy krytyczne są rozwiązywane w rozsądnym czasie.
-
-#### D. Dostępność narzędzi i instrukcji
-
-- Instrukcje obsługi są napisane prostym, zrozumiałym językiem.
-- Materiały pomocy i formularze są dostępne cyfrowo.
-- Narzędzia obsługi klienta są zgodne z podstawowymi wymaganiami dostępności (WCAG 2.1 AA).
-
----
-
-### 6. Uproszczona ocena
-
-Organizacja **spełnia wymiar Wsparcie**, jeśli:
-
-- posiada dostępne i jasne mechanizmy udzielania pomocy,
-- pracownicy i klienci mogą szybko zgłosić problem,
-- zgłoszenia są analizowane i wykorzystywane do poprawy usług,
-- zapewniane są racjonalne usprawnienia.
-
----
 
 
 
