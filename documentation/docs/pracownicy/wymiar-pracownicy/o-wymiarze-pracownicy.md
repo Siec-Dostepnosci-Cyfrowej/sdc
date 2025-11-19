@@ -9,7 +9,7 @@ ostatnia_aktualizacja: 19 listopada 2025 r.
 wersja_robocza: true
 ---
 
-## 🟦 Wymiar Personej (wcześniej: Pracownicy)
+## 🟦 Wymiar Personel (wcześniej: Pracownicy)
 **(Obecność, inkluzywność, racjonalne usprawnienia, włączenie doświadczenia pracowników z niepełnosprawnościami)**
 
 ### Definicja
@@ -132,10 +132,134 @@ Oba wymiary są komplementarne i wzajemnie zależne: inkluzywna organizacja (Per
 - Procesy i dokumenty HR są cyklicznie aktualizowane w oparciu o zmieniające się normy i przepisy dotyczące dostępności.  
 - Istnieje proces oceny ryzyka i wyjątków obejmujący kwestię dostępności narzędzi pracy.
 
+---
+
+## 🟦 Wymiar Personel (wersja uproszczona dla małych podmiotów publicznych)
+
+
+## 1. Cel wymiaru
+
+Celem wymiaru **Personel** jest zapewnienie, aby wszystkie osoby zatrudnione w organizacji — niezależnie od roli, doświadczenia czy ewentualnej niepełnosprawności — mogły:
+
+- pracować w środowisku wolnym od barier,
+- rozumieć swoją rolę w zapewnianiu dostępności cyfrowej,
+- współpracować w obszarze dostępności,
+- wnosić doświadczenia użytkownika do ulepszania usług cyfrowych organizacji.
+
+W małych podmiotach nacisk kładzie się na:
+
+- praktyczną wykonalność,
+- prostotę procesów,
+- minimalną liczbę procedur,
+- wykorzystanie istniejących zasobów organizacyjnych.
+
+---
+
+## 2. Uproszczony opis wymiaru
+
+Wymiar *Personel* w małych organizacjach oznacza, że:
+
+1. **Wszyscy pracownicy mają równy dostęp do pracy, narzędzi i informacji**, w tym dokumentów kadrowych i materiałów szkoleniowych.
+2. **Rekrutacja i wdrażanie nowych pracowników jest dostępne**, a ogłoszenia i materiały są zrozumiałe i pozbawione barier.
+3. **Pracownicy wiedzą, jakie obowiązki mają w zakresie dostępności**, stosownie do pełnionych funkcji.
+4. **Osoby z niepełnosprawnościami mogą aktywnie uczestniczyć** w pracy organizacji i dzielić się doświadczeniami użytkownika technologii.
+5. **Istnieje współpraca między działami** (nawet jeśli to kilka osób pełniących wiele funkcji).
+6. **Role związane z dostępnością są wskazane i zrozumiałe**, także wtedy, gdy łączy je jedna osoba.
+
+---
+
+## 3. Uproszczone punkty dowodowe
+
+### A. Dostępne środowisko pracy
+
+- Istnieje krótka informacja / zasada równego traktowania i dostępnej rekrutacji
+- Formularze, instrukcje i podstawowe dokumenty kadrowe są dostępne cyfrowo (nagłówki, listy, tekst alternatywny, PDF/UA lub HTML)
+- Pracownicy wiedzą, jak zgłaszać potrzebę usprawnienia lub dostosowania stanowiska pracy
+- Organizacja zapewnia dostępne narzędzia pracy w zakresie, w jakim jest to możliwe (np. dostępne edytory, powiększanie, alternatywy do materiałów)
+
+<!--
+- Polityka równego traktowania i dostępnej rekrutacji.
+- Podstawowe dokumenty kadrowe są dostępne cyfrowo (nagłówki, listy, tekst alternatywny, HTML lub PDF/UA).
+- Jasna procedura zgłaszania potrzeb usprawnień stanowiska pracy. 
+- Organizacja zapewnia dostępne narzędzia pracy w możliwym zakresie. 
+-->
+
+
+### B. Dostępne procesy kadrowe i rozwój pracowników
+
+- Ogłoszenia rekrutacyjne są zrozumiałe i dostępne (HTML / dostępny PDF)
+- Proces wdrożenia pracownika obejmuje krótką informację o zasadach dostępności
+- Szkolenia i instrukcje są dostępne lub możliwe do dostosowania
+- Pracownicy mają równy dostęp do podnoszenia kwalifikacji
+- Podstawowe obowiązki w zakresie dostępności są przypisane do ról
+
+<!--
+- Ogłoszenia rekrutacyjne są zrozumiałe i dostępne.
+- Wprowadzenie do pracy obejmuje krótką informację o zasadach dostępności.
+- Szkolenia i instrukcje są dostępne lub możliwe do dostosowania.
+- Pracownicy mają równy dostęp do szkoleń i rozwoju.
+- Określono podstawowe obowiązki w zakresie dostępności dla poszczególnych ról.
+-->
+
+### C. Zaangażowanie pracowników w dostępność
+
+- Pracownicy wiedzą, do kogo zgłaszać problemy z dostępnością
+- Osoby z niepełnosprawnościami (jeśli są zatrudnione) mogą zgłaszać uwagi i uczestniczyć w konsultacjach
+- Dostępność jest omawiana na spotkaniach, radach, odprawach etc.
+- Przy wprowadzaniu zmian (np. nowej strony, formularza) konsultuje się je z pracownikami lub użytkownikami
+
+<!-- 
+
+- Pracownicy wiedzą, komu zgłaszać problemy z dostępnością.
+- Osoby z niepełnosprawnościami uczestniczą w konsultacjach dotyczących technologii i treści.
+- Dostępność jest omawiana podczas spotkań, rad, odpraw.
+- Przy wprowadzaniu zmian konsultuje się je z pracownikami lub użytkownikami.
+-->
+
+### D. Role i współpraca
+
+- Wyznaczono osobę odpowiedzialną za koordynowanie dostępności (może pełnić kilka funkcji)
+- Jasno określono podstawowe odpowiedzialności:
+  - dyrektor/kierownik — decyzje i zasoby
+  - osoba ds. kadr — dostępna rekrutacja/onboarding
+  - osoba ds. IT — narzędzia i serwisy
+  - autorzy treści — tworzenie dostępnych dokumentów
+- Istnieje podstawowa współpraca między działami przy sprawach dotyczących dostępności
+
+
+<!--
+
+- Wyznaczono koordynatora lub inną osobę odpowiedzialną za dostępność.
+- Jasno określono odpowiedzialności (dyrektor, kadry, IT, autorzy treści).
+- Istnieje podstawowa współpraca między obszarami (HR, IT, komunikacja, zakupy).
+-->
+---
+
+## 4. Uproszczona ocena
+
+Organizacja osiąga dojrzałość w wymiarze Personel, jeżeli:
+- ma wdrożone podstawowe rozwiązania wspierające pracowników,
+- zapewnia dostępne procesy rekrutacji i wdrażania,
+- pracownicy znają swoje role w zakresie dostępności,
+- realizowane są działania podnoszące świadomość,
+- osoby z niepełnosprawnościami mogą aktywnie pracować i uczestniczyć w konsultacjach.
+
+<!--
+Organizacja **spełnia wymiar Personel**, jeśli:
+
+- ma wdrożone podstawowe rozwiązania wspierające pracowników,
+- rekrutacja i onboarding są dostępne,
+- pracownicy znają swoje obowiązki dotyczące dostępności,
+- realizowane są działania podnoszące świadomość,
+- osoby z niepełnosprawnościami mogą aktywnie uczestniczyć w życiu organizacji.
+-->
+
+
+---
+
 ## Infografika: Wymiar Personel
 
 ![Wymiar Personel. Opis w tekście](/img/wymiar-personel-czysty.svg)
-
 
 
 <details>
