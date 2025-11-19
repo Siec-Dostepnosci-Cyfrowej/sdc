@@ -18,7 +18,7 @@ Wersja robocza definicji
 ---
 
 ## 1. Projekty zaleceń  
-**Projekty zaleceń** to dokumenty przygotowywane przez Sieć Dostępności Cyfrowej z przeznaczeniem do wydania przez **Ministra Cyfryzacji**, **Ministerstwo Cyfryzacji** lub **wydział dostępności cyfrowej**, które kierowane są **do podmiotów publicznych**.
+**Projekty zaleceń** to dokumenty przygotowywane przez Sieć Dostępności Cyfrowej z przeznaczeniem do wydania przez **Ministra Cyfryzacji**, **Ministerstwo Cyfryzacji** lub **Wydział Dostępności Cyfrowej**, które kierowane są **do podmiotów publicznych**.
 
 ### Charakterystyka  
 - mają charakter **normatywny i kierunkowy**,  
