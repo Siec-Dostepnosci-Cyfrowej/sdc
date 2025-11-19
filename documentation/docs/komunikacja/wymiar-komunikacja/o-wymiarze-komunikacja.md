@@ -243,7 +243,7 @@ Jest to wymiar opisujący **reakcję organizacji na potrzeby użytkowników** �
 
 ## 🟦 Wymiar Komunikacja - Wersja uproszczona dla małych podmiotów publicznych
 
-*(dla małych podmiotów publicznych — szkoły, biblioteki, OPS, domy kultury itp.)*
+*(szkoły, biblioteki, domy kultury, OPS, OSiR, małe urzędy, jednostki organizacyjne gminy)*
 
 ### 1. Definicja wymiaru
 
