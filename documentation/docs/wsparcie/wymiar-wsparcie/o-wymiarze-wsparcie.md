@@ -13,7 +13,6 @@ wersja_robocza: true
 ## 🟦 Wymiar Wsparcie
 
 **(Obsługa zgłoszeń dostępności, reagowanie na bariery, udzielanie informacji i pomocy, alternatywne formy dostępu)**
----
 
 ### Definicja
 
@@ -23,18 +22,9 @@ Wymiar **„Wsparcie”** obejmuje działania organizacji ukierunkowane na zapew
 Wsparcie stanowi kluczowy element systemu zapewniania dostępności cyfrowej. O ile inne wymiary koncentrują się na zapobieganiu powstawaniu barier, **wymiar „Wsparcie” zapewnia reakcję organizacji wtedy, gdy bariery mimo wszystko wystąpią** — czy to z powodu błędów projektowych, nieoczekiwanych zmian technologicznych, czy indywidualnych potrzeb użytkowników wymagających dostosowania.
 
 
-
- 
-
-
-
- wsparcia, który **umożliwia szybkie zgłaszanie problemów, łatwe uzyskiwanie pomocy, a także systematyczne analizowanie zgłoszeń w celu doskonalenia usług cyfrowych**.
-
-**Cel wymiaru Wsparcie:** zapewnienie użytkownikom i pracownikom skutecznej, dostępnej i terminowej pomocy w każdym etapie korzystania z usług i technologii cyfrowych.
-
-
 ### Cel wymiaru
-** Celem wymiaru Wsparcie jest zapewnienie użytkownikom i pracownikom skutecznej skutecznej, dostępnej i terminowej pomocy w korzystaniu z technologii informacyjno-komunikacyjnych (TIK), usług cyfrowych oraz treści wytwarzanych, utrzymywanych lub udostępnianych przez organizację.**
+
+**Celem wymiaru Wsparcie jest zapewnienie użytkownikom i pracownikom skutecznej skutecznej, dostępnej i terminowej pomocy w korzystaniu z technologii informacyjno-komunikacyjnych (TIK), usług cyfrowych oraz treści wytwarzanych, utrzymywanych lub udostępnianych przez organizację.**
 
 Dojrzałe wsparcie zapewnia:
 
