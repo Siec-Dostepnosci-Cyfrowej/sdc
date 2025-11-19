@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+  <rect width="1200" height="520" fill="#F2F3F5"/>
+
+  <!-- Pasek nagłówka -->
+  <rect width="1200" height="120" fill="#033064"/>
+  <text x="50" y="55" font-family="Arial" font-size="42" fill="#FFFFFF" font-weight="bold">
+    Cykl życia TIK
+  </text>
+  <text x="50" y="100" font-family="Arial" font-size="32" fill="#FFD500" font-weight="bold">
+    Przegląd jakości przed wdrożeniem
+  </text>
+
+  <!-- Panel -->
+  <rect x="60" y="150" width="1080" height="330" rx="12" fill="#FFFFFF" stroke="#033064" stroke-width="3"/>
+
+  <!-- Ikona: kontrola (tarcza z ptaszkiem) -->
+  <g transform="translate(140,260)">
+    <circle cx="0" cy="0" r="70" fill="#033064"/>
+    <g transform="scale(0.85)" fill="white">
+      <path d="M0,-55 L45,-35 L38,10 C33,40 10,55 0,55 C-10,55 -33,40 -38,10 L-45,-35 Z"/>
+      <path d="M-15,5 L0,20 L25,-5" stroke="white" stroke-width="10" fill="none" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <!-- Tekst -->
+  <text x="300" y="240" font-family="Arial" font-size="34" fill="#033064" font-weight="bold">
+    Kontrola dostępności przed publikacją
+  </text>
+
+  <text x="300" y="290" font-family="Arial" font-size="28" fill="#333">
+    • Testy manualne i automatyczne
+  </text>
+  <text x="300" y="330" font-family="Arial" font-size="28" fill="#333">
+    • Obowiązkowa bramka dostępności przed wdrożeniem
+  </text>
+  <text x="300" y="370" font-family="Arial" font-size="28" fill="#333">
+    • Ocena zgodności: ACR / VPAT / dowody dostępności
+  </text>
+</svg>

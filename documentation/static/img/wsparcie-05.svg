@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+  <title id="title">Wsparcie – Wsparcie organizacyjne</title>
+  <desc id="desc">Infografika opisująca wsparcie organizacyjne w zakresie dostępności.</desc>
+
+  <rect width="1200" height="650" fill="#F2F3F5"/>
+
+  <rect width="1200" height="150" fill="#0A1A3C"/>
+  <text x="600" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#FFFFFF">
+    Wsparcie
+  </text>
+  <text x="600" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="600" fill="#F6C400">
+    Wsparcie organizacyjne
+  </text>
+
+  <!-- Ikona: budynek / struktura organizacyjna -->
+  <circle cx="180" cy="270" r="70" fill="#1E5AA8"/>
+  <rect x="150" y="230" width="60" height="80" rx="8" fill="none" stroke="#FFFFFF" stroke-width="8"/>
+  <line x1="150" y1="260" x2="210" y2="260" stroke="#FFFFFF" stroke-width="8"/>
+
+  <rect x="300" y="200" width="840" height="380" rx="18"
+        fill="#FFFFFF" stroke="#0A1A3C" stroke-width="3"/>
+
+  <text x="330" y="245" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#0A1A3C">
+    Co oznacza wsparcie organizacyjne?
+  </text>
+
+  <line x1="320" y1="260" x2="1120" y2="260" stroke="#0A1A3C" stroke-width="1.5"/>
+
+  <circle cx="335" cy="310" r="10" fill="#1E5AA8"/>
+  <text x="360" y="318" font-size="26" font-family="Arial">
+    Dostępna polityka obsługi klienta i komunikacji.
+  </text>
+
+  <circle cx="335" cy="370" r="10" fill="#1E5AA8"/>
+  <text x="360" y="378" font-size="26" font-family="Arial">
+    Baza wiedzy o dostępności wewnątrz organizacji.
+  </text>
+
+  <circle cx="335" cy="430" r="10" fill="#1E5AA8"/>
+  <text x="360" y="438" font-size="26" font-family="Arial">
+    Mechanizmy zbierania opinii i reagowania na potrzeby.
+  </text>
+
+  <circle cx="335" cy="490" r="10" fill="#1E5AA8"/>
+  <text x="360" y="498" font-size="26" font-family="Arial">
+    Włączanie osób z niepełnosprawnościami w procesy.
+  </text>
+</svg>

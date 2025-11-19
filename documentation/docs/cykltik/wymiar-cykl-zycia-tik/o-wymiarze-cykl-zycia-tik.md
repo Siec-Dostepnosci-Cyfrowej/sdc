@@ -102,6 +102,10 @@ Różnica:
 
 ### 6. Pełna lista punktów dowodowych
 
+
+
+
+
 #### A. Badania użytkowników
 - uwzględnienie niepełnosprawności w badaniach,
 - prowadzenie badań ukierunkowanych na dostępność,
@@ -116,12 +120,16 @@ Różnica:
 - dostępne systemy projektowe,
 - adnotacje dotyczące dostępności w materiałach UX/UI.
 
+![Planowanie i projektowanie](/img/cykl-zycia-tik-01.svg)
+
 #### C. Wytwarzanie / konfiguracja
 - dostęp do zasobów i instrukcji,
 - listy kontrolne dla programistów i administratorów,
 - spójne podejście do implementacji dostępności,
 - system klasyfikacji błędów dostępności,
 - kryteria akceptacji obejmujące wymogi dostępności.
+
+![Wytwarzanie i testowanie](/img/cykl-zycia-tik-02.svg)
 
 #### D. Testowanie dostępności
 - testy ręczne, automatyczne i z AT,
@@ -141,6 +149,8 @@ Różnica:
 - testowanie aktualizacji,
 - aktualne ACR/VPAT.
 
+![Przegląd jakości przed wydaniem](/img/cykl-zycia-tik-03.svg)
+
 #### G. Utrzymanie i rozwój
 - system obsługi błędów dostępności,
 - testowanie integracji,
@@ -151,6 +161,9 @@ Różnica:
 - aktualne ACR/VPAT dla produktów,
 - dokumentacja techniczna uwzględnia dostępność,
 - rejestry błędów i działań naprawczych.
+
+![Utrzymanie i rozwój](/img/cykl-zycia-tik-04.svg)
+
 
 #### I. Szkolenia
 - szkolenia dostępnościowe dla zespołów projektowych, IT i redakcyjnych,

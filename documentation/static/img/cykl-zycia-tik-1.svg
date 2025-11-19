@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Cykl życia TIK – Planowanie i projektowanie</title>
+  <desc id="desc">Infografika przedstawiająca kluczowe elementy planowania i projektowania z uwzględnieniem dostępności cyfrowej.</desc>
+
+  <!-- Tło -->
+  <rect x="0" y="0" width="1200" height="800" fill="#ffffff"/>
+
+  <!-- Pasek nagłówka -->
+  <rect x="0" y="0" width="1200" height="140" fill="#0A0F2C"/>
+
+  <!-- Tytuł -->
+  <text x="600" y="70" text-anchor="middle" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-size="40" font-weight="700" fill="#FFD900">
+    Cykl życia TIK
+  </text>
+  <text x="600" y="115" text-anchor="middle" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-size="28" font-weight="600" fill="#FFFFFF">
+    Planowanie i projektowanie
+  </text>
+
+  <!-- Ikona sekcji (żarówka / koncept) -->
+  <circle cx="140" cy="235" r="55" fill="#FFD900"/>
+  <rect x="130" y="275" width="20" height="30" rx="4" fill="#0A0F2C"/>
+  <path d="M115 250 Q140 220 165 250" fill="none" stroke="#0A0F2C" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Panel treści -->
+  <rect x="230" y="180" width="880" height="580" rx="16" ry="16" fill="#F8F8F8" stroke="#0A0F2C" stroke-width="2"/>
+
+  <!-- Nagłówek panelu -->
+  <text x="260" y="230" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-size="30" font-weight="700" fill="#0A0F2C">
+    Kluczowe elementy
+  </text>
+
+  <!-- Linie oddzielające -->
+  <line x1="250" y1="245" x2="1090" y2="245" stroke="#0A0F2C" stroke-width="1.5"/>
+
+  <!-- Lista punktów -->
+  <!-- Punkt 1 -->
+  <circle cx="270" cy="300" r="10" fill="#FFD900"/>
+  <text x="300" y="308" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-size="24" fill="#0A0F2C">
+    Normy dostępności w planowaniu
+  </text>
+
+  <!-- Punkt 2 -->
+  <circle cx="270" cy="360" r="10" fill="#FFD900"/>
+  <text x="300" y="368" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-size="24" fill="#0A0F2C">
+    Dostępne makiety i style guide’y
+  </text>
+
+  <!-- Punkt 3 -->
+  <circle cx="270" cy="420" r="10" fill="#FFD900"/>
+  <text x="300" y="428" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-size="24" fill="#0A0F2C">
+    Przeglądy dostępności na etapie projektu
+  </text>
+
+  <!-- Punkt 4 -->
+  <circle cx="270" cy="480" r="10" fill="#FFD900"/>
+  <text x="300" y="488" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-size="24" fill="#0A0F2C">
+    Persony i scenariusze z użytkownikami z niepełnosprawnościami
+  </text>
+
+  <!-- Punkt 5 -->
+  <circle cx="270" cy="540" r="10" fill="#FFD900"/>
+  <text x="300" y="548" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-size="24" fill="#0A0F2C">
+    Wymagania dostępności w backlogu i user stories
+  </text>
+
+  <!-- Stopka -->
+  <text x="260" y="640" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-size="18" fill="#555555">
+    Dostępność jest uwzględniana już na etapie pomysłu i koncepcji rozwiązań TIK.
+  </text>
+</svg>

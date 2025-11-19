@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+  <rect width="1200" height="520" fill="#F2F3F5"/>
+
+  <!-- HEADER -->
+  <rect width="1200" height="120" fill="#033064"/>
+  <text x="50" y="55" fill="#FFFFFF" font-family="Arial" font-size="42" font-weight="bold">
+    Personel
+  </text>
+  <text x="50" y="100" fill="#FFD500" font-family="Arial" font-size="32" font-weight="bold">
+    Wartość doświadczenia niepełnosprawności
+  </text>
+
+  <!-- PANEL -->
+  <rect x="60" y="150" width="1080" height="330" rx="12"
+        fill="#FFFFFF" stroke="#033064" stroke-width="3"/>
+
+  <!-- ICON: oko + dłoń + ucho (symboliczna inkluzja) -->
+  <g transform="translate(150,270)">
+    <circle cx="0" cy="0" r="70" fill="#033064"/>
+    <g fill="white" transform="scale(0.8)">
+      <circle cx="0" cy="-20" r="20"/>
+      <path d="M-30,20 Q0,40 30,20" stroke="white" stroke-width="8" fill="none"/>
+      <circle cx="0" cy="20" r="10"/>
+    </g>
+  </g>
+
+  <!-- TEXT -->
+  <text x="300" y="240" font-family="Arial" font-size="34" fill="#033064" font-weight="bold">
+    Wykorzystanie perspektywy pracowników
+  </text>
+  <text x="300" y="290" font-family="Arial" font-size="34" fill="#033064" font-weight="bold">
+    z niepełnosprawnościami
+  </text>
+  
+  <text x="300" y="340" font-family="Arial" font-size="28" fill="#333">
+    • Doświadczenia użytkowników wnoszone w codzienną pracę
+  </text>
+  <text x="300" y="380" font-family="Arial" font-size="28" fill="#333">
+    • Konsultowanie projektów i usług cyfrowych
+  </text>
+  <text x="300" y="420" font-family="Arial" font-size="28" fill="#333">
+    • Równoprawny udział w zespołach i decyzjach
+  </text>
+</svg>

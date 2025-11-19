@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+  <rect width="1200" height="520" fill="#F2F3F5"/>
+
+  <!-- Pasek nagłówka -->
+  <rect width="1200" height="120" fill="#033064"/>
+  <text x="50" y="55" font-family="Arial" font-size="42" fill="#FFFFFF" font-weight="bold">
+    Cykl życia TIK
+  </text>
+  <text x="50" y="100" font-family="Arial" font-size="32" fill="#FFD500" font-weight="bold">
+    Wytwarzanie i testowanie
+  </text>
+
+  <!-- Panel -->
+  <rect x="60" y="150" width="1080" height="330" rx="12" fill="#FFFFFF" stroke="#033064" stroke-width="3"/>
+
+  <!-- Ikona: wytwarzanie (koło zębate) -->
+  <g transform="translate(140,260)">
+    <circle cx="0" cy="0" r="70" fill="#033064"/>
+    <g transform="scale(0.9)" fill="white">
+      <circle cx="0" cy="0" r="22"/>
+      <path d="M0,-55 L8,-35 L28,-28 L35,-8 L55,0 L35,8 L28,28 L8,35 L0,55 L-8,35 L-28,28 L-35,8 L-55,0 L-35,-8 L-28,-28 L-8,-35 Z"/>
+    </g>
+  </g>
+
+  <!-- Tekst -->
+  <text x="300" y="240" font-family="Arial" font-size="34" fill="#033064" font-weight="bold">
+    Dostępne wytwarzanie i weryfikacja
+  </text>
+
+  <text x="300" y="290" font-family="Arial" font-size="28" fill="#333">
+    • Listy kontrolne dostępności dla developerów
+  </text>
+  <text x="300" y="330" font-family="Arial" font-size="28" fill="#333">
+    • Testy ręczne, automatyczne i z technologiami wspomagającymi
+  </text>
+  <text x="300" y="370" font-family="Arial" font-size="28" fill="#333">
+    • Reagowanie na zgłoszenia o barierach
+  </text>
+</svg>
