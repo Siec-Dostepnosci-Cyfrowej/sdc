@@ -11,12 +11,30 @@ wersja_robocza: true
 
 
 ## 🟦 Wymiar Wsparcie
+
 **(Obsługa zgłoszeń dostępności, reagowanie na bariery, udzielanie informacji i pomocy, alternatywne formy dostępu)**
 ---
 
-### 1. Istota i cel wymiaru *Wsparcie*
+### Definicja
 
-Wymiar **Wsparcie** obejmuje wszystkie rozwiązania organizacyjne, techniczne i proceduralne, które umożliwiają **pracownikom** oraz **użytkownikom zewnętrznym** skuteczne korzystanie z technologii informacyjno-komunikacyjnych (TIK), usług cyfrowych oraz treści wytwarzanych, utrzymywanych lub udostępnianych przez organizację.
+
+Wymiar **„Wsparcie”** obejmuje działania organizacji ukierunkowane na zapewnienie wszystkim użytkownikom — zarówno osobom korzystającym z usług publicznych, jak i pracownikom organizacji — realnej, skutecznej i dostępnej pomocy w sytuacjach, gdy napotykają oni bariery w dostępie do technologii informacyjno-komunikacyjnych, treści cyfrowych lub usług elektronicznych. 
+
+Wsparcie stanowi kluczowy element systemu zapewniania dostępności cyfrowej. O ile inne wymiary koncentrują się na zapobieganiu powstawaniu barier, **wymiar „Wsparcie” zapewnia reakcję organizacji wtedy, gdy bariery mimo wszystko wystąpią** — czy to z powodu błędów projektowych, nieoczekiwanych zmian technologicznych, czy indywidualnych potrzeb użytkowników wymagających dostosowania.
+
+
+
+ 
+
+
+
+ wsparcia, który **umożliwia szybkie zgłaszanie problemów, łatwe uzyskiwanie pomocy, a także systematyczne analizowanie zgłoszeń w celu doskonalenia usług cyfrowych**.
+
+**Cel wymiaru Wsparcie:** zapewnienie użytkownikom i pracownikom skutecznej, dostępnej i terminowej pomocy w każdym etapie korzystania z usług i technologii cyfrowych.
+
+
+### Cel wymiaru
+** Celem wymiaru Wsparcie jest zapewnienie użytkownikom i pracownikom skutecznej skutecznej, dostępnej i terminowej pomocy w korzystaniu z technologii informacyjno-komunikacyjnych (TIK), usług cyfrowych oraz treści wytwarzanych, utrzymywanych lub udostępnianych przez organizację.**
 
 Dojrzałe wsparcie zapewnia:
 
@@ -27,7 +45,65 @@ Dojrzałe wsparcie zapewnia:
 - **kompleksowe wsparcie techniczne i edukacyjne**,
 - **systemowe gromadzenie i analizę informacji zwrotnej**, prowadzącą do stałego doskonalenia usług.
 
-**Cel wymiaru Wsparcie:** zapewnienie użytkownikom i pracownikom skutecznej, dostępnej i terminowej pomocy w każdym etapie korzystania z usług i technologii cyfrowych.
+---
+
+### Podstawowe elementy wymiaru Wsparcie
+
+#### 1. Dostępne kanały kontaktu i pomocy
+Organizacja zapewnia różnorodne, dostępne kanały zgłaszania problemów: formularze online, adresy e-mail, numery telefonów, punkty obsługi oraz alternatywne formaty kontaktu dla osób, które nie mogą korzystać z typowych form komunikacji.  
+Ważna jest **ich dostępność**, zarówno techniczna (WCAG 2.1/2.2, dostępność telefoniczna), jak i organizacyjna (jasne instrukcje, widoczność na stronie, zrozumiałość komunikatów).
+
+#### 2. Dostępne instrukcje i materiały pomocnicze
+Organizacja udostępnia pomoc w formie instrukcji, przewodników, filmów, FAQ i innych materiałów dotyczących korzystania z systemów i usług cyfrowych — we wszystkich formach przyjaznych użytkownikom, w tym osobom z niepełnosprawnościami (napisy, audiodeskrypcja, prosta struktura, tekst łatwy do czytania, dostępne PDF/UA, alternatywy dla multimediów).
+
+#### 3. Udzielanie pomocy w korzystaniu z usług cyfrowych
+Wsparcie obejmuje zarówno pomoc techniczną, jak i pomoc w „załatwieniu sprawy” za pomocą narzędzi cyfrowych. W razie potrzeby pomoc ta może polegać na udzieleniu wsparcia zastępczego (np. asysty), przy zachowaniu zasad bezpieczeństwa oraz poszanowania prywatności użytkownika.
+
+#### 4. Analiza zgłoszeń i doskonalenie usług
+Wymiar „Wsparcie” nie ogranicza się do przyjmowania zgłoszeń — obejmuje również analizę ich treści i przyczyn, identyfikowanie powtarzających się problemów, a następnie współpracę z innymi komórkami organizacyjnymi w celu ich eliminowania.  
+Zgłoszenia są traktowane jako **informacja zwrotna od użytkowników**, a ich analiza wspiera stałe doskonalenie dostępności cyfrowej.
+
+#### 5. Wsparcie dla pracowników
+Organizacja wspiera pracowników w korzystaniu z narzędzi cyfrowych, zwłaszcza jeśli mają indywidualne potrzeby związane z niepełnosprawnością. Obejmuje to m.in. zapewnienie dostępnych narzędzi pracy, procedur zgłaszania potrzeb, szybkich mechanizmów organizacyjnych oraz udzielanie pomocy w czasie rzeczywistym.
+
+#### 6. Wsparcie organizacyjne
+Wsparcie jest osadzone w strukturach organizacyjnych i objęte stosownymi procedurami, KPI oraz nadzorem.  
+W modelu dojrzałości organizacja rozwija:  
+- **standardy i instrukcje postępowania**,  
+- **podział ról i odpowiedzialności**,  
+- **mechanizmy reagowania na zgłoszenia**,  
+- **monitorowanie terminowości i jakości obsługi**,  
+- **procesy ciągłego doskonalenia** systemu wsparcia.
+
+---
+
+### Odróżnienie wymiaru Wsparcie od wymiaru Personel
+
+Wymiar **Personel** koncentruje się na pracownikach jako uczestnikach organizacji: na zasadach równego zatrudnienia, dostępnych procesach HR, włączającej kulturze organizacyjnej i angażowaniu pracowników — w tym osób z niepełnosprawnościami — w procesy zarządzania dostępnością cyfrową.
+
+Natomiast wymiar **Wsparcie** dotyczy świadczenia pomocy użytkownikom (zarówno klientom organizacji, jak i jej pracownikom) w korzystaniu z usług cyfrowych.  
+Różnica polega więc na tym, że:
+
+- **Personel** = organizacja pracy, procesu zatrudniania i włączenia pracowników, w tym pracowników z niepełnosprawnościami.  
+- **Wsparcie** = udzielania pomocy użytkownikom i pracownikom w korzystaniu z technologii i w pokonywaniu barier.
+
+Personel jest zasobem organizacji.  
+Wsparcie jest usługą organizacji.
+
+---
+
+### Odróżnienie wymiaru Wsparcie od wymiaru Wiedza i umiejętności
+
+Wymiar **Wiedza i umiejętności** odnosi się do kompetencji pracowników organizacji w zakresie dostępności cyfrowej: szkoleń, umiejętności technicznych, znajomości standardów, zasobów edukacyjnych i rozwoju zawodowego.
+
+Natomiast **Wsparcie** dotyczy bezpośrednio systemu pomocy dla użytkowników usług cyfrowych — niezależnie od tego, na jakim poziomie wiedzy są pracownicy.
+
+Różnica polega więc na tym, że:
+
+- **Wiedza i umiejętności** = budowanie kompetencji pracowników (szkolenia, kursy, samoedukacja), zasobów edukacyjnych.  
+- **Wsparcie** = gotowość udzielania pomocy użytkownikom usług cyfrowych, dostępność kanałów kontaktu, instrukcji i wsparcia technicznego.
+
+Dojrzała organizacja potrzebuje obu wymiarów — ale są to różne procesy i różne cele.
 
 ---
 
@@ -89,17 +165,6 @@ Organizacja:
 
 ---
 
-### 4. Odróżnienie wymiaru *Wsparcie* od innych wymiarów
-
-#### 4.1. Wsparcie a *Personel*
-**Personel**: dotyczy organizacji pracy, procesu zatrudniania i włączenia pracowników, w tym pracowników z niepełnosprawnościami.  
-**Wsparcie**: dotyczy udzielania pomocy pracownikom i użytkownikom podczas korzystania z TIK.
-
-#### 4.2. Wsparcie a *Wiedza i umiejętności*
-**Wiedza i umiejętności**: rozwijanie kompetencji pracowników (szkolenia, kursy, samoedukacja).  
-**Wsparcie**: udzielanie bieżącej pomocy, narzędzia i usprawnienia, obsługa zgłoszeń.
-
----
 
 ### 5. Pełna lista punktów dowodowych
 
