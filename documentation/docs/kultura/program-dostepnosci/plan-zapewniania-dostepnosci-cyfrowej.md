@@ -14,7 +14,7 @@ tags: [
 ]
 opracowanie: Anna Czekalska
 data_zgloszenia: 2 października 2025 r.
-ostatnia_aktualizacja: 24 września 2025 r.
+ostatnia_aktualizacja: 19 listopada 2025 r.
 wersja_robocza: true
 ---
 
