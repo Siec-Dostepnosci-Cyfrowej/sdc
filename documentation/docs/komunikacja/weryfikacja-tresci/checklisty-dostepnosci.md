@@ -6,8 +6,8 @@ sidebar_label: Listy kontrolne
 keywords: [komunikacja, wiedza i umiejętności]
 tags: [komunikacja, wiedza i umiejętności]
 opracowanie: Aleksandra Cybulska
-data-zgloszenia: 17 listopada 2025 r.
-data-aktualizacji:  
+data_zgloszenia: 17 listopada 2025 r.
+data_aktualizacji: 18 listopada 2025 r.
 wersja_robocza: true
 ---
 

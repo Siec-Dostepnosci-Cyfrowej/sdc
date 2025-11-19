@@ -2,12 +2,12 @@
 id: podrecznik-tworzenia-tresci-dostepnych
 title: Stworzenie Podręcznika dla twórców dostępnych cyfrowo treści
 sidebar_position: 1
-sidebar_label: System obowiązkowych szkoleń
+sidebar_label: Podręcznika dla twórców
 keywords: [komunikacja, wiedza i umiejętności]
 tags: [komunikacja, wiedza i umiejętności]
 opracowanie: Aleksandra Cybulska
-data-zgloszenia: 17 listopada 2025 r.
-data-aktualizacji:  
+data_zgloszenia: 17 listopada 2025 r.
+data_aktualizacji:  18 listopada 2025 r.
 wersja_robocza: true
 ---
 

@@ -6,8 +6,8 @@ sidebar_label: Weryfikacja dostępności treści
 keywords: [weryfikacja treści]
 tags: [weryfikacja treści]
 opracowanie: Aleksandra Cybulska
-data-zgloszenia: 14 listopada 2025 r.
-data-aktualizacji:  17 listopada 2025 r.
+data_zgloszenia: 14 listopada 2025 r.
+data_aktualizacji:  18 listopada 2025 r.
 wersja_robocza: true
 ---
 
