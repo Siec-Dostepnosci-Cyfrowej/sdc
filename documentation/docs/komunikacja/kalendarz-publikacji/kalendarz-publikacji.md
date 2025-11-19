@@ -1,9 +1,15 @@
 ---
 id: kalendarz-publikacji
 title: Stworzenie kalendarza publikacji dotyczących dostępności cyfrowej
+description: Propozycja stworzenia kalendarza publikacji nt. dostępności cyfrowej
+sidebar_label: Kalendarz publikacji
+sidebar_position: 0 
 opracowanie: Aleksandra Cybulska
-data dodania: 18 listopada 2025 r.
+data_zgloszenia: 18 listopada 2025 r.
+ostatnia_aktualizacja: 19 listopada 2025 r.
+wersja_robocza: true
 ---
+
 ## Zalecenie: Stworzenie kalendarza publikacji dotyczących dostępności cyfrowej
 
 ## Cel zalecenia
@@ -83,14 +89,4 @@ aktualizacja kalendarza na podstawie wyników.
 ## Rekomendowane dobre praktyki
 - Stworzenie i implementacja w organizacji Polityki dostępności cyfrowej, której ww. harmonogram jest elementem
 
----
-
-```mermaid
-flowchart TD
-    A[Analiza potrzeb informacyjnych] --> B[Tworzenie kalendarza]
-    B --> C[Produkcja treści]
-    C --> D[Dystrybucja]
-    D --> E[Ewaluacja]
-    E --> B[Tworzenie kalendarza]
-
-```
+![Kalendarz publikacji - przepływ pracy](/komunikacja/kalendarz-publikacji/kalendarz-publikacji.png)
