@@ -36,6 +36,7 @@ Zapewnienie dostępności cyfrowej nie jest jednorazowym działaniem. Jest to pr
 Do współpracy należy angażować osoby z różnym poziomem umiejętności cyfrowych oraz korzystania z technologii asystujących. Użytkownicy zaawansowani mogą w wielu przypadkach znaleźć sposób na obejście problemu z dostępnością, co jest cennym źródłem informacji, ale może również sprawić, że pewne błędy zostaną zbagatelizowane. Dla osoby mniej doświadczonej taki błąd może się natomiast okazać nie do przejścia. Zebranie zbalansowanej grupy testerów pozwoli na zadbanie o potrzeby wszystkich użytkowników.
 
 Stosowanie się do powyższych zaleceń nie tylko wpłynie na poprawę stanu dostępności cyfrowej w organizacji, ale również pozwoli na zmniejszenie kosztów pracy nad nią.
+
 ---
 
 ## Podstawa prawna:
