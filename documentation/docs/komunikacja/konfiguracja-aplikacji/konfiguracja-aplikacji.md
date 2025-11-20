@@ -66,12 +66,12 @@ Wszyscy pracownicy organizacji.
 ::: do weryfikacji lub uzupełnienia :::
 
 ### Word (szablony dokumentów)
-[ ] Ustaw domyślny wygląd nagłówków (H1, H2, H3) oraz innych styli w szablonie .dotm, style niezalecane dla organizacji wyłącz.
-[ ] Ustaw czcionkę bezszeryfową (np. Arial) jako domyślną.
-[ ] W ustawieniach styli zapewnij kontrast kolorów min. 4.5:1 między kolorem tła dokumentu a kolorem fontu.
-[ ] Dodaj instrukcję dodawania opisów alternatywnych do obrazów.
-[ ] Wykorzystaj tak dużo ustawień domyślnych wskazanych wprost w WCAG oraz w dobrych praktykach, jak to możliwe.
-[ ] Włącz automatyczne sprawdzanie dostępności w Word.
+- [ ] Ustaw domyślny wygląd nagłówków (H1, H2, H3) oraz innych styli w szablonie .dotm, style niezalecane dla organizacji wyłącz.
+- [ ] Ustaw czcionkę bezszeryfową (np. Arial) jako domyślną.
+- [ ] W ustawieniach styli zapewnij kontrast kolorów min. 4.5:1 między kolorem tła dokumentu a kolorem fontu.
+- [ ] Dodaj instrukcję dodawania opisów alternatywnych do obrazów.
+- [ ] Wykorzystaj tak dużo ustawień domyślnych wskazanych wprost w WCAG oraz w dobrych praktykach, jak to możliwe.
+- [ ] Włącz automatyczne sprawdzanie dostępności w Word.
 
 ### Microsoft Teams (spotkania online)
 [ ] Włącz napisy na żywo w ustawieniach spotkań.
@@ -118,7 +118,7 @@ Wszyscy pracownicy organizacji.
 
 ---
 
-## Diagram procesu wdrożenia
+## Diagram procesu wdrożenia i doskonalenia
 ```mermaid
 flowchart TD
     A[Analiza potrzeb] --> B[Projekt szablonów]
@@ -126,7 +126,7 @@ flowchart TD
     C --> D[Szkolenia]
     D --> E[Monitorowanie]
     E -->|OK| F[Utrzymanie dobrych praktyk]
-    F --> E[Monitorowanie]
+    F --> E[Okresowe monitorowanie]
     E -->|Utrzymujące się błędy| G[Zidentyfikowanie koniecznych poprawek]
     G --> C[Konfiguracja narzędzi]
 ```
