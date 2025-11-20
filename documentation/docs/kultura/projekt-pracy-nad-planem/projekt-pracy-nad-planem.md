@@ -21,5 +21,7 @@ data_zgłoszenia: 20 listopada 2025 r.
 - [LepszyWeb](https://lepszyweb.pl/blog)
 
 ## Historia wersji
-| | | | |
+| Wersja | Autor | Data | Opis zmian |
+| --- | --- | --- | --- |
+| 1.0 | Anna Czekalska | 20.11.2025 | Utworzenie |
 ## Podsumowanie
