@@ -1,6 +1,7 @@
 ---
 id: wspolpraca-z-osobami-z-niepelnosprawnosciami
-title: Współpraca z osobami z niepełnosprawnościami w celu oceny sidebar_label:  Współpraca z osobami z niepełnosprawnościami 
+title: Współpraca z osobami z niepełnosprawnościami w celu oceny 
+sidebar_label:  Współpraca z osobami z niepełnosprawnościami 
 sidebar_position: 1
 opracowanie: 
 wspolpraca: Rafał Socha
