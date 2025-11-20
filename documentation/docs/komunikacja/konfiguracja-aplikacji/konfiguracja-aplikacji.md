@@ -3,16 +3,36 @@ id: konfiguracja-aplikacji
 title: Wprowadzenie domyślnych ustawień dostępności dla aplikacji cyfrowych w organizacji wykorzystywanych do komunikacji
 opracowanie: Aleksandra Cybulska
 data dodania: 18 listopada 2025 r.
+data zmiany: 20 listopada 2025 r.
 ---
 
-## Cel dobrej praktyki
+## Nazwa dobrej praktyki
+Wprowadzenie domyślnych ustawień dostępności dla aplikacji cyfrowych w organizacji wykorzystywanych do komunikacji
+
+## Wymiar dostępności:
+Komunikacja
+
+## Podmiot realizujący dobrą praktykę
+Instytucja publiczna (np. urząd centralny, muzeum, biblioteka)
+
+## Powód realizacji dobrej praktyki
 Zapewnienie spójnych, dostępnych i zgodnych z prawem ustawień dla narzędzi cyfrowych wykorzystywanych w komunikacji organizacyjnej – zarówno w procesie tworzenia dokumentów (np. szablony Word, PowerPoint), publikacji treści, jak i prowadzenia spotkań online (np. Microsoft Teams).
 
-## Zakres dobrej praktyki
+---
+
+## Charakterystyka dobrej praktyki
+
+### Zakres dobrej praktyki
 - Ujednolicenie szablonów dokumentów (.dotm, .docx, .pptx) z domyślnymi ustawieniami dostępności.
 - Konfiguracja narzędzi do publikacji treści (CMS, intranet) zgodnie z WCAG 2.1 AA.
 - Wprowadzenie standardów dla spotkań online (Teams, Zoom) – np. napisy na żywo, kontrast interfejsu.
 - Szkolenia dla pracowników w zakresie korzystania z ustawień dostępności.
+
+### Cel dobrej praktyki
+
+### Grupa docelowa
+
+---
 
 ## Rekomendacje dobrych praktyk
 1. **Szablony dokumentów**:
@@ -29,6 +49,24 @@ Zapewnienie spójnych, dostępnych i zgodnych z prawem ustawień dla narzędzi c
    - Używaj funkcji rozmycia tła dla prywatności.
    - Udostępniaj materiały w formatach dostępnych (PDF/UA, DOCX).
    - Zapewnij możliwość obsługi klawiaturą.
+
+---
+
+## Opis przeprowadzonych działań
+
+---
+
+## Zasoby / koszty
+
+---
+
+## Opis osiągniętych rezultatów
+
+---
+
+## Sposób pomiaru rezultatów
+
+---
 
 ## Podstawy prawne
 - **Dyrektywa (UE) 2016/2102** – dostępność stron i aplikacji sektora publicznego.
