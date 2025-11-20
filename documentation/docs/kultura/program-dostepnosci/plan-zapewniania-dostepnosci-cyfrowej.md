@@ -22,7 +22,7 @@ wersja_robocza: true
 
 ## Zalecenie
 
-Instytucja publiczna powinna opracować i wdrożyć Plan działania na rzecz poprawy zapewniania dostępności osobom ze szczególnymi potrzebami, ponieważ jest to ustawowy obowiązek wynikający z ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami. Plan ten stanowi podstawowy instrument realizacji polityki dostępności i służy systematycznemu eliminowaniu barier, które mogą ograniczać pełne uczestnictwo osób z niepełnosprawnościami i innych osób ze szczególnymi potrzebami w życiu publicznym.
+Instytucja publiczna powinna opracować i wdrożyć Plan działania na rzecz poprawy zapewniania dostępności osobom ze szczególnymi potrzebami. Jest to ustawowy obowiązek wynikający z ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami. Plan ten stanowi podstawowy do realizacji polityki dostępności i służy systematycznemu usuwaniu barier, które utrudniają osobom z niepełnosprawnościami i innym osobom ze szczególnymi potrzebami pełny udział w życiu publicznym.
 
 ## Rekomendacje
 
@@ -80,4 +80,4 @@ Opracowanie i wdrożenie Planu działania jest więc nie tylko wymogiem prawnym,
 | Wersja | Autor | Data | Opis zmian |
 | --- | --- | --- | --- |
 | 1.0 | Anna Czekalska | 2 października 2025 r | Utworzenie |
-
+| 2.0 | Anna Czekalska | 20 listopada 2025 r | Korekta |
