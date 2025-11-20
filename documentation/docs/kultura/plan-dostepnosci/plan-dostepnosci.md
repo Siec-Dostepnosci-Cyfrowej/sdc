@@ -16,7 +16,7 @@ wersja_robocza: true
 
 ## Zalecenie
 
-Instytucja publiczna powinna opracować i wdrożyć Plan działania na rzecz poprawy zapewniania dostępności osobom ze szczególnymi potrzebami, ponieważ jest to ustawowy obowiązek wynikający z ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami. Plan ten stanowi podstawowy instrument realizacji polityki dostępności i służy systematycznemu eliminowaniu barier, które mogą ograniczać pełne uczestnictwo osób z niepełnosprawnościami i innych osób ze szczególnymi potrzebami w życiu publicznym.
+Instytucja publiczna powinna opracować i wdrożyć Plan działania na rzecz poprawy zapewniania dostępności osobom ze szczególnymi potrzebami. Jest to ustawowy obowiązek wynikający z ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami. Plan ten stanowi podstawowe narzędzie do realizacji polityki dostępności i pomaga regularnie usuwać bariery, które utrudniają osobom z niepełnosprawnościami i innym osobom ze szczególnymi potrzebami pełny udział w życiu publicznym.
 
 ## Rekomendacje
 
@@ -68,6 +68,11 @@ Opracowanie i wdrożenie Planu działania jest więc nie tylko wymogiem prawnym,
 
 ## Źródła, opracowania
 - [Planning and Policies Overview](https://www.w3.org/WAI/planning/)
+- [Developing Organizational Policies on Web Accessibility](https://www.w3.org/WAI/planning/org-policies/)
+- [Example of a Comprehensive Organizational Policy](https://www.w3.org/WAI/planning/org-policies/example/)
+- [Planning and Managing Web Accessibility – Plan](https://www.w3.org/WAI/planning-and-managing/plan/)
+- [The WebAIM Strategic Accessibility Framework](https://webaim.org/articles/strategicframework/)
+- [Ramy strategii dostępności WebAIM. Wskaźniki i kryteria sukcesu](https://lepszyweb.pl/blog2/ramy-strategii-dostepnosci-webaim)
 
 
 ## Historia wersji
