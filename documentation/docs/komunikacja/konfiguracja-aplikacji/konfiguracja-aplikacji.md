@@ -74,21 +74,21 @@ Wszyscy pracownicy organizacji.
 - [ ] Włącz automatyczne sprawdzanie dostępności w Word.
 
 ### Microsoft Teams (spotkania online)
-[ ] Włącz napisy na żywo w ustawieniach spotkań.
-[ ] Ustaw domyślną opcję nagrywania z napisami.
-[ ] Włącz możliwość tłumaczenia na język migowy (jeśli dostępne).
-[ ] Zapewnij opcję rozmycia tła dla prywatności.
-[ ] Udostępniaj materiały w formatach dostępnych (PDF/UA, DOCX).
-[ ] Przygotuj instrukcje obsługi z wykorzystaniem klawiatury. 
+- [ ] Włącz napisy na żywo w ustawieniach spotkań.
+- [ ] Ustaw domyślną opcję nagrywania z napisami.
+- [ ] Włącz możliwość tłumaczenia na język migowy (jeśli dostępne).
+- [ ] Zapewnij opcję rozmycia tła dla prywatności.
+- [ ] Udostępniaj materiały w formatach dostępnych (PDF/UA, DOCX).
+- [ ] Przygotuj instrukcje obsługi z wykorzystaniem klawiatury. 
 
 ### CMS / Publikacja treści
-[ ] Włącz automatyczne generowanie atrybutów ALT dla obrazów (wymaga manualnej weryfikacji osoby zatwierdzającej publikację).
-[ ] Zapewnij możliwość dodawania tekstowej alternatywy dla publikowanych treści multimedialnych (transkrypcje, napisy rozszerzone, audiodeskrypcje, opisy alternatywne).
-[ ] Ustaw domyślny szablon publikacji zgodny z WCAG 2.1 dla wykorzystywanych edytorów treści.
-[ ] Przygotuj i udostępnij wszystkim pracownikom szablony dokumentów wykorzystywanych w instytucji (np. szablony zamówień, szablony umów itp.) skonfigurowane prawidłowo pod względem dostępności cyfrowej.
-[ ] Włącz walidację kontrastu kolorów w edytorze treści.
-[ ] Zapewnij responsywność i obsługę klawiaturą dla wszystkich elementów.
-[ ] Zadbaj o regularne audytowanie CMS i strony www pod kątem zgodności z WCAG 2.1
+- [ ] Włącz automatyczne generowanie atrybutów ALT dla obrazów (wymaga manualnej weryfikacji osoby zatwierdzającej publikację).
+- [ ] Zapewnij możliwość dodawania tekstowej alternatywy dla publikowanych treści multimedialnych (transkrypcje, napisy rozszerzone, audiodeskrypcje, opisy alternatywne).
+- [ ] Ustaw domyślny szablon publikacji zgodny z WCAG 2.1 dla wykorzystywanych edytorów treści.
+- [ ] Przygotuj i udostępnij wszystkim pracownikom szablony dokumentów wykorzystywanych w instytucji (np. szablony zamówień, szablony umów itp.) skonfigurowane prawidłowo pod względem dostępności cyfrowej.
+- [ ] Włącz walidację kontrastu kolorów w edytorze treści.
+- [ ] Zapewnij responsywność i obsługę klawiaturą dla wszystkich elementów.
+- [ ] Zadbaj o regularne audytowanie CMS i strony www pod kątem zgodności z WCAG 2.1
 
 ---
 
