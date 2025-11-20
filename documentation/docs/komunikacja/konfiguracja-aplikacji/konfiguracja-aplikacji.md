@@ -125,7 +125,9 @@ flowchart TD
     B --> C[Konfiguracja narzędzi]
     C --> D[Szkolenia]
     D --> E[Monitorowanie]
+    E -->|OK| F[Utrzymanie dobrych praktyk]
+    E -->|Utrzymujące się błędy| G[Zidentyfikowanie koniecznych poprawek]
+    G --> C[Konfiguracja narzędzi]
 
-    classDef step fill:#bbf,stroke:#333,stroke-width:2px;
-    class A,B,C,D,E step;
+
 ```
