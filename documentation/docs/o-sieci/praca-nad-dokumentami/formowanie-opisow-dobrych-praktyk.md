@@ -1,17 +1,15 @@
 ---
 id: formowanie-opisow-dobrych-praktyk
-title: Formowanie opisów dobrych praktyk
+title: Formowanie opisów dobrych praktyk Sieci Dostępności Cyfrowej
 description: Określa zasady i strukturę opracowywania opisów dobrych praktyk w ramach Sieci Dostępności Cyfrowej
 sidebar_label: Formowanie opisów dobrych praktyk
 sidebar_position: 4
 keywords: [dobre praktyki, opisy, struktura, zasady, dokumenty Sieci]
 opracowanie: Stefan Wajda
 data_zgloszenia: 30 lipca 2025 r.
-ostatnia_aktualizacja: 24 września 2025 r.
+ostatnia_aktualizacja: 21 listopada 2025 r.
 wersja_robocza: true
 ---
-
-# Formowanie opisów dobrych praktyk Sieci Dostępności Cyfrowej
 
 ## 1. Cel opracowania
 
@@ -162,17 +160,14 @@ Tekst powinien być zwięzły, uporządkowany, klarowny i zgodny z zasadami dost
 
 ---
 
-## 9. Historia wersji
-
-| Wersja | Data | Etap | Opis zmian |
-|--------|------|------|-------------|
-| 0.9 | [data] | Projekt roboczy | Pierwsza wersja opracowania |
-| 1.0-RC | [data] | Kandydat do przyjęcia | Wersja przedstawiona Sieci |
-| 1.0 | [data] | Wersja zatwierdzona | Wersja przyjęta przez Sieć |
-
----
-
-## 10. Podsumowanie
+## 9. Podsumowanie
 
 Opracowywanie i publikowanie opisów dobrych praktyk jest jednym z filarów działalności Sieci Dostępności Cyfrowej.  
 Zebrane materiały posłużą budowie **Bazy dobrych praktyk** – narzędzia, które umożliwi instytucjom publicznym uczenie się od siebie nawzajem i wspólne rozwijanie kultury dostępności cyfrowej w Polsce.
+
+
+## Zobacz także
+
+- [Dobra praktyka – definicja](definicja-dobrej-praktyki)
+- [Jak opisać dobrą praktykę – krótki poradnik dla autorów](poradnik-opis-dobrej-praktyki)
+- [Instrukcja dla recenzenta opisu dobrej praktyki](instrukcja-recenzenta-dobrej-praktyki)
