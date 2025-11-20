@@ -77,7 +77,7 @@ Opracowanie i wdrożenie Planu działania jest więc nie tylko wymogiem prawnym,
 
 ## Historia wersji
 
-| **Wersja** | **Autor** | **Data** | **Opis zmian** |
+| Wersja | Autor | Data | Opis zmian |
 | --- | --- | --- | --- |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| 1.0 | Anna Czekalska | 2 października 2025 r | Utworzenie |
 
