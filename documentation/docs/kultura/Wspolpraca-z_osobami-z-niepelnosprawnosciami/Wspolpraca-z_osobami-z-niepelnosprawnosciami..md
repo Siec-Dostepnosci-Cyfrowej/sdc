@@ -1,7 +1,13 @@
 ---
 id: Wspolpraca-z_osobami-z-niepelnosprawnosciami
-title: Współpraca z osobami z niepełnosprawnościami w celu oceny stanu dostępności w organizacji
+title: Współpraca z osobami z niepełnosprawnościami w celu oceny sidebar_label:  Współpraca z osobami z niepełnosprawnościami 
+sidebar_position: 1
+opracowanie: 
+wspolpraca: Rafał Socha
 data_zgloszenia: 20 listopada 2025 r.
+ostatnia_aktualizacja: 20 listopada 2025 r.
+wersja_robocza: true
+---
 ---
 
 ## Zalecenie: 
