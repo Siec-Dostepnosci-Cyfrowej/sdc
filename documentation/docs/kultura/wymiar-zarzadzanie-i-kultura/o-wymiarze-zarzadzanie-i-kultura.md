@@ -12,14 +12,11 @@ wersja_robocza: true
 
 
 ## 🟦 Wymiar Zarządzanie i kultura organizacyjna
+
 **(Strategia, odpowiedzialność, struktura, nadzór, kultura włączająca i ciągłość dostępności)**
 
 
-
-
-# Wymiar: Zarządzanie i kultura organizacyjna
-
-## 1. Opisowa definicja
+## 1. Definicja  wymiaru
 
 Wymiar **Zarządzanie i kultura organizacyjna** obejmuje sposób, w jaki organizacja kieruje, planuje, nadzoruje i utrzymuje działania na rzecz dostępności cyfrowej, a także to, jak wartości, normy i praktyki zakorzenione w kulturze organizacyjnej wspierają lub utrudniają jej realizację.
 

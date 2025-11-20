@@ -102,10 +102,6 @@ Różnica:
 
 ### 6. Pełna lista punktów dowodowych
 
-
-
-
-
 #### A. Badania użytkowników
 - uwzględnienie niepełnosprawności w badaniach,
 - prowadzenie badań ukierunkowanych na dostępność,
