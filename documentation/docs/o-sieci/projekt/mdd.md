@@ -2,12 +2,19 @@
 id: mdd
 title: Model dojrzałości dostępności W3C
 sidebar_label: Model dojrzałości dostępności W3C
-sidebar_position: 5
+sidebar_position: 6
+description: Robocze tłumaczenie Modelu dojrzałości dostępności W3C
+keywords: [zarządzanie, dostępnośc cyfrowa, audyt, samoocena]
+tags: [zarządzanie, dostępnośc cyfrowa, audyt, samoocena]
+opracowanie: Stefan Wajda
+data_zgloszenia: 18 marca 2025 r.
+data_aktualizacji: 15 listopada 2025 r.
+wersja_robocza: true
 ---
 
-# Model dojrzałości dostępności W3C
 
-Tłumaczenie robocze, v. 09, oprac. Stefan Wajda
+
+**Tłumaczenie robocze, v. 09, oprac. Stefan Wajda**
 
 Źródło: [Model dojrzałości dostępności W3C](https://w3c.github.io/maturity-model/)
 
