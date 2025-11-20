@@ -1,6 +1,6 @@
 ---
-id: Projekt-pracy-na-planem
-title:"Projekt pracy na planem na rzecz zapewnienia dostępności"
+id: Projekt-pracy-nad-planem
+title: Projekt pracy na planem na rzecz zapewnienia dostępności
 opracowanie: Anna Czekalska, Stefan Wajda
 data_zgłoszenia: 20 listopada 2025 r.
 ---
