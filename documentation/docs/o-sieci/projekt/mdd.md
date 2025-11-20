@@ -2,7 +2,7 @@
 id: mdd
 title: Model dojrzałości dostępności W3C
 sidebar_label: Model dojrzałości dostępności W3C
-sidebar_position: 6
+sidebar_position: 7
 description: Robocze tłumaczenie Modelu dojrzałości dostępności W3C
 keywords: [zarządzanie, dostępnośc cyfrowa, audyt, samoocena]
 tags: [zarządzanie, dostępnośc cyfrowa, audyt, samoocena]
