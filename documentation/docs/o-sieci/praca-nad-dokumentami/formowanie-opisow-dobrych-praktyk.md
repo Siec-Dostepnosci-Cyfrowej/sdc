@@ -77,7 +77,7 @@ Jeśli obejmuje więcej niż jeden wymiar, należy to wskazać w zgłoszeniu.
 4. **Cykl życia technologii informacyjno-komunikacyjnej** – rozwiązania zapewniające, że stosowane technologie są dostępne i przyjazne użytkownikom.  
 5. **Pracownicy** – praktyki sprzyjające zatrudnianiu i włączaniu osób z niepełnosprawnościami w życie organizacji.  
 6. **Zaopatrzenie** – rozwiązania zapewniające dostępność produktów i usług cyfrowych w procesach zakupowych i zamówieniach publicznych.
-
+7. **Zarządzanie i kultura organizacyjna** - rozwiązania, które pozwalają organizacji systemowo zarządzać dostępnością cyfrową oraz budować kulturę instytucjonalną sprzyjającą jej wdrażaniu.
 ---
 
 ## 6. Kryteria oceny dobrych praktyk
@@ -171,3 +171,4 @@ Zebrane materiały posłużą budowie **Bazy dobrych praktyk** – narzędzia, k
 - [Dobra praktyka – definicja](definicja-dobrej-praktyki)
 - [Jak opisać dobrą praktykę – krótki poradnik dla autorów](poradnik-opis-dobrej-praktyki)
 - [Instrukcja dla recenzenta opisu dobrej praktyki](instrukcja-recenzenta-dobrej-praktyki)
+- [Wymiary dojrzałości a dobre praktyki](wymiary-dobre-praktyki)

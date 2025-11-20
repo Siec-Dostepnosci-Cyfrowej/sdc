@@ -135,6 +135,6 @@ Jego opinia wspiera:
 - rozwój jakości opisów,  
 - profesjonalizację procesu,  
 - uczenie się instytucji publicznych od siebie nawzajem,  
-- rozwój kultur dostępności cyfrowej w Polsce.
+- rozwój kultury dostępności cyfrowej w Polsce.
 
 Recenzent nie tylko ocenia — pomaga podnosić standard pracy całej Sieci.

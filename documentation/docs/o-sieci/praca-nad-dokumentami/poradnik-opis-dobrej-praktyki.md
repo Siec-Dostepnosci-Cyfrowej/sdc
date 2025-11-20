@@ -73,7 +73,7 @@ Unikaj sformułowań typu: „można byłoby”, „planujemy”, „rozważamy�
 
 ## 6. Podeprzyj opis artefaktami
 
-Do opisu możesz dołączyć (lub wskazać):
+Do opisu możesz dołączyć (lub wskazać) np.:
 
 - wdrożoną procedurę,  
 - fragment regulaminu lub instrukcji,  
@@ -94,7 +94,7 @@ Metryczka powinna zawierać:
 
 1. **Nazwa podmiotu** – instytucja publiczna, w której praktyka została wdrożona.  
 2. **Nazwa zgłaszającego** – osoba przygotowująca opis.  
-3. **Wymiar dostępności cyfrowej** – jeden z sześciu wymiarów modelu dojrzałości.  
+3. **Wymiar dostępności cyfrowej** – jeden z siedmiu wymiarów modelu dojrzałości.  
 4. **Dane kontaktowe osoby udzielającej wyjaśnień** – adres e-mail, opcjonalnie telefon, funkcja lub stanowisko.
 
 ---

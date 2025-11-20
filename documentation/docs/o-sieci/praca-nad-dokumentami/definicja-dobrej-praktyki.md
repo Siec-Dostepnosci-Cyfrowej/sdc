@@ -52,6 +52,7 @@ Dobra praktyka:
 - **Cykl życia TIK:** implementacja narzędzia stałego monitoringu dostępności.  
 - **Pracownicy:** program pozyskiwania osób z niepełnosprawnościami na stanowiska techniczne związane z dostępnością.  
 - **Zaopatrzenie:** opracowanie i stosowanie klauzul dostępności w zamówieniach publicznych.
+- **Zarządzanie i kultura organizacyjna:** opacowanie polityki dostępności cyfrowej
 
 ---
 
