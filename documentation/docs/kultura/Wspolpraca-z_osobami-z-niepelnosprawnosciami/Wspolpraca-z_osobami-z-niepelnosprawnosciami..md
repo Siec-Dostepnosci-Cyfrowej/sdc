@@ -6,6 +6,8 @@ data_zgloszenia: 20 listopada 2025 r.
 
 ## Zalecenie: 
 Organizacje współpracują z osobami z niepełnosprawnościami w celu oceny i ewentualnej poprawy stanu dostępności przygotowywanych przez siebie zasobów. Zasoby te mają wpływ zarówno na klientów zainteresowanych usługami organizacji, jak i również na pracowników i potencjalnych kandydatów szukających zatrudnienia.
+---
+
 ## Rekomendacje:
 Biorąc pod uwagę potrzeby I możliwości zarówno dużych jak i małych organizacji zaleca się podjęcie współpracy z lokalną społecznością w celu wykrycia potencjalnych problemów. Na przykład:
 Szkoła podstawowa postanawia wprowadzić na stronie formularz zapisywania uczniów na zieloną szkołę, który ma zastąpić tradycyjną metodę i tym samym wyeliminować potrzebę drukowania i kompletowania fizycznych dokumentów. Bojąc się o problemy z dostępnością formularza szkoła zwraca się z prośbą o przetestowanie do osób z niepełnosprawnościami. Zainteresowani kontaktują się w celu ustalenia szczegółów. Konieczne będzie przygotowanie środowiska testowego i wyznaczenie osoby, która zbierze uwagi od testerów. Po zebraniu uwag i wprowadzeniu poprawek formularz zostaje opublikowany na stronie.
