@@ -60,7 +60,7 @@ Wszyscy pracownicy organizacji.
 - Udostępniono instrukcje i checklisty w intranecie.
 6. **Monitorowanie i doskonalenie**
 - Ustalono cykliczne audyty dostępności dokumentów i treści publikowanych w CMS.
-- Zbierane są opinie pracowników i użytkowników w celu dalszego ulepszania ustawień.
+- Zbierane są opinie pracowników i użytkowników w celu dalszego usuwania błędów oraz ulepszania ustawień.
 
 ## Checklisty ustawień dostępności dla podstawowych edytorów treści i aplikacji do komunikacji
 ::: do weryfikacji lub uzupełnienia :::
@@ -126,8 +126,7 @@ flowchart TD
     C --> D[Szkolenia]
     D --> E[Monitorowanie]
     E -->|OK| F[Utrzymanie dobrych praktyk]
+    F --> E[Monitorowanie]
     E -->|Utrzymujące się błędy| G[Zidentyfikowanie koniecznych poprawek]
     G --> C[Konfiguracja narzędzi]
-
-
 ```
