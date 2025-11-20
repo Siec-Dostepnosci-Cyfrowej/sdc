@@ -67,10 +67,13 @@ Plan zapewnia:
 Opracowanie i wdrożenie Planu działania jest więc nie tylko wymogiem prawnym, ale również wyrazem odpowiedzialności społecznej instytucji publicznych, zapewniającym równy dostęp do usług publicznych wszystkim obywatelom.
 
 ## Źródła, opracowania
+- [Planning and Policies Overview](https://www.w3.org/WAI/planning/)
 
 
 ## Historia wersji
 
 | **Wersja** | **Autor** | **Data** | **Opis zmian** |
 | --- | --- | --- | --- |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|1 | Anna Czekalska  <br/>Stefan Wajda | 2 pażdziernika 2025 r. | Utworzenie |
+|2 | Anna Czekalska | 30 października 2025 r. | Korekta |
+|2 | Anna Czekalska | 20 listopada 2025 r. | Korekta |
