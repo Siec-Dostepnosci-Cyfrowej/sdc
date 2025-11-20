@@ -1,5 +1,5 @@
 ---
-id: Wspolpraca-z_osobami-z-niepelnosprawnosciami
+id: wspolpraca-z-osobami-z-niepelnosprawnosciami
 title: Współpraca z osobami z niepełnosprawnościami w celu oceny sidebar_label:  Współpraca z osobami z niepełnosprawnościami 
 sidebar_position: 1
 opracowanie: 
@@ -8,7 +8,7 @@ data_zgloszenia: 20 listopada 2025 r.
 ostatnia_aktualizacja: 20 listopada 2025 r.
 wersja_robocza: true
 ---
----
+
 
 ## Zalecenie: 
 Organizacje współpracują z osobami z niepełnosprawnościami w celu oceny i ewentualnej poprawy stanu dostępności przygotowywanych przez siebie zasobów. Zasoby te mają wpływ zarówno na klientów zainteresowanych usługami organizacji, jak i również na pracowników i potencjalnych kandydatów szukających zatrudnienia.
