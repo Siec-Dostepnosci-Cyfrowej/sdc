@@ -5,10 +5,10 @@ opracowanie: Aleksandra Cybulska
 data dodania: 18 listopada 2025 r.
 ---
 
-## Cel zalecenia
+## Cel dobrej praktyki
 Zapewnienie spójnych, dostępnych i zgodnych z prawem ustawień dla narzędzi cyfrowych wykorzystywanych w komunikacji organizacyjnej – zarówno w procesie tworzenia dokumentów (np. szablony Word, PowerPoint), publikacji treści, jak i prowadzenia spotkań online (np. Microsoft Teams).
 
-## Zakres zalecenia
+## Zakres dobrej praktyki
 - Ujednolicenie szablonów dokumentów (.dotm, .docx, .pptx) z domyślnymi ustawieniami dostępności.
 - Konfiguracja narzędzi do publikacji treści (CMS, intranet) zgodnie z WCAG 2.1 AA.
 - Wprowadzenie standardów dla spotkań online (Teams, Zoom) – np. napisy na żywo, kontrast interfejsu.
