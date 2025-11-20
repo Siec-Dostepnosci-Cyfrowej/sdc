@@ -6,6 +6,7 @@ data_zgloszenia: 20 listopada 2025 r.
 
 ## Zalecenie: 
 Organizacje współpracują z osobami z niepełnosprawnościami w celu oceny i ewentualnej poprawy stanu dostępności przygotowywanych przez siebie zasobów. Zasoby te mają wpływ zarówno na klientów zainteresowanych usługami organizacji, jak i również na pracowników i potencjalnych kandydatów szukających zatrudnienia.
+
 ---
 
 ## Rekomendacje:
