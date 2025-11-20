@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+  <rect width="1200" height="520" fill="#F2F3F5"/>
+
+  <!-- Header -->
+  <rect width="1200" height="120" fill="#033064"/>
+  <text x="50" y="55" font-family="Arial" font-size="42" fill="#FFFFFF" font-weight="bold">
+    Wiedza i umiejętności
+  </text>
+  <text x="50" y="100" font-family="Arial" font-size="32" fill="#FFD500" font-weight="bold">
+    Integracja i monitorowanie
+  </text>
+
+  <!-- Panel -->
+  <rect x="60" y="150" width="1080" height="330" rx="12"
+        fill="#FFFFFF" stroke="#033064" stroke-width="3"/>
+
+  <!-- Ikona: wykres / monitorowanie -->
+  <g transform="translate(150,260)">
+    <circle cx="0" cy="0" r="70" fill="#033064"/>
+    <g transform="scale(0.9)" fill="white">
+      <rect x="-35" y="10" width="15" height="40"/>
+      <rect x="-5" y="-5" width="15" height="55"/>
+      <rect x="25" y="-25" width="15" height="75"/>
+    </g>
+  </g>
+
+  <!-- Text -->
+  <text x="300" y="240" font-family="Arial" font-size="34" fill="#033064" font-weight="bold">
+    Włączanie dostępności do systemów organizacji
+  </text>
+
+  <text x="300" y="290" font-family="Arial" font-size="28" fill="#333">
+    • Monitorowanie postępów szkoleniowych
+  </text>
+  <text x="300" y="330" font-family="Arial" font-size="28" fill="#333">
+    • Audyty wiedzy i aktualności materiałów
+  </text>
+  <text x="300" y="370" font-family="Arial" font-size="28" fill="#333">
+    • Stała aktualizacja treści i kompetencji
+  </text>
+</svg>

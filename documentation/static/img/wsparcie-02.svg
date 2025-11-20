@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+  <title id="title">Wsparcie – Dostępne instrukcje i pomoc techniczna</title>
+  <desc id="desc">Infografika przedstawiająca wymagania dotyczące dostępnych instrukcji i pomocy technicznej.</desc>
+
+  <rect width="1200" height="650" fill="#F2F3F5"/>
+
+  <rect x="0" y="0" width="1200" height="150" fill="#0A1A3C"/>
+  <text x="600" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#FFFFFF">
+    Wsparcie
+  </text>
+  <text x="600" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="600" fill="#F6C400">
+    Dostępne instrukcje i pomoc techniczna
+  </text>
+
+  <circle cx="180" cy="270" r="70" fill="#1E5AA8"/>
+  <rect x="150" y="230" width="60" height="80" rx="8" fill="none" stroke="#FFFFFF" stroke-width="8"/>
+  <line x1="160" y1="250" x2="200" y2="250" stroke="#FFFFFF" stroke-width="6"/>
+  <line x1="160" y1="275" x2="200" y2="275" stroke="#FFFFFF" stroke-width="6"/>
+
+  <rect x="300" y="200" width="840" height="380" rx="18" fill="#FFFFFF" stroke="#0A1A3C" stroke-width="3"/>
+
+  <text x="330" y="245" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#0A1A3C">
+    Co oznaczają dostępne instrukcje i pomoc?
+  </text>
+
+  <line x1="320" y1="260" x2="1120" y2="260" stroke="#0A1A3C" stroke-width="1.5"/>
+
+  <circle cx="335" cy="310" r="10" fill="#1E5AA8"/>
+  <text x="360" y="318" font-size="26" font-family="Arial, sans-serif" fill="#1A1A1A">
+    Instrukcje zgodne z WCAG 2 – tekst, PDF/UA, wideo z napisami.
+  </text>
+
+  <circle cx="335" cy="370" r="10" fill="#1E5AA8"/>
+  <text x="360" y="378" font-size="26" font-family="Arial, sans-serif" fill="#1A1A1A">
+    Materiały pomocnicze w prostym języku i wielu formatach.
+  </text>
+
+  <circle cx="335" cy="430" r="10" fill="#1E5AA8"/>
+  <text x="360" y="438" font-size="26" font-family="Arial, sans-serif" fill="#1A1A1A">
+    Przewodniki po systemach, narzędziach i usługach cyfrowych.
+  </text>
+
+  <circle cx="335" cy="490" r="10" fill="#1E5AA8"/>
+  <text x="360" y="498" font-size="26" font-family="Arial, sans-serif" fill="#1A1A1A">
+    Szybka pomoc techniczna i alternatywne formy wsparcia.
+  </text>
+</svg>

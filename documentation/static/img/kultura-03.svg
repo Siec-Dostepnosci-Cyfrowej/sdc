@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+  <rect width="1200" height="520" fill="#F2F3F5"/>
+
+  <rect width="1200" height="120" fill="#033064"/>
+  <text x="50" y="55" font-size="42" font-family="Arial" fill="#FFFFFF" font-weight="bold">
+    Zarządzanie i kultura organizacyjna
+  </text>
+  <text x="50" y="100" font-size="32" font-family="Arial" fill="#FFD500" font-weight="bold">
+    Planowanie i nadzór
+  </text>
+
+  <rect x="60" y="150" width="1080" height="330" rx="12"
+        fill="#FFFFFF" stroke="#033064" stroke-width="3"/>
+
+  <!-- Ikona — kalendarz -->
+  <g transform="translate(150,270)">
+    <circle cx="0" cy="0" r="70" fill="#033064"/>
+    <rect x="-30" y="-25" width="60" height="50" fill="white" rx="6"/>
+    <rect x="-30" y="-35" width="60" height="15" fill="white"/>
+    <line x1="-10" y1="-35" x2="-10" y2="-50" stroke="white" stroke-width="8"/>
+    <line x1="10" y1="-35" x2="10" y2="-50" stroke="white" stroke-width="8"/>
+  </g>
+
+  <text x="300" y="240" font-size="34" font-family="Arial" fill="#033064" font-weight="bold">
+    Planowanie działań i monitorowanie postępów
+  </text>
+  <text x="300" y="290" font-size="28" font-family="Arial" fill="#333">
+    • Strategiczne i roczne plany dostępności
+  </text>
+  <text x="300" y="330" font-size="28" font-family="Arial" fill="#333">
+    • Monitorowanie wskaźników i realizacji celów
+  </text>
+  <text x="300" y="370" font-size="28" font-family="Arial" fill="#333">
+    • Raportowanie wyników kierownictwu
+  </text>
+</svg>

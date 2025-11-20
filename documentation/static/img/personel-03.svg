@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+  <rect width="1200" height="520" fill="#F2F3F5"/>
+
+  <!-- HEADER -->
+  <rect width="1200" height="120" fill="#033064"/>
+  <text x="50" y="55" fill="#FFFFFF" font-family="Arial" font-size="42" font-weight="bold">
+    Personel
+  </text>
+  <text x="50" y="100" fill="#FFD500" font-family="Arial" font-size="32" font-weight="bold">
+    Zaangażowanie pracowników w dostępność
+  </text>
+
+  <!-- PANEL -->
+  <rect x="60" y="150" width="1080" height="330" rx="12"
+        fill="#FFFFFF" stroke="#033064" stroke-width="3"/>
+
+  <!-- ICON: ręce współpracy -->
+  <g transform="translate(150,270)">
+    <circle cx="0" cy="0" r="70" fill="#033064"/>
+    <g fill="white" transform="scale(0.8)">
+      <path d="M-25,10 L25,10 L0,-25 Z"/>
+      <rect x="-30" y="10" width="60" height="20" rx="5"/>
+    </g>
+  </g>
+
+  <!-- TEXT -->
+  <text x="300" y="240" font-family="Arial" font-size="34" fill="#033064" font-weight="bold">
+    Udział w działaniach dostępnościowych
+  </text>
+
+  <text x="300" y="290" font-family="Arial" font-size="28" fill="#333">
+    • Udział pracowników w testach i opiniowaniu TIK
+  </text>
+  <text x="300" y="330" font-family="Arial" font-size="28" fill="#333">
+    • Współpraca między działami (HR, IT, komunikacja)
+  </text>
+  <text x="300" y="370" font-family="Arial" font-size="28" fill="#333">
+    • Jasno przypisane role dostępności w procesach
+  </text>
+</svg>

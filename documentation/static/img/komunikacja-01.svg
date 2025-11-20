@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+  <rect width="1200" height="520" fill="#F2F3F5"/>
+
+  <!-- Header -->
+  <rect width="1200" height="120" fill="#033064"/>
+  <text x="50" y="55" font-family="Arial" font-size="42" fill="#FFFFFF" font-weight="bold">
+    Komunikacja
+  </text>
+  <text x="50" y="100" font-family="Arial" font-size="32" fill="#FFD500" font-weight="bold">
+    Dostępne kanały komunikacji
+  </text>
+
+  <!-- Panel -->
+  <rect x="60" y="150" width="1080" height="330" rx="12"
+        fill="#FFFFFF" stroke="#033064" stroke-width="3"/>
+
+  <!-- Ikona: megafon -->
+  <g transform="translate(150,260)">
+    <circle cx="0" cy="0" r="70" fill="#033064"/>
+    <g fill="white" transform="scale(1.05)">
+      <path d="M-40,-10 L20,-30 L20,10 L-40,-10 Z"/>
+      <rect x="20" y="-8" width="15" height="16" rx="3"/>
+      <rect x="-55" y="-18" width="10" height="35" rx="2"/>
+    </g>
+  </g>
+
+  <!-- Text -->
+  <text x="300" y="240" font-family="Arial" font-size="34" fill="#033064" font-weight="bold">
+    Komunikacja dostępna dla wszystkich
+  </text>
+
+  <text x="300" y="290" font-family="Arial" font-size="28" fill="#333">
+    • Dostępne formularze, telefony, e-maile, wideorozmowy
+  </text>
+  <text x="300" y="330" font-family="Arial" font-size="28" fill="#333">
+    • Alternatywne kanały kontaktu (tekstowe, głosowe, wideo)
+  </text>
+  <text x="300" y="370" font-family="Arial" font-size="28" fill="#333">
+    • Wyraźna informacja o sposobach kontaktu dla osób z N
+  </text>
+</svg>
