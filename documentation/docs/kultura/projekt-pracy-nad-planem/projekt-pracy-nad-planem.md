@@ -18,7 +18,7 @@ data_zgłoszenia: 20 listopada 2025 r.
 - Ustawa o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych z dnia 4 kwietnia 2019 r. z późn. zmianami (Dz. U. 2019, poz. 848)
 
 ## Żródła i opracowania
-[LepszyWeb](https://lepszyweb.pl/blog)
+- [LepszyWeb](https://lepszyweb.pl/blog)
 
 ## Historia wersji
 
