@@ -1,0 +1,57 @@
+/* ===========================================================
+   IZOLACJA TAILWIND
+   Tailwind działa tylko w obrębie .tw, nie wpływa na Docusaurusa
+   =========================================================== */
+
+@layer tailwind-base {
+  @tailwind base;
+}
+@layer tailwind-components {
+  @tailwind components;
+}
+@layer tailwind-utilities {
+  @tailwind utilities;
+}
+
+/* Kontener izolujący */
+.tw {
+  font-family: inherit;
+}
+
+/* Reset TYLKO dla generatorów */
+.tw * {
+  @apply box-border;
+}
+
+/* Dodatkowe klasy narzędziowe dostępne tylko w generatorach */
+.tw-section {
+  @apply py-4;
+}
+
+.tw-label {
+  @apply font-medium text-sm text-gray-900;
+}
+
+.tw-input {
+  @apply border rounded px-2 py-1 w-full;
+}
+
+.tw-textarea {
+  @apply border rounded px-2 py-1 w-full;
+}
+
+.tw-error {
+  @apply text-xs text-red-600 mt-1;
+}
+
+.tw-counter {
+  @apply text-xs mt-1;
+}
+
+.tw-button-primary {
+  @apply bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700;
+}
+
+.tw-preview {
+  @apply bg-gray-50 border border-gray-200 rounded p-3 text-xs whitespace-pre-wrap;
+}

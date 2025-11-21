@@ -5,7 +5,9 @@ import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Label } from "@/components/ui/label";
 import JSZip from "jszip";
-import "../css/tw-tailwind.css";
+
+// Izolacja Tailwind
+import "./tw/tw-tailwind.css";
 
 const STORAGE_KEY = "zalecenieForm";
 
@@ -24,11 +26,7 @@ interface RecommendationForm {
 }
 
 type Errors = { [key: string]: string };
-
-type LanguageWarnings = {
-  zalecenie: string[];
-  rekomendacje: string[];
-};
+type LanguageWarnings = { zalecenie: string[]; rekomendacje: string[] };
 
 const initialForm: RecommendationForm = {
   title: "",
@@ -63,8 +61,7 @@ function linesToList(text: string, placeholder: string): string {
     .split(/\r?\n+/)
     .map((l) => l.trim())
     .filter(Boolean);
- if (!lines.length) return placeholder;
-
+  if (!lines.length) return placeholder;
   return lines.map((l) => "- " + l).join("\n");
 }
 
@@ -72,22 +69,18 @@ function analyzeNeutralLanguage(text: string): string[] {
   const warnings: string[] = [];
   const lower = text.toLowerCase();
 
-  if (/(zrób|zrob|opracuj|przygotuj|zapewnij|zadbaj|rozważ|sprawdź|upewnij się|wprowadź|wdroż)/.test(lower)) {
+  if (/\b(zrób|opracuj|przygotuj|zapewnij|zadbaj|rozważ|sprawdź|upewnij się|wprowadź|wdroż)\b/.test(lower)) {
     warnings.push(
-      "Wykryto formy trybu rozkazującego (np. „zrób”, „opracuj”). W zaleceniach lepiej stosować formy neutralne, np. „Organizacje opracowują…”."
+      "Wykryto tryb rozkazujący. Zalecenia powinny stosować język neutralny, np. „Organizacje opracowują…”."
     );
   }
 
-  if (/(ty|tobie|ciebie|cię|ciebie|twoja|twoje|twój|twoi)/.test(lower)) {
-    warnings.push(
-      "Wykryto bezpośrednie zwroty do adresata (2. osoba liczby pojedynczej). Zalecenia są kierowane do organizacji – rozważ użycie form bezosobowych lub „Organizacje…”."
-    );
+  if (/\b(ty|tobie|twoje|twoja|twój)\b/.test(lower)) {
+    warnings.push("Wykryto bezpośrednie zwroty do odbiorcy. Zalecenia są kierowane do organizacji.");
   }
 
-  if (/(powinien|powinna|powinno|powinny|powinni)/.test(lower)) {
-    warnings.push(
-      "W tekście występuje czasownik „powinien” lub jego formy. Czasem lepiej zastąpić go opisem stanu, np. „Organizacje ustanawiają…”."
-    );
+  if (/\b(powinien|powinna|powinno|powinni)\b/.test(lower)) {
+    warnings.push("Występuje czasownik „powinien”. Zaleca się formę opisową, np. „Organizacje ustanawiają…”.");
   }
 
   return warnings;
@@ -97,26 +90,6 @@ function generateMdx(form: RecommendationForm, files: File[]): string {
   const id = generateId(form.title || "zalecenie");
   const heading = form.typ === "dezyderat" ? "Dezyderat" : "Zalecenie";
   const description = shorten(form.uzasadnienie || form.zalecenie, 160);
-
-  const rekomendacjeList = linesToList(
-    form.rekomendacje,
-    "_Brak szczegółowych rekomendacji._"
-  );
-
-  const podstawyList = linesToList(
-    form.podstawyPrawne,
-    "_Brak wskazanych podstaw prawnych (zaleca się ich dodanie)._"
-  );
-
-  const zrodlaList = linesToList(
-    form.zrodla,
-    "_Brak wskazanych źródeł i opracowań._"
-  );
-
-  const historiaList = linesToList(
-    form.historia,
-    "- Wersja 0.1 – projekt wstępny"
-  );
 
   return `---
 id: ${id}
@@ -135,19 +108,19 @@ opracowanie: ${form.autor}
 ${form.zalecenie}
 
 ## 2. Rekomendacje
-${rekomendacjeList}
+${linesToList(form.rekomendacje, "_Brak rekomendacji._")}
 
 ## 3. Uzasadnienie
-${form.uzasadnienie || "_Uzasadnienie do uzupełnienia._"}
+${form.uzasadnienie || "_Brak uzasadnienia._"}
 
 ## 4. Podstawy prawne
-${podstawyList}
+${linesToList(form.podstawyPrawne, "_Brak podstaw prawnych._")}
 
 ## 5. Źródła i opracowania
-${zrodlaList}
+${linesToList(form.zrodla, "_Brak źródeł._")}
 
 ## 6. Historia wersji
-${historiaList}
+${linesToList(form.historia, "- Wersja 0.1 – projekt wstępny")}
 
 ## Załączniki
 ${files.length ? files.map((f) => "- " + f.name).join("\n") : "_Brak załączników._"}
@@ -164,32 +137,29 @@ export default function GeneratorZalecen() {
     rekomendacje: [],
   });
 
-  // load from localStorage
+  /** LOAD FROM STORAGE */
   useEffect(() => {
     if (typeof window === "undefined") return;
     const saved = window.localStorage.getItem(STORAGE_KEY);
     if (saved) {
       try {
-        const parsed = JSON.parse(saved);
-        setForm({ ...initialForm, ...parsed });
-      } catch {
-        // ignore
-      }
+        setForm({ ...initialForm, ...JSON.parse(saved) });
+      } catch {}
     }
   }, []);
 
-  // save to localStorage
+  /** SAVE TO STORAGE */
   useEffect(() => {
     if (typeof window === "undefined") return;
     window.localStorage.setItem(STORAGE_KEY, JSON.stringify(form));
   }, [form]);
 
-  // update MDX preview
+  /** UPDATE MDX PREVIEW */
   useEffect(() => {
     setMdx(generateMdx(form, files));
   }, [form, files]);
 
-  // analyze neutral language
+  /** ANALYZE LANGUAGE */
   useEffect(() => {
     setLangWarnings({
       zalecenie: analyzeNeutralLanguage(form.zalecenie),
@@ -197,40 +167,33 @@ export default function GeneratorZalecen() {
     });
   }, [form.zalecenie, form.rekomendacje]);
 
+  /** VALIDATION */
   const validate = (data: RecommendationForm): Errors => {
-    const newErrors: Errors = {};
+    const e: Errors = {};
 
-    if (!data.title.trim()) newErrors.title = "Tytuł jest wymagany.";
-    if (!data.wymiar.trim())
-      newErrors.wymiar = "Wymiar dostępności cyfrowej jest wymagany.";
-    if (!data.zalecenie.trim())
-      newErrors.zalecenie = "Treść zalecenia jest wymagana.";
+    if (!data.title.trim()) e.title = "Tytuł jest wymagany.";
+    if (!data.wymiar.trim()) e.wymiar = "Wymiar jest wymagany.";
+    if (!data.zalecenie.trim()) e.zalecenie = "Treść zalecenia jest wymagana.";
 
-    const sentenceParts = data.zalecenie
-      .split(/[.!?]+/)
-      .map((s) => s.trim())
-      .filter(Boolean);
-    if (sentenceParts.length > 1) {
-      newErrors.zalecenie =
-        (newErrors.zalecenie ? newErrors.zalecenie + " " : "") +
-        "Postaraj się sformułować zalecenie w jednym zdaniu.";
+    const sentences = data.zalecenie.split(/[.!?]+/).filter((s) => s.trim().length);
+    if (sentences.length > 1) {
+      e.zalecenie = (e.zalecenie || "") + " Zalecenie powinno być jednym zdaniem.";
     }
 
-    if (!data.autor.trim()) newErrors.autor = "Autor/ka opracowania jest wymagana.";
-
-    return newErrors;
+    if (!data.autor.trim()) e.autor = "Autor/ka opracowania jest wymagana.";
+    return e;
   };
 
-  const handleChange = (
-    e: ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>
-  ) => {
+  /** INPUT CHANGE */
+  const handleChange = (e: ChangeEvent<any>) => {
     const { name, value } = e.target;
-    setForm((prev) => ({ ...prev, [name]: value }));
+    setForm((p) => ({ ...p, [name]: value }));
   };
 
+  /** FILE UPLOAD */
   const handleFileChange = (e: ChangeEvent<HTMLInputElement>) => {
     const selected = Array.from(e.target.files || []);
-    const accepted = [
+    const allowed = [
       "application/pdf",
       "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
       "application/zip",
@@ -241,15 +204,11 @@ export default function GeneratorZalecen() {
     const newFiles: File[] = [];
 
     selected.forEach((file) => {
-      if (!accepted.includes(file.type)) {
-        newErrors[`file:${file.name}`] =
-          "Dozwolone formaty załączników: PDF, DOCX, ZIP.";
+      if (!allowed.includes(file.type)) {
+        newErrors[`file:${file.name}`] = "Tylko PDF, DOCX, ZIP.";
       } else if (file.size > 5 * 1024 * 1024) {
-        newErrors[`file:${file.name}`] =
-          "Maksymalny rozmiar pojedynczego pliku to 5 MB.";
-      } else {
-        newFiles.push(file);
-      }
+        newErrors[`file:${file.name}`] = "Maksymalny rozmiar pliku: 5 MB.";
+      } else newFiles.push(file);
     });
 
     setErrors((prev) => ({ ...prev, ...newErrors }));
@@ -266,22 +225,23 @@ export default function GeneratorZalecen() {
     });
   };
 
+  /** EXPORT ZIP */
   const handleExportZip = async () => {
     const v = validate(form);
-    setErrors((prev) => ({ ...prev, ...v }));
-    if (Object.keys(v).length > 0) {
-      alert("Proszę poprawić błędy w formularzu przed eksportem.");
+    if (Object.keys(v).length) {
+      setErrors(v);
+      alert("Popraw błędy w formularzu.");
       return;
     }
 
-    const id = generateId(form.title || "zalecenie");
+    const id = generateId(form.title);
     const zip = new JSZip();
     zip.file(`${id}.mdx`, mdx);
-    files.forEach((file) => zip.file(file.name, file));
+    files.forEach((f) => zip.file(f.name, f));
 
-    const content = await zip.generateAsync({ type: "blob" });
+    const blob = await zip.generateAsync({ type: "blob" });
     const a = document.createElement("a");
-    a.href = URL.createObjectURL(content);
+    a.href = URL.createObjectURL(blob);
     a.download = `${id}.zip`;
     a.click();
   };
@@ -289,41 +249,38 @@ export default function GeneratorZalecen() {
   return (
     <div className="tw">
       <div className="tw-content max-w-5xl mx-auto p-6 space-y-6">
-        <h1 className="text-3xl font-bold text-[#003366]">
-          Generator zaleceń i dezyderatów (MDX)
-        </h1>
+
+        <h1 className="text-3xl font-bold text-[#003366]">Generator zaleceń</h1>
         <p className="text-sm text-gray-700">
-          Wypełnij formularz, aby przygotować projekt zalecenia lub dezyderatu
-          w spójnym formacie MDX. Poniżej zobaczysz podgląd generowanego
-          dokumentu.
+          Formularz generuje plik <code>.mdx</code> zgodny z Księgą Zaleceń Sieci Dostępności Cyfrowej.
         </p>
 
         <Card>
           <CardContent className="p-4 space-y-4">
+
             <form className="grid grid-cols-1 md:grid-cols-2 gap-6">
-              {/* Kolumna lewa – metryczka i typ */}
-              <div className="space-y-3">
+
+              {/* LEWA KOLUMNA */}
+              <div className="space-y-4">
+
                 <div>
-                  <Label>Tytuł*</Label>
+                  <Label className="tw-label">Tytuł*</Label>
                   <Input
                     name="title"
                     value={form.title}
                     onChange={handleChange}
-                    placeholder="Krótka nazwa zalecenia"
-                    className={errors.title ? "border-red-500" : ""}
+                    className={`tw-input ${errors.title ? "border-red-500" : ""}`}
                   />
-                  {errors.title && (
-                    <p className="text-xs text-red-600 mt-1">{errors.title}</p>
-                  )}
+                  {errors.title && <p className="tw-error">{errors.title}</p>}
                 </div>
 
                 <div>
-                  <Label>Typ dokumentu*</Label>
+                  <Label className="tw-label">Typ dokumentu*</Label>
                   <select
                     name="typ"
                     value={form.typ}
                     onChange={handleChange}
-                    className="border rounded px-2 py-1 w-full text-sm"
+                    className="tw-input"
                   >
                     <option value="zalecenie">Zalecenie</option>
                     <option value="dezyderat">Dezyderat</option>
@@ -331,82 +288,64 @@ export default function GeneratorZalecen() {
                 </div>
 
                 <div>
-                  <Label>Wymiar dostępności cyfrowej*</Label>
+                  <Label className="tw-label">Wymiar*</Label>
                   <select
                     name="wymiar"
                     value={form.wymiar}
                     onChange={handleChange}
-                    className={
-                      "border rounded px-2 py-1 w-full text-sm " +
-                      (errors.wymiar ? "border-red-500" : "")
-                    }
+                    className={`tw-input ${errors.wymiar ? "border-red-500" : ""}`}
                   >
                     <option value="">-- wybierz wymiar --</option>
                     <option value="Komunikacja">Komunikacja</option>
-                    <option value="Wiedza i umiejętności">
-                      Wiedza i umiejętności
-                    </option>
+                    <option value="Wiedza i umiejętności">Wiedza i umiejętności</option>
                     <option value="Wsparcie">Wsparcie</option>
                     <option value="Cykl życia TIK">Cykl życia TIK</option>
                     <option value="Pracownicy">Pracownicy</option>
                     <option value="Zaopatrzenie">Zaopatrzenie</option>
-                    <option value="Zarządzanie i kultura">
-                      Zarządzanie i kultura organizacyjna
-                    </option>
+                    <option value="Zarządzanie i kultura">Zarządzanie i kultura</option>
                   </select>
-                  {errors.wymiar && (
-                    <p className="text-xs text-red-600 mt-1">
-                      {errors.wymiar}
-                    </p>
-                  )}
+                  {errors.wymiar && <p className="tw-error">{errors.wymiar}</p>}
                 </div>
 
                 <div>
-                  <Label>Autor/ka opracowania*</Label>
+                  <Label className="tw-label">Autor/ka opracowania*</Label>
                   <Input
                     name="autor"
                     value={form.autor}
                     onChange={handleChange}
+                    className={`tw-input ${errors.autor ? "border-red-500" : ""}`}
                     placeholder="Imię i nazwisko"
-                    className={errors.autor ? "border-red-500" : ""}
                   />
-                  {errors.autor && (
-                    <p className="text-xs text-red-600 mt-1">{errors.autor}</p>
-                  )}
+                  {errors.autor && <p className="tw-error">{errors.autor}</p>}
                 </div>
 
                 <div>
-                  <Label>Dane kontaktowe</Label>
+                  <Label className="tw-label">Kontakt</Label>
                   <Input
                     name="kontakt"
                     value={form.kontakt}
                     onChange={handleChange}
-                    placeholder="Adres e-mail lub telefon"
+                    className="tw-input"
                   />
                 </div>
               </div>
 
-              {/* Kolumna prawa – treść zalecenia i rekomendacje */}
-              <div className="space-y-3">
+              {/* PRAWA KOLUMNA */}
+              <div className="space-y-4">
+
                 <div>
-                  <Label>
-                    Treść zalecenia (jedno zdanie)*
-                  </Label>
+                  <Label className="tw-label">Treść zalecenia (jedno zdanie)*</Label>
                   <Textarea
                     name="zalecenie"
                     value={form.zalecenie}
                     onChange={handleChange}
                     rows={3}
-                    placeholder="Np. „Organizacje opracowują i wdrażają politykę zarządzania dostępnością cyfrową…”"
-                    className={errors.zalecenie ? "border-red-500" : ""}
+                    className={`tw-textarea ${errors.zalecenie ? "border-red-500" : ""}`}
                   />
-                  {errors.zalecenie && (
-                    <p className="text-xs text-red-600 mt-1">
-                      {errors.zalecenie}
-                    </p>
-                  )}
+                  {errors.zalecenie && <p className="tw-error">{errors.zalecenie}</p>}
+
                   {langWarnings.zalecenie.length > 0 && (
-                    <ul className="mt-1 text-xs text-amber-700 bg-amber-50 border border-amber-200 rounded p-2 space-y-1">
+                    <ul className="tw-warning">
                       {langWarnings.zalecenie.map((w, i) => (
                         <li key={i}>• {w}</li>
                       ))}
@@ -415,21 +354,18 @@ export default function GeneratorZalecen() {
                 </div>
 
                 <div>
-                  <Label>
-                    Rekomendacje (jedna rekomendacja w każdym wierszu)
-                  </Label>
+                  <Label className="tw-label">Rekomendacje (po 1 w wierszu)</Label>
                   <Textarea
                     name="rekomendacje"
                     value={form.rekomendacje}
                     onChange={handleChange}
                     rows={5}
-placeholder={
-  "Np.\nOrganizacje określają role i odpowiedzialności w zakresie dostępności cyfrowej.\nOrganizacje zapewniają szkolenia dla kluczowych ról."
-}
-
+                    className="tw-textarea"
+                    placeholder={"Np.\nOrganizacje ustanawiają role...\nOrganizacje prowadzą szkolenia..."}
                   />
+
                   {langWarnings.rekomendacje.length > 0 && (
-                    <ul className="mt-1 text-xs text-amber-700 bg-amber-50 border border-amber-200 rounded p-2 space-y-1">
+                    <ul className="tw-warning">
                       {langWarnings.rekomendacje.map((w, i) => (
                         <li key={i}>• {w}</li>
                       ))}
@@ -439,98 +375,83 @@ placeholder={
               </div>
             </form>
 
-            {/* Uzasadnienie, podstawy prawne, źródła, historia */}
+            {/* STOPKA FORMULARZA */}
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-4">
-              <div className="space-y-3">
+
+              <div className="space-y-4">
                 <div>
-                  <Label>Uzasadnienie</Label>
+                  <Label className="tw-label">Uzasadnienie</Label>
                   <Textarea
                     name="uzasadnienie"
                     value={form.uzasadnienie}
                     onChange={handleChange}
                     rows={4}
-                    placeholder="Najważniejsze motywy przemawiające za przyjęciem zalecenia lub dezyderatu."
+                    className="tw-textarea"
                   />
                 </div>
 
                 <div>
-                  <Label>Podstawy prawne (po jednej w wierszu)</Label>
+                  <Label className="tw-label">Podstawy prawne</Label>
                   <Textarea
                     name="podstawyPrawne"
                     value={form.podstawyPrawne}
                     onChange={handleChange}
                     rows={4}
-                    placeholder={
-                      "Np. Art. 5 ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych z dnia 4 kwietnia 2019 r. (Dz. U. 2019, poz. 848)."
-                    }
+                    className="tw-textarea"
                   />
                 </div>
               </div>
 
-              <div className="space-y-3">
+              <div className="space-y-4">
                 <div>
-                  <Label>Źródła i opracowania (po jednym w wierszu)</Label>
+                  <Label className="tw-label">Źródła i opracowania</Label>
                   <Textarea
                     name="zrodla"
                     value={form.zrodla}
                     onChange={handleChange}
                     rows={4}
-                    placeholder={
-                      "Np. W3C WAI, Accessibility Maturity Model, 2023."
-                    }
+                    className="tw-textarea"
                   />
                 </div>
 
                 <div>
-                  <Label>Historia wersji (po jednej w wierszu)</Label>
+                  <Label className="tw-label">Historia wersji</Label>
                   <Textarea
                     name="historia"
                     value={form.historia}
                     onChange={handleChange}
                     rows={4}
-                    placeholder={
-                      "Np. 0.1 – wersja robocza zespołu; 0.9 – wersja przedłożona Sieci."
-                    }
+                    className="tw-textarea"
                   />
                 </div>
               </div>
             </div>
 
-            {/* Załączniki */}
-            <div className="mt-4 space-y-2">
-              <Label>Załączniki (artefakty)</Label>
-              <p className="text-xs text-gray-700">
-                Dodaj pliki ilustrujące zalecenie (np. wzory procedur, schematy
-                procesów, szablony dokumentów). Dozwolone formaty: PDF, DOCX,
-                ZIP. Maksymalny rozmiar pliku: 5 MB.
-              </p>
+            {/* ZAŁĄCZNIKI */}
+            <div className="tw-section space-y-2">
+              <Label className="tw-label">Załączniki</Label>
+
               <Input
                 type="file"
                 multiple
                 onChange={handleFileChange}
-                className="text-sm"
+                className="tw-input"
               />
 
               {Object.entries(errors)
-                .filter(([key]) => key.startsWith("file:"))
-                .map(([key, msg]) => (
-                  <p key={key} className="text-xs text-red-600">
-                    {msg}
-                  </p>
+                .filter(([k]) => k.startsWith("file:"))
+                .map(([k, m]) => (
+                  <p className="tw-error" key={k}>{m}</p>
                 ))}
 
               {files.length > 0 && (
-                <ul className="mt-2 space-y-1 text-sm">
-                  {files.map((file) => (
-                    <li
-                      key={file.name}
-                      className="flex items-center justify-between"
-                    >
-                      <span>{file.name}</span>
+                <ul className="text-sm space-y-1">
+                  {files.map((f) => (
+                    <li key={f.name} className="flex justify-between">
+                      <span>{f.name}</span>
                       <button
-                        type="button"
                         className="text-red-600 text-xs underline"
-                        onClick={() => removeFile(file.name)}
+                        onClick={() => removeFile(f.name)}
                       >
                         Usuń
                       </button>
@@ -540,27 +461,23 @@ placeholder={
               )}
             </div>
 
-            <div className="mt-4">
-              <Button type="button" onClick={handleExportZip}>
+            <div>
+              <Button className="tw-button-primary" onClick={handleExportZip}>
                 Pobierz ZIP (MDX + załączniki)
               </Button>
             </div>
+
           </CardContent>
         </Card>
 
-        {/* Podgląd MDX */}
+        {/* PODGLĄD MDX */}
         <Card>
-          <CardContent className="p-4 space-y-2">
-            <h2 className="text-xl font-semibold">Podgląd MDX</h2>
-            <p className="text-xs text-gray-600">
-              Ten tekst zostanie zapisany jako plik <code>.mdx</code> i może
-              zostać opublikowany w Księdze zaleceń Sieci.
-            </p>
-            <pre className="bg-gray-100 p-3 rounded text-xs whitespace-pre-wrap overflow-x-auto border border-gray-200">
-{mdx}
-            </pre>
+          <CardContent>
+            <h2 className="text-xl font-semibold mb-1">Podgląd MDX</h2>
+            <pre className="tw-preview">{mdx}</pre>
           </CardContent>
         </Card>
+
       </div>
     </div>
   );
