@@ -6,10 +6,10 @@ sidebar_label:
 sidebar_position: 3
 keywords: []
 tags: []
-opracowanie: 
+opracowanie: Anna Czekalska, Stefan Wajda
 wspolpraca: 
-data_zgloszenia: 
-ostatnia_aktualizacja: 
+data_zgloszenia: 21 listopada 2025 r.
+ostatnia_aktualizacja: 21 listopada 2025 r.
 wersja_robocza: true
 ---
 
@@ -114,3 +114,7 @@ Utworzenie fundamentu systemowego podejścia do dostępności.
 - Rozpoczęcie wewnętrznej kampanii informacyjnej budującej kulturę dostępności (plakaty, krótkie komunikaty, „zasada tygodnia”).  
 - Przygotowanie organizacji do przeprowadzenia pierwszej samooceny poziomu dojrzałości.
 
+## Historia wersji
+| Wersja | Autor | Data | Opis zmian |
+| --- | --- | --- | --- |
+| 1.0 | Anna Czekalska | 21.11.2025 | Utworzenie |
