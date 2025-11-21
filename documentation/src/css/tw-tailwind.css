@@ -1,0 +1,10 @@
+/* Tailwind ładowany tylko w kontenerze .tw */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Przywracamy domyślne wartości, bo "all: initial" w resetach Tailwind bywa agresywne */
+.tw *, .tw *::before, .tw *::after {
+  box-sizing: border-box;
+}

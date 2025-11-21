@@ -24,11 +24,16 @@
     "@grnet/docusaurus-term-preview": "2.0.0-rc.2",
     "@grnet/docusaurus-terminology": "2.0.0-rc.2",
     "@mdx-js/react": "3.1.1",
+    "@radix-ui/react-slot": "^1.2.4",
+    "class-variance-authority": "^0.7.1",
     "clsx": "2.1.1",
     "dotenv": "^17.2.3",
+    "jszip": "^3.10.1",
+    "lucide-react": "^0.554.0",
     "prism-react-renderer": "2.4.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "tailwind-merge": "^3.4.0"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.9.2",
@@ -36,13 +41,17 @@
     "@docusaurus/types": "3.9.2",
     "@types/imagemin": "9.0.1",
     "@types/imagemin-mozjpeg": "8.0.4",
+    "autoprefixer": "^10.4.22",
     "imagemin": "9.0.1",
     "imagemin-cli": "8.0.0",
     "imagemin-mozjpeg": "10.0.0",
     "imagemin-pngquant": "10.0.0",
     "markdownlint": "0.39.0",
     "markdownlint-cli": "0.46.0",
+    "postcss": "^8.5.6",
+    "shadcn-ui": "^0.9.5",
     "svgo": "4.0.0",
+    "tailwindcss": "^3.4.14",
     "typescript": "5.9.3"
   },
   "overrides": {
