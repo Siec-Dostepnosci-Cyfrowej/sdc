@@ -6,7 +6,7 @@ sidebar_position: 0
 description: Propozycja zalecenia
 keywords: [kultura organizacyjna, zarządzanie]
 tags: [kultura organizacyjna, zarządzanie]
-opracowanie: Anna Czekalska
+opracowanie: Anna Czekalska 
 data_zgloszenia: 2 października 2025 r.
 ostatnia_aktualizacja: 20 listopada 2025 r.
 wersja_robocza: true
