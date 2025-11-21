@@ -1,10 +1,13 @@
 import React, { useState, useEffect, ChangeEvent } from "react";
+import Layout from "@theme/Layout";
+import JSZip from "jszip";
+
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Label } from "@/components/ui/label";
-import JSZip from "jszip";
+
 
 // Import izolowanego Tailwind
 import "./tw/tw-tailwind.css";
@@ -187,9 +190,14 @@ export default function GeneratorDobrejPraktyki() {
     a.click();
   };
 
-  const opisLength = (form.opis || "").trim().length;
+    const opisLength = (form.opis || "").trim().length;
+    const opisValid = opisLength >= 500 && opisLength <= 1500;
 
-  return (
+    return (
+        <Layout
+            title="Generator opisu dobrej praktyki"
+            description="Generator MDX dla opisów dobrych praktyk w Sieci Dostępności Cyfrowej"
+        >
     <div className="tw">
       <div className="tw-content max-w-5xl mx-auto p-6 space-y-6">
 
@@ -424,9 +432,9 @@ export default function GeneratorDobrejPraktyki() {
 {mdx}
             </pre>
           </CardContent>
-        </Card>
-
-      </div>
-    </div>
+                </Card>
+            </div>
+        </div>
+    </Layout >
   );
 }

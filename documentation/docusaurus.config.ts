@@ -97,14 +97,14 @@ const config: Config = {
                 {
                     type: 'doc',
                     docId: 'o-sieci/projekt/o-projekcie-sdc',
-                    position: 'right',
+                    position: 'left',
                     label: 'O Sieci',
                     className: 'osieci',
                 },
 
                 {
                     label: 'Wymiary',
-                    position: 'right',
+                    position: 'left',
                     items: [
                         { label: 'Komunikacja', to: 'docs/komunikacja/wymiar-komunikacja/o-wymiarze-komunikacja' },
                         { label: 'Cykl życia TIK', to: 'docs/cykltik/wymiar-cykl-zycia-tik/o-wymiarze-cykl-zycia-tik' },
@@ -115,12 +115,25 @@ const config: Config = {
                         { label: 'Wsparcie', to: 'docs/wsparcie/wymiar-wsparcie/o-wymiarze-wsparcie' },
                     ],
                 },
+				
+				
+                {
+                    label: 'Generatory',
+                    position: 'left',
+                    items: [
+                        { label: 'Generator zaleceń', to: 'generator-zalecen' },
+                        { label: 'Generator opisów praktyk', to: 'generator-dobrej-praktyki' },
+                        { label: 'Word na Markdown', to: 'generator-docx-markdown' },
 
-                { to: '/blog', label: 'Blog', position: 'right' },
+                    ],
+                },				
+				
+
+                { to: '/blog', label: 'Blog', position: 'left' },
                 {
                     href: 'https://github.com/Siec-Dostepnosci-Cyfrowej/sdc',
                     label: 'GitHub',
-                    position: 'right',
+                    position: 'left',
                     icon: 'github',
                 },
             ],
