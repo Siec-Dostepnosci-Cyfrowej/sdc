@@ -15,7 +15,7 @@ jobs:
     steps:
       # 1️⃣ Checkout PR head safely (fork-compatible)
       - name: Checkout PR head
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
         with:
           ref: ${{ github.event.pull_request.head.sha }}
           fetch-depth: 0
