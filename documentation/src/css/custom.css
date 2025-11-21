@@ -59,3 +59,23 @@
   padding-left: 10px;
   margin-left:1em;
  }
+
+/* Izolacja: Tailwind działa TYLKO wewnątrz kontenera .tw */
+
+.tw {
+    all: initial; /* reset wszystkiego wewnątrz bloku */
+    font-family: var(--ifm-font-family-base) !important;
+    line-height: var(--ifm-line-height-base) !important;
+    color: var(--ifm-font-base-color) !important;
+}
+
+    .tw * {
+        all: unset;
+        display: revert;
+        box-sizing: border-box;
+    }
+
+    /* pozwalamy Tailwindowi wprowadzać swoje klasy */
+    .tw .tw-content {
+        all: revert;
+    }
