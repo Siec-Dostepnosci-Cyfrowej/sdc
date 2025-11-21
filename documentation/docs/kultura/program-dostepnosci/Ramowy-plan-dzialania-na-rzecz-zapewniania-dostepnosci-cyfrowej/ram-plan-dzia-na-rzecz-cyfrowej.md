@@ -1,13 +1,12 @@
 ---
-id: 
+id: ram-plan-dzia-na-rzecz-cyfrowej
 title: Ramowy plan działania na rzecz zapewniania dostępności cyfrowej   
-description: 
-sidebar_label: 
+description: xxxx
+sidebar_label: Ramowy
 sidebar_position: 3
-keywords: []
-tags: []
+keywords: [plan]
+tags: [plan]
 opracowanie: Anna Czekalska, Stefan Wajda
-wspolpraca: 
 data_zgloszenia: 21 listopada 2025 r.
 ostatnia_aktualizacja: 21 listopada 2025 r.
 wersja_robocza: true
