@@ -1,0 +1,77 @@
+{
+  "@context": "https://europa.eu/schemas/credentials/v1",
+  "id": "PL-ACC-018",
+  "type": [
+    "Microcredential",
+    "EducationalOccupationalCredential"
+  ],
+  "name": {
+    "pl": "Audytor wewnętrzny dostępności cyfrowej",
+    "en": "Internal Digital Accessibility Auditor"
+  },
+  "description": {
+    "pl": "Mikropoświadczenie potwierdza kompetencje w zakresie organizowania i prowadzenia wewnętrznych przeglądów dostępności cyfrowej w instytucjach publicznych. Posiadacz potrafi planować i przeprowadzać uproszczony audyt zgodności z WCAG 2.2, analizować wyniki testów automatycznych oraz oceniać zgodność z wymaganiami ustawy o dostępności cyfrowej."
+  },
+  "issuer": {
+    "name": "Centrum Kompetencji Dostępności Cyfrowej (CKDC)",
+    "type": "Organization",
+    "url": "https://ckdc.gov.pl"
+  },
+  "language": [
+    "pl"
+  ],
+  "learningOutcomes": {
+    "knowledge": [
+      "Zna wymagania WCAG 2.2, EN 301 549 i ustawy o dostępności cyfrowej.",
+      "Rozumie zasady organizacji audytu i przeglądu wewnętrznego.",
+      "Zna podstawowe narzędzia testów automatycznych i ich ograniczenia.",
+      "Zna wzorcowy zakres i strukturę raportu z przeglądu dostępności."
+    ],
+    "skills": [
+      "Organizuje proces przeglądu i planuje zadania zespołu audytowego.",
+      "Przeprowadza testy automatyczne i interpretuje wyniki.",
+      "Dokonuje oceny spełnienia kryteriów WCAG 2.2 w uproszczonej formie.",
+      "Przygotowuje raport z przeglądu wraz z rekomendacjami.",
+      "Ocenia postępy w usuwaniu błędów i wdrażaniu działań naprawczych."
+    ],
+    "responsibility": [
+      "Współpracuje z redaktorami, administratorami i kierownictwem jednostki.",
+      "Zachowuje bezstronność i rzetelność w ocenie dostępności.",
+      "Promuje kulturę ciągłego doskonalenia dostępności.",
+      "Rozumie znaczenie przeglądów wewnętrznych dla wiarygodności Deklaracji dostępności."
+    ]
+  },
+  "assessment": {
+    "methods": [
+      "Ocena raportu z przeglądu (merytoryczna i formalna).",
+      "Rozmowa kompetencyjna lub prezentacja wyników przeglądu.",
+      "Analiza interpretacji wyników testów automatycznych.",
+      "Autoocena i omówienie wniosków z procesu audytu."
+    ],
+    "criteria": [
+      "Raport zawiera pełną analizę 6 obszarów audytu.",
+      "Wyniki testów automatycznych są prawidłowo zinterpretowane.",
+      "Raport wskazuje postępy i rekomendacje działań naprawczych."
+    ]
+  },
+  "accreditation": {
+    "standard": [
+      "WCAG 2.2 – poziom AA",
+      "EN 301 549 – sekcje 9 i 10",
+      "ISO/IEC 40500:2012",
+      "EAA – European Accessibility Act",
+      "Ustawa o dostępności cyfrowej stron internetowych i aplikacji mobilnych"
+    ],
+    "eqfLevel": "5",
+    "validityPeriod": "4 lata"
+  },
+  "evidence": [
+    "Raport z przeglądu dostępności (6 obszarów oceny).",
+    "Zestaw wyników z testów automatycznych (np. axe, WAVE).",
+    "Analiza postępów napraw błędów dostępności.",
+    "Lista rekomendacji działań naprawczych."
+  ],
+  "dateCreated": "2025-11-09",
+  "creator": "Zespół ds. Dostępności Cyfrowej – CKDC",
+  "version": "1.0"
+}
