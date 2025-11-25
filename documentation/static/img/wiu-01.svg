@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+  <rect width="1200" height="520" fill="#F2F3F5"/>
+
+  <!-- Header -->
+  <rect width="1200" height="120" fill="#033064"/>
+  <text x="50" y="55" font-family="Arial" font-size="42" fill="#FFFFFF" font-weight="bold">
+    Wiedza i umiejętności
+  </text>
+  <text x="50" y="100" font-family="Arial" font-size="32" fill="#FFD500" font-weight="bold">
+    Ocena wiedzy i kompetencji
+  </text>
+
+  <!-- Panel -->
+  <rect x="60" y="150" width="1080" height="330" rx="12"
+        fill="#FFFFFF" stroke="#033064" stroke-width="3"/>
+
+  <!-- Ikona: lupa + dokument -->
+  <g transform="translate(150,260)">
+    <circle cx="0" cy="0" r="70" fill="#033064"/>
+    <g fill="white" transform="scale(0.85)">
+      <rect x="-25" y="-40" width="50" height="70" rx="6"/>
+      <circle cx="30" cy="30" r="20" stroke="white" stroke-width="8" fill="none"/>
+      <line x1="43" y1="43" x2="60" y2="60" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <!-- Text -->
+  <text x="300" y="240" font-family="Arial" font-size="34" fill="#033064" font-weight="bold">
+    Diagnoza poziomu wiedzy
+  </text>
+
+  <text x="300" y="290" font-family="Arial" font-size="28" fill="#333">
+    • Badania kompetencji i analiza luk wiedzy
+  </text>
+  <text x="300" y="330" font-family="Arial" font-size="28" fill="#333">
+    • Oceny okresowe uwzględniają wymagania dostępności
+  </text>
+  <text x="300" y="370" font-family="Arial" font-size="28" fill="#333">
+    • Certyfikacje i testy kompetencyjne z dostępności
+  </text>
+</svg>

@@ -9,6 +9,352 @@ ostatnia_aktualizacja: 24 września 2025 r.
 wersja_robocza: true
 ---
 
+
+
+## 🟦 Wymiar Zaopatrzenie
+
+**(Zakupy, pozyskiwanie, zamówienia, umowy, odbiory - pod kątem zapewniania dostępności cyfrowej)**
+
+### 1. Definicja wymiaru
+
+Wymiar **Zaopatrzenie** obejmuje wszystkie procesy związane z nabywaniem technologii informacyjno-komunikacyjnych (TIK), treści cyfrowych oraz usług, które wpływają na dostępność cyfrową organizacji. Dotyczy zarówno zakupów bezpośrednich (np. oprogramowania, usług programistycznych, platform edukacyjnych), jak i zakupów pośrednich, w których komponent cyfrowy stanowi tylko część przedmiotu zamówienia (np. sprzęt komputerowy, systemy rezerwacji, szkolenia online, usługi tworzenia materiałów informacyjnych).
+
+W dojrzałych organizacjach dostępność cyfrowa jest integralnym elementem każdego etapu zakupowego — od przygotowania wymagań, przez ocenę ofert, po odbiór i obsługę serwisową. Dotyczy to zarówno zakupów standardowych produktów rynkowych (COTS), jak i usług tworzenia treści, redakcji, digitalizacji czy projektowania stron internetowych.
+
+Wymiar ten obejmuje również ustanowienie polityki zakupowej oraz stosowanie spójnych, jednolitych zapisów wymagających zgodności z normami dostępności cyfrowej.
+
+---
+
+### 2. Cel wymiaru
+
+Celem wymiaru **Zaopatrzenie** jest:
+
+- zapewnienie, że wszystkie technologie, treści i usługi cyfrowe pozyskiwane przez organizację są dostępne cyfrowo oraz zgodne z obowiązującymi normami,
+- zagwarantowanie, że organizacja świadomie wybiera rozwiązania umożliwiające wszystkim użytkownikom równy dostęp,
+- umożliwienie efektywnego zarządzania ryzykiem niedostępności poprzez wymagania kontraktowe i ocenę ofert,
+- wzmocnienie kultury organizacyjnej, w której dostępność jest kluczowym kryterium jakości.
+
+---
+
+### 3. Odróżnienie wymiaru Zaopatrzenie od wymiaru Cykl życia TIK
+
+**Zaopatrzenie** koncentruje się na **pozyskiwaniu** technologii i treści:  
+— określaniu wymagań,  
+— formułowaniu dokumentacji zakupowej,  
+— ocenie ofert i dowodów zgodności,  
+— zapisach umownych,  
+— odbiorze produktów.
+
+**Cykl życia TIK** dotyczy **użytkowania i utrzymania** technologii po ich nabyciu:  
+— wdrażania,  
+— testowania,  
+— aktualizacji,  
+— monitorowania i reagowania na problemy dostępności,  
+— planowania wycofania.
+
+**Zaopatrzenie kończy się w momencie odbioru. Cykl życia TIK zaczyna się w chwili użytkowania.**
+
+---
+
+### 4. Zakres wymiaru
+
+#### 4.1. Polityka zakupowa
+- opracowanie i publikacja polityki zakupów obejmującej dostępność,
+- stosowanie wymogów dostępności we wszystkich postępowaniach,
+- komunikowanie polityki dostępnych zakupów dostawcom.
+
+#### 4.2. Wymagania w dokumentacji zakupowej
+- spójne klauzule dostępności w zapytaniach, przetargach, SIWZ oraz umowach,
+- wskazywanie norm (WCAG 2.1/2.2 AA, EN 301 549),
+- wymaganie dokumentów potwierdzających zgodność (ACR/VPAT, wyniki testów).
+
+#### 4.3. Ocena ofert i dowodów
+- metodologia oceny dostępności,
+- system punktacji uwzględniający kryteria dostępności,
+- analiza ACR/VPAT i testów dostawcy,
+- ocena demonstracji produktów.
+
+#### 4.4. Zapisy w umowach
+- obowiązek utrzymania zgodności przez cały okres użytkowania produktu,
+- zapisy gwarancyjne dot. dostępności,
+- wymaganie planów naprawczych w przypadku niezgodności,
+- wymagania dotyczące testów dostępności przy aktualizacjach.
+
+#### 4.5. Zarządzanie realizacją zamówień
+- odbiór z oceną dostępności,
+- monitorowanie zgodności w trakcie obowiązywania umowy,
+- rejestrowanie incydentów dotyczących dostępności,
+- okresowe przeglądy polityki i praktyk zakupowych.
+
+#### 4.6. Udział specjalistów ds. dostępności
+- udział eksperta ds. dostępności na etapach:
+  - definiowania wymagań,
+  - oceny ofert,
+  - odbioru produktu.
+
+#### 4.7. Szkolenia
+- szkolenia dla pracowników działu zakupów,
+- kompetencje w zakresie interpretacji ACR/VPAT i norm dostępności,
+- instrukcje wewnętrzne dotyczące oceny dostępności.
+
+---
+
+### 5. Lista punktów dowodowych
+
+#### A. Dokumentacja polityki dostępnych zakupów
+- polityka zakupowa obejmuje wymogi dostępności cyfrowej,
+- procedury zakupowe zawierają zapisy dotyczące dostępności,
+- komunikaty dla dostawców określają wymogi dostępności.
+
+![Dokumentacja polityki dostępnych zakupów](/img/zaopatrzenie-01.svg)
+
+#### B. Wymagania w dokumentach zakupowych
+- spójne klauzule dostępności we wszystkich typach zamówień,
+- wskazane normy WCAG 2.1/2.2 AA lub EN 301 549,
+- wymagany ACR/VPAT lub równoważne dokumenty,
+- wymaganie wyników testów automatycznych i ręcznych.
+
+![Spójne stosowanie zapisów zakupowych](/img/zaopatrzenie-02.svg)
+
+#### C. Ocena ofert i dowodów
+- stosowana metodologia oceny dostępności,
+- arkusze oceny dostępności dla usług i produktów,
+- analiza ACR/VPAT,
+- analiza wyników testów i demonstracji,
+- dokumentacja oceny punktowej.
+
+![Proces oceny dostępności](/img/zaopatrzenie-03.svg)
+
+#### D. Zapisy w umowach
+- umowy zawierają obowiązki dot. dostępności,
+- dostawca zobowiązany do utrzymania zgodności przez cały cykl życia,
+- procedury reagowania na niezgodności,
+- wymagania dot. planów naprawczych.
+
+![Zapisy umowne o dostępności](/img/zaopatrzenie-04.svg)
+
+#### E. Zarządzanie realizacją zamówień
+- protokoły odbioru zawierają weryfikację dostępności,
+- rejestr incydentów związanych z niedostępnością,
+- dokumenty przeglądów okresowych polityki zakupowej,
+- raporty monitorowania zgodności.
+
+#### F. Szkolenia pracowników
+- dokumentacja szkoleń w zakresie dostępnych zakupów,
+- instrukcje interpretacji norm i dokumentów zgodności,
+- potwierdzenia wsparcia merytorycznego dla pracowników.
+
+#### G. Współpraca międzydziałowa
+- udział specjalisty ds. dostępności w procesach zakupowych,
+- współpraca działów: zakupy, IT, prawnicy, komunikacja, merytoryczni.
+
+
+## 🟦 Zaopatrzenie - wersja uproszczona dla małych podmiotów publicznych
+
+*(szkoły, biblioteki, domy kultury, OPS, OSiR, małe urzędy, jednostki organizacyjne gminy)*
+
+### 1. Definicja wymiaru
+
+Wymiar **Zaopatrzenie** w małych podmiotach publicznych obejmuje podstawowe działania związane z zakupem technologii informacyjno-komunikacyjnych (TIK), treści cyfrowych oraz usług, które mają wpływ na dostępność cyfrową.  
+Dotyczy to przede wszystkim prostych zakupów — takich jak oprogramowanie, strony internetowe, szkolenia, platformy e-usług, materiały cyfrowe czy narzędzia biurowe — oraz dbania o to, aby zamawiane produkty były dostępne dla wszystkich użytkowników.
+
+---
+
+### 2. Cel wymiaru
+
+Celem wymiaru **Zaopatrzenie** w małych podmiotach jest zapewnienie, że jednostka kupuje wyłącznie takie technologie i treści cyfrowe, które *spełniają minimalne wymagania dostępności cyfrowej*.  
+Małe podmioty nie muszą tworzyć rozbudowanych procedur — ważne jest, aby wiedzieć:
+- **co trzeba sprawdzić**,  
+- **jakie dokumenty wymagane są od dostawcy**,  
+- **kiedy odmówić zakupu produktu niedostępnego**.  
+
+Dzięki temu ogranicza się ryzyko zakupu rozwiązań niezgodnych z prawem oraz zapewnia równy dostęp użytkownikom.
+
+---
+
+### 3. Odróżnienie wymiaru Zaopatrzenie od wymiaru Cykl życia TIK
+
+**Zaopatrzenie**:  
+- dotyczy decyzji zakupowych,  
+- obejmuje przygotowanie wymagań, sprawdzenie oferty, podpisanie umowy,  
+- koncentruje się na tym, aby *nie kupić produktu niedostępnego*.
+
+**Cykl życia TIK**:  
+- dotyczy pracy *po zakupie*,  
+- obejmuje wdrożenie, konfigurację, publikację treści, utrzymanie, aktualizacje,  
+- skupia się na tym, aby *utrzymać dostępność* podczas użytkowania produktu.
+
+W skrócie:  
+- **Zaopatrzenie = jak kupić dostępne rozwiązanie**,  
+- **Cykl życia TIK = jak potem z niego korzystać, aby pozostało dostępne**.
+
+---
+
+### 4. Zakres wymiaru
+
+#### 4.1. Wymagania w zakupach
+- określanie podstawowych wymagań dostępności (np. zgodność z WCAG 2.1 AA),  
+- używanie prostych, gotowych klauzul w zapytaniach i umowach.
+
+#### 4.2. Ocena ofert
+- proste sprawdzenie, czy dostawca deklaruje zgodność z wymaganiami,  
+- wymaganie dokumentu ACR/VPAT lub innego potwierdzenia dostępności.
+
+#### 4.3. Zapisy umowne
+- jednoznaczny zapis, że produkt ma być dostępny,  
+- obowiązek usunięcia problemów dostępności przez dostawcę.
+
+#### 4.4. Odbiór i kontrola
+- podstawowe sprawdzenie, czy zamówiony produkt działa i nie ma oczywistych barier,  
+- możliwość zgłoszenia problemu i żądania poprawy.
+
+#### 4.5. Kompetencje
+- minimum wiedzy wśród pracowników dokonujących zakupów (krótkie szkolenie lub instrukcja).
+
+---
+
+### 5. Lista punktów dowodowych
+
+#### A. Wymagania w zakupach
+- stosowanie krótkich wymagań dostępności w zapytaniach ofertowych,  
+- informowanie dostawców, że jednostka wymaga zgodności z prawem w zakresie dostępności.
+
+#### B. Dokumentacja ofertowa
+- dostawca przedstawia ACR/VPAT lub oświadczenie o dostępności,  
+- oferta zawiera wskazanie zgodności z WCAG lub EN 301 549.
+
+#### C. Ocena ofert
+- pracownicy potrafią sprawdzić, czy oferta zawiera informacje o dostępności,  
+- w przypadku braku takich informacji — oferta jest odrzucana lub wyjaśniana.
+
+#### D. Zapisy w umowach
+- umowa zawiera minimum:  
+  - *produkt musi być dostępny*,  
+  - *dostawca usunie wykryte problemy*,  
+  - *aktualizacje nie mogą pogorszyć dostępności*.
+
+#### E. Odbiór zamówionych produktów
+- podstawowa kontrola funkcjonalna (np. czy strona ma tekst alternatywny, czy formularz da się wypełnić),  
+- zgłaszanie dostawcy problemów do poprawy.
+
+#### F. Kompetencje pracowników
+- osoby dokonujące zakupów przeszły krótkie szkolenie lub zapoznały się z instrukcją,  
+- wiedzą, kiedy wezwać wsparcie specjalisty ds. dostępności (jeśli jest dostępny).
+
+---
+
+<details>
+<summary>Wersja uproszczona dla dużych podmiotów publicznych</summary>
+
+## 🟦 Zaopatrzenie - wersja uproszczona dla dużych podmiotów publicznych
+
+**(Zakupy, pozyskiwanie, zamówienia, umowy, odbiory - pod kątem zapewniania dostępności cyfrowej)**
+
+### 1. Definicja wymiaru
+
+Wymiar **Zaopatrzenie** obejmuje wszystkie działania organizacji związane z nabywaniem technologii informacyjno-komunikacyjnych (TIK), treści cyfrowych oraz usług, które mogą wpływać na dostępność cyfrową. Dotyczy przygotowania dokumentacji zakupowej, formułowania wymagań, oceny ofert, podpisywania umów oraz odbioru produktów i usług.  
+W dużych podmiotach wymiar ten jest ściśle powiązany z polityką zakupową, procedurami przetargowymi i profesjonalnym zarządzaniem dostawcami.
+
+---
+
+### 2. Cel wymiaru
+
+Celem wymiaru **Zaopatrzenie** jest zapewnienie, aby wszystkie technologie, treści cyfrowe i usługi nabywane przez organizację były dostępne cyfrowo oraz zgodne z wymogami prawa i normami dostępności.  
+Duże podmioty powinny gwarantować, że dostępność cyfrowa jest konsekwentnie stosowanym kryterium zakupowym, a dostawcy ponoszą odpowiedzialność za jakość i zgodność swoich produktów z wymaganiami dostępności.
+
+---
+
+### 3. Odróżnienie wymiaru Zaopatrzenie od wymiaru Cykl życia TIK
+
+**Zaopatrzenie** dotyczy procesów *przed nabyciem oraz w momencie zakupu*, czyli:
+- definiowania wymagań,
+- tworzenia dokumentów przetargowych,
+- oceny ofert i dowodów zgodności,
+- zapisów umownych,
+- odbioru i weryfikacji dostępności.
+
+**Cykl życia TIK** obejmuje działania *po zakupie*, czyli:
+- wdrożenie, konfigurację, rozwój i utrzymanie,
+- aktualizacje i serwis,
+- monitorowanie dostępności,
+- wycofywanie technologii z użycia.
+
+W skrócie:  
+**Zaopatrzenie zapewnia, że organizacja kupuje rzeczy dostępne.  
+Cykl życia TIK dba o to, żeby pozostały dostępne podczas użytkowania.**
+
+---
+
+### 4. Zakres wymiaru
+
+#### 4.1. Polityka zakupowa
+- polityka dostępnych zakupów obejmująca TIK i treści cyfrowe,  
+- zasady komunikowane dostawcom.
+
+#### 4.2. Wymagania i dokumentacja zakupowa
+- klauzule dostępności w zapytaniach, SIWZ, RFP, umowach,  
+- wymóg zgodności z normami (EN 301 549, WCAG 2.1/2.2),  
+- wymaganie dostarczenia ACR/VPAT lub równoważnych dowodów.
+
+#### 4.3. Ocena ofert
+- ustalona metodologia oceny dostępności,  
+- analiza ACR/VPAT, wyników testów i demonstracji,  
+- stosowanie arkuszy oceny dostępności.
+
+#### 4.4. Zapisy w umowach
+- obowiązek utrzymania dostępności,  
+- wymagania serwisowe i naprawcze,  
+- sankcje za brak zgodności.
+
+#### 4.5. Zarządzanie realizacją dostaw
+- odbiór z kontrolą dostępności,  
+- monitorowanie zgodności i rejestrowanie problemów,  
+- okresowe przeglądy polityki zakupowej.
+
+#### 4.6. Kompetencje i szkolenia
+- szkolenia dla pracowników działu zamówień publicznych,  
+- wsparcie specjalisty ds. dostępności.
+
+---
+
+### 5. Lista punktów dowodowych
+
+#### A. Polityka zakupowa
+- opublikowana polityka zakupowa obejmująca dostępność,  
+- procedury zakupowe uwzględniające wymogi dostępności.
+
+#### B. Dokumentacja zakupowa
+- spójne klauzule dostępności w zapytaniach i umowach,  
+- wskazane standardy dostępności,  
+- wymagane dokumenty zgodności (ACR/VPAT, testy).
+
+#### C. Ocena ofert
+- metodologia oceny i arkusze punktowe,  
+- analiza dowodów zgodności,  
+- dokumentacja wyników oceny.
+
+#### D. Zapisy w umowach
+- obowiązek utrzymania dostępności,  
+- plan naprawczy w razie niezgodności,  
+- wymagania dotyczące testów dostępności w aktualizacjach.
+
+#### E. Zarządzanie realizacją
+- protokoły odbioru z oceną dostępności,  
+- monitoring realizacji umowy,  
+- rejestr incydentów dotyczących niedostępności.
+
+#### F. Kompetencje personelu
+- szkolenia z zakresu dostępnych zakupów,  
+- udział specjalisty ds. dostępności w procesach zakupowych.
+
+</details>
+
+
+
+<details>
+<summary>Wcześniejsza wersja</summary>
+
+
 ## Opis wymiaru
 
 [Wymiar](../../terms/wymiar-dostepnosci) **Zaopatrzenie** w [Modelu dojrzałości dostępności](../../o-sieci/projekt/mdd) obejmuje strategiczny proces skoncentrowany na znajdowaniu i&nbsp;nabywaniu przez organizację opłacalnych i&nbsp; potrzebnych organizacji produktów i&nbsp;usług z komponentem technologii i treści cyfrowych ([technologii informacyjno-komunikacyjnych](../../terms/technologia-informacyjno-komunikacyjna)). 
@@ -103,3 +449,6 @@ Jest to wcześniejsza proponowana robocza wersja tematów. W podpunktach podano 
 | 1.0 | Stefan Wajda | 27.05.2025 | Utworzenie |
 | 2.0 | Stefan Wajda | 1.08.2025 | Uaktualnienie – synchronizacja z Modelem Dojrzałości Dostępności W3C. Dodanie sekcji: Propozycje tematów zaleceń, rozwiązań i praktyk |
 | 2.1 | Stefan Wajda | 3.10.2025 | Sprecyzowanie opisu, definicji zaopatrzenia dostępnego cyfrowo oraz celu wymiaru Zaopatrzenie |
+
+
+</details>

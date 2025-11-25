@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+  <rect width="1200" height="520" fill="#F2F3F5"/>
+
+  <!-- Pasek nagłówka -->
+  <rect width="1200" height="120" fill="#033064"/>
+  <text x="50" y="55" font-family="Arial" font-size="42" fill="#FFFFFF" font-weight="bold">
+    Cykl życia TIK
+  </text>
+  <text x="50" y="100" font-family="Arial" font-size="32" fill="#FFD500" font-weight="bold">
+    Planowanie i projektowanie
+  </text>
+
+  <!-- Panel -->
+  <rect x="60" y="150" width="1080" height="330" rx="12" fill="#FFFFFF" stroke="#033064" stroke-width="3"/>
+
+  <!-- Ikona: projektowanie (ołówek + linijka) -->
+  <g transform="translate(140,260)">
+    <circle cx="0" cy="0" r="70" fill="#033064"/>
+    <g fill="white" transform="scale(0.9)">
+      <rect x="-10" y="-45" width="20" height="90" rx="5"/>
+      <rect x="-45" y="-10" width="90" height="20" rx="5"/>
+      <path d="M-25 25 L0 45 L25 25 L0 5 Z" fill="white"/>
+    </g>
+  </g>
+
+  <!-- Tekst -->
+  <text x="300" y="240" font-family="Arial" font-size="34" fill="#033064" font-weight="bold">
+    Projektowanie z uwzględnieniem dostępności
+  </text>
+
+  <text x="300" y="290" font-family="Arial" font-size="28" fill="#333">
+    • Wymogi WCAG / EN 301 549 w dokumentacji projektowej
+  </text>
+  <text x="300" y="330" font-family="Arial" font-size="28" fill="#333">
+    • Dostępne prototypy, makiety i komponenty UI
+  </text>
+  <text x="300" y="370" font-family="Arial" font-size="28" fill="#333">
+    • Przeglądy dostępności na etapie projektowania
+  </text>
+</svg>

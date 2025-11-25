@@ -8,19 +8,15 @@ on:
 permissions:
   contents: read
   pull-requests: write
+  issues: write
+  actions: read
 
 jobs:
   apply-draft:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Pobierz szczegóły workflow_run
-        id: get_info
-        run: |
-          echo "PR_NUMBER=$(jq -r '.pull_requests[0].number' <<< '${{ toJson(github.event.workflow_run) }}')" >> $GITHUB_ENV
-          echo "REPO=$(jq -r '.repository.full_name' <<< '${{ toJson(github.event.workflow_run) }}')" >> $GITHUB_ENV
-
-      - name: Pobierz artefakt z poprzedniego workflow
+      - name: Download result artifact
         uses: actions/download-artifact@v6
         with:
           name: auto-draft-result
@@ -28,32 +24,51 @@ jobs:
           run-id: ${{ github.event.workflow_run.id }}
           path: ./artifact
 
-      - name: Odczytaj wynik
-        id: read_result
+      - name: Read result
+        id: read
         run: |
-          if [ -f ./artifact/result.json ]; then
-            cat ./artifact/result.json
-            echo "DRAFT_APPLIED=$(jq -r '.draftApplied' ./artifact/result.json)" >> $GITHUB_ENV
-          else
-            echo "DRAFT_APPLIED=false" >> $GITHUB_ENV
-          fi
+          echo "Result file content:"
+          cat artifact/result.json
+          DRAFT_APPLIED=$(jq -r '.draftApplied' artifact/result.json)
+          PR_NUMBER=$(jq -r '.prNumber' artifact/result.json)
+          echo "draftApplied=$DRAFT_APPLIED" >> $GITHUB_ENV
+          echo "PR_NUMBER=$PR_NUMBER" >> $GITHUB_ENV
 
-      - name: Oznacz PR jako draft (jeśli dotyczy)
-        if: env.DRAFT_APPLIED == 'true'
+      - name: Convert PR to draft if needed
+        if: env.draftApplied == 'true'
+        id: convert
         uses: actions/github-script@v8
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const pr_number = process.env.PR_NUMBER;
-            console.log(`Ustawiam draft dla PR #${pr_number}`);
-            await github.rest.pulls.update({
-              ...context.repo,
-              pull_number: pr_number,
-              draft: true
-            });
+            try {
+              const { data: pr } = await github.rest.pulls.get({
+                ...context.repo,
+                pull_number: pr_number
+              });
 
-      - name: Sprawdź czy komentarz już istnieje
-        if: env.DRAFT_APPLIED == 'true'
+              if (pr.draft) {
+                console.log(`PR #${pr_number} is already draft — skipping.`);
+                core.setOutput("converted", "false");
+                return;
+              }
+
+              console.log(`Converting PR #${pr_number} to draft...`);
+              await github.rest.pulls.update({
+                ...context.repo,
+                pull_number: pr_number,
+                draft: true
+              });
+              console.log(`✅ Successfully converted PR #${pr_number} to draft.`);
+              core.setOutput("converted", "true");
+            } catch (error) {
+              console.error(`❌ Failed to convert PR #${pr_number} to draft:`, error.message);
+              core.setOutput("converted", "false");
+            }
+
+      - name: Check if comment already exists
+        if: steps.convert.outputs.converted == 'true'
         id: check_comment
         uses: actions/github-script@v8
         with:
@@ -67,8 +82,8 @@ jobs:
             const existing = comments.find(c => c.body?.includes('<!-- auto-draft-marker -->'));
             core.setOutput('exists', existing ? 'true' : 'false');
 
-      - name: Dodaj komentarz (tylko raz)
-        if: env.DRAFT_APPLIED == 'true' && steps.check_comment.outputs.exists != 'true'
+      - name: Add comment (only if conversion happened and no previous comment)
+        if: steps.convert.outputs.converted == 'true' && steps.check_comment.outputs.exists != 'true'
         uses: actions/github-script@v8
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
@@ -76,8 +91,8 @@ jobs:
             const message = [
               '👋 Ten PR został automatycznie przekonwertowany na **draft**.',
               '',
-              'Tylko upoważnieni użytkownicy mogą oznaczać PR jako gotowy (“Ready for review”) do końcowego przeglądu.',
-              'Jeśli uważasz, że jest to błąd, skontaktuj się z administratorem.',
+              'Tylko upoważnieni użytkownicy mogą oznaczać PR jako gotowy (“Ready for review”).',
+              'Jeśli uważasz, że to błąd, skontaktuj się z administratorem.',
               '',
               '<!-- auto-draft-marker -->'
             ].join('\n');

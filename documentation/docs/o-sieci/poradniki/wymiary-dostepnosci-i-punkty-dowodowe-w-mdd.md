@@ -2,7 +2,7 @@
 id: wymiary-dostepnosci-i-punkty-dowodowe-w-mdd
 title: Wymiary dostępności i punkty dowodowe w Modelu Dojrzałości Dostępności W3C
 sidebar_label: Wymiary dostępności i punkty dowodowe w MDD
-sidebar_position: 3
+sidebar_position: 7
 opracowanie: Stefan Wajda
 data_zgloszenia: 15 kwietnia 2025 r.
 ostatnia_aktualizacja: 15 kwietnia 2025 r.

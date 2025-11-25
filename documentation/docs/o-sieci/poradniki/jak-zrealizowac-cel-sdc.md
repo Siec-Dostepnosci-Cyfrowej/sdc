@@ -2,7 +2,7 @@
 id: jak-zrealizowac-cel-sdc
 title: Jak zrealizować cel Sieci
 sidebar_label: Jak zrealizować cel SDC
-sidebar_position: 1
+sidebar_position: 0
 opracowanie: Stefan Wajda
 
 data_zgloszenia: 17 czerwca 2025 r.

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+  <rect width="1200" height="520" fill="#F2F3F5"/>
+
+  <!-- Header -->
+  <rect width="1200" height="120" fill="#033064"/>
+  <text x="50" y="55" font-family="Arial" font-size="42" fill="#FFFFFF" font-weight="bold">
+    Zaopatrzenie
+  </text>
+  <text x="50" y="100" font-family="Arial" font-size="32" fill="#FFD500" font-weight="bold">
+    Proces oceny dostępności
+  </text>
+
+  <!-- Panel -->
+  <rect x="60" y="150" width="1080" height="330" rx="12"
+        fill="#FFFFFF" stroke="#033064" stroke-width="3"/>
+
+  <!-- Ikona: lupa + dokument -->
+  <g transform="translate(150,260)">
+    <circle cx="0" cy="0" r="70" fill="#033064"/>
+    <g fill="white" transform="scale(0.9)">
+      <rect x="-25" y="-40" width="50" height="80" rx="6"/>
+      <circle cx="15" cy="20" r="20" stroke="none"/>
+      <line x1="25" y1="30" x2="45" y2="50" stroke="white" stroke-width="8"/>
+    </g>
+  </g>
+
+  <!-- Text -->
+  <text x="300" y="240" font-family="Arial" font-size="34" fill="#033064" font-weight="bold">
+    Rzetelna weryfikacja dostępności ofert
+  </text>
+
+  <text x="300" y="290" font-family="Arial" font-size="28" fill="#333">
+    • Ocena ACR/VPAT i dowodów testów dostępności
+  </text>
+  <text x="300" y="330" font-family="Arial" font-size="28" fill="#333">
+    • Punktacja za zgodność z normami (EN 301 549/WCAG)
+  </text>
+  <text x="300" y="370" font-family="Arial" font-size="28" fill="#333">
+    • Analiza ryzyka i wyjątków od dostępności
+  </text>
+</svg>

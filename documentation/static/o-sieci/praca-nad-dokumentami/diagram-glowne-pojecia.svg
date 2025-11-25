@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1100" height="420"
+     viewBox="0 0 1100 420"
+     role="img"
+     aria-labelledby="title desc">
+  <title id="title">Relacje między pojęciami: proces, procedura, plan, artefakty — wersja kolorystyczna</title>
+  <desc id="desc">
+    Diagram przedstawia cztery pojęcia: Proces, Procedura, Plan i Artefakty,
+    pogrupowane w kolorowe ramki z przykładami i połączone strzałkami.
+  </desc>
+
+  <defs>
+    <marker id="arrow"
+            markerWidth="12" markerHeight="12"
+            refX="10" refY="4"
+            orient="auto"
+            markerUnits="strokeWidth">
+      <path d="M0,0 L10,4 L0,8 z" fill="#333"/>
+    </marker>
+
+    <style>
+      text {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        fill: #111;
+      }
+      .box-title {
+        font-size: 20px;
+        font-weight: 600;
+      }
+      .box-desc {
+        font-size: 13px;
+      }
+      .example-title {
+        font-size: 14px;
+        font-weight: 600;
+      }
+      .example-item {
+        font-size: 12px;
+      }
+      .main-title {
+        font-size: 24px;
+        font-weight: 700;
+      }
+      .subtitle {
+        font-size: 13px;
+        opacity: 0.85;
+      }
+      line {
+        stroke: #333;
+        stroke-width: 2;
+      }
+
+      /* Kolorystyka */
+      .c-process { fill: #E8F1FF; stroke: #5B8FF9; stroke-width: 2; }
+      .c-procedure { fill: #E8FFF3; stroke: #52C41A; stroke-width: 2; }
+      .c-plan { fill: #FFF7E6; stroke: #FA8C16; stroke-width: 2; }
+      .c-artifacts { fill: #FFF0F6; stroke: #F759AB; stroke-width: 2; }
+    </style>
+  </defs>
+
+  <!-- Nagłówek -->
+  <text x="550" y="35" text-anchor="middle" class="main-title">
+    Relacje: proces – procedura – plan – artefakty
+  </text>
+  <text x="550" y="60" text-anchor="middle" class="subtitle">
+    Co robimy → Jak robimy → Kiedy i kto → Co powstaje
+  </text>
+
+  <!-- BOX 1: Proces -->
+  <rect class="c-process" x="40" y="90" width="240" height="130" rx="14"/>
+  <text x="160" y="120" text-anchor="middle" class="box-title">Proces</text>
+  <text x="160" y="145" text-anchor="middle" class="box-desc">Ogólna sekwencja działań</text>
+  <text x="160" y="165" text-anchor="middle" class="box-desc">określająca cel i logikę</text>
+
+  <text x="160" y="215" text-anchor="middle" class="example-title">Przykłady:</text>
+  <text x="160" y="235" text-anchor="middle" class="example-item">Proces obsługi zgłoszeń</text>
+  <text x="160" y="255" text-anchor="middle" class="example-item">Proces tworzenia dokumentów</text>
+  <text x="160" y="275" text-anchor="middle" class="example-item">Proces zakupowy</text>
+
+  <!-- BOX 2: Procedura -->
+  <rect class="c-procedure" x="310" y="90" width="240" height="130" rx="14"/>
+  <text x="430" y="120" text-anchor="middle" class="box-title">Procedura</text>
+  <text x="430" y="145" text-anchor="middle" class="box-desc">Szczegółowe kroki działania</text>
+  <text x="430" y="165" text-anchor="middle" class="box-desc">„jak to robimy”</text>
+
+  <text x="430" y="215" text-anchor="middle" class="example-title">Przykłady:</text>
+  <text x="430" y="235" text-anchor="middle" class="example-item">Procedura badania dostępności</text>
+  <text x="430" y="255" text-anchor="middle" class="example-item">Procedura obsługi zgłoszeń</text>
+  <text x="430" y="275" text-anchor="middle" class="example-item">Procedura usprawnień</text>
+
+  <!-- BOX 3: Plan -->
+  <rect class="c-plan" x="580" y="90" width="240" height="130" rx="14"/>
+  <text x="700" y="120" text-anchor="middle" class="box-title">Plan</text>
+  <text x="700" y="145" text-anchor="middle" class="box-desc">„Co, kiedy i kto”</text>
+  <text x="700" y="165" text-anchor="middle" class="box-desc">harmonogram działań</text>
+
+  <text x="700" y="215" text-anchor="middle" class="example-title">Przykłady:</text>
+  <text x="700" y="235" text-anchor="middle" class="example-item">Plan audytów rocznych</text>
+  <text x="700" y="255" text-anchor="middle" class="example-item">Plan rozwoju kompetencji</text>
+  <text x="700" y="275" text-anchor="middle" class="example-item">Plan monitoringu dostępności</text>
+
+  <!-- BOX 4: Artefakty -->
+  <rect class="c-artifacts" x="850" y="90" width="240" height="130" rx="14"/>
+  <text x="970" y="120" text-anchor="middle" class="box-title">Artefakty</text>
+  <text x="970" y="145" text-anchor="middle" class="box-desc">Efekty pracy: dokumenty,</text>
+  <text x="970" y="165" text-anchor="middle" class="box-desc">raporty, rejestry</text>
+
+  <text x="970" y="215" text-anchor="middle" class="example-title">Przykłady:</text>
+  <text x="970" y="235" text-anchor="middle" class="example-item">Raport z audytu</text>
+  <text x="970" y="255" text-anchor="middle" class="example-item">Deklaracja dostępności</text>
+  <text x="970" y="275" text-anchor="middle" class="example-item">Rejestr zgłoszeń</text>
+
+  <!-- STRZAŁKI -->
+  <line x1="280" y1="155" x2="310" y2="155" marker-end="url(#arrow)"/>
+  <line x1="550" y1="155" x2="580" y2="155" marker-end="url(#arrow)"/>
+  <line x1="820" y1="155" x2="850" y2="155" marker-end="url(#arrow)"/>
+
+</svg>

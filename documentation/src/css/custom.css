@@ -57,3 +57,7 @@
   padding-left: 10px;
   margin-left:1em;
  }
+ 
+:root {
+  --tw-shadow: 0 0 #0000;
+}

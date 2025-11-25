@@ -2,7 +2,7 @@
 id: punkty-dowodowe-mdd-a-tematyka-zalecen
 title: Punkty dowodowe w Modelu Dojrzałości Dostępności a tematyka zaleceń
 sidebar_label: Punkty dowodowe w MDD a tematyka zaleceń
-sidebar_position: 2
+sidebar_position: 6
 opracowanie: Stefan Wajda
 data_zgloszenia: 15 kwietnia 2025 r.
 ostatnia_aktualizacja: 15 kwietnia 2025 r.

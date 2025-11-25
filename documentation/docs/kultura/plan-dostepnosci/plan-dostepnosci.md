@@ -1,20 +1,14 @@
 ---
-id: plan-zapewniania-dostepnosci-cyfrowej
-title: Plan zapewniania dostępności cyfrowej
-sidebar_label: Organizacja powinna opracować i wdrożyć Plan działania na rzecz poprawy zapewniania dostępnośc
+id: plan-dostepnosci
+title: Plan działania na rzecz poprawy zapewnienia dostępności osobom ze szczególnymi potrzebami
+sidebar_label: Organizacja powinna opracować i wdrożyć Plan działania na rzecz poprawy zapewniania dostępności
 sidebar_position: 0
 description: Propozycja zalecenia
-keywords: [
-        kultura organziacyjna,
-		zarządzanie,
-]
-tags: [
-        kultura organziacyjna,
-		zarządzanie,
-]
-opracowanie: Anna Czekalska
+keywords: [kultura organizacyjna, zarządzanie]
+tags: [kultura organizacyjna, zarządzanie]
+opracowanie: Anna Czekalska 
 data_zgloszenia: 2 października 2025 r.
-ostatnia_aktualizacja: 24 września 2025 r.
+ostatnia_aktualizacja: 20 listopada 2025 r.
 wersja_robocza: true
 ---
 
@@ -22,7 +16,7 @@ wersja_robocza: true
 
 ## Zalecenie
 
-Instytucja publiczna powinna opracować i wdrożyć Plan działania na rzecz poprawy zapewniania dostępności osobom ze szczególnymi potrzebami, ponieważ jest to ustawowy obowiązek wynikający z ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami. Plan ten stanowi podstawowy instrument realizacji polityki dostępności i służy systematycznemu eliminowaniu barier, które mogą ograniczać pełne uczestnictwo osób z niepełnosprawnościami i innych osób ze szczególnymi potrzebami w życiu publicznym.
+Instytucja publiczna powinna opracować i wdrożyć Plan działania na rzecz poprawy zapewniania dostępności osobom ze szczególnymi potrzebami. Jest to ustawowy obowiązek wynikający z ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami. Plan ten stanowi podstawowe narzędzie do realizacji polityki dostępności i pomaga regularnie usuwać bariery, które utrudniają osobom z niepełnosprawnościami i innym osobom ze szczególnymi potrzebami pełny udział w życiu publicznym.
 
 ## Rekomendacje
 
@@ -54,8 +48,8 @@ W zakresie dostępności cyfrowej Plan działania na rzecz poprawy zapewniania d
 
 ## Podstawa prawna
 
-- Art. 4 pkt. 2 ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami z dnia 19 lipca 2019 r. (Dz. U. 2019, poz. 1696)
-- Art. 14 pkt. 2 ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami z dnia 19 lipca 2019 r. (Dz. U. 2019, poz. 1696)
+- [Art. 4 pkt. 2 ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami z dnia 19 lipca 2019 r. (Dz. U. 2019, poz. 1696)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001696)
+- [Art. 14 pkt. 2 ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami z dnia 19 lipca 2019 r. (Dz. U. 2019, poz. 1696)](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001696)
 - Art. 14 pkt. 3 ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami z dnia 19 lipca 2019 r. (Dz. U. 2019, poz. 1696)
 - Art. 14 pkt. 5 ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami z dnia 19 lipca 2019 r. (Dz. U. 2019, poz. 1696)
 
@@ -73,11 +67,18 @@ Plan zapewnia:
 Opracowanie i wdrożenie Planu działania jest więc nie tylko wymogiem prawnym, ale również wyrazem odpowiedzialności społecznej instytucji publicznych, zapewniającym równy dostęp do usług publicznych wszystkim obywatelom.
 
 ## Źródła, opracowania
+- [Planning and Policies Overview](https://www.w3.org/WAI/planning/)
+- [Developing Organizational Policies on Web Accessibility](https://www.w3.org/WAI/planning/org-policies/)
+- [Example of a Comprehensive Organizational Policy](https://www.w3.org/WAI/planning/org-policies/example/)
+- [Planning and Managing Web Accessibility – Plan](https://www.w3.org/WAI/planning-and-managing/plan/)
+- [The WebAIM Strategic Accessibility Framework](https://webaim.org/articles/strategicframework/)
+- [Ramy strategii dostępności WebAIM. Wskaźniki i kryteria sukcesu](https://lepszyweb.pl/blog2/ramy-strategii-dostepnosci-webaim)
 
 
 ## Historia wersji
 
 | **Wersja** | **Autor** | **Data** | **Opis zmian** |
 | --- | --- | --- | --- |
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-
+|1 | Anna Czekalska  <br/>Stefan Wajda | 2 pażdziernika 2025 r. | Utworzenie |
+|2 | Anna Czekalska | 30 października 2025 r. | Korekta |
+|2 | Anna Czekalska | 20 listopada 2025 r. | Korekta |
