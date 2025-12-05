@@ -48,7 +48,7 @@
     "imagemin-cli": "8.0.0",
     "imagemin-mozjpeg": "10.0.0",
     "imagemin-pngquant": "10.0.0",
-    "markdownlint": "0.39.0",
+    "markdownlint": "0.40.0",
     "markdownlint-cli": "0.46.0",
     "postcss": "^8.5.6",
     "shadcn-ui": "^0.9.5",
