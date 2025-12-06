@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Test wiedzy – Tworzenie dostępnych dokumentów w praktyce</title>
+<style>
+  :root { --bg:#ffffff; --ink:#111; --muted:#555; --accent:#0a66c2; --border:#d9d9d9; }
+  html,body { margin:0; padding:0; background:var(--bg); color:var(--ink); font-family: system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,Arial,sans-serif; line-height:1.6; }
+  .wrap { max-width: 880px; margin: 0 auto; padding: 24px; }
+  header { border-bottom:1px solid var(--border); padding-bottom:16px; margin-bottom:24px; display:flex; align-items:center; gap:16px; }
+  .logo { width:56px; height:56px; background: #e9ecef; border:1px solid var(--border); border-radius:8px; display:grid; place-items:center; }
+  .logo svg { width:38px; height:38px; }
+  h1 { font-size: clamp(1.4rem, 1.2rem + 1.2vw, 2rem); margin:0; }
+  .muted { color:var(--muted); }
+  .card { border:1px solid var(--border); border-radius:14px; padding:20px; margin: 16px 0; }
+  button { font: inherit; padding: 10px 16px; border:1px solid var(--border); border-radius:10px; background:#f6f8fa; cursor:pointer; }
+  button:focus { outline:3px solid var(--accent); outline-offset:2px; }
+  button.primary { background: var(--accent); color:white; border-color:var(--accent); }
+  .sr-only { position:absolute; left:-9999px; width:1px; height:1px; overflow:hidden; }
+  .hidden { display:none !important; }
+  fieldset { border:none; padding:0; margin:0 0 16px 0; }
+  legend { font-weight:600; margin-bottom:8px; }
+  label { display:block; padding:8px 10px; border-radius:10px; border:1px solid transparent; }
+  input[type="radio"] { margin-right:8px; }
+  .q { margin-bottom: 18px; }
+  .footer { margin-top:24px; font-size:0.95rem; color:var(--muted); border-top:1px solid var(--border); padding-top:12px; }
+  .result { font-weight:600; }
+  .grid { display:grid; gap:16px; }
+  @media (min-width:700px){ .grid{ grid-template-columns: 1fr 1fr; } }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header aria-label="Nagłówek">
+      <div class="logo" aria-hidden="true">
+        <!-- Fikcyjne logo Urzędu Przykładowego -->
+        <svg viewBox="0 0 24 24" role="img" aria-label="Logo Urząd Przykładowy">
+          <rect x="3" y="3" width="18" height="18" fill="#adb5bd" stroke="#6c757d" />
+          <path d="M6 16h12M6 12h12M6 8h12" stroke="#6c757d" stroke-width="1.6" />
+        </svg>
+      </div>
+      <div>
+        <h1>Test wiedzy – Tworzenie dostępnych dokumentów w praktyce</h1>
+        <div class="muted">Urząd Przykładowy</div>
+      </div>
+    </header>
+
+    <section id="intro" class="card" aria-labelledby="intro-title">
+      <h2 id="intro-title">Instrukcja</h2>
+      <p>Odpowiedz na 15 pytań jednokrotnego wyboru. Aby zaliczyć test, uzyskaj co najmniej <strong>70%</strong> poprawnych odpowiedzi.</p>
+      <div class="grid">
+        <div>
+          <ul>
+            <li>Nawiguj klawiaturą: <kbd>Tab</kbd>, <kbd>Shift</kbd>+<kbd>Tab</kbd>, wybór strzałkami.</li>
+            <li>Możesz przeglądać pytania przed wysłaniem.</li>
+            <li>Po zakończeniu zobaczysz wynik, procent i ocenę (2–5).</li>
+          </ul>
+        </div>
+        <div class="card">
+          <p class="muted" style="margin-top:0">Parametry testu</p>
+          <ul>
+            <li>Liczba pytań: 15</li>
+            <li>Forma: jednokrotny wybór</li>
+            <li>Kryterium zaliczenia: &ge; 70%</li>
+          </ul>
+        </div>
+      </div>
+      <button id="startBtn" class="primary" aria-controls="quiz" aria-expanded="false">Rozpocznij test</button>
+    </section>
+
+    <form id="quiz" class="hidden" aria-labelledby="quiz-title">
+      <h2 id="quiz-title" class="sr-only">Pytania testowe</h2>
+      <div id="questions"></div>
+      <div class="card">
+        <button type="button" id="finishBtn" class="primary">Zakończ test</button>
+        <button type="button" id="resetBtn">Wyczyść odpowiedzi</button>
+      </div>
+    </form>
+
+    <section id="summary" class="card hidden" aria-live="polite" aria-atomic="true">
+      <h2>Wynik testu</h2>
+      <p class="result">
+        Poprawne odpowiedzi: <span id="score">0</span> / 15<br/>
+        Wynik procentowy: <span id="percent">0</span>%<br/>
+        Ocena: <span id="grade">2.0</span> – <span id="gradeLabel">Niezaliczone</span>
+      </p>
+      <p id="passMsg" class="muted"></p>
+      <button id="retryBtn" type="button">Spróbuj ponownie</button>
+    </section>
+
+    <div class="footer">
+      Opracował Zespół ds. Dostępności Cyfrowej, Urząd Przykładowy, 2025
+    </div>
+  </div>
+
+<script>
+const QUESTIONS = [
+  { q: "Czym jest dostępność cyfrowa dokumentu?", a: ["Możliwością wydrukowania go w dowolnym formacie","Możliwością łatwego znalezienia go w systemie dokumentów","Dostępnością treści dla wszystkich użytkowników, niezależnie od ograniczeń","Dostępnością pliku tylko w formacie PDF"], correct: 2 },
+  { q: "Dlaczego dostępność cyfrowa jest ważna?", a: ["Tylko ze względów estetycznych","Ponieważ zwiększa czytelność i umożliwia korzystanie z dokumentów osobom z niepełnosprawnościami","Ponieważ ułatwia drukowanie dokumentów","Ponieważ wymaga tego każdy system biurowy"], correct: 1 },
+  { q: "Na jakim akcie prawnym opiera się obowiązek zapewnienia dostępności cyfrowej w Polsce?", a: ["Ustawa o ochronie danych osobowych","Ustawa o finansach publicznych","Ustawa o dostępności cyfrowej stron internetowych i aplikacji mobilnych","Ustawa o informacji publicznej"], correct: 2 },
+  { q: "Co oznacza skrót WCAG?", a: ["Web Content Accessibility Guidelines","World Community Access Group","Wide Communication Access Gateway","Web Content Assistance Guide"], correct: 0 },
+  { q: "Kto odpowiada za tworzenie dostępnych dokumentów w organizacji?", a: ["Tylko zespół ds. dostępności","Każdy pracownik tworzący lub przekazujący dokumenty","Tylko dział IT","Kierownik jednostki"], correct: 1 },
+  { q: "Jak należy tworzyć nagłówki w dokumencie Word?", a: ["Ręcznie zwiększając rozmiar czcionki","Pogrubiając tekst","Używając wbudowanych stylów „Nagłówek 1”, „Nagłówek 2”, itd.","Wstawiając tekst w polu tekstowym"], correct: 2 },
+  { q: "Do czego służy tekst alternatywny (ALT)?", a: ["Do zwiększenia rozmiaru obrazu","Do opisania obrazu dla osób korzystających z czytników ekranu","Do nadania koloru tłu dokumentu","Do formatowania wykresów"], correct: 1 },
+  { q: "Co należy zrobić przed zapisaniem pliku Word jako PDF, aby zachować dostępność?", a: ["Użyć opcji „Zapisz jako PDF” z zachowaniem znaczników struktury","Wydrukować do PDF","Skopiować treść do obrazu i zapisać","Usunąć style z dokumentu"], correct: 0 },
+  { q: "Jak sprawdzić dostępność dokumentu w Microsoft Word?", a: ["Narzędziem „Sprawdź gramatykę”","Narzędziem „Sprawdź dostępność” w zakładce Recenzja","Funkcją „Zapisz jako PDF”","Opcją „Podgląd wydruku”"], correct: 1 },
+  { q: "Co oznacza zgodność PDF/UA?", a: ["Plik został zabezpieczony hasłem","Plik zawiera strukturę logiczną i opisy alternatywne, jest dostępny cyfrowo","Plik jest wydrukowany na papierze","Plik został przesłany pocztą elektroniczną"], correct: 1 },
+  { q: "Jaki kontrast kolorów zapewnia minimalną czytelność tekstu?", a: ["2:1","3:1","4.5:1","10:1"], correct: 2 },
+  { q: "Jakie linki należy stosować w dokumentach?", a: ["Z opisem kontekstowym, np. „Formularz zgłoszeniowy”","Z opisem „kliknij tutaj”","Tylko linki do stron głównych","Linki bez opisu"], correct: 0 },
+  { q: "Kiedy można opublikować dokument jako skan (obraz)?", a: ["Zawsze, jeśli ma pieczątkę","Tylko gdy istnieje równoważna wersja dostępna cyfrowo","Nigdy","Gdy plik PDF ma mniej niż 2 MB"], correct: 1 },
+  { q: "Co oznacza lista kontrolna autora dokumentu?", a: ["Spis osób odpowiedzialnych za podpis","Narzędzie do samodzielnego sprawdzenia wymogów dostępności","Wykaz błędów językowych","Formularz zgłoszenia problemu"], correct: 1 },
+  { q: "Co NIE jest zasadą dostępnego dokumentu?", a: ["Czytelny układ i struktura","Zastosowanie stylów nagłówków","Używanie dużych obrazów bez opisu","Opisywanie treści w sposób zrozumiały"], correct: 2 }
+];
+
+function renderQuestions() {
+  const container = document.getElementById('questions');
+  container.innerHTML = '';
+  QUESTIONS.forEach((item, idx) => {
+    const fs = document.createElement('fieldset');
+    fs.className = 'card q';
+    const lg = document.createElement('legend');
+    lg.textContent = (idx+1) + '. ' + item.q;
+    fs.appendChild(lg);
+    item.a.forEach((ans, aidx) => {
+      const id = `q${idx}_a${aidx}`;
+      const label = document.createElement('label');
+      label.setAttribute('for', id);
+      const radio = document.createElement('input');
+      radio.type = 'radio';
+      radio.name = 'q'+idx;
+      radio.id = id;
+      radio.value = aidx;
+      label.appendChild(radio);
+      const span = document.createElement('span');
+      span.textContent = String.fromCharCode(65+aidx)+'. '+ans;
+      label.appendChild(span);
+      fs.appendChild(label);
+    });
+    container.appendChild(fs);
+  });
+}
+
+function gradeFromPercent(p){
+  if (p>=90) return {grade:"5,0", label:"Bardzo dobry – pełne opanowanie wiedzy"};
+  if (p>=80) return {grade:"4,5", label:"Dobry plus"};
+  if (p>=70) return {grade:"4,0", label:"Dobry – poziom wymagany do zaliczenia"};
+  if (p>=60) return {grade:"3,5", label:"Dostateczny plus – wymaga poprawy"};
+  if (p>=50) return {grade:"3,0", label:"Dostateczny – niezaliczony formalnie"};
+  return {grade:"2,0", label:"Niezaliczone"};
+}
+
+function calculateScore(){
+  let correct = 0;
+  QUESTIONS.forEach((item, idx) => {
+    const checked = document.querySelector('input[name="q'+idx+'"]:checked');
+    if (checked && Number(checked.value) === item.correct) correct++;
+  });
+  return correct;
+}
+
+function finish(){
+  const correct = calculateScore();
+  const percent = Math.round((correct / QUESTIONS.length) * 100);
+  const g = gradeFromPercent(percent);
+  document.getElementById('score').textContent = correct;
+  document.getElementById('percent').textContent = percent;
+  document.getElementById('grade').textContent = g.grade;
+  document.getElementById('gradeLabel').textContent = g.label;
+  const pass = percent >= 70;
+  const msg = pass
+    ? `Gratulacje! Ukończyłeś test z wynikiem ${percent}% (ocena: ${g.grade}).`
+    : `Nie udało się zaliczyć. Uzyskano ${percent}% (ocena: ${g.grade}).`;
+  document.getElementById('passMsg').textContent = msg;
+
+  document.getElementById('summary').classList.remove('hidden');
+  document.getElementById('quiz').classList.add('hidden');
+  document.getElementById('intro').classList.add('hidden');
+  window.scrollTo({top:0, behavior:'smooth'});
+}
+
+function resetForm(){
+  document.getElementById('quiz').reset();
+}
+
+document.getElementById('startBtn').addEventListener('click', () => {
+  document.getElementById('intro').classList.add('hidden');
+  document.getElementById('quiz').classList.remove('hidden');
+  renderQuestions();
+  document.getElementById('quiz').scrollIntoView({behavior:'smooth'});
+});
+
+document.getElementById('finishBtn').addEventListener('click', finish);
+document.getElementById('resetBtn').addEventListener('click', resetForm);
+document.getElementById('retryBtn').addEventListener('click', () => {
+  document.getElementById('summary').classList.add('hidden');
+  document.getElementById('intro').classList.remove('hidden');
+});
+
+</script>
+</body>
+</html>
