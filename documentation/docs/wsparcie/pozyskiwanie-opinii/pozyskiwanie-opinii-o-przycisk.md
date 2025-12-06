@@ -34,7 +34,7 @@ wersja_robocza: true
   Dane przetwarzane są wyłącznie w celu obsługi zgłoszenia dotyczącego dostępności cyfrowej.
   Podanie danych osobowych jest dobrowolne, ale może być niezbędne do otrzymania odpowiedzi.
   Masz prawo dostępu do swoich danych, ich poprawiania oraz żądania usunięcia.
-  Szczegółowe informacje znajdują się w Polityce prywatności
+  Szczegółowe informacje znajdują się w Polityce prywatności.
 
 ## Wskazówki dla administratora
 
