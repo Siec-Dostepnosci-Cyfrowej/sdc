@@ -1,0 +1,74 @@
+{
+  "@context": "https://europa.eu/schemas/credentials/v1",
+  "id": "PL-ACC-019",
+  "type": [
+    "Microcredential",
+    "EducationalOccupationalCredential"
+  ],
+  "name": {
+    "pl": "Młodszy tester dostępności cyfrowej WWW",
+    "en": "Junior Web Accessibility Tester"
+  },
+  "description": {
+    "pl": "Mikropoświadczenie potwierdza kompetencje w zakresie przeprowadzania prostych testów dostępności stron internetowych (Easy Check), w tym testów struktury, czytelności, formularzy, nawigacji, widoczności fokusu i responsywności. Posiadacz potrafi wykonać podstawową ocenę zgodności z zasadami WCAG 2.1 i zgłosić wyniki przeglądu zespołowi ds. dostępności."
+  },
+  "issuer": {
+    "name": "Centrum Kompetencji Dostępności Cyfrowej (CKDC)",
+    "type": "Organization",
+    "url": "https://ckdc.gov.pl"
+  },
+  "language": [
+    "pl"
+  ],
+  "learningOutcomes": {
+    "knowledge": [
+      "Zna podstawowe pojęcia dotyczące dostępności cyfrowej i zasad WCAG.",
+      "Rozumie znaczenie testów użytkowych i wczesnego wykrywania błędów.",
+      "Zna proste metody testowania dostępności wizualnej, strukturalnej i interaktywnej.",
+      "Zna narzędzia automatyczne (WAVE, axe, Lighthouse) i ich ograniczenia."
+    ],
+    "skills": [
+      "Wykonuje proste testy dostępności treści, formularzy i interfejsów.",
+      "Analizuje widoczność fokusu, responsywność i poprawność struktury dokumentu.",
+      "Dokumentuje wyniki testów w formularzu lub arkuszu kontrolnym.",
+      "Współpracuje z redaktorami i administratorami w procesie poprawy dostępności."
+    ],
+    "responsibility": [
+      "Wspiera proces zapewniania dostępności poprzez proste testy kontrolne.",
+      "Zachowuje rzetelność w raportowaniu błędów.",
+      "Promuje kulturę dostępności i testowania w organizacji.",
+      "Rozumie rolę młodszego testera w zespole ds. dostępności."
+    ]
+  },
+  "assessment": {
+    "methods": [
+      "Ocena raportu z testów (merytoryczna i formalna).",
+      "Rozmowa ewaluacyjna lub test wiedzy.",
+      "Autoocena uczestnika."
+    ],
+    "criteria": [
+      "Raport zawiera wyniki testów i rekomendacje działań naprawczych.",
+      "Testy wykonano zgodnie z zasadami Easy Check i WCAG 2.1.",
+      "Wyniki są poprawnie zinterpretowane i opisane."
+    ]
+  },
+  "evidence": [
+    "Arkusz testowy lub raport z wykonanych testów dostępności (Easy Check).",
+    "Zestaw wyników z narzędzi automatycznych (WAVE, axe, Lighthouse).",
+    "Lista wykrytych błędów i rekomendacji.",
+    "Potwierdzenie udziału w przeglądzie dostępności."
+  ],
+  "accreditation": {
+    "standard": [
+      "WCAG 2.1 – poziom A i AA",
+      "EN 301 549 – sekcje 9 i 10",
+      "ISO/IEC 40500:2012",
+      "EAA – European Accessibility Act"
+    ],
+    "eqfLevel": "4",
+    "validityPeriod": "3 lata"
+  },
+  "dateCreated": "2025-11-09",
+  "creator": "Zespół ds. Dostępności Cyfrowej – CKDC",
+  "version": "1.0"
+}

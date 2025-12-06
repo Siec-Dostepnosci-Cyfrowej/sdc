@@ -1,0 +1,82 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "id": "https://ckdc.gov.pl/credentials/PL-ACC-014_Tester-tresci-internetowych",
+  "type": "BadgeClass",
+  "name": {
+    "pl": "Tester treści internetowych",
+    "en": "Web Content Tester"
+  },
+  "description": {
+    "pl": "Mikropoświadczenie potwierdza kompetencje w zakresie testowania treści internetowych przygotowanych przez autorów i redaktorów pod kątem dostępności, czytelności i zrozumiałości, zgodnie z WCAG 2.2 AA.",
+    "en": "The microcredential certifies competence in testing web content prepared by authors and editors for accessibility, readability, and clarity, according to WCAG 2.2 AA."
+  },
+  "criteria": {
+    "narrative": {
+      "pl": "Uczestnik potrafi analizować i testować treści internetowe pod kątem dostępności redakcyjnej, identyfikować błędy, sporządzać raporty i przekazywać rekomendacje autorom. Ocenie podlega raport testowy oraz komunikacja z zespołem redakcyjnym.",
+      "en": "The participant can analyze and test web content for editorial accessibility, identify errors, prepare reports, and provide recommendations to authors. Assessment includes test reports and communication with editorial teams."
+    }
+  },
+  "learningOutcomes": {
+    "knowledge": [
+      "Zna zasady dostępności redakcyjnej określone w WCAG 2.2 (kryteria 1.1.1, 1.3.1, 1.4.3, 2.4.6, 3.1.5).",
+      "Rozumie różnicę między błędami treściowymi a technicznymi.",
+      "Zna podstawy języka prostego i komunikacji inkluzywnej.",
+      "Zna proces obiegu treści i testowania publikacji przed publikacją."
+    ],
+    "skills": [
+      "Analizuje i testuje dostępność treści przygotowanych przez autorów.",
+      "Identyfikuje błędy w strukturze, języku, opisach i etykietach.",
+      "Sporządza raport testowy i rekomendacje dla zespołu redakcyjnego.",
+      "Potwierdza poprawność wprowadzonych poprawek.",
+      "Stosuje narzędzia do testowania treści (np. WAVE, axe, a11ytools)."
+    ],
+    "socialCompetence": [
+      "Dba o jakość i spójność redakcyjną treści publikowanych online.",
+      "Współpracuje z autorami i redaktorami w duchu partnerstwa i wspólnego celu.",
+      "Rozumie znaczenie testów redakcyjnych w procesie zapewniania dostępności.",
+      "Promuje dobre praktyki redakcyjne i język inkluzywny."
+    ]
+  },
+  "assessment": {
+    "methods": [
+      "Analiza raportu z testu redakcyjnego.",
+      "Obserwacja procesu testowania treści.",
+      "Rozmowa kompetencyjna i analiza wyników testu.",
+      "Weryfikacja jakości rekomendacji i komunikacji z autorami."
+    ]
+  },
+  "evidence": {
+    "types": [
+      "Raport z testu redakcyjnego wybranej strony lub artykułu.",
+      "Lista błędów i rekomendacji dla autorów.",
+      "Potwierdzenie poprawności po wdrożeniu zmian.",
+      "Autoocena lub rozmowa ewaluacyjna."
+    ]
+  },
+  "issuer": {
+    "id": "https://ckdc.gov.pl",
+    "type": "Profile",
+    "name": "Centrum Kompetencji Dostępności Cyfrowej (CKDC)",
+    "url": "https://ckdc.gov.pl",
+    "email": "kontakt@ckdc.gov.pl"
+  },
+  "alignment": [
+    {
+      "targetName": "WCAG 2.2 – poziom AA",
+      "targetUrl": "https://www.w3.org/TR/WCAG22/",
+      "targetFramework": "W3C Web Content Accessibility Guidelines"
+    },
+    {
+      "targetName": "EN 301 549 – sekcja 9 Treści internetowe",
+      "targetFramework": "European Accessibility Standard"
+    },
+    {
+      "targetName": "ISO/IEC 40500:2012 – Accessibility Guidelines",
+      "targetFramework": "International Standard"
+    }
+  ],
+  "educationalLevel": "EQF 5",
+  "validityPeriod": "P3Y",
+  "issuedOn": "2025-11-09",
+  "version": "1.0"
+}

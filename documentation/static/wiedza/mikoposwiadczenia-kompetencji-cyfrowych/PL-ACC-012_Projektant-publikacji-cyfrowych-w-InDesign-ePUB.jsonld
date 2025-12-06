@@ -1,0 +1,65 @@
+{
+  "@context": "https://europa.eu/schemas/credentials/v1",
+  "id": "PL-ACC-012",
+  "type": "Microcredential",
+  "name": {
+    "pl": "Projektant publikacji cyfrowych w InDesign / ePUB",
+    "en": "Designer of Accessible Digital Publications in InDesign / ePUB"
+  },
+  "description": {
+    "pl": "Mikropoświadczenie potwierdza zaawansowane kompetencje w zakresie projektowania i przygotowania dostępnych publikacji cyfrowych w środowisku Adobe InDesign oraz eksportu dokumentów do formatów PDF/UA i ePUB 3. Posiadacz potrafi projektować złożone publikacje (raporty, broszury, książki, biuletyny) zgodne z zasadami dostępności cyfrowej i międzynarodowymi standardami publikacyjnymi."
+  },
+  "language": [
+    "pl"
+  ],
+  "learningOutcomes": {
+    "knowledge": [
+      "Zna zasady projektowania publikacji cyfrowych zgodnych z WCAG 2.2 i PDF/UA.",
+      "Rozumie strukturę formatu ePUB 3 i różnice między PDF a ePUB.",
+      "Zna ograniczenia i możliwości eksportu dostępnych publikacji z InDesign.",
+      "Zna standardy EAA i EN 301 549 dotyczące publikacji cyfrowych."
+    ],
+    "skills": [
+      "Tworzy dostępne układy publikacji w InDesign.",
+      "Stosuje style i tagi strukturalne.",
+      "Projektuje elementy interaktywne, spisy treści i znaczniki językowe.",
+      "Eksportuje i testuje pliki PDF/UA i ePUB 3.",
+      "Koryguje błędy walidacji i optymalizuje strukturę publikacji."
+    ],
+    "responsibility": [
+      "Dba o jakość i dostępność publikacji cyfrowych.",
+      "Wspiera współpracowników w zakresie projektowania dostępnych materiałów.",
+      "Promuje stosowanie otwartych i inkluzywnych standardów publikacyjnych.",
+      "Współpracuje z zespołami redakcyjnymi i IT w celu zapewnienia zgodności z zasadami dostępności."
+    ]
+  },
+  "assessment": {
+    "methods": [
+      "Ocena projektu publikacji przez komisję CKDC.",
+      "Analiza raportów walidacyjnych EPUBCheck i PAC.",
+      "Rozmowa ewaluacyjna dotycząca procesu projektowego i zastosowanych technik."
+    ],
+    "evidence": [
+      "Projekt publikacji przygotowanej w Adobe InDesign.",
+      "Eksport do formatu PDF/UA i ePUB 3.",
+      "Raport z testu EPUBCheck i PAC (bez błędów krytycznych).",
+      "Opis zastosowanych technik i decyzji projektowych w zakresie dostępności."
+    ]
+  },
+  "eqfLevel": "6",
+  "issuedBy": {
+    "name": "Centrum Kompetencji Dostępności Cyfrowej (CKDC)",
+    "type": "publicAuthority",
+    "country": "PL"
+  },
+  "accreditation": {
+    "standard": "WCAG 2.2, PDF/UA, ePUB 3.3, EN 301 549, EAA",
+    "validityPeriod": "4 lata"
+  },
+  "metadata": {
+    "version": "1.0",
+    "dateCreated": "2025-11-09",
+    "creator": "Centrum Kompetencji Dostępności Cyfrowej (CKDC)",
+    "format": "application/ld+json"
+  }
+}
