@@ -1,0 +1,82 @@
+{
+  "@context": "https://europa.eu/schemas/credentials/v1",
+  "id": "https://ckdc.gov.pl/credentials/PL-ACC-004_Tester-Audytor-dostępności-dokumentów-PDF",
+  "type": [
+    "EuropassCredential",
+    "LearningAchievement"
+  ],
+  "name": {
+    "pl": "Mikropoświadczenie: Tester / Audytor dostępności dokumentów PDF"
+  },
+  "description": {
+    "pl": "Mikropoświadczenie potwierdza kompetencje w zakresie testowania, audytowania i oceny dostępności dokumentów PDF zgodnych ze standardem PDF/UA (ISO 14289-1) oraz zasadami WCAG 2.2."
+  },
+  "issuer": {
+    "id": "https://ckdc.gov.pl/id",
+    "type": "Organization",
+    "name": "Centrum Kompetencji Dostępności Cyfrowej (CKDC)"
+  },
+  "issued": "2025-11-09",
+  "validityPeriod": "P4Y",
+  "learningOutcomes": [
+    {
+      "type": "Knowledge",
+      "description": "Zna wymagania normy PDF/UA i powiązanych standardów."
+    },
+    {
+      "type": "Knowledge",
+      "description": "Rozumie zasady dostępności dokumentów i struktur tagów."
+    },
+    {
+      "type": "Skill",
+      "description": "Analizuje dokumenty PDF przy użyciu narzędzi walidacyjnych i czytników ekranu."
+    },
+    {
+      "type": "Skill",
+      "description": "Interpretuje wyniki testów automatycznych i manualnych."
+    },
+    {
+      "type": "Competence",
+      "description": "Dba o rzetelność audytu, promuje dobre praktyki i wspiera twórców dokumentów."
+    }
+  ],
+  "evidence": [
+    {
+      "type": "AssessmentReport",
+      "name": {
+        "pl": "Raport z audytu dokumentu PDF"
+      },
+      "description": {
+        "pl": "Raport z testów automatycznych i manualnych potwierdzający ocenę dostępności dokumentu PDF."
+      }
+    },
+    {
+      "type": "WorkSample",
+      "name": {
+        "pl": "Dokument z identyfikowanymi błędami i rekomendacjami"
+      },
+      "description": {
+        "pl": "Dokument PDF wraz z opisem błędów i zaleceniami naprawczymi zgodnie z WCAG 2.2 i PDF/UA."
+      }
+    }
+  ],
+  "framework": {
+    "id": "https://europa.eu/europass/credentials/v1",
+    "name": "Europejskie Ramy Kwalifikacji (EQF)"
+  },
+  "language": "pl",
+  "identifier": "PL-ACC-004",
+  "educationalLevel": "Zaawansowany – ekspercki",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "accreditation": {
+    "id": "https://ckdc.gov.pl/accreditations/ckdc",
+    "type": "Accreditation",
+    "name": "Akredytacja CKDC"
+  },
+  "relatedStandard": [
+    "WCAG 2.2",
+    "PDF/UA – ISO 14289",
+    "EN 301 549",
+    "Europejskie Ramy Kwalifikacji (EQF)"
+  ]
+}
