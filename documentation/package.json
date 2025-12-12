@@ -49,7 +49,7 @@
     "imagemin-mozjpeg": "10.0.0",
     "imagemin-pngquant": "10.0.0",
     "markdownlint": "0.40.0",
-    "markdownlint-cli": "0.46.0",
+    "markdownlint-cli": "0.47.0",
     "postcss": "^8.5.6",
     "shadcn-ui": "^0.9.5",
     "svgo": "4.0.0",
