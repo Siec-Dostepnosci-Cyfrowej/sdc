@@ -14,7 +14,7 @@ ostatnia_aktualizacja: 3 grudnia 2025 r.
 wersja_robocza: true
 ---
 
-Organizacja opracowuje i wdraża zasady oraz tryb przyjmowania, rozpatrywania i załatwiania skarg w sprawie zapewnienia dostępności cyfrowej
+Organizacja opracowuje i wdraża zasady oraz tryb przyjmowania, rozpatrywania i załatwiania skarg w sprawie zapewnienia dostępności cyfrowej 
 
 ## 1. Zalecenie
 Organizacja powinna wdrożyć formalny system przyjmowania, rozpatrywania i załatwiania skarg dotyczących dostępności cyfrowej.
