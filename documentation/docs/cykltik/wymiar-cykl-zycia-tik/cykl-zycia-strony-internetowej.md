@@ -17,8 +17,6 @@ opracowanie: Dawid Górny
 wersja_robocza: true
 ---
 
-
-
 ## 1. Cel dokumentu
 
 Celem dokumentu jest przedstawienie minimalnych zasad, według których
@@ -62,13 +60,13 @@ dostarcza raporty z zaleceniami.
 
 ### 3.2 Matryca RACI (przykład)
 
-| Faza            | Koordynator | Kierownik IT | Zespół         | Firma         |
-|-----------------|-------------|--------------|---------------|---------------|
-| Planowanie      | A           | R            | C             | C             |
-| Projektowanie   | C           | C            | I             | C             |
-| Wykonanie       | C           | A R          | I             | I             |
-| Testowanie      | A           | C            | C             | R             |
-| Utrzymanie      | A           | R            | R             | C             |
+| Faza          | Koordynator | Kierownik IT | Zespół | Firma |
+| ------------- | ----------- | ------------ | ------ | ----- |
+| Planowanie    | A           | R            | C      | C     |
+| Projektowanie | C           | C            | I      | C     |
+| Wykonanie     | C           | A R          | I      | I     |
+| Testowanie    | A           | C            | C      | R     |
+| Utrzymanie    | A           | R            | R      | C     |
 
 Legenda: R - wykonuje, A - odpowiada, C - konsultuje, I - informowany.
 
