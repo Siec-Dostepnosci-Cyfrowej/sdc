@@ -1,7 +1,7 @@
 ---
 id: procedura-oceniania-witryn-i-aplikacji
 title: Procedura badania i oceniania dostępności cyfrowej stron internetowych i aplikacji mobilnych
-sidebar_label: Procedura badania i oceniania dostępności cyfrowej. Zalecenie
+sidebar_label: Projekt zalecenia 
 sidebar_position: 0
 description: Organizacja ustanawia i wdraża procedurę badania i oceniania dostępności cyfrowej stron internetowych i aplikacji mobilnych
 keywords: [cykl życia TIK, dostępność cyfrowa, deklaracja dostępności, przegląd dostępności, audyt zgodności]
@@ -14,12 +14,7 @@ wersja_robocza: true
 ---
 
 ## Zalecenie
-Organizacja ustala i wdraża procedurę badania, oceny i zapewnienia dostępności cyfrowej swoich stron internetowych oraz aplikacji mobilnych oraz innych publikacji cyfrowych zgodnie z ustawą o dostępności cyfrowej w celu:
-- stałego zapewniania dostępności cyfrowej treści cyfrowych publikowanych przez organizację,
-- zapobiegania umieszczaniu na stronach internetowych i w aplikacjach mobilnych treści, które nie spełniają wymogów dostępności,
-- podejmowania działań poprawiających dostępność i korygujących stwierdzone naruszenia obowiązku zapewniania dostępności,
-- doprowadzenia stanu dostępności cyfrowej co najmniej do poziomu wymaganego w ustawie o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych oraz utrzymania osiągniętego poziomu
-- sporządzania i aktualizacji deklaracji dostępności.
+Organizacja wdraża procedurę systematycznego badania i zapewniania dostępności cyfrowej swoich stron, aplikacji i publikacji w celu spełnienia wymogów ustawy, zapobiegania naruszeniom, ciągłego doskonalenia dostępności oraz rzetelnego sporządzania deklaracji dostępności.
 
 ## Rekomendacje
 
