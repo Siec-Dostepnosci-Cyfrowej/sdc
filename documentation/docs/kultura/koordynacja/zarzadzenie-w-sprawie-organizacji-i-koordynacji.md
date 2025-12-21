@@ -2,7 +2,7 @@
 id: zarzadzenie-w-sprawie-organizacji-i-koordynacji
 title: Szablon zarządzenie w sprawie organizacji i koordynacji zapewniania dostępności
 sidebar_label: Szabon zarządzenia  
-sidebar_position: 0
+sidebar_position: 1
 description: Szabon zarządzenia w sprawie organizacji i koordynacji zapewniania dostępności
 keywords: [kultura organziacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępności cyfrowej, koordynacja dostępnością cyfrową]
 tags: [kultura organziacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępności cyfrowej, koordynacja dostępnością cyfrową]

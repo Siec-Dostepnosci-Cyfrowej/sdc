@@ -2,7 +2,7 @@
 id: wskazowki-dla-kierownikow
 title: Wskazówki dla kierowników małych podmiotów publicznych w sprawie zapewniania dostępności cyfrowej
 sidebar_label: Wskazówki dla kierowników 
-sidebar_position: 0
+sidebar_position: 7
 description: Objaśniają, że w małęj organizacji kluczową rolę odgrywa nie struktura, lecz sposób zarządzania oraz osobiste zaangażowanie kierownika podmiotu
 keywords: [kultura organziacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępności cyfrowej, koordynacja dostępnością cyfrową]
 tags: [kultura organziacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępności cyfrowej, koordynacja dostępnością cyfrową]

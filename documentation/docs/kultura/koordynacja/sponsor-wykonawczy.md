@@ -2,7 +2,7 @@
 id: sponsor-wykonawczy
 title: Sponsor wykonawczy ds. dostępności
 sidebar_label: Sponsor wykonawczy
-sidebar_position: 0
+sidebar_position: 3
 description: O roli sponsora wykonawczego w zapewnianiu dostępności cyfrowej
 keywords: [kultura organziacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępności cyfrowej, koordynacja dostępnością cyfrową]
 tags: [kultura organziacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępności cyfrowej, koordynacja dostępnością cyfrową]

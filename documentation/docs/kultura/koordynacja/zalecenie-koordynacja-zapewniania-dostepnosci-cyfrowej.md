@@ -79,8 +79,10 @@ Zalecenie ma na celu wzmocnienie roli koordynacji dostępności cyfrowej poprzez
 - Przepisy wykonawcze wydane na podstawie powyższych ustaw.	 
 	 
 ## Załączniki
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Szablon zarządzenie w sprawie organizacji i koordynacji zapewniania dostępności](zarzadzenie-w-sprawie-organizacji-i-koordynacji)
+- [Komentarz do zarządzenia](komentarz-do-zarzadzenia.md)
+- [Sponsor wykonawczy ds. dostępności](sponsor-wykonawczy.md)
+- [Koordynator ds. dostępności cyfrowej](koordynator-ds-dostepnosci.md)
+- [Tryb pracy Zespołu / Komitetu ds. Dostępności. Komentarz](tryb-pracy-zespolu-ds-dostepnosci-komentarz.md)
+- [Ramowy roczny cykl pracy Zespołu / Komitetu ds. Dostępności](roczny-cykl-zespolu-ds-dostepnosci.md)
+- [Wskazówki dla kierowników małych podmiotów publicznych w sprawie zapewniania dostępności cyfrowej](wskazowki-dla-kierownikow.md)

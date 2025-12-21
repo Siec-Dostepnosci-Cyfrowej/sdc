@@ -2,7 +2,7 @@
 id: roczny-cykl-zespolu-ds-dostepnosci
 title: Ramowy roczny cykl pracy Zespołu / Komitetu ds. Dostępności
 sidebar_label: Cykl pracy Zespołu 
-sidebar_position: 0
+sidebar_position: 6
 description: Projekt rocznego cyklu pracy zespołu (komitetu) ds. dostępności cyfrowej
 keywords: [kultura organziacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępności cyfrowej, koordynacja dostępnością cyfrową]
 tags: [kultura organziacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępności cyfrowej, koordynacja dostępnością cyfrową]
