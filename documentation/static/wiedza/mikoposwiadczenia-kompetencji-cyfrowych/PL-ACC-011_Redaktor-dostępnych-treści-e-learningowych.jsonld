@@ -1,0 +1,113 @@
+{
+  "@context": "https://europa.eu/schemas/credentials/v1",
+  "id": "https://ckdc.gov.pl/credentials/PL-ACC-011_Redaktor-dostępnych-treści-e-learningowych",
+  "type": [
+    "EuropassCredential",
+    "Microcredential"
+  ],
+  "name": {
+    "pl": "Mikropoświadczenie: Redaktor dostępnych treści e-learningowych",
+    "en": "Microcredential: Editor of Accessible E-learning Content"
+  },
+  "description": {
+    "pl": "Mikropoświadczenie potwierdza kompetencje w zakresie redagowania, publikowania i testowania dostępnych treści e-learningowych w środowiskach edukacyjnych online. Posiadacz potrafi stosować zasady dostępności cyfrowej (WCAG 2.2, EN 301 549) przy tworzeniu lekcji, ćwiczeń, testów, materiałów wideo i dokumentów dydaktycznych, zapewniając ich dostępność dla wszystkich uczestników kursu."
+  },
+  "issuer": {
+    "id": "https://ckdc.gov.pl/id",
+    "type": "Organization",
+    "name": "Centrum Kompetencji Dostępności Cyfrowej (CKDC)",
+    "country": "PL"
+  },
+  "issued": "2025-11-09",
+  "validityPeriod": "P3Y",
+  "educationalLevel": "EQF 5",
+  "language": [
+    "pl"
+  ],
+  "learningOutcomes": {
+    "knowledge": [
+      "Zna zasady WCAG 2.2 dotyczące dostępności treści multimedialnych, interaktywnych i tekstowych.",
+      "Zna specyfikacje SCORM i xAPI w kontekście integracji treści z platformami LMS.",
+      "Zna funkcje dostępności w popularnych systemach LMS (np. Moodle, Canvas, MS Teams, Google Classroom).",
+      "Rozumie pojęcia transkrypcji, napisów i audiodeskrypcji oraz ich rolę w dostępności kursów online.",
+      "Zna zasady stosowania prostego języka i projektowania treści dydaktycznych zorientowanych na użytkownika."
+    ],
+    "skills": [
+      "Redaguje dostępne treści dydaktyczne, quizy i ćwiczenia w środowiskach LMS.",
+      "Dodaje alternatywy tekstowe, transkrypcje i napisy do materiałów multimedialnych.",
+      "Stosuje odpowiednią strukturę nagłówków i elementów nawigacyjnych w kursach.",
+      "Testuje materiały e-learningowe przy użyciu narzędzi walidacji i czytników ekranu.",
+      "Współpracuje z autorami i projektantami treści w zakresie zapewnienia dostępności."
+    ],
+    "competences": [
+      "Odpowiada za zapewnienie dostępności i czytelności treści e-learningowych.",
+      "Weryfikuje kursy i materiały dydaktyczne pod kątem spełnienia wymogów WCAG 2.2.",
+      "Koordynuje poprawki dostępności we współpracy z zespołem technicznym.",
+      "Promuje dobre praktyki dostępnego nauczania w organizacji."
+    ]
+  },
+  "learningActivities": {
+    "mode": "blended",
+    "duration": "12 godzin dydaktycznych",
+    "activities": [
+      "Warsztaty z dostępności w środowiskach LMS (Moodle, MS Teams itp.)",
+      "Ćwiczenia z edycji treści multimedialnych i dodawania napisów",
+      "Analiza przykładów kursów dostępnych i niedostępnych",
+      "Testowanie i walidacja treści dydaktycznych"
+    ]
+  },
+  "assessment": {
+    "methods": [
+      "Zadanie praktyczne: przygotowanie krótkiego modułu e-learningowego zgodnego z WCAG 2.2",
+      "Test wiedzy o zasadach dostępności e-learningu",
+      "Ocena struktury i czytelności treści dydaktycznych"
+    ],
+    "criteria": [
+      "Moduł e-learningowy jest w pełni dostępny dla użytkowników technologii wspomagających",
+      "Materiały wideo posiadają napisy i transkrypcje",
+      "Treści tekstowe są zrozumiałe i logicznie uporządkowane",
+      "Nawigacja i interakcje są zgodne z zasadami dostępności"
+    ]
+  },
+  "evidence": [
+    {
+      "type": "WorkSample",
+      "name": {
+        "pl": "Moduł e-learningowy zgodny z WCAG 2.2"
+      },
+      "description": {
+        "pl": "Przykładowy moduł opracowany przez uczestnika szkolenia, zawierający napisy, transkrypcje i strukturę dostępną dla czytników ekranu."
+      }
+    },
+    {
+      "type": "AssessmentReport",
+      "name": {
+        "pl": "Raport oceny dostępności materiałów e-learningowych"
+      },
+      "description": {
+        "pl": "Dokument potwierdzający spełnienie kryteriów dostępności oraz uzyskanie min. 80 % punktów w ocenie CKDC."
+      }
+    }
+  ],
+  "qualificationFramework": "Europejskie Ramy Kwalifikacji (EQF)",
+  "relatedStandard": [
+    "WCAG 2.2",
+    "EN 301 549",
+    "ISO/IEC 40500:2012",
+    "SCORM 1.2 / xAPI",
+    "EAA – European Accessibility Act"
+  ],
+  "accreditation": {
+    "id": "https://ckdc.gov.pl/accreditations/ckdc",
+    "type": "Accreditation",
+    "name": "Akredytacja CKDC",
+    "validityPeriod": "P3Y"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "metadata": {
+    "version": "1.1",
+    "dateCreated": "2025-11-09",
+    "creator": "Centrum Kompetencji Dostępności Cyfrowej (CKDC)",
+    "format": "application/json"
+  }
+}

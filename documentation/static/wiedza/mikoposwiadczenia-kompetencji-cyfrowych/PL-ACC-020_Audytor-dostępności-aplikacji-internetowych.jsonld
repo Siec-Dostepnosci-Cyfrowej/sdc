@@ -1,0 +1,76 @@
+{
+  "@context": "https://europa.eu/schemas/credentials/v1",
+  "id": "PL-ACC-020",
+  "type": [
+    "Microcredential",
+    "EducationalOccupationalCredential"
+  ],
+  "name": {
+    "pl": "Audytor dostępności aplikacji internetowych",
+    "en": "Web Application Accessibility Auditor"
+  },
+  "description": {
+    "pl": "Mikropoświadczenie potwierdza kompetencje w zakresie audytowania i testowania dostępności aplikacji internetowych, w tym aplikacji typu SPA (Single Page Applications) i systemów z dynamicznymi interfejsami użytkownika. Posiadacz potrafi przeprowadzić audyt zgodności z zasadami WCAG 2.2, analizować wyniki testów oraz opracowywać raporty i rekomendacje naprawcze."
+  },
+  "issuer": {
+    "name": "Centrum Kompetencji Dostępności Cyfrowej (CKDC)",
+    "type": "Organization",
+    "url": "https://ckdc.gov.pl"
+  },
+  "language": [
+    "pl"
+  ],
+  "learningOutcomes": {
+    "knowledge": [
+      "Zna wymagania WCAG 2.2 i EN 301 549 dotyczące aplikacji internetowych.",
+      "Zna zasady tworzenia i testowania komponentów dynamicznych (ARIA, role, states, properties).",
+      "Rozumie różnice między aplikacjami tradycyjnymi a SPA.",
+      "Zna proces planowania, realizacji i raportowania audytu."
+    ],
+    "skills": [
+      "Przeprowadza pełny audyt techniczny aplikacji webowej.",
+      "Wykonuje testy automatyczne i manualne.",
+      "Interpretuje wyniki audytów i testów narzędziowych.",
+      "Przygotowuje raporty i rekomendacje dla zespołów projektowych i deweloperskich.",
+      "Współpracuje z programistami i projektantami UX w zakresie wdrożenia poprawek."
+    ],
+    "responsibility": [
+      "Zachowuje bezstronność i rzetelność w ocenie.",
+      "Dba o poufność i etykę pracy audytora.",
+      "Promuje kulturę ciągłego doskonalenia dostępności aplikacji."
+    ]
+  },
+  "assessment": {
+    "methods": [
+      "Analiza raportu audytowego i dokumentacji testowej.",
+      "Weryfikacja praktyczna w środowisku aplikacyjnym.",
+      "Rozmowa kompetencyjna lub obrona raportu.",
+      "Ocena zgodności z WCAG 2.2 i EN 301 549."
+    ],
+    "criteria": [
+      "Raport audytowy zawiera analizę błędów i rekomendacje naprawcze.",
+      "Testy wykonano z wykorzystaniem narzędzi automatycznych i manualnych.",
+      "Wyniki są poprawnie zinterpretowane i spójne ze standardami CKDC."
+    ]
+  },
+  "evidence": [
+    "Raport z audytu aplikacji internetowej (SPA lub MPA).",
+    "Dokumentacja testów automatycznych i manualnych.",
+    "Zestaw rekomendacji naprawczych i priorytetyzacja błędów.",
+    "Opis zastosowanych metod testowych i narzędzi."
+  ],
+  "accreditation": {
+    "standard": [
+      "WCAG 2.2 – poziom AA",
+      "EN 301 549 – sekcje 9, 10 i 11",
+      "ISO/IEC 40500:2012",
+      "ARIA 1.2 – Accessible Rich Internet Applications",
+      "EAA – European Accessibility Act"
+    ],
+    "eqfLevel": "6",
+    "validityPeriod": "4 lata"
+  },
+  "dateCreated": "2025-11-09",
+  "creator": "Zespół ds. Dostępności Cyfrowej – CKDC",
+  "version": "1.0"
+}

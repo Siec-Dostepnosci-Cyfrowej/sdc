@@ -1,0 +1,73 @@
+{
+  "@context": "https://europa.eu/schemas/credentials/v1",
+  "id": "https://ckdc.gov.pl/credentials/PL-ACC-002_Tester-dostępnych-dokumentów-Word-i-PowerPoint",
+  "type": [
+    "EuropassCredential",
+    "LearningAchievement"
+  ],
+  "name": {
+    "pl": "Mikropoświadczenie: Tester dostępnych dokumentów Word i PowerPoint"
+  },
+  "description": {
+    "pl": "Mikropoświadczenie potwierdza kompetencje w zakresie testowania i oceny dostępności dokumentów Word i prezentacji PowerPoint zgodnych ze standardami dostępności cyfrowej (WCAG 2.2, EN 301 549)."
+  },
+  "issuer": {
+    "id": "https://ckdc.gov.pl/id",
+    "type": "Organization",
+    "name": "Centrum Kompetencji Dostępności Cyfrowej (CKDC)"
+  },
+  "issued": "2025-11-09",
+  "validityPeriod": "P3Y",
+  "learningOutcomes": [
+    {
+      "type": "Knowledge",
+      "description": "Zna zasady testowania dostępnych dokumentów biurowych."
+    },
+    {
+      "type": "Knowledge",
+      "description": "Zna kryteria sukcesu WCAG 2.2 dotyczące treści niekodowych."
+    },
+    {
+      "type": "Skill",
+      "description": "Wykonuje testy dostępności dokumentów Word i prezentacji PowerPoint."
+    },
+    {
+      "type": "Skill",
+      "description": "Identyfikuje błędy i klasyfikuje je według kryteriów WCAG."
+    },
+    {
+      "type": "Competence",
+      "description": "Dba o jakość i rzetelność testów oraz promuje kulturę współpracy w zakresie dostępności."
+    }
+  ],
+  "evidence": [
+    {
+      "type": "AssessmentReport",
+      "name": {
+        "pl": "Raport z testu dokumentu Word i prezentacji PowerPoint"
+      },
+      "description": {
+        "pl": "Raport z testu potwierdzający poprawność i zgodność z kryteriami WCAG."
+      }
+    }
+  ],
+  "framework": {
+    "id": "https://europa.eu/europass/credentials/v1",
+    "name": "Europejskie Ramy Kwalifikacji (EQF)"
+  },
+  "language": "pl",
+  "identifier": "PL-ACC-002",
+  "educationalLevel": "Średniozaawansowany",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "accreditation": {
+    "id": "https://ckdc.gov.pl/accreditations/ckdc",
+    "type": "Accreditation",
+    "name": "Akredytacja CKDC"
+  },
+  "relatedStandard": [
+    "WCAG 2.2",
+    "EN 301 549",
+    "PDF/UA – ISO 14289",
+    "Europejskie Ramy Kwalifikacji (EQF)"
+  ]
+}
