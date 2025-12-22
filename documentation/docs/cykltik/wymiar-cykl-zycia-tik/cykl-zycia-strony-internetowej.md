@@ -25,7 +25,8 @@ Celem dokumentu jest przedstawienie minimalnych zasad, według których
 instytucja publiczna powinna planować, zamawiać, tworzyć, testować,
 utrzymywać i wycofywać stronę internetową w sposób dostępny cyfrowo.
 Treść ma charakter ramowy i powinna zostać uzupełniona o procedury
-wewnętrzne właściwe dla danej jednostki.
+wewnętrzne właściwe dla danej jednostki, które w swoich zapisach nie wykluczają postanowień tego dokumentu.
+
 
 ## 2. Podstawy prawne i standardy
 
@@ -43,7 +44,7 @@ muszą jednocześnie spełniać WCAG 2.1 AA.
 ### 3.1 Opis ról
 
 * Koordynator dostępności - odpowiada za dostępność strony przez cały
-czas jej działania, uczestniczy w wyborze wykonawców, definiuje
+czas jej działania, począwszy od procesu koncepcji i wdrażania, publikacji strony i jej regularnego funkcjonowania, aż do procesu wycofania strony. Uczestniczy w wyborze wykonawców, definiuje
 wytyczne, przyjmuje i rozpatruje skargi, zleca audyty oraz nadzoruje
 wyniki monitoringu.
 * Kierownik działu IT - zarządza serwerem i systemem CMS, utrzymuje
@@ -80,8 +81,8 @@ programistów i kierownika IT.
 tworzenia treści dostępnych.
 * Przed publikacją: krótkie przypomnienie list kontrolnych dla
 wszystkich ról.
-* Co 12 miesięcy: sesja odświeżenia wiedzy o aktualnych standardach
-oraz najczęstszych problemach dostępności.
+* Co 12 miesięcy lub w sytuacji, gdy zmieniają się zapisy dotyczące norm dostępności: sesja odświeżenia wiedzy o standardach
+oraz najczęstszych problemach dostępności. 
 
 ## 5. Cykl życia strony internetowej
 
@@ -116,6 +117,7 @@ automatyczne.
 budowy, audyt kandydata do publikacji.
 * Raporty trafiają do koordynatora, poprawki są weryfikowane w testach
 weryfikacyjnych.
+Tu w mojej ocenie potrzebna jest legenda wskazująca, co oznacza mały, średni, duży serwis. I czy to, że serwis jest mały to mniej skomplikowany technicznie. Mniej treści, nie znaczy prościej wobec dostępności. 
 
 ### Faza 5 - Publikacja i deklaracja
 
@@ -128,7 +130,7 @@ barier.
 
 * Skargi użytkowników usuwa się w terminach ustawowych.
 * Audyt kontrolny przeprowadzany jest co najmniej raz w roku lub po
-każdej dużej aktualizacji (nowy szablon, zmiana silnika CMS, duży
+każdej aktualizacji, mającej wpływ na sposób wyświetlania treści (nowy szablon, zmiana silnika CMS, duży
 moduł).
 * Procedura regresji: każda zmiana przechodzi test automatyczny i
 ręczny. Starsze wersje treści są archiwizowane, a Deklaracja Dostępności
