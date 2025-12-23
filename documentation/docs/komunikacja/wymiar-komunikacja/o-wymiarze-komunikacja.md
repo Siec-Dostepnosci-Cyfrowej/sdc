@@ -10,7 +10,7 @@ wersja_robocza: true
 ---
 
 
-## 🟦 Wymiar Komunikacja**
+## 🟦 Wymiar Komunikacja
 
 **(Dostępne komunikaty, dokumenty, treści cyfrowe, multimedia, formularze, BIP, WWW)**
 
