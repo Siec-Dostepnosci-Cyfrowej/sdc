@@ -69,7 +69,7 @@ często nie jest możliwe w czasie publikacji, określonym harmonogramem działa
 ## Rekomendowane dobre praktyki
 - Szkolenia dla autorów i weryfikatorów z zakresu tworzenia treści dostępnych cyfrowo.
 - [Stworzenie podręcznika dla twórców treści cyfrowo dostępnych](podrecznik-tworzenia-tresci-dostepnych)
-- [Stosowanie checklisty dostępności dla każdego typu treści](checklisty-dostepnosci)
+- [Stosowanie listy kontrolnej dostępności dla każdego typu treści](listy-kontrolne-dostepnosci)
 - Baza wiedzy z informacjami z zakresu tworzenia treści dostępnych do wykorzystania po szkoleniu.
 - Konsultowanie wątpliwości lub trudności autora bezpośrednio ze specjalistą z zakresu tworzenia treści cyfrowo dostępnych (mailowo, telefonicznie, na dyżurach eksperckich).
 - Regularne audyty dostępności publikowanych materiałów.
