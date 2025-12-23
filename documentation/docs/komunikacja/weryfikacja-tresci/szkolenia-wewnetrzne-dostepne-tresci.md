@@ -114,4 +114,4 @@ flowchart TD
 ## Jak mierzyć efekty?
 - **Liczba przeszkolonych osób** – Rejestr uczestników.
 - **Wyniki testów wiedzy** – Ocena skuteczności szkolenia.
-- **Audyty dostępności** – Porównanie jakości treści przed i po wdrożeniu.
+- **Audyty dostępności** – Porównanie jakości treści przed i po wdrożeniu. 
