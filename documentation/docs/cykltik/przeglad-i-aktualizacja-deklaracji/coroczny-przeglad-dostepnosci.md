@@ -25,9 +25,8 @@ Organizacja ustala i wdraża procedurę corocznego przeglądu dostępności cyfr
 Przegląd dostępności ma umożliwić:
 
 - weryfikację, czy stan faktyczny strony odpowiada informacjom zawartym
-  w dostępności strony internetowej lub aplikacji mobilnej,
-- wychwycenie najważniejszych błędów, które mogły pojawić się po
-  aktualizacjach treści lub oprogramowania,
+  w deklaracji dostępności strony internetowej lub aplikacji mobilnej,
+- wychwycenie błędów, które mogły pojawić się po aktualizacjach treści lub oprogramowania,
 - ocenę, czy użytkownicy mogą nadal korzystać z podstawowych funkcji
   serwisu bez barier,
 - przygotowanie danych do **aktualizacji deklaracji dostępności**
@@ -43,11 +42,11 @@ Przegląd polega na przeprowadzeniu:
 - przeprowadzeniu testów automatycznych wybranego zestawu stron, w tym stron, 
   na których w poprzednim przeglądzie lub audycie stwierdzono największą liczbę
   problemów z dostępnością,
-- przeprowadzeniu **audytu uproszczonego**, obejmującego 
+- co najmniej **audytu uproszczonego** lub **audytu zgodności**
 
-**Audytu uproszczony** nie musi być audytem eksperckim, ale powinien 
+**Audyt uproszczony** nie musi być audytem eksperckim, ale powinien 
 obejmować **minimum 7 wymienionych poniżej kluczowych aspektów**
-w zakresie wymagań wynikających z ustawy o dostępności cyfrowej i WCAG 2.1.
+w zakresie wymagań wynikających z ustawy o dostępności cyfrowej.
 
 Osoba odpowiedzialna za przeprowadzenie **audytu uproszczonego**
 opracowuje listę testów w oparciu o sugerowaną przez W3C procedurę 
@@ -55,14 +54,7 @@ znaną jako **Łatwe testy** (<em lang="en">Easy check</em>)
 lub równoważną **uproszczoną listę kontrolną zgodności** z WCAG 2.1 
 (obejmującą np. 20-25 kryteriów). 
 
-Zakres przeglądu obejmuje co najmniej **7 poniższych kluczowych aspektów**:  
-
-   - Czy koordynator ds. dostępności jest wskazany i dane kontaktowe są aktualne?
-   - Czy działa **formularz wniosku o zapewnienie dostępności cyfrowej**?
-   - Czy rejestr zgłoszeń i skarg jest prowadzony i aktualny?
-   - Czy naprawiane są zgłoszone i wykryte błędy
-   - Czy w porównaniu z ubiegłym przeglądem poziom dostępności uległ poprawie?   
-
+Zakres audytu uproszczonego obejmuje co najmniej **7 poniższych kluczowych aspektów**:  
 
 1. **Struktura i nawigacja**
    - Czy wszystkie strony mają **unikalny tytuł** (w znaczniku `<title>`)?
