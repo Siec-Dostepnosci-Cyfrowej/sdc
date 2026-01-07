@@ -131,10 +131,10 @@ Wzór raportu stanowi załącznik do niniejszej procedury.
   - umożliwia powiązanie z danymi z narzędzi automatycznych (axe, SiteLint, Pa11y),
   - stanowi **techniczny dowód** wykonania samooceny (z datą, testem, wynikiem, kryterium).\
   Dodatkowo można dodać w nim odnośniki `"reportType": "self-assessment"` 
-  oraz `"relatedTo": "https://bip.nowemiasto.pl/deklaracja-dostepnosci"`\
+  oraz `"relatedTo": "https://bip.nowemiasto.pl/deklaracja-dostepnosci"`
   co pozwoli powiązać raport z aktualną deklaracją.
 	  
-**🧩 Sugerowana struktura zestawu dokumentów**\
+**🧩 Sugerowana struktura zestawu dokumentów**
 
 | **Plik**                | **Format** | **Cel**             | **Status**    |
 |-------------------------|------------|---------------------|---------------|
@@ -149,7 +149,7 @@ Dowodem z przeprowadzonej oceny może być aktualny raport z audytu zgodności
 sporządzony przez podmiot zewnętrzny albo oświadczenie wykonawcy o zgodności 
 strony lub aplikacji mobilnej z dostępnością sporządzone w formacie VPAT lub ACR.
 
-Dokumenty te różniwż mogą być przygotowane w formatach HTML + JSON-LD (EARL)  
+Dokumenty te również mogą być przygotowane w formatach HTML + JSON-LD (EARL)  
 
 :::
 
