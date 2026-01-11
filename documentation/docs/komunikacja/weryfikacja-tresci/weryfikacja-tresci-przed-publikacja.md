@@ -61,7 +61,7 @@ często nie jest możliwe w czasie publikacji, określonym harmonogramem działa
 
 ## Role i odpowiedzialności
 - **Autor treści** – przygotowanie materiału zgodnie z zasadami dostępności cyfrowej.
-- **Osoba weryfikująca** – sprawdzenie zgodności z WCAG i wytycznymi. Konsultacje specjalistyczne.
+- **Osoba weryfikująca** – sprawdzenie zgodności z WCAG i wytycznymi. Konsultacja specjalistyczna z autorem treści.
 - **Administrator publikacji** – zatwierdzenie i publikacja.
 
 ---
