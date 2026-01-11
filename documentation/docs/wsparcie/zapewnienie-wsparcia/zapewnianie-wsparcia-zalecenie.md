@@ -7,14 +7,14 @@ sidebar_position: 0
 keywords: [WCAG 2.1 AA, dostepność cyfrowa, dostosowania, racjonalne usprawnienia]
 tags: [WCAG 2.1 AA, dostepność cyfrowa, dostosowania, racjonalne usprawnienia]
 data_zgloszenia: 3 listopada 2025 r.
-ostatnia_aktualizacja: 14 listopada 2025 r.
+ostatnia_aktualizacja: 12 stycznia 2026 r.
 opracowanie: Stefan Wajda
 wersja_robocza: true
 ---
 
 ## 1. Cel zalecenia
 
-Celem niniejszego zalecenia jest wzmocnienie działań podejmowanych przez podmioty publiczne w zakresie zapewniania **dostosowań i racjonalnych usprawnień w środowisku pracy**, w szczególności w obszarze korzystania z technologii i treści cyfrowych.
+Celem tego zalecenia jest wzmocnienie działań podejmowanych przez podmioty publiczne w zakresie zapewniania **dostosowań i racjonalnych usprawnień w środowisku pracy**, w szczególności w obszarze korzystania z technologii i treści cyfrowych.
 
 ---
 
