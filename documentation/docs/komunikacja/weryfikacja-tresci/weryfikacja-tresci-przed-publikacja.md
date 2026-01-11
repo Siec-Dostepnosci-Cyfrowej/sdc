@@ -55,7 +55,7 @@ z pomocą których można treść prawidłowo przygotować. Skróceniu tego krok
 Dodatkowo często zdarza się, że funkcje pozwalające zapewniać dostepność w platformach społecznościowych często działają wadliwie i dodanie tekstów alternatywnych lub napisów do filmów 
 często nie jest możliwe w czasie publikacji, określonym harmonogramem działań promocyjnych i komunikacyjnych.
 - Okresowy (np. cotygodniowy) przegląd publikacji treści w kanałach społecznościowych instytucji publicznej (obsługiwanych przez dużą grupę osób) pod kątem zgodności z zasadami dostępności.
-- W przypadku braków lub konieczności wprowadzenia poprawek do publikacji – informacja zwrotna do autora publikacji z listą obszarów do uzupełnienia lub poprawienia oraz z ustaleniem terminu wprowadzenia koniecznych zmian.
+- W przypadku braków lub konieczności wprowadzenia poprawek do publikacji – informacja zwrotna do autora publikacji z listą obszarów do uzupełnienia lub poprawienia wraz z ustaleniem terminu wprowadzenia koniecznych zmian.
 
 ---
 
