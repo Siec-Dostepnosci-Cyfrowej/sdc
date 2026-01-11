@@ -65,7 +65,7 @@ Wprowadzenie obowiązkowych szkoleń ma dodatkowy walor - zapewnianie jednolityc
 - Ujednolicenie standardów w całej instytucji
 
 ## Sposób pomiaru rezultatów
-- Liczba przeszkolonych osób
+- Liczba przeszkolonych osób w odniesieniu do liczby pracowników instytucji
 - Wyniki testów wiedzy po szkoleniu
 - Audyty dostępności treści przed i po wdrożeniu systemu
 
