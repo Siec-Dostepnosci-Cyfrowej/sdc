@@ -27,7 +27,7 @@ zawsze pod ręką, zapewniające samodzielność i operatywność.
 ---
 
 ## Charakterystyka dobrej praktyki
-- **Zakres**: Stworzenie podręcznika swoim zakresem obejmowało uzupełnienie luki w bazie wiedzy, czyli zbiorze materiałów informacyjnych i pomocniczych w odniesieniu do tworzenia treści dostępnych cyfrowo
+- **Zakres**: Uzupełnienie luk w bazie wiedzy, czyli zbiorze materiałów informacyjnych i pomocniczych w odniesieniu do tworzenia treści dostępnych cyfrowo.
 - **Cel**: Usprawnienie tworzenia lub zamawiania treści publikowanych online w sposób dostępny cyfrowo
 - **Grupa docelowa**: Wszyscy pracownicy, którzy zajmują się tworzeniem lub zamawianiem treści do publikacji w cyfrowych kanałach komunikacji muzeum
 
