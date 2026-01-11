@@ -71,7 +71,7 @@ często nie jest możliwe w czasie publikacji, określonym harmonogramem działa
 - [Stworzenie podręcznika dla twórców treści cyfrowo dostępnych](podrecznik-tworzenia-tresci-dostepnych)
 - [Stosowanie listy kontrolnej dostępności dla każdego typu treści](listy-kontrolne-dostepnosci)
 - Baza wiedzy z informacjami z zakresu tworzenia treści dostępnych do wykorzystania po szkoleniu.
-- Konsultowanie wątpliwości lub trudności autora bezpośrednio ze specjalistą z zakresu tworzenia treści cyfrowo dostępnych (mailowo, telefonicznie, na dyżurach eksperckich).
+- Konsultowanie wątpliwości lub trudności autora bezpośrednio ze specjalistą z zakresu tworzenia treści dostępnych cyfrowo (mailowo, telefonicznie, podczas dyżurów eksperckich).
 - Regularne audyty dostępności publikowanych materiałów.
 
 ---
