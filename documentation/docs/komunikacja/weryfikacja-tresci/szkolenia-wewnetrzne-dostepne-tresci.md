@@ -34,7 +34,7 @@ bieżących problemów i wątpliwości.
 Wprowadzenie obowiązkowych szkoleń ma dodatkowy walor - zapewnianie jednolitych standardów opracowania treści.
 
 ## Charakterystyka dobrej praktyki
-- **Zakres** – Opracowanie i wdrożenie cyklicznych szkoleń dla wszystkich osób odpowiedzialnych za tworzenie i weryfikację treści cyfrowych (strony www, dokumenty (np. .docx, pdf), multimedia, media społecznościowe).
+- **Zakres** – Opracowanie i wdrożenie cyklicznych szkoleń dla wszystkich osób odpowiedzialnych za tworzenie i weryfikację treści cyfrowych, takich jak: strony www, dokumenty (np. .docx, pdf), multimedia, media społecznościowe.
 - **Cel** – Zapewnienie, aby wszystkie publikowane materiały były zgodne z zasadami dostępności cyfrowej (WCAG, dobre praktyki).
 - **Grupa docelowa** – Autorzy treści, redaktorzy, weryfikatorzy, nowi pracownicy instytucji.
 

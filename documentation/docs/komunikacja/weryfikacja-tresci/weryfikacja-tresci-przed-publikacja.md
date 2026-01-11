@@ -42,7 +42,7 @@ Proces obejmuje wszystkie formaty materiałów publikowanych w kanałach cyfrowy
 
 ### 3. Narzędzia wspierające
 - Automatyczne testery (np. WAVE, axe, Pa11y).
-- Walidatory PDF/Word (np. PAC, wbudowane funkcje edytorów treści).
+- Walidatory PDF/Word (np. PDF Accessibility Checker; wbudowane funkcje edytorów treści, np. „Sprawdź ułatwienia dostępu” w MS Office).
 - Kontrola manualna (np. czy alt jest adekwatny do treści prezentowanej na grafice, czy napisy są zsynchronizowane i zapewniają komplet informacji oraz płynność czytania).
 
 ### 4. Akceptacja i publikacja
@@ -52,7 +52,7 @@ z pomocą których można treść prawidłowo przygotować. Skróceniu tego krok
 
 ### 5. Przegląd treści opublikowanych przed kontrolą (media społecznościowe)
 **UWAGA: specyfiką publikacji w mediach społecznościowych jest dynamika ich powstawania i publikowania (harmonigram działań) oraz - szczególnie w przypadku większych instytucji - ich liczebność.**
-Dodatkowo często zdarza się, że funkcje pozwalające zapewniać dostepność w platformach społecznościowych często działają wadliwie i dodanie tekstów alternatywnych lub napisów do filmów 
+Dodatkowo zdarza się, że funkcje dostepności w platformach społecznościowych często działają wadliwie i dodanie tekstów alternatywnych lub napisów do filmów 
 często nie jest możliwe w czasie publikacji, określonym harmonogramem działań promocyjnych i komunikacyjnych.
 - Okresowy (np. cotygodniowy) przegląd publikacji treści w kanałach społecznościowych instytucji publicznej (obsługiwanych przez dużą grupę osób) pod kątem zgodności z zasadami dostępności.
 - W przypadku braków lub konieczności wprowadzenia poprawek do publikacji – informacja zwrotna do autora publikacji z listą obszarów do uzupełnienia lub poprawienia wraz z ustaleniem terminu wprowadzenia koniecznych zmian.
