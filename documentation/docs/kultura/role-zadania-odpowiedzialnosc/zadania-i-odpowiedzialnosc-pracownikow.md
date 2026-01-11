@@ -25,30 +25,31 @@ Organizacja określa role, zadania i odpowiedzialność wszystkich pracowników 
 
 ## Rekomendacje
 
-1. **Zaleca się ujęcie w dokumentacji organizacyjnej zapisów**, które określają odpowiedzialność pracowników i osób pełniących funkcje kierownicze w zakresie zapewniania dostępności cyfrowej.  
+1. W dokumentacji organizacyjnej warto uwzględnić zapisy jednoznacznie określające odpowiedzialność pracowników oraz osób pełniących funkcje kierownicze w zakresie zapewniania dostępności cyfrowej informacji, usług i dokumentów.
 
-2. **Warto wyraźnie określić i opisać role**, które uczestniczą w zapewnianiu dostępności cyfrowej, takie jak:  
-   - kierownik jednostki lub członek zarządu,  
-   - koordynator ds. dostępności cyfrowej,  
-   - właściciel lub wydawca strony internetowej,  
-   - redaktor treści i redaktor nadzorujący,  
-   - pracownicy tworzący dokumenty i informacje,  
-   - osoby pełniące funkcje kierownicze lub samodzielne.  
+2. Role uczestniczące w procesie zapewniania dostępności cyfrowej powinny zostać wyraźnie zidentyfikowane i opisane, z uwzględnieniem w szczególności:
+   - kierownika jednostki lub członka kierownictwa,
+   - koordynatora ds. dostępności cyfrowej,
+   - właściciela lub wydawcy strony internetowej,
+   - redaktora treści oraz redaktora nadzorującego,
+   - pracowników przygotowujących dokumenty i informacje,
+   - osób pełniących funkcje kierownicze lub samodzielne.
 
-3. **Rekomenduje się opracowanie kart zadań dla każdej z ról**, opisujących ich obowiązki, odpowiedzialność, wymaganą wiedzę, umiejętności oraz powiązanie z kluczowymi procesami organizacyjnymi.  
+3. Dla każdej z ról zasadne jest opracowanie kart zadań opisujących zakres obowiązków, odpowiedzialność, wymagane kompetencje oraz powiązanie danej roli z kluczowymi procesami organizacyjnymi.
 
-4. **Dobrą praktyką jest uzupełnienie systemu zarządzania dostępnością** o:  
-   - zestawienie wszystkich ról i funkcji z przypisaniem zadań,  
-   - mapę odpowiedzialności (RACI) wskazującą relacje między rolami,  
-   - materiały interpretacyjne, takie jak opis stosowania mapy RACI i opis głównych procesów.  
+4. System zarządzania dostępnością cyfrową może zostać uzupełniony o:
+   - zestawienie ról i funkcji wraz z przypisaniem zadań,
+   - mapę odpowiedzialności (np. RACI) obrazującą relacje pomiędzy rolami,
+   - materiały interpretacyjne wyjaśniające sposób stosowania mapy odpowiedzialności oraz przebieg głównych procesów.
 
-5. **Zaleca się wprowadzenie regularnego, corocznego przeglądu ról i zadań**, aby utrzymać aktualność i skuteczność systemu dostępności.  
+5. Spójność i aktualność systemu odpowiedzialności sprzyja okresowy przegląd ról i zadań, realizowany np. w cyklu rocznym lub przy istotnych zmianach organizacyjnych.
 
-6. **Warto włączyć karty zadań oraz mapę odpowiedzialności** do dokumentacji Polityki dostępności cyfrowej podmiotu publicznego, tak aby stanowiły jej integralny element.  
+6. Karty zadań oraz mapa odpowiedzialności mogą stanowić integralną część dokumentacji Polityki dostępności cyfrowej podmiotu publicznego oraz innych dokumentów regulujących sposób realizacji obowiązków.
 
-7. **Zaleca się prowadzenie systematycznych działań informacyjnych i szkoleniowych**, które utrwalają wiedzę o zasadach dostępności cyfrowej oraz wspierają budowanie świadomości i zaangażowania wśród pracowników wszystkich szczebli.  
+7. Utrwalaniu przyjętych zasad sprzyjają systematyczne działania informacyjne i szkoleniowe, skierowane do pracowników wszystkich szczebli, wzmacniające świadomość znaczenia dostępności cyfrowej oraz zakresu indywidualnej odpowiedzialności.
 
-> Wdrożenie powyższych zaleceń pozwoli traktować dostępność cyfrową jako integralny element zarządzania jakością i odpowiedzialności publicznej.
+> Realizacja powyższych wskazówek umożliwia traktowanie dostępności cyfrowej jako stałego elementu zarządzania jakością i odpowiedzialności publicznej, a nie jako działania incydentalnego lub wyłącznie formalnego.
+
 
 ---
 
