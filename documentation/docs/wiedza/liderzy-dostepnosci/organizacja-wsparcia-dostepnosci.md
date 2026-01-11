@@ -2,14 +2,13 @@
 id: organizacja-wsparcia-dostepnosci
 title: Organizacja wsparcia dostępności cyfrowej w dużych i bardzo dużych podmiotach publicznych
 description: Organizacja opracowuje i wdraża model organizacyjny wsparcia dostępności cyfrowej, oparty na sieci liderów dostępności, społeczności praktyków dostępności lub połączeniu obu rozwiązań, dostosowany do swojej struktury, kultury organizacyjnej i poziomu dojrzałości. 
-sidebar-position: 2
-sidebar-label: Alternatywny projekt zalecenia 
-keywords: [WCAG, dostepność cyfrowa, wiedza i umiejetności, wdrażanie dostępności, liderzy dostępności, sieć lideró dostępności, społeczności praktyków]
-tags: [WCAG, dostepność cyfrowa, wiedza i umiejętności, wdrażanie dostępności, liderzy dostępności, sieć lideró dostępności, społeczności praktyków]
+sidebar_position: 2
+sidebar_label: Alternatywny projekt zalecenia 
+keywords: [WCAG, dostepność cyfrowa, wiedza i umiejetności, wdrażanie dostępności, liderzy dostępności, sieć liderów dostępności, społeczności praktyków]
+tags: [WCAG, dostepność cyfrowa, wiedza i umiejętności, wdrażanie dostępności, liderzy dostępności, sieć liderów dostępności, społeczności praktyków]
 opracowanie: Stefan Wajda
 data_zgloszenia: 11 stycznia 2026 r.
 ostatnia_aktualizacja: 11 stycznia 2026 r.
-ostatnia_aktualizacja: 8 stycznia 2026 r.
 wersja_robocza: true
 ---
 

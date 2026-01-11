@@ -3,9 +3,9 @@ id: liderzy-dostepnosci
 title: Lokalni liderzy i mistrzowie dostępności
 description: Wyłonienie i rozmieszenie ekspertów (liderów) dostępności w jednostkach i komórkach organizacyjnych, którzy zapewnią bieżące wsparcie pracownikom w kwestiach związanych z dostępnością cyfrową. Lokalni liderzy zadbają także o rozwój wiedzy u pracowników jednostki od podstaw. Siatka liderów powinna być skomunikowana i współpracująca ze sobą, co umożliwi wprowadzenie jednolitych zasad w podmiocie. Sieć lokalnych specjalistów zapewni także pojedynczym ekspertom wsparcie pozostałego zespołu liderskiego. 
 sidebar-position: 1
-sidebar-label: Lokalni liderzy - Zalecenie 
-keywords: [WCAG, dostepność cyfrowa, wiedza i umiejetności, wdrażanie dostępności, liderzy dostępności, sieć lideró dostępności, społeczności praktyków]
-tags: [WCAG, dostepność cyfrowa, wiedza i umiejętności, wdrażanie dostępności, liderzy dostępności, sieć lideró dostępności, społeczności praktyków]
+sidebar-label: Lokalni liderzy (zalecenie)
+keywords: [WCAG, dostepność cyfrowa, wiedza i umiejetności, wdrażanie dostępności, liderzy dostępności, sieć liderów dostępności, społeczności praktyków]
+tags: [WCAG, dostepność cyfrowa, wiedza i umiejętności, wdrażanie dostępności, liderzy dostępności, sieć liderów dostępności, społeczności praktyków]
 opracowanie: Anna Dybiec
 data_zgloszenia: 30 lipca 2025 r.
 ostatnia_aktualizacja: 8 stycznia 2026 r.
