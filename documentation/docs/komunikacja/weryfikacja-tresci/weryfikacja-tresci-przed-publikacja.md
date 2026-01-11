@@ -38,7 +38,7 @@ Proces obejmuje wszystkie formaty materiałów publikowanych w kanałach cyfrowy
 - Sprawdzenie:
   - **Grafiki** – czy mają poprawne opisy alternatywne.
   - **Pliki tekstowe** – czy są przygotowane prawidłowo (np. określony język, poprawna struktura nagłówków, obecność tekstów alternatywnych dla osadzonych grafik, zachowany wymagany wskaźnik kontrastu kolorystycznego między tekstem a tłem).
-  - **Multimedia** – czy zawierają prawidłowo przygotowane napisy rozszerzone lub transkrypcje czy audiodeskrypcję.
+  - **Multimedia** – czy zawierają prawidłowo przygotowane napisy rozszerzone, transkrypcje i audiodeskrypcje.
 
 ### 3. Narzędzia wspierające
 - Automatyczne testery (np. WAVE, axe, Pa11y).
