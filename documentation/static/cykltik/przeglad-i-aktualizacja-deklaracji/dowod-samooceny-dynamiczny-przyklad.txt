@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dowód przeprowadzenia samooceny dostępności cyfrowej – przykład dynamiczny</title>
+  <style>
+    body {font-family: 'Segoe UI', Arial, sans-serif; margin: 2rem; line-height: 1.6; background-color: #fff;}
+    h2 {color: #0b5cad;}
+    a {color: #0b5cad; text-decoration: underline; font-weight: 600;}
+    a:hover, a:focus {color: #063f80; text-decoration: none;}
+
+    #dowod-samooceny {
+      margin-top: 2rem;
+      padding: 1.5rem;
+      border: 1px solid #d4d9e2;
+      border-radius: 10px;
+      background-color: #f9fbfe;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    }
+    #dowod-samooceny .info-box {
+      display: flex;
+      align-items: flex-start;
+      border-left: 6px solid #0b5cad;
+      border-radius: 6px;
+      padding: 1rem;
+      margin-top: 1.5rem;
+      transition: border-color 0.4s ease, background 0.4s ease;
+    }
+    #dowod-samooceny .status-icon {
+      font-size: 2rem;
+      margin-right: 1rem;
+      flex-shrink: 0;
+    }
+    #dowod-samooceny .status-text p {margin: 0.2rem 0;}
+
+    .good {border-left-color: #007a1e; background: #f3fbf4; color: #004d12;}
+    .medium {border-left-color: #c17800; background: #fff8ee; color: #663f00;}
+    .low {border-left-color: #b30000; background: #fff3f3; color: #4a0000;}
+
+    @media (max-width: 768px) {
+      #dowod-samooceny .info-box {flex-direction: column;}
+      #dowod-samooceny .status-icon {margin-bottom: 0.5rem;}
+    }
+  </style>
+</head>
+<body>
+
+<section id="dowod-samooceny" aria-labelledby="naglowek-samooceny" data-score="88">
+  <h2 id="naglowek-samooceny">Dowód przeprowadzenia samooceny dostępności cyfrowej</h2>
+
+  <p>
+    Jednostka przeprowadziła coroczną samoocenę dostępności cyfrowej
+    zgodnie z wymaganiami <strong>WCAG 2.1 AA</strong>.
+    Wyniki samooceny zostały opublikowane w Biuletynie Informacji Publicznej:
+  </p>
+
+  <p>
+    🔗 <a href="/files/raport_samooceny_2025.html" target="_blank" rel="noopener">
+      Raport z samooceny dostępności cyfrowej – 2025
+    </a>
+  </p>
+
+  <p>
+    Data przeprowadzenia: <strong>marzec 2025 r.</strong><br>
+    Osoba odpowiedzialna: <strong>Koordynator ds. dostępności cyfrowej</strong>
+  </p>
+
+  <div class="info-box">
+    <div class="status-icon" aria-hidden="true"></div>
+    <div class="status-text">
+      <p><strong>Poziom zgodności:</strong> <span id="score-value"></span>%</p>
+      <p><strong>Ocena:</strong> <span id="score-label"></span></p>
+      <p><strong>Uwagi:</strong> Raport szczegółowy zawiera rekomendacje naprawcze.</p>
+    </div>
+  </div>
+
+  <script type="application/ld+json">
+  {
+    "@context": "http://www.w3.org/ns/earl.jsonld",
+    "@type": "EvaluationReport",
+    "reportType": "self-assessment",
+    "title": "Raport z samooceny dostępności cyfrowej – 2025",
+    "creator": {"@type": "Organization","name": "Urząd Miejski w Nowym Mieście"},
+    "dateCreated": "2025-03-15",
+    "subjectOf": {"@id": "https://bip.nowemiasto.pl","title": "Serwis BIP Urzędu Miejskiego w Nowym Mieście"},
+    "assertedBy": "Koordynator ds. dostępności cyfrowej",
+    "summary": {"totalTests": 25,"passed": 22,"failed": 3,"conformanceScore": 88}
+  }
+  </script>
+</section>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const section = document.querySelector("#dowod-samooceny");
+    const score = parseInt(section.dataset.score, 10);
+    const infoBox = section.querySelector(".info-box");
+    const icon = section.querySelector(".status-icon");
+    const scoreValue = document.querySelector("#score-value");
+    const scoreLabel = document.querySelector("#score-label");
+
+    let statusClass = "medium";
+    let statusIcon = "⚠️";
+    let labelText = "średni poziom dostępności";
+
+    if (score >= 90) {
+      statusClass = "good"; statusIcon = "✅"; labelText = "wysoki poziom dostępności";
+    } else if (score < 70) {
+      statusClass = "low"; statusIcon = "❌"; labelText = "niski poziom dostępności";
+    }
+
+    infoBox.classList.add(statusClass);
+    icon.textContent = statusIcon;
+    scoreValue.textContent = score;
+    scoreLabel.textContent = labelText;
+  });
+</script>
+
+</body>
+</html>
