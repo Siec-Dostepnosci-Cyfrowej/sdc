@@ -59,7 +59,10 @@ Jest chętnie używany przez pracowników przy tworzeniu treści do publikacji o
 ---
 
 ## Sposób pomiaru rezultatów
-Liczba pobrań lub otwarć podręcznika z/w intranecie, liczba poprawnie przygotowanych materiałów.
+
+- Liczba pobrań lub otwarć podręcznika z/w intranecie,
+- liczba poprawnie przygotowanych materiałów.
+
 
 ---
 
