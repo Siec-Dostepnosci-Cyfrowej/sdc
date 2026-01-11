@@ -63,7 +63,7 @@ Wprowadzenie obowiązkowych szkoleń ma dodatkowy walor - zapewnianie jednolityc
 - Wzrost liczby poprawnie przygotowanych treści cyfrowych
 - Zmniejszenie liczby zgłoszeń dotyczących niedostępności
 - Ujednolicenie standardów w całej instytucji
-
+- Technologie asystujące
 ## Sposób pomiaru rezultatów
 - Liczba przeszkolonych osób w odniesieniu do liczby pracowników instytucji
 - Wyniki testów wiedzy po szkoleniu
