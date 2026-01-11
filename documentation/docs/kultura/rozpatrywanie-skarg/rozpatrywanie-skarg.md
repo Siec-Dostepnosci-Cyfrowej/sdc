@@ -2,7 +2,7 @@
 id: rozpatrywanie-skarg
 title: Zasady oraz tryb przyjmowania, rozpatrywania i załatwiania skarg 
 description: Wdrożenie zasad oraz trybu przyjmowania, rozpatrywania i załatwiania skarg w sprawie zapewnienia dostępności cyfrowej
-sidebar_label: Organizacja opracowuje i wdraża zasady oraz tryb przyjmowania, rozpatrywania i załatwiania skarg w sprawie zapewnienia dostępności cyfrowej
+sidebar_label: Rozpatrywnie skarg - zalecenie
 sidebar_position: 0
 keywords: [rozpatrywanie skarg]
 tags: [rozpatrywanie skarg]
