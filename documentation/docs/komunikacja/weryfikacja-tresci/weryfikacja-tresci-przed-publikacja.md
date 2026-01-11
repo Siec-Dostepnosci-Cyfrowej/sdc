@@ -13,7 +13,7 @@ wersja_robocza: true
 
 ## Cel dokumentu
 Celem tego opracowania jest przedstawienie rekomendowanego systemu oraz procedur weryfikacji treści cyfrowych - tekstowych i nietekstowych (grafika, multimedia np.: audio, wideo) - 
-przed ich publikacją aby zapewnić ich zgodność z zasadami dostępności cyfrowej. System obejmuje także przypadek korekty treści już opublikowanych (np. publikacje niestekstowe w mediach społecznościowych).
+przed ich publikacją, aby zapewnić ich zgodność z zasadami dostępności cyfrowej. System obejmuje także przypadek korekty treści już opublikowanych (np. publikacje nietekstowe w mediach społecznościowych).
 
 ## Zakres
 Proces obejmuje wszystkie formaty materiałów publikowanych w kanałach cyfrowych organizacji, w tym:
