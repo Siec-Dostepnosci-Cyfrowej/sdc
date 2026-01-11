@@ -15,7 +15,7 @@ wersja_robocza: true
 
 ## 1. Cel zalecenia
 
-Celem niniejszego zalecenia jest wzmocnienie działań podejmowanych przez podmioty publiczne w zakresie **zapewnienia dostępności cyfrowej dokumentów biurowych**, w szczególności plików tekstowych, prezentacji i arkuszy kalkulacyjnych, które są publikowane lub przekazywane w formie elektronicznej.
+Celem tego zalecenia jest wzmocnienie działań podejmowanych przez podmioty publiczne w zakresie **zapewnienia dostępności cyfrowej dokumentów biurowych**, w szczególności plików tekstowych, prezentacji i arkuszy kalkulacyjnych, które są publikowane lub przekazywane w formie elektronicznej.
 
 Zalecenie służy ujednoliceniu praktyk w administracji publicznej, podniesieniu jakości udostępnianych treści oraz realizacji obowiązków wynikających z przepisów prawa dotyczących dostępności cyfrowej.
 
