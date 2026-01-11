@@ -26,7 +26,7 @@ W instytucji zauważono, że pomimo przyjęcia w instytucji podejścia, wedle kt
 za adekwatny obszar dostępności cyfrowej - najczęściej tworzenie treści dostępnych cyfrowo - oraz pomimo stworzenia w intranecie bazy materiałów opisujących
 zasady zapewniania dostępności, treści publikowane w kanałach cyfrowych często nie spełniały wymogów dostępności. Pracownicy instytucji, choć bardzo zmobilizowani do stosowania
 ww. zasad, czuli się zagubieni jeśli chodzi o rozumienie i prawidłowe stosowanie zaleceń.
-Ustalono, że gwarancją prawidłowego wprowadzenia proacowników instytucji w codzienną pracę z zasadami dostępności jest omówienie ww. zaleceń podczas szkolenia prowadzonego
+Ustalono, że gwarancją prawidłowego wprowadzenia pracowników instytucji w codzienną pracę z zasadami dostępności jest omówienie ww. zaleceń podczas szkolenia prowadzonego
 przez specjalistę/specjalistę ds. dostępności. Podjęto wobec tego decyzję o wprowadzeniu obowiązkowych szkoleń dla wszystkich pracowników instytucji, a każdy nowy pracownik
 przechodzi szkolenie po przyjęciu do pracy (tak jak szkolenie BHP).
 Uzupełnieniem ww. szkoleń jest - oprócz bazy materiałów edukacyjnych - możliwość codziennego kontaktu z konsultantem/konsultantką ds. dostępności, w celu rozwiązywania 
