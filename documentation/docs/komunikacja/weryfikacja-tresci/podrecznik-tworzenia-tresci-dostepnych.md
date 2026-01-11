@@ -21,7 +21,7 @@ wersja_robocza: true
 
 ## Powód realizacji dobrej praktyki
 Pomimo szkoleń prowadzonych wewnątrz muzeum oraz możliwości bieżących konsultacji ze specjalistą w zakresie tworzenia dokumentów cyfrowo dostępnych,
-pracownicy odczuwali brak podręcznej pomocy do szybkiego tworzenia lub zamawiania dostępnych treści. Potrzene były materiały skondensowane, łatwe w użyciu, 
+pracownicy odczuwali brak podręcznej pomocy do szybkiego tworzenia lub zamawiania dostępnych treści. Potrzebne były materiały skondensowane, łatwe w użyciu, 
 zawsze pod ręką, zapewniające samodzielność i operatywność.
 
 ---
