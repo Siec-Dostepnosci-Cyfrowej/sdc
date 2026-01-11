@@ -22,7 +22,7 @@ Wiedza
 Instytucja publiczna (np. urząd centralny, muzeum, biblioteka)
 
 ## Powód realizacji dobrej praktyki
-W instytucji zauważono, że pomimo przyjęcia w instytucji podejścia, że każdy pracownik jest ambasadorem dostepności i odpowiada w zakresie pełnionych obowiązków 
+W instytucji zauważono, że pomimo przyjęcia w instytucji podejścia, wedle którego każdy pracownik jest ambasadorem dostępności i odpowiada w zakresie pełnionych obowiązków
 za adekwatny obszar dostępności cyfrowej - najczęściej tworzenie treści dostępnych cyfrowo - oraz pomimo stworzenia w intranecie bazy materiałów opisujących
 zasady zapewniania dostępności, treści publikowane w kanałach cyfrowych często nie spełniały wymogów dostępności. Pracownicy instytucji, choć bardzo zmobilizowani do stosowania
 ww. zasad, czuli się zagubieni jeśli chodzi o rozumienie i prawidłowe stosowanie zaleceń.
