@@ -1,8 +1,8 @@
 ---
 id: zapewnienie-specjalisty-dc
 title: Zapewnienie udziału specjalisty ds. dostępności cyfrowej w procesie zakupów 
-description: Udział specjalisty ds. dostępności cyfrowej w procesie zakupowym
-sidebar_label: Organizacja zapewnia udział specjalisty ds. dostępności cyfrowej w procesie zakupów technologii i treści cyfrowych
+description:  Organizacja zapewnia udział specjalisty ds. dostępności cyfrowej w procesie zakupów technologii i treści cyfrowych
+sidebar_label: Specjalista w procesie zakupowym
 sidebar_position: 0
 keywords: [udział specjalisty]
 tags: [udział specjalisty]
@@ -13,6 +13,7 @@ data_zgloszenia: 11 stycznia 2026 r.
 ostatnia_aktualizacja: 11 stycznia 2026 r.
 wersja_robocza: true
 ---
+
 ## 1. Zalecenie
 Organizacja zapewnia udział wykwalifikowanego specjalisty ds. dostępności cyfrowej (wewnętrznego lub zewnętrznego) we wszystkich procesach zakupowych dotyczących technologii i treści cyfrowych albo rozwiązań zawierających elementy cyfrowe.
 
@@ -50,7 +51,8 @@ Zaleca się, aby specjalista ds. dostępności cyfrowej był zaangażowany na ws
 - pomoc w sprawdzeniu, czy końcowy produkt spełnia wymagania,
 - kontrola dostarczonego rozwiązania pod kątem zasad dostępności,
 - wskazywanie działań naprawczych i sposobów utrzymania dostępności.
-###Kompetencje specjalisty ds. dostępności cyfrowej
+
+### Kompetencje specjalisty ds. dostępności cyfrowej
 Organizacja określa minimalne kompetencje specjalisty ds. dostępności cyfrowej.
 Kompetencje merytoryczne
 - praktyczną znajomość WCAG 2.1 lub nowszych wytycznych,
@@ -59,16 +61,19 @@ Kompetencje merytoryczne
 - projektowania uniwersalnego,
 - użyteczności (UX),
 - dostępnych treści cyfrowych.
+
 Kompetencje praktyczne
 - doświadczenie w audytach dostępności stron, aplikacji lub systemów,
 - umiejętność oceny dokumentacji zamówień pod kątem dostępności,
 - zdolność do formułowania jednoznacznych, mierzalnych wymagań.
+
 Kompetencje komunikacyjne
 - umiejętność współpracy z:
 - zespołami IT,
 - zamówieniami publicznymi,
 - wykonawcami zewnętrznymi,
 - zdolność tłumaczenia wymagań dostępności na język biznesowy i techniczny.
+
 W przypadku trudnych technologicznie zamówień lub dużej skali projektu, organizacja może zatrudnić zewnętrznych ekspertów ds. dostępności cyfrowej obok własnego specjalisty.
 - Warto uwzględnić udział specjalisty w budżecie i harmonogramie prac, tak aby jego praca była naprawdę pomocna, a nie tylko formalnością.
 
@@ -80,6 +85,7 @@ Udział specjalisty ds. dostępności cyfrowej w procesie zakupowym:
 - wspiera realizację zasady „dostępność od początku” (accessibility by design),
 - ogranicza ryzyko skarg, postępowań kontrolnych i konieczności korekt finansowych,
 - wzmacnia kompetencje instytucji w zakresie świadomego zamawiania technologii i treści cyfrowych.
+
 Wczesne uwzględnienie dostępności w zamówieniach publicznych jest znacznie tańsze i skuteczniejsze niż działania naprawcze po wdrożeniu systemu lub publikacji treści.
 Udział specjalisty ds. dostępności cyfrowej już na etapie planowania i realizacji zakupów technologii i treści cyfrowych pozwala uniknąć błędów projektowych, które później mogą prowadzić do naruszeń standardów dostępności (np. WCAG) lub ustawowych obowiązków w tym zakresie. Obecność takiej osoby od początku zapewnia, że wymagania dotyczące dostępności będą uwzględnione na każdym etapie, co zmniejsza ryzyko kosztownych poprawek i problemów prawnych w przyszłości.
 
@@ -93,9 +99,6 @@ Udział specjalisty ds. dostępności cyfrowej już na etapie planowania i reali
 - [Rekomendacje dotyczące zamówień publicznych na systemy informatyczne](https://www.gov.pl/web/uzp/rekomendacje-dotyczace-zamowien-publicznych-na-systemy-informatyczne)
 - [Jak dbać o dostępność cyfrową w umowach i zamówieniach publicznych?](https://www.gov.pl/web/dostepnosc-cyfrowa/jak-dbac-o-dostepnosc-cyfrowa-w-umowach-i-zamowieniach-publicznych)
 - [Kto, za co odpowiada w zakresie dostępności cyfrowej](https://www.gov.pl/web/dostepnosc-cyfrowa/kto-za-co-odpowiada-w-zakresie-dostepnosci-cyfrowej?utm_source=chatgpt.com)
-
-## 6. Historia wersji
-- 1.  Anna Czekalska 11 stycznia 2026 r. Utworzenie zalecenia
 
 ## Załączniki
 _Brak załączników._
