@@ -1,149 +1,108 @@
+# Cykl życia strony internetowej (TIK). Ramowe wytyczne
+
 ---
 id: cykl-zycia-strony-internetowej
 title: Cykl życia strony internetowej (TIK). Ramowe wytyczne
 sidebar_label: Cykl życia strony internetowej
 sidebar_position: 4 
-keywords: [
-dostepnosc cyfrowa, 
-cykl życia
-]
-tags: [
-dostepnosc cyfrowa, 
-cykl życia
-]
+keywords: [dostepnosc cyfrowa, cykl życia, monitoring dostępności]
+tags: [dostepnosc cyfrowa, cykl życia]
 data_zgloszenia: 6 października 2025 r.
-ostatnia_aktualizacja: 6 października 2025 r
+ostatnia_aktualizacja: 12 stycznia 2026 r.
 opracowanie: Dawid Górny
-wersja_robocza: true
+wersja_robocza: false
 ---
 
 ## 1. Cel dokumentu
 
-Celem dokumentu jest przedstawienie minimalnych zasad, według których
-instytucja publiczna powinna planować, zamawiać, tworzyć, testować,
-utrzymywać i wycofywać stronę internetową w sposób dostępny cyfrowo.
-Treść ma charakter ramowy i powinna zostać uzupełniona o procedury
-wewnętrzne właściwe dla danej jednostki.
+Celem dokumentu jest przedstawienie minimalnych zasad, według których instytucja publiczna powinna planować, zamawiać, tworzyć, testować, utrzymywać i wycofywać stronę internetową w sposób zgodny z wymogami ustawowymi. Treść ma charakter ramowy i uwzględnia potrzebę ciągłego monitorowania dostępności przy wykorzystaniu różnych metod weryfikacji.
 
-## 2. Podstawy prawne i standardy
+## 2. Podstawy prawne i standardy techniczne
 
-* Ustawa z 4 kwietnia 2019 r. o dostępności cyfrowej stron
-internetowych i aplikacji mobilnych podmiotów publicznych.
-* WCAG 2.1 na poziomie AA (zaleca się uwzględnienie nowych kryteriów
-WCAG 2.2).
-* EN 301 549 jako norma obowiązująca przy interpretacji wymagań
-technicznych.
-* Rozporządzenie w sprawie Biuletynu Informacji Publicznej. Treści BIP
-muszą jednocześnie spełniać WCAG 2.1 AA.
+### Podstawa prawna
+
+* **Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.** Jest to nadrzędny akt prawny określający obowiązki podmiotu.
+* **Ustawa z dnia 6 września 2001 r. o dostępie do informacji publicznej**.
+
+### Standardy i normy (narzędzia realizacji)
+
+* **Wymagania techniczne określone w załączniku do ustawy:** Oparte na standardzie **WCAG 2.1 na poziomie AA**. Jest to prawnie wiążący poziom dostępności.
+* **EN 301 549:** Europejska norma techniczna, służąca do interpretacji wymagań technicznych.
+* **WCAG 2.2:** Nowsza wersja standardu, zalecana jako dobra praktyka (ponadstandardowa).
 
 ## 3. Role i odpowiedzialność
 
 ### 3.1 Opis ról
 
-* Koordynator dostępności - odpowiada za dostępność strony przez cały
-czas jej działania, uczestniczy w wyborze wykonawców, definiuje
-wytyczne, przyjmuje i rozpatruje skargi, zleca audyty oraz nadzoruje
-wyniki monitoringu.
-* Kierownik działu IT - zarządza serwerem i systemem CMS, utrzymuje
-repozytorium kodu, konfiguruje proces ciągłej integracji z testami WCAG
-i zapewnia działanie narzędzi monitorujących.
-* Zespół redakcyjny - publikuje treści zgodne z WCAG, dba o strukturę
-nagłówków, teksty alternatywne, nazwy elementów aktywnych i język
-prosty, bierze udział w przeglądach treści.
-* Projektant UX UI - tworzy makiety i style zgodne z zasadami
-projektowania uniwersalnego, w dużych projektach konsultuje się z firmą
-testerską.
-* Programista - koduje semantyczny HTML CSS JS, stosuje znaczniki
-ARIA, konfiguruje szablony CMS.
-* Firma testerska - skaluje zakres audytów do wielkości projektu,
-dostarcza raporty z zaleceniami.
+* **Koordynator dostępności** – nadzór nad procesem, monitorowanie serwisu i koordynacja obsługi żądań zapewnienia dostępności.
+* **Administrator** – wsparcie techniczne, aktualizacje i dbanie o techniczną poprawność Deklaracji Dostępności.
+* **Redaktorzy** – osoby publikujące treści. Odpowiadają za dostępność dodawanych materiałów (tekstów, plików, multimediów) oraz ich weryfikację przed publikacją.
+* **Wykonawca zewnętrzny** – podmiot odpowiedzialny za dostarczenie produktu w pełni dostępnego cyfrowo (zgodnie z wymogami ustawy) oraz co najmniej wyników z przeprowadzonych testów automatycznych i, jeśli to możliwe, ręcznych, potwierdzających tę dostępność.
 
-### 3.2 Matryca RACI (przykład)
+### 3.2 Matryca RACI (model dla urzędu)
 
-| Faza          | Koordynator | Kierownik IT | Zespół | Firma |
-| ------------- | ----------- | ------------ | ------ | ----- |
-| Planowanie    | A           | R            | C      | C     |
-| Projektowanie | C           | C            | I      | C     |
-| Wykonanie     | C           | A R          | I      | I     |
-| Testowanie    | A           | C            | C      | R     |
-| Utrzymanie    | A           | R            | R      | C     |
+| Faza | Koordynator | Administrator | Redaktorzy | Wykonawca |
+| :--- | :---: | :---: | :---: | :---: |
+| Planowanie | A | R | C | - |
+| Projektowanie i Wykonanie | C | A | I | R |
+| Testowanie (odbiór) | A | R | C | R |
+| Utrzymanie (treści) | C | I | R | - |
+| Obsługa żądań dostępu | A | C | R | - |
 
-Legenda: R - wykonuje, A - odpowiada, C - konsultuje, I - informowany.
+*Legenda: R – wykonuje, A – odpowiada, C – konsultuje, I – informowany.*
 
 ## 4. Szkolenia
 
-* Przed projektowaniem: warsztat WCAG 2.1 2.2 dla projektantów,
-programistów i kierownika IT.
-* Przed kodowaniem: szkolenie redakcji i administratorów CMS z
-tworzenia treści dostępnych.
-* Przed publikacją: krótkie przypomnienie list kontrolnych dla
-wszystkich ról.
-* Co 12 miesięcy: sesja odświeżenia wiedzy o aktualnych standardach
-oraz najczęstszych problemach dostępności.
+* **Dla redaktorów:** Tworzenie dostępnych treści i obsługa narzędzi do bieżącej weryfikacji przed publikacją.
+* **Dla administratorów:** Wdrażanie i obsługa systemów monitoringu automatycznego.
+* **Okresowo:** Aktualizacja wiedzy (min. raz na 12 miesięcy).
 
-## 5. Cykl życia strony internetowej
+## 5. Fazy cyklu życia strony
 
-### Faza 1 - Koncepcja i definiowanie wymagań
+### Faza 1 – Koncepcja i wymogi
 
-* W opisie zamówienia i SIWZ zapisuje się WCAG 2.1 (zalecane 2.2) AA,
-EN 301 549 oraz obowiązek posiadania Deklaracji Dostępności.
-* Powstaje matryca RACI oraz wstępny budżet na szkolenia, testy i
-audyty.
-* Analizowane są ryzyka i wybierane technologie przyjazne dostępności.
+Wymóg pełnej zgodności z załącznikiem do ustawy w umowach z wykonawcami.
 
-### Faza 2 - Projektowanie
+### Faza 2 – Projektowanie i Wykonanie
 
-* Projektant przygotowuje makiety zgodne z zasadami projektowania
-uniwersalnego.
-* W dużych projektach makiety konsultowane są z firmą testerską.
-* Dokumentacja projektowa zawiera odniesienie do konkretnych kryteriów
-WCAG.
+Tworzenie dostępnych szablonów i funkcjonalności zgodnie z projektowaniem uniwersalnym.
 
-### Faza 3 - Wykonanie (kodowanie i integracja CMS)
+### Faza 3 – Testowanie i Odbiór
 
-* Programista implementuje semantyczny kod, proces CI CD uruchamia
-testy automatyczne WCAG.
-* Redakcja publikuje treści testowe, kierownik IT uruchamia skanery
-automatyczne.
+Weryfikacja strony pod kątem technicznym i sporządzenie pierwszej Deklaracji Dostępności.
 
-### Faza 4 - Testowanie i walidacja
+### Faza 4 – Publikacja i bieżąca kontrola
 
-* Mały serwis: pojedynczy audyt kandydata do publikacji.
-* Średni serwis: audyt wersji beta, audyt kandydata do publikacji.
-* Duży projekt: doradztwo przy makietach, testy iteracyjne w trakcie
-budowy, audyt kandydata do publikacji.
-* Raporty trafiają do koordynatora, poprawki są weryfikowane w testach
-weryfikacyjnych.
+* **Weryfikacja przed publikacją:** Redaktor przed zatwierdzeniem treści ma obowiązek sprawdzić ją za pomocą dostępnych narzędzi wspomagających (np. wbudowane funkcje sprawdzania dostępności w edytorach treści lub przeglądarkach).
+* Publikacja następuje po wyeliminowaniu błędów (np. brakujących tekstów alternatywnych, błędnej hierarchii nagłówków).
 
-### Faza 5 - Publikacja i deklaracja
+### Faza 5 – Utrzymanie i ciągły monitoring
 
-* Po pozytywnym audycie strona trafia na serwer produkcyjny.
-* Kierownik IT publikuje Deklarację Dostępności i formularz zgłaszania
-barier.
-* Dział IT lub firma zewnętrzna aktywuje monitoring automatyczny.
+* **Monitorowanie wielopoziomowe:** Stosowanie metod automatycznych i ręcznych w celu wykrywania błędów powstałych w trakcie eksploatacji.
+* **Obsługa żądań zapewnienia dostępności:** Reagowanie na wnioski użytkowników.
+* **Dostęp alternatywny:** Zapewnienie wsparcia w innej formie, gdy treść cyfrowa pozostaje (czasowo) niedostępna.
+* **Aktualizacja Deklaracji:** Co roku do 31 marca.
 
-### Faza 6 - Utrzymanie i rozwój
+### Faza 6 – Starzenie się i wycofanie
 
-* Skargi użytkowników usuwa się w terminach ustawowych.
-* Audyt kontrolny przeprowadzany jest co najmniej raz w roku lub po
-każdej dużej aktualizacji (nowy szablon, zmiana silnika CMS, duży
-moduł).
-* Procedura regresji: każda zmiana przechodzi test automatyczny i
-ręczny. Starsze wersje treści są archiwizowane, a Deklaracja Dostępności
-aktualizowana.
+Archiwizacja treści w sposób zapewniający ich dalszą dostępność.
 
-### Faza 7 - Starzenie się i wycofanie
+## 6. Monitorowanie dostępności i kontrola jakości
 
-* Tworzona jest dostępna kopia (HTML lub PDF UA), plan przekierowań i
-komunikat dla użytkowników.
-* Informacja trafia do Deklaracji Dostępności i rocznego raportu.
+System kontroli opiera się na trzech uzupełniających się metodach monitoringu, co pozwala na reagowanie i planowanie w zależności od kontekstu:
 
-## 6. Monitorowanie dostępności
-
-Monitoring automatyczny jest konfigurowany i utrzymywany przez dział IT lub firmę zewnętrzną. Obejmuje skanery WCAG oraz kontrolę błędów 404. Koordynator dostępności otrzymuje okresowe raporty i zleca działania korygujące.
+1. **Weryfikacja przed publikacją:** Wykorzystanie narzędzi, które weryfikują treść bezpośrednio podczas jej tworzenia lub przeglądania. Pozwala to na weryfikację i ewentualną poprawę zawartości jeszcze przed jej publikacją.
+2. **Monitoring po publikacji:** Regularne badanie całego serwisu w celu wykrycia błędów technicznych i regresji dostępności (np. niedziałające linki, błędy w kodzie szablonu, błędy po aktualizacji serwisu). Monitoring ten może być realizowany w dwóch wariantach:
+    * **Wariant A: Audyt pełny (crawling całego serwisu).** Polega na sprawdzeniu każdej podstrony. 
+        * *Zaleta:* Kompletność danych. 
+        * *Wada:* Wysokie obciążenie zasobów przy dużych serwisach i ryzyko generowania szumu informacyjnego przy tysiącach archiwalnych lub nieużywanych podstron.
+    * **Wariant B: Audyt na bazie ruchu użytkowników.** Polega na badaniu tylko tych miejsc, które są faktycznie odwiedzane.
+        * *Zaleta:* Skupienie uwagi na realnych barierach, na które napotykają obywatele; optymalizacja wydajności. 
+        * *Wada:* Ryzyko przeoczenia błędów w rzadziej odwiedzanych, ale istotnych prawnie sekcjach (np. rzadko używane formularze).
+3. **Monitoring ręczny:** Cykliczna weryfikacja elementów niemożliwych do sprawdzenia przez automatyczne testy. Obejmuje audyty okresowe służące bieżącej poprawie, a także do aktualizacji Deklaracji Dostępności.
 
 ## 7. Planowane dokumenty pomocnicze
 
-* Lista kontrolna koordynatora dostępności dla każdej fazy.
-* Wzór klauzuli dostępności do SIWZ i umów.
-* Procedura reagowania na regresję oraz formularz zgłaszania barier.
+* Wzór zapisu o dostępności do umowy.
+* Instrukcja obsługi narzędzi do weryfikacji treści przed publikacją.
+* Procedura obsługi żądania zapewnienia dostępności i dostępu alternatywnego.
