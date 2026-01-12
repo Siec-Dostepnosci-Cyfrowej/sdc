@@ -25,11 +25,11 @@ Zaleca się, aby specjalista ds. dostępności cyfrowej był zaangażowany na ws
 - platform e-usług,
 - treści cyfrowych (np. dokumentów, e-learningu, multimediów).
 ### Rekomendowany zakres udziału specjalisty ds. dostępności:
-1. Etap planowania i analizy potrzeb
+1. **Etap planowania i analizy potrzeb**
 - określenie wymagań dotyczących dostępności zgodnie z WCAG i obowiązującymi przepisami,
 - wpisanie wymagań dostępności do opisu zamówienia,
 - pomoc w określeniu, kto będzie korzystać z rozwiązania, w tym uwzględnienie osób z niepełnosprawnościami,
-2. Etap przygotowania dokumentacji zamówienia
+2. **Etap przygotowania dokumentacji zamówienia**
 - udział w przygotowaniu opisu przedmiotu zamówienia z uwzględnieniem dostępności,
 - przygotowanie lub sprawdzenie wymagań dotyczących dostępności,
 - dodanie zapisów o dostępności cyfrowej do umów i aneksów,
@@ -37,16 +37,16 @@ Zaleca się, aby specjalista ds. dostępności cyfrowej był zaangażowany na ws
 - odpowiedzialności wykonawcy,
 - testów dostępności,
 - wprowadzania poprawek i odbioru prac.
-3. Etap postępowania i oceny ofert
+3. **Etap postępowania i oceny ofert**
 - konsultowanie zapisów dostępności w ofertach wykonawców,
 - ocena ofert pod kątem spełnienia wymagań dostępności,
 - udział w ocenie zgodności proponowanych rozwiązań z wymaganiami dostępności,
 - identyfikacja ryzyk dostępnościowych/ wskazywanie możliwych problemów związanych z dostępnością.
-4. Etap realizacji zamówienia
+4. **Etap realizacji zamówienia**
 - bieżące konsultacje z wykonawcą,
 - wsparcie zespołu projektowego w interpretacji wymagań WCAG,
 - opiniowanie prototypów, makiet, wersji testowych.
-5. Etap odbioru i utrzymania
+5. **Etap odbioru i utrzymania**
 - udział w testach dostępności (przeprowadzanych przez ekspertów lub użytkowników),
 - pomoc w sprawdzeniu, czy końcowy produkt spełnia wymagania,
 - kontrola dostarczonego rozwiązania pod kątem zasad dostępności,
@@ -54,7 +54,8 @@ Zaleca się, aby specjalista ds. dostępności cyfrowej był zaangażowany na ws
 
 ### Kompetencje specjalisty ds. dostępności cyfrowej
 Organizacja określa minimalne kompetencje specjalisty ds. dostępności cyfrowej.
-Kompetencje merytoryczne
+
+**Kompetencje merytoryczne**
 - praktyczną znajomość WCAG 2.1 lub nowszych wytycznych,
 - znajomość przepisów prawa dotyczących dostępności cyfrowej,
 - wiedzę z zakresu:
@@ -62,17 +63,17 @@ Kompetencje merytoryczne
 - użyteczności (UX),
 - dostępnych treści cyfrowych.
 
-Kompetencje praktyczne
+**Kompetencje praktyczne**
 - doświadczenie w audytach dostępności stron, aplikacji lub systemów,
 - umiejętność oceny dokumentacji zamówień pod kątem dostępności,
 - zdolność do formułowania jednoznacznych, mierzalnych wymagań.
 
-Kompetencje komunikacyjne
+**Kompetencje komunikacyjne**
 - umiejętność współpracy z:
-- zespołami IT,
-- zamówieniami publicznymi,
-- wykonawcami zewnętrznymi,
-- zdolność tłumaczenia wymagań dostępności na język biznesowy i techniczny.
+  - zespołami IT,
+  - zamówieniami publicznymi,
+  - wykonawcami zewnętrznymi,
+  - zdolność tłumaczenia wymagań dostępności na język biznesowy i techniczny.
 
 W przypadku trudnych technologicznie zamówień lub dużej skali projektu, organizacja może zatrudnić zewnętrznych ekspertów ds. dostępności cyfrowej obok własnego specjalisty.
 - Warto uwzględnić udział specjalisty w budżecie i harmonogramie prac, tak aby jego praca była naprawdę pomocna, a nie tylko formalnością.
