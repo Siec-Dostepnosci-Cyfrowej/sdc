@@ -1,14 +1,14 @@
 ---
 id: pozyskiwanie-opinii-o-przycisku
-title: O Przycisku Zgłoś problem z dostępnością
+title: O przycisku Zgłoś problem z dostępnością
 description: O stosowaniu przycisku Zgłoś problem z dostępnością
 sidebar_label: Uwagi o  przycisku
 sidebar_position: 5
-keywords: [cykl życia TIK, dostępność cyfrowa,dobre praktyki, zalecenia, opinie]
-tags: [cykl życia TIK, dostępność cyfrowa,dobre praktyki, zalecenia, opinie]
+keywords: [cykl życia TIK, dostępność cyfrowa, dobre praktyki, zalecenia, opinie]
+tags: [cykl życia TIK, dostępność cyfrowa, dobre praktyki, zalecenia, opinie]
 opracowanie: Cezary Tomczyk
 data_zgloszenia: 26 października 2025 r.
-ostatnia_aktualizacja: 10 listopada 2025 r.
+ostatnia_aktualizacja: 13 stycznia 2026 r.
 wersja_robocza: true
 ---
 
