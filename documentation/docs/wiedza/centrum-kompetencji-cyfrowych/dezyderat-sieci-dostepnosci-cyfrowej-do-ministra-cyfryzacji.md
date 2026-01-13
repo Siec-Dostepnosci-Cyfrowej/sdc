@@ -4,11 +4,11 @@ title: Dezyderat Sieci Dostępności Cyfrowej w sprawie powołania Centrum Kompe
 description: Dezyderat Sieci Dostępności Cyfrowej skierowany do Ministra Cyfryzacji w sprawie utworzenia Centrum Kompetencji Dostępności Cyfrowej
 sidebar_label: Dezyderat w sprawie powołania CKDC
 sidebar_position: 0
-keywords: [cykl życia TIK, dostępność cyfrowa,dobre praktyki, zalecenia, inwentaryzacja zasobów, Centrum Kompetencji Dostępności Cyfrowej]
-tags: [cykl życia TIK, dostępność cyfrowa,dobre praktyki, zalecenia, inwentaryzacja zasobów, Centrum Kompetencji Dostępności Cyfrowej]
+keywords: [cykl życia TIK, dostępność cyfrowa, dobre praktyki, zalecenia, Centrum Kompetencji Dostępności Cyfrowej]
+tags: [cykl życia TIK, dostępność cyfrowa,dobre praktyki, zalecenia, Centrum Kompetencji Dostępności Cyfrowej]
 opracowanie: Stefan Wajda
 data_zgloszenia: 10 listopada 2025 r.
-ostatnia_aktualizacja: 10 listopada 2025 r.
+ostatnia_aktualizacja: 13 stycznia 2026 r.
 wersja_robocza: true
 ---
 
