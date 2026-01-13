@@ -1,0 +1,87 @@
+{
+  "@context": "https://europa.eu/schemas/credentials/v1",
+  "id": "https://ckdc.gov.pl/credentials/PL-ACC-009_Koordynator-ds-dostępności-cyfrowej",
+  "type": [
+    "EuropassCredential",
+    "LearningAchievement"
+  ],
+  "name": {
+    "pl": "Mikropoświadczenie: Koordynator ds. dostępności cyfrowej"
+  },
+  "description": {
+    "pl": "Mikropoświadczenie potwierdza kompetencje w zakresie zarządzania procesem zapewniania dostępności cyfrowej w organizacji, planowania, koordynacji i monitorowania działań oraz współpracy z zespołami odpowiedzialnymi za wdrażanie dostępności."
+  },
+  "issuer": {
+    "id": "https://ckdc.gov.pl/id",
+    "type": "Organization",
+    "name": "Centrum Kompetencji Dostępności Cyfrowej (CKDC)"
+  },
+  "issued": "2025-11-09",
+  "validityPeriod": "P3Y",
+  "learningOutcomes": [
+    {
+      "type": "Knowledge",
+      "description": "Zna przepisy i normy dotyczące dostępności cyfrowej (ustawa, EN 301 549, WCAG 2.2)."
+    },
+    {
+      "type": "Knowledge",
+      "description": "Zna metody oceny i monitorowania dostępności w organizacji."
+    },
+    {
+      "type": "Skill",
+      "description": "Opracowuje plany działań i harmonogramy wdrożeń w zakresie dostępności cyfrowej."
+    },
+    {
+      "type": "Skill",
+      "description": "Analizuje raporty z audytów i przeglądów oraz planuje działania naprawcze."
+    },
+    {
+      "type": "Competence",
+      "description": "Koordynuje wdrażanie standardów dostępności cyfrowej w organizacji."
+    },
+    {
+      "type": "Competence",
+      "description": "Promuje kulturę dostępności i współpracę między zespołami w organizacji."
+    }
+  ],
+  "evidence": [
+    {
+      "type": "WorkSample",
+      "name": {
+        "pl": "Plan działań na rzecz dostępności cyfrowej"
+      },
+      "description": {
+        "pl": "Dokument planu działań opracowany przez uczestnika szkolenia, zawierający harmonogram i priorytety działań w organizacji."
+      }
+    },
+    {
+      "type": "AssessmentReport",
+      "name": {
+        "pl": "Raport z przeglądu lub audytu dostępności"
+      },
+      "description": {
+        "pl": "Raport dokumentujący ocenę dostępności cyfrowej w jednostce wraz z rekomendacjami usprawnień."
+      }
+    }
+  ],
+  "framework": {
+    "id": "https://europa.eu/europass/credentials/v1",
+    "name": "Europejskie Ramy Kwalifikacji (EQF)"
+  },
+  "language": "pl",
+  "identifier": "PL-ACC-009",
+  "educationalLevel": "Zaawansowany",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "accreditation": {
+    "id": "https://ckdc.gov.pl/accreditations/ckdc",
+    "type": "Accreditation",
+    "name": "Akredytacja CKDC"
+  },
+  "relatedStandard": [
+    "WCAG 2.2",
+    "EN 301 549",
+    "ISO/IEC 40500:2012",
+    "EAA – European Accessibility Act",
+    "Europejskie Ramy Kwalifikacji (EQF)"
+  ]
+}
