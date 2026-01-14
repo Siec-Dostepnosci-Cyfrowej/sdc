@@ -18,7 +18,6 @@ wersja_robocza: true
 
 Celem niniejszego zalecenia jest **wzmocnienie działań podmiotów publicznych w zakresie aktywnego pozyskiwania informacji zwrotnych od użytkowników** dotyczących dostępności cyfrowej stron internetowych, aplikacji mobilnych oraz publikowanych dokumentów i usług cyfrowych.
 
-Zbieranie opinii od rzeczywistych użytkowników, w tym osób z niepełnosprawnościami, stanowi kluczowy element doskonalenia dostępności i pozwala na szybkie reagowanie na wykryte bariery.
 
 ---
 
@@ -100,7 +99,7 @@ Oprócz ustawowego minimum, zaleca się stosowanie **różnorodnych i aktywnych 
 
 ## 6. Uzasadnienie
 
-Formalne audyty i testy techniczne stanowią ważny element zapewniania dostępności cyfrowej, jednak nie zastąpią **bezpośredniego doświadczenia użytkowników**, którzy korzystają z usług publicznych na co dzień.
+Formalne audyty i testy techniczne stanowią ważny element zapewniania dostępności cyfrowej, jednak nie zastąpią **bezpośredniego doświadczenia użytkowników**, którzy korzystają z usług publicznych na co dzień. Aktywne pozyskiwanie opinii od rzeczywistych użytkowników, w tym osób z niepełnosprawnościami, stanowi kluczowy element doskonalenia dostępności i pozwala na szybkie reagowanie na wykryte bariery.
 
 Aktywne pozyskiwanie opinii:
 
