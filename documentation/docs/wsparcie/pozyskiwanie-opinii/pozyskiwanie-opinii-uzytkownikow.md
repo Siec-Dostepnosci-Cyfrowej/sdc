@@ -4,12 +4,12 @@ title: Aktywne pozyskiwanie opinii użytkowników o dostępności cyfrowej
 description: Dobre praktyki i zalecenia przy zbieraniu opinii o dostępności cyfrowej
 sidebar_label: Pozyskiwanie opinii użytkowników
 sidebar_position: 1
-keywords: [cykl życia TIK, dostępność cyfrowa,dobre praktyki, zalecenia, opinie]
-tags: [cykl życia TIK, dostępność cyfrowa,dobre praktyki, zalecenia, opinie]
+keywords: [cykl życia TIK, dostępność cyfrowa, dobre praktyki, zalecenia, opinie]
+tags: [cykl życia TIK, dostępność cyfrowa, dobre praktyki, zalecenia, opinie]
 opracowanie: Cezary Tomczyk
 wspolpraca: Stefan Wajda
 data_zgloszenia: 26 października 2025 r.
-ostatnia_aktualizacja: 10 listopada 2025 r.
+ostatnia_aktualizacja: 14 stycznia 2026 r.
 wersja_robocza: true
 ---
 
@@ -18,13 +18,13 @@ wersja_robocza: true
 
 Celem niniejszego zalecenia jest **wzmocnienie działań podmiotów publicznych w zakresie aktywnego pozyskiwania informacji zwrotnych od użytkowników** dotyczących dostępności cyfrowej stron internetowych, aplikacji mobilnych oraz publikowanych dokumentów i usług cyfrowych.
 
-Zbieranie opinii od rzeczywistych użytkowników, w tym osób z niepełnosprawnościami, stanowi kluczowy element doskonalenia dostępności i pozwala na szybkie reagowanie na napotykane bariery.
+Zbieranie opinii od rzeczywistych użytkowników, w tym osób z niepełnosprawnościami, stanowi kluczowy element doskonalenia dostępności i pozwala na szybkie reagowanie na wykryte bariery.
 
 ---
 
 ## 2. Zalecenie
 
-Podmioty publiczne powinny **systematycznie i w sposób zorganizowany pozyskiwać opinie, uwagi i sugestie od użytkowników** swoich stron internetowych, aplikacji i dokumentów cyfrowych — zarówno w ramach obowiązków wynikających z przepisów prawa, jak i poprzez dodatkowe działania dobrowolne (rekomendowane).
+Podmioty publiczne powinny **systematycznie i w sposób zorganizowany pozyskiwać opinie, uwagi i sugestie od użytkowników** swoich stron internetowych, aplikacji i dokumentów cyfrowych — zarówno w ramach obowiązków wynikających z przepisów prawa, jak i poprzez polecane działania dobrowolne.
 
 ---
 
