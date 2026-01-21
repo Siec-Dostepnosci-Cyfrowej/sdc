@@ -4,11 +4,11 @@ title: Wzór procedury tworzenia i zatwierdzania rocznego planu działania
 description: Wzór procedury tworzenia planu działania na rzecz dostępności cyfrowej
 sidebar_label: Procedura - duże podmioty
 sidebar_position: 2
-keywords: [plan pracy]
-tags: [plan pracy]
+keywords: [kultura organizacyjna, zarządzanie, plan działania, plan pracy, procedura]
+tags: [kultura organizacyjna, zarządzanie, plan działania, plan pracy, procedura]
 opracowanie: Anna Czekalska, Stefan Wajda
 data_zgloszenia: 21 listopada 2025 r.
-ostatnia_aktualizacja: 21 listopada 2025 r.
+ostatnia_aktualizacja: 21 stycznia 2026 r.
 wersja_robocza: true
 ---
 

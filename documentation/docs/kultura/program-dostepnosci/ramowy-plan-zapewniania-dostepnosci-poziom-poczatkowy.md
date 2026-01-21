@@ -4,11 +4,11 @@ title: Ramowy plan działania na rzecz zapewniania dostępności cyfrowej
 description: Przedstawia propozycje planu działania
 sidebar_label: Ramowy plan - poziom początkowy
 sidebar_position: 4
-keywords: [plan działania]
-tags: [plan działania]
+keywords: [kultura organizacyjna, zarządzanie, plan działania, plan pracy]
+tags: [kultura organizacyjna, zarządzanie, plan działania, plan pracy]
 opracowanie: Anna Czekalska, Stefan Wajda
 data_zgloszenia: 21 listopada 2025 r.
-ostatnia_aktualizacja: 21 listopada 2025 r.
+ostatnia_aktualizacja: 21 stycznia 2026 r.
 wersja_robocza: true
 ---
 
@@ -23,7 +23,7 @@ Utworzenie podstawowych standardów pozwalających na dostępne i spójne przeka
 ### Działania
 - Ustanowienie minimalnych zasad przygotowywania i publikowania treści dostępnych cyfrowo.  
 - Wprowadzenie podstawowych szablonów dokumentów i komunikatów.  
-- Uporządkowanie i ujednolicenie kanałów komunikacji z obywatelami (strona www, e-mail, BIP).  
+- Uporządkowanie i ujednolicenie kanałów komunikacji z odbiorcami (strona www, e-mail, BIP).
 - Uruchomienie podstawowego mechanizmu zgłaszania problemów z dostępnością cyfrową.  
 - Rozpoczęcie publikowania komunikatów edukacyjnych i informacyjnych o dostępności dla pracowników.
 
@@ -43,7 +43,7 @@ Stworzenie i uruchomienie podstawowej struktury wsparcia użytkowników oraz os�
 
 ---
 
-## 3. Personel
+## 3. Pracownicy
 
 ### Cel  
 Stworzenie pierwszej struktury ról i odpowiedzialności w obszarze dostępności cyfrowej.
@@ -53,7 +53,7 @@ Stworzenie pierwszej struktury ról i odpowiedzialności w obszarze dostępnośc
 - Włączenie kilku kluczowych osób z komórek IT, komunikacji, kadr i obsługi strony www do minimalnego zespołu roboczego.  
 - Doprecyzowanie podstawowych zadań związanych z dostępnością w zakresach obowiązków.  
 - Rozpoczęcie monitorowania obszarów, które wymagają wsparcia kadrowego lub kompetencyjnego.  
-- Zaplanowanie pierwszych szkoleń podnoszących świadomość (np. wprowadzenie do WCAG, podstawy dostępności treści).
+- Zaplanowanie pierwszych szkoleń podnoszących świadomość (np. wprowadzenie do dostępności cyfrowej, podstawy dostępności dokumentów).
 
 ---
 
@@ -80,7 +80,7 @@ Podniesienie podstawowej świadomości dostępności cyfrowej w całej organizac
 - Przeprowadzenie krótkiego szkolenia wprowadzającego dla wszystkich pracowników lub kadry kierowniczej.  
 - Rozpoczęcie tworzenia „podstawowego pakietu wiedzy”: mini-poradniki, proste listy kontrolne, krótkie filmy instruktażowe.  
 - Przeszkolenie osób tworzących dokumenty i treści cyfrowe z podstawowych zasad dostępności (nagłówki, tekst alternatywny, kontrast).  
-- Wybór kilku osób do pogłębionego szkolenia – np. testerów Easy Check lub redaktorów treści.  
+- Wybór kilku osób do pogłębionego szkolenia – np. testerów list kontrolnych lub redaktorów treści.  
 - Rozpoczęcie budowy wewnętrznej biblioteki zasobów edukacyjnych.
 
 ---
@@ -95,7 +95,7 @@ Wprowadzenie podstawowego porządku i powtarzalności w działaniach związanych
 - Nawiązanie współpracy z IT oraz z osobami odpowiadającymi za aktualizacje systemów.  
 - Wprowadzenie pierwszych, minimalnych wymagań dostępności w nowych projektach i aktualizacjach.  
 - Rozpoczęcie prowadzenia **rejestru zasobów cyfrowych** (lista stron, podstron, dokumentów, aplikacji).  
-- Uruchomienie wstępnych, prostych testów automatycznych lub Easy Check dla najważniejszych stron lub dokumentów.
+- Uruchomienie wstępnych, prostych testów, testów automatycznych wybranych stron lub dokumentów.
 
 ---
 

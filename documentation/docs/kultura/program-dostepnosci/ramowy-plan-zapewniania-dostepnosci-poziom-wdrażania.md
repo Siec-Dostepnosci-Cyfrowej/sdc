@@ -4,11 +4,11 @@ title: Ramowy plan działania na rzecz zapewniania dostępności cyfrowej
 description: Przedstawia propozycje planu działania
 sidebar_label: Ramowy plan - poziom wdrażania
 sidebar_position: 5
-keywords: [plan działania]
-tags: [plan działania]
+keywords: [kultura organizacyjna, zarządzanie, plan działania, plan pracy]
+tags: [kultura organizacyjna, zarządzanie, plan działania, plan pracy]
 opracowanie: Anna Czekalska, Stefan Wajda
 data_zgloszenia: 21 listopada 2025 r.
-ostatnia_aktualizacja: 21 listopada 2025 r.
+ostatnia_aktualizacja: 21 stycznia 2026 r.
 wersja_robocza: true
 ---
 
@@ -21,7 +21,7 @@ wersja_robocza: true
 Zapewnienie spójnej, dostępnej cyfrowo komunikacji z odbiorcami i wewnątrz organizacji.
 
 ### Działania
-- Wdrożenie standardów dostępnej komunikacji (język prosty, dostępne pliki, dostępne treści web).  
+- Wdrożenie standardów dostępnej komunikacji (dostępne treści internetowe,  dostępne pliki, prosty język).  
 - Utrwalenie procedury publikacji – w tym kontroli dostępności materiałów przed publikacją.  
 - Udostępnienie ujednoliconych szablonów: komunikatów, ogłoszeń, dokumentów, grafik alternatywnych.  
 - Zapewnienie wszystkich wymaganych mechanizmów kontaktu, w tym formularza „Zgłoś problem z dostępnością”.  
@@ -30,7 +30,7 @@ Zapewnienie spójnej, dostępnej cyfrowo komunikacji z odbiorcami i wewnątrz or
 
 ---
 
-## 2. Wsparcie (Support)
+## 2. Wsparcie
 
 ### Cel  
 Zapewnienie użytkownikom i pracownikom sprawnie działającego systemu wsparcia w zakresie dostępności.
@@ -45,7 +45,7 @@ Zapewnienie użytkownikom i pracownikom sprawnie działającego systemu wsparcia
 
 ---
 
-## 3. Personel (People)
+## 3. Pracownicy
 
 ### Cel  
 Zbudowanie zespołu i struktury kompetencyjnej umożliwiającej realizację zadań w zakresie dostępności.
@@ -60,22 +60,22 @@ Zbudowanie zespołu i struktury kompetencyjnej umożliwiającej realizację zada
 
 ---
 
-## 4. Zaopatrzenie (Procurement)
+## 4. Zaopatrzenie
 
 ### Cel  
 Zapewnienie, aby zakupy technologiczne i usługowe były zgodne ze standardami dostępności.
 
 ### Działania
-- Aktualizacja wewnętrznych wzorów umów i SIWZ o wymagania dostępności (EN 301 549, WCAG 2.1/2.2 AA).  
+- Aktualizacja wewnętrznych wzorów umów i SIWZ o wymagania dostępności (PN ETSI EN 301 549, WCAG 2.1/2.2 AA).  
 - Wprowadzenie obowiązku dołączania ACR/VPAT lub równoważnych deklaracji.  
 - Włączenie kryteriów dostępności do oceny ofert.  
-- Stworzenie listy kontrolnej dla zakupów i checklisty odbiorczej.  
+- opfracowanie listy kontrolnej dla zakupów i listy kontrolnej do odbioru.   
 - Uruchomienie procedury retestu przy odbiorze produktów/usług.  
 - Edukowanie osób prowadzących postępowania zakupowe.
 
 ---
 
-## 5. Wiedza i umiejętności (Knowledge & Skills)
+## 5. Wiedza i umiejętności 
 
 ### Cel  
 Rozwijanie kompetencji niezbędnych do tworzenia, testowania i utrzymywania dostępnych usług cyfrowych.
@@ -85,12 +85,12 @@ Rozwijanie kompetencji niezbędnych do tworzenia, testowania i utrzymywania dost
 - Opracowanie wewnętrznego planu szkoleń (moduły obowiązkowe i uzupełniające).  
 - Zapewnienie dostępu do materiałów e-learningowych i mini-poradników.  
 - Wprowadzenie krótkich szkoleń stanowiskowych dla nowych pracowników.  
-- Rozpoczęcie udziału w mikropoświadczeniach (np. „Twórca dostępnych dokumentów”, „Tester Easy Check”).  
+- Rozpoczęcie udziału w mikropoświadczeniach (np. „Twórca dostępnych dokumentów”, „Tester dostępności cyfrowej stron internetowych”).  
 - Dokumentowanie ukończonych szkoleń oraz efektywności działań edukacyjnych.
 
 ---
 
-## 6. Cykl życia TIK (ICT Lifecycle)
+## 6. Cykl życia TIK 
 
 ### Cel  
 Zarządzanie dostępnością na każdym etapie cyklu życia usług i systemów cyfrowych.
@@ -101,18 +101,18 @@ Zarządzanie dostępnością na każdym etapie cyklu życia usług i systemów c
 - Wprowadzenie minimalnych wymagań dostępności dla wszystkich nowych systemów i modernizacji.  
 - Wprowadzenie obowiązku testów: automatycznych, ręcznych i użytkowników z niepełnosprawnościami (w wybranych projektach).  
 - Stworzenie rejestru zasobów cyfrowych z przypisaniem właścicieli zasobów.  
-- Regularne przeglądy i retesty (np. kwartalne automatyczne skanowanie, testy ręczne dla kluczowych usług).  
+- Regularne przeglądy i retesty (np. kwartalne automatyczne walidowanie, testy ręczne dla kluczowych usług). 
 
 ---
 
-## 7. Zarządzanie i kultura organizacyjna (Governance & Culture)
+## 7. Zarządzanie i kultura organizacyjna 
 
 ### Cel  
 Utrwalenie dostępności cyfrowej jako stałego elementu zarządzania instytucją.
 
 ### Działania
 - Uaktualnienie Polityki dostępności cyfrowej o zakres wdrażanych rozwiązań systemowych.  
-- Wprowadzenie wskaźników monitorowania (KPI) i zasad sprawozdawczości wewnętrznej.  
+- Wprowadzenie wskaźników monitorowania i zasad sprawozdawczości wewnętrznej.  
 - Włączenie dostępności do cyklu zarządzania strategią i ryzykiem organizacyjnym.  
 - Przeprowadzenie corocznej samooceny dojrzałości (wg modelu W3C lub DIMM).  
 - Zapewnienie cyklicznych raportów dla kierownictwa – postępy, bariery, potrzeby.  

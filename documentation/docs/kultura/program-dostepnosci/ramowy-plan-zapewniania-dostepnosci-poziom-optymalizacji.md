@@ -4,8 +4,8 @@ title: Ramowy plan działania na rzecz zapewniania dostępności cyfrowej
 description: Przedstawia propozycje planu działania
 sidebar_label: Ramowy plan - poziom optymalizacji
 sidebar_position: 6
-keywords: [plan działania]
-tags: [plan działania]
+keywords: [kultura organizacyjna, zarządzanie, plan działania, plan pracy]
+tags: [kultura organizacyjna, zarządzanie, plan działania, plan pracy]
 opracowanie: Anna Czekalska, Stefan Wajda
 data_zgloszenia: 21 listopada 2025 r.
 ostatnia_aktualizacja: 21 listopada 2025 r.
@@ -23,9 +23,9 @@ Udoskonalenie dojrzałych, spójnych i w pełni zintegrowanych standardów komun
 ### Działania  
 - Aktualizacja standardów komunikacji o nowe wymagania (np. WCAG 2.2, język prosty na poziomie eksperckim).  
 - Wprowadzenie mechanizmów automatyzacji kontroli dostępności treści (skanery, walidatory).  
-- Integracja procesów publikacji z systemami workflow (akceptacje, wersjonowanie, listy kontrolne).  
+- Integracja procesów publikacji z systemami przepływu pracy (akceptacje, wersjonowanie, listy kontrolne).  
 - Opracowanie i wdrażanie „biblioteki komponentów komunikacyjnych”: gotowe, dostępne moduły treści.  
-- Rozszerzenie dostępnych kanałów komunikacji o nowe media (podcasty, transmisje hybrydowe, wideo dostępne).  
+- Rozszerzenie dostępnych kanałów komunikacji o nowe media (podkasty, transmisje hybrydowe, wideo dostępne).  
 - Wprowadzenie systematycznych przeglądów jakości komunikacji w cyklach kwartalnych.
 
 ---
@@ -39,13 +39,13 @@ Zapewnienie wysokiej jakości wsparcia użytkowników i pracowników opartego na
 - Rozszerzenie wielopoziomowego systemu wsparcia (I/II/III linia) o zaawansowane scenariusze reagowania.  
 - Integracja rejestru zgłoszeń z systemem zarządzania incydentami (np. JIRA, GLPI, ServiceDesk).  
 - Analiza trendów zgłoszeń i stosowanie predykcji (np. identyfikacja obszarów powtarzalnych barier).  
-- Wprowadzenie SLA dla obsługi zgłoszeń problemów z dostępnością.  
+- Wprowadzenie SLA (gwarantowany poziom usług) dla obsługi zgłoszeń problemów z dostępnością.  
 - Udoskonalenie przewodników i baz wiedzy dla użytkowników – FAQ, scenariusze „krok po kroku”.  
 - Wykonanie co najmniej jednego audytu jakości wsparcia rocznie.
 
 ---
 
-## 3. Personel 
+## 3. Pracownicy
 
 ### Cel  
 Rozwój dojrzałego ekosystemu kompetencji oraz utrwalenie ról i odpowiedzialności.
@@ -66,7 +66,7 @@ Rozwój dojrzałego ekosystemu kompetencji oraz utrwalenie ról i odpowiedzialno
 Skuteczne, konsekwentne i mierzalne wdrażanie dostępności w całym procesie zakupowym oraz u dostawców.
 
 ### Działania  
-- Wprowadzenie wewnętrznych standardów zakupowych (template pack) obejmujących całość cyklu zamówienia.  
+- Wprowadzenie wewnętrznych standardów zakupowych obejmujących całość cyklu zamówienia.  
 - Rozszerzenie wymagań dostępności o testy praktyczne, prototypy, deklaracje techniczne i audyty dostawcy.  
 - Stworzenie „listy zaufanych dostawców” spełniających wymogi dostępności.  
 - Integracja dostępności z oceną ryzyka zakupowego.  
@@ -82,7 +82,7 @@ Budowa zaawansowanego systemu edukacyjnego, opartego na ścieżkach rozwoju, dow
 
 ### Działania  
 - Wprowadzenie regularnych modułów szkoleniowych (cykle kwartalne, roczne ścieżki doskonalenia).  
-- Rozszerzenie biblioteki materiałów o tematy specjalistyczne (formularze, multimedia, testowanie AT, RWD, UX).  
+- Rozszerzenie biblioteki materiałów o tematy specjalistyczne (formularze, multimedia, testowanie technologii wspomagających, RWD, UX).  
 - Regularna ocena efektywności szkoleń poprzez testy kompetencji i obserwację pracy.  
 - Organizowanie cyklicznych warsztatów eksperckich oraz szkoleń wewnętrznych prowadzonych przez własnych specjalistów.  
 - Odświeżanie wiedzy co 12–18 miesięcy (aktualizacje standardów WCAG, EN 301 549, praktyk audytowych).  
@@ -96,13 +96,13 @@ Budowa zaawansowanego systemu edukacyjnego, opartego na ścieżkach rozwoju, dow
 Optymalizacja procesów projektowania, wdrażania i utrzymania z uwzględnieniem dostępności jako stałego kryterium jakości.
 
 ### Działania  
-- Integracja testów dostępności z pipeline CI/CD (procesy automatyczne).  
+- Integracja testów dostępności z przepływem CI/CD (procesy automatyczne).  
 - Regularne audyty systemów cyfrowych: co najmniej raz na rok dla kluczowych usług.  
 - Udoskonalenie rejestru zasobów (z przypisaniem właścicieli, dat testów, wyników i planów naprawczych).  
 - Wprowadzenie zaawansowanej matrycy oceny ryzyka dla usług cyfrowych.  
 - Optymalizacja procesów zmian: każda zmiana przechodzi testy dostępności przed wdrożeniem.  
 - Systematyczne skanowanie automatyczne + ręczne testy ekspertów + testy z użytkownikami.  
-- Wdrożenie praktyk „shift-left accessibility” – dostępność od początku projektu.
+- Wdrożenie praktyk - dostępność od początku projektu.
 
 ---
 
@@ -117,6 +117,6 @@ Trwałe osadzenie dostępności w systemie zarządzania, budżetowaniu, planowan
 - Rozbudowa wskaźników (KPI) i mierników efektywności (np. wskaźnik naprawionych błędów, czas zamknięcia zgłoszenia).  
 - Wprowadzenie raportów kwartalnych dla kierownictwa i przeglądów strategicznych.  
 - Organizowanie kampanii na rzecz kultury dostępności – dni dostępności, konkursy, webinary, przykłady sukcesów.  
-- Ustanowienie mechanizmu ciągłego doskonalenia (cykl PDCA).  
+- Ustanowienie mechanizmu ciągłego doskonalenia.  
 - Zacieśnienie współpracy między jednostkami – sieć ambasadorów dostępności.
 

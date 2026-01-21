@@ -4,15 +4,15 @@ title: Wzór procedury tworzenia i zatwierdzania rocznego planu działania w ma�
 description: Wzór procedury tworzenia planu działania na rzecz dostępności cyfrowej
 sidebar_label: Procedura - mały podmiot
 sidebar_position: 3
-keywords: [procedura]
-tags: [procedura]
+keywords: [procedura,kultura organizacyjna, zarządzanie, plan działania]
+tags: [procedura,kultura organizacyjna, zarządzanie, plan działania]
 opracowanie: Anna Czekalska, Stefan Wajda
 data_zgloszenia: 21 listopada 2025 r.
-ostatnia_aktualizacja: 21 listopada 2025 r.
+ostatnia_aktualizacja: 21 stycznia 2026 r.
 wersja_robocza: true
 ---
 
-**OPS, szkoła, biblioteka, dom kultury**
+**urząd gminy, szkoła, przedszkole, biblioteka publiczna, dom kultury, muzeum regionalne, ośrodek sportu i rekreacji, gminny/miejski ośrodek pomocy społecznej, dom pomocy społecznej, powiatowy urząd pracy, straż gminna/miejska, policja, itp.**
 
 ---
 
@@ -182,7 +182,7 @@ Dotyczy wszystkich pracowników realizujących zadania związane z tworzeniem do
 **Działania:**
 - podsumowanie wykonanych zadań,  
 - identyfikacja działań do poprawy,  
-- przygotowanie rocznego podsumowania (1 strona).
+- przygotowanie rocznego podsumowania.
 
 **Artefakt:**
 - raport z realizacji planu.
@@ -190,10 +190,10 @@ Dotyczy wszystkich pracowników realizujących zadania związane z tworzeniem do
 ---
 
 ## 6. Niezbędne dokumenty i narzędzia
-- krótki szablon planu działania (2–3 strony),  
+- krótki szablon planu działania,   
 - prosty formularz zbierania propozycji działań,  
 - tabela postępów,  
-- wyniki prostych testów dostępności (Easy Check),  
+- wyniki prostych testów dostępności,  
 - podstawowy rejestr zgłoszeń dostępności (opcjonalnie).
 
 ---
