@@ -8,7 +8,7 @@ keywords: [kultura organziacyjna, zarządzanie, koordynator ds. dostępności cy
 tags: [kultura organziacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępnośi cyfrowej, koordynacja dostępnością cyfrową]
 opracowanie: Stefan Wajda
 data_zgloszenia: 21 grudnia 2025 r.
-ostatnia_aktualizacja: 21 grudnia 2025 r.
+ostatnia_aktualizacja: 21 stycznia 2026 r.
 wersja_robocza: true
 ---
 
