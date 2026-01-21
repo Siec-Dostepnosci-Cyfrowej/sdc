@@ -1,0 +1,82 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "id": "https://ckdc.gov.pl/credentials/PL-ACC-016_Tester-obsługi-strony-WWW-za-pomocą-czytnika-ekranu",
+  "type": "BadgeClass",
+  "name": {
+    "pl": "Tester obsługi strony WWW za pomocą czytnika ekranu",
+    "en": "Web Accessibility Tester Using Screen Reader"
+  },
+  "description": {
+    "pl": "Mikropoświadczenie potwierdza kompetencje w zakresie testowania stron internetowych przy użyciu czytników ekranu (NVDA, JAWS, VoiceOver), obejmujące ocenę struktury, etykiet, alternatyw tekstowych i kolejności odczytu.",
+    "en": "The microcredential certifies competence in testing websites using screen readers (NVDA, JAWS, VoiceOver), including evaluation of structure, labels, text alternatives, and reading order."
+  },
+  "criteria": {
+    "narrative": {
+      "pl": "Uczestnik potrafi przeprowadzać testy dostępności przy użyciu czytnika ekranu, analizować strukturę treści i elementy interfejsu, identyfikować bariery i raportować błędy. Ocenie podlega raport testowy i praktyczna demonstracja umiejętności.",
+      "en": "The participant can conduct accessibility tests using a screen reader, analyze content structure and interface elements, identify barriers, and report issues. Evaluation includes a test report and a practical demonstration."
+    }
+  },
+  "learningOutcomes": {
+    "knowledge": [
+      "Zna zasady działania czytników ekranu i ich współpracy z przeglądarkami internetowymi.",
+      "Rozumie sposób korzystania z treści cyfrowych przez osoby niewidome.",
+      "Zna kluczowe kryteria sukcesu WCAG 2.2 dotyczące nawigacji i odczytu treści.",
+      "Zna różnicę między dostępnością wizualną a semantyczną."
+    ],
+    "skills": [
+      "Korzysta z czytnika ekranu (NVDA, JAWS, VoiceOver) do testowania serwisów WWW.",
+      "Analizuje strukturę nagłówków, list, linków i formularzy.",
+      "Weryfikuje poprawność alternatywnych opisów, etykiet i tytułów elementów.",
+      "Sprawdza kolejność fokusu i odczytu treści.",
+      "Dokumentuje wyniki testów i przekazuje rekomendacje zespołom redakcyjnym lub technicznym."
+    ],
+    "socialCompetence": [
+      "Rozumie perspektywę użytkowników z niepełnosprawnością wzroku.",
+      "Promuje empatyczne podejście do projektowania i testowania treści cyfrowych.",
+      "Wspiera zespoły w doskonaleniu dostępności serwisów WWW.",
+      "Dba o rzetelność, precyzję i przejrzystość raportowania błędów."
+    ]
+  },
+  "assessment": {
+    "methods": [
+      "Analiza raportu z testu czytnikiem ekranu.",
+      "Obserwacja praktyczna podczas testu.",
+      "Rozmowa kompetencyjna lub autoocena.",
+      "Test wiedzy o zasadach dostępności i obsłudze czytników ekranu."
+    ]
+  },
+  "evidence": {
+    "types": [
+      "Raport z testu strony WWW wykonany przy użyciu czytnika ekranu.",
+      "Nagranie lub zapis ścieżki testu.",
+      "Lista błędów i rekomendacji dla zespołu technicznego.",
+      "Potwierdzenie pozytywnej oceny raportu przez CKDC."
+    ]
+  },
+  "issuer": {
+    "id": "https://ckdc.gov.pl",
+    "type": "Profile",
+    "name": "Centrum Kompetencji Dostępności Cyfrowej (CKDC)",
+    "url": "https://ckdc.gov.pl",
+    "email": "kontakt@ckdc.gov.pl"
+  },
+  "alignment": [
+    {
+      "targetName": "WCAG 2.2 – poziom AA",
+      "targetUrl": "https://www.w3.org/TR/WCAG22/",
+      "targetFramework": "W3C Web Content Accessibility Guidelines"
+    },
+    {
+      "targetName": "EN 301 549 – sekcja 9 Treści internetowe",
+      "targetFramework": "European Accessibility Standard"
+    },
+    {
+      "targetName": "ISO/IEC 40500:2012 – Accessibility Guidelines",
+      "targetFramework": "International Standard"
+    }
+  ],
+  "educationalLevel": "EQF 4",
+  "validityPeriod": "P3Y",
+  "issuedOn": "2025-11-09",
+  "version": "1.0"
+}

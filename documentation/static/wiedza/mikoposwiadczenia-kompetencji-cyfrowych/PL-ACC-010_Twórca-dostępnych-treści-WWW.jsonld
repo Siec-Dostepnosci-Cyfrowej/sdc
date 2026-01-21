@@ -1,0 +1,87 @@
+{
+  "@context": "https://europa.eu/schemas/credentials/v1",
+  "id": "https://ckdc.gov.pl/credentials/PL-ACC-010_Twórca-dostępnych-treści-WWW",
+  "type": [
+    "EuropassCredential",
+    "LearningAchievement"
+  ],
+  "name": {
+    "pl": "Mikropoświadczenie: Twórca dostępnych treści WWW"
+  },
+  "description": {
+    "pl": "Mikropoświadczenie potwierdza kompetencje w zakresie tworzenia, publikowania i aktualizacji treści internetowych zgodnych ze standardami dostępności cyfrowej (WCAG 2.2, EN 301 549)."
+  },
+  "issuer": {
+    "id": "https://ckdc.gov.pl/id",
+    "type": "Organization",
+    "name": "Centrum Kompetencji Dostępności Cyfrowej (CKDC)"
+  },
+  "issued": "2025-11-09",
+  "validityPeriod": "P3Y",
+  "learningOutcomes": [
+    {
+      "type": "Knowledge",
+      "description": "Zna podstawowe zasady WCAG 2.2 i EN 301 549 w kontekście treści WWW."
+    },
+    {
+      "type": "Knowledge",
+      "description": "Rozumie znaczenie semantyki HTML i struktury treści."
+    },
+    {
+      "type": "Skill",
+      "description": "Tworzy dostępne treści internetowe w systemach CMS zgodnie z zasadami WCAG 2.2."
+    },
+    {
+      "type": "Skill",
+      "description": "Dodaje teksty alternatywne, podpisy i strukturę nagłówków dla treści WWW."
+    },
+    {
+      "type": "Competence",
+      "description": "Współpracuje z redaktorami i projektantami UX w celu poprawy dostępności."
+    },
+    {
+      "type": "Competence",
+      "description": "Dba o czytelność, prosty język i inkluzywność publikowanych treści."
+    }
+  ],
+  "evidence": [
+    {
+      "type": "WorkSample",
+      "name": {
+        "pl": "Przykładowa strona lub wpis w CMS"
+      },
+      "description": {
+        "pl": "Treść internetowa przygotowana z zachowaniem zasad dostępności (WCAG 2.2, EN 301 549)."
+      }
+    },
+    {
+      "type": "AssessmentReport",
+      "name": {
+        "pl": "Raport z testu automatycznego i manualnego"
+      },
+      "description": {
+        "pl": "Raport oceniający dostępność treści przy użyciu narzędzi WAVE, axe lub Lighthouse."
+      }
+    }
+  ],
+  "framework": {
+    "id": "https://europa.eu/europass/credentials/v1",
+    "name": "Europejskie Ramy Kwalifikacji (EQF)"
+  },
+  "language": "pl",
+  "identifier": "PL-ACC-010",
+  "educationalLevel": "Średniozaawansowany",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "accreditation": {
+    "id": "https://ckdc.gov.pl/accreditations/ckdc",
+    "type": "Accreditation",
+    "name": "Akredytacja CKDC"
+  },
+  "relatedStandard": [
+    "WCAG 2.2",
+    "EN 301 549",
+    "ISO/IEC 40500:2012",
+    "EAA – European Accessibility Act",
+    "Europejskie Ramy Kwalifikacji (EQF)"
+  ]
+}

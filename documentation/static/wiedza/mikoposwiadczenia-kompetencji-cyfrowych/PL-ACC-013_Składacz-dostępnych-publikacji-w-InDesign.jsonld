@@ -1,0 +1,65 @@
+{
+  "@context": "https://europa.eu/schemas/credentials/v1",
+  "id": "PL-ACC-013",
+  "type": "Microcredential",
+  "name": {
+    "pl": "Składacz dostępnych publikacji w InDesign",
+    "en": "Accessible Publications Layout Designer in InDesign"
+  },
+  "description": {
+    "pl": "Mikropoświadczenie potwierdza praktyczne kompetencje w zakresie składu i przygotowania dostępnych publikacji w programie Adobe InDesign, w tym tworzenia struktur dokumentów, oznaczania treści, formatowania i eksportu do formatów PDF/UA oraz ePUB 3. Posiadacz potrafi samodzielnie złożyć publikację zawierającą tekst, tabele, ilustracje i przypisy, zapewniając zgodność z wymaganiami dostępności cyfrowej oraz standardami wydawniczymi."
+  },
+  "language": [
+    "pl"
+  ],
+  "learningOutcomes": {
+    "knowledge": [
+      "Zna proces przygotowania dostępnych publikacji w InDesign.",
+      "Zna standardy PDF/UA i ePUB 3 oraz ich wymagania techniczne.",
+      "Rozumie zasady oznaczania struktury dokumentów i roli tagów.",
+      "Zna podstawy kontroli jakości i testowania publikacji cyfrowych."
+    ],
+    "skills": [
+      "Wykonuje skład publikacji zgodnie z wytycznymi dostępności.",
+      "Stosuje style i metadane w celu zachowania spójności treści.",
+      "Wykonuje testy walidacyjne i usuwa błędy dostępności.",
+      "Współpracuje z projektantem publikacji i redaktorem treści.",
+      "Przygotowuje publikacje do dystrybucji w formatach dostępnych cyfrowo."
+    ],
+    "responsibility": [
+      "Dba o jakość i dostępność publikowanych materiałów.",
+      "Przestrzega standardów redakcyjnych i technicznych.",
+      "Rozumie znaczenie pracy zespołowej w procesie publikacyjnym.",
+      "Wspiera współpracowników w zakresie wdrażania zasad dostępności."
+    ]
+  },
+  "assessment": {
+    "methods": [
+      "Analiza projektu publikacji (wizualna i techniczna).",
+      "Test automatyczny PAC i EPUBCheck.",
+      "Rozmowa ewaluacyjna dotycząca procesu pracy i zastosowanych technik."
+    ],
+    "evidence": [
+      "Kompletna publikacja złożona w Adobe InDesign.",
+      "Plik wynikowy PDF/UA lub ePUB 3.",
+      "Raport z testu PAC lub EPUBCheck bez błędów krytycznych.",
+      "Opis procesu przygotowania publikacji i wprowadzonych usprawnień."
+    ]
+  },
+  "eqfLevel": "5",
+  "issuedBy": {
+    "name": "Centrum Kompetencji Dostępności Cyfrowej (CKDC)",
+    "type": "publicAuthority",
+    "country": "PL"
+  },
+  "accreditation": {
+    "standard": "WCAG 2.2, PDF/UA, ePUB 3.3, EN 301 549, EAA",
+    "validityPeriod": "4 lata"
+  },
+  "metadata": {
+    "version": "1.0",
+    "dateCreated": "2025-11-09",
+    "creator": "Centrum Kompetencji Dostępności Cyfrowej (CKDC)",
+    "format": "application/ld+json"
+  }
+}

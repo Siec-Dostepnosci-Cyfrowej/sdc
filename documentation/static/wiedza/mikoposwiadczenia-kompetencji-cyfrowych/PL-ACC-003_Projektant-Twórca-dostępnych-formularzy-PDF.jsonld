@@ -1,0 +1,82 @@
+{
+  "@context": "https://europa.eu/schemas/credentials/v1",
+  "id": "https://ckdc.gov.pl/credentials/PL-ACC-003_Projektant-Twórca-dostępnych-formularzy-PDF",
+  "type": [
+    "EuropassCredential",
+    "LearningAchievement"
+  ],
+  "name": {
+    "pl": "Mikropoświadczenie: Projektant / Twórca dostępnych formularzy PDF"
+  },
+  "description": {
+    "pl": "Mikropoświadczenie potwierdza kompetencje w zakresie projektowania, tworzenia i testowania dostępnych formularzy interaktywnych w formacie PDF, zgodnych z wymaganiami PDF/UA – ISO 14289 oraz zasadami WCAG 2.2."
+  },
+  "issuer": {
+    "id": "https://ckdc.gov.pl/id",
+    "type": "Organization",
+    "name": "Centrum Kompetencji Dostępności Cyfrowej (CKDC)"
+  },
+  "issued": "2025-11-09",
+  "validityPeriod": "P4Y",
+  "learningOutcomes": [
+    {
+      "type": "Knowledge",
+      "description": "Zna zasady projektowania dostępnych formularzy interaktywnych."
+    },
+    {
+      "type": "Knowledge",
+      "description": "Rozumie wymagania PDF/UA oraz kryteria sukcesu WCAG 2.2 dotyczące formularzy."
+    },
+    {
+      "type": "Skill",
+      "description": "Tworzy dostępne formularze w Adobe Acrobat Pro lub innych narzędziach."
+    },
+    {
+      "type": "Skill",
+      "description": "Konfiguruje kolejność nawigacji i właściwości odczytu formularza."
+    },
+    {
+      "type": "Competence",
+      "description": "Dba o dostępność procesów cyfrowych i współpracuje z projektantami dokumentów."
+    }
+  ],
+  "evidence": [
+    {
+      "type": "AssessmentReport",
+      "name": {
+        "pl": "Raport z testu PAC 2024"
+      },
+      "description": {
+        "pl": "Raport z testu potwierdzający zgodność formularza PDF z wymaganiami PDF/UA."
+      }
+    },
+    {
+      "type": "WorkSample",
+      "name": {
+        "pl": "Przykładowy formularz PDF/UA"
+      },
+      "description": {
+        "pl": "Formularz zawierający różne typy pól, etykiety i logiczną strukturę odczytu."
+      }
+    }
+  ],
+  "framework": {
+    "id": "https://europa.eu/europass/credentials/v1",
+    "name": "Europejskie Ramy Kwalifikacji (EQF)"
+  },
+  "language": "pl",
+  "identifier": "PL-ACC-003",
+  "educationalLevel": "Zaawansowany",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "accreditation": {
+    "id": "https://ckdc.gov.pl/accreditations/ckdc",
+    "type": "Accreditation",
+    "name": "Akredytacja CKDC"
+  },
+  "relatedStandard": [
+    "WCAG 2.2",
+    "EN 301 549",
+    "PDF/UA – ISO 14289",
+    "Europejskie Ramy Kwalifikacji (EQF)"
+  ]
+}

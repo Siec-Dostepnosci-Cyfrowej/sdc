@@ -1,0 +1,86 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "id": "https://ckdc.gov.pl/credentials/PL-ACC-017_Tester-obsługi-złożonych-komponentów-strony",
+  "type": "BadgeClass",
+  "name": {
+    "pl": "Tester obsługi złożonych komponentów strony WWW",
+    "en": "Tester of Complex Web Components Accessibility"
+  },
+  "description": {
+    "pl": "Mikropoświadczenie potwierdza kompetencje w zakresie testowania dostępności złożonych komponentów stron internetowych (menu, karty, akordeony, karuzele, modale, galerie, elementy JavaScript) z wykorzystaniem klawiatury, czytników ekranu i narzędzi deweloperskich.",
+    "en": "The microcredential confirms competence in testing accessibility of complex web components (menus, tabs, accordions, carousels, modals, galleries, JavaScript elements) using keyboard, screen readers, and developer tools."
+  },
+  "criteria": {
+    "narrative": {
+      "pl": "Osoba potrafi testować dostępność komponentów interaktywnych przy użyciu klawiatury i czytników ekranu, analizować zastosowanie ról i atrybutów ARIA, oceniać zachowanie fokusu, komunikaty aria-live oraz zgodność z WCAG 2.2. Ocenie podlega raport testowy i demonstracja praktyczna.",
+      "en": "The participant can test interactive component accessibility using keyboard and screen readers, analyze ARIA roles and attributes, assess focus management and aria-live messages, and verify WCAG 2.2 compliance. Evaluation is based on a test report and practical demonstration."
+    }
+  },
+  "learningOutcomes": {
+    "knowledge": [
+      "Zna zasady dostępności interaktywnych komponentów WWW (ARIA, WCAG 2.2).",
+      "Rozumie mechanizmy nawigacji klawiaturą i zarządzania fokusem.",
+      "Zna podstawowe wzorce ARIA (menu, dialog, tab, carousel, accordion).",
+      "Rozumie różnice między testami automatycznymi i manualnymi w kontekście komponentów dynamicznych."
+    ],
+    "skills": [
+      "Testuje obsługę komponentów z wykorzystaniem klawiatury i czytników ekranu.",
+      "Ocena zachowania elementów interaktywnych w kontekście dostępności.",
+      "Weryfikuje zgodność komponentów z kryteriami WCAG 2.2 i wzorcami WAI-ARIA.",
+      "Sporządza raporty z testów z rekomendacjami dla programistów."
+    ],
+    "socialCompetence": [
+      "Współpracuje z programistami i projektantami UI/UX w zakresie poprawy dostępności.",
+      "Promuje stosowanie wzorców ARIA Authoring Practices.",
+      "Dba o rzetelność i przejrzystość dokumentowania błędów.",
+      "Rozumie perspektywę użytkowników korzystających z technologii wspomagających."
+    ]
+  },
+  "assessment": {
+    "methods": [
+      "Analiza raportu z testu dostępności komponentów.",
+      "Obserwacja praktyczna testów w środowisku przeglądarkowym.",
+      "Rozmowa kompetencyjna lub test wiedzy o ARIA i WCAG.",
+      "Autoocena kompetencji."
+    ]
+  },
+  "evidence": {
+    "types": [
+      "Raport z testu komponentu (np. karuzeli, modalu, menu) z oceną dostępności.",
+      "Zrzuty ekranu lub nagranie wideo z przebiegu testu.",
+      "Lista błędów i rekomendacji z przypisaniem do kryteriów WCAG.",
+      "Pozytywna ocena raportu przez komisję CKDC."
+    ]
+  },
+  "issuer": {
+    "id": "https://ckdc.gov.pl",
+    "type": "Profile",
+    "name": "Centrum Kompetencji Dostępności Cyfrowej (CKDC)",
+    "url": "https://ckdc.gov.pl",
+    "email": "kontakt@ckdc.gov.pl"
+  },
+  "alignment": [
+    {
+      "targetName": "WCAG 2.2 – poziom AA",
+      "targetUrl": "https://www.w3.org/TR/WCAG22/",
+      "targetFramework": "W3C Web Content Accessibility Guidelines"
+    },
+    {
+      "targetName": "WAI-ARIA 1.2 – Authoring Practices",
+      "targetUrl": "https://www.w3.org/TR/wai-aria-practices-1.2/",
+      "targetFramework": "ARIA Authoring Practices"
+    },
+    {
+      "targetName": "EN 301 549 – sekcja 9 Treści internetowe",
+      "targetFramework": "European Accessibility Standard"
+    },
+    {
+      "targetName": "ISO/IEC 40500:2012 – Accessibility Guidelines",
+      "targetFramework": "International Standard"
+    }
+  ],
+  "educationalLevel": "EQF 5",
+  "validityPeriod": "P3Y",
+  "issuedOn": "2025-11-09",
+  "version": "1.0"
+}

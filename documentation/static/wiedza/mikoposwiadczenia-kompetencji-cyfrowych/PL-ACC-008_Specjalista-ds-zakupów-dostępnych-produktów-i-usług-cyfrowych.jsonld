@@ -1,0 +1,87 @@
+{
+  "@context": "https://europa.eu/schemas/credentials/v1",
+  "id": "https://ckdc.gov.pl/credentials/PL-ACC-008_Specjalista-ds-zakupów-dostępnych-produktów-i-usług-cyfrowych",
+  "type": [
+    "EuropassCredential",
+    "LearningAchievement"
+  ],
+  "name": {
+    "pl": "Mikropoświadczenie: Specjalista ds. zakupów dostępnych produktów i usług cyfrowych"
+  },
+  "description": {
+    "pl": "Mikropoświadczenie potwierdza kompetencje w zakresie planowania, przygotowywania i realizacji zakupów produktów i usług cyfrowych zgodnych z wymaganiami dostępności (ustawa o dostępności cyfrowej, EAA, EN 301 549)."
+  },
+  "issuer": {
+    "id": "https://ckdc.gov.pl/id",
+    "type": "Organization",
+    "name": "Centrum Kompetencji Dostępności Cyfrowej (CKDC)"
+  },
+  "issued": "2025-11-09",
+  "validityPeriod": "P3Y",
+  "learningOutcomes": [
+    {
+      "type": "Knowledge",
+      "description": "Zna podstawy prawne i normy dotyczące dostępności w zamówieniach publicznych."
+    },
+    {
+      "type": "Knowledge",
+      "description": "Rozumie strukturę i wymagania normy EN 301 549."
+    },
+    {
+      "type": "Skill",
+      "description": "Opracowuje opisy przedmiotu zamówienia z uwzględnieniem wymagań dostępności."
+    },
+    {
+      "type": "Skill",
+      "description": "Weryfikuje dokumentację i deklaracje dostępności dostawców."
+    },
+    {
+      "type": "Competence",
+      "description": "Promuje zasadę dostępnych zakupów i odpowiedzialnych zamówień publicznych."
+    },
+    {
+      "type": "Competence",
+      "description": "Monitoruje zgodność dostarczonych rozwiązań z wymaganiami dostępności."
+    }
+  ],
+  "evidence": [
+    {
+      "type": "WorkSample",
+      "name": {
+        "pl": "Opis przedmiotu zamówienia uwzględniający wymagania dostępności"
+      },
+      "description": {
+        "pl": "Przykład dokumentacji przetargowej z poprawnie określonymi wymaganiami dostępności."
+      }
+    },
+    {
+      "type": "AssessmentReport",
+      "name": {
+        "pl": "Analiza oferty lub raport z oceny zgodności z EN 301 549"
+      },
+      "description": {
+        "pl": "Raport z oceny ofert lub dostarczonych produktów pod kątem spełniania wymagań dostępności."
+      }
+    }
+  ],
+  "framework": {
+    "id": "https://europa.eu/europass/credentials/v1",
+    "name": "Europejskie Ramy Kwalifikacji (EQF)"
+  },
+  "language": "pl",
+  "identifier": "PL-ACC-008",
+  "educationalLevel": "Średniozaawansowany",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "accreditation": {
+    "id": "https://ckdc.gov.pl/accreditations/ckdc",
+    "type": "Accreditation",
+    "name": "Akredytacja CKDC"
+  },
+  "relatedStandard": [
+    "EN 301 549",
+    "WCAG 2.2",
+    "ISO/IEC 40500:2012",
+    "EAA – European Accessibility Act",
+    "Europejskie Ramy Kwalifikacji (EQF)"
+  ]
+}

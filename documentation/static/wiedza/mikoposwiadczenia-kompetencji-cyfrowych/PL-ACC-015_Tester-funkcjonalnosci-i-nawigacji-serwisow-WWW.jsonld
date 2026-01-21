@@ -1,0 +1,82 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "id": "https://ckdc.gov.pl/credentials/PL-ACC-015_Tester-funkcjonalnosci-i-nawigacji-serwisow-WWW",
+  "type": "BadgeClass",
+  "name": {
+    "pl": "Tester funkcjonalności i nawigacji serwisów WWW",
+    "en": "Tester of Website Functionality and Navigation"
+  },
+  "description": {
+    "pl": "Mikropoświadczenie potwierdza kompetencje w zakresie testowania funkcjonalności, nawigacji i interakcji w serwisach WWW z perspektywy użytkownika, zgodnie z zasadami dostępności WCAG 2.2 AA.",
+    "en": "The microcredential certifies competence in testing the functionality, navigation, and interactivity of websites from a user perspective, in accordance with WCAG 2.2 AA accessibility guidelines."
+  },
+  "criteria": {
+    "narrative": {
+      "pl": "Uczestnik potrafi testować dostępność funkcjonalną serwisów WWW, analizować działanie komponentów interaktywnych, struktur nawigacyjnych i mechanizmów obsługi klawiaturą. Ocenie podlega raport testowy oraz poprawność zidentyfikowanych błędów.",
+      "en": "The participant can test the functional accessibility of websites, analyze the behavior of interactive components, navigation structures, and keyboard operation mechanisms. Evaluation is based on the test report and the accuracy of identified issues."
+    }
+  },
+  "learningOutcomes": {
+    "knowledge": [
+      "Zna kryteria sukcesu WCAG 2.2 dotyczące nawigacji i interakcji (2.1.1, 2.1.2, 2.4.3, 2.4.7, 3.2.3).",
+      "Rozumie zasady projektowania przyjaznych i dostępnych interfejsów użytkownika.",
+      "Zna różnice między błędami funkcjonalnymi, technicznymi i redakcyjnymi.",
+      "Rozumie znaczenie testowania manualnego w procesie zapewniania dostępności."
+    ],
+    "skills": [
+      "Wykonuje testy obsługi serwisu klawiaturą i technologiami wspomagającymi.",
+      "Analizuje strukturę stron i ścieżki użytkownika.",
+      "Weryfikuje poprawność działania elementów interaktywnych (menu, karuzele, formularze, modale).",
+      "Sporządza raporty z testów i rekomendacje naprawcze.",
+      "Komunikuje błędy w sposób zrozumiały dla zespołów projektowych."
+    ],
+    "socialCompetence": [
+      "Dba o jakość doświadczenia użytkowników serwisu.",
+      "Współpracuje z zespołem projektowym i audytowym.",
+      "Działa zgodnie z zasadami etyki testera (rzetelność, dokumentacja, przejrzystość).",
+      "Promuje dobre praktyki projektowania dostępnych interfejsów."
+    ]
+  },
+  "assessment": {
+    "methods": [
+      "Analiza raportu z testu funkcjonalności i nawigacji.",
+      "Obserwacja pracy testera podczas ćwiczeń.",
+      "Rozmowa kompetencyjna lub autoocena.",
+      "Ocena komunikacji i zrozumienia błędów dostępności."
+    ]
+  },
+  "evidence": {
+    "types": [
+      "Raport z testu funkcjonalności i nawigacji serwisu WWW.",
+      "Lista błędów i rekomendacji dla zespołu projektowego.",
+      "Dokumentacja przebiegu testu (lista kroków, narzędzia, obserwacje).",
+      "Potwierdzenie udziału w ewaluacji CKDC."
+    ]
+  },
+  "issuer": {
+    "id": "https://ckdc.gov.pl",
+    "type": "Profile",
+    "name": "Centrum Kompetencji Dostępności Cyfrowej (CKDC)",
+    "url": "https://ckdc.gov.pl",
+    "email": "kontakt@ckdc.gov.pl"
+  },
+  "alignment": [
+    {
+      "targetName": "WCAG 2.2 – poziom AA",
+      "targetUrl": "https://www.w3.org/TR/WCAG22/",
+      "targetFramework": "W3C Web Content Accessibility Guidelines"
+    },
+    {
+      "targetName": "EN 301 549 – sekcja 9 Treści internetowe",
+      "targetFramework": "European Accessibility Standard"
+    },
+    {
+      "targetName": "ISO/IEC 40500:2012 – Accessibility Guidelines",
+      "targetFramework": "International Standard"
+    }
+  ],
+  "educationalLevel": "EQF 5",
+  "validityPeriod": "P3Y",
+  "issuedOn": "2025-11-09",
+  "version": "1.0"
+}

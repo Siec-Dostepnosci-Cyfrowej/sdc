@@ -1,0 +1,83 @@
+{
+  "@context": "https://europa.eu/schemas/credentials/v1",
+  "id": "https://ckdc.gov.pl/credentials/PL-ACC-006_Redaktor-dostępnych-treści-internetowych",
+  "type": [
+    "EuropassCredential",
+    "LearningAchievement"
+  ],
+  "name": {
+    "pl": "Mikropoświadczenie: Redaktor dostępnych treści internetowych"
+  },
+  "description": {
+    "pl": "Mikropoświadczenie potwierdza kompetencje w zakresie redagowania, weryfikacji i zatwierdzania treści internetowych pod kątem dostępności cyfrowej i jakości komunikacji, zgodnych z zasadami WCAG 2.2 i języka prostego."
+  },
+  "issuer": {
+    "id": "https://ckdc.gov.pl/id",
+    "type": "Organization",
+    "name": "Centrum Kompetencji Dostępności Cyfrowej (CKDC)"
+  },
+  "issued": "2025-11-09",
+  "validityPeriod": "P3Y",
+  "learningOutcomes": [
+    {
+      "type": "Knowledge",
+      "description": "Zna wymagania WCAG 2.2 dotyczące treści nietechnicznych."
+    },
+    {
+      "type": "Knowledge",
+      "description": "Rozumie zasady redakcji i weryfikacji treści dostępnych cyfrowo."
+    },
+    {
+      "type": "Skill",
+      "description": "Analizuje i ocenia treści pod kątem dostępności, czytelności i spójności językowej."
+    },
+    {
+      "type": "Skill",
+      "description": "Koryguje błędy dostępnościowe i formułuje rekomendacje dla autorów."
+    },
+    {
+      "type": "Competence",
+      "description": "Współpracuje z twórcami treści, promuje kulturę dostępnej komunikacji i dba o jakość publikacji."
+    }
+  ],
+  "evidence": [
+    {
+      "type": "AssessmentReport",
+      "name": {
+        "pl": "Raport redakcyjny z oceny dostępności treści"
+      },
+      "description": {
+        "pl": "Raport oceny treści internetowych z rekomendacjami poprawek i wynikami analizy dostępności."
+      }
+    },
+    {
+      "type": "WorkSample",
+      "name": {
+        "pl": "Przykładowe treści po korekcie dostępnościowej"
+      },
+      "description": {
+        "pl": "Fragmenty stron WWW przed i po korekcie dostępności wykonanej przez uczestnika."
+      }
+    }
+  ],
+  "framework": {
+    "id": "https://europa.eu/europass/credentials/v1",
+    "name": "Europejskie Ramy Kwalifikacji (EQF)"
+  },
+  "language": "pl",
+  "identifier": "PL-ACC-006",
+  "educationalLevel": "Średniozaawansowany",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "accreditation": {
+    "id": "https://ckdc.gov.pl/accreditations/ckdc",
+    "type": "Accreditation",
+    "name": "Akredytacja CKDC"
+  },
+  "relatedStandard": [
+    "WCAG 2.2",
+    "EN 301 549",
+    "ISO/IEC 40500:2012",
+    "Plain Language Guidelines",
+    "Europejskie Ramy Kwalifikacji (EQF)"
+  ]
+}
