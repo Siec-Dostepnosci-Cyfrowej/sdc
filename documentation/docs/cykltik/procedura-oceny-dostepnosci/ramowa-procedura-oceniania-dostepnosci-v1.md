@@ -8,7 +8,7 @@ keywords: [cykl życia TIK, dostępność cyfrowa, deklaracja dostępności, prz
 tags: [cykl życia TIK, dostępność cyfrowa, deklaracja dostępności, przegląd dostępności]
 opracowanie: Stefan Wajda 
 data_zgloszenia: 6 listopada 2025 r.
-ostatnia_aktualizacja: 6 listopada 2025 r.
+ostatnia_aktualizacja: 21 stycznia 2026 r.
 wersja_robocza: true
 
 ---
