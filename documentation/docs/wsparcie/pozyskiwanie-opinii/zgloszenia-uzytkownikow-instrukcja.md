@@ -82,7 +82,7 @@ Instrukcja dotyczy wszystkich zgłoszeń:
    - jakie informacje warto podać,  
    - w jakim czasie można spodziewać się odpowiedzi.  
 2. Instrukcja może być umieszczona:
-   - na stronie z deklaracją dostępności,  
+   - na stronie poświęconej dostępności,  
    - w stopce witryny lub przy formularzu „Alert dostępności”.  
 3. Warto zadbać, by instrukcja była dostępna w wersji tekstowej, łatwo czytelnej i zrozumiałej dla wszystkich użytkowników.
 
