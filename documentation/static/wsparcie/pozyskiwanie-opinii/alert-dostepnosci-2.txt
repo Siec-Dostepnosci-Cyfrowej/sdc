@@ -1,7 +1,7 @@
 # Wzór: „Alert dostępności” — prosty formularz zgłaszania problemów z dostępnością
 
 Poniższy kod HTML można umieścić w stopce lub w bloku HTML na każdej stronie serwisu publicznego.  
-Formularz rozwija się po kliknięciu przycisku i umożliwia anonimowe lub formalne zgłoszenie problemu z dostępnością.
+Formularz rozwija się po wybraniu przycisku i umożliwia anonimowe lub formalne zgłoszenie problemu z dostępnością.
 
 ---
 
