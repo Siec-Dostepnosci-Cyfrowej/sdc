@@ -38,7 +38,7 @@ Instrukcja dotyczy wszystkich zgłoszeń:
 1. Każde zgłoszenie przyjęte przez podmiot publiczny powinno zostać **zarejestrowane w Rejestrze zgłoszeń dotyczących dostępności cyfrowej**.  
 2. Użytkownik powinien otrzymać **automatyczne potwierdzenie przyjęcia zgłoszenia**:
    - w przypadku formularza internetowego – komunikat na stronie:  
-     > „Dziękujemy za zgłoszenie. Zostało ono przyjęte do analizy. Odpowiemy w ciągu 7 dni roboczych.”  
+     > „Dziękujemy za zgłoszenie. Otrzymaliśmy je [data]. Odpowiemy w ciągu 7 dni roboczych.”  
    - w przypadku zgłoszenia e-mail – automatyczna wiadomość zwrotna z potwierdzeniem odbioru i numerem sprawy (jeśli system to umożliwia).
 
 ---
