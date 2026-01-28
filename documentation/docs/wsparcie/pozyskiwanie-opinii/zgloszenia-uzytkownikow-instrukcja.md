@@ -100,7 +100,7 @@ Instrukcja dotyczy wszystkich zgłoszeń:
 
 ### 3.7. Mechanizm odwołania
 
-1. Jeśli użytkownik nie jest zadowolony z udzielonej odpowiedzi lub zgłoszenie nie zostało zrealizowane, powinien mieć możliwość **złożenia odwołania**.  
+1. W przypadku uzyskania niepełnej odpowiedzi użytkownik ma możliwość złożenia odwołania.
 2. Informacja o sposobie wniesienia odwołania powinna być podana:
    - w deklaracji dostępności cyfrowej,  
    - w odpowiedzi na formalne żądanie zapewnienia dostępności.  
