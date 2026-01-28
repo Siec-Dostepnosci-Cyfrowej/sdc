@@ -43,7 +43,7 @@ Rejestr powinien być prowadzony przez **osobę lub zespół ds. dostępności c
 | **Rodzaj zgłoszenia** | „Anonimowe” lub „Formalne żądanie zapewnienia dostępności”. |
 | **Kanał zgłoszenia** | Formularz, ePUAP, e-mail, telefon, media społecznościowe, inny. |
 | **Adres podstrony / obszar** | Adres URL lub opis lokalizacji problemu w serwisie. |
-| **Opis problemu** | Krótki opis przeszkody w dostępności (np. brak alternatywnego opisu, niedziałający fokus). |
+| **Opis problemu** | Krótki opis przeszkody w dostępności (np. brak alternatywnego opisu, brakujący wizualny status fokus). |
 | **Kategoria problemu** | Typ błędu, np. struktura nagłówków, formularz, multimedia, kontrast, plik PDF, treść. |
 | **Dane kontaktowe zgłaszającego** | Jeżeli dotyczy – np. e-mail, imię i nazwisko. W przypadku zgłoszenia anonimowego – „brak danych”. |
 | **Status sprawy** | np. „W toku”, „Zakończone”, „Oczekuje na odpowiedź”, „Przekazane do działu IT”. |
