@@ -53,7 +53,7 @@ Oprócz ustawowego minimum, zaleca się stosowanie **różnorodnych i aktywnych 
 #### A. Informacje uzyskiwane za pomocą formularzy, ankiet i innych narzędzi interaktywnych
 
 - **Alert dostępności** – niewielki formularz umieszczony na każdej stronie internetowej w witrynie, za pomocą którego użytkownik może **zgłosić problem z dostępnością**.  
-  Formularz powinien umożliwiać zarówno **anonimowe zgłoszenie napotkanego problemu**, jak i **formalny wniosek o zapewnienie dostępności cyfrowej**.  
+  Formularz powinien umożliwiać zarówno **anonimowe zgłoszenie napotkanego problemu**, a także **formalny wniosek o zapewnienie dostępności cyfrowej**.  
   Rekomenduje się, aby przycisk uruchamiający alert był widoczny i dostępny z poziomu klawiatury oraz technologii asystujących.  
 - **Ankieta lub formularz oceny dostępności**, zamieszczony na stronie internetowej (krótki, prosty, dostępny dla wszystkich).  
   Może służyć do zbierania opinii o łatwości korzystania z serwisu lub zrozumiałości treści.  
