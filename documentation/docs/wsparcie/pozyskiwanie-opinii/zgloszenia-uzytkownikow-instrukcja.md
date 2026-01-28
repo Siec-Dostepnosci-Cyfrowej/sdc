@@ -56,7 +56,7 @@ Instrukcja dotyczy wszystkich zgłoszeń:
 ### 3.3. Dokumentacja i analiza zgłoszeń
 
 1. Wszystkie zgłoszenia powinny być dokumentowane w **Rejestrze zgłoszeń** (Załącznik nr 2).  
-2. Raz na kwartał zaleca się przeprowadzenie **analizy powtarzających się problemów**, w celu:
+2. Według harmonogramu przyjętego przez organizacje zaleca się
    - identyfikacji obszarów wymagających poprawy,  
    - wyznaczenia priorytetów działań naprawczych,  
    - oceny skuteczności podejmowanych działań.  
