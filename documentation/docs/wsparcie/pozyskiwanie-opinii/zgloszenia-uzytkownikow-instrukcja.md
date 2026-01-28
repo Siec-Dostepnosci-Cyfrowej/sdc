@@ -131,4 +131,4 @@ Dobrze zaprojektowany proces obsługi zgłoszeń:
 ## 6. Załączniki
 
 1. [**Wzór rejestru zgłoszeń dotyczących dostępności cyfrowej**](zgloszenia-uzytkownikow-wzor-rejestru)  
-2. [Wzór rejestru zgłoszeń dotyczących dostępności cyfrowej, Excel](/wsparcie/pozyskiwanie-opinii/wzor-rejestru-zgloszen-dostepnosci-cyfrowej.xlsx)
+2. [Wzór rejestru zgłoszeń dotyczących dostępności cyfrowej, arkusz kalkulacyjny Microsoft Excel](/wsparcie/pozyskiwanie-opinii/wzor-rejestru-zgloszen-dostepnosci-cyfrowej.xlsx)
