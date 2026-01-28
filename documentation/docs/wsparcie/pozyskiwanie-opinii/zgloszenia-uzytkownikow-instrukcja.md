@@ -84,7 +84,7 @@ Instrukcja dotyczy wszystkich zgłoszeń:
 2. Instrukcja może być umieszczona:
    - na stronie poświęconej dostępności,  
    - w stopce witryny lub przy formularzu „Alert dostępności”.  
-3. Warto zadbać, by instrukcja była dostępna w wersji tekstowej, łatwo czytelnej i zrozumiałej dla wszystkich użytkowników.
+3. Warto zadbać, by instrukcja była dostępna w wersji tekstowej lub innych formach audio-wizualnych, zrozumiałej dla największej grupy użytkowników.
 
 ---
 
