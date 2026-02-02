@@ -1,4 +1,4 @@
-<img width="470" height="626" alt="image" src="https://github.com/user-attachments/assets/83d2e62e-1520-4882-b684-c59e56c2a737" />---
+---
 id: szybka-kontrola-dostepnosci
 title: Wprowadzenie systemu „Szybkiej kontroli dostępności” dla dokumentów urzędowych
 description: XXX
