@@ -4,7 +4,7 @@ title: Projekt zalecenia w sprawie opracowania rocznego planu działań na rzecz
 sidebar_label: Projekt zalecenia
 sidebar_position: 0
 description: Propozycja zalecenia
-keywords: [kultura organizacyjna, zarządzanie, plan działania]
+keywords: [kultura organizacyjna, zarządzanie, plan działania ]
 tags: [kultura organizacyjna, zarządzanie, plan działania]
 opracowanie: Anna Czekalska, Stefan Wajda
 data_zgloszenia: 2 października 2025 r.
@@ -45,7 +45,7 @@ W zakresie dostępności cyfrowej Plan działania na rzecz poprawy zapewniania d
 - Procedury utrzymania dostępności – mechanizmy bieżącej kontroli, aktualizacji oraz testowania nowych treści i systemów.
 - Edukacja i kompetencje – plan szkoleń pracowników (redaktorów treści, informatyków, osób przygotowujących dokumenty) w zakresie dostępności cyfrowej.
 - Mechanizmy zgłaszania problemów – wskazanie procedury i narzędzi, dzięki którym osoby ze szczególnymi potrzebami mogą informować o niedostępności cyfrowej (np. formularz online, adres e-mail, kontakt telefoniczny).
-2. Rekomendowane elementy dodatkowe
+2. **Rekomendowane elementy dodatkowe**
 - Polityka tworzenia nowych zasobów – standardy i wytyczne, które muszą spełniać wszystkie nowo tworzone serwisy, aplikacje i dokumenty cyfrowe.
 - Testy z udziałem użytkowników – plan przeprowadzania badań użyteczności i dostępności z udziałem osób z niepełnosprawnościami.
 - Wskaźniki monitorowania postępów – np. procent treści zgodnych z WCAG, liczba przeszkolonych pracowników, czas reakcji na zgłoszenie problemu.
