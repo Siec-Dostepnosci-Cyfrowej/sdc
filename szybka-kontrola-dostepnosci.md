@@ -3,7 +3,7 @@ id: szybka-kontrola-dostepnosci
 title: Wprowadzenie systemu „Szybkiej kontroli dostępności” dla dokumentów urzędowych
 description: XXX
 keywords: dokumenty, urząd, szybka, kontrola
-tags: [słowo kluczowe1, słowo kluczowe2]
+tags: dostępność, accessibility, kontrola, dokumenty, komunikacja
 opracowanie: Beata Futerska
 wspolpraca: Damian Żłobicki
 data_zgloszenia: 2 lutego 2026 r.
