@@ -2,7 +2,7 @@
 id: szybka-kontrola-dostepnosci
 title: Wprowadzenie systemu „Szybkiej kontroli dostępności” dla dokumentów urzędowych
 sidebar_position: 0
-sidebar_label: Weryfikacja dostępności treści
+sidebar_label: Szybka kontrola dostępności
 keywords: [szybka-kontrola-dostepnosci]
 tags: [szybka-kontrola-dostepnosci]
 opracowanie: Beata Futerska
@@ -57,8 +57,8 @@ Zapewnienie, aby każdy dokument publikowany online był zgodny z zasadami dost�
 
 #### 1. Załącznik 1 - „Szybka kontrola dostępności”
 1.	Struktura nagłówków – używanie wbudowanych stylów
-- Nagłówek 1, 2, 3. Nagłówek 1 jako tytuł wewnątrz dokumentu
-- kolejne zgodnie z “poziomem informacji”
+    - Nagłówek 1, 2, 3. Nagłówek 1 jako tytuł wewnątrz dokumentu
+    - kolejne zgodnie z “poziomem informacji”
 2.	Formatowanie poprzez style
 3. Teksty alternatywne dla obrazów i table
 4. Odstępy poprzez ustawianie interlinii, nie z entera
