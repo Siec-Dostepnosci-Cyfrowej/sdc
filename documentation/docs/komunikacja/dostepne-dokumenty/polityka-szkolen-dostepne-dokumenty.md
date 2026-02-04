@@ -8,10 +8,9 @@ keywords: [dostępne dokumenty, komunikacja, wiedza i umiejętności]
 tags: [dostępne dokumenty, komunikacja, wiedza i umiejętności]
 opracowanie: Stefan Wajda
 data_zgloszenia: 8 listopada 2025 r.
-data_aktualizacji:  4 lutego 2026 r.
+ostatnia_aktualizacja: 4 lutego 2026 r.
 wersja_robocza: true
 ---
-
 
 ## 1. Cel polityki
 
