@@ -33,7 +33,7 @@ W instytucji zauważono, że informacja o istniejących udogodnieniach dla osób
 - **Cel** – Zapewnienie systematycznej i skutecznej komunikacji w zakresie dostępności cyfrowej poprzez opracowanie kalendarza publikacji i jego realizacji. Szerokie spojrzenie na potrzeby komunikacyjne (w tym konieczne współprace, zespół wykonawczy, budżet, zamówienia) i skoordynowanie działań całej instytucji tak, żeby połączyć potrzeby wszystkich komórek organizacyjnych zaangażowanych w działania powiązane z dostępnością. Kompleksowy zestaw informacji o dostępności instytucji (cyfrowej, architektonicznej, komuikacyjno-informacyjnej itp.), tak aby prezentować pełny wizerunek instytucji i ułatwiać osobom ze specjalnymi potrzebami korzystanie z jej usług.
 - **Grupa docelowa** – Autorzy treści, redaktorzy, weryfikatorzy, twórcy działań związanych z dostępnoscią (wydarzenia, dostosowania architektoniczne, zamówienia itp.), nowi pracownicy instytucji.
 
-## Przykładowy poces realizacji
+## Przykładowy proces realizacji
 1. **Analiza potrzeb informacyjnych** – identyfikacja kluczowych obszarów dostępności cyfrowej.
 2. **Tworzenie kalendarza** – ustalenie harmonogramu publikacji (np. miesięcznego lub kwartalnego).
 3. **Produkcja treści** – przygotowanie materiałów zgodnych z zasadami dostępności.
