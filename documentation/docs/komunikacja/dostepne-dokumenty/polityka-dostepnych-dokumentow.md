@@ -1,6 +1,6 @@
 ---
 id: polityka-dostepnych-dokumentow
-title: Polityka dostępnych dokumentów
+title: Polityka dostępności dokumentów cyfrowych
 sidebar_position: 1
 sidebar_label: Polityka
 description: Organizacja poprzedza wybór oferty oceną dostępności cyfrowej deklarowanej przez oferenta 
@@ -23,6 +23,7 @@ wersja_robocza: true
    - role i odpowiedzialności pracowników,  
    - standardy techniczne i organizacyjne obowiązujące w organizacji,  
    - sposób nadzoru i doskonalenia praktyk w zakresie dostępności.
+3, Polityka ma charakter dokumentu ramowego i stanowi podstawę do opracowywania procedur, instrukcji oraz materiałów szkoleniowych w organizacji.
 
 ---
 
@@ -33,25 +34,28 @@ wersja_robocza: true
    - dokumentów biurowych (np. Word, Excel, PowerPoint),  
    - dokumentów publikowanych w Internecie lub BIP (np. PDF, HTML),  
    - raportów, opracowań, materiałów informacyjnych i promocyjnych.  
-3. Polityka nie dotyczy dokumentów roboczych, które nie są rozpowszechniane ani archiwizowane.
+3. Polityka nie dotyczy dokumentów roboczych, które nie są rozpowszechniane ani archiwizowane 
+   oraz nie stanowią podstawy podejmowania decyzji lub realizacji zadań publicznych.
 
 ---
 
 ## § 3. Podstawy prawne
 
 1. Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.  
-2. Rozporządzenie Ministra Cyfryzacji z dnia 12 kwietnia 2019 r. w sprawie zakresu dostępności cyfrowej.  
-3. Wytyczne **Web Content Accessibility Guidelines (WCAG) 2.1**, poziom AA.  
-4. Wewnętrzne przepisy organizacyjne dotyczące publikowania informacji i zarządzania dokumentami.
+2. Norma EN 301 549 – w zakresie mającym zastosowanie do dokumentów cyfrowych
+3. Wytyczne dla dostępności treści internetowych (WCAG) 2.1 lub nowsze, poziom AA. 
+4. Wewnętrzne przepisy organizacji w zakresie publikowania informacji i zarządzania dokumentami.
 
 ---
 
 ## § 4. Definicje
 
-1. **Dostępność cyfrowa** – cecha dokumentu umożliwiająca jego odczytanie i zrozumienie przez wszystkich odbiorców, niezależnie od rodzaju używanego urządzenia czy ograniczeń funkcjonalnych użytkownika.  
-2. **Dokument dostępny** – dokument elektroniczny opracowany zgodnie z zasadami dostępności, w tym z zachowaniem struktury nagłówków, opisów alternatywnych i właściwego kontrastu.  
-3. **Szablon dostępny** – wzorzec dokumentu zatwierdzony przez Zespół ds. dostępności cyfrowej, spełniający wymogi techniczne i estetyczne dostępności.  
-4. **Zespół ds. dostępności cyfrowej** – zespół koordynujący działania organizacji w zakresie zapewniania dostępności cyfrowej.  
+1. **Dostępność cyfrowa** – właściwość dokumentu umożliwiająca jego odczytanie, zrozumienie i wykorzystanie przez różne osoby, w tym osoby z niepełnosprawnościami, przy użyciu technologii wspomagających i standardowych narzędzi.
+2. **Dokument cyfrowy** – dokument w postaci elektronicznej, wytworzony lub udostępniony przez organizację, niezależnie od formatu pliku.
+3. **Dokument dostępny** – dokument elektroniczny pracowany w sposób umożliwiający użytkownikom skuteczne zapoznanie się z jego treścią przy użyciu technologii wspomagających oraz standardowych narzędzi.  
+4. **Szablon dostępny** – wzorzec dokumentu opracowany zgodnie z zasadami dostępności cyfrowej i zatwierdzony do stosowania w organizacji.
+5. **Zespół ds. dostępności cyfrowej** – zespół powołany przez kierownika jednostki w celu koordynowania działań organizacji w obszarze dostępności cyfrowej.
+
 
 ---
 
@@ -65,19 +69,20 @@ wersja_robocza: true
    - **alternatywności** – opisy alternatywne dla grafik i wykresów;  
    - **uniwersalności** – dostępność na różnych urządzeniach i w różnych programach.  
 4. Dokumenty skanowane lub odręczne mogą być publikowane wyłącznie wtedy, gdy istnieje równoważna wersja dostępna cyfrowo.  
-5. Każdy pracownik jest odpowiedzialny za przestrzeganie zasad dostępności w dokumentach, które tworzy lub przekazuje.
+5. Każdy pracownik jest odpowiedzialny za przestrzeganie zasad dostępności w zakresie czynności, 
+   które wykonuje, zgodnie z przypisanymi rolami i odpowiedzialnościami.
 
 ---
 
 ## § 6. Standardy techniczne
-
-1. Dokumenty biurowe należy przygotowywać zgodnie z następującymi zasadami:
+ 
+1. Dokumenty biurowe przygotowuje się zgodnie z obowiązującymi w organizacji wytycznymi technicznymi dotyczącymi dostępności dokumentów:
    - stosowanie stylów nagłówków (H1, H2, H3) zamiast ręcznego formatowania,  
    - zachowanie logicznej kolejności treści,  
    - unikanie pustych akapitów i spacji do formatowania,  
    - stosowanie tekstu alternatywnego (ALT) dla grafik i wykresów,  
    - właściwe opisywanie tabel i nagłówków kolumn,  
-   - stosowanie kontrastu tekstu zgodnego z WCAG (min. 4.5:1).  
+   - stosowanie kontrastu tekstu zgodnego z WCAG (min. 4.5:1).     
 2. Dokumenty PDF powinny być tworzone poprzez **zapisanie pliku źródłowego jako PDF** (Word, PowerPoint) z zachowaniem struktury dostępności.  
 3. Niedopuszczalne jest publikowanie dokumentów PDF powstałych poprzez skanowanie, jeśli nie zawierają warstwy tekstowej (OCR).  
 4. Zalecane formaty dostępne:  
@@ -93,7 +98,7 @@ wersja_robocza: true
 | **Kierownik jednostki** | Zapewnia wdrożenie i przestrzeganie polityki, nadzoruje jej aktualizację. |
 | **Zespół ds. dostępności cyfrowej** | Opracowuje i aktualizuje zasady, szablony, materiały szkoleniowe, monitoruje realizację. |
 | **Autorzy dokumentów** | Tworzą dokumenty zgodnie z zasadami i szablonami. |
-| **Dział IT** | Zapewnia narzędzia do tworzenia i sprawdzania dostępności, wspiera technicznie szablony. |
+| **Komórka właściwa ds. IT** | Zapewnia narzędzia do tworzenia i sprawdzania dostępności, wspiera technicznie szablony. |
 | **Dział szkoleń / Dział kadr** | Organizuje szkolenia i monitoruje poziom kompetencji pracowników. |
 
 ---

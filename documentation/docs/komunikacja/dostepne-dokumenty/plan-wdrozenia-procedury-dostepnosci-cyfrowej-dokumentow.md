@@ -8,14 +8,16 @@ keywords: [dostępne dokumenty, komunikacja, wiedza i umiejętności]
 tags: [dostępne dokumenty, komunikacja, wiedza i umiejętności]
 opracowanie: Stefan Wajda
 data_zgloszenia: 8 listopada 2025 r.
-data_aktualizacji:  8 listopada 2025 r.
+data_aktualizacji:  4 lutego 2026 r.
 wersja_robocza: true
 ---
 
 ## 1. Cel planu
 
 Celem planu jest określenie działań, odpowiedzialności, harmonogramu i zasobów niezbędnych do skutecznego wdrożenia procedury zapewniania dostępności cyfrowej dokumentów w organizacji.  
-Plan ma charakter operacyjny i obejmuje pierwszy cykl wdrożeniowy – **12 miesięcy** od dnia zatwierdzenia procedury.
+Plan ma charakter przykładowy i ilustracyjny. Obejmuje pierwszy cykl wdrożeniowy – **12 miesięcy** od dnia zatwierdzenia procedury.
+
+Plan może być skalowany w zależności od wielkości i struktury organizacji.
 
 ---
 

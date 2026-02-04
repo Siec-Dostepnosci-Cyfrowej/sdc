@@ -8,10 +8,12 @@ keywords: [dostępne dokumenty, komunikacja, wiedza i umiejętności]
 tags: [dostępne dokumenty, komunikacja, wiedza i umiejętności]
 opracowanie: Stefan Wajda
 data_zgloszenia: 8 listopada 2025 r.
-data_aktualizacji:  8 listopada 2025 r.
+data_aktualizacji:  4 lutego 2026 r.
 wersja_robocza: true
 ---
 
+
+Raport ma charakter rozwojowy i służy ocenie kompetencji pracowników; nie stanowi audytu dostępności dokumentów ani oceny zgodności z WCAG.
 
 ## 1. Informacje ogólne
 
@@ -43,7 +45,7 @@ W badaniu zastosowano następujące metody:
 - test wiedzy online (15 pytań jednokrotnego wyboru),  
 - analiza przykładowych dokumentów przygotowanych przez uczestników,  
 - ankieta samooceny kompetencji (skala 1–5),  
-- rozmowy uzupełniające z przedstawicielami działów.  
+- rozmowy uzupełniające z przedstawicielami wybranych komórek organizacyjnych.  
 
 ---
 
@@ -68,6 +70,9 @@ W badaniu zastosowano następujące metody:
 | Zapis dostępny PDF/UA | … | … | … |
 | **Całkowity wynik testu** | … | … | … |
 
+Liczba osób, które uzyskały wynik ≥ 70%: …
+
+
 ### 4.3. Wyniki analizy praktycznej
 
 | Kryterium | Średni poziom spełnienia (%) | Uwagi |
@@ -80,6 +85,8 @@ W badaniu zastosowano następujące metody:
 ---
 
 ## 5. Ocena kompetencji według ról
+
+Skala ocen stosowana pomocniczo; organizacja może stosować inną skalę.
 
 | Rola / stanowisko | Średni wynik (%) | Ocena 2–5 | Uwagi |
 |--------------------|------------------|-------------|--------|

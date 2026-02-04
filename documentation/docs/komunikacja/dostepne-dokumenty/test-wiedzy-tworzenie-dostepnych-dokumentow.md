@@ -1,6 +1,6 @@
 ---
 id: test-wiedzy-tworzenie-dostepnych-dokumentow
-title: Test wiedzy – Tworzenie dostępnych dokumentów w praktyce
+title: Przykładowy test wiedzy – podstawy tworzenia dostępnych dokumentów cyfrowych
 sidebar_position: 8
 sidebar_label: Test wiedzy
 description: Zestaw 15 pytań testowych do badania kompetencji pracowników z zakresu podstaw tworze nia dostępnych dokumentów cyfrowych
@@ -8,12 +8,14 @@ keywords: [dostępne dokumenty, komunikacja, wiedza i umiejętności]
 tags: [dostępne dokumenty, komunikacja, wiedza i umiejętności]
 opracowanie: Stefan Wajda
 data_zgloszenia: 8 listopada 2025 r.
-data_aktualizacji:  8 listopada 2025 r.
+data_aktualizacji:  4 lutego 2026 r.
 wersja_robocza: true
 ---
 
+Test ma charakter przykładowy i służy weryfikacji podstawowej wiedzy po szkoleniu wprowadzającym z zakresu dostępnych dokumentów cyfrowych.
 
-# Test wiedzy – Tworzenie dostępnych dokumentów w praktyce
+Test nie zastępuje oceny praktycznej dokumentów ani audytu dostępności.
+
 
 **Czas trwania:** 30 minut  
 **Liczba pytań:** 15  
@@ -49,7 +51,7 @@ B. World Community Access Group.
 C. Wide Communication Access Gateway.  
 D. Web Content Assistance Guide.
 
-**5. Kto odpowiada za tworzenie dostępnych dokumentów w organizacji?**  
+**5. Kto ponosi odpowiedzialność za dostępność dokumentów, które tworzy lub przekazuje?**  
 A. Tylko zespół ds. dostępności.  
 B. Każdy pracownik tworzący lub przekazujący dokumenty. ✅  
 C. Tylko dział IT.  
@@ -149,6 +151,7 @@ D. Opisywanie treści w sposób zrozumiały.
 
 ## Skala ocen
 
+
 | Wynik procentowy | Ocena | Opis |
 |-------------------|--------|------|
 | 90–100% | 5,0 | Bardzo dobry – pełne opanowanie wiedzy |
@@ -158,6 +161,7 @@ D. Opisywanie treści w sposób zrozumiały.
 | 50–59% | 3,0 | Dostateczny – niezaliczony formalnie |
 | < 50% | 2,0 | Niezaliczone |
 
+Organizacja może stosować uproszczoną skalę zaliczeniową (zaliczony / niezaliczony lub poziom podstawowy osiągnięty / do uzupełnienia.
 ---
 
 **Opracował:** Zespół ds. Dostępności Cyfrowej  
