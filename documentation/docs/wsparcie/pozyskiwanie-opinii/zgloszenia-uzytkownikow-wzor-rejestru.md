@@ -9,7 +9,7 @@ tags: [cykl życia TIK, dostępność cyfrowa,dobre praktyki, zalecenia, opinie]
 opracowanie: Cezary Tomczyk
 wspolpraca: Stefan Wajda
 data_zgloszenia: 10 listopada 2025 r.
-ostatnia_aktualizacja: 10 listopada 2025 r.
+ostatnia_aktualizacja: 6 lutego 2025 r.
 wersja_robocza: true
 ---
 
@@ -56,7 +56,7 @@ Rejestr powinien być prowadzony przez **osobę lub zespół ds. dostępności c
 ## 4. Zasady prowadzenia rejestru
 
 1. Rejestr może być prowadzony w formie **arkusza kalkulacyjnego (np. Excel, LibreOffice, Google Sheets)** lub **systemu zgłoszeniowego**.  
-2. Zaleca się oznaczanie **statusu kolorem** (np. zielony – zakończone, żółty – w toku, czerwony – nowe).  
+2. Zaleca się uzupełniające oznaczanie **statusu kolorem** (np. zielony – zakończone, żółty – w toku, czerwony – nowe).  
 3. W przypadku formalnych żądań zapewnienia dostępności należy:  
    - udzielić odpowiedzi w terminie 7 dni,  
    - poinformować o planowanym terminie usunięcia bariery,  

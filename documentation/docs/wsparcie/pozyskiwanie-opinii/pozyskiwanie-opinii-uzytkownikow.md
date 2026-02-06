@@ -106,7 +106,7 @@ Aktywne pozyskiwanie opinii:
 - pozwala wykryć problemy, których testy automatyczne nie identyfikują,  
 - buduje zaufanie do instytucji publicznych,  
 - sprzyja uczeniu się organizacyjnemu i podnoszeniu dojrzałości w zakresie dostępności,  
-- umożliwia bardziej precyzyjne planowanie działań naprawczych i rozwojowych,  
+- umożliwia umożliwia udoskonalanie działań naprawczych i rozwojowych,  
 - **realizuje zasadę dostępności jako procesu**, a nie jednorazowego działania,  
 - **umożliwia użytkownikom aktywne uczestnictwo** w doskonaleniu usług publicznych,  
 - **pozwala na szybsze wykrycie i usunięcie barier**, które mogą nie być widoczne w testach automatycznych,  
