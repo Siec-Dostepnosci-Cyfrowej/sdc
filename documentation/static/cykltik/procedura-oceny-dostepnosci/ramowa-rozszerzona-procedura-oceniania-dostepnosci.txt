@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Procedura badania i oceniania dostępności cyfrowej</title>
+<style>
+    body {
+        font-family: "Segoe UI", Roboto, Arial, sans-serif;
+        line-height: 1.6;
+        margin: 40px auto;
+        max-width: 900px;
+        color: #222;
+        background-color: #f9fafb;
+        padding: 20px;
+    }
+    h1, h2 {
+        color: #003366;
+    }
+    h1 {
+        font-size: 1.8em;
+        text-align: center;
+        border-bottom: 3px solid #0057b8;
+        padding-bottom: 0.4em;
+        margin-bottom: 1em;
+    }
+    h2 {
+        font-size: 1.3em;
+        margin-top: 1.6em;
+        border-left: 5px solid #0057b8;
+        padding-left: 10px;
+    }
+    table {
+        border-collapse: collapse;
+        width: 100%;
+        margin-top: 0.8em;
+    }
+    th, td {
+        border: 1px solid #ccc;
+        padding: 8px 10px;
+    }
+    th {
+        background-color: #e9f0f9;
+        text-align: left;
+    }
+    ul {
+        margin-left: 1.2em;
+    }
+    .download {
+        text-align: right;
+        margin-top: 20px;
+    }
+    .download a {
+        background-color: #0057b8;
+        color: #fff;
+        padding: 10px 18px;
+        text-decoration: none;
+        border-radius: 8px;
+        transition: background-color 0.3s ease;
+    }
+    .download a:hover {
+        background-color: #003d80;
+    }
+    .footer {
+        margin-top: 40px;
+        font-size: 0.9em;
+        color: #666;
+        text-align: center;
+        border-top: 1px solid #ddd;
+        padding-top: 10px;
+    }
+</style>
+</head>
+<body>
+
+    <div class="download">
+        <a href="rozszerzona-procedura-oceniania-dostepnosci.docx" download>Pobierz wersję Word (.docx)</a>
+    </div>
+
+    <h1>Procedura badania i oceniania dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotu publicznego</h1>
+
+    <h2>1. Cel procedury</h2>
+    <p>Celem niniejszej procedury jest zapewnienie systematycznego, udokumentowanego i zgodnego z prawem procesu badania i oceniania dostępności cyfrowej stron internetowych, aplikacji mobilnych i publikacji cyfrowych Urzędu Miejskiego w Nowoczesnym. Procedura stanowi element systemu zarządzania dostępnością i jest powiązana z Polityką dostępności Urzędu Miejskiego w Nowoczesnym.</p>
+
+    <h2>2. Zakres stosowania</h2>
+    <p>Procedura obejmuje wszystkie działania związane z badaniem, ocenianiem i monitorowaniem dostępności cyfrowej stron internetowych, aplikacji mobilnych oraz publikacji cyfrowych opracowywanych lub utrzymywanych przez Urząd Miejski w Nowoczesnym.</p>
+
+    <h2>3. Podstawa prawna</h2>
+    <ul>
+        <li><a href="https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000848">Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych</a></li>
+        <li><a href="https://www.gov.pl/web/dostepnosc-cyfrowa/publikowanie-deklaracji-dostepnosci">Warunki techniczne publikacji i struktura dokumentu elektronicznego deklaracji dostępności</a></li>
+        <li><a href="https://www.w3.org/Translations/WCAG21-pl/">Wytyczne dla dostępności treści internetowych (WCAG) 2.1</a></li>
+        <li><a href="https://sklep.pkn.pl/pn-etsi-en-301-549-v3-2-1-2021-09p.html">PN ETSI EN 301 549 v. 3.1.2 Wymagania dotyczące dostępności produktów i usług ICT</a></li>
+        <li><a href="https://www.w3.org/TR/WCAG-EM/">Website Accessibility Conformance Evaluation Methodology (WCAG-EM) 1.0:</a></li>
+        <li><a href="https://www.w3.org/WAI/test-evaluate/preliminary/">Easy Checks – A First Review of Web Accessibility</a></li>
+    </ul>
+
+
+
+    <h2>4. Definicje</h2>
+    <ul>
+        <li><strong>Dostępność cyfrowa</strong> – właściwość strony internetowej, aplikacji lub dokumentu cyfrowego umożliwiająca korzystanie z nich przez wszystkie osoby, w tym z niepełnosprawnościami.</li>
+        <li><strong>Badanie dostępności</strong> – zorganizowany proces oceny zgodności z wymaganiami WCAG 2.1.</li>
+        <li><strong>Audyt zgodności</strong> – kompleksowe badanie reprezentatywnej próbki treści cyfrowych.</li>
+        <li><strong>Monitoring</strong> – cykliczne, zautomatyzowane sprawdzanie wybranych stron.</li>
+        <li><strong>Przegląd ramowy</strong> – uproszczona ocena dostępności.</li>
+        <li><strong>Oświadczenie o dostępności</strong> – dokument informujący o stanie dostępności cyfrowej serwisu.</li>
+    </ul>
+
+    <h2>5. Odpowiedzialność</h2>
+    <table>
+        <tr><th>Funkcja / komórka</th><th>Zakres odpowiedzialności</th></tr>
+        <tr><td>Osoba odpowiedzialna za dostępność</td><td>koordynuje plan badań i nadzoruje wdrożenie zaleceń</td></tr>
+        <tr><td>Zespół ds. dostępności</td><td>prowadzi badania, analizuje wyniki i przygotowuje raporty</td></tr>
+        <tr><td>Administratorzy i redaktorzy</td><td>przeprowadzają bieżące weryfikacje i reagują na problemy</td></tr>
+        <tr><td>Kierownicy jednostek organizacyjnych</td><td>zapewniają wdrożenie działań naprawczych</td></tr>
+    </table>
+
+
+
+    <h2>6. Rodzaje badań dostępności</h2>
+    <ol>
+        <li><strong>Bieżące ocenianie</strong> – wykonywane przez redaktorów przy publikacji treści.</li>
+        <li><strong>Wycinkowe badania</strong> – realizowane przy zgłoszeniach problemów lub zmianach funkcjonalności.</li>
+        <li><strong>Monitoring dostępności</strong> – cykliczne badanie zestawu stron (min. 25 w dużych serwisach).</li>
+        <li><strong>Przegląd roczny</strong> – uproszczone testy podstawowych kryteriów WCAG.</li>
+        <li><strong>Testy z użytkownikami z niepełnosprawnościami</strong>– weryfikacja praktyczna użyteczności.</li>
+        <li><strong>Audyt zgodności</strong> – pełna ocena według WCAG-EM lub równoważnej metodyki.</li>
+    </ol>
+
+
+    <h2>7. Etapy i metody badań</h2>
+    <ol>
+        <li>Planowanie zakresu badania.</li>
+        <li>Wybór metody (narzędzia automatyczne, testy manualne, testy użytkowników).</li>
+        <li>Wykonanie testów.</li>
+        <li>Opracowanie raportu z wynikami.</li>
+        <li>Przekazanie raportu osobie odpowiedzialnej.</li>
+        <li>Wdrożenie działań naprawczych.</li>
+    </ol>
+
+
+    <h2>8. Dokumentowanie i archiwizacja wyników</h2>
+    <p>Raport z badania wypełnia osoba przeprowadzająca ocenę dostępności. Po zatwierdzeniu przez osobę odpowiedzialną raport jest przekazywany do archiwizacji i przechowywany przez minimum 3 lata. Wzór raportu stanowi załącznik do niniejszej procedury.</p>
+
+
+    <h2>9. Wskaźniki efektywności</h2>
+    <ul>
+        <li>średni poziom zgodności WCAG (w %)</li>
+        <li>liczba stwierdzonych niezgodności</li>
+        <li>czas reakcji na problemy</li>
+        <li>Opracowanie raportu z wynikami.</li>
+        <li>liczba działań naprawczych zakończonych skutecznie.</li>
+    </ul>
+
+
+    <h2>10. Postanowienia końcowe</h2>
+    <p> Procedura podlega przeglądowi co najmniej raz w roku oraz każdorazowo po istotnych zmianach w przepisach lub technologii publikacji treści cyfrowych.</p>
+
+
+
+    <h2>11. Załącznik: Wzór raportu z badania dostępności cyfrowej</h2>
+    <table>
+        <tr><th>Nr</th><th>Kryterium WCAG 2.1</th><th>Ocena (0–2–5)</th><th>Uwagi / Opis problemu</th><th>Zalecane działania</th></tr>
+        <tr>
+            <td>1</td>
+            <td>Teksty alternatywne dla obrazów</td>
+
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Kontrast i czytelność</td>
+
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Nawigacja klawiaturą</td>
+
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Formularze i etykiety</td>
+
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Multimedia i napisy</td>
+
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+    </table>
+    <ul>
+        <li>Średni wynik zgodności: &nbsp;%</li>
+        <li>Rekomendacje działań naprawczych:</li>
+        <li>Data badania:</li>
+        <li>Osoba przeprowadzająca badanie:</li>
+        <li>Zatwierdzono dnia:</li>
+
+    </ul>
+
+    <div class="footer">
+        Opracowano zgodnie z ustawą o dostępności cyfrowej (Dz.U. 2019 poz. 848).<br>
+        &copy; 2025 Podmiot Publiczny – Wszystkie prawa zastrzeżone.
+    </div>
+
+</body>
+</html>

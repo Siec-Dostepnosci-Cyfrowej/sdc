@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Procedura badania i oceniania dostępności cyfrowej</title>
+<style>
+    body {
+        font-family: "Segoe UI", Roboto, Arial, sans-serif;
+        line-height: 1.6;
+        margin: 40px auto;
+        max-width: 900px;
+        color: #222;
+        background-color: #f9fafb;
+        padding: 20px;
+    }
+    h1, h2 {
+        color: #003366;
+    }
+    h1 {
+        font-size: 1.8em;
+        text-align: center;
+        border-bottom: 3px solid #0057b8;
+        padding-bottom: 0.4em;
+        margin-bottom: 1em;
+    }
+    h2 {
+        font-size: 1.3em;
+        margin-top: 1.6em;
+        border-left: 5px solid #0057b8;
+        padding-left: 10px;
+    }
+    table {
+        border-collapse: collapse;
+        width: 100%;
+        margin-top: 0.8em;
+    }
+    th, td {
+        border: 1px solid #ccc;
+        padding: 8px 10px;
+    }
+    th {
+        background-color: #e9f0f9;
+        text-align: left;
+    }
+    ul {
+        margin-left: 1.2em;
+    }
+    .download {
+        text-align: right;
+        margin-top: 20px;
+    }
+    .download a {
+        background-color: #0057b8;
+        color: #fff;
+        padding: 10px 18px;
+        text-decoration: none;
+        border-radius: 8px;
+        transition: background-color 0.3s ease;
+    }
+    .download a:hover {
+        background-color: #003d80;
+    }
+    .footer {
+        margin-top: 40px;
+        font-size: 0.9em;
+        color: #666;
+        text-align: center;
+        border-top: 1px solid #ddd;
+        padding-top: 10px;
+    }
+</style>
+</head>
+<body>
+
+<div class="download">
+    <a href="ramowa-procedura-oceniania-dostepnosci.docx" download>Pobierz wersję Word (.docx)</a>
+</div>
+
+<h1>Procedura badania i oceniania dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotu publicznego</h1>
+
+<h2>1. Cel procedury</h2>
+<p>Celem procedury jest zapewnienie zgodności serwisów internetowych i aplikacji mobilnych podmiotu z przepisami ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej, ustanowienie jednolitych zasad oceny, monitorowania i doskonalenia dostępności cyfrowej, umożliwienie sporządzania wiarygodnych oświadczeń o dostępności oraz wspieranie ciągłego podnoszenia jakości cyfrowych usług publicznych.</p>
+
+<h2>2. Zakres stosowania</h2>
+<p>Procedura obejmuje wszystkie strony internetowe oraz aplikacje mobilne prowadzone lub współprowadzane przez podmiot publiczny, systemy i treści publikowane w imieniu podmiotu oraz okresowe i doraźne audyty dostępności cyfrowej.</p>
+
+<h2>3. Podstawa prawna</h2>
+<ul>
+    <li>Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych</li>
+    <li>Dyrektywa (UE) 2016/2102 Parlamentu Europejskiego i Rady</li>
+    <li>Rozporządzenie Ministra Cyfryzacji z dnia 12 kwietnia 2019 r.</li>
+    <li>Wytyczne WCAG 2.1 na poziomie AA</li>
+</ul>
+
+<h2>4. Definicje</h2>
+<ul>
+    <li><strong>Dostępność cyfrowa</strong> – cecha serwisu internetowego lub aplikacji umożliwiająca korzystanie z nich wszystkim użytkownikom, w tym osobom z niepełnosprawnościami.</li>
+    <li><strong>Audyt dostępności</strong> – formalny proces oceny zgodności serwisu z wymaganiami WCAG 2.1.</li>
+    <li><strong>Badanie uproszczone</strong> – wstępna ocena dostępności wykonywana wewnętrznie.</li>
+    <li><strong>Oświadczenie o dostępności</strong> – dokument informujący o stanie dostępności cyfrowej serwisu.</li>
+</ul>
+
+<h2>5. Odpowiedzialność</h2>
+<table>
+    <tr><th>Funkcja / komórka</th><th>Zakres odpowiedzialności</th></tr>
+    <tr><td>Koordynator ds. dostępności</td><td>Nadzór nad realizacją procedury, inicjowanie audytów</td></tr>
+    <tr><td>Administrator</td><td>Wdrażanie rekomendacji z audytów</td></tr>
+    <tr><td>Dział IT</td><td>Zapewnienie technicznych warunków dostępności</td></tr>
+    <tr><td>Komórka merytoryczna</td><td>Zapewnienie dostępności treści</td></tr>
+    <tr><td>Kierownictwo</td><td>Zatwierdzanie planów badań i raportów</td></tr>
+</table>
+
+<h2>6. Etapy procesu badania dostępności</h2>
+<ol>
+    <li><strong>Planowanie</strong> – sporządzenie rocznego planu badań, harmonogramu, metodyki.</li>
+    <li><strong>Przeprowadzenie badania</strong> – minimum raz w roku lub po istotnej zmianie.</li>
+    <li><strong>Raportowanie</strong> – przygotowanie raportu z audytu z zaleceniami.</li>
+    <li><strong>Działania korygujące</strong> – wdrażanie poprawek i weryfikacja.</li>
+    <li><strong>Publikacja oświadczenia o dostępności</strong>.</li>
+    <li><strong>Przegląd i doskonalenie</strong> – coroczna aktualizacja metodyki i narzędzi.</li>
+</ol>
+
+<h2>7. Dokumentacja i archiwizacja</h2>
+<p>Raporty, plany i oświadczenia przechowuje się przez co najmniej 5 lat. Dokumentacja może być udostępniona organom kontrolnym.</p>
+
+<h2>8. Załączniki (przykładowe)</h2>
+<ul>
+    <li>Wzór rocznego planu badań</li>
+    <li>Lista kontrolna badania WCAG 2.1</li>
+    <li>Wzór raportu z audytu</li>
+    <li>Rejestr działań korygujących</li>
+</ul>
+
+<h2>9. Postanowienia końcowe</h2>
+<p>Procedura wchodzi w życie z dniem podpisania przez kierownika jednostki. Zmiany wymagają zatwierdzenia po opinii Koordynatora ds. dostępności.</p>
+
+<div class="footer">
+    Opracowano zgodnie z ustawą o dostępności cyfrowej (Dz.U. 2019 poz. 848).<br>
+    &copy; 2025 Podmiot Publiczny – Wszystkie prawa zastrzeżone.
+</div>
+
+</body>
+</html>
