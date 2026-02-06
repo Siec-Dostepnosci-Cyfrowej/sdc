@@ -9,7 +9,7 @@ tags: [cykl życia TIK, dostępność cyfrowa, dobre praktyki, zalecenia, opinie
 opracowanie: Cezary Tomczyk
 wspolpraca: Stefan Wajda
 data_zgloszenia: 26 października 2025 r.
-ostatnia_aktualizacja: 14 stycznia 2026 r.
+ostatnia_aktualizacja: 6 lutego 2025 r.
 wersja_robocza: true
 ---
 
@@ -106,7 +106,7 @@ Aktywne pozyskiwanie opinii:
 - pozwala wykryć problemy, których testy automatyczne nie identyfikują,  
 - buduje zaufanie do instytucji publicznych,  
 - sprzyja uczeniu się organizacyjnemu i podnoszeniu dojrzałości w zakresie dostępności,  
-- umożliwia udoskonalanie działań naprawczych i rozwojowych,  
+- umożliwia bardziej precyzyjne planowanie działań naprawczych i rozwojowych,  
 - **realizuje zasadę dostępności jako procesu**, a nie jednorazowego działania,  
 - **umożliwia użytkownikom aktywne uczestnictwo** w doskonaleniu usług publicznych,  
 - **pozwala na szybsze wykrycie i usunięcie barier**, które mogą nie być widoczne w testach automatycznych,  

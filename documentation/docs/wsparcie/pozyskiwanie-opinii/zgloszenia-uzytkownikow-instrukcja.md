@@ -9,7 +9,7 @@ tags: [cykl życia TIK, dostępność cyfrowa,dobre praktyki, zalecenia, opinie]
 opracowanie: Cezary Tomczyk
 wspolpraca: Stefan Wajda
 data_zgloszenia: 10 listopada 2025 r.
-ostatnia_aktualizacja: 10 listopada 2025 r.
+ostatnia_aktualizacja: 6 lutego 2025 r.
 wersja_robocza: true
 ---
 
@@ -29,6 +29,9 @@ Instrukcja dotyczy wszystkich zgłoszeń:
 - przekazywanych e-mailem, telefonicznie, przez ePUAP lub inne kanały komunikacji,  
 - obejmujących zarówno **anonimowe zgłoszenia problemów**, jak i **formalne żądania zapewnienia dostępności cyfrowej**.
 
+
+
+
 ---
 
 ## 3. Etapy obsługi zgłoszenia
@@ -38,9 +41,8 @@ Instrukcja dotyczy wszystkich zgłoszeń:
 1. Każde zgłoszenie przyjęte przez podmiot publiczny powinno zostać **zarejestrowane w Rejestrze zgłoszeń dotyczących dostępności cyfrowej**.  
 2. Użytkownik powinien otrzymać **automatyczne potwierdzenie przyjęcia zgłoszenia**:
    - w przypadku formularza internetowego – komunikat na stronie:  
-     > „Dziękujemy za zgłoszenie. Otrzymaliśmy je [data]. Odpowiemy w ciągu 7 dni roboczych.”  
+     > „Dziękujemy za zgłoszenie. Otrzymaliśmy je [data]. Na zgłoszenia, w których został podany adres e-mail odpowiemy w ciągu 7 dni roboczych.”  
    - w przypadku zgłoszenia e-mail – automatyczna wiadomość zwrotna z potwierdzeniem odbioru i numerem sprawy (jeśli system to umożliwia).
-
 ---
 
 ### 3.2. Informacja o dalszych krokach
@@ -49,7 +51,6 @@ Instrukcja dotyczy wszystkich zgłoszeń:
    - udzielić odpowiedzi,  
    - poinformować o podjętych działaniach lub planowanym terminie rozwiązania problemu.  
 2. W przypadku, gdy problem wymaga dłuższego czasu realizacji, należy poinformować użytkownika o przewidywanym terminie i przyczynach opóźnienia.  
-3. W odpowiedzi do użytkownika warto wskazać także **możliwy sposób rozwiązania problemu**, np. poprawę treści, dodanie alternatywnego opisu, zmianę kontrastu lub zaplanowanie aktualizacji systemu.
 
 ---
 
@@ -66,12 +67,12 @@ Instrukcja dotyczy wszystkich zgłoszeń:
 
 ### 3.4. Priorytetyzacja działań
 
-1. Zgłoszenia użytkowników należy traktować jako **źródło wiedzy o rzeczywistych barierach** w dostępności.  
+1. Zgłoszenia użytkowników należy traktować jako **źródło wiedzy o rzeczywistych doświadczeniach korzystania z treści i usług cyfrowych**, w tym o sytuacjach, w których dostępność nie została zapewniona w sposób umożliwiający skuteczne wykonanie zadania.
 2. W analizie zgłoszeń warto stosować **ocenę priorytetów**, np.:
    - wysoki priorytet – bariery uniemożliwiające dostęp do kluczowych usług lub treści,  
    - średni priorytet – błędy częściowo ograniczające funkcjonalność,  
    - niski priorytet – kwestie estetyczne lub techniczne o ograniczonym wpływie na dostępność.  
-3. Wyniki analizy powinny być uwzględniane w **planach prac nad dostępnością** i przekazywane zespołom technicznym lub wykonawcom zewnętrznym.
+3. Wyniki analizy powinny być uwzględniane w **planach prac nad dostępnością** i przekazywane do realizacji zespołom technicznym lub wykonawcom zewnętrznym.
 
 ---
 
