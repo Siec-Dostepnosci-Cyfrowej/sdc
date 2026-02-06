@@ -18,6 +18,7 @@ data_zgloszenia: 20 lipca 2025 r.
 ostatnia_aktualizacja: 30 października 2025 r.
 opracowanie: Tomasz Kałużyński
 wersja_robocza: true
+draft: true
 ---
 
 
