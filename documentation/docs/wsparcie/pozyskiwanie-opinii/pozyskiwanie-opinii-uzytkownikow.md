@@ -129,7 +129,7 @@ Aktywne pozyskiwanie opinii:
 2. [Wzór rejestru zgłoszeń dotyczących dostępności cyfrowej, Excel](/wsparcie/pozyskiwanie-opinii/wzor-rejestru-zgloszen-dostepnosci-cyfrowej.xlsx)
 3. [**Instrukcja obsługi zgłoszeń dotyczących dostępności cyfrowej**](zgloszenia-uzytkownikow-instrukcja.md)
 4. [Przykładowy formularz „Alert dostępności”](/wsparcie/pozyskiwanie-opinii/alert-dostepnosci.txt) 
-5. [Przykładowy formularz „Alert dostępności” dla CMS](/wsparcie/pozyskiwanie-opinii/alert-dostepnosci-2.txt)
+5. [Przykładowy formularz „Alert dostępności” dla CMS](/wsparcie/pozyskiwanie-opinii/alert-dostepnosci.md)
 6. [O Przycisku Zgłoś problem z dostępnością](pozyskiwanie-opinii-o-przycisku)
 
 
