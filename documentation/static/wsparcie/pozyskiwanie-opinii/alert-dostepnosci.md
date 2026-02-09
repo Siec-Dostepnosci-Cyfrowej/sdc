@@ -1,4 +1,15 @@
-<!-- Alert dostępności – wzór formularza -->
+# Wzór: „Alert dostępności” — prosty formularz zgłaszania problemów z dostępnością
+
+Poniższy kod HTML można umieścić w stopce lub w bloku HTML na każdej stronie serwisu publicznego.  
+Formularz rozwija się po wybraniu przycisku i umożliwia anonimowe lub formalne zgłoszenie problemu z dostępnością.
+
+Uwaga! Poniższy kod zawiera połączenie HTML, CSS i JavaScript. Dla lepszej czytelności i łatwiejszego utrzymania kodu, zalecane jest rozdzielenie tych sekcji na osobne pliki lub części kodu.
+
+---
+
+## Kod formularza (do wklejenia w CMS)
+
+```html
 <section aria-labelledby="alert-dostepnosci-heading" class="alert-dostepnosci">
   <button id="toggleAlert" class="alert-toggle">
     <span aria-hidden="true">💬</span> Zgłoś problem z dostępnością
@@ -280,3 +291,4 @@
     margin-top: 1rem;
   }
 </style>
+```
