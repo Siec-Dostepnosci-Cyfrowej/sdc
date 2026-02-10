@@ -9,7 +9,7 @@ tags: [cykl życia TIK, dostępność cyfrowa, dobre praktyki, zalecenia, opinie
 opracowanie: Cezary Tomczyk
 wspolpraca: Stefan Wajda
 data_zgloszenia: 26 października 2025 r.
-ostatnia_aktualizacja: 6 lutego 2025 r.
+ostatnia_aktualizacja: 10 lutego 2026 r.
 wersja_robocza: true
 ---
 
@@ -128,8 +128,8 @@ Aktywne pozyskiwanie opinii:
 1. [**Wzór rejestru zgłoszeń dotyczących dostępności cyfrowej**](zgloszenia-uzytkownikow-wzor-rejestru)  
 2. [Wzór rejestru zgłoszeń dotyczących dostępności cyfrowej, Excel](/wsparcie/pozyskiwanie-opinii/wzor-rejestru-zgloszen-dostepnosci-cyfrowej.xlsx)
 3. [**Instrukcja obsługi zgłoszeń dotyczących dostępności cyfrowej**](zgloszenia-uzytkownikow-instrukcja.md)
-4. [Przykładowy formularz „Alert dostępności”](/wsparcie/pozyskiwanie-opinii/alert-dostepnosci.txt) 
-5. [Przykładowy formularz „Alert dostępności” dla CMS](/wsparcie/pozyskiwanie-opinii/alert-dostepnosci-2.txt)
+4. [Przykładowy formularz „Alert dostępności”](/wsparcie/pozyskiwanie-opinii/alert-dostepnosci-strona.txt) 
+5. [Przykładowy formularz „Alert dostępności” dla CMS](/wsparcie/pozyskiwanie-opinii/alert-dostepnosci-cms.txt)
 6. [O Przycisku Zgłoś problem z dostępnością](pozyskiwanie-opinii-o-przycisku)
 
 
