@@ -9,7 +9,7 @@ tags: [cykl życia TIK, dostępność cyfrowa,dobre praktyki, zalecenia, opinie]
 opracowanie: Cezary Tomczyk
 wspolpraca: Stefan Wajda
 data_zgloszenia: 10 listopada 2025 r.
-ostatnia_aktualizacja: 6 lutego 2025 r.
+ostatnia_aktualizacja: 6 lutego 2026 r.
 wersja_robocza: true
 ---
 

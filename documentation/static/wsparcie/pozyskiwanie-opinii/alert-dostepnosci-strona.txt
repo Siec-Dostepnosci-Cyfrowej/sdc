@@ -1,0 +1,294 @@
+# Wzór: „Alert dostępności” — prosty formularz zgłaszania problemów z dostępnością
+
+Poniższy kod HTML można umieścić w stopce lub w bloku HTML na każdej stronie serwisu publicznego.  
+Formularz rozwija się po wybraniu przycisku i umożliwia anonimowe lub formalne zgłoszenie problemu z dostępnością.
+
+Uwaga! Poniższy kod zawiera połączenie HTML, CSS i JavaScript. Dla lepszej czytelności i łatwiejszego utrzymania kodu, zalecane jest rozdzielenie tych sekcji na osobne pliki lub części kodu.
+
+---
+
+## Kod formularza (do wklejenia w CMS)
+
+```html
+<section aria-labelledby="alert-dostepnosci-heading" class="alert-dostepnosci">
+  <button id="toggleAlert" class="alert-toggle">
+    <span aria-hidden="true">💬</span> Zgłoś problem z dostępnością
+  </button>
+
+  <dialog id="alertForm" aria-labelledby="alert-dostepnosci-heading">
+    <div class="dialog-content">
+      <h2 id="alert-dostepnosci-heading" tabindex="-1" aria-describedby="alertInfo">
+        Formularz zgłoszenia problemu z dostępnością
+      </h2>
+      <p>Jeśli zauważyłeś problem z dostępnością treści lub funkcji tej strony, możesz to zgłosić za pomocą poniższego formularza.</p>
+
+      <form id="accessibilityForm" class="alert-form">
+        <fieldset>
+          <legend>Rodzaj zgłoszenia</legend>
+          <label>
+            <input type="radio" name="typ" value="anonimowe" checked>
+            Anonimowe zgłoszenie problemu
+          </label>
+          <label>
+            <input type="radio" name="typ" value="formalne">
+            Formalne żądanie zapewnienia dostępności
+          </label>
+        </fieldset>
+
+        <label for="problem">Opis napotkanego problemu:</label>
+        <textarea 
+          id="problem" 
+          name="problem" 
+          rows="4" 
+          required
+          oninvalid='this.setCustomValidity("Pole \"Opis napotkanego problemu\" jest wymagane")'
+          oninput="this.setCustomValidity('')"
+        ></textarea>
+
+        <label for="adres-url">Adres strony (opcjonalnie):</label>
+        <input type="url" id="adres-url" name="adres-url" placeholder="https://...">
+
+        <label for="email">Twój e-mail (opcjonalnie):</label>
+        <input type="email" id="email" name="email" placeholder="nazwa@domena.pl">
+
+        <div class="button-group">
+          <button type="submit" id="sendForm" class="btn-submit">Wyślij zgłoszenie</button>
+          <button type="button" id="closeDialog" class="btn-close">Anuluj</button>
+        </div>
+
+        <p id="alertInfo" class="small">
+          Przesyłając formularz, wyrażasz zgodę na przetwarzanie danych.
+        </p>
+      </form>
+    </div>
+  </dialog>
+</section>
+
+<script>
+  const dialog = document.querySelector('#alertForm');
+  const form = document.querySelector('#accessibilityForm');
+  const openBtn = document.querySelector('#toggleAlert');
+  const submitBtn = document.querySelector('#sendForm');
+  const closeBtn = document.querySelector('#closeDialog');
+  const heading = document.querySelector('#alert-dostepnosci-heading');
+
+  openBtn.addEventListener('click', () => {
+    dialog.showModal();
+    heading.focus();
+  });
+
+  closeBtn.addEventListener('click', () => {
+    dialog.close();
+  });
+  
+  const onSubmitForm = async (event) => {
+    event.preventDefault();
+    
+    const originalBtnText = submitBtn.textContent;
+    const formData = new FormData(form);
+    const payload = Object.fromEntries(formData.entries());
+
+    try {
+      form.inert = true; 
+      submitBtn.textContent = 'Wysyłanie...';
+
+      const response = await fetch('/sciezka-do-obslugi-zgloszenia', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload),
+      });
+
+      if (response.ok) {
+        window.alert('Dziękujemy! Zgłoszenie zostało wysłane.');
+        form.reset();
+        dialog.close();
+      } else {
+        throw new Error('Błąd serwera');
+      }
+    } catch (error) {
+      window.alert('Wystąpił błąd podczas wysyłania. Spróbuj ponownie później.');
+    } finally {
+      form.inert = false;
+      submitBtn.textContent = originalBtnText;
+    }
+  };
+
+  form.addEventListener('submit', onSubmitForm);
+</script>
+
+<style>
+  :root {
+    --alert-bg: #ffffff;
+    --alert-border: #005ea5;
+    --alert-btn-hover: #003d73;
+    --alert-btn-primary: #005ea5;
+    --alert-muted: #555;
+    --alert-shadow: rgba(0, 0, 0, 0.2);
+    --alert-success: #00703c;
+    --alert-success-hover: #004f2a;
+    --alert-text: #1a1a1a;
+  }
+
+  body {
+    background: #fff;
+    color: #000;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --alert-bg: #1e1e1e;
+      --alert-border: #47a0ff;
+      --alert-btn-hover: #7dbbff;
+      --alert-btn-primary: #47a0ff;
+      --alert-muted: #bbb;
+      --alert-shadow: rgba(0, 0, 0, 0.5);
+      --alert-success: #17ad62;
+      --alert-success-hover: #1ed178;
+      --alert-text: #f0f0f0;
+    }
+
+    body {
+      background: #000;
+      color: #fff;
+    }
+  }
+
+  .alert-dostepnosci {
+    bottom: 1rem;
+    font-family: system-ui, -apple-system, sans-serif;
+    position: fixed;
+    right: 1rem;
+    z-index: 9999;
+  }
+
+  .alert-form fieldset {
+    border: 1px solid var(--alert-muted);
+    border-radius: 0.5rem;
+    margin: 1rem 0;
+  }
+
+  .alert-form input:not([type="radio"]),
+  .alert-form textarea {
+    background: var(--alert-bg);
+    border: 1px solid var(--alert-muted);
+    border-radius: 0.3rem;
+    box-sizing: border-box;
+    color: var(--alert-text);
+    padding: 0.5rem;
+    width: 100%;
+  }
+
+  .alert-form input:focus,
+  .alert-form textarea:focus {
+    outline: 2px solid var(--alert-border);
+    outline-offset: -1px;
+  }
+
+  .alert-form label {
+    display: block;
+    font-weight: 500;
+    margin-top: 1rem;
+  }
+
+  .alert-form[inert] {
+    cursor: wait;
+    opacity: 0.6;
+  }
+
+  .alert-toggle {
+    align-items: center;
+    background: var(--alert-btn-primary);
+    border: none;
+    border-radius: 2rem;
+    box-shadow: 0 4px 6px var(--alert-shadow);
+    color: #fff;
+    cursor: pointer;
+    display: inline-flex;
+    font-weight: bold;
+    padding: 0.8rem 1.2rem;
+    transition: background 0.2s;
+  }
+
+  .alert-toggle:focus,
+  .alert-toggle:hover {
+    background: var(--alert-btn-hover);
+    outline: 2px solid var(--alert-border);
+    outline-offset: 2px;
+  }
+
+  .alert-toggle span {
+    margin-inline-end: 0.5rem;
+  }
+
+  .btn-close {
+    background: transparent;
+    border: 1px solid var(--alert-muted);
+    border-radius: 0.5rem;
+    color: var(--alert-text);
+    cursor: pointer;
+    flex: 1;
+    padding: 0.7rem;
+  }
+
+  .btn-close:focus,
+  .btn-close:hover {
+    background: rgba(128, 128, 128, 0.1);
+    outline: 2px solid var(--alert-muted);
+    outline-offset: 2px;
+  }
+
+  .btn-submit {
+    background: var(--alert-success);
+    border: none;
+    border-radius: 0.5rem;
+    color: white;
+    cursor: pointer;
+    flex: 2;
+    font-weight: bold;
+    padding: 0.7rem;
+    transition: background 0.2s;
+  }
+
+  .btn-submit:focus,
+  .btn-submit:hover {
+    background: var(--alert-success-hover);
+    outline: 2px solid var(--alert-success);
+    outline-offset: 2px;
+  }
+
+  .button-group {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1.5rem;
+  }
+
+  dialog {
+    background: var(--alert-bg);
+    border: 2px solid var(--alert-border);
+    border-radius: 1rem;
+    box-shadow: 0 10px 25px var(--alert-shadow);
+    color: var(--alert-text);
+    max-width: 450px;
+    padding: 0;
+  }
+
+  dialog::backdrop {
+    backdrop-filter: blur(2px);
+    background: rgba(0, 0, 0, 0.6);
+  }
+
+  .dialog-content {
+    padding: 1.5rem;
+  }
+
+  h2:focus {
+    outline: none;
+  }
+
+  .small {
+    color: var(--alert-muted);
+    font-size: 0.8rem;
+    margin-top: 1rem;
+  }
+</style>
+```
