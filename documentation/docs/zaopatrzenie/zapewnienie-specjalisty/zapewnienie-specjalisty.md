@@ -10,7 +10,7 @@ typ: zalecenie
 wymiar: Zaopatrzenie
 opracowanie: Anna Czekalska
 data_zgloszenia: 11 stycznia 2026 r.
-ostatnia_aktualizacja: 15 stycznia 2026 r.
+ostatnia_aktualizacja: 17 marca 2026 r.
 wersja_robocza: true
 ---
 
