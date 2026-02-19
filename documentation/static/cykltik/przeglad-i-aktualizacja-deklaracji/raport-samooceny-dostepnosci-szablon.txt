@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Raport z samooceny dostępności cyfrowej — SZABLON</title>
+  <meta name="description" content="Szablon raportu z samooceny dostępności cyfrowej zgodny z WCAG 2.1 AA i strukturą EARL (JSON-LD).">
+  <style>
+    body {font-family: 'Segoe UI', Arial, sans-serif; margin: 2rem; line-height: 1.6; background-color: #fff;}
+    h1, h2, h3 {color: #0b5cad;}
+    table {border-collapse: collapse; width: 100%; margin: 1rem 0;}
+    th, td {border: 1px solid #ccc; padding: 8px; vertical-align: top;}
+    th {background-color: #e8f0fb; text-align: left;}
+    caption {caption-side: top; font-weight: bold; margin-bottom: .5rem;}
+    .summary-box {background: #f2f7ff; padding: 1rem; border-left: 4px solid #0b5cad; margin-bottom: 1rem;}
+    .status {font-weight: bold;}
+    footer {margin-top: 3rem; font-size: .9rem; color: #555;}
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Raport z samooceny dostępności cyfrowej</h1>
+  <p><strong>Jednostka:</strong> .........................................................<br>
+     <strong>Adres strony / aplikacji:</strong> ........................................<br>
+     <strong>Data przeprowadzenia samooceny:</strong> ..................................<br>
+     <strong>Osoby dokonujące oceny:</strong> ..........................................</p>
+</header>
+
+<section>
+  <h2>1. Streszczenie</h2>
+  <div class="summary-box">
+    <p><strong>Poziom zgodności z WCAG 2.1 AA:</strong> ............ %</p>
+    <p><strong>Liczba kryteriów spełnionych:</strong> ............ / 25</p>
+    <p><strong>Ocena ogólna:</strong> wysoka / średnia / niska</p>
+  </div>
+</section>
+
+<section>
+  <h2>2. Zakres samooceny</h2>
+  <p>Zakres samooceny obejmował testy uproszczone 25 kryteriów zgodnych z WCAG 2.1 AA, w tym struktury treści, dostępności multimediów, formularzy, dokumentów i obsługi strony za pomocą klawiatury.</p>
+</section>
+
+<section>
+  <h2>3. Lista kryteriów samooceny</h2>
+  <table>
+    <caption>Kryteria dostępności</caption>
+    <thead>
+      <tr>
+        <th>Nr</th>
+        <th>Kryterium</th>
+        <th>Spełnione (TAK/NIE/CZĘŚCIOWO)</th>
+        <th>Uwagi / Zalecenia</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Wiersze do wypełnienia -->
+      <tr><td>1</td><td>.................................................................</td><td>TAK / NIE / CZĘŚCIOWO</td><td>.................................................................</td></tr>
+      <tr><td>2</td><td>.................................................................</td><td>TAK / NIE / CZĘŚCIOWO</td><td>.................................................................</td></tr>
+      <tr><td>3</td><td>.................................................................</td><td>TAK / NIE / CZĘŚCIOWO</td><td>.................................................................</td></tr>
+      <tr><td>...</td><td colspan="3">Powtórz dla pozostałych kryteriów (łącznie 25)</td></tr>
+    </tbody>
+  </table>
+</section>
+
+<section>
+  <h2>4. Wnioski i rekomendacje</h2>
+  <p>.................................................................................................................<br>
+     .................................................................................................................<br>
+     .................................................................................................................</p>
+</section>
+
+<section>
+  <h2>5. Podpis i zatwierdzenie</h2>
+  <p><strong>Opracował:</strong> ....................................................<br>
+     <strong>Zatwierdził:</strong> ..................................................<br>
+     <strong>Data:</strong> .........................................................</p>
+</section>
+
+<!-- Wbudowany blok EARL JSON-LD -->
+<script type="application/ld+json">
+{
+  "@context": "http://www.w3.org/ns/earl.jsonld",
+  "@type": "EvaluationReport",
+  "reportType": "self-assessment",
+  "title": "Raport z samooceny dostępności cyfrowej — SZABLON",
+  "creator": {
+    "@type": "Organization",
+    "name": "....................................................."
+  },
+  "dateCreated": ".....................................................",
+  "subjectOf": {
+    "@id": ".....................................................",
+    "title": "....................................................."
+  },
+  "assertedBy": ".....................................................",
+  "testResults": [
+    {
+      "@type": "Assertion",
+      "test": {"@id": "https://www.w3.org/TR/WCAG21/#"},
+      "result": {"outcome": "notTested", "description": "....................................................."},
+      "mode": "manual"
+    }
+  ],
+  "summary": {
+    "totalTests": 25,
+    "passed": "",
+    "failed": "",
+    "conformanceScore": ""
+  }
+}
+</script>
+
+<footer>
+  <p>Szablon raportu z samooceny dostępności cyfrowej zgodny z WCAG 2.1 AA i EARL (JSON-LD).<br>
+     © 2025 Urząd Miejski w Nowym Mieście – dokument do samodzielnego wypełnienia.</p>
+</footer>
+
+</body>
+</html>
