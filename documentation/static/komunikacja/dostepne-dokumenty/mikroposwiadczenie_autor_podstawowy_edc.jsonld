@@ -1,0 +1,93 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://europa.eu/schemas/edci/credentials/v1.0.0.json"
+  ],
+  "id": "urn:uuid:123e4567-e89b-12d3-a456-426614174000",
+  "type": [
+    "VerifiableCredential",
+    "MicroCredential"
+  ],
+  "issuer": {
+    "id": "https://przyklad.gov",
+    "type": "Organization",
+    "name": "Urząd Przykładowy – Zespół ds. Dostępności Cyfrowej",
+    "url": "https://przyklad.gov",
+    "email": "dostepnosc@przyklad.gov"
+  },
+  "issued": "2025-11-08",
+  "validUntil": "2028-11-07",
+  "credentialSubject": {
+    "type": "LearningAchievement",
+    "name": "Autor dostępnych dokumentów — poziom podstawowy",
+    "description": "Mikropoświadczenie potwierdzające podstawowe kompetencje w zakresie tworzenia dokumentów biurowych (Word, PDF, podstawy Excel/PowerPoint) zgodnych z zasadami dostępności cyfrowej (WCAG 2.1 AA) i polityką organizacji.",
+    "educationalLevel": {
+      "type": "EQFLevel",
+      "value": "4"
+    },
+    "learningOutcomes": [
+      {
+        "id": "#LO1",
+        "type": "LearningOutcome",
+        "description": "Rozumie pojęcie dostępności cyfrowej i obowiązki podmiotu publicznego."
+      },
+      {
+        "id": "#LO2",
+        "type": "LearningOutcome",
+        "description": "Tworzy dokument Word z poprawną strukturą (style, listy, tabele, hiperłącza)."
+      },
+      {
+        "id": "#LO3",
+        "type": "LearningOutcome",
+        "description": "Stosuje alternatywne opisy dla grafik/wykresów i dobre praktyki językowe."
+      },
+      {
+        "id": "#LO4",
+        "type": "LearningOutcome",
+        "description": "Używa narzędzi do sprawdzania dostępności (np. „Sprawdź dostępność”)."
+      },
+      {
+        "id": "#LO5",
+        "type": "LearningOutcome",
+        "description": "Eksportuje dostępny PDF i rozpoznaje typowe błędy dostępności."
+      }
+    ],
+    "workload": {
+      "duration": "PT4H30M",
+      "description": "E-learning 2 h, warsztat 2 h, test i zadanie praktyczne 0,5 h."
+    },
+    "assessment": {
+      "type": "Assessment",
+      "method": [
+        "Test wiedzy (min. 70% poprawnych odpowiedzi)",
+        "Zadanie praktyczne: przygotowanie krótkiego dokumentu zgodnie z listą kontrolną"
+      ],
+      "criteria": "Zaliczenie testu (≥70%) oraz pozytywna ocena zadania praktycznego."
+    },
+    "evidence": [
+      {
+        "id": "#EV1",
+        "type": "Evidence",
+        "name": "Raport testu wiedzy",
+        "description": "Systemowy raport z wynikiem testu (min. 70%)."
+      },
+      {
+        "id": "#EV2",
+        "type": "Evidence",
+        "name": "Zadanie praktyczne",
+        "description": "Plik dokumentu oceniony jako zgodny z listą kontrolną dostępności."
+      }
+    ]
+  },
+  "credentialSchema": {
+    "id": "https://europa.eu/schemas/edci/credentials/v1.0.0.json",
+    "type": "EDCISchema"
+  },
+  "proof": {
+    "type": "DataIntegrityProof",
+    "created": "2025-11-08",
+    "proofPurpose": "assertionMethod",
+    "verificationMethod": "https://przyklad.gov/keys/edc-signature",
+    "cryptosuite": "eddsa-2020"
+  }
+}

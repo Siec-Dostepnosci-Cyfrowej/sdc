@@ -1,0 +1,161 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "ItemList",
+  "name": "Zestaw mikropoświadczeń – Tworzenie dostępnych dokumentów cyfrowych",
+  "description": "Zestaw mikropoświadczeń obejmujących podstawowe, rozszerzone i zaawansowane kompetencje w zakresie tworzenia, testowania i publikowania dostępnych dokumentów cyfrowych zgodnie z WCAG 2.1 AA.",
+  "itemListElement": [
+
+    {
+      "@type": "EducationalOccupationalCredential",
+      "identifier": "PL-MICRO-001",
+      "name": "Autor dostępnych dokumentów Word i PowerPoint",
+      "educationalLevel": "Podstawowy",
+      "description": "Potwierdza umiejętność tworzenia dostępnych dokumentów biurowych zgodnych z WCAG 2.1 AA.",
+      "learningOutcome": [
+        "Tworzy dokumenty Word z zachowaniem struktury nagłówków i stylów.",
+        "Dodaje alternatywne opisy dla obrazów i grafik.",
+        "Tworzy dostępne listy, tabele i spisy treści.",
+        "Zachowuje kontrast i czytelność tekstu.",
+        "Weryfikuje dokumenty za pomocą narzędzia Sprawdź dostępność."
+      ],
+      "awardingBody": {
+        "@type": "Organization",
+        "name": "Zespół ds. dostępności cyfrowej"
+      },
+      "validFor": "P3Y"
+    },
+
+    {
+      "@type": "EducationalOccupationalCredential",
+      "identifier": "PL-MICRO-002",
+      "name": "Redaktor treści cyfrowych – poziom podstawowy",
+      "educationalLevel": "Podstawowy",
+      "description": "Potwierdza umiejętność redagowania zrozumiałych i dostępnych treści cyfrowych.",
+      "learningOutcome": [
+        "Redaguje treści zgodnie z zasadami prostego języka.",
+        "Stosuje logiczną strukturę i poprawne nagłówki.",
+        "Tworzy listy i linki opisowe.",
+        "Dostosowuje treść do potrzeb różnych odbiorców."
+      ],
+      "awardingBody": {
+        "@type": "Organization",
+        "name": "Zespół ds. dostępności cyfrowej"
+      },
+      "validFor": "P3Y"
+    },
+
+    {
+      "@type": "EducationalOccupationalCredential",
+      "identifier": "PL-MICRO-003",
+      "name": "Projektant dostępnych dokumentów PDF",
+      "educationalLevel": "Rozszerzony",
+      "description": "Potwierdza umiejętność tworzenia i naprawy dostępnych dokumentów PDF zgodnych z PDF/UA i WCAG 2.1.",
+      "learningOutcome": [
+        "Tworzy i testuje strukturę tagów PDF.",
+        "Analizuje raporty błędów w Acrobat i PAC.",
+        "Usuwa błędy strukturalne i dodaje metadane.",
+        "Eksportuje dokumenty zgodne z PDF/UA."
+      ],
+      "awardingBody": {
+        "@type": "Organization",
+        "name": "Zespół ds. dostępności cyfrowej"
+      },
+      "validFor": "P3Y"
+    },
+
+    {
+      "@type": "EducationalOccupationalCredential",
+      "identifier": "PL-MICRO-004",
+      "name": "Twórca dostępnych szablonów dokumentów",
+      "educationalLevel": "Rozszerzony",
+      "description": "Potwierdza kompetencje w zakresie projektowania i testowania szablonów dokumentów urzędowych zgodnych z WCAG 2.1.",
+      "learningOutcome": [
+        "Definiuje style i hierarchię nagłówków.",
+        "Tworzy szablony Word i PowerPoint zgodne z WCAG.",
+        "Testuje poprawność stylów i pól automatycznych.",
+        "Stosuje metadane i ujednolicone formatowanie."
+      ],
+      "awardingBody": {
+        "@type": "Organization",
+        "name": "Zespół ds. dostępności cyfrowej"
+      },
+      "validFor": "P3Y"
+    },
+
+    {
+      "@type": "EducationalOccupationalCredential",
+      "identifier": "PL-MICRO-005",
+      "name": "Redaktor – tester treści internetowych",
+      "educationalLevel": "Rozszerzony",
+      "description": "Potwierdza umiejętność publikowania treści w CMS zgodnych z WCAG 2.1.",
+      "learningOutcome": [
+        "Dodaje treści w CMS zgodnie z WCAG 2.1.",
+        "Stosuje alternatywy tekstowe dla multimediów.",
+        "Tworzy poprawne struktury nagłówków i linków.",
+        "Korzysta z narzędzi walidacyjnych do testowania dostępności."
+      ],
+      "awardingBody": {
+        "@type": "Organization",
+        "name": "Zespół ds. dostępności cyfrowej"
+      },
+      "validFor": "P3Y"
+    },
+
+    {
+      "@type": "EducationalOccupationalCredential",
+      "identifier": "PL-MICRO-006",
+      "name": "Specjalista ds. testowania i oceny dostępności dokumentów",
+      "educationalLevel": "Zaawansowany",
+      "description": "Potwierdza kompetencje w zakresie audytu i raportowania dostępności dokumentów cyfrowych.",
+      "learningOutcome": [
+        "Przeprowadza audyty dostępności dokumentów Word, PDF i ePUB.",
+        "Stosuje narzędzia PAC, Axe, CommonLook.",
+        "Opracowuje raporty zgodności z WCAG 2.1 AA.",
+        "Formułuje rekomendacje naprawcze."
+      ],
+      "awardingBody": {
+        "@type": "Organization",
+        "name": "Pełnomocnik ds. dostępności cyfrowej"
+      },
+      "validFor": "P4Y"
+    },
+
+    {
+      "@type": "EducationalOccupationalCredential",
+      "identifier": "PL-MICRO-007",
+      "name": "Projektant publikacji cyfrowych (InDesign / ePUB)",
+      "educationalLevel": "Zaawansowany",
+      "description": "Potwierdza umiejętność tworzenia i eksportowania dostępnych publikacji elektronicznych w formatach PDF/UA i ePUB 3.",
+      "learningOutcome": [
+        "Projektuje publikacje w Adobe InDesign z użyciem stylów i tagów.",
+        "Tworzy interaktywne spisy treści i podpisy.",
+        "Eksportuje publikacje do PDF/UA lub ePUB 3.",
+        "Testuje czytelność i dostępność publikacji."
+      ],
+      "awardingBody": {
+        "@type": "Organization",
+        "name": "Pełnomocnik ds. dostępności cyfrowej"
+      },
+      "validFor": "P4Y"
+    },
+
+    {
+      "@type": "EducationalOccupationalCredential",
+      "identifier": "PL-MICRO-008",
+      "name": "Ekspert – konsultant ds. dostępnych dokumentów cyfrowych",
+      "educationalLevel": "Zaawansowany",
+      "description": "Najwyższy poziom mikropoświadczenia, potwierdzający zdolność doradzania i szkolenia innych pracowników w zakresie dostępności dokumentów cyfrowych.",
+      "learningOutcome": [
+        "Doradza w zakresie opracowania dokumentów dostępnych cyfrowo.",
+        "Weryfikuje poprawność dokumentów i szablonów.",
+        "Prowadzi szkolenia i konsultacje wewnętrzne.",
+        "Opracowuje standardy i procedury oceny dostępności w jednostce."
+      ],
+      "awardingBody": {
+        "@type": "Organization",
+        "name": "Kierownik jednostki / Zespół ds. dostępności cyfrowej"
+      },
+      "validFor": "P5Y"
+    }
+  ]
+}
