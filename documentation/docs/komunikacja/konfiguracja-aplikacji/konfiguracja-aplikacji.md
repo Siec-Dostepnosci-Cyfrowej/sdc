@@ -1,10 +1,15 @@
 ---
 id: konfiguracja-aplikacji
 title: Wprowadzenie domyślnych ustawień dostępności dla aplikacji cyfrowych w organizacji wykorzystywanych do komunikacji
+sidebar_position: 0
+sidebar_label: Konfiguracja aplikacji
+keywords: [komunikacja]
+tags: [komunikacja]
 opracowanie: Aleksandra Cybulska
-data dodania: 18 listopada 2025 r.
-data zmiany: 20 listopada 2025 r.
+data_zgloszenia: 18 listopada 2025 r.
+ostatnia_aktualizacja: 20 lutego 2026 r.
 ---
+
 
 ## Nazwa dobrej praktyki
 Wprowadzenie domyślnych ustawień dostępności dla aplikacji cyfrowych w organizacji wykorzystywanych do komunikacji
