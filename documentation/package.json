@@ -43,7 +43,7 @@
     "@tailwindcss/postcss": "^4.1.18",
     "@types/imagemin": "9.0.1",
     "@types/imagemin-mozjpeg": "8.0.4",
-    "autoprefixer": "^10.4.23",
+    "autoprefixer": "^10.4.24",
     "imagemin": "9.0.1",
     "imagemin-cli": "8.0.0",
     "imagemin-mozjpeg": "10.0.0",
