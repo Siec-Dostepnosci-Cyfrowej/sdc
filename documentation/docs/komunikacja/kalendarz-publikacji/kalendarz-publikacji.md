@@ -6,7 +6,7 @@ sidebar_label: Kalendarz publikacji
 sidebar_position: 0 
 opracowanie: Aleksandra Cybulska
 data_zgloszenia: 18 listopada 2025 r.
-ostatnia_aktualizacja: 19 listopada 2025 r.
+ostatnia_aktualizacja: 20 lutego 2026 r.
 wersja_robocza: true
 ---
 
