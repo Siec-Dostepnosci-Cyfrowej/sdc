@@ -1,5 +1,5 @@
 ---
-id: zapewnianie-wsparcia-zalecenie
+id: zapewnianie-dostosowan-zalecenie
 title: Zalecenie w sprawie procedury zapewniania pracownikom dostosowań i racjonalnych usprawnień
 description: Projekt zalecenia Stworzenie procedury zapewniania pracownikom dostosowań i racjonalnych usprawnień cyfrowych
 sidebar_label: Zalecenie w sprawie procedury
@@ -7,7 +7,7 @@ sidebar_position: 0
 keywords: [WCAG 2.1 AA, dostepność cyfrowa, dostosowania, racjonalne usprawnienia]
 tags: [WCAG 2.1 AA, dostepność cyfrowa, dostosowania, racjonalne usprawnienia]
 data_zgloszenia: 3 listopada 2025 r.
-ostatnia_aktualizacja: 12 stycznia 2026 r.
+ostatnia_aktualizacja: 20 lutego 2026 r.
 opracowanie: Stefan Wajda
 wersja_robocza: true
 ---

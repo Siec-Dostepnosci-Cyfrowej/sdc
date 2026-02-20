@@ -1,5 +1,5 @@
 ---
-id: instrukcja-dla-pracownikow-duza-instytucja
+id: zapewnianie-dostosowan-instrukcja-duza-jednostka
 title: Wzór instrukcji dla pracowników (duża instytucja)
 description: Przykładowa instrukcja dla użytkownika 
 sidebar_label: Wzór instrukcji  (duża instytucja)
@@ -7,7 +7,7 @@ sidebar_position: 9
 keywords: [WCAG 2.1 AA, dostepność cyfrowa, dostosowania, racjonalne usprawnienia, procedura]
 tags: [WCAG 2.1 AA, dostepność cyfrowa, dostosowania, racjonalne usprawnienia, procedura]
 data_zgloszenia: 3 listopada 2025 r.
-ostatnia_aktualizacja: 14 listopada 2025 r.
+ostatnia_aktualizacja: 20 lutego 2026 r.
 opracowanie: Stefan Wajda
 wersja_robocza: true
 ---

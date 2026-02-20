@@ -1,5 +1,5 @@
 ---
-id: zapewnianie-wsparcia-procedura-projekt
+id: zapewnianie-dostosowan-procedura-projekt
 title: Projekt procedury zapewniania pracownikom dostosowań i racjonalnych usprawnień cyfrowych
 description: Stworzenie procedury uzyskiwnia wsparcia prez pracowników i współpacowników organizacji.
 sidebar_label: Projekt procedury
@@ -7,7 +7,7 @@ sidebar_position: 2
 keywords: [WCAG 2.1 AA, dostepność cyfrowa, dostosowania, racjonalne usprawnienia, procedura]
 tags: [WCAG 2.1 AA, dostepność cyfrowa, dostosowania, racjonalne usprawnienia, procedura]
 data_zgloszenia: 3 listopada 2025 r.
-ostatnia_aktualizacja: 14 listopada 2025 r.
+ostatnia_aktualizacja: 20 lutego 2026 r.
 opracowanie: Stefan Wajda
 wersja_robocza: true
 ---

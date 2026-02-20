@@ -1,5 +1,5 @@
 ---
-id: zapewnianie-wsparcia-procedura-uproszczona
+id: zapewnianie-dostosowan-procedura-uproszczona
 title: Projekt procedury zapewniania pracownikom dostosowań i racjonalnych usprawnień cyfrowych
 description: Uproszczona procedura zapewniania pracownikom dostosowań i usprawnień cyfrowych
 sidebar_label: Uproszczona procedura
@@ -7,7 +7,7 @@ sidebar_position: 4
 keywords: [WCAG 2.1 AA, dostepność cyfrowa, dostosowania, racjonalne usprawnienia, procedura]
 tags: [WCAG 2.1 AA, dostepność cyfrowa, dostosowania, racjonalne usprawnienia, procedura]
 data_zgloszenia: 3 listopada 2025 r.
-ostatnia_aktualizacja: 14 listopada 2025 r.
+ostatnia_aktualizacja: 20 lutego 2026 r.
 opracowanie: Stefan Wajda
 wersja_robocza: true
 ---

@@ -1,5 +1,5 @@
 ---
-id: zapewnianie-wsparcia-formularz-mala-instytucja
+id: zapewnianie-dostosowan-formularz-mala-jednostka
 title: Wzór wniosku o zapewnienie dostosowań lub usprawnień w środowisku pracy cyfrowej 
 description: Przykład struktury i treści wniosku o dostosowanie / racjonalne usprawnienie cyfrowe
 sidebar_label: Wzór wniosku (mała instytucja)
@@ -7,7 +7,7 @@ sidebar_position: 8
 keywords: [WCAG 2.1 AA, dostepność cyfrowa, dostosowania, racjonalne usprawnienia, procedura]
 tags: [WCAG 2.1 AA, dostepność cyfrowa, dostosowania, racjonalne usprawnienia, procedura]
 data_zgloszenia: 3 listopada 2025 r.
-ostatnia_aktualizacja: 14 listopada 2025 r.
+ostatnia_aktualizacja: 20 lutego 2026 r.
 opracowanie: Stefan Wajda
 wersja_robocza: true
 ---

@@ -1,5 +1,5 @@
 ---
-id: zapewnianie-wsparcia-lista-kontrolna
+id: zapewnianie-dostosowan-lista-kontrolna
 title: Lista kontrolna  o dostosowanie / racjonalne usprawnienie cyfrowe
 description: Lista kontrolna dla oceniających proces zapewniania pracownikom dostosowań i racjonalnych usprawnień cyfrowych
 sidebar_label: Lista kontrolna
@@ -7,7 +7,7 @@ sidebar_position: 11
 keywords: [WCAG 2.1 AA, dostepność cyfrowa, dostosowania, racjonalne usprawnienia, lista kontrolna]
 tags: [WCAG 2.1 AA, dostepność cyfrowa, dostosowania, racjonalne usprawnienia, lista kontrolna]
 data_zgloszenia: 3 listopada 2025 r.
-ostatnia_aktualizacja: 14 listopada 2025 r.
+ostatnia_aktualizacja: 20 lutego 2026 r.
 opracowanie: Stefan Wajda
 wersja_robocza: true
 ---
