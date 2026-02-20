@@ -1,7 +1,7 @@
 ---
 id: konfiguracja-aplikacji
 title: Wprowadzenie domyślnych ustawień dostępności dla aplikacji cyfrowych w organizacji wykorzystywanych do komunikacji
-sidebar_position: 0
+sidebar_position: 1
 sidebar_label: Konfiguracja aplikacji
 keywords: [komunikacja]
 tags: [komunikacja]
