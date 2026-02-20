@@ -6,9 +6,9 @@ sidebar_position: 2
 sidebar_label: Alternatywny projekt zalecenia 
 keywords: [WCAG, dostepność cyfrowa, wiedza i umiejetności, wdrażanie dostępności, liderzy dostępności, sieć liderów dostępności, społeczności praktyków]
 tags: [WCAG, dostepność cyfrowa, wiedza i umiejętności, wdrażanie dostępności, liderzy dostępności, sieć liderów dostępności, społeczności praktyków]
-opracowanie: Stefan Wajda
+opracowanie: Anna Dybiec, Stefan Wajda
 data_zgloszenia: 11 stycznia 2026 r.
-ostatnia_aktualizacja: 11 stycznia 2026 r.
+ostatnia_aktualizacja: 20 lutego 2026 r.
 wersja_robocza: true
 ---
 
