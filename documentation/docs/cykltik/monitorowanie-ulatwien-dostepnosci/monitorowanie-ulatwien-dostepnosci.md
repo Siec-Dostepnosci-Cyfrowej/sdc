@@ -1,0 +1,44 @@
+---
+id: monitorowanie-ulatwien-dostepnosci
+title: Monitorowanie użycia funkcji ułatwień dostępu na stronie internetowej
+description: (...)
+sidebar_label: Monitorowanie ułatwień dostępu
+sidebar_position: 1 
+keywords: [dostepność cyfrowa, cykl życia TiK, ułatwienia dostępności]
+tags: [dostepność cyfrowa, cykl życia TiK, ułatwienia dostępności]
+data_zgloszenia: 27 lutego 2026 r.
+ostatnia_aktualizacja: 27 lutego 2026 r.
+opracowanie: Marcin Adamski
+wersja_robocza: true
+---
+
+## Opis problemu
+Zapewnienie dostępności cyfrowej stron internetowych i aplikacji mobilnych stanowi dla podmiotu publicznego koszt. Zasadnicza część tego kosztu może nie być łatwa do wyliczenia, ponieważ spełnienie odpowiednich wymagań dostępności cyfrowej realizowane jest w procesie wytwórczym danego produktu. Kupujemy lub tworzymy rozwiązania spełniające w największym możliwym stopniu wymagania ustawowe i płacimy za ten wymiar jakości w ramach ogólnej kwoty (np. wynagrodzenie wykonawcy, koszt licencji oprogramowania). Łatwiejszy do identyfikacji będzie koszt związany z audytem dostępności strony internetowej czy aplikacji mobilnej, a także koszt ewentualnego dostosowania (naprawy błędów) - jeśli nie przewidziano ich naprawy w koszcie ogólnym lub gdy naprawa wykracza poza wcześniejsze założenia finansowe. Zasadą wydatkowania środków publicznych jest celowość i gospodarność. Dlatego widoczna skala kosztów zapewnienia dostępności cyfrowej może podlegać różnego rodzaju ocenom czy kontrolom. Mogą pojawić się wątpliwości w kontekście celowości wydatków w tym obszarze. Zwłaszcza, gdy oceny dokonują osoby, które nie są zorientowane w specyfice zagadnienia dostępności - ponieważ nie należy to do ich kompetencji.
+
+**Dlatego warto, aby osoby odpowiedzialne w organizacji za zapewnienie dostępności cyfrowej (np. koordynatorzy dostępności) zadbali o mierzenie wykorzystania funkcji ułatwień dostępu na stronach internetowych i w aplikacjach mobilnych organizacji. Część danych w tym zakresie może być uzyskiwana w sposób zautomatyzowany.** Dostęp do twardych danych i możliwość ich raportowania np. osobom decyzyjnym pozwala w bardziej kompetentny i konkretny sposób wypowiadać się o efektywności kosztowej zapewniania dostępności cyfrowej. Należy mieć jednak na uwadze to, że zmierzenie całościowego wykorzystania różnorodnych funkcji, opcji i narzędzi ułatwiajacych dostęp nie jest łatwe do realizacji, jeśli nie niemożliwe. Występują tu ograniczenia, dla których trudno znaleźć obejście. W efekcie, zebrane dane mogą przedstawiać pewien wycinek obrazu sytuacji. Niemniej, lepiej dysponować jakimikolwiek danymi niż żadnymi. 
+
+## Opis praktyki
+Praktyka dotyczy mierzenia konwersji korzystania przez użytkowników z wybranych ułatwień dostępu zapewnianych przez stronę internetową i przez urządzenie/ system operacyjny, z którego użytkownik korzysta. Jest zdefiniowana jako projekt o charakterze analitycznym.
+
+1. **Zainicjuj projekt w sposób oficjalny, zgodnie z praktyką organizacji. Zbierz niezbędne zasoby.** Uzyskaj dla projektu poparcie osób decyzyjnych. Powinny one znać cel i proponowany sposób realizacji. Jeśli w organizacji nie ma kompetencji w obsłudze narzędzi analityki internetowej i/lub nie ma takich rozwiązań w użyciu - trzeba te kompetencje i narzędzia pozyskać.  
+   
+3. **Wybierz optymalne narzędzie do monitorowania statystyk użytkowania strony internetowej.** Jeśli w organizacji jest używana jakaś platforma analityczna, należy analizować jej wykorzystanie. Jeśli organizacja nie korzystała wcześniej z tego typu narzędzi, sugerowane jest użycie oprogramowania wolnolicencyjnego (tzw. open source). Przykładem takiego rozwiązania jest platforma analityczna Matomo. Jest to narzędzie analityki internetowej dostępne w wersji darmowej (wymaga instalacji na własnym serwerze) oraz wersji płatnej (oprogramowanie w chmurze). Platforma Matomo jest wykorzystywana przez wiele instytucji publicznych, jako alternatywa dla Google Analytics.
+
+4. **Określ zakres funkcji, opcji i narzędzi ułatwiających dostęp, których użycie zamierzasz monitorować.** Możesz uwzględnić zarówno opcje dostarczane z poziomu strony internetowej (np. tryb wysokiego kontrastu, powiększona czcionka), jak też narzędzia systemowe urządzenia, z którego korzysta użytkownik (np. systemowy tryb wysokiego kontrastu). Na tym etapie warto pracować w gronie praktyków, osób dobrze zorientowanych w temacie dostępności cyfrowej: koordynator dostępności, analityk, programista, osoby z różnego rodzaju potrzebami, korzystający z róznego typu ułatwień. Dzięki temu możliwa jest szeroka analiza i finalne wytypowanie najtrafniejszych z punktu widzenia statystycznego funkcji ułatwień dostępu. Ale też wykluczenie błędnych ścieżek, czyli próby mierzenia zdarzeń, dla których istnieją istotne ograniczenia merytoryczne lub techniczne.
+
+5. **Wdróż i osadź testowo kody śledzące na stronie internetowej. Skonfiguruj widoki raportów na platformie analitycznej. Sprawdź poprawność działania statystyk.** Na tym etapie, stworzony wcześniej zespół powinien ocenić uzyskiwane dane. W razie potrzeby, podejście do monitorowania statystyk może być modyfikowane.
+
+6. **Wdróż produkcyjnie. Zbierz próbkę danych statystycznych z ustalonego okresu. Zaprezentuj rozwiązanie osobom decyzyjnym.** Elementami podsumowania mogą być: prezentacja zebranych danych statystycznych, objaśnianie wyników, próba interpretacji, wyciąganie wniosków, ewentualna dyskusja merytoryczna. Warto ugruntować kontynuację monitoringu decyzją zarządczą. Koordynator dostępności może mieć stały dostęp do panelu platformy analitycznej, aby samodzielnie realizować działąnia monitorujące i raportowe w przyszłości.
+
+### Propozycje danych do monitorowania konwersji
+- **Rozmiar czcionki (ikona na stronie internetowej)** - liczba konwersji pokaże, ile razy użytkownicy zmienili wielkość tekstu przyciskiem na stronie. Każde kliknięcie liczy się osobno.
+
+- **Tryb wysokiego kontrastu (ikona na stronie internetowej)** - liczba konwersji pokaże, ile razy użytkownicy kliknęli przycisk zmiany kontrastu na stronie. Każde kliknięcie liczy się osobno (jedna osoba może wygenerować kilka konwersji).
+
+- **Systemowy tryb wysokiego kontrastu** - liczba konwersji pokaże, ile razy wykryto, że użytkownik ma w swoim systemie lub przeglądarce włączony tryb wysokiego kontrastu. Nie dotyczy kliknięcia przycisku na stronie – jest to ustawienie urządzenia wykrywane automatycznie przy wejściu na stronę.
+
+- **Style CSS wyłączone** - liczba konwersji pokaże, ile razy strona została wyświetlona bez stylów graficznych (w uproszczonym widoku bez kolorów i układu). Wynik należy interpretować ostrożnie – brak stylów może wynikać także z błędów ładowania strony lub innych blokad przegląrki.
+
+- **Systemowe ograniczenie animacji** - liczba konwersji pokaże, ile razy wykryto, że użytkownik ma w swoim systemie lub przeglądarce włączone ograniczenie animacji (ustawienie „mniej ruchu”). Oznacza to, że urządzenie sygnalizuje potrzebę ograniczenia efektów ruchu i przejść na stronie.
+
+- **Tylko klawiatura** - liczba konwersji pokaże, ile razy system wykrył użytkownika poruszającego się po stronie wyłącznie przy użyciu klawiatury (bez użycia myszy). Zdarzenie rejestrowane jest automatycznie na podstawie sposobu korzystania ze strony.
