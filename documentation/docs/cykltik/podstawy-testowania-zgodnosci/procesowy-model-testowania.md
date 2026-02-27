@@ -1,14 +1,14 @@
 ---
 id: procesowy-model-testowania
-title: Procesowy model testowania zgodności TIK z EN 301 549 
+title: Procesowy model testowania zgodności
 sidebar_label: Procesowy model testowania zgodności
-sidebar_position: 6
-description: Szablon pojedynczej procedury testowej polskich podstaw metodyki testowania zgodności produktów cyfrowych z EN 301 549
+sidebar_position: 5
+description: Przedstawia koncepcję procesowego modelu testowania zgodności ukierunkowanego na zapewnienie ciągłości procesu oceny i poprawy dostępności
 keywords: [cykl życia TIK, dostępność cyfrowa, testowanie dostępności, przegląd dostępności, audyt dostępności, dezyderat]
 tags: [cykl życia TIK, dostępność cyfrowa, testowanie dostępności, przegląd dostępności, audyt dostępności, dezyderat]
 opracowanie: Stefan Wajda 
 data_zgloszenia: 26 lutego 2026 r.
-ostatnia_aktualizacja: 26 lutego 2026 r.
+ostatnia_aktualizacja: 27 lutego 2026 r.
 wersja_robocza: true
 
 ---
