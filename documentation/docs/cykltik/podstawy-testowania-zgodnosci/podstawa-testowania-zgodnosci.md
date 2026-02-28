@@ -203,7 +203,7 @@ Monitoring pełni funkcję detekcyjną, prewencyjną i diagnostyczną.
 
 #### Poziom A – Ocena rdzeniowa
 
-Obejmuje weryfikację fundamentów operowalności, percepcji i podstawowej programowej dostępności. Stosowana w&nbsp;profilach Przegląd wstępny i Fundamenty.
+Obejmuje weryfikację fundamentów operowalności, percepcji i podstawowej programowej dostępności. Stosowana w&nbsp;profilach Przegląd wstępny i Fundamenty zgodności.
 
 #### Poziom B – Ocena reprezentatywna
 
