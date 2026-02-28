@@ -16,7 +16,7 @@ wersja_robocza: true
 
 ## A.1 Status załącznika
 
-Niniejszy załącznik ma charakter normatywno‑informacyjny.
+Ten załącznik ma charakter normatywno-informacyjny.
 
 Nie ustanawia odrębnego modelu dojrzałości. Operacjonalizuje wybrane elementy W3C Accessibility Maturity Model (AMM) w kontekście monitoringu zgodności z EN 301 549 oraz stosowania UMPTZ.
 
@@ -39,7 +39,7 @@ Monitoring dostępności stanowi jeden z kluczowych przejawów tej dojrzałości
 
 ## A.3 Poziomy dojrzałości monitoringu
 
-### Poziom 1 – Initial (Ad hoc)
+### Poziom 1 – Początkowy (Ad hoc)
 
 Charakterystyka:
 
@@ -55,7 +55,7 @@ Konsekwencje:
 
 ---
 
-### Poziom 2 – Managed (Repeatable)
+### Poziom 2 – Wdrożeniowy
 
 Charakterystyka:
 
@@ -71,11 +71,11 @@ Dla podmiotów publicznych oraz podmiotów objętych obowiązkami wynikającymi 
 
 ---
 
-### Poziom 3 – Defined
+### Poziom 3 – Zintegrowany
 
 Charakterystyka:
 
-* monitoring zintegrowany z cyklem życia produktu (SDLC),
+* monitoring zintegrowany z cyklem życia produktu,
 * testy regresji dostępności w procesie wdrożeniowym,
 * weryfikacja dostępności nowych komponentów przed publikacją,
 * spójny rejestr powiązany z procesem naprawczym,
@@ -88,7 +88,7 @@ Efekt:
 
 ---
 
-### Poziom 4 – Optimizing
+### Poziom 4 – Doskonalący
 
 Charakterystyka:
 

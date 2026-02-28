@@ -1,7 +1,7 @@
 ---
 id: profil-fundamentow
-title:  Profil Fundamentów (przykład zastosowania Poziomu A)
-sidebar_label: Profil Fundamentów
+title:  Profil Fundamenty zgodności 
+sidebar_label: Profil Fundamenty zgodności 
 sidebar_position: 2
 description: Projekt jednolitej, referencyjnej „Podstawy testowania zgodności” produktów i usług cyfrowych 
 keywords: [cykl życia TIK, dostępność cyfrowa, testowanie dostępności, przegląd dostępności, audyt dostępności, dezyderat]
@@ -13,21 +13,21 @@ wersja_robocza: true
 
 ---
 
-**Załącznik B**
+**Załącznik B (przykład zastosowania Poziomu A)**
 
 ## B.1 Status załącznika
 
-Niniejszy załącznik ma charakter operacyjny i przykładowy.
+Ten załącznik ma charakter operacyjny i przykładowy.
 
-Profil Fundamentów stanowi wzorcowe zastosowanie Poziomu A (ocena rdzeniowa) w rozumieniu UMPTZ.
+Profil Fundamenty zgodności stanowi wzorcowe zastosowanie Poziomu A (ocena rdzeniowa) w rozumieniu UMPTZ.
 
 Profil ten nie stanowi podstawy deklaracji dostępności i nie zastępuje oceny reprezentatywnej (Poziom B).
 
 ---
 
-## B.2 Cel Profilu Fundamentów
+## B.2 Cel Profilu Fundamenty zgodności
 
-Celem Profilu Fundamentów jest odpowiedź na pytanie:
+Celem Profilu Fundamenty zgodności jest odpowiedź na pytanie:
 
 > Czy produkt cyfrowy posiada minimalną, strukturalną zdolność do osiągnięcia zgodności z EN 301 549?
 
@@ -40,7 +40,7 @@ Profil ten identyfikuje bariery systemowe, które:
 
 ---
 
-## B.3 Zakres kryteriów objętych Profilem Fundamentów
+## B.3 Zakres kryteriów objętych Profilem Fundamenty zgodności
 
 Profil obejmuje wybrane wymagania rdzeniowe, w szczególności dotyczące:
 
@@ -81,7 +81,7 @@ Zakres może zostać doprecyzowany w dokumentacji modułowej.
 
 ## B.4 Minimalna próbka
 
-Próbka dla Profilu Fundamentów powinna obejmować co najmniej:
+Próbka dla Profilu Fundamenty zgodności powinna obejmować co najmniej:
 
 * stronę startową / ekran główny,
 * kluczowy proces wieloetapowy,
@@ -95,7 +95,7 @@ Jeżeli w produkcie występuje wiele odmiennych typów widoków, należy uwzglę
 
 ## B.5 Minimalne testy obowiązkowe
 
-W ramach Profilu Fundamentów obowiązkowe są:
+W ramach Profilu Fundamenty zgodności obowiązkowe są:
 
 * pełne przejście głównego scenariusza z użyciem klawiatury,
 * weryfikacja podstawowej obsługi przy użyciu technologii asystującej,
@@ -108,7 +108,7 @@ Testy wykonywane są zgodnie z procedurami opisanymi w rozdziale 7.
 
 ## B.6 Interpretacja wyniku
 
-Wynik Profilu Fundamentów powinien zawierać:
+Wynik Profilu Fundamenty zgodności powinien zawierać:
 
 1. Informację, czy produkt posiada „zdolność strukturalną do zgodności”.
 2. Wykaz barier systemowych.
@@ -117,13 +117,13 @@ Wynik Profilu Fundamentów powinien zawierać:
    * gotowy do oceny reprezentatywnej (Poziom B), lub
    * wymagane działania naprawcze przed dalszym testowaniem.
 
-Profil Fundamentów ma charakter decyzyjny i zarządczy.
+Profil Fundamenty zgodności ma charakter decyzyjny i zarządczy.
 
 ---
 
 ## B.7 Relacja do dalszych ocen
 
-Spełnienie wymagań Profilu Fundamentów nie oznacza pełnej zgodności z EN 301 549.
+Spełnienie wymagań Profilu Fundamenty zgodności nie oznacza pełnej zgodności z EN 301 549.
 
 Profil ten stanowi etap przygotowawczy przed:
 

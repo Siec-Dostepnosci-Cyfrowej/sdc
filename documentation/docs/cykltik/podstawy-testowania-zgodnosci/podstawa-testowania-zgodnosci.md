@@ -24,7 +24,7 @@ wersja_robocza: true
 
 Niniejszy dokument stanowi referencyjną „Podstawę testowania zgodności TIK z EN 301 549”.
 
-Dokument ma charakter metodyczny i operacyjny. Nie zastępuje norm technicznych ani przepisów prawa. Określa jednolite zasady organizacji, przeprowadzania i dokumentowania ocen zgodności technologii informacyjno‑komunikacyjnych (TIK) z wymaganiami EN 301 549 oraz – w zakresie, w jakim norma się do nich odwołuje – z WCAG 2.x.
+Dokument ma charakter metodyczny i operacyjny. Nie zastępuje norm technicznych ani przepisów prawa. Określa jednolite zasady organizacji, przeprowadzania i dokumentowania ocen zgodności technologii informacyjno‑komunikacyjnych (TIK) z&nbsp;wymaganiami EN 301 549 oraz – w zakresie, w jakim norma się do nich odwołuje – z WCAG 2.x.
 
 ---
 
@@ -46,7 +46,7 @@ Metodyka obejmuje ocenę zgodności następujących kategorii produktów i usłu
 
 * Strony internetowe i aplikacje webowe.
 * Aplikacje mobilne.
-* Dokumenty elektroniczne (w szczególności PDF, dokumenty pakietów biurowych, e‑publikacje).
+* Dokumenty elektroniczne (w szczególności PDF, dokumenty pakietów biurowych, e-publikacje).
 * Oprogramowanie (desktop, klient–serwer, kioski, systemy dedykowane).
 * Usługi wsparcia i dokumentację użytkownika, jeżeli objęte są zakresem oceny zgodności.
 
@@ -66,7 +66,7 @@ Zorganizowany proces weryfikacji spełnienia wymagań EN 301 549 w określonym z
 
 Klasyfikacja zakresu i kompletności oceny:
 
-* **Poziom A (ocena rdzeniowa)** – minimalny zestaw testów dotyczących fundamentów percepcji, operowalności i podstawowej programowej dostępności.
+* **Poziom A (ocena rdzeniowa)** – minimalny zestaw testów dotyczących fundamentów percepcji, operowalności i&nbsp;podstawowej programowej dostępności.
 * **Poziom B (ocena reprezentatywna)** – pełne pokrycie reprezentatywnej próbki obejmującej wszystkie obszary funkcjonalne produktu.
 * **Poziom C (ocena pełna)** – pełne pokrycie wszystkich wymagań normy oraz wszystkich procesów i ról użytkownika.
 
@@ -80,19 +80,19 @@ Zdefiniowany, powtarzalny opis sposobu weryfikacji konkretnego wymagania normaty
 
 #### Test (wykonanie testu)
 
-Praktyczne wykonanie procedury testowej w odniesieniu do wskazanego zakresu (np. widoku, komponentu, procesu) w określonym środowisku.
+Praktyczne wykonanie procedury testowej w odniesieniu do wskazanego zakresu (np. widoku, komponentu, procesu) w&nbsp;określonym środowisku.
 
 #### Monitoring
 
-Stały zestaw działań służących wykrywaniu regresji dostępności i generowaniu sygnałów do interwencji procesowej w UMPTZ (np. skanowanie, analiza zmian, analiza zgłoszeń użytkowników, obserwacja trendów).
+Stały zestaw działań służących wykrywaniu regresji dostępności i generowaniu sygnałów do interwencji procesowej w&nbsp;UMPTZ (np. skanowanie, analiza zmian, analiza zgłoszeń użytkowników, obserwacja trendów).
 
 #### Ocena okresowa (w tym ocena roczna)
 
-Sformalizowane podsumowanie stanu zgodności w określonym czasie, realizowane na podstawie danych z monitoringu i rejestru, uzupełnione brakującymi testami do wymaganego poziomu (dla oceny rocznej – Poziom B).
+Sformalizowane podsumowanie stanu zgodności w określonym czasie, realizowane na podstawie danych z monitoringu i&nbsp;rejestru, uzupełnione brakującymi testami do wymaganego poziomu (dla oceny rocznej – Poziom B).
 
 #### Audyt pełny
 
-Ocena zgodności realizowana na Poziomie C, obejmująca pełne pokrycie wymagań normy oraz procesów i ról użytkownika, z rozbudowaną dokumentacją dowodową.
+Ocena zgodności realizowana na Poziomie C, obejmująca pełne pokrycie wymagań normy oraz procesów i ról użytkownika, z&nbsp;rozbudowaną dokumentacją dowodową.
 
 #### Niezgodność
 
@@ -127,8 +127,6 @@ Właściwość próbki, polegająca na objęciu wszystkich obszarów funkcjonaln
 3. Określenie **test** oznacza wykonanie procedury testowej w danym zakresie; określenie **procedura testowa** oznacza opis metody.
 4. Określenie **ocena roczna** oznacza ocenę okresową wymaganą do aktualizacji deklaracji, realizowaną co najmniej na Poziomie B.
 5. Określenie **audyt pełny** oznacza ocenę na Poziomie C.
-
----
 
 ---
 
@@ -184,7 +182,7 @@ Monitoring stanowi oś systemu zgodności, a oceny okresowe są elementem wtórn
 
 Model ma charakter pętli:
 
-Monitoring → Analiza sygnału → Test (A/B/C) → Rejestr → Naprawa → Retest → powrót do monitoringu
+Monitoring – Analiza sygnału – Test (A/B/C) – Rejestr – Naprawa – Retest – powrót do monitoringu
 
 ---
 
@@ -205,7 +203,7 @@ Monitoring pełni funkcję detekcyjną, prewencyjną i diagnostyczną.
 
 #### Poziom A – Ocena rdzeniowa
 
-Obejmuje weryfikację fundamentów operowalności, percepcji i podstawowej programowej dostępności. Stosowana w profilach Screening i Fundamenty.
+Obejmuje weryfikację fundamentów operowalności, percepcji i podstawowej programowej dostępności. Stosowana w&nbsp;profilach Przegląd wstępny i Fundamenty.
 
 #### Poziom B – Ocena reprezentatywna
 
@@ -269,7 +267,7 @@ Rejestr stanowi podstawę planowania działań naprawczych, raportowania postęp
 
 Profile testowania określają tryb zastosowania oceny zgodności w określonym kontekście organizacyjnym lub regulacyjnym.
 
-Profile nie definiują samodzielnie głębokości testu. Głębokość testu określana jest przez poziomy A/B/C opisane w rozdziale 3.
+Profile nie definiują samodzielnie głębokości testu. Głębokość testu określana jest przez poziomy A/B/C opisane w&nbsp;rozdziale&nbsp;3.
 
 Każdy profil musi jednoznacznie wskazywać:
 
@@ -280,11 +278,11 @@ Każdy profil musi jednoznacznie wskazywać:
 
 ---
 
-### 5.2 Profil 0 – Screening
+### 5.2 Profil 0 – Przegląd wstępny
 
 #### Cel
 
-Wstępna identyfikacja barier krytycznych przed publikacją produktu, wdrożeniem nowej wersji lub podjęciem decyzji o dalszej ocenie.
+Wstępna identyfikacja barier krytycznych przed publikacją produktu, wdrożeniem nowej wersji lub podjęciem decyzji o&nbsp;dalszej ocenie.
 
 #### Minimalna głębokość
 

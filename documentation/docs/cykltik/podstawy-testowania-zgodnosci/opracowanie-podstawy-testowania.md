@@ -1,14 +1,14 @@
 ---
-id: podstawy-testowania-zgodnosci
+id: opracowanie-podstawy-testowania
 title: Dezyderat w sprawie opracowania państwowej „Podstawy testowania zgodności” produktów i usług cyfrowych
-sidebar_label: Podstawy testowania zgodności
+sidebar_label: Opracowanie podstawy testowania zgodności
 sidebar_position: 0
 description: Projekt dezyderatu wniosku do Ministra Cyfryzacji o podjęcie prac nad opracowaniem jednolitej, referencyjnej „Podstawy testowania zgodności” produktów i usług cyfrowych 
 keywords: [cykl życia TIK, dostępność cyfrowa, testowanie dostępności, przegląd dostępności, audyt dostępności, dezyderat]
 tags: [cykl życia TIK, dostępność cyfrowa, testowanie dostępności, przegląd dostępności, audyt dostępności, dezyderat]
 opracowanie: Stefan Wajda 
 data_zgloszenia: 26 lutego 2026 r.
-ostatnia_aktualizacja: 26 lutego 2026 r.
+ostatnia_aktualizacja: 27 lutego 2026 r.
 wersja_robocza: true
 
 ---
@@ -121,9 +121,9 @@ W kontekście EAA brak referencyjnej metodyki testowania staje się problemem ni
 
 ---
 
-## III. Potrzeba opracowania „Podstawy testowania zgodności ICT”
+## III. Potrzeba opracowania „Podstawy testowania zgodności TIK”
 
-Sieć Dostępności Cyfrowej wskazuje na zasadność opracowania państwowej „Podstawy testowania zgodności ICT” – dokumentu definiującego:
+Sieć Dostępności Cyfrowej wskazuje na zasadność opracowania państwowej „Podstawy testowania zgodności TIK” – dokumentu definiującego:
 
 1. Jednolite procedury testowe dla poszczególnych kryteriów sukcesu WCAG 2.x w kontekście EN 301 549.
 2. Zasady przeprowadzania testów manualnych oraz z użyciem technologii asystujących.
@@ -185,7 +185,7 @@ Brak takiej podstawy powoduje, że odpowiedzialność za interpretację wymagań
 Sieć Dostępności Cyfrowej proponuje:
 
 1. Powołanie zespołu eksperckiego przy Ministrze Cyfryzacji.
-2. Opracowanie projektu „Podstawy testowania zgodności ICT” w trybie konsultacyjnym.
+2. Opracowanie projektu „Podstawy testowania zgodności TIK” w trybie konsultacyjnym.
 3. Przeprowadzenie pilotażu w wybranych instytucjach publicznych.
 4. Opublikowanie dokumentu jako referencyjnego materiału dla administracji publicznej.
 5. Uwzględnienie metodyki w projektach szkoleniowych oraz działaniach monitoringowych.
