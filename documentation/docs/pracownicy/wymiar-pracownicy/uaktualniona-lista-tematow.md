@@ -9,7 +9,7 @@ ostatnia_aktualizacja: 28 lutego 2026 r.
 wersja_robocza: true
 ---
 
-Zestaw tematów został opracowany na podstawie analizy braków w wymiarze **Wymiar Pracownicy**.  
+Zestaw tematów został opracowany na podstawie analizy braków w wymiarze **Pracownicy**.  
 
 ---
 
@@ -19,7 +19,7 @@ Zestaw tematów został opracowany na podstawie analizy braków w wymiarze **Wym
 - Standard ogłoszeń rekrutacyjnych (informacja o dostępności procesu, zachęta dla osób z niepełnosprawnościami)
 - Wymagania dostępności dla portali rekrutacyjnych i formularzy aplikacyjnych
 - Zapewnianie dostosowań podczas rozmów kwalifikacyjnych (czas, forma, AT)
-- Checklisty dla osób prowadzących rekrutację
+- Listy kontrolne dla osób prowadzących rekrutację
 - Wzory zapisów do ogłoszeń i regulaminów
 
 ### Uzasadnienie:
@@ -112,5 +112,5 @@ Każde zalecenie powinno zawierać:
 1. Część koncepcyjną (cel, podstawa prawna, powiązanie z AMM)
 2. Model dla dużych podmiotów
 3. Wersję uproszczoną dla małych podmiotów
-4. Checklistę wdrożeniową
+4. Listę kontrolną wdrożeniową
 5. Wzory dokumentów / klauzul / formularzy

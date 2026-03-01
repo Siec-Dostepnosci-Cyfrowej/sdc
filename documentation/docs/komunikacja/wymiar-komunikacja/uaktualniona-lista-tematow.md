@@ -9,7 +9,7 @@ ostatnia_aktualizacja: 28 lutego 2026 r.
 wersja_robocza: true
 ---
 
-Zestaw tematów został opracowany na podstawie analizy braków w wymiarze **Wymiar Komunikacja**.  
+Zestaw tematów został opracowany na podstawie analizy braków w wymiarze **Komunikacja**.  
 
 ---
 
@@ -34,7 +34,7 @@ Istnieją elementy cząstkowe (np. dokumenty dostępne), ale brak nadrzędnej, s
 - Struktura logiczna dokumentów (nagłówki, listy, tabele)
 - Standard tekstów alt i opisów grafik
 - Minimalne wymagania dla PDF, DOCX, HTML
-- Checklisty dla redaktorów
+- Listy kontrolne dla redaktorów
 
 ### Uzasadnienie:
 Brak jednolitego standardu redakcyjnego obejmującego zarówno język, jak i dostępność techniczną.
@@ -151,5 +151,5 @@ Brak formalnego standardu narzędzi wspierających tworzenie dostępnych treści
 2. Zakres zastosowania  
 3. Model dla dużych podmiotów  
 4. Wersja uproszczona dla małych podmiotów  
-5. Checklisty i wzory dokumentów  
+5. Listy kontrolne i wzory dokumentów  
 6. Powiązanie z innymi wymiarami (Cykl życia TIK, Wsparcie, Personel)

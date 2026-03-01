@@ -97,7 +97,7 @@ Brak dedykowanego programu kompetencyjnego dla kadry kierowniczej.
 ## 7. Zalecenie: Dostępne materiały edukacyjne i repozytorium wiedzy
 
 ### Zakres:
-- Centralne repozytorium materiałów (instrukcje, checklisty, wzory)
+- Centralne repozytorium materiałów (instrukcje, listy kontrolne, wzory)
 - Aktualizacja materiałów przy zmianach przepisów
 - Dostępne formaty (HTML, PDF/UA, napisy, ETR)
 - Proste przewodniki dla małych podmiotów
@@ -140,5 +140,5 @@ Brak modelu budowania wewnętrznych ekspertów zamiast uzależniania się wyłą
 2. Zakres ról objętych zaleceniem  
 3. Model dla dużych podmiotów  
 4. Wersja uproszczona dla małych podmiotów  
-5. Checklisty i wzory dokumentów  
+5. Listy kontrolne i wzory dokumentów 
 6. Powiązanie z innymi wymiarami (Personel, Cykl życia TIK, Komunikacja, Wsparcie)

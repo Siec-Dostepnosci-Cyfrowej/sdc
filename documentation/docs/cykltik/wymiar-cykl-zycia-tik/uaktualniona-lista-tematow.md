@@ -143,5 +143,5 @@ Kompetencje są częściowo ujęte w innych wymiarach, lecz brak standardu przyp
 2. Zakres zastosowania (systemy, SaaS, aplikacje mobilne, narzędzia wewnętrzne)  
 3. Model dla dużych podmiotów  
 4. Wersja uproszczona dla małych podmiotów  
-5. Checklisty i wzory dokumentów  
+5. Listy kontrolne i wzory dokumentów  
 6. Powiązanie z innymi wymiarami (Komunikacja, Wsparcie, Personel)

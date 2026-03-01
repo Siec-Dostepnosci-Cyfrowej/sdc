@@ -9,7 +9,7 @@ ostatnia_aktualizacja: 28 lutego 2026 r.
 wersja_robocza: true
 ---
 
-Zestaw tematów został opracowany na podstawie analizy braków w wymiarze **Wymiar Zaopatrzenie**.  
+Zestaw tematów został opracowany na podstawie analizy braków w wymiarze **Zaopatrzenie**.  
 
 ---
 
@@ -113,7 +113,7 @@ Brak systemowego mechanizmu egzekwowania zgodności po zakupie.
 
 ### Zakres:
 - Minimalne przeszkolenie członków komisji przetargowych
-- Checklista dla zamawiających
+- Lista kontrolna dla zamawiających
 - Współpraca z koordynatorem ds. dostępności
 - Monitorowanie jakości postępowań
 
@@ -141,5 +141,5 @@ Brak modelu nadzoru nad zapewnianiem dostępności w zamówieniach rozproszonych
 2. Zakres zastosowania (TIK, SaaS, dokumenty, multimedia, narzędzia pracy)  
 3. Model dla dużych podmiotów  
 4. Wersja uproszczona dla małych podmiotów  
-5. Wzory klauzul i checklisty  
+5. Wzory klauzul i listy kontrolne  
 6. Powiązanie z wymiarem Cykl życia TIK (odbiór, utrzymanie)
