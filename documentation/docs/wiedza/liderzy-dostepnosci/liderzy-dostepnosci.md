@@ -1,0 +1,57 @@
+---
+id: liderzy-dostepnosci
+title: Lokalni liderzy i mistrzowie dostępności
+description: Wyłonienie i rozmieszenie ekspertów (liderów) dostępności w jednostkach i komórkach organizacyjnych, którzy zapewnią bieżące wsparcie pracownikom w kwestiach związanych z dostępnością cyfrową. Lokalni liderzy zadbają także o rozwój wiedzy u pracowników jednostki od podstaw. Siatka liderów powinna być skomunikowana i współpracująca ze sobą, co umożliwi wprowadzenie jednolitych zasad w podmiocie. Sieć lokalnych specjalistów zapewni także pojedynczym ekspertom wsparcie pozostałego zespołu liderskiego. 
+sidebar_position: 1
+sidebar_label: Lokalni liderzy (zalecenie)
+keywords: [WCAG, dostepność cyfrowa, wiedza i umiejetności, wdrażanie dostępności, liderzy dostępności, sieć liderów dostępności, społeczności praktyków]
+tags: [WCAG, dostepność cyfrowa, wiedza i umiejętności, wdrażanie dostępności, liderzy dostępności, sieć liderów dostępności, społeczności praktyków]
+opracowanie: Anna Dybiec
+data_zgloszenia: 30 lipca 2025 r.
+ostatnia_aktualizacja: 8 stycznia 2026 r.
+wersja_robocza: true
+---
+
+## Zalecenie:
+
+Wyłonienie i rozmieszenie ekspertów (liderów) dostępności w jednostkach i komórkach organizacyjnych, którzy zapewnią bieżące wsparcie pracownikom w kwestiach związanych z dostępnością cyfrową. Lokalni liderzy zadbają także o rozwój wiedzy u pracowników jednostki od podstaw. Siatka liderów powinna być skomunikowana i współpracująca ze sobą, co umożliwi wprowadzenie jednolitych zasad w podmiocie. Sieć lokalnych specjalistów zapewni także pojedynczym ekspertom wsparcie pozostałego zespołu liderskiego.
+
+## Rekomendacje:
+
+1. Ustalenie rodzajów istniejących jednostek organizacyjnych w podmiocie.
+2. Dobór wielkości komórek ekspertów dostępności w sposób gwarantujący wybór kompetentnego lidera, który jednocześnie będzie miał dobry kontakt z pracownikami - przemyślenie kwestii ilości osób przypadających na 1 lidera.
+3. Znalezienie osób kompetentnych w kwestiach dostępności cyfrowej i wyłonienie ich na liderów wydziałowych (wewnętrzny konkurs, testy wiedzy, obecni specjaliści zajmujący się stronami, etc).
+4. Zapoznanie liderów ze sobą oraz koordynatorem, aby ułatwić późniejszą współpracę. Przedstawienie liderów jako osoby kontaktowe w kwestiach dostępności w każdej z jednostek.
+5. Zapewnienie liderom infrastruktury technicznej do współpracy między sobą oraz z pracownikami podmiotu (dwukierunkowo) np. mail, teams, system ticketowy zgłoszeń, wyraźne dane kontaktowe do stronie lub własna podstrona liderów, itp.
+6. Dbanie o dokształcanie liderów – kierowanie na szkolenia wewnętrzne i zewnętrzne, certyfikacje, etc.
+7. Cykliczne spotkania liderów z koordynatorem w celu omawiania bieżących kwestii i problemów.
+8. Organizowanie przez liderów wewnętrznych szkoleń pracowników lub spotkań w danej jednostce, np. na zasadzie prezentacji online z omawianiem konkretnych zagadnień, mini webinarów, sesji Q&A (w stylu dostępne środy).
+9. Przygotowywanie przez liderów cyklicznego mailingu do pracowników swojej jednostki z konkretnym zaleceniem/zagadnieniem np. na dany miesiąc.
+
+## Uzasadnienie:
+
+W bardzo dużych podmiotach niemal niemożliwym jest dotarcie z poziomu jednej osoby (koordynatora) czy nawet kilku osób (jednostki dot. dostępności) do wszystkich pracowników podmiotu (np. kilku tysięcy osób). Wymagałoby to na starcie ogromnej świadomości obowiązującego prawa oraz kwestii związanych ze świadomością zagadnień dostępności i rodzajów niepełnosprawności wśród wszystkich aktualnych pracowników. 
+
+Stworzenie siatki osób-liderów wewnątrz całej organizacji będących specjalistami w kwestii dostępności cyfrowej w danym podmiocie zapewni docieranie z wiedzą do szeregowych pracowników, którzy na co dzień nie śledzą aktualnej wiedzy i informacji dotyczących dostępności cyfrowej. Osoby te mogą pełnić rolę wydziałowych koordynatorów dostępności, którzy współpracując ściśle między sobą, z głównym koordynatorem dostępności oraz bezpośrednio z osobami w danej jednostce będą odpowiednio docierać do wszystkich pracowników, szerzyć wiedzę oraz rozwiązywać bieżące problemy i wątpliwości w kwestii dostępności cyfrowej. Taka bieżąca współpraca na poziomie jednostek wśród szeregowych pracowników umożliwi większą przystępność w dostępie do: wiedzy, szkoleń, wsparcia, pomocy w rozwiązywaniu problemów, audytach, przygotowywaniu deklaracji, dokumentów, etc. Współpraca z osobą, która jest dobrze znana wśród pracowników jednostki skraca dystans, zmniejsza formalizm i obawy związane z koniecznością pozyskania nowej wiedzy i wdrażania nowych rozwiązań dostępnościowych. Znajomi liderzy mogą bardziej wpłynąć na pracowników i "po ludzku" omawiać wymagania, pomóc we wdrożeniach i nauczyć zasad lepiej, niż sztywne przepisy, prawo czy zarządzenia osoby kierującej całym podmiotem. 
+
+Z punktu widzenia liderów znaczącą korzyścią jest współpraca między sobą, co zapewnia wsparcie równych sobie specjalistów w przypadku wątpliwości. Rozwiązywanie problemów w takiej grupie specjalistów gwarantuje także wypracowywanie własnych zasad podmiotu i zapewnia spójność interpretacji i jednolite zasady prawne w organizacji.
+
+Współpraca z koordynatorem zapewnia w razie potrzeby dodatkową linię wsparcia, ale także gwarantuje, że wszelkie wątpliwości, problemy, stan wiedzy pracowników czy inne potrzebne dane docierają także bezpośrednio do koordynatora dostępności, dzięki czemu może on podejmować odpowiednie kroki prawne lub wsparcie w podmiocie.
+
+
+## Podstawy prawne:
+
+Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych
+
+
+
+## Przydatne artykuły:
+
+1. Sarah Botterill, [14 wskazówek, jak zbudować sieć mistrzów dostępności](https://abilitynet.org.uk/resources/digital-accessibility/14-tips-build-accessibility-champions-network) 
+2. Sarah Botterill, [Jak budować i rozwijać sieć liderów w dziedzinie dostępności](https://abilitynet.org.uk/resources/digital-accessibility/how-build-and-grow-your-accessibility-champions-network)
+3. AbilityNet, [Przewodnik: Jak zbudować sieć mistrzów dostępności](https://abilitynet.org.uk/resources/digital-accessibility/how-to-build-accessibility-champions-network-guide#Form), 
+4. [Jak powstała Sieć Mistrzów Dostępności](https://www.linkedin.com/pulse/how-accessibility-champions-network-started-bbcs-gareth-ford-williams/) Historia BBC, Gareth Ford Williams
+5. [Program Mistrzów Dostępności CivicActions](https://accessibility.civicactions.com/guide/champions-program), CivicActions Accessibility
+6. [Mistrzowie i sponsorzy dostępności](https://businessdisabilityforum.org.uk/resource/technology-toolkit/role-of-the-a11y-champion-sponsor/), Business Disability Forum
+7. [Program Mistrzów Dostępności Intuit](https://medium.com/intuit-design/intuits-accessibility-champions-program-b6c0b945a476), Ted Drake
+
