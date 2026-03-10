@@ -1,3 +1,4 @@
+---
 id: procedura-naprawy-bledow
 title: Procedura naprawy wykrytych i zgłoszonych problemów
 description: Podmiot publiczny jest prawnie zobowiązany do zapewnienia dostępności cyfrowej na stronie internetowej i aplikacji mobilnej. Zgłoszone lub wykryte błędy powi...
