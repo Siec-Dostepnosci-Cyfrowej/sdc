@@ -3,14 +3,8 @@ id: cykl-zycia-strony-internetowej
 title: Cykl życia strony internetowej (TIK). Ramowe wytyczne
 sidebar_label: Cykl życia strony internetowej
 sidebar_position: 4 
-keywords: [
-dostepnosc cyfrowa, 
-cykl życia
-]
-tags: [
-dostepnosc cyfrowa, 
-cykl życia
-]
+keywords: [dostepnosc cyfrowa,cykl życia]
+tags: [dostepnosc cyfrowa, cykl życia]
 data_zgloszenia: 6 października 2025 r.
 ostatnia_aktualizacja: 6 października 2025 r
 opracowanie: Dawid Górny

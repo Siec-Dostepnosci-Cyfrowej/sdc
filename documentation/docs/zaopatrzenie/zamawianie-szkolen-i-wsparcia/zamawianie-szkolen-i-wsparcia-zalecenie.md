@@ -1,7 +1,7 @@
 ---
 id: zamawianie-szkolen-i-wsparcia-zalecenie
 title: Zalecenie w sprawie organizacji i zamawiania szkoleń oraz wsparcia edukacyjnego w zakresie dostępności cyfrowej przez podmioty publiczne
-sidebar_position: 1
+sidebar_position: 0
 sidebar_label: Projekt zalecenia
 description: Zalecenie dotyczące planowania i zamawiania szkoleń oraz wsparcia edukacyjnego w zakresie dostępności cyfrowej
 keywords: [rozwiązanie systemowe, zaopatrzenie, zamówienia publiczne, wiedza i umiejętności]

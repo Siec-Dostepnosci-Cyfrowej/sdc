@@ -2,7 +2,7 @@
 id: uaktualniona-lista-tematow
 title: Propozycje tematów zaleceń – Wymiar Wiedza i umiejętności
 sidebar_label: Uaktualniona lista tematów
-sidebar_position: 1
+sidebar_position: 2
 opracowanie: Stefan Wajda
 data_zgloszenia: 28 lutego 2026 r.
 ostatnia_aktualizacja: 28 lutego 2026 r.

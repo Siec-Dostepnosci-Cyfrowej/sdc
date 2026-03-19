@@ -1,8 +1,8 @@
 ---
 id: zapewnianie-dostosowan-instrukcja-mala-jednostka
-title: Wzór instrukcji dla pracowników (duża instytucja)
+title: Wzór instrukcji dla pracowników (mała organizacja)
 description: Przykładowa instrukcja dla użytkownika 
-sidebar_label: Wzór instrukcji  (duża instytucja)
+sidebar_label: Wzór instrukcji  (mała organizacja)
 sidebar_position: 10 
 keywords: [WCAG 2.1 AA, dostepność cyfrowa, dostosowania, racjonalne usprawnienia, procedura]
 tags: [WCAG 2.1 AA, dostepność cyfrowa, dostosowania, racjonalne usprawnienia, procedura]

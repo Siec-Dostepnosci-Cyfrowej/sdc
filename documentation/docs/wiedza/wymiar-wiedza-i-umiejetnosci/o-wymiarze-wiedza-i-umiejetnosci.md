@@ -12,7 +12,7 @@ wersja_robocza: true
 
 
 
-## 🟦 Wiedza i umiejętności 
+## Wiedza i umiejętności 
 
 ---
 
@@ -147,7 +147,7 @@ Celem wymiaru **Wiedza i umiejętności** jest zagwarantowanie, że:
 
 ---
 
-## 🟦 Wymiar Wiedza i umiejętności — wersja uproszczona (małe podmioty)
+## Wymiar Wiedza i umiejętności — wersja uproszczona (małe podmioty)
 
 *(szkoły, biblioteki, domy kultury, OPS, OSiR, małe urzędy, jednostki organizacyjne gminy)*
 
@@ -255,7 +255,7 @@ Celem wymiaru **Wiedza i umiejętności** w małych podmiotach jest:
 <details>
 <summary>Wersja uproszczona dla dużych podmiotów publicznych</summary>
 
-## 🟦 Wiedza i umiejętności - wersja uproszczona dla małych podmiotów publicznych
+## Wiedza i umiejętności - wersja uproszczona dla małych podmiotów publicznych
 
 ### 1. Definicja wymiaru
 

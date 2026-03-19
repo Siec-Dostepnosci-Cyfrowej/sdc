@@ -2,26 +2,16 @@
 id: procesy-oceny-dostepnosci-stron-internetowych
 title: Procesy oceny dostępności stron internetowych
 description: Na ocenę dostępności strony internetowej składa się szereg przeprowadzanych kontroli.
-sidebar_label: Proces oceny stron internetowych
+sidebar_label: Procesy oceny dostępności stron 
 sidebar_position: 1 
-keywords: [
-WCAG 2.1 AA, 
-dostepnosc cyfrowa, 
-cykl życia TIK
-]
-tags: [
-WCAG 2.1 AA, 
-dostepnosc cyfrowa, 
-cykl życia TIK
-]
+keywords: [WCAG 2.1 AA, dostepnosc cyfrowa, cykl życia TIK]
+tags:  [WCAG 2.1 AA, dostepnosc cyfrowa, cykl życia TIK]
 data_zgloszenia: 20 lipca 2025 r.
 ostatnia_aktualizacja: 30 października 2025 r.
 opracowanie: Tomasz Kałużyński
 wersja_robocza: true
-draft: true
+
 ---
-
-
 
 
 Na ocenę dostępności strony internetowej składa się szereg

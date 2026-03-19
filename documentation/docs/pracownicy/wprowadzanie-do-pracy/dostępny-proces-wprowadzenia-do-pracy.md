@@ -1,7 +1,7 @@
 ---
 id: dostępny-proces-wprowadzenia-do-pracy
 title: Dostępny cyfrowo proces wprowadzenia do pracy  
-sidebar_label: Proces wprowadzenia do pracy
+sidebar_label: Projekt zalecenia
 sidebar_position: 0
 description: Proces wdrażania nowych pracowników powinien uwzględniać zasady dostępności cyfrowej.
 keywords: [

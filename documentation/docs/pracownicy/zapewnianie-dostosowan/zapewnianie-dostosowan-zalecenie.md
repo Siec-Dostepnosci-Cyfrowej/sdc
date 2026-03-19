@@ -2,7 +2,7 @@
 id: zapewnianie-dostosowan-zalecenie
 title: Zalecenie w sprawie procedury zapewniania pracownikom dostosowań i racjonalnych usprawnień
 description: Projekt zalecenia Stworzenie procedury zapewniania pracownikom dostosowań i racjonalnych usprawnień cyfrowych
-sidebar_label: Zalecenie w sprawie procedury
+sidebar_label: Projekt zalecenia
 sidebar_position: 0 
 keywords: [WCAG 2.1 AA, dostepność cyfrowa, dostosowania, racjonalne usprawnienia]
 tags: [WCAG 2.1 AA, dostepność cyfrowa, dostosowania, racjonalne usprawnienia]

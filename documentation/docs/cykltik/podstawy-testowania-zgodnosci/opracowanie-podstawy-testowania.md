@@ -1,7 +1,7 @@
 ---
 id: opracowanie-podstawy-testowania
 title: Dezyderat w sprawie opracowania państwowej „Podstawy testowania zgodności” produktów i usług cyfrowych
-sidebar_label: Opracowanie podstawy testowania zgodności
+sidebar_label: Projekt dezyderatu
 sidebar_position: 0
 description: Projekt dezyderatu wniosku do Ministra Cyfryzacji o podjęcie prac nad opracowaniem jednolitej, referencyjnej „Podstawy testowania zgodności” produktów i usług cyfrowych 
 keywords: [cykl życia TIK, dostępność cyfrowa, testowanie dostępności, przegląd dostępności, audyt dostępności, dezyderat]

@@ -1,21 +1,11 @@
 ---
 id: szkolenia-odpowiedzialnych-za-wsparcie
 title: Szkolenia pracowników odpowiedzialnych za wsparcie 
-sidebar_label: Szkolenia pracowników odpowiedzialnych za wsparcie
+sidebar_label: Projekt zalecenia
 sidebar_position: 0
 description: Organizacja zapewnia pracownikom odpowiedzialnym za wsparcie osób z niepełnosprawnościami szkolenia
-keywords: [
-wsparcie,
-szkolenia pracowników,
-świadomość niepełnosprawności,
-obsługa osób z niepełnosprawnością
-]
-tags: [
-wsparcie,
-szkolenia pracowników,
-świadomość niepełnosprawności,
-obsługa osób z niepełnosprawnością
-]
+keywords: [wsparcie,szkolenia pracowników,świadomość niepełnosprawności,obsługa osób z niepełnosprawnością]
+tags: [wsparcie,szkolenia pracowników,świadomość niepełnosprawności,obsługa osób z niepełnosprawnością]
 opracowanie: Mateusz Ciborowski
 data_zgloszenia: 18 sierpnia 2025 r.
 ostatnia_aktualizacja: 18 sierpnia 2025 r.

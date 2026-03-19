@@ -1,6 +1,6 @@
 ---
 id: zamawianie-szkolen-i-wsparcia-ogolny-szablon-wymagan-wariant-bc
-title: Zamówienie szkoleń / wsparcia edukacyjnego w zakresie dostępności cyfrowej. Szablon wymagań - średnia i duża organizacja  
+title: Zamawianie szkoleń i wsparcia edukacyjnego. Szablon wymagań - średnia i duża organizacja  
 sidebar_position: 2
 sidebar_label: Szablon wymagań – Wariant B/C 
 description: Wariant B i C dla średniej i dużej organizacji organizacji szablonu wymagań w zamówianiach szkoleń oraz wsparcia edukacyjnego w zakresie dostępności cyfrowej

@@ -1,7 +1,7 @@
 ---
 id: edukacja-o-prawach-w-zakresie-dostepnosci-cyfrowej
 title: Edukacja o prawach w zakresie dostępności cyfrowej  
-sidebar_label: Edukacja o prawach w zakresie dostępności cyfrowej 
+sidebar_label: Projekt zalecenia 
 sidebar_position: 0
 opracowanie: Mateusz Ciborowski
 data_zgloszenia: 18 sierpnia 2025 r.

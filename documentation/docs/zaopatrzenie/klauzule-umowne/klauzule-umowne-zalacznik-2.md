@@ -1,6 +1,6 @@
 ---
 id: klauzule-umowne-zalacznik-2
-title: Klauzule dotyczące zapewnienia, utrzymania i monitorowania dostępności cyfrowej
+title: Klauzule w umowach zapewnienia, utrzymania i monitorowania dostępności cyfrowej
 sidebar_position: 1
 sidebar_label: Klauzule w umowach
 description: Wzorcowe klauzule umowne w umowach dotyczących produktów cyfrowych 

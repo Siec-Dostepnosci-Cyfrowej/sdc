@@ -1,19 +1,11 @@
 ---
 id: deklaracja-dostepnosci-produktu
-title: Deklaracja dostępności cyfrowej produktu lub usługi
-sidebar_label: Oświadczenie dostawcy o dostepności
+title: Deklaracja dostawcy o dostepności o dostępności cyfrowej produktu lub usługi
+sidebar_label: Projekt zalecenia
 sidebar_position: 1 
 description: Organizacja powinna wymagać od dostawcy lub wykonawcy deklaracji dostępności produktu lub usługi podczas ich odbioru 
-keywords: [
-polityka dostępności,
-zamówienia publiczne,
-zaopatrzenie
-]
-tags: [
-polityka dostępności,
-zamówienia publiczne,
-zaopatrzenie
-]
+keywords: [polityka dostępności,zamówienia publiczne,zaopatrzenie]
+tags: [polityka dostępności,zamówienia publiczne,zaopatrzenie]
 opracowanie: Jacek Zadrożny
 data_zgloszenia: 16 czerwca 2025 r.
 ostatnia_aktualizacja: 24 września 2025 r.

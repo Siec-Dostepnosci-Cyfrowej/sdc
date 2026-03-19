@@ -1,17 +1,11 @@
 ---
 id: procedura-zapewniania-wsparcia
-title: Procedury uzyskiwania wsparcia przez pracowników i wpółpracowników
+title: Procedury uzyskiwania wsparcia przez pracowników i współpracowników
 description: Stworzenie procedury uzyskiwnia wsparcia prez pracowników i współpacowników organizacji.
-sidebar_label: Procedura zapewniania wsparcia
+sidebar_label: Projekt zalecenia
 sidebar_position: 1 
-keywords: [
-WCAG 2.1 AA, 
-dostepnosc cyfrowa
-]
-tags: [
-WCAG 2.1 AA, 
-dostepnosc cyfrowa
-]
+keywords: [WCAG 2.1 AA, dostepnosc cyfrowa]
+tags: [WCAG 2.1 AA, dostepnosc cyfrowa]
 data_zgloszenia: 29 lipca 2025 r.
 ostatnia_aktualizacja: 30 października 2025 r.
 opracowanie: Karolina Paluszek

@@ -1,7 +1,7 @@
 ---
 id: coroczny-przeglad-dostepnosci
 title: Coroczny przegląd przed aktualizacją deklaracji dostępności cyfrowej
-sidebar_label: Coroczny przegląd dostępności
+sidebar_label: Projekt zalecenia
 sidebar_position: 1
 description: Organizacja poprzedza coroczną aktualizację deklaracji dostępności strony internetowej przeglądem dostępności
 keywords: [cykl życia TIK, dostępność cyfrowa, deklaracja dostępności, przegląd dostępności]

@@ -1,6 +1,6 @@
 ---
 id: kz-11-karta-zadan-konsultant-ds-tik
-title: Karta zadań – Konsultant ds. technologii informacyjno-komunikacyjnych ()
+title: Karta zadań – Konsultant ds. technologii informacyjno-komunikacyjnych
 sidebar_label: Konsultant ds. TIK
 sidebar_position: 11
 description: Określa cel roli konsultanta ds. TIK w systemie zarządzania dostępnością cyfrową, zakres zadań, odpowiedzialności 

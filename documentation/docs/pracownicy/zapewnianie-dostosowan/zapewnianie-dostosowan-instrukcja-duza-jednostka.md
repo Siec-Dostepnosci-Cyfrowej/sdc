@@ -1,8 +1,8 @@
 ---
 id: zapewnianie-dostosowan-instrukcja-duza-jednostka
-title: Wzór instrukcji dla pracowników (duża instytucja)
+title: Wzór instrukcji dla pracowników (duża organizacja)
 description: Przykładowa instrukcja dla użytkownika 
-sidebar_label: Wzór instrukcji  (duża instytucja)
+sidebar_label: Wzór instrukcji  (duża organizacja)
 sidebar_position: 9 
 keywords: [WCAG 2.1 AA, dostepność cyfrowa, dostosowania, racjonalne usprawnienia, procedura]
 tags: [WCAG 2.1 AA, dostepność cyfrowa, dostosowania, racjonalne usprawnienia, procedura]
@@ -15,7 +15,7 @@ wersja_robocza: true
 
 
 * Jak zgłosić potrzebę dostosowania lub usprawnienia w środowisku pracy cyfrowej*
-*(wersja dla dużej instytucji publicznej)*
+*(wersja dla dużej organizacji publicznej)*
 
 ---
 

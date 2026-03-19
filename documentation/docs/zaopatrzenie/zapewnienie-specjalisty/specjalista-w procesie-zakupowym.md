@@ -1,8 +1,8 @@
 ---
-id: zapewnienie-specjalisty
+id: specjalista-w procesie-zakupowym
 title: Zapewnienie udziału specjalisty ds. dostępności cyfrowej w procesie zakupów 
 description:  Organizacja zapewnia udział specjalisty ds. dostępności cyfrowej w procesie zakupów technologii i treści cyfrowych
-sidebar_label: Specjalista w procesie zakupowym
+sidebar_label: Projekt zalecenia
 sidebar_position: 0
 keywords: [udział specjalisty]
 tags: [udział specjalisty]

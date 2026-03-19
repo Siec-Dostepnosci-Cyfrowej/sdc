@@ -1,7 +1,7 @@
 ---
 id: polityka-dostepnosci
 title: Ustanowienie polityki dostępności cyfrowej
-sidebar_label: Ustanowienie polityki
+sidebar_label: Projekt zalecenia
 sidebar_position: 1
 description: Kierownictwo organizacji powinno ustanowić politykę zapewniania dostępności cyfrowej
 keywords: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie]

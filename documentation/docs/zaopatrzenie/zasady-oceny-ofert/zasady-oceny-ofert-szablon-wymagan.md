@@ -1,8 +1,8 @@
 ---
 id: zasady-oceny-ofert-szablon-wymagan
 title: Szablon wymagań dostępności w zakupach technologii i treści cyfrowych
-sidebar_position: 2
-sidebar_label: Załącznik 2. Szablon wymagań
+sidebar_position: 1
+sidebar_label: Załącznik 1. Szablon wymagań
 description: Szablon wymagań dostępności w zakupach rozwiązań zawierających technologie i treści cyfrowe
 keywords: [
         rozwiązanie systemowe,

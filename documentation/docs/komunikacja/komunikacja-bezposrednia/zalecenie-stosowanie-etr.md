@@ -2,13 +2,9 @@
 id: zalecenie-stosowanie-etr
 title: Stosowanie tekstu łatwego do czytania i zrozumienia (ETR)
 sidebar_position: 0
-sidebar_label: Stosowanie ETR
-keywords: [
-        tekst łatwy do czytania,
-		ETR,
-]
-labels: zalecenie
-przedmiot-zalecenia: Ocena jakości ofert pod względem dostępności cyfrowej
+sidebar_label: Projekt zalecenia
+keywords: [tekst łatwy do czytania,ETR,komunikacja]
+tags: [tekst łatwy do czytania,ETR,komunikacja]
 opracowanie: Anna Dybiec
 wspolpraca: Anna Bizub-Jechna
 data_zgloszenia: 6 sierpnia 2025 r.

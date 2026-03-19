@@ -1,8 +1,8 @@
 ---
 id: klauzule-umowne-zalacznik-1
-title: Klauzule dotyczące zapewnienia dostępności cyfrowej produktu cyfrowego
+title: Klauzule w zapytaniach ofertowych i specyfikacjach warunków
 sidebar_position: 1
-sidebar_label: Klauzule w zapytaniach ofertowych i specyfikacjach warunków
+sidebar_label: Klauzule w zapytaniach i specyfikacjach
 description: Wzorcowe klauzule umowne w zamówieniach produktów cyfrowych do wykorzystania w zapytaniach ofertowych i specyfikacjach warunków 
 keywords: [zamówienia publiczne, zaopatrzenie, klauzule umowne]
 tags: [zamówienia publiczne, zaopatrzenie, klauzule umowne]

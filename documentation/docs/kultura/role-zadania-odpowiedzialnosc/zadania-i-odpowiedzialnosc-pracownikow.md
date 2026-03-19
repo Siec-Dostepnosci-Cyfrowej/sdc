@@ -1,7 +1,7 @@
 ---
 id: zadania-i-odpowiedzialnosc-pracownikow
 title: Określenie ról, zadań i odpowiedzialności pracowników w zakresie zapewniania dostępności cyfrowej
-sidebar_label: Określenie zadań i odpowiedzialności
+sidebar_label: Projekt zalecenia
 sidebar_position: 0
 description: Organizacja określa role, zadania i odpowiedzialność wszystkich pracowników w zakresie zapewniania dostępności cyfrowej informacji, usług i dokumentów, uwzględniając przy tym specyfikę stanowisk i zakres obowiązków
 keywords: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie]

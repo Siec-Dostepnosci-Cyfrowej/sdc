@@ -2,7 +2,7 @@
 id: pozyskiwanie-opinii-uzytkownikow
 title: Aktywne pozyskiwanie opinii użytkowników o dostępności cyfrowej
 description: Dobre praktyki i zalecenia przy zbieraniu opinii o dostępności cyfrowej
-sidebar_label: Pozyskiwanie opinii użytkowników
+sidebar_label: Projekt zalecenia
 sidebar_position: 1
 keywords: [cykl życia TIK, dostępność cyfrowa, dobre praktyki, zalecenia, opinie]
 tags: [cykl życia TIK, dostępność cyfrowa, dobre praktyki, zalecenia, opinie]

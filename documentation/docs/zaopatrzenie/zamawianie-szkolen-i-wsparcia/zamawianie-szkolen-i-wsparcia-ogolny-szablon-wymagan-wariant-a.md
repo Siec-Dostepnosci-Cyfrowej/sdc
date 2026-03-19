@@ -1,6 +1,6 @@
 ---
 id: zamawianie-szkolen-i-wsparcia-ogolny-szablon-wymagan-wariant-a
-title: Zamówienie szkoleń / wsparcia edukacyjnego w zakresie dostępności cyfrowej. Szablon wymagań - mała organizacja  
+title: Zamawianie szkoleń i wsparcia edukacyjnego. Szablon wymagań - mała organizacja  
 sidebar_position: 2
 sidebar_label: Szablon wymagań – Wariant A 
 description: Wariant A dla małej organizacji szablonu wymagań w zamówianiach szkoleń oraz wsparcia edukacyjnego w zakresie dostępności cyfrowej

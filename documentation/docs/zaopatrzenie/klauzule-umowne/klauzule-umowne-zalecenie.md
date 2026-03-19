@@ -2,7 +2,7 @@
 id: klauzule-umowne-zalecenie
 title: Stosowanie klauzul umownych dotyczących zapewnienia i utrzymania dostępności cyfrowej produktów cyfrowych
 sidebar_position: 0
-sidebar_label: Zalecenie
+sidebar_label: Projekt zalecenia
 description: Zaleca stosowanie przez podmioty publiczne klauzul umownych dotyczących zapewnienia i utrzymania dostępności cyfrowej produktów cyfrowych
 keywords: [zamówienia publiczne, zaopatrzenie, klauzule umowne]
 tags: [zamówienia publiczne, zaopatrzenie, klauzule umowne]

@@ -1,36 +1,14 @@
 ---
 id: przetwarzanie-zgloszen-problemow-z-dostepnoscia
 title: Przetwarzanie i obsługa problemów z dostępnością cyfrową
-sidebar_label: Przetwarzanie i obsługa problemów z dostępnością cyfrową
+sidebar_label: Projekt zalecenia
 sidebar_position: 3
-keywords:
-  [
-    inwentaryzacja,
-    zgłoszenia,
-    dostępność cyfrowa,
-    koordynator dostępności cyfrowej,
-    planowanie,
-    projektowanie,
-    wdrożenie,
-    eksploatacja,
-    archiwizacja,
-  ]
-tags:
-  [
-    inwentaryzacja,
-    zgłoszenia,
-    dostępność cyfrowa,
-    koordynator dostępności cyfrowej,
-    planowanie,
-    projektowanie,
-    wdrożenie,
-    eksploatacja,
-    archiwizacja,
-  ]
+keywords: [inwentaryzacja, zgłoszenia, dostępność cyfrowa, koordynator dostępności cyfrowej, planowanie, projektowanie, wdrożenie, eksploatacja, archiwizacja]
+tags: [inwentaryzacja, zgłoszenia, dostępność cyfrowa, koordynator dostępności cyfrowej, planowanie, projektowanie, wdrożenie, eksploatacja, archiwizacja]
+opracowanie: Cezary Tomczyk
 data_zgloszenia: 24 września 2025 r.
 ostatnia_aktualizacja: 12 listopada 2025 r.
-opracowanie: Cezary Tomczyk
-status: projekt
+wersja_robocza: true
 ---
 
 ## 1. Cel zalecenia

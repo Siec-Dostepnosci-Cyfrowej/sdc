@@ -2,7 +2,7 @@
 id: zapewnianie-dostosowan-formularz-mala-jednostka
 title: Wzór wniosku o zapewnienie dostosowań lub usprawnień w środowisku pracy cyfrowej 
 description: Przykład struktury i treści wniosku o dostosowanie / racjonalne usprawnienie cyfrowe
-sidebar_label: Wzór wniosku (mała instytucja)
+sidebar_label: Wzór wniosku (mała organizacja)
 sidebar_position: 8 
 keywords: [WCAG 2.1 AA, dostepność cyfrowa, dostosowania, racjonalne usprawnienia, procedura]
 tags: [WCAG 2.1 AA, dostepność cyfrowa, dostosowania, racjonalne usprawnienia, procedura]

@@ -1,6 +1,6 @@
 ---
 id: zamawianie-szkolen-i-wsparcia-ogolny-szablon-wymagan
-title: Zamówienie szkoleń / wsparcia edukacyjnego w zakresie dostępności cyfrowej. Ogólny szablon wymagań
+title: Zamawianie szkoleń i wsparcia edukacyjnego. Ogólny szablon wymagań
 sidebar_position: 1
 sidebar_label: Ogólny szablon wymagań 
 description: Ogólny szablon wymagań w zamówianiach szkoleń oraz wsparcia edukacyjnego w zakresie dostępności cyfrowej

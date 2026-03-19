@@ -1,26 +1,26 @@
 ---
 id: inspekcja-dokumentu
-title: Kontrola dokumentów pod kątem dostępności cyfrowej
-description: Projekt zalecenia. Uwzględnienie podczas tworzenia i drogi dokumentów w jednostce wymogów dostępności WCAG 2.1 AA
-wymiar: Zalecenia i Rekomendacje
+title: Inspekcja dokumentów pod kątem dostępności cyfrowej
+description: Uwzględnienie podczas tworzenia i drogi dokumentów w jednostce wymogów dostępności WCAG 2.1 AA
+sidebar_label: Inspekcja dokumentów
+sidebar_position: 1
 keywords: [WCAG 2.1, dokumenty cyfrowe]
 tags: [WCAG 2.1, dokumenty cyfrowe]
 opracowanie: Krzysztof Głaz
-data_zgloszenia: 17 wrzesień 2025 rok
-data_aktualizacji: 26 wrzesień 2025 rok
-draft: true
+data_zgloszenia: 17 września 2025 rok
+data_aktualizacji: 26 września 2025 rok
+wersja_robocza: true
 ---
 
-
-
+## Cel
 Celem tego dokumentu jest ustalenie i wdrożenie jednolitych procedur oraz wypracowanie trwałych nawyków w zakresie zapewnienia pełnej dostępności cyfrowej wszystkich dokumentów wytwarzanych w instytucji, na każdym etapie ich obiegu. Ma on również na celu standaryzacje procesu wytwarzania dokumentów, wzrost świadomości i kompetencji oraz zapewnienie zgodności prawnej.
 
-# Zalecenie
-
+## Zalecenie
 Pełna dostępność cyfrowa dokumentów musi być zapewniona i monitorowana przez cały cykl ich życia – od powstania, przez obieg, aż po publikację czy archiwizację.
 
 Zaleca się, aby dbałość o tworzenie dostępnych cyfrowo dokumentów stała się formalnym elementem obowiązków służbowych każdego pracownika.
 
+## Rekomendacje
 Koordynator dostępności cyfrowej w organizacji powinien:
 
 1. Włączyć się w proces szkoleń dla osób nowo zatrudnionych.
@@ -28,8 +28,6 @@ Koordynator dostępności cyfrowej w organizacji powinien:
 3. Mieć wpływ na tworzenie wytycznych i procedur ujednolicających formatowanie tekstów.
 4. Zlecać przygotowanie szablonów dokumentów i regularnie weryfikować potrzebę nowych.
 5. Okresowo kontrolować poprawność dokumentów w organizacji na różnych etapach ich obiegu.
-
-# Rekomendacje
 
 ## Szkolenia
 
@@ -44,6 +42,6 @@ Koordynator dostępności cyfrowej w organizacji powinien:
 3. Dokumenty przeznaczone do publikacji (np. w BIP lub na stronie internetowej) wymagają bardziej szczegółowej kontroli lub sprawdzenia przez osobę biegle znającą zasady składu zgodnego z dostępnością.
 4. W przypadku dokumentów złożonych (np. specyfikacje, dokumentacje) zaleca się szczegółową weryfikację przez dodatkowego specjalistę lub zlecenie ich przygotowania zewnętrznemu podmiotowi specjalizującemu się w składzie tekstów dostępnych cyfrowo.
 
-# Uzasadnienie
+## Uzasadnienie
 
 Wdrożenie i nadzór nad prawidłowym tworzeniem dokumentów na każdym etapie, uzupełnione cyklicznymi szkoleniami koncentrującymi się na najczęstszych błędach, ma na celu wypracowanie właściwych nawyków w zakresie dostępności cyfrowej.

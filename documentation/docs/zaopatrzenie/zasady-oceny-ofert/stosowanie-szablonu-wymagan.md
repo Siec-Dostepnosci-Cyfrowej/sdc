@@ -1,14 +1,11 @@
 ---
-id: zasady-oceny-ofert-rozwiazanie
+id: stosowanie-szablonu-wymagan
 title: Stosowanie szablonu wymagań dostępności cyfrowej
-sidebar_position: 1
-sidebar_label: Załącznik 1. Opis rozwiązania
+sidebar_position: 2
+sidebar_label: Załącznik 2. Stosowanie szablonu
 description: Stosowanie szablonu wymagań dostępności cyfrowej w zakupach rozwiązań zawierających technologie i treści cyfrowe
-keywords: [
-        rozwiązanie systemowe,
-		zaopatrzenie,
-		zamówienia publiczne
-]
+keywords: [rozwiązanie systemowe, zaopatrzenie, zamówienia publiczne]
+tags: [rozwiązanie systemowe, zaopatrzenie, zamówienia publiczne]
 opracowanie: Stefan Wajda
 autor: George Rhodes, Uniwersytet Westminsterski
 data-zgloszenia: 12 czerwca 2025

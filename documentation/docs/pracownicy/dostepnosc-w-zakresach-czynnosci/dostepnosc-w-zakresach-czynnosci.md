@@ -2,7 +2,7 @@
 id: dostepnosc-w-zakresach-czynnosci
 title: Określanie obowiązków związanych z zapewnianiem dostępności cyfrowej w indywidualnych zakresach czynności 
 description: Wprowadzenie do dokumentu „indywidualny zakres czynności”, obowiązków związanych z zapewnianiem dostępności cyfrowej oraz działań wspierających jej utrzymanie i rozwój.
-sidebar_label: Dostepność w zakresach czynności
+sidebar_label: Projekt zalecenia
 sidebar_position: 1 
 keywords: [dostepność cyfrowa, pracownicy, zakres czynności, role w organizacji]
 tags: [dostepność cyfrowa, pracownicy, zakres czynności, role w organizacji]

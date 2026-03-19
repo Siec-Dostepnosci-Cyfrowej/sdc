@@ -2,16 +2,10 @@
 id: zasady-oceny-ofert-zalecenie
 title: Ocena dostępności cyfrowej deklarowanej w ofertach
 sidebar_position: 0
-sidebar_label: Zalecenie
+sidebar_label: Projekt zalecenia
 description: Organizacja poprzedza wybór oferty oceną dostępności cyfrowej deklarowanej przez oferenta 
-keywords: [
-        zamówienia publiczne,
-		zaopatrzenie,
-]
-tags: [
-        zamówienia publiczne,
-		zaopatrzenie,
-]
+keywords: [zamówienia publiczne, zaopatrzenie]
+tags: [zamówienia publiczne, zaopatrzenie]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2025 r.
 data_aktualizacji:  20 września 2025 r.
@@ -58,8 +52,8 @@ Dostawcom jawnie określone wymagania oraz zasady punktacji mogą pomóc w oceni
 
 ## Załączniki
 
-1. [Szablon oceny deklarowanej dostępności cyfrowej](zasady-oceny-ofert-rozwiazanie.md)
-2. [Szablon wymagań dostępności w zakupach rozwiązań zawierających technologie i treści cyfrowe](zasady-oceny-ofert-szablon-wymagan.md)
+1. [Szablon wymagań dostępności w zakupach rozwiązań zawierających technologie i treści cyfrowe](zasady-oceny-ofert-szablon-wymagan.md)
+2. [Stosowanie szablonu wymagań dostępności cyfrowej](stosowanie-szablonu-wymagan.md)
 3. [Szablon macierzy punktacji](zasady-oceny-ofert-macierz-punktacji.xlsx)
 
 

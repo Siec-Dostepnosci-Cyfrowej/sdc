@@ -1,22 +1,10 @@
 ---
 id: dostepnosc-w-dokumentacji-projektowej
 title: Uwzględnienie wymogów dostępności w dokumentacji projektowej
-sidebar_label: Dostępność w dokumentacji projektowej
-sidebar_position: 5 
-keywords: [
-WCAG 2.1 AA, 
-dostepnosc cyfrowa, 
-projektowanie,
-dokumentacja projektowa,
-projektowanie
-]
-tags: [
-WCAG 2.1 AA, 
-dostepnosc cyfrowa, 
-projektowanie,
-dokumentacja projektowa,
-projektowanie
-]
+sidebar_label: Dokumentacja projektowa
+sidebar_position: 3 
+keywords: [WCAG 2.1 AA, dostepnosc cyfrowa, projektowanie,dokumentacja projektowa,projektowanie]
+tags: [WCAG 2.1 AA, dostepnosc cyfrowa, projektowanie,dokumentacja projektowa,projektowanie]
 data_zgloszenia: 15 września 2025 r.
 ostatnia_aktualizacja: 26 września 2025 r.
 
