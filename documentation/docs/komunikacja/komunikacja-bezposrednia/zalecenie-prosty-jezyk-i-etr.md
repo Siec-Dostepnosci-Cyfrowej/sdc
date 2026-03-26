@@ -11,6 +11,7 @@ keywords: [
 ]
 labels: zalecenie
 przedmiot-zalecenia: Stosowanie prostego języka oraz tekstu łatwego do czytania i zrozumienia (ETR) w komunikacji organizacji
+opracowanie: Edyta Boratyńska-Karpiej
 data_zgloszenia: 26 marca 2026 r.
 ostatnia_aktualizacja: 26 marca 2026 r.
 wersja_robocza: true
