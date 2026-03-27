@@ -56,26 +56,11 @@ Poniżej przedstawiono tabelę porównawczą (skróconą) obejmującą państwa,
 
 Mermaid – schemat „łańcucha polityki” spotykany w większości analizowanych strategii (standardy → wdrożenie → monitoring → korekta): [\[9\]](https://www.whitehouse.gov/wp-content/uploads/2023/12/M-24-08-Strengthening-Digital-Accessibility-and-the-Management-of-Section-508-of-the-Rehabilitation-Act.pdf)
 
-flowchart LR  
-A\[Strategia / plan rządowy\] --> B\[Standardy i wytyczne&lt;br/&gt;WCAG / krajowe standardy\]  
-B --> C\[Cykl życia ICT&lt;br/&gt;projektowanie–zakup–wdrożenie–utrzymanie\]  
-C --> D\[Monitoring / audyty / testy\]  
-D --> E\[Raportowanie publiczne lub międzyresortowe\]  
-E --> F\[Feedback i skargi użytkowników\]  
-F --> C  
-E --> A
+![Schemat łańcucha polityki](./img/strategie-krajowe-01.svg)
 
 Mermaid – oś czasu (wybrane daty z analizowanych dokumentów): [\[10\]](https://www.regjeringen.no/globalassets/upload/bld/nedsatt-funksjonsevne/norway-universally-designed-by-2025-web.pdf)
 
-timeline  
-title Wybrane daty przyjęcia / obowiązywania (kwerenda 27.03.2026)  
-2009 : Norwegia – plan działań "universally designed by 2025"  
-2017 : Nowa Zelandia – uzgodnienie treści Accessibility Charter (CE)  
-2018 : Polska – uchwała RM 102/2018 (Dostępność Plus)  
-2019 : Kanada – uruchomienie "Nothing Without Us"; Polska – ustawa o dostępności cyfrowej  
-2021 : Portugalia – ENIPD 2021–2025; Australia – ADS 2021–2031; Wielka Brytania – National Disability Strategy  
-2023 : Hiszpania – start horyzontu II Planu (2023–2032); USA – M-24-08 (21.12.2023)  
-2025 : Nowa Zelandia – Web Accessibility Standard 1.2 obowiązuje od 17.03.2025
+![Oś czasu](./img/strategie-krajowe-02.svg)
 
 ## Profile strategiczne państw
 
