@@ -1,6 +1,6 @@
 ---
 id: raport-strategie-dostepnosci-na-swiecie.md
-title: Strategie krajowe dostępności cyfrowej: analiza porównawcza w państwach UE i OECD
+title: Strategie krajowe dostępności cyfrowej. Analiza porównawcza w państwach UE i OECD
 description: Przegląd strategii i programów dostępności na świecie 
 sidebar_label: Strategie krajowe dostępności cyfrowej
 sidebar_position: 13
