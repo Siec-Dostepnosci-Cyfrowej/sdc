@@ -2,7 +2,7 @@
 id: rekomendowane-szkolenia
 title: Rekomendowane szkolenia pracowników odpowiedzialnych za wsparcie 
 sidebar_label: Rekomendowane szkolenia
-sidebar_position: 1
+sidebar_position: 2
 description: rekomendowane szkolenia pracowników odpowiedzialnych za wsparcie 
 keywords: [
 wsparcie,

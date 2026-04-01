@@ -13,9 +13,11 @@ data-aktualizacji:  20 września 2025
 wersja_robocza: true
 ---
 
-Nabycy rozwiązań cyfrowych stają wobec problemu oceny dostępności cyfrowej zgłoszonych ofert.
+Nabywcy rozwiązań cyfrowych stają wobec problemu oceny dostępności cyfrowej zgłoszonych ofert.
 
 Aby uzyskać dowody uprawdopodabniające, że oferent i oferowane rozwiązanie spełnią wymagania dotyczące dostępności cyfrowej, organizacje mogą skorzystać z **szablonu wymagań dostępności cyfrowej oferowanego rozwiązania** oraz **szablonu macierzy punktacji**.
+
+Szablon wymagań dostępności jest narzędziem wspierającym podejmowanie decyzji zakupowych oraz ocenę ofert pod kątem zapewnienia dostępności cyfrowej.
 
 Propozycja jest adaptacją rozwiązania, które opracował [George Rhodes](https://www.makethingsaccessible.com/authors/grhodes) (Uniwersytet Westminsterski) we współpracy z RNIB (Royal National Institute of Blind People).
 
@@ -78,7 +80,7 @@ Każda z przykładowych odpowiedzi w każdej komórce jest oznaczona jedną z cz
 
 Dzięki temu można rozróżnić i odnieść odpowiedzi do konkretnego rodzaju produktu. Na przykład odpowiedzi oznakowane „Na zamówienie” są stosowne tylko w przypadku, gdy oceniamy system zbudowany na zamówienie, a nie istniejący produkt. Odpowiedzi oznakowane etykietą „Dowolne” są stosowne we wszystkich przypadkach.
 
-Nie zaleca się prostego sumowania punktów uzyskanych za poziom spełnienia poszczególnych wymagań, ponieważ nie wszystkie wymagania mają taki sam wpływ na ostateczną dostępność usługi. Na przykład ocena 2 za zgodność (W-01) ma na dostępność zdecydowanie większy wpływ niż ocena 2 za deklarację zgodności (W-06).
+Nie zaleca się prostego sumowania punktów uzyskanych za poszczególne wymagania, ponieważ ich wpływ na dostępność jest różny. Ocena powinna uwzględniać znaczenie poszczególnych wymagań dla rzeczywistej dostępności rozwiązania. Na przykład ocena 2 za zgodność (W-01) ma na dostępność zdecydowanie większy wpływ niż ocena 2 za deklarację zgodności (W-06).
 
 A ponieważ szablon macierzy punktacji nie definiuje wag, nabywcy mogą zastosować swoje wagi dla poszczególnych wymagań, przyjmując, że przyjęte w szablonie punkty powinny być traktowane raczej jako oceny pewnego szerokiego poziomu jakości uzyskanych odpowiedzi, a nie równe miary wagi wszystkich wymagań.
 
