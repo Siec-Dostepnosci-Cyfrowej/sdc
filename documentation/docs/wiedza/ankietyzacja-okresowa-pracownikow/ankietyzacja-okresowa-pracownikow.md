@@ -16,21 +16,26 @@ wersja_robocza: true
 Wprowadzenie regularnych corocznych badań ankietowych wśród pracowników i współpracowników dotyczących poziomu dostępności cyfrowej w organizacji. 
 
 ## 2. Rekomendacje
-1. Cykliczność i harmonogram: Przeprowadzanie badań co najmniej raz w roku lub po każdej większej aktualizacji wewnętrznych systemów IT. Pozwala to na bieżąco monitorować bariery cyfrowe, z którymi mierzą się pracownicy.
-2. Dostępna forma ankiety: Narzędzie do ankietyzacji musi być w pełni zgodne ze standardem WCAG 2.1 (np. obsługa samą klawiaturą, czytelność dla czytników ekranu). Niezachowanie tych standardów wyklucza z badania osoby, których opinie są najcenniejsze. Stworzenie możliwości wypełnienia ankiety poprzez stronę internetową/ system zapewniający ułatwienia dostępowe;
-3. Zakres podmiotowy: Badanie powinno obejmować zarówno pracowników etatowych, jak i zewnętrznych współpracowników (B2B, zleceniobiorcy). Współpracownicy często korzystają z innych zestawów narzędzi, co pozwala na szerszą diagnozę ekosystemu cyfrowego podmiotu.
-4. Zapewnienie anonimowości i dobrowolności: Ankieta powinna być w pełni anonimowa, a udział dobrowolny. Pracownicy chętniej zgłaszają problemy, jeśli mają pewność, że ich odpowiedzi nie wpłyną na ocenę pracy i nie zostaną powiązane z ich tożsamością.
-5. Prosty i jasny język: Stosowanie zrozumiałych sformułowań, unikając hermetycznego żargonu technicznego. Pozwala to uzyskać wysokiej jakości dane od osób niebędących specjalistami IT.
-6. Transparentna komunikacja wyników: Po zakończeniu badania opublikuj raport z wynikami i przedstaw plan naprawczy. Brak widocznych działań po ankiecie drastycznie obniża zaufanie i zaangażowanie pracowników w kolejne edycje.
-7. Stały monitoring: bieżąca analiza statystyk odpowiedzi ankiet pomaga na bieżąco podejmować środki zaradcze w celu usprawnienia systemów obsługiwanych na stanowiskach pracy w podmiocie oraz podnoszenia kwalifikacji pracowników
-8. Wykorzystanie wyników w planowaniu strategicznym: Wyniki ankiety powinny stać się elementem: rocznych planów poprawy dostępności, planów szkoleniowych, decyzji zakupowych dotyczących nowych systemów.
+1. **Cykliczność i harmonogram**: Przeprowadzanie badań co najmniej raz w roku lub po każdej większej aktualizacji wewnętrznych systemów IT. Pozwala to na bieżąco monitorować bariery cyfrowe, z którymi mierzą się pracownicy.
+2. **Dostępna forma ankiety**: Narzędzie do ankietyzacji musi być w pełni zgodne ze standardem WCAG 2.1 (np. obsługa samą klawiaturą, czytelność dla czytników ekranu). Niezachowanie tych standardów wyklucza z badania osoby, których opinie są najcenniejsze. Stworzenie możliwości wypełnienia ankiety poprzez stronę internetową/ system zapewniający ułatwienia dostępowe;
+3. **Zakres podmiotowy**: Badanie powinno obejmować zarówno pracowników etatowych, jak i zewnętrznych współpracowników (B2B, zleceniobiorcy). Współpracownicy często korzystają z innych zestawów narzędzi, co pozwala na szerszą diagnozę ekosystemu cyfrowego podmiotu.
+4. **Zapewnienie anonimowości i dobrowolności**: Ankieta powinna być w pełni anonimowa, a udział dobrowolny. Pracownicy chętniej zgłaszają problemy, jeśli mają pewność, że ich odpowiedzi nie wpłyną na ocenę pracy i nie zostaną powiązane z ich tożsamością.
+5. **Prosty i jasny język**: Stosowanie zrozumiałych sformułowań, unikając hermetycznego żargonu technicznego. Pozwala to uzyskać wysokiej jakości dane od osób niebędących specjalistami IT.
+6. **Transparentna komunikacja wyników**: Po zakończeniu badania opublikuj raport z wynikami i przedstaw plan naprawczy. Brak widocznych działań po ankiecie drastycznie obniża zaufanie i zaangażowanie pracowników w kolejne edycje.
+7. **Stały monitoring**: bieżąca analiza statystyk odpowiedzi ankiet pomaga na bieżąco podejmować środki zaradcze w celu usprawnienia systemów obsługiwanych na stanowiskach pracy w podmiocie oraz podnoszenia kwalifikacji pracowników
+8. **Wykorzystanie wyników w planowaniu strategicznym**: Wyniki ankiety powinny stać się elementem: rocznych planów poprawy dostępności, planów szkoleniowych, decyzji zakupowych dotyczących nowych systemów.
 
 ## 3. Uzasadnienie
 Ankieta jest bezpośrednim narzędziem oceny jakości i poziomu świadczonych usług. Ankietyzacja przeprowadzana w formie elektronicznej na określonych wzorach/ szablonach daje możliwość analizy i porównania wyników z przeprowadzonego badania oraz szczegółowego zestawienia wyników celem ich publikowania. 
+
 Wprowadzenie okresowej ankietyzacji w zakresie dostępności cyfrowej pozwala dużym i średnim podmiotom nie tylko spełnić wymogi prawne, ale przede wszystkim zbudować włączającą kulturę pracy.
+
 Identyfikacja realnych barier: Audyty techniczne nie zawsze wychwytują problemy z użytecznością w codziennej pracy. Ankiety dostarczają danych o rzeczywistych doświadczeniach użytkowników końcowych.
+
 Systematyczne zbieranie opinii umożliwia identyfikację problemów i barier, których nie wykrywają techniczne audyty dostępności. Pracownicy mają bezpośredni kontakt z procesami i narzędziami — ich doświadczenia są kluczowe dla oceny realnego poziomu dostępności.
+
 Wymogi dostępności produktów i usług (EAA) staną się obowiązkowe dla szerokiego grona przedsiębiorców. Ankietyzacja jest narzędziem weryfikacji gotowości organizacji na te zmiany.
+
 Dzięki zaleceniom uregulowania procedur związanych z okresowym ankietyzowaniem podmioty będą w mogły prowadzić właściwy monitoring jakości wdrażania dostępności jak i jej utrzymania.
 
 ## 4. Podstawy prawne
