@@ -20,7 +20,7 @@ Wyłonienie i rozmieszenie ekspertów (liderów) dostępności w jednostkach i k
 
 1. Ustalenie rodzajów istniejących jednostek organizacyjnych w podmiocie.
 2. Dobór wielkości komórek ekspertów dostępności w sposób gwarantujący wybór kompetentnego lidera, który jednocześnie będzie miał dobry kontakt z pracownikami - przemyślenie kwestii ilości osób przypadających na 1 lidera.
-3. Znalezienie osób kompetentnych w kwestiach dostępności cyfrowej i wyłonienie ich na liderów wydziałowych (wewnętrzny konkurs, testy wiedzy, obecni specjaliści zajmujący się stronami, etc).
+3. Znalezienie osób kompetentnych w kwestiach dostępności cyfrowej i wyłonienie ich na liderów wydziałowych (wewnętrzny konkurs, testy wiedzy, obecni specjaliści zajmujący się stronami, etc.).
 4. Zapoznanie liderów ze sobą oraz koordynatorem, aby ułatwić późniejszą współpracę. Przedstawienie liderów jako osoby kontaktowe w kwestiach dostępności w każdej z jednostek.
 5. Zapewnienie liderom infrastruktury technicznej do współpracy między sobą oraz z pracownikami podmiotu (dwukierunkowo) np. mail, teams, system ticketowy zgłoszeń, wyraźne dane kontaktowe do stronie lub własna podstrona liderów, itp.
 6. Dbanie o dokształcanie liderów – kierowanie na szkolenia wewnętrzne i zewnętrzne, certyfikacje, etc.
