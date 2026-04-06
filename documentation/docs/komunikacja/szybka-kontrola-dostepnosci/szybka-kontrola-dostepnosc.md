@@ -12,8 +12,7 @@ ostatnia_aktualizacja: 2 lutego 2026 r.
 wersja_robocza: true
 ---
 ## Dobra Praktyka
-Celem tego opracowania jest przedstawienie rekomendowanego systemu oraz procedur weryfikacji treści cyfrowych - tekstowych i nietekstowych (grafika, multimedia np.: audio, wideo) - 
-przed ich publikacją, aby zapewnić ich zgodność z zasadami dostępności cyfrowej. System obejmuje także przypadek korekty treści już opublikowanych (np. publikacje nietekstowe w mediach społecznościowych).
+Celem tego opracowania jest przedstawienie rekomendowanego systemu oraz procedur weryfikacji treści cyfrowych - tekstowych i nietekstowych (grafika, multimedia np.: audio, wideo) - przed ich publikacją, aby zapewnić ich zgodność z zasadami dostępności cyfrowej. System obejmuje także przypadek korekty treści już opublikowanych (np. publikacje nietekstowe w mediach społecznościowych).
 
 ## Zakres
 Praktyka będzie obejmować opracowanie i wdrożenie narzędzia oraz procedury „szybkiej kontroli” dostępności dokumentów elektronicznych przed ich publikacją.
