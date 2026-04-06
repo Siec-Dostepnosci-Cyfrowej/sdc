@@ -4,6 +4,8 @@ title: Stworzenie kalendarza publikacji dotyczących dostępności cyfrowej
 description: Propozycja stworzenia kalendarza publikacji nt. dostępności cyfrowej
 sidebar_label: Kalendarz publikacji
 sidebar_position: 0 
+keywords: [komunikacja, dobra praktyka]
+tags: [komunikacja, dobra praktyka]
 opracowanie: Aleksandra Cybulska
 data_zgloszenia: 18 listopada 2025 r.
 ostatnia_aktualizacja: 20 lutego 2026 r.
