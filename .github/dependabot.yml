@@ -8,10 +8,21 @@ updates:
     allow:
       - dependency-type: "direct"
     open-pull-requests-limit: 10
+    groups:
+      docusaurus:
+        patterns:
+          - "@docusaurus/*"
+        update-types:
+          - "minor"
+          - "patch"
+      docusaurus-major:
+        patterns:
+          - "@docusaurus/*"
+        update-types:
+          - "major"   
   # 2️ GitHub Actions – aktualizacje workflowów
   - package-ecosystem: "github-actions"
     directory: "/" # szuka w .github/workflows
     schedule:
       interval: "daily"
     open-pull-requests-limit: 10
- 
