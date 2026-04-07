@@ -2,7 +2,7 @@
 id: ramowa-procedura-oceniania-dostepnosci-v2
 title: Ramowa procedura badania i oceniania dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotu publicznego
 sidebar_label: Ramowa procedura. Wersja 2
-sidebar_position: 2
+sidebar_position: 5
 description: Organizacja ustanawia i wdraża procedurę badania i oceniania dostępności cyfrowej stron internetowych i aplikacji mobilnych
 keywords: [cykl życia TIK, dostępność cyfrowa, deklaracja dostępności, przegląd dostępności]
 tags: [cykl życia TIK, dostępność cyfrowa, deklaracja dostępności, przegląd dostępności]

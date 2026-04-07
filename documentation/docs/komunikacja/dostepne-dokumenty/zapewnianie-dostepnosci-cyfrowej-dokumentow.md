@@ -64,7 +64,7 @@ wersja_robocza: true
 4. **Komórka właściwa ds. kadr lub szkoleń**:
    - planuje i realizuje szkolenia z zakresu dostępności dokumentów cyfrowych,
    - prowadzi ewidencję przeszkolonych pracowników.
-5. ** Osoby wykonujące audyty lub przeglądy dostępności dokumentów:
+5. **Osoby wykonujące audyty lub przeglądy dostępności dokumentów**:
    - przeprowadzają okresowe kontrole jakości dokumentów,
    - przygotowują raporty oraz rekomendacje działań usprawniających.
 

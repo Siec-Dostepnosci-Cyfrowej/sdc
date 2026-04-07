@@ -36,7 +36,7 @@ Organizacja wdraża procedurę systematycznego badania i zapewniania dostępnoś
 3. **Bieżące ocenianie dostępności** polega na weryfikacji zgodności 
    z wymaganiami dostępności przeprowadzanej przez autorów i redaktorów.  
    Celem jest zapewnienie, że każda nowy dokument i każda nowa publikacja 
-   w organizacji standardy dostępności oraz zapobieganie umieszczaniu 
+   w organizacji spełnia standardy dostępności oraz zapobieganie umieszczaniu 
    przekazywaniu adresatom treści, które wymogów dostępności nie spełniają.
 4. **Wycinkowe badania dostępności** badania dostępności przeprowadza się 
    w przypadkach stwierdzenia niedostępności komponentów stron internetowych
