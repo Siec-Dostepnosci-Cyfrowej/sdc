@@ -18,7 +18,7 @@
     "write-translations": "docusaurus write-translations"
   },
   "dependencies": {
-    "@docusaurus/core": "3.9.2",
+    "@docusaurus/core": "3.10.0",
     "@docusaurus/preset-classic": "3.9.2",
     "@grnet/docusaurus-glossary-view": "2.0.0-rc.2",
     "@grnet/docusaurus-term-preview": "2.0.0-rc.2",
