@@ -37,6 +37,7 @@
     "tailwind-merge": "^3.5.0"
   },
   "devDependencies": {
+    "@docusaurus/faster": "^3.10.0",
     "@docusaurus/module-type-aliases": "3.10.0",
     "@docusaurus/tsconfig": "3.10.0",
     "@docusaurus/types": "3.10.0",
