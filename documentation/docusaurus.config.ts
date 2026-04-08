@@ -15,8 +15,11 @@ const config: Config = {
     staticDirectories: ['static'],
 
     future: {
-        v4: true,
+        v4: false,
     },
+
+
+
 
     url: 'https://siec-dostepnosci-cyfrowej.github.io',
     baseUrl: process.env.BASE_URL || '/sdc/',
