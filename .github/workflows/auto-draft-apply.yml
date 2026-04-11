@@ -37,7 +37,7 @@ jobs:
       - name: Convert PR to draft if needed
         if: env.draftApplied == 'true'
         id: convert
-        uses: actions/github-script@v8
+        uses: actions/github-script@v9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
@@ -70,7 +70,7 @@ jobs:
       - name: Check if comment already exists
         if: steps.convert.outputs.converted == 'true'
         id: check_comment
-        uses: actions/github-script@v8
+        uses: actions/github-script@v9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
@@ -84,7 +84,7 @@ jobs:
 
       - name: Add comment (only if conversion happened and no previous comment)
         if: steps.convert.outputs.converted == 'true' && steps.check_comment.outputs.exists != 'true'
-        uses: actions/github-script@v8
+        uses: actions/github-script@v9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
