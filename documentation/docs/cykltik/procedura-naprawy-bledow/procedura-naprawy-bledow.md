@@ -26,7 +26,7 @@ Podmiot publiczny wdraża procedury naprawy problemów zarówno wykrytych jak i 
 - - proces naprawy,
 - - przeprowadzenie ponownego audytu
 - - sporządzenie dokumentacji powykonawczej.
-- -
+  
 
 ## 3. Uzasadnienie
 Podmiot publiczny jest prawnie zobowiązany do zapewnienia dostępności cyfrowej na stronie internetowej i aplikacji mobilnej. Zgłoszone lub wykryte błędy powinny być naprawione w oparciu o systemowe przyjęte w organizacji procedury. Dzięki planowym działaniom poziom wprowadzonych kryteriów dostępności cyfrowej może być poddany analizie i efektywnej naprawie. 
