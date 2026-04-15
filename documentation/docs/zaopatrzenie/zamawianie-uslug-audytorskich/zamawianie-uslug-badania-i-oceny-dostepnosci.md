@@ -164,8 +164,8 @@ Wdrożenie zasad określonych w niniejszym zaleceniu:
 
 ## Załączniki
 
+1. [Dobór usług eksperckich](dobor-usług-eksperckich)
+1. [Typy usług eksperckich](typy-usług-eksperckich)
 1. [Zamawianie przeglądu diagnostycznego](zamawianie-przegladu-diagnostycznego)
 1. [Zamawianie audytu zgodności](zamawianie-audytu-zgodnosci)
 1. [Zamawianie usług eksperckich](zamawianie-uslug-eksperckich)
-1. [Dobór usług eksperckich](dobor-usług-eksperckich)
-1. [Typy usług eksperckich](typy-usług-eksperckich)
