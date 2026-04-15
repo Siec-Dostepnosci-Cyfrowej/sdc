@@ -572,3 +572,5 @@ Sprawdzenia manualne:
 - stanowią kluczowy element przeglądu diagnostycznego.
 
 Najważniejszym sprawdzeniem pozostaje test wykonania zadania, ponieważ pozwala ustalić, czy użytkownik może rzeczywiście skorzystać z serwisu i osiągnąć swój cel.
+
+---
