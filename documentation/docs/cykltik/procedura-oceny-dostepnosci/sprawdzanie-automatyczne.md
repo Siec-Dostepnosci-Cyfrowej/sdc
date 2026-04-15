@@ -55,7 +55,7 @@ Dobór narzędzi nie ma charakteru rozstrzygającego.
 
 - [SiteLint](https://chromewebstore.google.com/detail/sitelint-web-audit-tools/cgohmmflfahecpnbkpelccmhjmaobnfp) - narzędzie w języku polskim, ze wsparciem AI dla przeglądarek Chromium)  
 - [HTML_CodeSniffer](https://irtdpl.pl/html_codesniffer/) (skryptozakładka, dostępna w języku polskim)  
-- [IBM Equal Access Accessibility Checker](https://chromewebstore.google.com/detail/ibm-equal-access-accessib/lkcagbfjnkomcinoddgooolagloogehp)  
+- [IBM Equal Access Accessibility Checker dla Chrome](https://chromewebstore.google.com/detail/ibm-equal-access-accessib/lkcagbfjnkomcinoddgooolagloogehp), [IBM Equal Access Accessibility Checker dla Firefox](https://addons.mozilla.org/en-US/firefox/addon/accessibility-checker/)
 - [AInspector](https://opena11y.github.io/ainspector/) - dla przeglądarek Chrome, Firefox, Edge, Opera 
 - [WAVE](https://wave.webaim.org/extension/) - dla przeglądarek Chrome, Firefox, Edge
 - [ARC Toolkit](https://www.tpgi.com/arc-platform/arc-toolkit/) - dla przeglądarek Chrome, Firefox
