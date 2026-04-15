@@ -44,8 +44,28 @@ Dopuszcza się stosowanie różnych narzędzi, w szczególności:
 Dobór narzędzi nie ma charakteru rozstrzygającego.
 
 ---
+### 3.2. Przykładowe narzędzia
 
-### 3.2. Analiza zbiorcza (opcjonalna)
+#### Skanery wielu stron
+
+- [Oobee (narzędzie GovTech Singapore)](https://github.com/GovTechSG/oobee-desktop/releases)  
+- [Evaluatory](https://darekkay.com/evaluatory/) 
+
+#### Narzędzia przeglądarkowe i dodatki
+
+- [SiteLint](https://chromewebstore.google.com/detail/sitelint-web-audit-tools/cgohmmflfahecpnbkpelccmhjmaobnfp) - narzędzie w języku polskim, ze wsparciem AI dla przeglądarek Chromium)  
+- [HTML_CodeSniffer](https://irtdpl.pl/html_codesniffer/) (skryptozakładka, dostępna w języku polskim)  
+- [IBM Equal Access Accessibility Checker](https://chromewebstore.google.com/detail/ibm-equal-access-accessib/lkcagbfjnkomcinoddgooolagloogehp)  
+- [AInspector](https://opena11y.github.io/ainspector/) - dla przeglądarek Chrome, Firefox, Edge, Opera 
+- [WAVE](https://wave.webaim.org/extension/) - dla przeglądarek Chrome, Firefox, Edge
+- [ARC Toolkit](https://www.tpgi.com/arc-platform/arc-toolkit/) - dla przeglądarek Chrome, Firefox
+- [Lighthouse] (narzędzie wbudowane w przeglądarkę Chrome, komunmikaty w języku polskim)  
+
+Dobór narzędzi nie ma charakteru rozstrzygającego — różne narzędzia mogą wskazywać różne problemy.
+
+---
+
+### 3.3. Analiza zbiorcza (opcjonalna)
 
 W przypadku większych serwisów zaleca się wykonanie analizy zbiorczej przy użyciu skanerów wielu stron.
 
@@ -57,7 +77,7 @@ Analiza ta służy:
 
 ---
 
-### 3.3. Analiza szczegółowa
+### 3.4. Analiza szczegółowa
 
 Dla wybranych podstron objętych przeglądem należy przeprowadzić analizę przy użyciu narzędzi przeglądarkowych.
 
