@@ -1,6 +1,6 @@
 ---
 id: zamawianie-uslug-badania-i-oceny-dostepnosci
-title: Zalecenie Ministra Cyfryzacji w sprawie zamawiania usług badania i oceniania dostępności cyfrowej
+title: Zalecenie w sprawie zamawiania usług badania i oceniania dostępności cyfrowej
 description: Organizacja określa zasady zamawiania usług związanych z badaniem i oceną dostępności cyfrowej
 sidebar_label: Zalecenie
 sidebar_position: 0
