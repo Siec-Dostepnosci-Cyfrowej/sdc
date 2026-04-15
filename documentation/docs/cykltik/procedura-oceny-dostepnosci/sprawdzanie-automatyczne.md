@@ -59,7 +59,7 @@ Dobór narzędzi nie ma charakteru rozstrzygającego.
 - [AInspector](https://opena11y.github.io/ainspector/) - dla przeglądarek Chrome, Firefox, Edge, Opera 
 - [WAVE](https://wave.webaim.org/extension/) - dla przeglądarek Chrome, Firefox, Edge
 - [ARC Toolkit](https://www.tpgi.com/arc-platform/arc-toolkit/) - dla przeglądarek Chrome, Firefox
-- [Lighthouse] (narzędzie wbudowane w przeglądarkę Chrome, komunmikaty w języku polskim)  
+- Lighthouse - narzędzie wbudowane w przeglądarkę Chrome, komunmikaty w języku polskim  
 
 Dobór narzędzi nie ma charakteru rozstrzygającego — różne narzędzia mogą wskazywać różne problemy.
 
