@@ -1,10 +1,12 @@
+---
+title: Standardy tworzenia dostępnych materiałów
+---
+
 # Standardy tworzenia dostępnych materiałów
 
-Folder `standardy/` zawiera szczegółowe zasady przygotowania dostępnych materiałów multimedialnych i komunikatów.
+Niniejsza sekcja zawiera szczegółowe zasady przygotowania dostępnych materiałów multimedialnych i komunikatów.
 
 Standardy określają sposób tworzenia treści w taki sposób, aby spełniały wymagania dostępności oraz były czytelne i zrozumiałe dla użytkowników.
-
----
 
 ## Rola standardów
 
@@ -17,18 +19,16 @@ Standardy:
 
 Standardy odpowiadają na pytanie:
 
-👉 **jak przygotować materiał, aby był dostępny**
-
----
+**jak przygotować materiał, aby był dostępny**
 
 ## Zawartość
+
+W skład standardów wchodzą:
 
 - [Standard tworzenia dostępnych materiałów wideo](./01-standard-tworzenia-dostepnych-materialow-wideo.md)
 - [Standard tworzenia dostępnych grafik i materiałów wizualnych](./02-standard-tworzenia-dostepnych-grafik-i-materialow-wizualnych.md)
 - [Standard opisu alternatywnego i treści równoważnych](./03-standard-opisu-alternatywnego-i-tresci-rownowaznych.md)
 - [Standard struktury komunikatu i tworzenia treści](./04-standard-struktury-komunikatu-i-tworzenia-tresci.md)
-
----
 
 ## Relacja do innych elementów repozytorium
 
@@ -38,16 +38,14 @@ Standardy są częścią większego systemu i powinny być stosowane razem z inn
 - `modele/` – określają organizację pracy,
 - `checklisty/` – służą do weryfikacji materiałów przed publikacją.
 
-Standardy nie zastępują tych dokumentów, lecz uzupełniają je.
-
----
+Standardy nie zastępują pozostałych dokumentów, lecz uzupełniają ich zastosowanie w praktyce.
 
 ## Jak korzystać ze standardów
 
-Standardy powinny być stosowane:
+Standardy stosuje się na wszystkich etapach przygotowania materiału:
 
-- na etapie przygotowania materiału,
-- w trakcie jego opracowania,
+- podczas planowania,
+- w trakcie opracowania,
 - przed publikacją.
 
 Stanowią punkt odniesienia dla:
@@ -56,8 +54,6 @@ Stanowią punkt odniesienia dla:
 - grafików,
 - osób przygotowujących multimedia,
 - redaktorów i osób publikujących.
-
----
 
 ## Charakter standardów
 
