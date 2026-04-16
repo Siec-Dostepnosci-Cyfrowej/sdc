@@ -1,10 +1,12 @@
+---
+title: Zalecenie
+---
+
 # Zalecenie 5: Organizacja procesu zapewniania dostępności multimediów i komunikacji masowej
 
 ## Zalecenie
 
 Organizacje publiczne wdrażają spójny model przygotowania i publikacji materiałów multimedialnych oraz komunikatów, w którym dostępność stanowi integralny element procesu tworzenia treści i warunek ich publikacji.
-
----
 
 ## Rekomendacje
 
@@ -45,8 +47,6 @@ Wdrożenie zalecenia obejmuje:
 
 6. Wprowadzenie zasady, że materiał niespełniający wymagań dostępności nie jest publikowany.
 
----
-
 ## Uzasadnienie
 
 W praktyce funkcjonowania podmiotów publicznych dostępność multimediów i komunikacji masowej jest często traktowana jako działanie uzupełniające lub dodatkowe, realizowane na końcowym etapie przygotowania materiału.
@@ -68,17 +68,13 @@ Szczegółowe uzasadnienie oraz powiązanie z wymaganiami prawnymi określono w 
 
 → [Uzasadnienie stosowania wymagań](./wymagania/uzasadnienie-stosowania.md)
 
----
-
 ## Podstawy prawne
 
 W zaleceniu uwzględniono poniżej wymienione przepisy:
 
-- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz. U. 2019 poz. 848, z późn. zm.).
+- Art. 3–8 ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz. U. 2019 poz. 848, z późn. zm.).
 - Norma EN 301 549 Accessibility requirements for ICT products and services.
 - Dyrektywa Parlamentu Europejskiego i Rady (UE) 2019/882 (Europejski Akt o Dostępności).
-
----
 
 ## Źródła i opracowania
 
@@ -86,8 +82,6 @@ W zaleceniu uwzględniono poniżej wymienione przepisy:
 2. W3C WAI, *Making Audio and Video Media Accessible*, https://www.w3.org/WAI/media/  
 3. EN 301 549 Accessibility requirements for ICT products and services  
 4. WebAIM, *Accessibility Principles and Techniques*, https://webaim.org/  
-
----
 
 ## Historia wersji
 
