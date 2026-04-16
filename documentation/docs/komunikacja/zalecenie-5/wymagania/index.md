@@ -1,10 +1,12 @@
+---
+title: Wymagania dostępności
+---
+
 # Wymagania dostępności
 
-Folder `wymagania/` zawiera minimalne wymagania dostępności dla materiałów multimedialnych i komunikacji masowej.
+Niniejsza sekcja zawiera minimalne wymagania dostępności dla materiałów multimedialnych i komunikacji masowej.
 
 Wymagania określają obowiązkowy poziom dostępności, który musi zostać spełniony przed publikacją materiału.
-
----
 
 ## Rola wymagań
 
@@ -19,40 +21,33 @@ Wymagania odpowiadają na pytanie:
 
 **co musi zostać spełnione, aby materiał mógł zostać opublikowany**
 
----
-
 ## Zawartość
+
+W skład dokumentów wchodzą:
 
 - [Minimalne wymagania dostępności](./minimalne-wymagania.md)
 - [Uzasadnienie stosowania wymagań](./uzasadnienie-stosowania.md)
-
----
 
 ## Zasada stosowania
 
 Spełnienie wymagań stanowi warunek publikacji materiału.
 
 Materiał:
-- spełnia wymagania i może zostać opublikowany  
-lub  
-- nie spełnia wymagań i nie może zostać opublikowany  
+- spełnia wymagania i może zostać opublikowany,
+- nie spełnia wymagań i nie może zostać opublikowany.
 
 Nie dopuszcza się:
 - publikacji materiałów częściowo dostępnych,
 - uzupełniania dostępności po publikacji.
 
----
-
 ## Relacja do innych elementów repozytorium
 
-Wymagania stanowią podstawę dla pozostałych dokumentów:
+Wymagania stanowią podstawę całego systemu i są punktem odniesienia dla pozostałych dokumentów:
 
 - `standardy/` – określają, jak spełnić wymagania,
 - `modele/` – określają, jak zorganizować proces,
 - `checklisty/` – służą do weryfikacji spełnienia wymagań,
 - `docs/` – wyjaśniają kontekst i znaczenie wymagań.
-
----
 
 ## Charakter wymagań
 
