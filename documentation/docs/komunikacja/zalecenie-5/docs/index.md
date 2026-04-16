@@ -1,10 +1,14 @@
+---
+title: Dokumenty uzupełniające
+---
+
 # Dokumenty uzupełniające
 
-Folder `docs/` zawiera materiały uzupełniające do Zalecenia 5.
+Niniejsza sekcja zawiera materiały uzupełniające do Zalecenia 5.
 
 Dokumenty zgromadzone w tym katalogu nie stanowią treści samego zalecenia ani jego obowiązkowych elementów wdrożeniowych. Pełnią funkcję analityczną, porządkującą i wspierającą. Służą wyjaśnieniu kontekstu, pokazaniu problemów wdrożeniowych, opisaniu efektów wdrożenia oraz wskazaniu systemowych powiązań standardu dostępności multimediów i komunikacji masowej.
 
-## Rola dokumentów w folderze
+## Rola dokumentów w tej sekcji
 
 Dokumenty w tym katalogu:
 
@@ -24,6 +28,8 @@ Dokumenty te mogą być wykorzystywane jako:
 
 ## Zawartość
 
+W skład materiałów uzupełniających wchodzą:
+
 - [Problem i kontekst](./problem-i-kontekst.md)
 - [Problemy i błędy wdrożeniowe](./problemy-i-bledy-wdrozeniowe.md)
 - [Zasady projektowe](./zasady-projektowe.md)
@@ -32,7 +38,7 @@ Dokumenty te mogą być wykorzystywane jako:
 
 ## Relacja do pozostałych części repozytorium
 
-Folder `docs/` uzupełnia dokumenty znajdujące się w głównych częściach repozytorium:
+Sekcja uzupełnia dokumenty znajdujące się w głównych częściach repozytorium:
 
 - `zalecenie.md` - dokument główny zgodny ze strukturą Sieci Dostępności Cyfrowej,
 - `wymagania/` - minimalne wymagania i ich uzasadnienie,
@@ -40,10 +46,10 @@ Folder `docs/` uzupełnia dokumenty znajdujące się w głównych częściach re
 - `modele/` - modele organizacyjne i wdrożeniowe,
 - `checklisty/` - listy kontrolne stosowane przed publikacją.
 
-Dokumenty z folderu `docs/` nie zastępują tych materiałów, lecz pomagają zrozumieć ich sens, kontekst i sposób wykorzystania.
+Dokumenty uzupełniające nie zastępują tych materiałów, lecz wspierają ich zrozumienie i wdrożenie.
 
 ## Charakter dokumentów
 
-Materiały zgromadzone w folderze `docs/` mają charakter roboczy i ekspercki.
+Materiały mają charakter roboczy i ekspercki.
 
 Mogą być rozwijane, porządkowane lub wykorzystywane jako podstawa do dalszych opracowań, jednak nie powinny być traktowane jako samodzielne zalecenia.
