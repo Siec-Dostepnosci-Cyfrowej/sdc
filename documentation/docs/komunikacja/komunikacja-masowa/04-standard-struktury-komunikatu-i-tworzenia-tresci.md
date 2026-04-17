@@ -1,6 +1,6 @@
 ---
 id: 04-standard-struktury-komunikatu-i-tworzenia-tresci
-title: Standard opisu alternatywnego i treści równoważnych
+title: Standard tworzenia treści
 description: Standard określający sposób tworzenia struktury komunikatu i przygotowania czytelnych treści.
 sidebar_label: Uzasadnienie stosowania
 sidebar_position: 8
@@ -12,8 +12,6 @@ data_zgloszenia: 16 kwietnia 2026 r.
 data_aktualizacji: 16 kwietnia 2026 r.
 wersja_robocza: true
 ---
-
-# Standard struktury komunikatu i tworzenia treści
 
 ## Postanowienia ogólne
 
