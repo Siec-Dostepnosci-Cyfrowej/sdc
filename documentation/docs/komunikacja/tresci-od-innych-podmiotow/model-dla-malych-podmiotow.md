@@ -18,7 +18,7 @@ W małych podmiotach nie jest zasadne wdrażanie rozbudowanego modelu opartego n
 
 Uproszczenie nie oznacza rezygnacji z wymagań ani dowolności działania. Oznacza wyłącznie ograniczenie formalizmów przy zachowaniu pełnej logiki kwalifikacji materiału oraz podejmowania decyzji zgodnych z przepisami.
 
-Model należy odczytywać łącznie ze [schematem procesu uproszczonego](../schematy/proces-uproszczony), który przedstawia kolejność działań i punktów decyzyjnych.
+Model należy odczytywać łącznie ze [schematem procesu uproszczonego](schematy/proces-uproszczony), który przedstawia kolejność działań i punktów decyzyjnych.
 
 ## Założenia modelu
 
@@ -50,7 +50,7 @@ Pytania te służą ustaleniu:
 
 Na podstawie odpowiedzi materiał zostaje przypisany do jednej z kategorii: A, B, C albo D, nawet jeżeli oznaczenie to nie jest formalnie zapisywane. Decyzja musi wynikać z analizy, a nie z przyjętej praktyki.
 
-Szczegółowy przebieg kwalifikacji przedstawia [schemat procesu uproszczonego](../schematy/proces-uproszczony).
+Szczegółowy przebieg kwalifikacji przedstawia [schemat procesu uproszczonego](schematy/proces-uproszczony).
 
 ## 2. Decyzja jednoosobowa
 
@@ -129,7 +129,7 @@ Dzięki temu możliwe jest zapewnienie zgodności z przepisami oraz dostępnośc
 
 ## 6. Powiązanie ze schematem procesu
 
-Model dla małych podmiotów należy stosować łącznie ze [schematem procesu uproszczonego](../schematy/proces-uproszczony).
+Model dla małych podmiotów należy stosować łącznie ze [schematem procesu uproszczonego](schematy/proces-uproszczony).
 
 Schemat przedstawia kolejność działań i punktów decyzyjnych, natomiast niniejszy model określa warunki organizacyjne, odpowiedzialnościowe i dokumentacyjne niezbędne do jego prawidłowego stosowania.
 
