@@ -136,5 +136,4 @@ Stosowany w sytuacjach szczególnych:
 
 ## 11. Postanowienia końcowe
 
-## 10. Postanowienia końcowe
 Procedura podlega przeglądowi co najmniej raz w roku oraz każdorazowo po istotnych zmianach w przepisach lub technologii publikacji treści cyfrowych.  
