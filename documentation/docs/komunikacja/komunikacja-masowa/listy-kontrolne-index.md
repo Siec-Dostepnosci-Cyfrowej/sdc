@@ -71,4 +71,4 @@ Listy kontrolne nie zastępują wiedzy ani doświadczenia, ale stanowią obowią
 
 ## Powiązanie z zaleceniem
 
-Listy kontrolne są elementem realizacji [Zalecenia 5](../zalecenie.md).
+Listy kontrolne są elementem realizacji [Zalecenia Organizacja procesu zapewniania dostępności multimediów i komunikacji masowej](./komunikacja-masowa-zalecenie).
