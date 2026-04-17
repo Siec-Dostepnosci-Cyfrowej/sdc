@@ -27,35 +27,35 @@ Stosowanie załączników jest obowiązkowe w zakresie wynikającym z modelu ope
 
 ### Formularze i dokumenty wejściowe
 
-- [Załącznik nr 1 Formularz przekazania materiału do publikacji](./formularz-przekazania-materialu.md)
+- [Załącznik nr 1 Formularz przekazania materiału do publikacji](formularz-przekazania-materialu)
 
 ---
 
 ### Narzędzia kwalifikacji i weryfikacji
 
-- [Załącznik nr 2 Schemat kwalifikacji treści (A/B/C/D)](./schemat-klasyfikacji-tresci.md)  
-- [Załącznik nr 3 Lista kontrolna weryfikacji przed publikacją](./lista-kontrolna-przed-publikacja.md)
+- [Załącznik nr 2 Schemat kwalifikacji treści (A/B/C/D)](schemat-klasyfikacji-tresci)  
+- [Załącznik nr 3 Lista kontrolna weryfikacji przed publikacją](lista-kontrolna-przed-publikacja)
 
 ---
 
 ### Decyzje i komunikacja z podmiotami
 
-- [Załącznik nr 4 Wzór decyzji o odmowie publikacji](./wzor-odmowy-publikacji.md)  
-- [Załącznik nr 5 Wzór informacji o brakach w materiale](./wzor-informacji-o-brakach.md)
+- [Załącznik nr 4 Wzór decyzji o odmowie publikacji](wzor-odmowy-publikacji)  
+- [Załącznik nr 5 Wzór informacji o brakach w materiale](wzor-informacji-o-brakach)
 
 ---
 
 ### Oznaczenia treści
 
-- [Załącznik nr 6 Wzór oznaczenia treści objętej wyłączeniem](./oznaczenie-tresci-wylaczonej.md)  
-- [Załącznik nr 7 Wzór oznaczenia treści obowiązkowej](./oznaczenie-tresci-obowiazkowej.md)
+- [Załącznik nr 6 Wzór oznaczenia treści objętej wyłączeniem](oznaczenie-tresci-wylaczonej)  
+- [Załącznik nr 7 Wzór oznaczenia treści obowiązkowej](oznaczenie-tresci-obowiazkowej)
 
 ---
 
 ### Wsparcie procesu i współpraca
 
-- [Załącznik nr 8 Instrukcja dla podmiotów zewnętrznych](./instrukcja-dla-podmiotow-zewnetrznych.md)  
-- [Załącznik nr 9 Procedura obsługi żądania dostępności](./procedura-zadania-dostepnosci.md)
+- [Załącznik nr 8 Instrukcja dla podmiotów zewnętrznych](instrukcja-dla-podmiotow-zewnetrznych)  
+- [Załącznik nr 9 Procedura obsługi żądania dostępności](procedura-zadania-dostepnosci)
 
 ---
 
