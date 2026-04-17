@@ -4,8 +4,8 @@ title: Standard tworzenia dostępnych materiałów wideo
 description: Standard określający sposób przygotowania dostępnych materiałów wideo zgodnie z wymaganiami dostępności.
 sidebar_label: Uzasadnienie stosowania
 sidebar_position: 5
-keywords: [słowo kluczowe, inne słowo]
-tags: [słowo kluczowe, inne słowo]
+keywords: [komunikacja, wideo]
+tags: [komunikacja, wideo]
 opracowanie: Bartłomiej Wilk
 wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
