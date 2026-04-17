@@ -54,7 +54,7 @@
     "shadcn-ui": "^0.9.5",
     "svgo": "4.0.1",
     "tailwindcss": "^3.4.14",
-    "typescript": "6.0.2"
+    "typescript": "6.0.3"
   },
   "overrides": {
     "rollup": "4.52.5"
