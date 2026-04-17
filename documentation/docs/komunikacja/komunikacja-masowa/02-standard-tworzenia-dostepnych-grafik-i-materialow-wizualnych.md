@@ -2,7 +2,7 @@
 id: 02-standard-tworzenia-dostepnych-grafik-i-materialow-wizualnych
 title: Standard tworzenia dostępnych grafik i materiałów wizualnych
 description: Standard określający sposób przygotowania dostępnych grafik i materiałów wizualnych.
-sidebar_label: Uzasadnienie stosowania
+sidebar_label: Standard tworzenia grafik
 sidebar_position: 6
 keywords: [słowo kluczowe, inne słowo]
 tags: [słowo kluczowe, inne słowo]
