@@ -55,10 +55,10 @@ Brak spełnienia wymagań skutkuje:
 
 ## Zawartość
 
-- [Minimalne wymagania przed publikacją](./minimalne-wymagania-przed-publikacja)  
+- [Minimalne wymagania przed publikacją](minimalne-wymagania-przed-publikacja)  
   Warunki, które musi spełniać materiał, aby mógł zostać opublikowany.
 
-- [Uzasadnienie stosowania wymagań](../kontekst/uzasadnienie-stosowania-wymagan)  
+- [Uzasadnienie stosowania wymagań](kontekst/uzasadnienie-stosowania-wymagan)  
   Wyjaśnienie znaczenia dostępności jako warunku publikacji.
 
 ---
