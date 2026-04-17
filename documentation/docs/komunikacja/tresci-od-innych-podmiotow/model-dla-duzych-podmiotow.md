@@ -19,7 +19,7 @@ W dużych podmiotach proces publikacji treści pochodzących od innych podmiotó
 
 W takich warunkach nie jest wystarczające oparcie procesu na indywidualnej ocenie poszczególnych pracowników. Konieczne jest stosowanie modelu, który zapewnia jednolite przyjmowanie materiałów, ich kwalifikację, skierowanie na właściwą ścieżkę postępowania oraz dokumentowanie wszystkich decyzji.
 
-Model należy odczytywać łącznie ze [schematem procesu publikacji](../schematy/proces-publikacji), który przedstawia kolejność działań i punktów decyzyjnych.
+Model należy odczytywać łącznie ze [schematem procesu publikacji](schematy/proces-publikacji), który przedstawia kolejność działań i punktów decyzyjnych.
 
 ## Elementy modelu
 
@@ -71,7 +71,7 @@ W dużych podmiotach oznaczenie kategorii powinno zostać odnotowane jednoznaczn
 - datę kwalifikacji,
 - wskazanie osoby dokonującej kwalifikacji.
 
-Kategoria uruchamia właściwą ścieżkę postępowania opisaną w [schemacie procesu publikacji](../schematy/proces-publikacji).
+Kategoria uruchamia właściwą ścieżkę postępowania opisaną w [schemacie procesu publikacji](schematy/proces-publikacji).
 
 ### Kategoria A
 
@@ -93,7 +93,7 @@ Zakwalifikowanie materiału do kategorii D oznacza, że publikacja wynika z obow
 
 W dużych podmiotach cały proces powinien przebiegać według uporządkowanego obiegu publikacyjnego. Oznacza to, że materiał przechodzi przez kolejne etapy w określonej kolejności, a każdy etap ma przypisaną rolę i skutek.
 
-Szczegółowy przebieg procesu przedstawia [schemat procesu publikacji](../schematy/proces-publikacji).
+Szczegółowy przebieg procesu przedstawia [schemat procesu publikacji](schematy/proces-publikacji).
 
 ### Etap 1. Przyjęcie materiału
 
@@ -195,6 +195,6 @@ W dużych podmiotach elementy modelu nie mogą być stosowane wybiórczo. Muszą
 
 ## Powiązanie ze schematem procesu
 
-Model dla dużych podmiotów należy stosować łącznie ze [schematem procesu publikacji](../schematy/proces-publikacji).
+Model dla dużych podmiotów należy stosować łącznie ze [schematem procesu publikacji](schematy/proces-publikacji).
 
 Schemat przedstawia kolejność działań i punktów decyzyjnych, natomiast niniejszy model określa warunki organizacyjne, dokumentacyjne i odpowiedzialnościowe niezbędne do jego prawidłowego wdrożenia.
