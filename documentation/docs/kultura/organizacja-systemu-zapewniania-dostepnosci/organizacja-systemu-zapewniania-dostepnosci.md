@@ -3,9 +3,9 @@ id: organizacja-systemu-zapewniania-dostepnosci
 title: Organizacja systemu zapewniania dostępności cyfrowej
 description: System zapewniania dostępności
 sidebar_position: 0
-sidebar_label: System zapewniania dostępności
-keywords: [wiedza, umiejętności, kompetencje, pracownicy]
-tags: [wiedza, umiejętności, kompetencje, pracownicy]
+sidebar_label: Zalecenie
+keywords: [wiedza, umiejętności, kompetencje]
+tags: [wiedza, umiejętności, kompetencje]
 opracowanie: Stefan Wajda 
 data_zgloszenia: 18 kwietnia 2026 r.
 data_aktualizacji:  18 kwietnia 2026 r.

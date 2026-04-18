@@ -2,7 +2,7 @@
 id: monitoring-i-ocena dojrzalosci
 title: Monitoring i ocena dojrzałości systemu zapewniania dostępności cyfrowej. Załącznik
 description: Monitoring i ocena dojrzałości
-sidebar_position: 0
+sidebar_position: 3
 sidebar_label: Monitoring i ocena dojrzałości
 keywords: [wiedza, umiejętności, kompetencje, pracownicy]
 tags: [wiedza, umiejętności, kompetencje, pracownicy]

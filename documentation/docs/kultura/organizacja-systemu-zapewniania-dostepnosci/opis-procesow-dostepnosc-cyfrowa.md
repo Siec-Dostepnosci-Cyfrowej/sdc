@@ -2,13 +2,13 @@
 id: opis-procesow-dostepnosc-cyfrowa
 title: Opis głównych procesów zapewniania dostępności cyfrowej. Załącznik nr 1 
 sidebar_label: Opis głównych procesów
-sidebar_position: 25
+sidebar_position: 2
 description: Opis głównych procesów zapewniania dostępności cyfrowej 
 keywords: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie, role organizacyjne]
 tags: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie, role organizacyjne]
 opracowanie: Stefan Wajda 
-data_zgloszenia: 7 listopada 2025 r.
-ostatnia_aktualizacja: 12 listopada 2025 r.
+data_zgloszenia: 18 kwietnia 2026 r.
+ostatnia_aktualizacja: 18 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
