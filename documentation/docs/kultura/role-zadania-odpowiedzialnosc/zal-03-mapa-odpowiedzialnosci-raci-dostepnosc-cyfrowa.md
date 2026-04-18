@@ -8,7 +8,7 @@ keywords: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna,
 tags: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie, role organizacyjne]
 opracowanie: Stefan Wajda 
 data_zgloszenia: 7 listopada 2025 r.
-ostatnia_aktualizacja: 12 listopada 2025 r.
+ostatnia_aktualizacja: 18 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
@@ -51,27 +51,39 @@ Dzięki temu podmiot publiczny może skutecznie planować, monitorować i raport
 
 ## 4. Mapa odpowiedzialności (RACI)
 
-| Rola / Funkcja | Zarządzanie polityką | Tworzenie i publikacja treści | Weryfikacja i testowanie | Zakupy i zamówienia | Szkolenia i rozwój | Raportowanie i doskonalenie |
-|:----------------|:--------------------:|:-----------------------------:|:------------------------:|:-------------------:|:------------------:|:-----------------------------:|
-| Kierownik organizacji lub członek zarządu | **A** | **R** | **C** | **C** | **I** | **A** |
-| Koordynator ds. dostępności cyfrowej | **R** | **C** | **C** | **C** | **C** | **R** |
-| Specjalista ds. polityki dostępności cyfrowej | **C** | **C** | **I** | **C** | **C** | **C** |
-| Prawnik lub kierownik ds. zgodności | **C** | **I** | **C** | **C** | **I** | **C** |
-| Kierownik ds. zakupów (zamówień publicznych) | **I** | **I** | **I** | **R** | **I** | **I** |
-| Właściciel / wydawca strony internetowej | **I** | **R** | **C** | **I** | **I** | **I** |
-| Redaktor treści internetowych | **I** | **R** | **C** | **I** | **I** | **I** |
-| Redaktor nadzorujący jakość i dostępność publikacji | **I** | **A** | **C** | **I** | **I** | **I** |
-| Specjalista ds. komunikacji | **C** | **R** | **C** | **I** | **I** | **I** |
-| Projektant / właściciel tożsamości wizualnej organizacji | **C** | **C** | **I** | **I** | **I** | **I** |
-| Projektodawca lub właściciel produktu (systemu, usługi cyfrowej) | **R** | **C** | **A** | **C** | **C** | **R** |
-| Konsultant ds. technologii informacyjno-komunikacyjnych (TIK) | **C** | **C** | **R** | **C** | **I** | **C** |
-| Kierownik działu IT | **C** | **I** | **R** | **C** | **C** | **R** |
-| Programista | **I** | **C** | **R** | **I** | **I** | **I** |
-| Tester oprogramowania | **I** | **C** | **R** | **I** | **I** | **I** |
-| Specjalista ds. kadr (HR) | **C** | **I** | **I** | **I** | **R** | **C** |
-| Konsultant (specjalista) ds. szkoleń | **C** | **I** | **I** | **I** | **R** | **C** |
-| Pracownik tworzący dokumenty i informacje | **I** | **R** | **I** | **I** | **C** | **I** |
-| Osoba sprawująca funkcje kierownicze lub samodzielne | **R** | **A** | **C** | **C** | **C** | **R** |
+| Rola / Funkcja | System | Treści | Usługi cyfrowe | Systemy IT | Testowanie i dane | Zamówienia | Kompetencje | Ocena i doskonalenie |
+|:----------------|:------:|:------:|:--------------:|:-----------:|:-----------------:|:-----------:|:-----------:|:---------------------:|
+| Kierownik organizacji / członek zarządu | **A** | I | I | I | I | **A** | I | **A** |
+| Koordynator ds. dostępności cyfrowej | **R** | C | C | C | C | C | **C** | **R** |
+| Specjalista ds. polityki dostępności | C | C | I | I | I | C | C | C |
+| Prawnik / zgodność | C | I | I | I | I | C | I | C |
+| Kierownik ds. zakupów | I | I | I | I | I | **R** | I | I |
+| Właściciel / wydawca strony | I | **A** | C | I | C | I | I | I |
+| Redaktor treści | I | **R** | I | I | I | I | C | I |
+| Redaktor nadzorujący jakość | I | C | I | I | C | I | I | I |
+| Specjalista ds. komunikacji | C | **R** | C | I | I | I | I | I |
+| Projektant UX / usług | I | I | **R** | I | C | I | C | I |
+| Kierownik produktu / właściciel usługi | I | I | **A** | C | C | C | C | **R** |
+| Kierownik IT | C | I | C | **A** | C | C | C | **R** |
+| Programista | I | I | C | **R** | C | I | I | I |
+| Tester dostępności / oprogramowania | I | I | C | C | **R** | I | I | I |
+| Konsultant ds. TIK | C | C | C | C | **R** | C | I | C |
+| Specjalista HR | C | I | I | I | I | I | **A** | C |
+| Specjalista ds. szkoleń | C | I | I | I | I | I | **R** | C |
+| Pracownik tworzący dokumenty i informacje | I | **R** | I | I | I | I | C | I |
+| Osoba pełniąca funkcje kierownicze (średni szczebel) | **R** | **A** | C | C | C | C | C | **R** |
+
+
+## 4A. Mapa odpowiedzialności (RACI) – wersja uproszczona
+
+| Rola / Funkcja | System | Treści | Usługi cyfrowe | Systemy IT | Testowanie i dane | Zamówienia | Kompetencje | Ocena i doskonalenie |
+|:----------------|:------:|:------:|:--------------:|:-----------:|:-----------------:|:-----------:|:-----------:|:---------------------:|
+| Kierownik / dyrektor | **A** | I | I | I | I | **A** | I | **A** |
+| Koordynator dostępności (często ta sama osoba) | **R** | C | C | C | C | C | **C** | **R** |
+| Pracownik publikujący treści | I | **R** | I | I | I | I | C | I |
+| Osoba odpowiedzialna za stronę / IT (wewnętrzna lub zewnętrzna) | I | C | C | **R** | **R** | C | I | C |
+| Osoba ds. zamówień / administracji | I | I | I | I | I | **R** | C | I |
+
 
 ---
 
