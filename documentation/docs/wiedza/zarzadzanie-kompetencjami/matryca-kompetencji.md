@@ -2,7 +2,7 @@
 id: matryca-kompetencji
 title: Przykładowa matryca kompetencji. Załącznik 1
 description: Matryca kompetencji
-sidebar_position: 5
+sidebar_position: 1
 sidebar_label: Matryca kompetencji
 keywords: [wiedza, umiejętności, kompetencje, pracownicy]
 tags: [wiedza, umiejętności, kompetencje, pracownicy]
@@ -67,7 +67,7 @@ Matryca powinna być:
 | Rola | Kluczowe zadania | Kompetencje | Poziom |
 |------|-----------------|------------|--------|
 | Redaktor treści | Tworzenie i publikacja treści | Stosowanie zasad WCAG, redagowanie zrozumiałych treści | 2 |
-| Redaktor jakości | Weryfikacja treści | Identyfikacja błędów dostępności, stosowanie checklist | 2–3 |
+| Redaktor jakości | Weryfikacja treści | Identyfikacja błędów dostępności, stosowanie list kongtrolnych | 2–3 |
 | Specjalista ds. komunikacji | Przygotowanie komunikacji publicznej | Projektowanie komunikacji dostępnej i inkluzywnej | 2–3 |
 
 ---

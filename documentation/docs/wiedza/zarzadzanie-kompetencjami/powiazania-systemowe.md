@@ -2,7 +2,7 @@
 id: powiazania-systemowe
 title: Powiązanie ról, kompetencji i decyzji zarządczych. Załącznik 4
 description: Powiązania systemowe
-sidebar_position: 5
+sidebar_position: 4
 sidebar_label: Powiązania systemowe
 keywords: [wiedza, umiejętności, kompetencje, pracownicy]
 tags: [wiedza, umiejętności, kompetencje, pracownicy]

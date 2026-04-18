@@ -2,7 +2,7 @@
 id: model-zapewniania-wsparcia-kompetencyjnego
 title: Model zapewniania wsparcia kompetencyjnego w organizacji. Załącznik 3
 description: Model wsparcia kompetencyjnego
-sidebar_position: 4
+sidebar_position: 3
 sidebar_label: Model wsparcia kompetencyjnego
 keywords: [wiedza, umiejętności, kompetencje, pracownicy]
 tags: [wiedza, umiejętności, kompetencje, pracownicy]

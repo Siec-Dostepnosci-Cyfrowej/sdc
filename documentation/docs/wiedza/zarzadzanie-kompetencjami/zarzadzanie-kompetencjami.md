@@ -66,7 +66,7 @@ Analiza luk stanowi podstawę planowania działań rozwojowych oraz doskonalenia
 Organizacja rozwija kompetencje poprzez realizację rzeczywistych zadań wynikających z ról i procesów.
 
 Działania rozwojowe obejmują w szczególności:
-- materiały operacyjne (instrukcje, checklisty, standardy),
+- materiały operacyjne (instrukcje, listy kontrolne, standardy),
 - mikro-szkolenia powiązane z konkretnymi zadaniami,
 - konsultacje i wsparcie eksperckie,
 - uczenie się poprzez rozwiązywanie rzeczywistych problemów.
