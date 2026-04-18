@@ -1,0 +1,17 @@
+ Volume in drive D is Nowy
+ Volume Serial Number is 964F-BE51
+
+ Directory of d:\github\siec\sdc\documentation\docs\zaopatrzenie\zamawianie-uslug-audytorskich
+
+15.04.2026  19:13    <DIR>          .
+15.04.2026  19:12    <DIR>          ..
+15.04.2026  19:13                 0 dir.txt
+15.04.2026  19:12             6ÿ680 dobor-usˆug-eksperckich.md
+15.04.2026  19:12             7ÿ990 typy-usˆug-eksperckich.md
+15.04.2026  19:12             7ÿ673 zamawianie-audytu-zgodnosci.md
+15.04.2026  19:12             8ÿ558 zamawianie-przegladu-diagnostycznego.md
+15.04.2026  19:12             6ÿ313 zamawianie-uslug-badania-i-oceny-dostepnosci.md
+15.04.2026  19:12             6ÿ498 zamawianie-uslug-eksperckich.md
+15.04.2026  19:12               136 _category_.json
+               8 File(s)         43ÿ848 bytes
+               2 Dir(s)  346ÿ304ÿ008ÿ192 bytes free
