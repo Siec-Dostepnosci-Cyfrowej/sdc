@@ -12,15 +12,6 @@ ostatnia_aktualizacja: 18 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
-Urząd Miejski w Nowoczesnym Mieście Cyfrowym\
-Opracował: Zespół ds. dostępności cyfrowej\
-Data: listopad 2025\
-Wersja: 1.0
-
-Opis alternatywny logo: Logo Urzędu Miejskiego w Nowoczesnym Mieście Cyfrowym - znak
-graficzny jednostki użyty w celach demonstracyjnych.
----
-
 ## 1. Wprowadzenie
 Mapa odpowiedzialności (RACI) stanowi narzędzie wspierające zarządzanie zadaniami i kompetencjami w zakresie dostępności cyfrowej.  
 Określa, kto w organizacji jest **odpowiedzialny (R)**, **rozliczany (A)**, **konsultowany (C)** lub **informowany (I)** w odniesieniu do kluczowych procesów.  
@@ -103,4 +94,4 @@ Mapa RACI powinna być wykorzystywana do:
 
 ---
 
-**Wersja 1.0 | Opracował: Zespół ds. dostępności cyfrowej | Data: listopad 2025**
+
