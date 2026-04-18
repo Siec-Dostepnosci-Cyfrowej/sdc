@@ -27,12 +27,12 @@ Monitoring i ocena dojrzałości stanowią element jednego procesu zarządczego.
 Zapewnienie dostępności cyfrowej jest procesem zarządczym wymagającym:
 - podejmowania decyzji,
 - wdrażania ich w organizacji,
-- oraz ciągłego doskonalenia sposobu działania. :contentReference[oaicite:0]{index=0}
+- oraz ciągłego doskonalenia sposobu działania.
 
 Monitoring i ocena dojrzałości:
 - nie są celem samym w sobie,
 - lecz elementem cyklu zarządzania dostępnością,
-- w którym wyniki prowadzą do decyzji i działań. :contentReference[oaicite:1]{index=1}
+- w którym wyniki prowadzą do decyzji i działań. 
 
 Ich rolą jest:
 - dostarczanie informacji o sposobie działania organizacji,
@@ -53,7 +53,7 @@ Monitoring i ocena dojrzałości są elementem powtarzalnego cyklu zarządczego:
 5. Monitorowanie efektów  
 6. Doskonalenie  
 
-Cykl ten ma charakter ciągły i stanowi element zarządzania organizacją. :contentReference[oaicite:2]{index=2}
+Cykl ten ma charakter ciągły i stanowi element zarządzania organizacją. 
 
 ---
 
@@ -143,7 +143,7 @@ Organizacja nie ogranicza się do identyfikacji problemów, lecz dąży do ich z
 Organizacja dojrzała:
 - widzi swoje problemy,
 - rozumie ich przyczyny,
-- eliminuje je systemowo. :contentReference[oaicite:3]{index=3}
+- eliminuje je systemowo.
 
 ---
 
@@ -199,8 +199,7 @@ Wyniki monitorowania i oceny dojrzałości są wykorzystywane do:
 - rozwoju kompetencji,
 - planowania działań naprawczych.
 
-Model oceny odpowiada na pytanie „jaki jest stan organizacji”, natomiast decyzje zarządcze odpowiadają na pytanie „jak ten stan zmienić”. :contentReference[oaicite:5]{index=5}
-
+Model oceny odpowiada na pytanie „jaki jest stan organizacji”, natomiast decyzje zarządcze odpowiadają na pytanie „jak ten stan zmienić”. 
 ---
 
 ## 9. Raportowanie

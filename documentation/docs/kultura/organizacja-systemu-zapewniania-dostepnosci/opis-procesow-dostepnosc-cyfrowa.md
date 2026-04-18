@@ -62,7 +62,7 @@ Procesy obejmują wszystkie kluczowe obszary działania organizacji:
 ---
 
 
-## 3A. Powiązanie procesów z wymiarami modelu dojrzałości
+## 4. Powiązanie procesów z wymiarami modelu dojrzałości
 
 Procesy zapewniania dostępności cyfrowej odpowiadają wymiarom modelu dojrzałości W3C.
 
@@ -83,7 +83,7 @@ Powiązanie to umożliwia:
 
 ---
 
-## 4. Opis procesów
+## 5. Opis procesów
 
 ### **Proces 1. Zarządzanie systemem dostępności cyfrowej**
 
@@ -349,7 +349,7 @@ Koordynator (R), Kierownik jednostki (A)
 - realizacja działań doskonalących,  
 - skuteczność wdrożonych zmian (np. spadek liczby powtarzalnych problemów).
 
-## 5. Zalecenia dotyczące stosowania procesów
+## 6. Zalecenia dotyczące stosowania procesów
 
 Organizacja:
 - stosuje procesy w sposób ciągły,  
