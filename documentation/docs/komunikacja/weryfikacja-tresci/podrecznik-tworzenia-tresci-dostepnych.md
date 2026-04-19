@@ -2,7 +2,7 @@
 id: podrecznik-tworzenia-tresci-dostepnych
 title: Stworzenie Podręcznika dla twórców dostępnych cyfrowo treści
 sidebar_position: 1
-sidebar_label: Podręcznika dla twórców
+sidebar_label: Podręcznik dla twórców
 keywords: [komunikacja, wiedza i umiejętności]
 tags: [komunikacja, wiedza i umiejętności]
 opracowanie: Aleksandra Cybulska
