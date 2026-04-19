@@ -113,6 +113,7 @@ W wyniku wdrożenia dezyderatu:
 - [Mikropoświadczenia, Uniwersytet Łódzki](https://www.uni.lodz.pl/mikroposwiadczenia)
 - [Wytyczne w zakresie stosowania mikropoświadczeń w instytucjach szkolnictwa wyższego i nauki](https://www.gov.pl/web/edukacja/wytyczne-w-zakresie-stosowania-mikroposwiadczen-w-instytucjach-szkolnictwa-wyzszego-i-nauki)
 - [Poznaj mikropoświadczenia](https://kwalifikacje.gov.pl/poznaj-mikroposwiadczenia/)
-
+[Zalecenie Rady UE 2022/C 243/02 z dnia 22 czerwca 2022 r. w sprawie europejskiego podejścia do mikropoświadczeń na potrzeby uczenia się przez całe życie
+i zatrudnialności]https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:32022H0627(02)]
 
 ---
