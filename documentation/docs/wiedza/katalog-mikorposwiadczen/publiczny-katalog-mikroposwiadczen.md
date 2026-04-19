@@ -106,8 +106,13 @@ W wyniku wdrożenia dezyderatu:
 
 ### 7. Źródła i kontekst
 
-- materiały metodyczne Ministerstwa Cyfryzacji (2020–2025),  
-- model dojrzałości dostępności opracowany przez W3C (Accessibility Maturity Model),  
-- doświadczenia Sieci Dostępności Cyfrowej w zakresie definiowania ról i kompetencji.
+- [Czym są mikropoświadczenia?](https://microcredentials.pl/)
+- [Odznaka+](https://odznakaplus.ibe.edu.pl/)
+- [Europejskie podejście do mikropoświadczeń](https://education.ec.europa.eu/pl/education-levels/higher-education/micro-credentials)
+- [Mikropoświadczenia – pilotaż nowego rozwiązania wspierającego uczenie się przez całe życie](https://ibe.edu.pl/pl/opis-projektu-mikroposwiadczenia)
+- [Mikropoświadczenia, Uniwersytet Łódzki](https://www.uni.lodz.pl/mikroposwiadczenia)
+- [Wytyczne w zakresie stosowania mikropoświadczeń w instytucjach szkolnictwa wyższego i nauki](https://www.gov.pl/web/edukacja/wytyczne-w-zakresie-stosowania-mikroposwiadczen-w-instytucjach-szkolnictwa-wyzszego-i-nauki)
+- [Poznaj mikropoświadczenia](https://kwalifikacje.gov.pl/poznaj-mikroposwiadczenia/)
+
 
 ---
