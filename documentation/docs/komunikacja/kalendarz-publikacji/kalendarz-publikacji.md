@@ -44,7 +44,7 @@ Zauważono w Muzeum, gdy instytucja jasno informuje o dostępnych udogodnieniach
 
 ## Narzędzia i kanały komunikacji (dopasowane do grupy docelowej)
 
-- **Komunikacja wewnętrzna** – intranet, newsletter wewnętrzny, szkolenia oraz konsultacje ze specjalistą ds. dostępności dla zespołu ![(w ramach System obowiązkowych szkoleń z zakresu tworzenia treści dostępnych cyfrowo dla autorów i weryfikatorów publikacji)]/(https://github.com/Siec-Dostepnosci-Cyfrowej/sdc/pull/33/changes#diff-f5cfa4118110997a13aabf9dcb55b59ed506ec311ab4ab16cfc06faf4630093c)
+- **Komunikacja wewnętrzna** – intranet, newsletter wewnętrzny, szkolenia oraz konsultacje ze specjalistą ds. dostępności dla zespołu ![(w ramach System obowiązkowych szkoleń z zakresu tworzenia treści dostępnych cyfrowo dla autorów i weryfikatorów publikacji)](https://github.com/Siec-Dostepnosci-Cyfrowej/sdc/pull/33/changes#diff-f5cfa4118110997a13aabf9dcb55b59ed506ec311ab4ab16cfc06faf4630093c)
 - **Komunikacja zewnętrzna** - strona główna Muzeum, newsletter, media społęcznościowe, materiały drukowane
 
 ---
