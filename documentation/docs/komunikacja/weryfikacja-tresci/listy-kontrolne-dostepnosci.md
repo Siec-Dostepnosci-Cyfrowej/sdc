@@ -73,3 +73,5 @@ wersja_robocza: true
 - [ ] Player multimedialny jest dostępny z klawiatury i dla czytników ekranu.
 - [ ] Brak automatycznego odtwarzania lub możliwość jego wyłączenia.
 - [ ] Materiały nie zawierają migających elementów (bezpieczne dla osób z epilepsją).
+
+---
