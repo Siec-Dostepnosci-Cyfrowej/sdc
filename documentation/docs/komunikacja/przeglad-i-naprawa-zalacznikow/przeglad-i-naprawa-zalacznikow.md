@@ -1,8 +1,8 @@
 ---
-id: zalecenie-07-glowny
-title: Zalecenie 7. Program przeglądu i naprawy załączników opublikowanych po 23 września 2018 r.
+id: przeglad-i-naprawa-zalacznikow
+title: Program przeglądu i naprawy załączników opublikowanych po 23 września 2018 r.
 description: Dokument główny określający program przeglądu, oceny i naprawy załączników oraz innych dokumentów pozostających w publicznym obiegu informacyjnym podmiotu publicznego.
-sidebar_label: Zalecenie 7
+sidebar_label: Zalecenie
 sidebar_position: 1
 keywords: [przegląd załączników, naprawa dokumentów, dostępność cyfrowa, dokumenty opublikowane, obieg publiczny]
 tags: [zalecenie, dokumenty, dostępność cyfrowa, przegląd]
@@ -12,8 +12,6 @@ data_zgloszenia: 19 kwietnia 2026 r.
 data_aktualizacji: 19 kwietnia 2026 r.
 wersja_robocza: true
 ---
-
-# Zalecenie 7. Program przeglądu i naprawy załączników opublikowanych po 23 września 2018 r.
 
 ## Cel zalecenia
 
