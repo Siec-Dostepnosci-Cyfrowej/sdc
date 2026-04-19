@@ -171,9 +171,12 @@ Mikropoświadczenie odnosi się w szczególności do:
 - WCAG 2.2, w zakresie:
   - 1.1.1 Treści nietekstowe  
   - 1.3.1 Informacje i relacje  
-  - 1.4.3 Kontrast (minimalny)  
+  - 1.3.3 Właściwości zmysłowe  
+  - 1.4.1 Użycie koloru  
+  - 1.4.5 Obrazy tekstu  
+  - 2.4.4 Cel łącza (w kontekście)  
   - 2.4.6 Nagłówki i etykiety  
-  - 3.1.1 Język strony  
+  - 3.1.2 Język części  
 
 - EN 301 549 – wymagania dostępności dla treści cyfrowych  
 
