@@ -1,7 +1,8 @@
 ---
-id: pl-acc-013-tester-dostepnosci-multimediow
-title: Tester dostępności multimediów
-sidebar_label: Tester multimediów
+id: pl-acc-012-weryfikator-dostepnosci-multimediow
+title: Weryfikator dostępności multimediów
+sidebar_label: Weryfikator multimediów
+sidebar_position: 21
 keywords: [dostępność cyfrowa, mikropoświadczenie, multimedia]
 tags: [dostępność cyfrowa, mikropoświadczenie, multimedia]
 opracowanie: Stefan Wajda
@@ -12,16 +13,16 @@ wersja_robocza: true
 
 ## 1. Metadane
 
-- **Kod:** PL-ACC-013  
-- **Poziom:** 3  
+- **Kod:** PL-ACC-012  
+- **Poziom:** 2  
 - **Obszar:** multimedia  
-- **Rola:** tester dostępności  
+- **Rola:** redaktor / osoba zatwierdzająca  
 
 ---
 
 ## 2. Charakter
 
-Zdolność do testowania i oceny dostępności materiałów multimedialnych oraz formułowania rekomendacji naprawczych.
+Zdolność do szybkiej weryfikacji dostępności materiałów multimedialnych przed publikacją.
 
 ---
 
@@ -29,44 +30,36 @@ Zdolność do testowania i oceny dostępności materiałów multimedialnych oraz
 
 Osoba:
 
-- analizuje dostępność materiałów wideo i audio,  
-- ocenia jakość napisów, audiodeskrypcji i przekazu,  
-- identyfikuje bariery w odbiorze treści,  
-- sporządza raporty i rekomendacje,  
-- weryfikuje poprawki.  
+- sprawdza obecność napisów i ich jakość,  
+- ocenia czy materiał jest zrozumiały bez dźwięku lub obrazu,  
+- identyfikuje podstawowe braki (np. brak napisów, brak opisu),  
+- podejmuje decyzję: publikacja / poprawa.  
 
 ---
 
 ## 5. Zakres kompetencji
 
-- analiza jakości napisów (synchronizacja, kompletność),  
-- ocena dostępności audio i obrazu,  
-- identyfikacja braków audiodeskrypcji,  
-- ocena zrozumiałości przekazu,  
-- testowanie z perspektywy użytkownika,  
-- raportowanie i rekomendacje.  
+- ocena obecności i jakości napisów,  
+- identyfikacja braków audiodeskrypcji lub opisów,  
+- ocena czytelności materiału,  
+- stosowanie checklisty,  
+- przekazywanie rekomendacji.  
 
 ---
 
-## 6. Efekty uczenia się
+## 6. Efekty
 
-### Wiedza  
-- zna wymagania WCAG dla multimediów (np. 1.2.x),  
-
-### Umiejętności  
-- testuje multimedia,  
-- identyfikuje problemy,  
-- przygotowuje raporty.  
-
-### Kompetencje społeczne  
-- działa rzetelnie i obiektywnie,  
-- współpracuje z twórcami i zespołem.  
+**Umiejętności:**  
+- szybka ocena dostępności multimediów,  
+- identyfikacja podstawowych błędów,  
+- decyzja jakościowa.  
 
 ---
 
 ## 7. Poziom
 
-**Poziom 3**
+**Poziom 2**
+
 ## 8. Dowody osiągnięcia kompetencji
 
 Mikropoświadczenie jest przyznawane na podstawie dowodów, takich jak:
