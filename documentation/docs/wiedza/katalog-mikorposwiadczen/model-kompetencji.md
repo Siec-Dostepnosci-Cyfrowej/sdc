@@ -98,7 +98,7 @@ Organizacja zapewnia:
 
 Organizacja zapewnia:
 
-- wykonywanie prostych testów dostępności (easy check),  
+- wykonywanie prostych testów dostępności,  
 - testowanie dostępności treści i dokumentów,  
 - testowanie techniczne dostępności (WCAG),  
 - analizę i klasyfikację błędów dostępności.  

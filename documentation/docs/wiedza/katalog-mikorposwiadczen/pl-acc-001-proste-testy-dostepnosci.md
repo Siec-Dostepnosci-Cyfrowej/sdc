@@ -3,8 +3,8 @@ id: pl-acc-001-proste-testy-dostepnosci
 title: Osoba przeprowadzająca proste wstępne testy dostępności
 sidebar_label: Proste testy dostępności
 sidebar_position: 10
-keywords: [dostępność cyfrowa, mikropoświadczenie, easy check]
-tags: [dostępność cyfrowa, mikropoświadczenie]
+keywords: [dostępność cyfrowa, mikropoświadczenie, proste testy]
+tags: [dostępność cyfrowa, mikropoświadczenie, proste testy]
 opracowanie: Stefan Wajda
 data_zgloszenia: 19 kwietnia 2026 r.
 ostatnia_aktualizacja: 19 kwietnia 2026 r.
@@ -14,7 +14,7 @@ wersja_robocza: true
 ## 1. Metadane mikropoświadczenia
 
 - **Kod mikropoświadczenia:** PL-ACC-001  
-- **Nazwa:** Osoba przeprowadzająca proste wstępne testy dostępności (Easy Check)  
+- **Nazwa:** Osoba przeprowadzająca proste wstępne testy dostępności 
 - **Poziom:** 1  
 - **Obszar:** treści / serwisy WWW  
 - **Powiązana rola:** redaktor, autor treści, pracownik administracyjny  

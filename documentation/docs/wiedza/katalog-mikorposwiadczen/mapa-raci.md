@@ -110,7 +110,7 @@ wersja_robocza: true
 
 ---
 
-## 10. Monitoring (easy check)
+## 10. Monitoring
 
 | Proces | Pracownik | Weryfikator | Koordynator |
 |--------|-----------|------------|------------|
@@ -154,7 +154,7 @@ wersja_robocza: true
 
 W małych jednostkach role mogą być łączone:
 
-- Twórca + Easy check – pracownicy  
+- Twórca + Proste testy – pracownicy  
 - Weryfikator – kierownik / redaktor  
 - Tester + Naprawiacz – koordynator lub wsparcie zewnętrzne  
 - Menedżer – kierownik jednostki  
