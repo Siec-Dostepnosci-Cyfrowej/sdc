@@ -40,7 +40,7 @@
     "@docusaurus/module-type-aliases": "3.10.0",
     "@docusaurus/tsconfig": "3.10.0",
     "@docusaurus/types": "3.10.0",
-    "@tailwindcss/postcss": "^4.2.3",
+    "@tailwindcss/postcss": "^4.2.4",
     "@types/imagemin": "9.0.1",
     "@types/imagemin-mozjpeg": "8.0.4",
     "autoprefixer": "^10.5.0",
