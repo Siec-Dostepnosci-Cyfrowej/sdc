@@ -1,8 +1,8 @@
 ---
 id: mapa-powiazan
-title: "Mapa powiązań: procesy – zadania – role – kompetencje – mikropoświadczenia – wsparcie"
+title: "Mapa powiązań: procesy – zadania – role – kompetencje – mikropoświadczenia – wsparcie. Załącznik 3"
 description: Mapa powiązań
-sidebar_position: 1
+sidebar_position: 5
 sidebar_label: Mapa powiązań
 keywords: [wiedza, umiejętności, kompetencje, pracownicy]
 tags: [wiedza, umiejętności, kompetencje, pracownicy]

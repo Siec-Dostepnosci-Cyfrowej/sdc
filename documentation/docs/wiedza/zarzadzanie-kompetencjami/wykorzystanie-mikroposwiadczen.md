@@ -2,8 +2,8 @@
 id: wykorzystanie-mikroposwiadczen
 title: Wykorzystanie mikropoświadczeń w rozwoju kompetencji w zakresie dostępności cyfrowej
 description: Zalecenie określające sposób wykorzystania mikropoświadczeń jako narzędzia wspierającego rozwój, potwierdzanie i praktyczne wykorzystanie kompetencji pracowników w zakresie dostępności cyfrowej.
-sidebar_position: 0
-sidebar_label: Zalecenie 
+sidebar_position: 2
+sidebar_label: Wykorzystanie mikropoświadczeń
 keywords: [wiedza, umiejętności, kompetencje, pracownicy]
 tags: [wiedza, umiejętności, kompetencje, pracownicy]
 opracowanie: Stefan Wajda 

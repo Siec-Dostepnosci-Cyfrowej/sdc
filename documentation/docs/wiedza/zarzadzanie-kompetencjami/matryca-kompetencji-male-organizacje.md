@@ -1,8 +1,8 @@
 ---
 id: matryca-kompetencji-male-organizacje
-title: Matryca kompetencji – małe organizacje. Załącznik 1A  
+title: Matryca kompetencji – małe organizacje. Załącznik 4A  
 description: Matryca kompetencji 
-sidebar_position: 2
+sidebar_position: 8
 sidebar_label: Matryca – małe organizacje
 keywords: [wiedza, umiejętności, kompetencje, pracownicy]
 tags: [wiedza, umiejętności, kompetencje, pracownicy]

@@ -2,8 +2,8 @@
 id: system-wsparcia-kompetencyjnego
 title: System wsparcia kompetencyjnego w zakresie dostępności cyfrowej
 description: Organizacja zapewnia zdolność pracowników do realizacji zadań poprzez działania proaktywne, przewidywanie potrzeb oraz mechanizmy reagowania na problemy
-sidebar_position: 0
-sidebar_label: System wsparcia
+sidebar_position: 1
+sidebar_label: System wsparcia - zalecenie
 keywords: [kompetencje, wsparcie, pracownicy, zarządzanie]
 tags: [wiedza, umiejętności, kompetencje, pracownicy]
 opracowanie: Stefan Wajda

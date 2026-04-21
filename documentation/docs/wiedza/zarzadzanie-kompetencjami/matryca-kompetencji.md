@@ -1,8 +1,8 @@
 ---
 id: matryca-kompetencji
-title: Przykładowa matryca kompetencji. Załącznik 1
+title: Przykładowa matryca kompetencji. Załącznik 4
 description: Matryca kompetencji
-sidebar_position: 1
+sidebar_position: 7
 sidebar_label: Matryca kompetencji
 keywords: [wiedza, umiejętności, kompetencje, pracownicy]
 tags: [wiedza, umiejętności, kompetencje, pracownicy]

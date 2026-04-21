@@ -2,7 +2,7 @@
 id: analiza-luk-kompetencyjnych
 title: Wzór analizy luk kompetencyjnych. Załącznik 2
 description: Matryca kompetencji 
-sidebar_position: 3
+sidebar_position: 4
 sidebar_label: Analiza luk
 keywords: [wiedza, umiejętności, kompetencje, pracownicy]
 tags: [wiedza, umiejętności, kompetencje, pracownicy]

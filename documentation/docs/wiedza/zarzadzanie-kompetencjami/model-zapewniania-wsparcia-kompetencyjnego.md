@@ -1,6 +1,6 @@
 ---
 id: model-zapewniania-wsparcia-kompetencyjnego
-title: Model zapewniania wsparcia kompetencyjnego w organizacji. Załącznik 3
+title: Model zapewniania wsparcia kompetencyjnego w organizacji. Załącznik 1
 description: Model wsparcia kompetencyjnego
 sidebar_position: 3
 sidebar_label: Model wsparcia kompetencyjnego
