@@ -83,7 +83,7 @@ Muzyka i efekty dźwiękowe powinny pełnić funkcję tła i nie mogą zagłusza
 
 Materiały wideo nie powinny uruchamiać się automatycznie z dźwiękiem.
 
-Odtwarzacz powinien umożliwiać zatrzymanie, pauzę oraz wznowienie materiału.
+Odtwarzacz ma umożliwiać zatrzymanie, pauzę oraz wznowienie materiału.
 
 ## Dodatkowe elementy dostępności
 
