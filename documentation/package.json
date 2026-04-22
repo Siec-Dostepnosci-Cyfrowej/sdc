@@ -40,7 +40,7 @@
     "@docusaurus/module-type-aliases": "3.10.0",
     "@docusaurus/tsconfig": "3.10.0",
     "@docusaurus/types": "3.10.0",
-    "@tailwindcss/postcss": "^4.2.2",
+    "@tailwindcss/postcss": "^4.2.4",
     "@types/imagemin": "9.0.1",
     "@types/imagemin-mozjpeg": "8.0.4",
     "autoprefixer": "^10.5.0",
@@ -54,7 +54,7 @@
     "shadcn-ui": "^0.9.5",
     "svgo": "4.0.1",
     "tailwindcss": "^3.4.14",
-    "typescript": "6.0.2"
+    "typescript": "6.0.3"
   },
   "overrides": {
     "rollup": "4.52.5"
