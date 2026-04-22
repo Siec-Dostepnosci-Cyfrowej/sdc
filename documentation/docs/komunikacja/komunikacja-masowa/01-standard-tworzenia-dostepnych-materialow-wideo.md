@@ -36,7 +36,7 @@ W przypadku dźwięków mających znaczenie dla odbioru stosuje się ich opis, n
 
 Napisy powinny być czytelne niezależnie od tła. W praktyce oznacza to stosowanie odpowiedniego kontrastu, np. poprzez półprzezroczyste tło lub kontur tekstu.
 
-W miarę możliwości należy stosować napisy zamknięte, umożliwiające użytkownikowi ich dostosowanie.
+W miarę możliwości należy stosować napisy zamknięte, umożliwiające użytkownikowi dostosowanie ich wielkości, koloru, obramowania i pozycji na ekranie.
 
 ## Alternatywa tekstowa
 
