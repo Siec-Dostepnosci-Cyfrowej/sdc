@@ -48,6 +48,7 @@ Jeżeli materiał zawiera istotne elementy wizualne, należy je opisać w sposó
 
 Transkrypcja powinna być dostępna w opisie materiału lub jako osobny dokument.
 
+Transkrypcja rozszerzona jest jedyną formą odbioru materiałów audiowizualnych przez osoby głuchoniewidome.
 ## Czytelność wizualna
 
 Napisy oraz wszystkie elementy tekstowe w materiale muszą być czytelne i posiadać odpowiedni kontrast względem tła.
