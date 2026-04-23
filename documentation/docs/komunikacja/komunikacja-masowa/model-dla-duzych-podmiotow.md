@@ -9,13 +9,13 @@ tags: [słowo kluczowe, inne słowo]
 opracowanie: Bartłomiej Wilk
 wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+data_aktualizacji: 23 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
 ## Założenia
 
-W dużych organizacjach wdrożenie dostępności multimediów i komunikacji masowej ma charakter systemowy.
+W dużych podmiotach wdrożenie dostępności multimediów i komunikacji masowej ma charakter systemowy.
 
 Komunikacja realizowana jest przez wiele zespołów, w różnych kanałach i przy użyciu różnych narzędzi. Brak ujednoliconego podejścia prowadzi do niespójności i powstawania barier dostępnościowych o charakterze organizacyjnym.
 
@@ -25,17 +25,17 @@ Dostępność stanowi element zarządzania jakością komunikacji, a nie działa
 
 ## Standard organizacyjny
 
-Podstawą wdrożenia jest włączenie dostępności do istniejących zasad działania organizacji.
+Podstawą wdrożenia jest włączenie dostępności do istniejących zasad działania podmiotu publicznego.
 
 W szczególności:
 
 - wymagania dostępności są elementem polityki dostępności lub procedur komunikacyjnych,
 - zasady publikacji treści zawierają obowiązkowy etap weryfikacji dostępności,
-- brak weryfikacji uniemożliwia publikację materiału.
+- brak weryfikacji co do zasady uniemożliwia publikację materiału.
 
 Dostępność jest wbudowana w istniejące procesy, a nie realizowana jako odrębna ścieżka.
 
-W organizacjach bez formalnej polityki dostępności możliwe jest wdrożenie rozwiązania przejściowego w postaci:
+W podmiotach bez formalnej polityki dostępności możliwe jest wdrożenie rozwiązania przejściowego w postaci:
 - wewnętrznego standardu publikacji,
 - instrukcji dla zespołów komunikacyjnych,
 - obowiązkowych list kontrolnych.
@@ -86,13 +86,13 @@ Wnioski z analizy przekładają się na:
 
 Warunkiem skuteczności modelu jest zapewnienie odpowiednich narzędzi.
 
-Organizacja zapewnia:
+Podmiot publiczny zapewnia:
 
 - wzorce i przykłady (np. opisy alternatywne, transkrypcje),
 - wewnętrzne repozytorium materiałów,
-- narzędzia wspierające (np. generowanie napisów).
+- narzędzia wspierające proces, np. robocze generowanie napisów, pod warunkiem obowiązkowej redakcji i weryfikacji przez osobę odpowiedzialną.
 
-Narzędzia automatyczne wspierają proces, ale nie zastępują weryfikacji.
+Narzędzia automatyczne nie zastępują oceny dostępności ani odpowiedzialności za publikację.
 
 Standaryzacja ogranicza uznaniowość i zwiększa spójność działań.
 
@@ -129,7 +129,7 @@ Proces obejmuje:
 5. Publikacja – udostępnienie materiału.
 6. Monitorowanie – kontrola jakości i analiza błędów.
 
-Publikacja materiału następuje wyłącznie po spełnieniu wymagań.
+Publikacja materiału następuje po spełnieniu wymagań. W sytuacjach wyjątkowych możliwe jest zastosowanie odrębnej procedury, która wskazuje przyczynę odstępstwa, osobę odpowiedzialną, sposób udokumentowania decyzji i termin uzupełnienia brakujących elementów dostępności.
 
 ---
 
@@ -138,7 +138,7 @@ Publikacja materiału następuje wyłącznie po spełnieniu wymagań.
 Wdrożenie modelu prowadzi do:
 
 - spójności komunikacji,
-- eliminacji publikacji materiałów niepełnych,
+- ograniczenia publikacji materiałów niepełnych do uzasadnionych sytuacji wyjątkowych,
 - ograniczenia działań naprawczych,
 - jednoznacznego przypisania odpowiedzialności,
 - zwiększenia jakości komunikacji publicznej.
