@@ -9,13 +9,15 @@ tags: [słowo kluczowe, inne słowo]
 opracowanie: Bartłomiej Wilk
 wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+data_aktualizacji: 23 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
 
 Każdy z poniższych punktów wymaga odpowiedzi „TAK”.  
-Jeżeli na którekolwiek pytanie odpowiedź brzmi „NIE”, materiał nie może zostać opublikowany i wymaga poprawy.
+Jeżeli na którekolwiek pytanie odpowiedź brzmi „NIE”, materiał co do zasady nie może zostać opublikowany i wymaga poprawy albo zastosowania procedury postępowania w sytuacjach wyjątkowych.
+
+Lista kontrolna stanowi narzędzie weryfikacji spełnienia wymagań obowiązkowych oraz wsparcie w stosowaniu standardów.
 
 ## Sens i kompletność komunikatu
 
