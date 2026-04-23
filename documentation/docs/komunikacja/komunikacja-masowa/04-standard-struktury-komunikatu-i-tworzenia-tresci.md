@@ -2,20 +2,20 @@
 id: 04-standard-struktury-komunikatu-i-tworzenia-tresci
 title: Standard tworzenia treści
 description: Standard określający sposób tworzenia struktury komunikatu i przygotowania czytelnych treści.
-sidebar_label: Uzasadnienie stosowania
+sidebar_label: Standard tworzenia treści
 sidebar_position: 8
 keywords: [słowo kluczowe, inne słowo]
 tags: [słowo kluczowe, inne słowo]
 opracowanie: Bartłomiej Wilk
 wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+data_aktualizacji: 23 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
 ## Postanowienia ogólne
 
-Niniejszy standard określa sposób budowania komunikatów oraz tworzenia treści w różnych formatach, w szczególności w materiałach wideo, grafikach oraz publikacjach w mediach społecznościowych.
+Niniejszy standard określa sposób przygotowania materiałów w celu zapewnienia spełnienia wymagań obowiązkowych.
 
 Standard definiuje zasady dotyczące struktury przekazu, hierarchii informacji oraz sposobu formułowania treści, tak aby były one czytelne, zrozumiałe i dostępne.
 
