@@ -9,13 +9,13 @@ tags: [słowo kluczowe, inne słowo]
 opracowanie: Bartłomiej Wilk
 wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+data_aktualizacji: 23 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
 ## Postanowienia ogólne
 
-Niniejszy standard określa sposób tworzenia opisów alternatywnych (alt-text) oraz innych form przekazu równoważnego.
+Niniejszy standard określa sposób tworzenia opisów alternatywnych (alt-text) oraz innych form przekazu równoważnego w celu zapewnienia spełnienia wymagań obowiązkowych.
 
 Celem standardu jest zapewnienie, że każda informacja przekazywana w formie wizualnej posiada równoważny odpowiednik tekstowy.
 
@@ -133,14 +133,14 @@ Aby ich uniknąć:
 
 ## Wykorzystanie narzędzi AI
 
-Dopuszcza się wykorzystanie narzędzi AI jako wsparcia w tworzeniu opisów.
+Narzędzia automatyczne, w tym narzędzia AI, mogą być wykorzystywane wyłącznie jako pomoc robocza.
 
-Opisy generowane automatycznie wymagają redakcji i dostosowania do kontekstu.
+Automatycznie wygenerowany opis alternatywny nie jest samodzielnym spełnieniem wymagania dostępności. Może stanowić wyłącznie materiał pomocniczy, który przed publikacją wymaga redakcji, sprawdzenia zgodności z treścią grafiki i dostosowania do kontekstu komunikatu.
 
 Nie należy stosować opisów o charakterze technicznym, np.:
 „obraz zawierający…”.
 
-Każdy opis musi zostać zweryfikowany przed publikacją.
+Każdy opis musi zostać przygotowany albo zatwierdzony przez osobę odpowiedzialną za treść i zweryfikowany przed publikacją.
 
 Odpowiedzialność za jakość opisu spoczywa na autorze materiału.
 
