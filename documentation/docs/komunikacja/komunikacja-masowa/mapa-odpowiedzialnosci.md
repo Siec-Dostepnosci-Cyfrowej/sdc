@@ -9,7 +9,7 @@ tags: [słowo kluczowe, inne słowo]
 opracowanie: Bartłomiej Wilk
 wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+data_aktualizacji: 23 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
@@ -80,7 +80,7 @@ Sprawdza:
 - poprawność działania,
 - obecność elementów dostępności.
 
-Brak któregokolwiek elementu uniemożliwia publikację.
+Brak któregokolwiek elementu co do zasady uniemożliwia publikację. Dalsze postępowanie jest możliwe wyłącznie zgodnie z przyjętą procedurą postępowania w sytuacjach wyjątkowych.
 
 ### Koordynator dostępności
 
@@ -256,6 +256,6 @@ Każdy uczestnik procesu odpowiada za dostępność w swoim zakresie.
 
 Dostępność nie jest naprawiana na końcu, lecz powstaje w trakcie całego procesu.
 
-Publikacja materiału niespełniającego wymagań nie powinna mieć miejsca.
+Publikacja materiału niespełniającego wymagań nie powinna mieć miejsca poza sytuacjami wyjątkowymi obsłużonymi zgodnie z przyjętą procedurą.
 
 Model stanowi podstawę organizacji pracy, współpracy między zespołami oraz kontroli jakości.
