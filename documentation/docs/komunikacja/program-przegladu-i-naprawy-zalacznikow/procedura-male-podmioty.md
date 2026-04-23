@@ -93,7 +93,7 @@ Na tym etapie wykonywane są działania wynikające z zatwierdzonych decyzji, ob
 
 Po wykonaniu działań aktualizowane są informacje w rejestrze.
 
-Aktualizacja rejestru powinna obejmować co najmniej formę wykonanego działania, datę wykonania oraz wynik weryfikacji, tak aby zamknięcie dokumentu miało charakter udokumentowany.
+Aktualizacja rejestru obejmuje co najmniej formę wykonanego działania, datę wykonania oraz wynik weryfikacji, tak aby zamknięcie dokumentu miało charakter udokumentowany.
 
 ## Zarządzanie zasobem dokumentów
 
