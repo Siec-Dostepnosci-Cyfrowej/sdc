@@ -9,7 +9,7 @@ tags: [słowo kluczowe, inne słowo]
 opracowanie: Bartłomiej Wilk
 wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+data_aktualizacji: 23 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
@@ -18,9 +18,9 @@ wersja_robocza: true
 
 Dokument stanowi uzasadnienie stosowania minimalnych wymagań dostępności określonych w niniejszym zaleceniu.
 
-Jego celem jest wykazanie, że przyjęte wymagania operacyjne stanowią implementację obowiązujących przepisów prawa oraz norm technicznych, a nie wyłącznie zbiór dobrych praktyk.
+Jego celem jest wykazanie, że przyjęte wymagania operacyjne pozostają osadzone w obowiązujących przepisach prawa oraz normach technicznych, a nie są wyłącznie zbiorem dobrych praktyk.
 
-Wymagania realizują obowiązki wynikające z:
+Wymagania odwołują się do obowiązków wynikających z:
 - ustawy o dostępności cyfrowej,
 - normy EN 301 549,
 - Europejskiego Aktu o Dostępności,
@@ -38,7 +38,7 @@ Brak takiego przełożenia prowadzi do:
 
 W efekcie materiały mogą spełniać część wymagań technicznych, a jednocześnie pozostawać niedostępne jako komunikat.
 
-Wprowadzenie minimalnych wymagań eliminuje tę lukę poprzez określenie konkretnych działań, które muszą zostać wykonane przed publikacją.
+Wprowadzenie minimalnych wymagań ogranicza tę lukę poprzez określenie konkretnych działań, które powinny zostać wykonane przed publikacją w celu zapewnienia zgodności i spójności działania.
 
 ## Zakres implementacji wymagań
 
@@ -82,7 +82,7 @@ Wymagania obejmują obszary:
 - multimediów,
 - komunikacji cyfrowej.
 
-Ich stosowanie zapewnia zgodność z wymaganiami stosowanymi w systemach ICT oraz w zamówieniach publicznych.
+Ich stosowanie wspiera wykazywanie zgodności z wymaganiami stosowanymi w systemach ICT oraz w zamówieniach publicznych.
 
 ## Zgodność z Europejskim Aktem o Dostępności
 
@@ -97,16 +97,18 @@ Informacje nie mogą być uzależnione od jednej formy odbioru.
 
 ## Mechanizm zapewnienia zgodności
 
-Wymagania wprowadzają mechanizm weryfikacji zero-jedynkowej.
+Wymagania wprowadzają mechanizm weryfikacji oparty na minimalnym progu publikacji.
 
 Materiał:
 - spełnia wymagania i może zostać opublikowany  
   lub  
-- nie spełnia wymagań i nie może zostać opublikowany  
+- nie spełnia wymagań i co do zasady nie może zostać opublikowany  
 
-Nie dopuszcza się:
+Co do zasady nie dopuszcza się:
 - publikacji materiałów częściowo dostępnych,
 - uzupełniania dostępności po publikacji.
+
+Wyjątki mogą wynikać wyłącznie z przyjętej w podmiocie procedury postępowania w sytuacjach wyjątkowych i wymagają odrębnego uzasadnienia. Takie rozwiązanie nie znosi wymagań dostępności, lecz określa sposób postępowania, gdy publikacja jest konieczna mimo czasowego braku pełnej zgodności.
 
 Weryfikacja obejmuje:
 - kompletność komunikatu,
@@ -139,7 +141,7 @@ Zapewnia również odporność na różnice interpretacyjne.
 ## Wniosek końcowy
 
 Minimalne wymagania dostępności:
-- stanowią implementację obowiązujących przepisów i norm,
+- stanowią operacyjne rozwinięcie obowiązujących przepisów i norm,
 - zapewniają zgodność z wymaganiami dostępności,
 - eliminują uznaniowość w ich stosowaniu,
 - wprowadzają jednoznaczny model działania.
