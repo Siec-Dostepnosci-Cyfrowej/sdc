@@ -9,7 +9,7 @@ tags: [słowo kluczowe, inne słowo]
 opracowanie: Bartłomiej Wilk
 wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+data_aktualizacji: 23 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
@@ -72,7 +72,7 @@ Problemy te mają charakter organizacyjny i powtarzają się niezależnie od oso
 
 ## Brak przypisanej odpowiedzialności
 
-W wielu organizacjach odpowiedzialność za dostępność nie jest jasno określona.
+W wielu podmiotach odpowiedzialność za dostępność nie jest jasno określona.
 
 Skutkuje to:
 - pomijaniem zadań,
@@ -106,7 +106,7 @@ Poziom dostępności materiałów zależy często od:
 - doświadczenia zespołu,
 - dostępnego czasu.
 
-Brak standardów powoduje, że dobre praktyki nie są powtarzalne, a organizacja nie buduje stabilnego poziomu jakości.
+Brak standardów powoduje, że dobre praktyki nie są powtarzalne, a podmiot nie buduje stabilnego poziomu jakości.
 
 ---
 
@@ -128,9 +128,9 @@ Brak weryfikacji powoduje utrwalanie nieprawidłowych praktyk.
 W niektórych przypadkach dostępność traktowana jest jako problem technologiczny.
 
 Prowadzi to do:
-- nadmiernego polegania na narzędziach automatycznych,
-- braku weryfikacji treści,
-- przekonania, że narzędzie rozwiązuje problem.
+- nadmiernego polegania na narzędziach automatycznych, w tym na automatycznie generowanych napisach lub opisach,
+- braku redakcji i weryfikacji treści,
+- przekonania, że samo użycie narzędzia zapewnia dostępność.
 
 Technologia może wspierać proces, ale nie zastępuje odpowiedzialności i kontroli jakości.
 
@@ -151,14 +151,14 @@ Powoduje to:
 
 ---
 
-## Brak mechanizmu uczenia się organizacji
+## Brak mechanizmu uczenia się podmiotu
 
 Błędy związane z dostępnością są często traktowane jako incydenty, a nie jako źródło wiedzy.
 
 W efekcie:
 - te same problemy powtarzają się,
 - brak działań systemowych,
-- organizacja nie rozwija swoich procesów.
+- podmiot nie rozwija swoich procesów.
 
 Brakuje mechanizmu analizy przyczyn i wdrażania zmian.
 
@@ -188,6 +188,6 @@ W szczególności:
 - spełnienie wymagań powinno być warunkiem publikacji,
 - odpowiedzialność powinna być przypisana do ról,
 - weryfikacja powinna mieć charakter obowiązkowy,
-- organizacja powinna wykorzystywać błędy do doskonalenia procesów.
+- podmiot powinien wykorzystywać błędy do doskonalenia procesów.
 
 Takie podejście pozwala na przejście od działań incydentalnych do trwałego modelu zapewniania dostępności.
