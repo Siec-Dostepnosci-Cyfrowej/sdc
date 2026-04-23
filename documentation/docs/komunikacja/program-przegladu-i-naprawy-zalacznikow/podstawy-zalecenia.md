@@ -17,7 +17,7 @@ wersja_robocza: true
 
 ## Cel zalecenia
 
-Celem zalecenia jest wprowadzenie jednolitego modelu przeglądu, oceny oraz dalszego postępowania z dokumentami pozostającymi w publicznym obiegu informacyjnym podmiotu publicznego, ze szczególnym uwzględnieniem dokumentów opublikowanych po 23 września 2018 r.
+Celem zalecenia jest wprowadzenie jednolitego modelu przeglądu, oceny oraz dalszego postępowania z dokumentami pozostającymi w publicznym obiegu informacyjnym podmiotu, ze szczególnym uwzględnieniem dokumentów opublikowanych po 23 września 2018 r.
 
 Zalecenie wprowadza:
 
@@ -36,7 +36,7 @@ Zalecenie obejmuje jednak cały zasób dokumentów pozostających w publicznym o
 
 ## Definicja operacyjna
 
-W związku z brakiem ustawowej definicji pojęcia „niezbędna do realizacji bieżących zadań podmiotu publicznego”, o którym mowa w art. 3 ust. 1 pkt 3 ustawy o dostępności cyfrowej, przyjmuje się następującą interpretację tego pojęcia na potrzeby jego stosowania w praktyce działania podmiotu publicznego.
+W związku z brakiem ustawowej definicji pojęcia „niezbędna do realizacji bieżących zadań podmiotu publicznego”, o którym mowa w art. 3 ust. 1 pkt 3 ustawy o dostępności cyfrowej, przyjmuje się następującą interpretację tego pojęcia na potrzeby jego stosowania w praktyce działania podmiotu.
 
 Niezbędność dokumentu należy rozumieć jako jego konieczność w realizacji bieżących zadań podmiotu publicznego, rozumianą jako brak możliwości prawidłowego wykonania tych zadań, zapewnienia funkcjonowania podmiotu lub umożliwienia użytkownikowi realizacji jego uprawnień lub obowiązków bez dostępu do tego dokumentu.
 
@@ -48,7 +48,7 @@ Dokument uznaje się za niezbędny, jeżeli jego treść pozostaje w bezpośredn
 - jest wykorzystywany w ramach obowiązujących procedur;
 - jest wymagany od użytkownika w celu załatwienia sprawy lub skorzystania z usługi publicznej;
 - stanowi aktualne źródło informacji niezbędnej do realizacji uprawnień lub obowiązków użytkownika;
-- ma charakter obowiązującego aktu prawnego wytworzonego przez podmiot publiczny i wywołuje skutki prawne w jego działalności.
+- ma charakter obowiązującego aktu prawnego wytworzonego przez podmiot i wywołuje skutki prawne w jego działalności.
 
 Dokument nie spełnia przesłanki niezbędności, jeżeli jego brak nie wpływa na możliwość realizacji bieżących zadań podmiotu ani na możliwość skorzystania przez użytkownika z przysługujących mu uprawnień, w szczególności gdy ma charakter archiwalny, informacyjny o znaczeniu historycznym lub został zastąpiony przez dokument aktualny.
 
