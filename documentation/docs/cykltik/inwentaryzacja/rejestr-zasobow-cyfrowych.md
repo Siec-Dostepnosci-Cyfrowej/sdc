@@ -7,7 +7,7 @@ keywords: [dostępność cyfrowa, inwentaryzacja, archiwizacja]
 tags: [dostępność cyfrowa, inwentaryzacja, archiwizacja]
 opracowanie: Cezary Tomczyk
 data_zgloszenia: 19 października 2025 r.
-ostatnia_aktualizacja: 12 listopada  2025 r.
+ostatnia_aktualizacja: 23 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
@@ -45,13 +45,15 @@ Rejestr powinien być prowadzony w sposób umożliwiający identyfikację właś
    Rejestr zasobów powinien być aktualizowany nie rzadziej niż raz na kwartał oraz każdorazowo po istotnej zmianie organizacyjnej lub technicznej.
 6. **Powiązanie z procesami dostępności**  
    Dane zawarte w rejestrze należy wykorzystywać przy planowaniu audytów, opracowywaniu planów naprawczych oraz aktualizacji deklaracji dostępności.
-7. **Uwzględnienie wymagań europejskich**  
+7. **Wykorzystanie danych w działaniach operacyjnych**  
+   Dane zawarte w rejestrze zasobów cyfrowych powinny stanowić podstawę do realizacji działań operacyjnych związanych z dostępnością, w szczególności programów przeglądu, oceny i zarządzania dokumentami udostępnianymi publicznie, takich jak [Program przeglądu i naprawy załączników](./przeglad-zalacznikow-zmiany-20260423T105242Z-3-001/przeglad-zalacznikow-zmiany/program-przegladu-i-naprawy-zalacznikow/zalecenie-07.md).
+8. **Uwzględnienie wymagań europejskich**  
    Każdy zasób powinien być oceniany pod kątem zgodności z wymogami Europejskiego Aktu o Dostępności (EAA) i normy EN 301 549.
-8. **Zastosowanie otwartych formatów danych**  
+9. **Zastosowanie otwartych formatów danych**  
    Rejestr powinien być dostępny w formatach ułatwiających analizę i integrację z innymi systemami, np. w formacie CSV lub JSON.
-9. **Podnoszenie kompetencji pracowników**  
+10. **Podnoszenie kompetencji pracowników**  
    Zaleca się prowadzenie szkoleń dla osób zaangażowanych w identyfikację, klasyfikację i utrzymanie rejestru zasobów cyfrowych.
-10. **Zapewnienie odpowiedzialności za każdy zasób**  
+11. **Zapewnienie odpowiedzialności za każdy zasób**  
     Każdy zasób cyfrowy powinien mieć przypisanego właściciela, określony cel istnienia oraz plan utrzymania lub rozwoju.
 
 ---
@@ -72,11 +74,13 @@ Rejestr powinien być prowadzony w sposób umożliwiający identyfikację właś
    Inwentaryzacja stanowi podstawowy warunek prawidłowego wdrożenia przepisów dotyczących dostępności cyfrowej i Europejskiego Aktu o Dostępności. Umożliwia określenie, które zasoby podlegają obowiązkowi zapewniania dostępności.
 2. **Podstawa dla audytów i deklaracji dostępności**  
    Rejestr zasobów pozwala na przygotowanie rzetelnych deklaracji dostępności i raportów z monitorowania.
-3. **Zarządzanie ryzykiem**  
+3. **Podstawa dla procesów operacyjnych**  
+   Rejestr zasobów cyfrowych stanowi punkt wyjścia dla szczegółowych procesów zarządzania wybranymi kategoriami zasobów, w tym dokumentami cyfrowymi udostępnianymi publicznie. Wyniki tych procesów powinny aktualizować dane rejestrowe, aby rejestr pozostawał aktualnym źródłem wiedzy o stanie zasobów.
+4. **Zarządzanie ryzykiem**  
    Wiedza o strukturze i stanie zasobów cyfrowych umożliwia wcześniejsze wykrywanie niezgodności i zapobieganie potencjalnym naruszeniom prawa.
-4. **Usprawnienie procesów organizacyjnych**  
+5. **Usprawnienie procesów organizacyjnych**  
    Uporządkowany rejestr wspiera planowanie działań rozwojowych, audytowych i budżetowych oraz ułatwia współpracę pomiędzy komórkami organizacyjnymi.
-5. **Przejrzystość i odpowiedzialność**  
+6. **Przejrzystość i odpowiedzialność**  
    Jasny podział odpowiedzialności za zasoby cyfrowe zwiększa transparentność działań podmiotu publicznego i ułatwia komunikację z interesariuszami.
 
 ---
@@ -134,6 +138,9 @@ Rejestr powinien być prowadzony w sposób umożliwiający identyfikację właś
 | 003       | Raport roczny 2024             | Dokument PDF   | https://www.miasto.gov.pl/raport2024.pdf | Biuro Burmistrza     | Zgodny              | Pełna (A, AA, PDF/UA)   | Tak                 | Zgodny z PDF/UA           | 2025-01-10                  | Adobe Acrobat Pro | Zastosowano tagowanie PDF |
 | 004       | Nagranie sesji rady 12.09.2025 | Multimedia     | https://www.miasto.gov.pl/sesja-2025-09-12.mp4 | Wydział Promocji     | Niezgodny           | Brak zgodności         | Nie                 | —                         | 2025-09-13                  | MP4 / YouTube     | Brak napisów – planowane dodanie do końca października |
 | 005       | API danych demograficznych     | System / API   | https://api.miasto.gov.pl/demografia | Wydział Statystyki    | Zgodny              | Pełna (A, AA, API doc)  | Tak                 | Testy automatyczne OK     | 2025-08-01                  | Node.js / Swagger | Dokumentacja dostępna, testy automatyczne aktywne |
+
+
+
 
 
 
