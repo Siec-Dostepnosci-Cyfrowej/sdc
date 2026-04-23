@@ -9,7 +9,7 @@ tags: [słowo kluczowe, inne słowo]
 opracowanie: Bartłomiej Wilk
 wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+data_aktualizacji: 23 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
@@ -26,7 +26,7 @@ Dokumenty w tym katalogu:
 - porządkują kontekst organizacyjny i wdrożeniowy,
 - pokazują najczęstsze błędy i ryzyka,
 - wskazują efekty wdrożenia,
-- wyjaśniają powiązania standardu z innymi obszarami funkcjonowania organizacji,
+- wyjaśniają powiązania standardu z innymi obszarami funkcjonowania podmiotu,
 - formułują zasady projektowe wspólne dla całego zestawu dokumentów.
 
 Dokumenty te mogą być wykorzystywane jako:
