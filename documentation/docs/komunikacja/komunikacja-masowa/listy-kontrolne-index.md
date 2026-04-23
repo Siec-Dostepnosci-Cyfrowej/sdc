@@ -9,7 +9,7 @@ tags: [słowo kluczowe, inne słowo]
 opracowanie: Bartłomiej Wilk
 wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+data_aktualizacji: 23 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
@@ -28,10 +28,10 @@ Każdy punkt listy kontrolnej wymaga odpowiedzi:
 - NIE – wymaganie nie zostało spełnione.
 
 Jeżeli na którekolwiek pytanie odpowiedź brzmi „NIE”, materiał:
-- nie może zostać opublikowany,
+- co do zasady nie może zostać opublikowany,
 - wymaga poprawy przed publikacją.
 
-Listy kontrolne mają charakter zero-jedynkowy i stanowią podstawę decyzji o publikacji.
+Listy kontrolne mają charakter zero-jedynkowy na potrzeby oceny spełnienia wymagań i stanowią podstawę decyzji o publikacji. W sytuacjach wyjątkowych negatywny wynik listy kontrolnej może zostać obsłużony wyłącznie zgodnie z przyjętą procedurą postępowania w sytuacjach wyjątkowych.
 
 ## Kiedy stosować listy kontrolne
 
@@ -59,10 +59,10 @@ Za zastosowanie listy kontrolnej odpowiada osoba publikująca materiał, która 
 
 Brak weryfikacji listą kontrolną traktowany jest jako brak spełnienia wymagań dostępności.
 
-## Rola list kontrolnych w organizacji
+## Rola list kontrolnych w podmiocie
 
 Listy kontrolne:
-- eliminują publikację materiałów niepełnych lub niedostępnych,
+- ograniczają publikację materiałów niepełnych lub niedostępnych do uzasadnionych sytuacji wyjątkowych,
 - zapewniają spójny standard publikacji,
 - ograniczają konieczność wprowadzania poprawek po publikacji,
 - wspierają codzienną pracę redakcyjną i komunikacyjną.
@@ -71,4 +71,4 @@ Listy kontrolne nie zastępują wiedzy ani doświadczenia, ale stanowią obowią
 
 ## Powiązanie z zaleceniem
 
-Listy kontrolne są elementem realizacji [Zalecenia Organizacja procesu zapewniania dostępności multimediów i komunikacji masowej](./komunikacja-masowa-zalecenie).
+Listy kontrolne są elementem realizacji [Zalecenia Organizacja procesu publikacji dostępnych materiałów multimedialnych i treści cyfrowych](./komunikacja-masowa-zalecenie).
