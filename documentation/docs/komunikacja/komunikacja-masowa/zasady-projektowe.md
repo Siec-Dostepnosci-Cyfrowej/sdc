@@ -9,7 +9,7 @@ tags: [słowo kluczowe, inne słowo]
 opracowanie: Bartłomiej Wilk
 wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+data_aktualizacji: 23 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
@@ -76,7 +76,7 @@ Użytkownik nie powinien być zmuszony do:
 
 ## Spójność komunikacji
 
-Materiały publikowane przez organizację powinny być spójne pod względem:
+Materiały publikowane przez podmiot publiczny powinny być spójne pod względem:
 
 - struktury,
 - sposobu przekazywania informacji,
@@ -99,6 +99,8 @@ Materiał niespełniający wymagań dostępności nie jest materiałem kompletny
 Materiał, który nie spełnia podstawowych wymagań dostępności, nie powinien być publikowany.
 
 Dostępność nie jest elementem opcjonalnym ani możliwym do uzupełnienia w późniejszym czasie.
+
+Zasada ta nie zastępuje procedury wyjątkowej opisanej w wymaganiach minimalnych.
 
 ---
 
