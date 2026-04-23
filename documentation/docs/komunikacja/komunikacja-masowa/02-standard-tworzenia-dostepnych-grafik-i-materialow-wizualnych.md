@@ -9,7 +9,7 @@ tags: [słowo kluczowe, inne słowo]
 opracowanie: Bartłomiej Wilk
 wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+data_aktualizacji: 23 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
@@ -19,6 +19,8 @@ wersja_robocza: true
 ## Postanowienia ogólne
 
 Niniejszy standard określa sposób projektowania grafik oraz materiałów wizualnych w sposób zapewniający ich dostępność i czytelność dla wszystkich użytkowników.
+
+Niniejszy standard określa sposób przygotowania materiałów w celu zapewnienia spełnienia wymagań obowiązkowych.
 
 Standard definiuje zasady dotyczące kontrastu, typografii, kompozycji oraz przekazywania informacji.
 
@@ -30,7 +32,9 @@ Standard stosuje się na etapie projektowania materiału, przed jego publikacją
 
 ## Czytelność i kontrast
 
-Tekst umieszczony na grafice musi być czytelny i posiadać odpowiedni kontrast względem tła.
+Tekst umieszczony na grafice musi być czytelny i posiadać odpowiedni kontrast względem tła. Minimalny poziom kontrastu pomiędzy tekstem a tłem wynosi 4,5:1.
+
+W miarę możliwości zaleca się stosowanie wyższego kontrastu, np. 7:1.
 
 W praktyce oznacza to stosowanie wyraźnych zestawień kolorystycznych, np. ciemny tekst na jasnym tle lub jasny tekst na ciemnym tle.
 
@@ -43,7 +47,7 @@ Niedopuszczalne jest stosowanie zestawień kolorów o niskim kontraście, które
 
 ## Typografia
 
-W materiałach wizualnych stosuje się kroje bezszeryfowe zapewniające czytelność na ekranach.
+W materiałach wizualnych stosuje się kroje bezszeryfowe, które zapewniają czytelność na ekranach.
 
 Należy unikać fontów ozdobnych oraz elementów utrudniających odbiór treści.
 
@@ -96,11 +100,11 @@ Należy testować czytelność w mniejszych rozmiarach.
 
 Elementy takie jak tekst, ikony i przyciski muszą być widoczne i rozróżnialne.
 
-Nie należy umieszczać istotnych informacji przy krawędziach grafiki.
+Nie należy umieszczać istotnych informacji przy krawędziach grafiki. Należy pozostawić wokół kluczowych elementów graficznych tzw. strefę bezpieczną (margines), aby zapobiec ich ucięciu w różnych proporcjach ekranu.
 
 ## Elementy dynamiczne i bezpieczeństwo
 
-Materiały wizualne nie mogą zawierać elementów migających lub szybko zmieniających się.
+Materiały wizualne nie mogą zawierać elementów migających lub szybko zmieniających się. Nie należy stosować efektów migania o częstotliwości zbliżonej do 3 razy na sekundę lub wyższej.
 
 Animacje, jeśli są stosowane, powinny być spokojne i nie mogą utrudniać odbioru treści.
 
