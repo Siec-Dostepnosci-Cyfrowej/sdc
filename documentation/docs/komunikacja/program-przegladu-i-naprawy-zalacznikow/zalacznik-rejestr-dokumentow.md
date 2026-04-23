@@ -9,13 +9,17 @@ tags: [załącznik, rejestr, ewidencja, zarządzanie]
 opracowanie: Bartłomiej Wilk
 data: 19 kwietnia 2026
 data_zgloszenia: 19 kwietnia 2026 r.
-data_aktualizacji: 19 kwietnia 2026 r.
+data_aktualizacji: 23 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
 # Załącznik nr 2. Rejestr dokumentów objętych przeglądem
 
-Rejestr stanowi centralne narzędzie ewidencyjne i zarządcze procesu. Prowadzony jest w formie tabelarycznej, na przykład jako arkusz kalkulacyjny albo system, w sposób umożliwiający filtrowanie, sortowanie oraz bieżącą aktualizację danych.
+Rejestr dokumentów objętych przeglądem stanowi operacyjne narzędzie ewidencyjne i zarządcze programu przeglądu i zarządzania dokumentami. Może być prowadzony jako podzbiór rejestru zasobów cyfrowych albo jako odrębne narzędzie robocze powiązane z tym rejestrem.
+
+Rejestrem nadrzędnym dla zasobów cyfrowych podmiotu pozostaje rejestr zasobów cyfrowych prowadzony w Wymiarze: Cykl życia TIK. Rejestr dokumentów objętych przeglądem uszczegóławia dane potrzebne do oceny niezbędności, klasyfikacji, priorytetyzacji, decyzji i realizacji działań wobec dokumentów cyfrowych udostępnianych publicznie.
+
+Rejestr prowadzony jest w formie tabelarycznej, na przykład jako arkusz kalkulacyjny albo system, w sposób umożliwiający filtrowanie, sortowanie oraz bieżącą aktualizację danych.
 
 Każdy wiersz odpowiada jednemu dokumentowi.
 
@@ -99,6 +103,8 @@ Pole na informacje dodatkowe, w szczególności:
 
 Rejestr prowadzony jest w sposób ciągły i aktualizowany na każdym etapie procesu. Dane w nim zawarte powinny być kompletne, spójne i możliwe do weryfikacji.
 
+Dane w rejestrze dokumentów objętych przeglądem powinny być spójne z danymi w rejestrze zasobów cyfrowych, w szczególności w zakresie identyfikatora zasobu, lokalizacji, właściciela lub opiekuna, statusu dostępności, statusu publikacji oraz decyzji o dalszym postępowaniu.
+
 Rejestr dokumentów objętych przeglądem powinien być prowadzony w formie arkusza kalkulacyjnego lub systemu o równoważnej funkcjonalności, umożliwiającego filtrowanie, sortowanie oraz bieżącą aktualizację danych. Przyjęty sposób prowadzenia rejestru powinien zapewniać jego czytelność, jednoznaczność oraz możliwość wykorzystania danych do celów zarządczych i raportowych.
 
 Struktura rejestru powinna mieć charakter tabelaryczny, w którym każdy wiersz odpowiada jednemu dokumentowi, a kolumny odpowiadają poszczególnym polom opisowym i decyzyjnym.
@@ -142,6 +148,8 @@ Zaleca się również stosowanie rozwiązań organizacyjnych zwiększających cz
 ## Efekt zastosowania rejestru
 
 Prowadzenie rejestru zapewnia pełną kontrolę nad zasobem dokumentów objętych procesem oraz umożliwia zarządzanie nim w sposób systemowy.
+
+Wyniki przeglądu dokumentów, w tym decyzje o dostosowaniu, odtworzeniu, przygotowaniu nowej wersji, archiwizacji albo usunięciu, powinny być przekazywane do rejestru zasobów cyfrowych albo odzwierciedlane w nim przez aktualizację odpowiednich pól. Zapewnia to domknięcie cyklu zarządzania dokumentami w środowisku TIK.
 
 Rejestr pozwala na:
 
