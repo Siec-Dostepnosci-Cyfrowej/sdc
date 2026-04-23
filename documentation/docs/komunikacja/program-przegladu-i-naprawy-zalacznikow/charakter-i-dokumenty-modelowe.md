@@ -1,7 +1,7 @@
 ---
 id: zalecenie-07-charakter
 title: Charakter zalecenia i dokumenty modelowe
-description: Charakter operacyjny zalecenia oraz rola dokumentów modelowych i załączników stosowanych w programie przeglądu i naprawy załączników.
+description: Rola dokumentu głównego, dokumentów pomocniczych i załączników stosowanych w programie przeglądu i naprawy załączników.
 sidebar_label: Charakter
 sidebar_position: 7
 keywords: [charakter zalecenia, dokumenty modelowe, formularz oceny, rejestr dokumentów, przewodnik decyzji]
@@ -9,60 +9,90 @@ tags: [charakter, dokumenty modelowe, załączniki, narzędzia]
 opracowanie: Bartłomiej Wilk
 data: 19 kwietnia 2026
 data_zgloszenia: 19 kwietnia 2026 r.
-data_aktualizacji: 19 kwietnia 2026 r.
+data_aktualizacji: 23 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
 # Charakter zalecenia i dokumenty modelowe
 
-## Charakter zalecenia
+## Charakter dokumentu głównego
 
-Zalecenie ma charakter operacyjny i stanowi praktyczny model działania, umożliwiający podmiotom uporządkowanie oraz dostosowanie zasobu dokumentów do wymagań dostępności cyfrowej. Nie jest zbiorem ogólnych wytycznych, lecz kompletnym mechanizmem postępowania, który może być bezpośrednio wdrożony w organizacji.
+Dokument główny ma charakter normatywny, kierunkowy i zarządczy. Określa decyzję o wdrożeniu programu, jego cel, podstawowe zasady, komponenty oraz relację z dokumentami pomocniczymi i załącznikami.
 
-Zalecenie funkcjonuje jako model operacyjny, określający sposób postępowania krok po kroku, od identyfikacji dokumentów, przez ich ocenę i klasyfikację, aż po realizację działań oraz kontrolę efektów. Model ten eliminuje uznaniowość w podejmowaniu decyzji i wprowadza jednolite zasady działania w całym podmiocie.
+Dokument główny nie pełni funkcji podręcznika realizacji procesu. Szczegółowe etapy, instrukcje operacyjne, formularze, rejestry, checklisty i schematy decyzyjne są utrzymywane w odrębnych plikach, aby zachować przejrzystość zalecenia oraz nie utracić wartości wdrożeniowej modelu.
 
-Jednocześnie zalecenie stanowi narzędzie zarządzania zasobem dokumentów, pozwalające na uzyskanie pełnej wiedzy o zasobie, jego uporządkowanie oraz utrzymanie w stanie zgodnym z wymaganiami. Dzięki zastosowaniu rejestru dokumentów, harmonogramu oraz mechanizmów raportowania i kontroli, podmiot uzyskuje możliwość bieżącego zarządzania dokumentami, a nie jedynie ich jednorazowego dostosowania.
+Takie rozdzielenie oznacza, że dokument główny odpowiada na pytanie, co podmiot powinien wdrożyć i według jakich zasad, natomiast dokumenty pomocnicze oraz załączniki odpowiadają na pytanie, jak przeprowadzić ocenę, udokumentować decyzje, wykonać działania i skontrolować ich wynik.
 
-Zalecenie jest również elementem systemowego podejścia do dostępności cyfrowej, ponieważ łączy działania naprawcze z bieżącym funkcjonowaniem podmiotu. Oznacza to, że dostępność nie jest traktowana jako działanie jednorazowe, lecz jako stały element zarządzania informacją i publikacją treści. Wdrożenie zalecenia pozwala na przejście od reaktywnego podejścia do dostępności do modelu, w którym dostępność jest uwzględniana na każdym etapie pracy z dokumentami.
+## Dokumenty pomocnicze
 
-Charakter zalecenia polega zatem na połączeniu funkcji organizacyjnej, zarządczej i operacyjnej, co umożliwia jego zastosowanie w różnych typach podmiotów oraz dostosowanie do ich skali i struktury, przy jednoczesnym zachowaniu spójności i zgodności z wymaganiami prawnymi.
+Dokumenty pomocnicze rozwijają model przyjęty w zaleceniu i stanowią zaplecze interpretacyjne, organizacyjne oraz proceduralne programu.
 
-## Dokumenty modelowe
+### Podstawy zalecenia
+
+Dokument [Podstawy zalecenia](./podstawy-zalecenia.md) opisuje podstawę prawną, zakres stosowania, definicję operacyjną „niezbędności” oraz problemy regulacyjne uzasadniające wdrożenie programu. Ma znaczenie interpretacyjne i powinien być stosowany przy rozstrzyganiu wątpliwości dotyczących zakresu obowiązków i kwalifikacji dokumentów.
+
+### Model działania
+
+Dokument [Model działania](./model-dzialania.md) opisuje pełną logikę procesu, w tym identyfikację zasobu, ocenę niezbędności, klasyfikację, priorytetyzację, decyzję o dalszym postępowaniu, realizację działań, zarządzanie zasobem, raportowanie i kontrolę. Stanowi podstawowe rozwinięcie operacyjne zalecenia.
+
+### Mapa odpowiedzialności
+
+Dokument [Mapa odpowiedzialności](./mapa-odpowiedzialnosci.md) określa role, zakresy odpowiedzialności, relację między poziomem lokalnym i centralnym oraz sposób zapewnienia odtwarzalności decyzji. Ma znaczenie zarządcze i organizacyjne.
+
+### Procedury dla dużych i małych podmiotów
+
+Dokument [Procedura dla dużych podmiotów](./procedura-duze-podmioty.md) opisuje realizację programu w podmiotach o rozbudowanej strukturze, z rozproszonym wykonaniem i centralnym nadzorem.
+
+Dokument [Procedura dla małych podmiotów](./procedura-male-podmioty.md) opisuje uproszczoną realizację programu w podmiotach o mniejszej skali działania, przy zachowaniu tej samej logiki oceny, decyzji, dokumentowania i kontroli.
+
+### Lista kontrolna działań naprawczych
+
+Dokument [Lista kontrolna działań naprawczych dokumentów](./lista-kontrolna-naprawy.md) wspiera etap kontroli jakości i zamknięcia działania naprawczego. Ma charakter operacyjny i wynika ze standardu działań naprawczych.
+
+## Załączniki operacyjne
+
+Załączniki stanowią integralne narzędzia stosowania zalecenia w praktyce. Ich rolą jest zapewnienie powtarzalności, porównywalności, audytowalności i możliwości odtworzenia decyzji.
 
 ### Formularz oceny dokumentu
 
-Stanowi podstawowe narzędzie robocze procesu. Jego celem jest zapewnienie, że ocena każdego dokumentu przebiega według tego samego schematu, przy użyciu tych samych pytań, pól decyzyjnych i kryteriów. Formularz ma eliminować sytuację, w której decyzje dotyczące dokumentów podejmowane są w sposób intuicyjny, skrótowy albo wyłącznie ustny.
+[Załącznik nr 1. Formularz oceny dokumentu](./zalacznik-formularz-oceny-dokumentu.md) służy do udokumentowania podstawowych danych o dokumencie, jego funkcji, kategorii, priorytetu oraz decyzji o dalszym postępowaniu.
 
 ### Rejestr dokumentów objętych przeglądem
 
-Stanowi centralne narzędzie ewidencyjne i zarządcze całego procesu. Służy do zebrania w jednym miejscu informacji o wszystkich dokumentach objętych przeglądem oraz o stanie ich oceny, klasyfikacji, realizacji działań i aktualnym statusie. Rejestr pełni również funkcję harmonogramu, ponieważ to w nim powinny być widoczne terminy wynikające z przypisanych priorytetów.
+[Załącznik nr 2. Rejestr dokumentów objętych przeglądem](./zalacznik-rejestr-dokumentow.md) jest centralnym narzędziem ewidencyjnym i zarządczym procesu. Umożliwia monitorowanie stanu oceny, realizacji działań, terminów oraz statusu dokumentów.
 
-### Kryteria oceny „niezbędności”
+### Formularz oceny „niezbędności”
 
-Stanowią narzędzie interpretacyjne służące do stosowania definicji operacyjnej „niezbędności” w praktyce. Ich celem jest przełożenie ogólnej definicji na zestaw jednoznacznych pytań i kryteriów, które można wykorzystać przy ocenie konkretnego dokumentu.
+[Załącznik nr 3. Formularz oceny „niezbędności” dokumentu](./zalacznik-ocena-niezbednosci.md) przekłada definicję operacyjną niezbędności na pytania i kryteria stosowane przy ocenie konkretnego dokumentu.
 
-### Przewodnik decyzji dotyczących dokumentów
+### Przewodnik podejmowania decyzji
 
-Ma charakter operacyjnego przewodnika postępowania. Pokazuje, jak z połączenia oceny „niezbędności”, przypisania kategorii i nadania priorytetu wynika konkretna decyzja o dalszym postępowaniu z dokumentem. Ma przełożyć wyniki oceny na praktyczne rozstrzygnięcia.
+[Załącznik nr 4. Przewodnik podejmowania decyzji dotyczących dokumentów](./zalacznik-przewodnik-decyzyjny.md) wskazuje, jak wynik oceny niezbędności, kategoria i priorytet prowadzą do decyzji o dostosowaniu, odtworzeniu, przygotowaniu nowej wersji, archiwizacji albo usunięciu.
 
 ### Zasady archiwizacji i usuwania dokumentów
 
-Służą uregulowaniu pozostawienia dokumentu jako archiwalnego oraz usunięcia go z obiegu. Zabezpieczają podmiot przed nieudokumentowanym lub zbyt pochopnym usuwaniem dokumentów, a jednocześnie umożliwiają racjonalne odchudzanie zasobu.
+[Załącznik nr 5. Zasady archiwizacji i usuwania dokumentów](./zalacznik-archiwizacja-i-usuwanie.md) porządkuje pozostawianie dokumentów jako archiwalnych oraz usuwanie dokumentów zbędnych z publicznego obiegu.
 
 ### Przykłady kwalifikacji dokumentów
 
-Mają charakter instruktażowy i interpretacyjny. Pokazują stosowanie modelu działania do typowych, rzeczywistych przypadków dokumentów spotykanych w różnych podmiotach objętych ustawą.
+[Załącznik nr 6. Przykłady kwalifikacji dokumentów](./zalacznik-przyklady-kwalifikacji.md) wspiera jednolite stosowanie kategorii, priorytetów i decyzji przez pokazanie typowych przypadków.
 
-### Standard działań naprawczych dokumentów
+### Standard działań naprawczych
 
-Stanowi techniczny standard wykonania działań naprawczych. Określa, w jaki sposób praktycznie przeprowadzać dostosowanie, odtworzenie lub tworzenie nowych wersji dokumentów, aby efekt tych działań spełniał wymagania dostępności cyfrowej.
+[Załącznik nr 7. Standard działań naprawczych dokumentów](./zalacznik-standard-dzialan-naprawczych.md) określa zasady wykonywania dostosowania, odtworzenia lub przygotowania nowej wersji dokumentu w sposób zgodny z wymaganiami dostępności.
+
+### Schemat procesu
+
+[Załącznik nr 8. Schemat procesu / mapa decyzyjna](./zalacznik-schemat-procesu.md) przedstawia przepływ decyzji i etapów procesu w formie syntetycznej.
 
 ## Rola dokumentów modelowych
 
-Dokumenty modelowe mają zapewnić:
+Dokumenty modelowe i załączniki mają zapewnić:
 
+- zachowanie tej samej logiki oceny niezależnie od skali podmiotu;
+- ograniczenie uznaniowości w ocenie niezbędności;
 - powtarzalność procesu;
 - możliwość odtworzenia i uzasadnienia decyzji;
 - spójność danych i nazewnictwa;
 - możliwość raportowania i kontroli;
-- przełożenie modelu działania na narzędzia operacyjne.
+- trwałe zarządzanie zasobem dokumentów po zakończeniu zasadniczego przeglądu.
