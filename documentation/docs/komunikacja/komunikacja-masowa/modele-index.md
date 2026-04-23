@@ -9,7 +9,7 @@ tags: [słowo kluczowe, inne słowo]
 opracowanie: Bartłomiej Wilk
 wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+data_aktualizacji: 23 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
@@ -25,7 +25,7 @@ Modele:
 - opisują sposób organizacji pracy,
 - określają przebieg procesu publikacji,
 - wskazują role i odpowiedzialności,
-- pomagają dostosować wdrożenie do możliwości organizacji.
+- pomagają dostosować wdrożenie do możliwości podmiotu.
 
 Nie stanowią listy wymagań ani standardów technicznych, lecz pokazują, jak wdrożyć je w praktyce.
 
@@ -71,11 +71,11 @@ Modele odpowiadają na pytanie:
 
 Dobór modelu zależy od:
 
-- wielkości organizacji,
+- wielkości podmiotu,
 - liczby osób zaangażowanych w komunikację,
 - stopnia złożoności procesów.
 
-Organizacja może:
+Podmiot może:
 
 - wdrożyć jeden model,
 - łączyć elementy różnych modeli,
@@ -83,6 +83,6 @@ Organizacja może:
 
 ## Charakter dokumentów
 
-Modele mają charakter pomocniczy i mogą być dostosowywane do specyfiki organizacji.
+Modele mają charakter pomocniczy i mogą być dostosowywane do specyfiki podmiotu.
 
 Ich celem jest zapewnienie spójnego i powtarzalnego sposobu działania, a nie narzucenie jednej, sztywnej struktury.
