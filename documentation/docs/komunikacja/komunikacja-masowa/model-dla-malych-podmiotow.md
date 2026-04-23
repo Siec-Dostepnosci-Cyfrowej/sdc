@@ -9,7 +9,7 @@ tags: [słowo kluczowe, inne słowo]
 opracowanie: Bartłomiej Wilk
 wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+data_aktualizacji: 23 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
@@ -108,9 +108,11 @@ Jeżeli nie jest możliwe wdrożenie wszystkich elementów w pełnym zakresie, n
 
 Kluczowym elementem modelu jest konsekwencja.
 
-Przyjęte minimalne wymagania są stosowane w każdym przypadku, bez wyjątków.
+Przyjęte minimalne wymagania są stosowane w każdym przypadku jako zasada podstawowa.
 
-Dzięki temu organizacja zapewnia:
+W sytuacjach wyjątkowych podmiot może zastosować odrębną procedurę postępowania, wraz ze wskazaniem osoby odpowiedzialnej za decyzję i terminu uzupełnienia brakujących elementów dostępności.
+
+Dzięki temu podmiot zapewnia:
 - powtarzalność działań,
 - stabilny poziom jakości,
 - zgodność z wymaganiami.
@@ -122,8 +124,8 @@ Dzięki temu organizacja zapewnia:
 Wdrożenie modelu prowadzi do:
 
 - zapewnienia podstawowego poziomu dostępności,
-- eliminacji publikacji materiałów niedostępnych,
+- ograniczenia publikacji materiałów niedostępnych do uzasadnionych sytuacji wyjątkowych,
 - zwiększenia czytelności komunikacji,
 - możliwości dalszego rozwoju standardów.
 
-Dostępność staje się stałym elementem pracy, niezależnie od wielkości organizacji.
+Dostępność staje się stałym elementem pracy, niezależnie od wielkości podmiotu.
