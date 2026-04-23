@@ -9,7 +9,7 @@ tags: [słowo kluczowe, inne słowo]
 opracowanie: Bartłomiej Wilk
 wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+data_aktualizacji: 23 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
@@ -45,11 +45,13 @@ Spełnienie wymagań stanowi warunek publikacji materiału.
 
 Materiał:
 - spełnia wymagania i może zostać opublikowany,
-- nie spełnia wymagań i nie może zostać opublikowany.
+- nie spełnia wymagań i co do zasady nie może zostać opublikowany.
 
-Nie dopuszcza się:
+Co do zasady nie dopuszcza się:
 - publikacji materiałów częściowo dostępnych,
 - uzupełniania dostępności po publikacji.
+
+Odstępstwo od tej zasady jest dopuszczalne wyłącznie w sytuacjach wyjątkowych, zgodnie z przyjętą procedurą i z obowiązkiem uzupełnienia brakujących elementów dostępności.
 
 ## Relacja do innych elementów repozytorium
 
@@ -68,4 +70,4 @@ Wymagania mają charakter:
 - mierzalny – umożliwiają jednoznaczną ocenę,
 - powtarzalny – mogą być stosowane w każdej sytuacji.
 
-Stanowią podstawę kontroli jakości oraz oceny zgodności działań organizacji.
+Stanowią podstawę kontroli jakości oraz oceny zgodności działań podmiotu publicznego.
