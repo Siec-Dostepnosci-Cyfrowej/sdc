@@ -33,7 +33,7 @@ Przypisanie odpowiedzialności powinno mieć charakter formalny i udokumentowany
 
 Każdy dokument objęty procesem musi mieć przypisaną jedną komórkę organizacyjną odpowiedzialną merytorycznie za jego treść. Dokument nie może pozostać bez przypisania, a w przypadku wątpliwości co do właściwości należy rozstrzygnąć je przed rozpoczęciem oceny dokumentu.
 
-Na poziomie centralnym struktura odpowiedzialności powinna obejmować także rozdzielenie funkcji wykonawczych, weryfikacyjnych i nadzorczych. Efektem etapu pierwszego powinno być jednoznaczne określenie, kto odpowiada za realizację poszczególnych czynności w procesie, komu przekazywane są wyniki prac oraz kto podejmuje decyzje w sytuacjach spornych lub wymagających dodatkowej interpretacji.
+Na poziomie centralnym struktura odpowiedzialności obejmuje także rozdzielenie funkcji wykonawczych, weryfikacyjnych i nadzorczych. Efektem etapu pierwszego jest jednoznaczne określenie, kto odpowiada za realizację poszczególnych czynności w procesie, komu przekazywane są wyniki prac oraz kto podejmuje decyzje w sytuacjach spornych lub wymagających dodatkowej interpretacji.
 
 ## Podział zasobu dokumentów
 
