@@ -1,7 +1,7 @@
 ---
 id: powiazania-systemowe
 title: Powiązania systemowe standardu dostępności multimediów i komunikacji masowej
-description: Opis powiązań standardu dostępności z innymi obszarami funkcjonowania organizacji. 
+description: Opis powiązań standardu dostępności z innymi obszarami funkcjonowania podmiotu. 
 sidebar_label: Powiązania systemowe
 sidebar_position: 18
 keywords: [słowo kluczowe, inne słowo]
@@ -9,7 +9,7 @@ tags: [słowo kluczowe, inne słowo]
 opracowanie: Bartłomiej Wilk
 wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+data_aktualizacji: 23 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
@@ -17,7 +17,7 @@ wersja_robocza: true
 
 ## Charakter powiązań
 
-Standard dostępności multimediów i komunikacji masowej nie funkcjonuje jako odrębny element organizacji, lecz stanowi część szerszego systemu zarządzania dostępnością cyfrową.
+Standard dostępności multimediów i komunikacji masowej nie funkcjonuje jako odrębny element podmiotu, lecz stanowi część szerszego systemu zarządzania dostępnością cyfrową.
 
 Jego skuteczność zależy od powiązania z innymi obszarami działania podmiotu, w szczególności z procesami, kompetencjami pracowników oraz systemami informatycznymi.
 
@@ -80,7 +80,7 @@ W szczególności:
 
 - systemy CMS powinny umożliwiać wprowadzanie opisów alternatywnych i struktury treści,
 - narzędzia do tworzenia materiałów powinny wspierać czytelność i dostępność,
-- rozwiązania automatyczne (np. generowanie napisów) powinny być wykorzystywane jako wsparcie, a nie zastępstwo weryfikacji.
+- rozwiązania automatyczne mogą wspierać przygotowanie materiałów, ale ich wynik wymaga redakcji, kontroli zgodności z wymaganiami oraz zatwierdzenia przed publikacją.
 
 Brak odpowiednich narzędzi ogranicza możliwość realizacji wymagań.
 
@@ -124,15 +124,15 @@ Powiązanie obejmuje:
 - zmniejszenie ryzyka naruszeń przepisów,
 - ograniczenie liczby skarg,
 - zmniejszenie konieczności działań naprawczych,
-- poprawę wiarygodności organizacji.
+- poprawę wiarygodności podmiotu publicznego.
 
 Dostępność stanowi element zarządzania ryzykiem, a nie wyłącznie wymaganie formalne.
 
 ---
 
-## Powiązanie z rozwojem organizacji
+## Powiązanie z rozwojem podmiotu
 
-Standard stanowi podstawę dalszego rozwoju dostępności w organizacji.
+Standard stanowi podstawę dalszego rozwoju dostępności w podmiocie.
 
 Powiązanie obejmuje:
 
@@ -147,7 +147,7 @@ Dzięki temu dostępność może być rozwijana w sposób systemowy, a nie incyd
 
 ## Podsumowanie
 
-Standard dostępności multimediów i komunikacji masowej jest elementem systemu zarządzania organizacją.
+Standard dostępności multimediów i komunikacji masowej jest elementem systemu zarządzania podmiotem.
 
 Jego skuteczność zależy od powiązania z:
 
