@@ -9,7 +9,7 @@ tags: [słowo kluczowe, inne słowo]
 opracowanie: Bartłomiej Wilk
 wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+data_aktualizacji: 23 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
@@ -44,7 +44,7 @@ Takie podejście ma charakter reaktywny i generuje dodatkowe koszty organizacyjn
 
 Wymagania dostępności wynikające z przepisów i standardów mają charakter ogólny.
 
-W wielu organizacjach brakuje ich przełożenia na:
+W wielu podmiotach brakuje ich przełożenia na:
 - konkretne działania,
 - procedury,
 - narzędzia pracy.
@@ -91,7 +91,7 @@ Poziom dostępności materiałów jest często uzależniony od:
 
 Brak standardów powoduje, że dobre praktyki nie są powtarzalne.
 
-Organizacja nie buduje trwałego poziomu jakości, lecz działa w sposób zmienny.
+Podmiot nie buduje trwałego poziomu jakości, lecz działa w sposób zmienny.
 
 ---
 
@@ -104,7 +104,7 @@ W efekcie:
 - elementy dostępności są pomijane,
 - problemy wykrywane są dopiero po publikacji.
 
-Brak kontroli powoduje utrwalanie błędów w organizacji.
+Brak kontroli powoduje utrwalanie błędów w podmiocie.
 
 ---
 
