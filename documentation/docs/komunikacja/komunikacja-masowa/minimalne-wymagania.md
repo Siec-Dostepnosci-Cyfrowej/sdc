@@ -1,7 +1,7 @@
 ---
 id: minimalne-wymagania
 title: Minimalne wymagania dostępności multimediów i komunikacji
-description: Zestaw minimalnych wymagań dostępności dla materiałów multimedialnych i komunikacji masowej.
+description: Zestaw minimalnych wymagań dostępności dla materiałów multimedialnych i treści cyfrowych.
 sidebar_label: Minimalne wymagania
 sidebar_position: 2
 keywords: [słowo kluczowe, inne słowo]
@@ -9,18 +9,18 @@ tags: [słowo kluczowe, inne słowo]
 opracowanie: Bartłomiej Wilk
 wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+data_aktualizacji: 23 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
 
 ## Cel dokumentu
 
-Dokument określa minimalne wymagania dostępności, jakie muszą spełniać wszystkie materiały multimedialne oraz komunikaty publikowane przez podmiot.
+Dokument określa minimalne wymagania dostępności, jakie muszą spełniać materiały multimedialne oraz komunikaty publikowane przez podmiot publiczny.
 
-Spełnienie wymagań stanowi warunek publikacji materiału.
+Spełnienie wymagań stanowi podstawowy warunek publikacji materiału.
 
-Materiał niespełniający któregokolwiek wymagania nie może zostać opublikowany.
+Materiał niespełniający któregokolwiek wymagania co do zasady nie może zostać opublikowany. Odstępstwo jest dopuszczalne wyłącznie w sytuacji wyjątkowej, zgodnie z przyjętą procedurą postępowania i z obowiązkiem uzupełnienia brakujących elementów dostępności.
 
 ## Podstawa prawna
 
@@ -30,7 +30,11 @@ Wymagania wynikają w szczególności z:
 - normy EN 301 549,
 - przepisów Europejskiego Aktu o Dostępności.
 
-Wymagania należy traktować jako obowiązujące minimum.
+Wymagania należy traktować jako obowiązujące minimum publikacyjne, osadzone w przepisach prawa i normach technicznych.
+
+Dokument nie wyczerpuje wszystkich obowiązków wynikających z przepisów prawa ani wszystkich standardów wewnętrznych podmiotu. Określa minimalny poziom wymagań, którego niespełnienie uniemożliwia publikację materiału, chyba że zastosowano procedurę postępowania w sytuacjach wyjątkowych.
+
+Szersze standardy wewnętrzne, dobre praktyki i rozwiązania organizacyjne zostały opisane w odrębnych dokumentach pakietu i nie rozszerzają katalogu minimalnych wymagań określonych w tym dokumencie.
 
 ## Zakres zastosowania
 
@@ -71,12 +75,12 @@ Kluczowe informacje nie mogą być przekazywane wyłącznie:
 - dźwiękiem,
 - kolorem.
 
-Publikacja materiału niepełnego jest niedopuszczalna.
+Publikacja materiału niepełnego jest co do zasady niedopuszczalna. Sytuacje wyjątkowe wymagają odrębnego uzasadnienia, decyzji osoby odpowiedzialnej oraz określenia terminu uzupełnienia brakujących elementów.
 
 Odpowiedzialność za dostępność ponosi:
 - autor materiału,
 - osoba publikująca (weryfikacja),
-- organizacja (systemowo).
+- podmiot publiczny (systemowo).
 
 ## Minimalne wymagania dla materiałów wideo
 
@@ -91,7 +95,7 @@ Napisy:
 
 W przypadku wielu mówców należy umożliwić ich identyfikację.
 
-Materiały informacyjne powinny zapewniać:
+Materiały informacyjne muszą zapewniać:
 - audiodeskrypcję  
   lub  
 - równoważną alternatywę tekstową.
@@ -144,7 +148,7 @@ Komunikaty nie mogą opierać się wyłącznie na elementach wizualnych.
 
 ## Wymagania techniczne i organizacyjne
 
-Treści powinny być przygotowywane bezpośrednio w systemach CMS stosowanych w organizacji.
+Treści powinny być przygotowywane bezpośrednio w systemach CMS stosowanych w podmiocie publicznym.
 
 Kopiowanie treści z zewnętrznych edytorów bez weryfikacji jest niedopuszczalne.
 
@@ -162,11 +166,20 @@ Systemy CMS powinny umożliwiać:
 
 ## Warunek publikacji
 
-Materiał może zostać opublikowany wyłącznie po spełnieniu wszystkich wymagań.
+Materiał może zostać opublikowany po spełnieniu wszystkich wymagań.
 
 Brak spełnienia któregokolwiek wymagania:
-- uniemożliwia publikację,
-- wymaga poprawy materiału.
+- co do zasady uniemożliwia publikację,
+- wymaga poprawy materiału albo zastosowania procedury postępowania w sytuacjach wyjątkowych.
+
+W uzasadnionych przypadkach dopuszcza się publikację materiału niespełniającego wszystkich wymagań dostępności, pod warunkiem że:
+
+- decyzja o publikacji została podjęta przez osobę odpowiedzialną za publikację lub jej przełożonego,
+- przyczyna odstępstwa została jednoznacznie uzasadniona i udokumentowana,
+- zapewniono możliwie najszybsze uzupełnienie brakujących elementów dostępności,
+- termin uzupełnienia braków został określony i nie przekracza 3 dni roboczych od momentu publikacji.
+
+Brak uzupełnienia elementów dostępności w określonym terminie oznacza konieczność wycofania materiału lub jego aktualizacji.
 
 ## Odpowiedzialność
 
@@ -180,7 +193,11 @@ Zapewnienie dostępności jest procesem zespołowym.
 
 ## Charakter dokumentu
 
+Wymagania określone w niniejszym dokumencie mają charakter obowiązkowy i stanowią warunek publikacji materiału.
+
 Dokument określa minimalny poziom dostępności wymagany do publikacji materiału.
+
+Dokument ma charakter normatywny: wskazuje rzeczywiste minimum wymagane przed publikacją. Szersze zasady organizacyjne, standardy wewnętrzne i dobre praktyki zostały opisane w odrębnych dokumentach pakietu.
 
 Spełnienie wymagań:
 - stanowi warunek publikacji,
@@ -189,4 +206,4 @@ Spełnienie wymagań:
 
 Dostępność ma charakter ciągły i podlega weryfikacji w czasie.
 
-Dokument stanowi element systemu zarządzania dostępnością w organizacji.
+Dokument stanowi element systemu zarządzania dostępnością w podmiocie publicznym.
