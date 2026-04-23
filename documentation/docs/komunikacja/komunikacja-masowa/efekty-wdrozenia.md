@@ -1,7 +1,7 @@
 ---
 id: efekty-wdrozenia
 title: Efekty wdrożenia standardu dostępności multimediów i komunikacji masowej
-description: Opis efektów wdrożenia standardu dostępności w organizacji. 
+description: Opis efektów wdrożenia standardu dostępności w podmiocie publicznym. 
 sidebar_label: Efekty wdrożenia
 sidebar_position: 19
 keywords: [słowo kluczowe, inne słowo]
@@ -9,7 +9,7 @@ tags: [słowo kluczowe, inne słowo]
 opracowanie: Bartłomiej Wilk
 wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+data_aktualizacji: 23 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
@@ -108,7 +108,7 @@ Eliminowane są sytuacje, w których odpowiedzialność za dostępność jest ro
 
 Dostępność przestaje być działaniem incydentalnym i staje się elementem systemu zarządzania jakością.
 
-Organizacja:
+Podmiot publiczny:
 - działa według ustalonych zasad,
 - posiada powtarzalne procesy,
 - rozwija kompetencje zespołu,
@@ -123,7 +123,7 @@ Wdrożenie standardu zmniejsza ryzyko:
 - publikacji treści niezgodnych z przepisami,
 - skarg użytkowników,
 - konieczności wprowadzania pilnych poprawek,
-- utraty wiarygodności organizacji.
+- utraty wiarygodności podmiotu publicznego.
 
 Działania są przewidywalne i oparte na jasno określonych zasadach.
 
@@ -147,7 +147,7 @@ Dostępność staje się cechą usługi publicznej, a nie dodatkowym elementem.
 
 Wdrożenie standardu tworzy stabilną podstawę do dalszego rozwoju.
 
-Organizacja może:
+Podmiot publiczny może:
 - rozszerzać zakres działań,
 - wdrażać bardziej zaawansowane rozwiązania,
 - rozwijać kompetencje zespołu,
