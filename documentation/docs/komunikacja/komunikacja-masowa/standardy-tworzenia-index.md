@@ -9,7 +9,7 @@ tags: [słowo kluczowe, inne słowo]
 opracowanie: Bartłomiej Wilk
 wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+data_aktualizacji: 23 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
@@ -24,7 +24,7 @@ Standardy:
 
 - opisują sposób przygotowania materiałów,
 - przekładają wymagania dostępności na konkretne działania,
-- zapewniają spójność komunikacji w organizacji,
+- zapewniają spójność komunikacji w podmiocie,
 - ograniczają uznaniowość i różnice w interpretacji.
 
 Standardy odpowiadają na pytanie:
@@ -75,4 +75,4 @@ Oznacza to, że:
 - mogą być stosowane w codziennej pracy,
 - powinny być stosowane w sposób powtarzalny.
 
-Standardy mogą być rozwijane i doprecyzowywane w miarę rozwoju organizacji i jej potrzeb.
+Standardy mogą być rozwijane i doprecyzowywane w miarę rozwoju podmiotu i jego potrzeb.
