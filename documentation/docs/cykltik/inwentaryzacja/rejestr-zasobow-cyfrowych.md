@@ -46,7 +46,7 @@ Rejestr powinien być prowadzony w sposób umożliwiający identyfikację właś
 6. **Powiązanie z procesami dostępności**  
    Dane zawarte w rejestrze należy wykorzystywać przy planowaniu audytów, opracowywaniu planów naprawczych oraz aktualizacji deklaracji dostępności.
 7. **Wykorzystanie danych w działaniach operacyjnych**  
-   Dane zawarte w rejestrze zasobów cyfrowych powinny stanowić podstawę do realizacji działań operacyjnych związanych z dostępnością, w szczególności programów przeglądu, oceny i zarządzania dokumentami udostępnianymi publicznie, takich jak [Program przeglądu i naprawy załączników](../../komunikacja/program-przegladu-i-naprawy-zalacznikow/zalecenie-07).
+   Dane zawarte w rejestrze zasobów cyfrowych powinny stanowić podstawę do realizacji działań operacyjnych związanych z dostępnością, w szczególności programów przeglądu, oceny i zarządzania dokumentami udostępnianymi publicznie, takich jak Program przeglądu i naprawy załączników.
 8. **Uwzględnienie wymagań europejskich**  
    Każdy zasób powinien być oceniany pod kątem zgodności z wymogami Europejskiego Aktu o Dostępności (EAA) i normy EN 301 549.
 9. **Zastosowanie otwartych formatów danych**  
