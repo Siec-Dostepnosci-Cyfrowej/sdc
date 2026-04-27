@@ -1,7 +1,9 @@
 ---
 title: Efekty wdrożenia
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG 2.2, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
+ostatnia_aktualizacja: 27 kwietnia 2026 r.
 ---
-
 ## Efekty wdrożenia
 
 Wdrożenie zalecenia prowadzi do uporządkowania procesu publikacji treści pochodzących od innych podmiotów oraz wprowadzenia jednolitego modelu działania.

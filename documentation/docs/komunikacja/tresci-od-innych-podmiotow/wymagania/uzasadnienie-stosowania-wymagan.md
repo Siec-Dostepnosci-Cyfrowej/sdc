@@ -1,7 +1,9 @@
 ---
 title: Uzasadnienie stosowania wymagań dostępności
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG 2.2, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
+ostatnia_aktualizacja: 27 kwietnia 2026 r.
 ---
-
 ## Cel
 
 Dokument przedstawia uzasadnienie stosowania wymagań dostępności cyfrowej w procesie publikowania treści pochodzących od innych podmiotów.

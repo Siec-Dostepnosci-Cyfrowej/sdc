@@ -1,7 +1,9 @@
 ---
 title: Lista kontrolna weryfikacji przed publikacją
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG 2.2, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
+ostatnia_aktualizacja: 27 kwietnia 2026 r.
 ---
-
 Lista służy do potwierdzenia, że materiał spełnia minimalne wymagania dostępności oraz wymagania formalne (w tym dla Biuletynu Informacji Publicznej).
 
 Weryfikacja jest obowiązkowa przed publikacją każdego materiału.

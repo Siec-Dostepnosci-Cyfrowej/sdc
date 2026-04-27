@@ -1,7 +1,9 @@
 ---
 title: Zasady publikacji
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG 2.2, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
+ostatnia_aktualizacja: 27 kwietnia 2026 r.
 ---
-
 ## Cel
 
 Zasady publikacji określają sposób postępowania z materiałami po ich zakwalifikowaniu do kategorii A, B, C albo D.

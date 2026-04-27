@@ -1,7 +1,9 @@
 ---
 title: Model dla dużych podmiotów
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG 2.2, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
+ostatnia_aktualizacja: 27 kwietnia 2026 r.
 ---
-
 ## Cel modelu
 
 W dużych podmiotach proces publikacji treści pochodzących od innych podmiotów wymaga organizacji bardziej sformalizowanej niż w jednostkach małych. Wynika to z liczby wpływających materiałów, udziału wielu komórek organizacyjnych, rozdzielenia ról pomiędzy osoby przygotowujące, przyjmujące i publikujące treści oraz z konieczności zachowania jednolitości postępowania w całej organizacji.

@@ -1,7 +1,9 @@
 ---
 title: Wzór oznaczenia treści objętej wyłączeniem
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG 2.2, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
+ostatnia_aktualizacja: 27 kwietnia 2026 r.
 ---
-
 Dokument określa sposób oznaczania treści opublikowanych z zastosowaniem wyłączeń przewidzianych w przepisach o dostępności cyfrowej.
 
 Oznaczenie jest obowiązkowe w przypadku materiałów zakwalifikowanych do kategorii C.

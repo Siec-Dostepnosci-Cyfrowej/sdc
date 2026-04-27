@@ -1,61 +1,53 @@
 ---
-title: Zalecenie 6: Standard publikowania treści pochodzących od innych podmiotów
+title: Zalecenie 6: Zalecenie w sprawie zasad publikowania treści pochodzących od innych podmiotów
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG 2.2, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
+ostatnia_aktualizacja: 27 kwietnia 2026 r.
 ---
-
 ## Zalecenie
 
-Każda treść pochodząca od innych podmiotów przed publikacją musi zostać zakwalifikowana do jednej z kategorii dostępności (A, B, C, D), a sposób jej publikacji musi wynikać bezpośrednio z tej kwalifikacji. Kwalifikacja stanowi decyzję operacyjną i musi być możliwa do uzasadnienia oraz odtworzenia.
-
-Publikacja bez przeprowadzenia kwalifikacji oraz weryfikacji spełnienia wymagań dostępności nie jest dopuszczalna.
+Podmioty publiczne ustanawiają i stosują zasady kwalifikacji, weryfikacji oraz publikowania treści pochodzących od innych podmiotów, które zapewniają ocenę obowiązku publikacji, możliwości dostosowania materiału, podstaw zastosowania wyłączeń, sposobu zapewnienia dostępności oraz udokumentowanie decyzji publikacyjnej.
 
 ## Rekomendacje
 
-Zaleca się stosowanie jednolitego modelu postępowania obejmującego klasyfikację treści, zasady publikacji, procedurę obsługi braków oraz przypisanie odpowiedzialności za poszczególne etapy procesu.
-
-Rekomenduje się w szczególności:
-- stosowanie klasyfikacji treści w podziale na kategorie A, B, C i D jako podstawy każdej decyzji publikacyjnej,
-- stosowanie zasady „najpierw dostępne”, zgodnie z którą publikacja następuje wyłącznie po spełnieniu wymagań dostępności lub zastosowaniu rozwiązań wynikających z przepisów prawa,
-- przeprowadzanie weryfikacji materiału przed publikacją z wykorzystaniem list kontrolnych,
-- stosowanie procedury obsługi braków w przypadku stwierdzenia niezgodności,
-- zapewnienie obsługi żądań dostępności jako elementu procesu, obejmującego zarówno usuwanie barier, jak i zapewnienie dostępu alternatywnego,
-- dokumentowanie decyzji w przypadkach odmowy publikacji, zastosowania wyłączenia lub publikacji treści obowiązkowej,
-- zapewnienie spójnego działania pomiędzy podmiotem przekazującym materiał, redaktorem oraz koordynatorem dostępności.
-
-W podmiotach o rozbudowanej strukturze organizacyjnej rekomenduje się wdrożenie modelu wieloetapowego, obejmującego rozdzielenie ról i etapów weryfikacji. W podmiotach mniejszych dopuszcza się stosowanie modelu uproszczonego, przy zachowaniu tej samej logiki kwalifikacji i podejmowania decyzji.
-
-Ryzykiem związanym z brakiem wdrożenia zalecenia jest publikacja treści niespełniających wymagań dostępności, naruszenie przepisów prawa oraz brak możliwości wykazania zasadności podjętych decyzji. Zastosowanie jednolitego modelu pozwala ograniczyć te ryzyka oraz zapewnić spójność działania.
+1. Ustanowienie zasad przyjmowania materiałów od innych podmiotów.
+2. Weryfikacja kompletności materiału przed publikacją.
+3. Rozdzielenie parametrów decyzji: pochodzenie materiału, możliwość modyfikacji, obowiązek publikacji, przesłanki wyłączenia oraz wynik oceny dostępności.
+4. Weryfikacja dostępności przed publikacją.
+5. Postępowanie z brakami dostępności.
+6. Ostrożne stosowanie wyłączeń ustawowych bez domniemania wyłączenia.
+7. Postępowanie z materiałami objętymi obowiązkiem publikacji.
+8. Zapewnienie dostępnego sposobu przekazania informacji także wtedy, gdy materiał źródłowy nie może zostać zmodyfikowany.
+9. Przypisanie odpowiedzialności redaktorom, koordynatorowi dostępności, właścicielom merytorycznym i kierownictwu.
+10. Dokumentowanie decyzji publikacyjnych.
+11. Obsługa żądań zapewnienia dostępności.
+12. Okresowy przegląd działania przyjętych zasad.
 
 ## Uzasadnienie
 
-Treści pochodzące od innych podmiotów stanowią istotny element komunikacji publicznej, jednak często nie spełniają wymagań dostępności cyfrowej. Brak jednoznacznych zasad postępowania prowadzi do publikacji materiałów bez weryfikacji lub z pominięciem obowiązujących przepisów.
+Publikowanie materiałów pochodzących od innych podmiotów wymaga połączenia dwóch perspektyw: obowiązków informacyjnych podmiotu publicznego oraz zapewnienia dostępności informacji dla użytkowników. W praktyce materiały zewnętrzne różnią się pod względem formatu, możliwości edycji i podstaw publikacji. Spójne zasady postępowania ograniczają uznaniowość, porządkują decyzje i wspierają wykazanie, że działania podmiotu były oparte na przejrzystych kryteriach.
 
-Wprowadzenie jednolitego modelu kwalifikacji i publikacji treści pozwala na eliminację uznaniowości, uporządkowanie procesu publikacji oraz zapewnienie zgodności działań z wymaganiami dostępności i przepisami prawa.
-
-Zastosowanie zalecenia powoduje, że dostępność staje się warunkiem publikacji, a nie działaniem wykonywanym po fakcie.
+Model operacyjny A/B/C/D ma charakter pomocniczy i służy porządkowaniu ścieżek postępowania. Nie zastępuje indywidualnej oceny konkretnego materiału ani decyzji organizacji podejmowanej z uwzględnieniem obowiązku publikacji, dostępności i przesłanek wyłączeń.
 
 ## Podstawy prawne
 
-Zalecenie opiera się na następujących aktach prawnych:
+W zaleceniu uwzględniono poniżej wymienione przepisy:
 
-- ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych,
-- ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami,
-- ustawa z dnia 6 września 2001 r. o dostępie do informacji publicznej,
-- rozporządzenie Ministra Spraw Wewnętrznych i Administracji w sprawie Biuletynu Informacji Publicznej.
+1. Ustawę z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
+2. Ustawę z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami.
+3. Ustawę z dnia 6 września 2001 r. o dostępie do informacji publicznej.
+4. Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 18 stycznia 2007 r. w sprawie Biuletynu Informacji Publicznej.
 
 ## Źródła i opracowania
 
-- wytyczne dotyczące dostępności treści internetowych (WCAG 2.2),
-- norma EN 301 549 dotycząca wymagań dostępności dla technologii informacyjno-komunikacyjnych,
-- Europejski Akt o Dostępności (EAA),
-- materiały i rekomendacje dotyczące dostępności cyfrowej publikowane przez administrację publiczną,
-- opracowania dotyczące wdrażania dostępności cyfrowej w organizacjach publicznych,
-- praktyki i doświadczenia wdrożeniowe w jednostkach administracji publicznej.
+1. W3C Web Accessibility Initiative, *Web Content Accessibility Guidelines (WCAG) 2.2*, https://www.w3.org/TR/WCAG22/.
+2. ETSI, *EN 301 549 Accessibility requirements for ICT products and services* (aktualna wersja normy).
+3. Dyrektywa Parlamentu Europejskiego i Rady (UE) 2016/2102 z dnia 26 października 2016 r.
+4. Dyrektywa Parlamentu Europejskiego i Rady (UE) 2019/882 z dnia 17 kwietnia 2019 r. (European Accessibility Act).
 
 ## Historia wersji
 
 | Wersja | Data | Opis zmian |
 |--------|------|-----------|
-| 0.1 | [data] | opracowanie wstępnej wersji |
-| 0.2 | [data] | rozbudowa modelu operacyjnego i klasyfikacji treści |
-| 0.3 | [data] | dostosowanie do struktury dokumentów Sieci |
-| 1.0 | [data] | publikacja wersji docelowej |
+| 0.9 | 27 kwietnia 2026 r. | Przebudowa dokumentu do formuły zalecenia i rozdzielenie treści głównej od materiałów wdrożeniowych. |
+| 1.0 | 27 kwietnia 2026 r. | Uporządkowanie rekomendacji, podstaw prawnych i źródeł oraz doprecyzowanie modelu pomocniczego. |

@@ -1,7 +1,9 @@
 ---
 title: Formularz przekazania materiału do publikacji
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG 2.2, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
+ostatnia_aktualizacja: 27 kwietnia 2026 r.
 ---
-
 Formularz służy do przekazania materiału do publikacji wraz z kompletem informacji niezbędnych do jego oceny, kwalifikacji oraz publikacji.
 
 Wypełnienie formularza jest warunkiem przyjęcia materiału do dalszego procedowania.

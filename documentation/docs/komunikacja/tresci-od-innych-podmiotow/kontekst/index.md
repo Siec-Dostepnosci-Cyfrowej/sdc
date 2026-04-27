@@ -1,7 +1,9 @@
 ---
 title: Kontekst
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG 2.2, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
+ostatnia_aktualizacja: 27 kwietnia 2026 r.
 ---
-
 Sekcja przedstawia kontekst wdrożenia zalecenia, w tym problemy występujące w praktyce, ich przyczyny oraz skutki dla funkcjonowania organizacji.
 
 Opisane zagadnienia stanowią podstawę do wprowadzenia jednolitego modelu postępowania w zakresie publikowania treści pochodzących od innych podmiotów.

@@ -1,7 +1,9 @@
 ---
 title: Problem i kontekst
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG 2.2, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
+ostatnia_aktualizacja: 27 kwietnia 2026 r.
 ---
-
 ## Problem
 
 W praktyce działania podmiotów publicznych decyzje dotyczące publikacji treści pochodzących od innych podmiotów podejmowane są bez jednoznacznych kryteriów oraz bez oparcia w ujednoliconych procedurach.

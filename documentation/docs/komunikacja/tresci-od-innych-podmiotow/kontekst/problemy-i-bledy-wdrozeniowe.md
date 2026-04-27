@@ -1,7 +1,9 @@
 ---
 title: Problemy i błędy wdrożeniowe
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG 2.2, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
+ostatnia_aktualizacja: 27 kwietnia 2026 r.
 ---
-
 ## Problemy i błędy wdrożeniowe
 
 W praktyce publikowania treści pochodzących od innych podmiotów występują powtarzalne problemy, które wynikają z braku jednolitych zasad postępowania oraz braku modelu decyzyjnego.

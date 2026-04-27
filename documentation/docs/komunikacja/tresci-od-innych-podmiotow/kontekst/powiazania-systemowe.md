@@ -1,7 +1,9 @@
 ---
 title: Powiązania systemowe
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG 2.2, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
+ostatnia_aktualizacja: 27 kwietnia 2026 r.
 ---
-
 ## Powiązania systemowe
 
 Zalecenie wprowadza model postępowania z treściami pochodzącymi od innych podmiotów, który ma charakter systemowy i oddziałuje na kluczowe obszary funkcjonowania organizacji.

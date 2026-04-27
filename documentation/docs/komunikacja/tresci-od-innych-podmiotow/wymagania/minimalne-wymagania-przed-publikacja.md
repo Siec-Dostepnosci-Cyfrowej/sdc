@@ -1,7 +1,9 @@
 ---
 title: Minimalne wymagania przed publikacją
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG 2.2, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
+ostatnia_aktualizacja: 27 kwietnia 2026 r.
 ---
-
 ## Cel
 
 Minimalne wymagania przed publikacją określają warunki, które musi spełniać materiał, aby mógł zostać udostępniony.
