@@ -1,7 +1,9 @@
 ---
 title: Model dla małych podmiotów
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG 2.2, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
+ostatnia_aktualizacja: 27 kwietnia 2026 r.
 ---
-
 ## Cel modelu
 
 W małych podmiotach nie jest zasadne wdrażanie rozbudowanego modelu opartego na formularzach, wieloetapowym obiegu czy rozbudowanej dokumentacji. Ograniczona liczba pracowników oraz bezpośredni charakter pracy pozwalają na zastosowanie modelu uproszczonego, który zachowuje wszystkie kluczowe zasady, ale realizuje je w sposób bardziej bezpośredni i operacyjny.

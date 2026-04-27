@@ -1,7 +1,9 @@
 ---
 title: Wzór informacji o brakach w materiale przekazanym do publikacji
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG 2.2, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
+ostatnia_aktualizacja: 27 kwietnia 2026 r.
 ---
-
 Dokument służy do poinformowania podmiotu przekazującego o brakach w materiale, które uniemożliwiają jego publikację.
 
 Stosowany w sytuacji, gdy materiał może zostać uzupełniony lub poprawiony.

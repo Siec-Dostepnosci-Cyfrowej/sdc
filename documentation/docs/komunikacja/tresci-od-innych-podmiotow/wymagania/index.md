@@ -1,7 +1,9 @@
 ---
 title: Wymagania
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG 2.2, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
+ostatnia_aktualizacja: 27 kwietnia 2026 r.
 ---
-
 Sekcja określa wymagania, które muszą zostać spełnione w procesie publikowania treści pochodzących od innych podmiotów.
 
 Stanowi bezpośrednie przełożenie przepisów prawa na warunki dopuszczenia materiału do publikacji oraz sposób jego przygotowania.
@@ -47,7 +49,7 @@ Brak spełnienia wymagań skutkuje:
 - [Minimalne wymagania przed publikacją](./minimalne-wymagania-przed-publikacja)  
   Warunki, które musi spełniać materiał, aby mógł zostać opublikowany.
 
-- [Uzasadnienie stosowania wymagań](../kontekst/uzasadnienie-stosowania-wymagan)  
+- [Uzasadnienie stosowania wymagań](./uzasadnienie-stosowania-wymagan)  
   Wyjaśnienie znaczenia dostępności jako warunku publikacji.
 
 ---

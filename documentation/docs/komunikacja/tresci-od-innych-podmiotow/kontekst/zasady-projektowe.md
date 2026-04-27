@@ -1,7 +1,9 @@
 ---
 title: Zasady projektowe
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG 2.2, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
+ostatnia_aktualizacja: 27 kwietnia 2026 r.
 ---
-
 ## Zasady projektowe
 
 Zalecenie opiera się na zestawie zasad, które określają sposób podejmowania decyzji oraz organizacji procesu publikacji treści pochodzących od innych podmiotów.

@@ -1,105 +1,33 @@
 ---
 title: Schemat kwalifikacji treści (A/B/C/D)
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG 2.2, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
+ostatnia_aktualizacja: 27 kwietnia 2026 r.
 ---
+Ten materiał ma charakter wdrożeniowy i wspiera stosowanie zalecenia.
 
-Załącznik stanowi narzędzie operacyjne służące do kwalifikacji materiału przed publikacją.
+Nie zastępuje oceny prawnej ani indywidualnej decyzji organizacji.
 
-Wypełnienie schematu jest obowiązkowe dla każdego materiału przekazanego do publikacji.
+Model A/B/C/D jest pomocniczym modelem operacyjnym, który porządkuje możliwe ścieżki postępowania. Nie zastępuje indywidualnej oceny obowiązku publikacji, możliwości dostosowania materiału, przesłanek wyłączenia oraz obowiązku zapewnienia dostępu do informacji.
 
----
+## Kwalifikacja materiału – schemat decyzyjny
 
-## 1. Dane identyfikacyjne
+1. **Pochodzenie materiału**: Czy materiał został wytworzony przez podmiot publikujący?
+2. **Możliwość modyfikacji**: Czy podmiot publikujący może zmienić materiał?
+3. **Obowiązek publikacji**: Czy publikacja wynika z obowiązku prawnego?
+4. **Ocena dostępności**: Czy materiał spełnia wymagania dostępności?
+5. **Dostosowanie**: Czy możliwe jest dostosowanie materiału?
+6. **Informacja alternatywna**: Czy możliwe jest zapewnienie informacji w innej dostępnej formie bez naruszenia integralności materiału?
+7. **Wyłączenie**: Czy istnieje podstawa zastosowania wyłączenia?
 
-- Tytuł materiału: .............................................................................  
-- Data kwalifikacji: .............................................................................  
-- Osoba dokonująca kwalifikacji: ......................................................  
+## Możliwe rozstrzygnięcia
 
----
+- publikacja po dostosowaniu,
+- publikacja z dostępnym uzupełnieniem,
+- publikacja obowiązkowa z działaniami uzupełniającymi,
+- odmowa publikacji z uzasadnieniem,
+- przekazanie do ponownej kwalifikacji.
 
-## 2. Kwalifikacja materiału – schemat decyzyjny
+## Uwaga redakcyjna
 
-### Krok 1 – pochodzenie materiału
-
-Czy materiał został wytworzony przez podmiot publikujący:
-
-- ☐ tak → przejdź do wyniku: **Kategoria A**  
-- ☐ nie → przejdź do kroku 2  
-
----
-
-### Krok 2 – możliwość modyfikacji
-
-Czy możliwa jest modyfikacja materiału (posiadane pliki źródłowe lub możliwość edycji):
-
-- ☐ tak → przejdź do wyniku: **Kategoria B**  
-- ☐ częściowo → przejdź do wyniku: **Kategoria B**  
-- ☐ nie → przejdź do kroku 3  
-
----
-
-### Krok 3 – obowiązek publikacji
-
-Czy publikacja materiału wynika z obowiązku prawnego:
-
-- ☐ tak → przejdź do kroku 4  
-- ☐ nie → wynik: **ODMOŻA PUBLIKACJI**  
-
----
-
-### Krok 4 – przesłanki wyłączenia
-
-Czy materiał spełnia przesłanki wyłączenia przewidziane w przepisach:
-
-- ☐ tak → wynik: **Kategoria C**  
-- ☐ nie → wynik: **Kategoria D**  
-
----
-
-## 3. Wynik kwalifikacji
-
-- ☐ Kategoria A – materiał własny, pełne wymagania dostępności  
-- ☐ Kategoria B – materiał zewnętrzny możliwy do dostosowania  
-- ☐ Kategoria C – materiał objęty wyłączeniem ustawowym  
-- ☐ Kategoria D – materiał podlegający obowiązkowej publikacji  
-- ☐ Odmowa publikacji  
-
----
-
-## 4. Uzasadnienie decyzji
-
-(opis przyczyn przypisania kategorii lub odmowy publikacji)
-
-.................................................................................................  
-.................................................................................................  
-.................................................................................................  
-
----
-
-## 5. Decyzja dalszego postępowania
-
-- ☐ publikacja bez zmian  
-- ☐ publikacja po dostosowaniu  
-- ☐ publikacja z oznaczeniem ograniczeń dostępności  
-- ☐ publikacja wraz z zapewnieniem alternatywnego dostępu  
-- ☐ odmowa publikacji  
-
----
-
-## 6. Konsultacja (jeżeli dotyczy)
-
-Czy decyzja była konsultowana z koordynatorem dostępności:
-
-- ☐ tak  
-- ☐ nie  
-
-Jeżeli tak, wskazać osobę: .............................................................................  
-
----
-
-## 7. Podpis / identyfikacja osoby dokonującej kwalifikacji
-
-Imię i nazwisko: .............................................................  
-
-Stanowisko: ....................................................................  
-
-Data: ............................................................................  
+W przypadku braku obowiązku publikacji i braku możliwości modyfikacji materiału decyzja nie jest automatyczna. Przed odmową ocenia się możliwość przekazania informacji w innej dostępnej formie.

@@ -1,7 +1,9 @@
 ---
 title: Wzór decyzji o odmowie publikacji
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG 2.2, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
+ostatnia_aktualizacja: 27 kwietnia 2026 r.
 ---
-
 Dokument stanowi wzór formalnej decyzji o odmowie publikacji materiału przekazanego do publikacji.
 
 Stosowany w przypadku braku podstaw do publikacji lub braku możliwości zapewnienia zgodności z wymaganiami dostępności oraz przepisami prawa.
@@ -21,7 +23,7 @@ Stosowany w przypadku braku podstaw do publikacji lub braku możliwości zapewni
 
 Na podstawie przeprowadzonej weryfikacji oraz kwalifikacji materiału odmawia się publikacji przedmiotowego materiału.
 
-Decyzja została podjęta w związku z brakiem możliwości zapewnienia zgodności materiału z wymaganiami dostępności cyfrowej określonymi w przepisach prawa, w szczególności ustawą z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych oraz wytycznymi WCAG 2.1 na poziomie AA.
+Decyzja została podjęta w związku z brakiem możliwości zapewnienia zgodności materiału z wymaganiami dostępności cyfrowej określonymi w przepisach prawa, w szczególności ustawą z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych oraz wytycznymi WCAG 2.2 na poziomie AA.
 
 Publikacja materiału niespełniającego minimalnych wymagań dostępności, w sytuacji braku obowiązku jego publikacji oraz braku możliwości zastosowania wyłączeń przewidzianych w przepisach, nie jest dopuszczalna.
 

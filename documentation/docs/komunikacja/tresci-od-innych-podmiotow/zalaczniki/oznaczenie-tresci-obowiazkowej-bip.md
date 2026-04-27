@@ -1,7 +1,9 @@
 ---
 title: Wzór oznaczenia treści obowiązkowej (Biuletyn Informacji Publicznej)
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG 2.2, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
+ostatnia_aktualizacja: 27 kwietnia 2026 r.
 ---
-
 Dokument określa sposób oznaczania treści publikowanych w Biuletynie Informacji Publicznej w przypadku materiałów, które podlegają obowiązkowi publikacji, a jednocześnie nie spełniają w pełni wymagań dostępności cyfrowej.
 
 Oznaczenie stosuje się w szczególności dla materiałów zakwalifikowanych do kategorii D.
