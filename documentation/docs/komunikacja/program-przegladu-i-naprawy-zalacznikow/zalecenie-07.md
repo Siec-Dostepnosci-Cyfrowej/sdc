@@ -37,7 +37,7 @@ Podmiot publiczny wdraża program systemowego przeglądu, oceny i zarządzania d
 
 4. Program obejmuje wszystkie publicznie udostępnione dokumenty pozostające w obiegu informacyjnym podmiotu, w szczególności dokumenty w serwisach internetowych, Biuletynie Informacji Publicznej, załącznikach do komunikatów, ogłoszeń i publikowanych informacji oraz innych środowiskach służących publicznemu udostępnianiu dokumentów.
 
-5. Program przeglądu i zarządzania dokumentami stanowi element zarządzania zasobami cyfrowymi w Wymiarze: Cykl życia TIK. Jego realizacja jest oparta na rejestrze zasobów cyfrowych prowadzonym w podmiocie, zgodnie z zaleceniem [Inwentaryzacja zasobów cyfrowych](../../../rejestr-zasobow-cyfrowych.md).
+5. Program przeglądu i zarządzania dokumentami stanowi element zarządzania zasobami cyfrowymi w Wymiarze: Cykl życia TIK. Jego realizacja jest oparta na rejestrze zasobów cyfrowych prowadzonym w podmiocie, zgodnie z zaleceniem [Inwentaryzacja zasobów cyfrowych](../../cykltik/inwentaryzacja/rejestr-zasobow-cyfrowych).
 
 6. Model działania obejmuje identyfikację zasobu, ocenę niezbędności, klasyfikację, priorytetyzację, decyzję o dalszym postępowaniu, realizację działań, zarządzanie zasobem, raportowanie i kontrolę. Identyfikacja zasobu dokumentów jest realizowana na podstawie rejestru zasobów cyfrowych, obejmującego wszystkie dokumenty pozostające w publicznym obiegu, w tym dokumenty publikowane w serwisach internetowych, BIP oraz innych systemach komunikacji publicznej. Pełny opis tego modelu znajduje się w dokumencie [Model działania](./model-dzialania.md).
 
@@ -90,7 +90,7 @@ W stosowaniu zalecenia należy korzystać z następujących dokumentów pomocnic
 
 - [Podstawy zalecenia](./podstawy-zalecenia.md), które opisują podstawę prawną, definicję operacyjną niezbędności, zakres stosowania oraz problemy regulacyjne;
 - [Model działania](./model-dzialania.md), który opisuje pełną logikę procesu, kategorie dokumentów, priorytetyzację, inwentaryzację, harmonogram, zarządzanie zasobem, raportowanie i kontrolę;
-- [Inwentaryzacja zasobów cyfrowych](../../../rejestr-zasobow-cyfrowych.md), która określa nadrzędną warstwę ewidencyjną dla zasobów cyfrowych w Wymiarze: Cykl życia TIK;
+- [Inwentaryzacja zasobów cyfrowych](../../cykltik/inwentaryzacja/rejestr-zasobow-cyfrowych), która określa nadrzędną warstwę ewidencyjną dla zasobów cyfrowych w Wymiarze: Cykl życia TIK;
 - [Mapa odpowiedzialności](./mapa-odpowiedzialnosci.md), która określa role, zakresy odpowiedzialności i przepływ decyzji;
 - [Procedura dla dużych podmiotów](./procedura-duze-podmioty.md), która opisuje wdrożenie programu w podmiotach o rozbudowanej strukturze;
 - [Procedura dla małych podmiotów](./procedura-male-podmioty.md), która opisuje uproszczone wdrożenie programu przy zachowaniu tej samej logiki oceny i decyzji;
