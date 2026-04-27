@@ -4,78 +4,24 @@ title: Lista kontrolna publikacji treści z obrazkiem
 description: Lista kontrolna weryfikacji dostępności treści zawierających grafiki.
 sidebar_label: Lista kontrolna - obrazki
 sidebar_position: 21
-keywords: [słowo kluczowe, inne słowo]
-tags: [słowo kluczowe, inne słowo]
+keywords: [dostępność cyfrowa, grafiki, lista kontrolna, opis alternatywny, kontrast]
+tags: [grafiki, checklista, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
-wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
+wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 23 kwietnia 2026 r.
+ostatnia_aktualizacja: 23 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
+Punkty obowiązkowe muszą być spełnione przed publikacją albo objęte procedurą postępowania w sytuacjach wyjątkowych. Punkty warunkowe stosuje się wtedy, gdy dany typ treści, funkcja lub element występuje w materiale. Punkty zalecane wspierają jakość komunikacji i powinny być stosowane, ale same nie muszą blokować publikacji. Odpowiedź „NIE DOTYCZY” wymaga krótkiego uzasadnienia w kolumnie „Dowód/uwaga”.
 
+| Punkt kontrolny | Status | Odpowiedź | Dowód/uwaga |
+|---|---|---|---|
+| Czy najważniejsza informacja jest dostępna w treści posta, a nie wyłącznie na grafice? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
+| Czy grafika informacyjna posiada opis alternatywny? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
+| Czy informacje z grafiki mają równoważną treść tekstową poza obrazem? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
+| Czy treść nie przekazuje informacji wyłącznie kolorem? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
+| Czy link ma zrozumiałą treść albo jest poprzedzony opisem celu? | warunkowe | TAK / NIE / NIE DOTYCZY | |
+| Czy grafika jest czytelna na urządzeniu mobilnym? | zalecane | TAK / NIE / NIE DOTYCZY | |
 
-
-Każdy z poniższych punktów wymaga odpowiedzi „TAK”.  
-Jeżeli na którekolwiek pytanie odpowiedź brzmi „NIE”, materiał co do zasady nie może zostać opublikowany i wymaga poprawy albo zastosowania procedury postępowania w sytuacjach wyjątkowych.
-
-Lista kontrolna stanowi narzędzie weryfikacji spełnienia wymagań obowiązkowych oraz wsparcie w stosowaniu standardów.
-
-Kolejność listy kontrolnej odpowiada procesowi przygotowania treści - od komunikatu, przez grafikę, aż po publikację.
-
-## Sens i kompletność komunikatu
-
-- [ ] czy najważniejsza informacja znajduje się na początku treści?
-- [ ] czy komunikat jest jednoznaczny i nie wymaga domyślania się kontekstu?
-- [ ] czy odbiorca jest w stanie zrozumieć główny przekaz w krótkim czasie?
-- [ ] czy komunikat koncentruje się na jednym głównym celu?
-- [ ] czy wszystkie kluczowe informacje (np. co, gdzie, kiedy) znajdują się w treści posta, a nie tylko na grafice?
-
-## Struktura i język
-
-- [ ] czy treść jest logicznie uporządkowana?
-- [ ] czy zachowana jest czytelna hierarchia informacji?
-- [ ] czy tekst jest podzielony w sposób ułatwiający czytanie?
-- [ ] czy język jest prosty, zrozumiały i jednoznaczny?
-- [ ] czy uniknięto skrótów i żargonu lub zostały one wyjaśnione?
-
-## Grafika jako nośnik informacji
-
-- [ ] czy wszystkie informacje z grafiki są dostępne również w tekście posta?
-- [ ] czy grafika nie jest jedynym źródłem kluczowych informacji?
-- [ ] czy grafika wspiera przekaz, a nie go zastępuje?
-
-## Opis alternatywny (alt-text)
-
-- [ ] czy każda grafika posiada opis alternatywny?
-- [ ] czy alt-text przekazuje znaczenie grafiki (a nie tylko jej wygląd)?
-- [ ] czy alt-text zawiera kluczowe informacje przedstawione na grafice?
-- [ ] czy alt-text jest zrozumiały bez obrazu?
-
-## Czytelność wizualna
-
-- [ ] czy grafika ma odpowiedni kontrast między tekstem a tłem?
-- [ ] czy tekst na grafice jest czytelny (odpowiednia wielkość, krój bezszeryfowy)?
-- [ ] czy tekst nie jest zbyt mały lub zbyt gęsto rozmieszczony?
-- [ ] czy informacje nie są przekazywane wyłącznie kolorem?
-- [ ] czy elementy graficzne są wyraźne i rozróżnialne?
-- [ ] czy grafika pozostaje czytelna również na urządzeniach mobilnych?
-
-## Spójność i prostota przekazu
-
-- [ ] czy uniknięto nadmiaru informacji w jednym komunikacie?
-- [ ] czy grafika i treść przekazują ten sam komunikat?
-- [ ] czy nie ma sprzecznych informacji między tekstem a grafiką?
-
-## Linki i elementy interaktywne
-
-- [ ] czy linki są opisowe i jasno wskazują, dokąd prowadzą?
-- [ ] czy uniknięto ogólnych sformułowań (np. „kliknij tutaj”)?
-- [ ] czy cel linku jest zrozumiały bez czytania całej treści?
-- [ ] czy linki są wyraźnie wyróżnione kolorem i podkreśleniem?
-
-## Ruch i bezpieczeństwo
-
-- [ ] czy materiał nie zawiera migających elementów?
-- [ ] czy animacje (jeśli występują) nie są zbyt szybkie lub rozpraszające?
-- [ ] czy treść nie zawiera automatycznie odtwarzających się elementów?
+Powiązana procedura: [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md).

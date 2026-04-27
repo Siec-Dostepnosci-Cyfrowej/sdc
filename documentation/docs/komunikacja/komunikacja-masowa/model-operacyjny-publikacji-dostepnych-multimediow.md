@@ -1,232 +1,87 @@
 ---
 id: model-operacyjny-publikacji-dostepnych-multimediow
 title: Model operacyjny publikacji dostępnych multimediów
-description: Model operacyjny opisujący proces przygotowania i publikacji dostępnych materiałów multimedialnych. 
+description: Model operacyjny opisujący proces przygotowania i publikacji dostępnych materiałów multimedialnych.
 sidebar_label: Model operacyjny
 sidebar_position: 10
-keywords: [słowo kluczowe, inne słowo]
-tags: [słowo kluczowe, inne słowo]
+keywords: [dostępność cyfrowa, model operacyjny, publikacja, multimedia, proces]
+tags: [model operacyjny, komunikacja, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
-wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
+wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 23 kwietnia 2026 r.
+ostatnia_aktualizacja: 23 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
-
-
-
 ## Cel
 
-Model określa sposób organizacji procesu przygotowania i publikacji materiałów multimedialnych w sposób zapewniający ich dostępność.
-
-Dostępność stanowi integralny element procesu tworzenia treści.
-
-Materiał niespełniający wymagań dostępności co do zasady nie może zostać opublikowany.
+Model określa jednolity przebieg procesu przygotowania, weryfikacji i publikacji materiałów dostępnych.
 
 ## Zakres
 
-Model obejmuje:
-- materiały wideo,
-- materiały audio,
-- grafiki i materiały wizualne,
-- treści publikowane w serwisach internetowych,
-- treści publikowane w mediach społecznościowych.
+Model obejmuje publikację materiałów w:
+- CMS,
+- BIP,
+- serwisie internetowym,
+- mediach społecznościowych,
+- platformie zewnętrznej.
 
-Obejmuje cały cykl życia materiału:
-- planowanie,
-- przygotowanie,
-- opracowanie elementów dostępności,
-- weryfikację,
-- publikację,
-- monitorowanie.
+Obejmuje materiały wideo, audio, grafiki i treści tekstowe.
 
-Treści powinny być przygotowywane bezpośrednio w systemach CMS stosowanych w podmiocie publicznym.
+## Materiały zewnętrzne
 
-Kopiowanie treści z zewnętrznych edytorów bez weryfikacji jest niedopuszczalne, ponieważ może prowadzić do utraty struktury i błędów dostępności.
+Model stosuje się również do materiałów zewnętrznych, w tym:
+- materiału od wykonawcy,
+- materiału od partnera,
+- nagrania transmisji,
+- materiału osadzanego z platformy zewnętrznej.
 
-## Zasada ogólna
-
-Dostępność jest uwzględniana na etapie tworzenia materiału.
-
-Nie jest działaniem uzupełniającym po publikacji.
-
-Warunkiem publikacji materiału jest spełnienie wszystkich wymagań dostępności albo zastosowanie przyjętej w podmiocie procedury postępowania w sytuacjach wyjątkowych.
-
-## Warunek rozpoczęcia i zakończenia procesu
-
-Proces może zostać rozpoczęty, jeżeli:
-- określono cel komunikatu,
-- zdefiniowano odbiorców,
-- zaplanowano strukturę przekazu.
-
-Proces uznaje się za zakończony, jeżeli:
-- materiał został opublikowany,
-- wszystkie elementy dostępności działają poprawnie,
-- przeprowadzono kontrolę powdrożeniową.
+Wymagania dostępności dla materiałów zewnętrznych należy określać już na etapie:
+- zamówienia,
+- zlecenia,
+- briefu,
+- umowy,
+- odbioru materiału.
 
 ## Role i odpowiedzialność
 
-### Autor
+- **Autor/redaktor:** przygotowanie treści i struktury komunikatu.
+- **Osoba opracowująca dostępność:** napisy, transkrypcje, opisy alternatywne, treści równoważne.
+- **Osoba weryfikująca:** kontrola wymagań przed publikacją.
+- **Osoba publikująca:** publikacja techniczna i kontrola po publikacji.
+- **Nadzór procesowy:** monitoring błędów i doskonalenie procesu.
 
-Odpowiada za:
-- przygotowanie koncepcji,
-- strukturę komunikatu,
-- kompletność przekazu,
-- uwzględnienie dostępności na etapie tworzenia.
+## Schemat procesu
 
-### Redaktor
+```mermaid
+flowchart TD
+    A[Planowanie komunikatu] --> B[Przygotowanie treści lub materiału]
+    B --> C[Opracowanie elementów dostępności]
+    C --> D[Weryfikacja przed publikacją]
+    D --> E{Czy wymagania są spełnione?}
+    E -- Tak --> F[Publikacja]
+    E -- Nie --> G{Czy zachodzi sytuacja wyjątkowa?}
+    G -- Nie --> H[Poprawa materiału]
+    H --> D
+    G -- Tak --> I[Decyzja osoby odpowiedzialnej]
+    I --> J[Udokumentowanie odstępstwa]
+    J --> K[Publikacja warunkowa]
+    K --> L[Uzupełnienie braków w terminie]
+    L --> M[Kontrola po publikacji]
+    F --> M
+    M --> N[Monitoring zgłoszeń i błędów]
+    N --> O[Działania korygujące i doskonalenie procesu]
+```
 
-Odpowiada za:
-- czytelność i zrozumiałość treści,
-- prosty język,
-- hierarchię informacji,
-- poprawną strukturę.
+## Zasady decyzyjne
 
-### Osoba odpowiedzialna za dostępność
+Materiał publikuje się po pozytywnej weryfikacji.
 
-Odpowiada za:
-- napisy,
-- transkrypcje,
-- opisy alternatywne,
-- równoważność informacji.
+Jeżeli wymagania nie są spełnione, materiał wraca do poprawy albo przechodzi ścieżkę procedury wyjątkowej zgodnie z [Procedurą postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md).
 
-### Osoba weryfikująca
+## Powiązane dokumenty
 
-Odpowiada za ocenę materiału przed publikacją.
-
-Weryfikacja ma charakter zero-jedynkowy na potrzeby oceny spełnienia wymagań.
-
-Brak spełnienia któregokolwiek wymagania co do zasady uniemożliwia publikację.
-
-W sytuacjach wyjątkowych decyzja o dalszym postępowaniu wymaga zastosowania odrębnej procedury, wskazania osoby odpowiedzialnej, udokumentowania uzasadnienia oraz określenia terminu uzupełnienia brakujących elementów dostępności.
-
-### Osoba publikująca
-
-Odpowiada za:
-- poprawne opublikowanie materiału,
-- przypisanie elementów dostępności,
-- kontrolę techniczną po publikacji.
-
-### Koordynator dostępności
-
-Odpowiada za:
-- nadzór nad procesem,
-- analizę błędów,
-- działania korygujące,
-- aktualizację standardów.
-
-Koordynator dostępności lub wyznaczona osoba odpowiada za:
-- nadzór nad stosowaniem standardów,
-- identyfikację powtarzających się błędów,
-- inicjowanie działań doskonalących,
-- wspieranie osób zaangażowanych w proces publikacji.
-
-Osoba odpowiedzialna za nadzór nad dostępnością monitoruje stosowanie zasad, identyfikuje powtarzające się błędy oraz inicjuje działania doskonalące w procesie publikacji.
-
-## Etapy procesu
-
-### Planowanie
-
-Na etapie planowania:
-- określa się cel komunikatu,
-- definiuje odbiorców,
-- ustala zakres informacji,
-- projektuje strukturę przekazu.
-
-Należy zapewnić:
-- dostępność informacji w formie tekstowej,
-- zrozumiałość komunikatu bez dodatkowego kontekstu,
-- przekazanie najważniejszych informacji na początku.
-
-Na tym etapie określa się również:
-- potrzebę napisów, transkrypcji lub audiodeskrypcji,
-- zakres opisów alternatywnych,
-- sposób przedstawienia danych w formie tekstowej.
-
-### Przygotowanie
-
-Materiał przygotowuje się zgodnie z zaplanowaną strukturą.
-
-Należy zapewnić:
-- czytelność,
-- jednoznaczność,
-- logiczną kolejność informacji.
-
-Należy unikać:
-- przekazywania informacji wyłącznie kolorem,
-- nieczytelnych fontów,
-- zbyt małego tekstu,
-- elementów migających.
-
-Materiał powinien być przygotowany w sposób umożliwiający jego publikację w CMS bez utraty struktury.
-
-### Opracowanie elementów dostępności
-
-Elementy dostępności powstają równolegle z materiałem.
-
-Obejmuje to:
-- napisy,
-- transkrypcje,
-- opisy alternatywne.
-
-Wszystkie formy przekazu muszą być spójne i równoważne.
-
-### Weryfikacja
-
-Weryfikacja jest obowiązkowa.
-
-Ma charakter zero-jedynkowy na potrzeby oceny spełnienia wymagań.
-
-Sprawdza się:
-- kompletność komunikatu,
-- zrozumiałość,
-- obecność elementów dostępności,
-- czytelność,
-- spójność.
-
-Materiał niespełniający wymagań co do zasady nie może zostać opublikowany, chyba że zastosowano procedurę postępowania w sytuacjach wyjątkowych.
-
-## Weryfikacja z wykorzystaniem list kontrolnych
-
-Weryfikacja materiału odbywa się z wykorzystaniem odpowiednich list kontrolnych.
-
-Dobór listy kontrolnej zależy od formy materiału.
-
-Pozytywny wynik weryfikacji oznacza spełnienie wszystkich wymagań.
-
-Brak spełnienia któregokolwiek punktu co do zasady uniemożliwia publikację materiału, chyba że zastosowano procedurę postępowania w sytuacjach wyjątkowych.
-
-### Publikacja
-
-Publikacja odbywa się w systemie CMS.
-
-Warunkiem publikacji jest:
-- przypisanie elementów dostępności,
-- zachowanie struktury treści.
-
-Po publikacji przeprowadza się kontrolę działania materiału.
-
-### Monitorowanie
-
-Materiał podlega monitorowaniu po publikacji.
-
-Obejmuje to:
-- analizę zgłoszeń,
-- identyfikację błędów,
-- ocenę czytelności,
-- analizę powtarzających się problemów.
-
-W przypadku błędów należy wprowadzić poprawki.
-
-Wnioski z monitorowania służą doskonaleniu procesu.
-
-## Najczęstsze problemy w procesie
-
-Do najczęstszych problemów należą:
-- przygotowanie materiału bez uwzględnienia dostępności,
-- opracowywanie elementów dostępności po zakończeniu materiału,
-- brak spójności między tekstem, grafiką i wideo,
-- pomijanie etapu weryfikacji.
-
-Eliminacja tych problemów jest jednym z celów modelu operacyjnego.
+- [Minimalne wymagania dostępności](./minimalne-wymagania.md)
+- [Listy kontrolne publikacji](./listy-kontrolne-index.md)
+- [05. Standard tworzenia dostępnych materiałów audio](./05-standard-tworzenia-dostepnych-materialow-audio.md)
+- [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md)

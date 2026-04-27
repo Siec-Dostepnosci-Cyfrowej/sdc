@@ -4,12 +4,12 @@ title: Wymagania dostępności
 description: Minimalne wymagania dostępności, które muszą zostać spełnione przed publikacją materiałów. 
 sidebar_label: O wymaganiach
 sidebar_position: 1
-keywords: [słowo kluczowe, inne słowo]
-tags: [słowo kluczowe, inne słowo]
+keywords: [dostępność cyfrowa, multimedia, komunikacja, administracja publiczna]
+tags: [komunikacja, multimedia, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
 wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 23 kwietnia 2026 r.
+ostatnia_aktualizacja: 23 kwietnia 2026 r.
 wersja_robocza: true
 ---
 

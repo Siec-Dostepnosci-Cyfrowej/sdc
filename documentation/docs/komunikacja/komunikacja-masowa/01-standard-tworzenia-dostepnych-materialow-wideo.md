@@ -4,105 +4,56 @@ title: Standard tworzenia dostępnych materiałów wideo
 description: Standard określający sposób przygotowania dostępnych materiałów wideo zgodnie z wymaganiami dostępności.
 sidebar_label: Standard wideo
 sidebar_position: 5
-keywords: [komunikacja, wideo]
-tags: [komunikacja, wideo]
+keywords: [dostępność cyfrowa, wideo, napisy, audiodeskrypcja, multimedia]
+tags: [wideo, multimedia, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
-wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
+wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 23 kwietnia 2026 r.
+ostatnia_aktualizacja: 23 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
+## Cel
 
-## Postanowienia ogólne
+Zapewnienie jednolitych zasad przygotowania materiałów wideo zgodnych z wymaganiami dostępności.
 
-Niniejszy standard określa sposób przygotowania materiałów wideo w sposób zapewniający ich dostępność dla wszystkich użytkowników. Dokument stanowi rozwinięcie wymagań określonych w liście kontrolnej publikacji i definiuje rozwiązania stosowane na etapie planowania, produkcji oraz opracowania materiału.
+## Zakres
 
-Niniejszy standard określa sposób przygotowania materiałów w celu zapewnienia spełnienia wymagań obowiązkowych.
+Standard dotyczy materiałów wideo publikowanych w serwisie WWW, BIP, mediach społecznościowych i na platformach zewnętrznych.
 
-Standard ma charakter obowiązkowy i jest stosowany przed publikacją materiału. Dostępność stanowi integralny element procesu tworzenia treści, a nie działanie uzupełniające.
+## Kiedy stosować
 
-## Napisy i dostęp do treści
+Standard stosuje się do każdego materiału wideo przed publikacją.
 
-Napisy obejmują całą ścieżkę dźwiękową materiału i są przygotowywane równolegle z jego opracowaniem, a nie jako działanie końcowe. Zaleca się tworzenie napisów na podstawie scenariusza lub zapisu wypowiedzi już na etapie montażu.
+## Wymagania obowiązkowe
 
-Treść napisów powinna być zgodna z wypowiedzią. Dopuszcza się ich redakcję w celu poprawy czytelności, pod warunkiem zachowania sensu przekazu.
+- Materiał zawiera napisy obejmujące całą ścieżkę dźwiękową.
+- Materiał zapewnia alternatywę dla istotnych treści wizualnych (audiodeskrypcja lub treść równoważna).
+- Materiał nie zawiera migających elementów mogących powodować dyskomfort.
+- Odtwarzacz umożliwia pauzę/zatrzymanie (gdy funkcja jest dostępna).
 
-Synchronizacja napisów z obrazem powinna być precyzyjna. Automatycznie generowane napisy mogą być wykorzystane wyłącznie jako materiał roboczy; przed publikacją wymagają pełnej weryfikacji, korekty językowej, sprawdzenia synchronizacji oraz uzupełnienia istotnych dźwięków i kontekstu.
+## Zalecany sposób realizacji
 
-Napisy dzieli się na krótkie segmenty, maksymalnie dwulinijkowe. Zaleca się, aby jedna linia zawierała około 35–40 znaków.
+Napisy zamknięte są preferowane, gdy platforma na to pozwala. Napisy otwarte mogą być stosowane, gdy są jedyną skuteczną formą zapewnienia napisów.
 
-Czas wyświetlania napisów powinien umożliwiać ich spokojne przeczytanie i być dostosowany do tempa wypowiedzi.
+Kontrast napisów dotyczy szczególnie napisów osadzonych na stałe i tekstów w obrazie. Przy napisach zamkniętych sposób prezentacji zależy od możliwości odtwarzacza/platformy.
 
-W przypadku dźwięków mających znaczenie dla odbioru stosuje się ich opis, np. [muzyka], [śmiech], [oklaski].
+Transkrypcja rozszerzona jest jedną z kluczowych form zapewnienia dostępu do treści audiowizualnych osobom, które nie mogą korzystać ani z obrazu, ani z dźwięku.
 
-Napisy powinny być czytelne niezależnie od tła. Kontrast między kolorem tekstu a tłem powinien wynosić co najmniej 4,5:1. W miarę możliwości zaleca się stosować wyższy kontrast, np. na poziomie 7:1. Poziom kontrastu można sprawdzić za pomocą ogólnodostępnych narzędzi, np. mierników kontrastu online.
+## Kryteria weryfikacji
 
-W miarę możliwości należy stosować napisy zamknięte, umożliwiające użytkownikowi dostosowanie ich wielkości, koloru, obramowania i pozycji na ekranie.
+- Napisy są zgodne z wypowiedzią i zsynchronizowane.
+- Kluczowe treści wizualne mają odpowiednik tekstowy lub audiodeskrypcję.
+- Teksty osadzone na obrazie są czytelne.
 
-## Alternatywa tekstowa
+## Najczęstsze błędy
 
-Każdy materiał wideo posiada transkrypcję lub alternatywny opis tekstowy.
+- Automatyczne napisy bez korekty.
+- Brak informacji wizualnych w alternatywie tekstowej.
+- Zbyt niski kontrast napisów osadzonych.
 
-Transkrypcja powinna być przygotowana jako uporządkowany tekst, z podziałem na wypowiedzi i akapity. W przypadku dialogów należy oznaczać mówców.
+## Powiązane dokumenty
 
-Jeżeli materiał zawiera istotne elementy wizualne, należy je opisać w sposób zwięzły, wskazując ich znaczenie.
-
-Audiodeskrypcja może być realizowana jako:
-- dodatkowa ścieżka dźwiękowa z opisem istotnych elementów wizualnych albo
-- rozszerzona transkrypcja zawierająca opis treści obrazu, jeżeli zastosowanie dodatkowej ścieżki audio nie jest możliwe.
-
-Transkrypcja powinna być dostępna w opisie materiału lub jako osobny dokument.
-
-Transkrypcja rozszerzona jest jedyną formą odbioru materiałów audiowizualnych przez osoby głuchoniewidome.
-## Czytelność wizualna
-
-Napisy oraz wszystkie elementy tekstowe w materiale muszą być czytelne i mieć odpowiedni kontrast względem tła.
-
-Do tekstu należy stosować kroje bezszeryfowe, które zapewniają czytelność na ekranach. Należy unikać fontów ozdobnych.
-
-Wielkość tekstu powinna umożliwiać odczyt na urządzeniach mobilnych.
-
-Informacje nie mogą być przekazywane wyłącznie kolorem. W przypadku oznaczeń kolorystycznych należy stosować dodatkowe elementy, np. tekst lub symbole.
-
-Należy ograniczyć liczbę elementów wizualnych na ekranie. Nadmiar treści utrudnia odbiór.
-
-## Struktura i zrozumiałość przekazu
-
-Materiał wideo powinien być zaplanowany w sposób strukturalny, np. poprzez przygotowanie scenariusza.
-
-Najważniejsze informacje powinny pojawiać się na początku materiału lub być wyraźnie wyróżnione.
-
-Język materiału powinien być prosty i zrozumiały. Zaleca się stosowanie krótkich zdań oraz unikanie złożonych konstrukcji.
-
-W przypadku materiałów informacyjnych zaleca się powtarzanie kluczowych informacji w różnych formach (np. mówionej i tekstowej).
-
-## Dźwięk i sposób mówienia
-
-Nagrania powinny być realizowane w warunkach, które zapewniają dobrą jakość dźwięku. Zaleca się stosowanie mikrofonów zewnętrznych.
-
-Tempo mówienia powinno umożliwiać zrozumienie treści, a wypowiedź powinna być wyraźna.
-
-Muzyka i efekty dźwiękowe powinny pełnić funkcję tła i nie mogą zagłuszać wypowiedzi.
-
-## Sterowanie i odtwarzanie
-
-Materiały wideo nie powinny odtwarzać automatycznie dźwięku po otwarciu strony lub posta.
-
-Odtwarzacz ma umożliwiać zatrzymanie, pauzę oraz wznowienie materiału.
-
-## Dodatkowe elementy dostępności
-
-Miniatura wideo powinna posiadać opis alternatywny oraz być czytelna wizualnie.
-
-Tytuł materiału powinien jasno wskazywać jego treść.
-
-Opis materiału powinien zawierać streszczenie treści oraz w miarę możliwości transkrypcję lub odnośnik do niej.
-
-Jeżeli w materiale występuje tłumacz polskiego języka migowego, zaleca się, aby jego obraz zajmował co najmniej ok. 1/12 powierzchni ekranu, a w miarę możliwości około 1/8 ekranu lub więcej.
-
-## Postanowienia końcowe
-
-Standard określa sposoby realizacji wymagań dostępności i stanowi podstawę przygotowania materiałów wideo.
-
-Dostępność jest elementem projektowym, który powinien być uwzględniony na etapie przygotowania materiału.
+- [Minimalne wymagania dostępności](./minimalne-wymagania.md)
+- [Lista kontrolna publikacji wideo](./lista-kontrolna-publikacji-wideo.md)
+- [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md)

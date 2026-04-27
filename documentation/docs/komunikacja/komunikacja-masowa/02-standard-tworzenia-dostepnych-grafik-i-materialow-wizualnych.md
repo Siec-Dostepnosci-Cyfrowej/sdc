@@ -1,115 +1,56 @@
 ---
 id: 02-standard-tworzenia-dostepnych-grafik-i-materialow-wizualnych
 title: Standard tworzenia dostępnych grafik i materiałów wizualnych
-description: Standard określający sposób przygotowania dostępnych grafik i materiałów wizualnych.
-sidebar_label: Standard tworzenia grafik
+description: Standard określający sposób przygotowania grafik i materiałów wizualnych zgodnie z wymaganiami dostępności.
+sidebar_label: Standard grafiki
 sidebar_position: 6
-keywords: [słowo kluczowe, inne słowo]
-tags: [słowo kluczowe, inne słowo]
+keywords: [dostępność cyfrowa, grafiki, opis alternatywny, kontrast, komunikacja]
+tags: [grafiki, komunikacja, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
-wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
+wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 23 kwietnia 2026 r.
+ostatnia_aktualizacja: 23 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
+## Cel
 
+Ustalenie wymagań tworzenia grafik czytelnych i zrozumiałych także bez percepcji obrazu.
 
+## Zakres
 
-## Postanowienia ogólne
+Standard obejmuje grafiki publikowane w WWW, BIP i mediach społecznościowych.
 
-Niniejszy standard określa sposób projektowania grafik oraz materiałów wizualnych w sposób zapewniający ich dostępność i czytelność dla wszystkich użytkowników.
+## Kiedy stosować
 
-Niniejszy standard określa sposób przygotowania materiałów w celu zapewnienia spełnienia wymagań obowiązkowych.
+Stosować do każdej grafiki zawierającej informację.
 
-Standard definiuje zasady dotyczące kontrastu, typografii, kompozycji oraz przekazywania informacji.
+## Wymagania obowiązkowe
 
-Standard nie ogranicza twórczości ani nie narzuca jednolitego stylu wizualnego. Określa warunki, które muszą być spełnione, aby materiał był czytelny i zrozumiały.
+- Grafika informacyjna ma opis alternatywny.
+- Grafika informacyjna ma równoważną treść tekstową poza obrazem.
+- Informacje nie są przekazywane wyłącznie kolorem.
 
-Decyzje projektowe mogą być swobodne, pod warunkiem że nie wpływają negatywnie na odbiór treści i nie wprowadzają barier dostępności.
+## Zalecany sposób realizacji
 
-Standard stosuje się na etapie projektowania materiału, przed jego publikacją.
+Puste alty dotyczą głównie treści publikowanych w HTML/CMS i stosuje się je dla grafik dekoracyjnych. W mediach społecznościowych sposób oznaczenia dekoracyjności zależy od funkcji platformy.
 
-## Czytelność i kontrast
+Grafika zawierająca informacje musi mieć równoważną treść tekstową poza obrazem (np. w treści posta, opisie albo komentarzu).
 
-Tekst umieszczony na grafice musi być czytelny i posiadać odpowiedni kontrast względem tła. Minimalny poziom kontrastu pomiędzy tekstem a tłem wynosi 4,5:1.
+## Kryteria weryfikacji
 
-W miarę możliwości zaleca się stosowanie wyższego kontrastu, np. 7:1.
+- Alt-text oddaje znaczenie grafiki w kontekście.
+- Kluczowe informacje są dostępne w tekście towarzyszącym.
+- Tekst w grafice jest czytelny i ma odpowiedni kontrast.
 
-W praktyce oznacza to stosowanie wyraźnych zestawień kolorystycznych, np. ciemny tekst na jasnym tle lub jasny tekst na ciemnym tle.
+## Najczęstsze błędy
 
-W przypadku tła o zmiennej strukturze (np. zdjęcia) należy stosować rozwiązania poprawiające czytelność, takie jak:
-- półprzezroczyste nakładki,
-- gradienty,
-- tła pod tekstem.
+- Opis „obrazek” bez informacji.
+- Przekazywanie dat, miejsc i warunków tylko na grafice.
+- Zbyt mały tekst i niski kontrast.
 
-Niedopuszczalne jest stosowanie zestawień kolorów o niskim kontraście, które utrudniają odczytanie treści.
+## Powiązane dokumenty
 
-## Typografia
-
-W materiałach wizualnych stosuje się kroje bezszeryfowe, które zapewniają czytelność na ekranach.
-
-Należy unikać fontów ozdobnych oraz elementów utrudniających odbiór treści.
-
-Wielkość tekstu musi umożliwiać odczyt na urządzeniach mobilnych.
-
-Należy unikać stosowania wielu różnych krojów pisma w jednym materiale.
-
-Interlinia oraz odstępy między znakami powinny zapewniać komfort czytania.
-
-Należy unikać:
-- kursywy w dłuższych fragmentach,
-- kapitalików,
-- długich tekstów zapisanych wielkimi literami.
-
-## Kompozycja i hierarchia informacji
-
-Grafika powinna posiadać wyraźną strukturę i hierarchię informacji.
-
-Najważniejsze komunikaty powinny być umieszczone w widocznym miejscu i wyróżnione wizualnie.
-
-Zaleca się stosowanie zasady jednego komunikatu.
-
-Nadmiar treści powoduje przeciążenie i utrudnia odbiór.
-
-Elementy graficzne powinny być uporządkowane, z zachowaniem odstępów i czytelnego układu.
-
-Chaos wizualny, nadmiar dekoracji oraz brak struktury utrudniają odbiór treści.
-
-Układ powinien prowadzić wzrok użytkownika w sposób logiczny, np. od góry do dołu lub od lewej do prawej.
-
-## Przekazywanie informacji
-
-Informacje nie mogą być przekazywane wyłącznie za pomocą koloru.
-
-W przypadku wyróżnień należy stosować dodatkowe oznaczenia, np. tekst lub symbole.
-
-Każda grafika zawierająca informacje musi mieć swoje odzwierciedlenie w treści tekstowej publikacji.
-
-Grafika nie może być jedynym źródłem kluczowych informacji.
-
-Treść w grafice powinna być zwięzła i jednoznaczna.
-
-Należy unikać długich bloków tekstu i skomplikowanych komunikatów.
-
-## Czytelność na różnych urządzeniach
-
-Grafiki należy projektować z uwzględnieniem odbioru na różnych urządzeniach, w szczególności mobilnych.
-
-Należy testować czytelność w mniejszych rozmiarach.
-
-Elementy takie jak tekst, ikony i przyciski muszą być widoczne i rozróżnialne.
-
-Nie należy umieszczać istotnych informacji przy krawędziach grafiki. Należy pozostawić wokół kluczowych elementów graficznych tzw. strefę bezpieczną (margines), aby zapobiec ich ucięciu w różnych proporcjach ekranu.
-
-## Elementy dynamiczne i bezpieczeństwo
-
-Materiały wizualne nie mogą zawierać elementów migających lub szybko zmieniających się. Nie należy stosować efektów migania o częstotliwości zbliżonej do 3 razy na sekundę lub wyższej.
-
-Animacje, jeśli są stosowane, powinny być spokojne i nie mogą utrudniać odbioru treści.
-
-## Postanowienia końcowe
-
-Standard określa sposób przygotowania grafik zapewniający ich czytelność, zrozumiałość oraz dostępność.
-
-Dostępność materiałów wizualnych jest elementem jakości projektu i powinna być uwzględniana na etapie jego tworzenia.
+- [Minimalne wymagania dostępności](./minimalne-wymagania.md)
+- [Lista kontrolna publikacji treści z obrazkiem](./lista-kontrolna-publikacji-tresci-z-obrazkiem.md)
+- [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md)
