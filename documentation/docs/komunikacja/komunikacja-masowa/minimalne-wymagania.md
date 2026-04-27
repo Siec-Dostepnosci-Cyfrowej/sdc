@@ -4,206 +4,99 @@ title: Minimalne wymagania dostępności multimediów i komunikacji
 description: Zestaw minimalnych wymagań dostępności dla materiałów multimedialnych i treści cyfrowych.
 sidebar_label: Minimalne wymagania
 sidebar_position: 2
-keywords: [słowo kluczowe, inne słowo]
-tags: [słowo kluczowe, inne słowo]
+keywords: [dostępność cyfrowa, wymagania minimalne, multimedia, komunikacja, weryfikacja]
+tags: [wymagania, komunikacja, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
-wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
+wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 23 kwietnia 2026 r.
+ostatnia_aktualizacja: 27 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
-
 ## Cel dokumentu
 
-Dokument określa minimalne wymagania dostępności, jakie muszą spełniać materiały multimedialne oraz komunikaty publikowane przez podmiot publiczny.
+Dokument określa minimalny poziom wymagań publikacyjnych dla materiałów multimedialnych i treści cyfrowych podmiotu publicznego.
 
-Spełnienie wymagań stanowi podstawowy warunek publikacji materiału.
+## Zakres stosowania
 
-Materiał niespełniający któregokolwiek wymagania co do zasady nie może zostać opublikowany. Odstępstwo jest dopuszczalne wyłącznie w sytuacji wyjątkowej, zgodnie z przyjętą procedurą postępowania i z obowiązkiem uzupełnienia brakujących elementów dostępności.
+Wymagania stosuje się do publikacji w: serwisie internetowym, BIP, mediach społecznościowych oraz na platformach zewnętrznych.
 
-## Podstawa prawna
+Wymagania dotyczą materiałów tworzonych wewnętrznie i pozyskiwanych z zewnątrz.
 
-Wymagania wynikają w szczególności z:
+## Definicje robocze
 
-- ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej,
-- normy EN 301 549,
-- przepisów Europejskiego Aktu o Dostępności.
+- **Wymaganie obowiązkowe** – warunek, który musi być spełniony przed publikacją.
+- **Wymaganie warunkowe** – warunek obowiązujący, gdy występuje dany typ treści lub funkcja.
+- **Wymaganie zalecane** – standard jakości wspierający czytelność i skuteczność komunikatu.
 
-Wymagania należy traktować jako obowiązujące minimum publikacyjne, osadzone w przepisach prawa i normach technicznych.
+## Poziomy wymagań
 
-Dokument nie wyczerpuje wszystkich obowiązków wynikających z przepisów prawa ani wszystkich standardów wewnętrznych podmiotu. Określa minimalny poziom wymagań, którego niespełnienie uniemożliwia publikację materiału, chyba że zastosowano procedurę postępowania w sytuacjach wyjątkowych.
+W dokumencie stosuje się trzy statusy:
+- obowiązkowe,
+- warunkowe,
+- zalecane.
 
-Szersze standardy wewnętrzne, dobre praktyki i rozwiązania organizacyjne zostały opisane w odrębnych dokumentach pakietu i nie rozszerzają katalogu minimalnych wymagań określonych w tym dokumencie.
+Napisy, transkrypcja, opis alternatywny, równoważna treść tekstowa, brak migania oraz możliwość zatrzymania odtwarzania są traktowane jako obowiązkowe lub warunkowe, zależnie od typu materiału.
 
-## Zakres zastosowania
+Prosty język, hierarchia informacji i zasada jednego komunikatu są standardem jakości i mają status zalecany, chyba że ich brak uniemożliwia zrozumienie komunikatu.
 
-Wymagania mają zastosowanie do wszystkich treści publikowanych przez podmiot, niezależnie od:
+## Minimalne wymagania publikacyjne
 
-- kanału komunikacji,
-- formy przekazu,
-- etapu ich powstawania.
+| Obszar | Wymaganie | Status | Kryterium weryfikacji | Dowód |
+|---|---|---|---|---|
+| Wideo | Materiał zawiera napisy do pełnej ścieżki dźwiękowej. | obowiązkowe | Napisy obejmują wypowiedzi i istotne dźwięki, są zsynchronizowane. | Plik napisów lub napisy osadzone po weryfikacji. |
+| Audio | Materiał ma pełną transkrypcję. | obowiązkowe | Transkrypcja zawiera całą treść nagrania i oznaczenia mówców (gdy potrzeba). | Treść transkrypcji przy materiale lub pod jednoznacznym linkiem. |
+| Grafika informacyjna | Zapewniono opis alternatywny i równoważną treść tekstową poza obrazem. | obowiązkowe | Informacje z grafiki są dostępne bez obrazu. | Alt-text i tekst posta/strony. |
+| Treści dynamiczne | Brak migania i efektów mogących powodować dyskomfort. | obowiązkowe | Brak elementów migających > 3 razy/s lub podobnych bodźców. | Kontrola wizualna materiału. |
+| Odtwarzanie | Użytkownik może zatrzymać lub wstrzymać odtwarzanie. | warunkowe | Funkcja występuje tam, gdzie materiał jest odtwarzany automatycznie lub ciągle. | Ustawienia odtwarzacza/platformy. |
+| Komunikat | Zastosowano prosty język i logiczną hierarchię informacji. | zalecane | Kluczowa informacja jest zrozumiała bez dodatkowej interpretacji. | Ocena redakcyjna i checklista. |
 
-Obejmują w szczególności:
-- materiały wideo i audio,
-- grafiki i materiały wizualne,
-- treści publikowane w mediach społecznościowych,
-- treści publikowane na stronach internetowych i w BIP,
-- dokumenty zawierające elementy wizualne lub multimedialne.
+## Wymagania według typu materiału
 
-Zakres obejmuje cały cykl życia treści:
-- przygotowanie,
-- redakcję,
-- publikację,
-- aktualizację.
+- **Wideo:** napisy, alternatywa dla treści wizualnej (audiodeskrypcja lub treść równoważna), brak migania.
+- **Audio:** transkrypcja pełnej treści, czytelny opis materiału.
+- **Grafika:** opis alternatywny oraz równoważna treść tekstowa poza grafiką.
+- **Posty w mediach społecznościowych:** równoważny poziom dostępności z wykorzystaniem funkcji platformy.
 
-Wymagania dotyczą zarówno materiałów tworzonych wewnętrznie, jak i przekazywanych przez podmioty zewnętrzne.
-
-## Zasady ogólne
-
-Dostępność jest elementem procesu tworzenia treści.
-
-Nie może być traktowana jako działanie uzupełniające po publikacji.
-
-Każdy materiał musi być:
-- kompletny,
-- zrozumiały,
-- dostępny w więcej niż jednej formie odbioru.
-
-Kluczowe informacje nie mogą być przekazywane wyłącznie:
-- obrazem,
-- dźwiękiem,
-- kolorem.
-
-Publikacja materiału niepełnego jest co do zasady niedopuszczalna. Sytuacje wyjątkowe wymagają odrębnego uzasadnienia, decyzji osoby odpowiedzialnej oraz określenia terminu uzupełnienia brakujących elementów.
-
-Odpowiedzialność za dostępność ponosi:
-- autor materiału,
-- osoba publikująca (weryfikacja),
-- podmiot publiczny (systemowo).
-
-## Minimalne wymagania dla materiałów wideo
-
-Materiał wideo musi zawierać napisy obejmujące całą ścieżkę dźwiękową.
-
-Napisy:
-- są zgodne z treścią wypowiedzi,
-- uwzględniają istotne dźwięki,
-- są zsynchronizowane z obrazem,
-- są czytelne i posiadają odpowiedni kontrast,
-- są podzielone na krótkie fragmenty.
-
-W przypadku wielu mówców należy umożliwić ich identyfikację.
-
-Materiały informacyjne muszą zapewniać:
-- audiodeskrypcję  
-  lub  
-- równoważną alternatywę tekstową.
-
-Materiały nie mogą zawierać elementów migających lub powodujących dyskomfort.
-
-W przypadku transmisji na żywo należy zapewnić napisy w czasie rzeczywistym lub ich uzupełnienie po publikacji.
-
-## Minimalne wymagania dla materiałów audio
-
-Materiał audio musi posiadać transkrypcję.
-
-Transkrypcja:
-- zawiera pełną treść nagrania,
-- zachowuje strukturę wypowiedzi,
-- umożliwia łatwe przeglądanie treści.
-
-## Minimalne wymagania dla grafik i materiałów wizualnych
-
-Każda grafika zawierająca informacje musi posiadać opis alternatywny.
-
-Opis alternatywny:
-- przekazuje znaczenie grafiki,
-- uwzględnia kontekst,
-- zawiera kluczowe informacje.
-
-Materiały zawierające tekst (np. plakaty, ogłoszenia) muszą posiadać równoważną treść tekstową poza grafiką.
-
-Informacje nie mogą być przekazywane wyłącznie kolorem.
-
-Grafiki muszą zapewniać:
-- odpowiedni kontrast,
-- czytelność tekstu,
-- logiczną strukturę.
-
-Grafiki dekoracyjne:
-- nie mogą zawierać informacji,
-- powinny być oznaczone jako dekoracyjne.
-
-## Wymagania dla publikacji w mediach społecznościowych
-
-Materiały publikowane w mediach społecznościowych muszą spełniać te same wymagania co treści publikowane na stronach internetowych.
-
-W szczególności należy zapewnić:
-- opisy alternatywne,
-- napisy do materiałów wideo,
-- czytelność i strukturę komunikatu.
-
-Komunikaty nie mogą opierać się wyłącznie na elementach wizualnych.
+Materiały publikowane w mediach społecznościowych powinny zapewniać równoważny poziom dostępności z wykorzystaniem funkcji dostępnych na danej platformie. Jeżeli platforma ogranicza możliwość zapewnienia pełnej dostępności, należy zapewnić alternatywę w treści posta, opisie, komentarzu albo przez link do dostępnej wersji materiału.
 
 ## Wymagania techniczne i organizacyjne
 
-Treści powinny być przygotowywane bezpośrednio w systemach CMS stosowanych w podmiocie publicznym.
+Treści powinny być przygotowywane lub wprowadzane w sposób zachowujący strukturę, semantykę i elementy dostępności. Po przeniesieniu treści z zewnętrznych edytorów wymagana jest weryfikacja struktury, linków, opisów alternatywnych i formatowania.
 
-Kopiowanie treści z zewnętrznych edytorów bez weryfikacji jest niedopuszczalne.
+Dla zaplanowanych transmisji na żywo należy zapewnić napisy w czasie rzeczywistym, jeżeli jest to organizacyjnie i technicznie możliwe. Jeżeli nie można ich zapewnić, podmiot powinien udostępnić po transmisji nagranie z napisami lub transkrypcję oraz potraktować brak napisów na żywo jako element wymagający uzupełnienia albo udokumentowania w procedurze sytuacji wyjątkowych.
 
-W przypadku wykorzystania narzędzi zewnętrznych wymagane jest sprawdzenie:
-- struktury,
-- opisów alternatywnych,
-- czytelności,
-- zgodności z wymaganiami.
+## Kryteria weryfikacji
 
-Systemy CMS powinny umożliwiać:
-- wprowadzanie opisów alternatywnych,
-- stosowanie struktury nagłówków,
-- tworzenie dostępnych linków,
-- kontrolę kompletności treści.
+Weryfikacja jest wykonywana przed publikacją z użyciem właściwej listy kontrolnej.
+
+Punkty obowiązkowe muszą mieć wynik „TAK” albo zostać objęte procedurą sytuacji wyjątkowych.
+
+## Dowody spełnienia wymagań
+
+Dowodem spełnienia wymagań mogą być w szczególności:
+- zapis checklisty,
+- dostępne napisy lub transkrypcja,
+- wpis o alt-text i treści równoważnej,
+- potwierdzenie techniczne ustawień odtwarzacza,
+- wpis do rejestru wyjątków (jeżeli dotyczy).
 
 ## Warunek publikacji
 
-Materiał może zostać opublikowany po spełnieniu wszystkich wymagań.
+Publikacja jest dopuszczalna, gdy wymagania obowiązkowe i właściwe wymagania warunkowe zostały spełnione.
 
-Brak spełnienia któregokolwiek wymagania:
-- co do zasady uniemożliwia publikację,
-- wymaga poprawy materiału albo zastosowania procedury postępowania w sytuacjach wyjątkowych.
+## Sytuacje wyjątkowe
 
-W uzasadnionych przypadkach dopuszcza się publikację materiału niespełniającego wszystkich wymagań dostępności, pod warunkiem że:
-
-- decyzja o publikacji została podjęta przez osobę odpowiedzialną za publikację lub jej przełożonego,
-- przyczyna odstępstwa została jednoznacznie uzasadniona i udokumentowana,
-- zapewniono możliwie najszybsze uzupełnienie brakujących elementów dostępności,
-- termin uzupełnienia braków został określony i nie przekracza 3 dni roboczych od momentu publikacji.
-
-Brak uzupełnienia elementów dostępności w określonym terminie oznacza konieczność wycofania materiału lub jego aktualizacji.
+Jeżeli wymaganie obowiązkowe nie może zostać spełnione w momencie publikacji, stosuje się [Procedurę postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md).
 
 ## Odpowiedzialność
 
-Autor odpowiada za przygotowanie materiału zgodnie z wymaganiami.
+Autor odpowiada za przygotowanie materiału. Osoba weryfikująca odpowiada za kontrolę. Osoba publikująca odpowiada za publikację zgodną z wynikiem weryfikacji. Kierownictwo podmiotu odpowiada za zapewnienie warunków organizacyjnych.
 
-Osoba publikująca odpowiada za weryfikację przed publikacją.
+## Powiązane dokumenty
 
-Koordynator dostępności odpowiada za nadzór nad stosowaniem standardów i ich aktualizację.
-
-Zapewnienie dostępności jest procesem zespołowym.
-
-## Charakter dokumentu
-
-Wymagania określone w niniejszym dokumencie mają charakter obowiązkowy i stanowią warunek publikacji materiału.
-
-Dokument określa minimalny poziom dostępności wymagany do publikacji materiału.
-
-Dokument ma charakter normatywny: wskazuje rzeczywiste minimum wymagane przed publikacją. Szersze zasady organizacyjne, standardy wewnętrzne i dobre praktyki zostały opisane w odrębnych dokumentach pakietu.
-
-Spełnienie wymagań:
-- stanowi warunek publikacji,
-- jest elementem kontroli jakości,
-- umożliwia ocenę zgodności działań z przepisami.
-
-Dostępność ma charakter ciągły i podlega weryfikacji w czasie.
-
-Dokument stanowi element systemu zarządzania dostępnością w podmiocie publicznym.
+- [Model operacyjny publikacji dostępnych multimediów](./model-operacyjny-publikacji-dostepnych-multimediow.md)
+- [Standardy tworzenia dostępnych materiałów](./standardy-tworzenia-index.md)
+- [Listy kontrolne publikacji](./listy-kontrolne-index.md)
+- [05. Standard tworzenia dostępnych materiałów audio](./05-standard-tworzenia-dostepnych-materialow-audio.md)
+- [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md)

@@ -4,147 +4,172 @@ title: Organizacja procesu publikacji dostępnych materiałów multimedialnych i
 description: Zalecenie określające sposób organizacji procesu przygotowania, weryfikacji i publikacji dostępnych materiałów multimedialnych oraz treści cyfrowych.
 sidebar_label: Zalecenie
 sidebar_position: 0
-keywords: [słowo kluczowe, inne słowo]
-tags: [słowo kluczowe, inne słowo]
+keywords: [dostępność cyfrowa, multimedia, komunikacja, standard wdrożeniowy, administracja publiczna]
+tags: [zalecenie, komunikacja, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
-wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
+wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 23 kwietnia 2026 r.
+ostatnia_aktualizacja: 27 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
+## Cel zalecenia
+
+Celem zalecenia jest ustanowienie jednolitego i weryfikowalnego modelu przygotowania, kontroli i publikacji materiałów cyfrowych, który podmiot publiczny może wdrożyć niezależnie od wielkości organizacji.
+
+Model łączy wymagania normatywne z narzędziami operacyjnymi i wskazuje, kiedy publikacja jest dopuszczalna, a kiedy konieczna jest poprawa materiału albo uruchomienie procedury wyjątkowej.
+
 ## Zalecenie
 
-Podmioty publiczne ustanawiają i wdrażają zasady przygotowania, weryfikacji i publikacji materiałów multimedialnych oraz innych treści publikowanych w kanałach cyfrowych.
+Podmiot publiczny ustanawia i stosuje zasady przygotowania, weryfikacji i publikacji materiałów multimedialnych oraz treści cyfrowych, które zapewniają uwzględnianie dostępności na każdym etapie procesu, jednoznaczne przypisanie odpowiedzialności, obowiązkową weryfikację przed publikacją oraz publikowanie materiałów spełniających przyjęte wymagania dostępności albo objętych udokumentowaną procedurą postępowania w sytuacjach wyjątkowych.
 
 ## Rekomendacje
 
-Podmiot publiczny zapewnia warunki organizacyjne do stosowania zasad określonych w zaleceniu, w szczególności poprzez:
-- wyznaczenie odpowiedzialności za poszczególne etapy procesu,
-- zapewnienie zasobów niezbędnych do przygotowania dostępnych materiałów,
-- wprowadzenie nadzoru nad stosowaniem przyjętych zasad,
-- monitorowanie jakości publikowanych treści oraz podejmowanie działań doskonalących.
+### 1. Ustanowienie zasad i wymagań
 
-Zakres zalecenia obejmuje komunikację kierowaną do szerokiego grona odbiorców, w szczególności materiały multimedialne, treści cyfrowe, publikacje w serwisach internetowych, BIP oraz mediach społecznościowych. Pojęcie komunikacji masowej należy rozumieć jako skrót odnoszący się do publicznego udostępniania treści, a nie wyłącznie do tradycyjnych kanałów masowego przekazu.
+Podmiot przyjmuje minimalne wymagania publikacyjne jako warunek publikacji materiału.
 
-Zasada „najpierw dostępne” oznacza, że dostępność stanowi warunek publikacji materiału, a sytuacje odstępstw mają charakter wyjątkowy i wymagają zastosowania określonej procedury.
+Dodatkowo wdraża standardy tworzenia materiałów, które opisują sposób praktycznej realizacji wymagań.
 
-Zastosowanie procedury sytuacji wyjątkowych ma charakter incydentalny i nie stanowi alternatywy dla zapewnienia dostępności, lecz mechanizm kontrolowanego odstępstwa stosowany wyłącznie w uzasadnionych przypadkach.
+Działania:
+- zatwierdzenie katalogu wymagań obowiązkowych, warunkowych i zalecanych,
+- wskazanie dokumentów stosowanych przy publikacji (standardy, listy kontrolne, procedura wyjątków),
+- okresowy przegląd wymagań i ich aktualność względem przepisów.
 
-Dokument rozróżnia trzy poziomy wymagań:
-- wymagania obowiązkowe – których spełnienie stanowi warunek publikacji materiału,
-- standardy – określające sposób przygotowania materiałów w sposób zapewniający spełnienie wymagań,
-- dobre praktyki – wspierające jakość komunikacji, których stosowanie jest zalecane, ale nie jest warunkiem publikacji.
+### 2. Określenie ról i odpowiedzialności
 
-Wdrożenie zalecenia obejmuje:
+Każdy etap procesu ma właściciela odpowiedzialnego za wynik: autor, redaktor, osoba weryfikująca, osoba publikująca, osoba nadzorująca proces.
 
-1. Ustanowienie modelu organizacyjnego procesu przygotowania, weryfikacji i publikacji treści.
+Zakres odpowiedzialności musi być jawny i znany zespołowi.
 
-   → [Model operacyjny publikacji dostępnych multimediów](./model-operacyjny-publikacji-dostepnych-multimediow)
+Działania:
+- przypisanie odpowiedzialności do ról, a nie do ogólnych zespołów,
+- wskazanie osoby decyzyjnej dla sytuacji wyjątkowych,
+- wskazanie osoby odpowiedzialnej za monitoring błędów i działania korygujące.
 
-2. Określenie minimalnych wymagań dostępności stanowiących warunek publikacji materiału.
+### 3. Wdrożenie modelu operacyjnego
 
-   → [Minimalne wymagania dostępności](./minimalne-wymagania)
+Model operacyjny obejmuje pełny cykl życia materiału: planowanie, przygotowanie, opracowanie dostępności, weryfikację, publikację i monitoring.
 
-3. Wdrożenie standardów przygotowania materiałów:
-   - wideo,
-   - grafiki i materiały wizualne,
-   - opisy alternatywne i treści równoważne,
-   - treści i struktura komunikatu.
+Model stosuje się do treści własnych oraz materiałów zewnętrznych.
 
-   → [Standardy](./standardy-tworzenia-index)
+Działania:
+- stosowanie jednego przebiegu procesu dla CMS, BIP, serwisu WWW i social mediów,
+- uwzględnienie wymagań dostępności już w briefie, zleceniu i odbiorze materiałów zewnętrznych,
+- dokumentowanie decyzji o publikacji warunkowej.
 
-4. Określenie ról i odpowiedzialności poszczególnych uczestników procesu oraz zasad przepływu informacji:
+### 4. Wprowadzenie obowiązkowej weryfikacji przed publikacją
 
-   → [Mapa odpowiedzialności](./mapa-odpowiedzialnosci)
+Każdy materiał jest sprawdzany właściwą listą kontrolną przed publikacją.
 
-5. Wprowadzenie obowiązkowej weryfikacji materiałów przed publikacją z wykorzystaniem list kontrolnych oraz monitorowania i doskonalenia procesu:
+Weryfikacja ma charakter decyzyjny i stanowi podstawę dopuszczenia materiału.
 
-   → [Listy kontrolne](./listy-kontrolne-index)
+Działania:
+- stosowanie tabelarycznych list kontrolnych z dowodem/uwagą,
+- traktowanie odpowiedzi „NIE” w punktach obowiązkowych jako blokady publikacji,
+- obsługa odstępstw wyłącznie przez procedurę sytuacji wyjątkowych.
 
-6. Wprowadzenie zasad publikacji materiałów oraz postępowania w sytuacjach wyjątkowych.
+### 5. Zapewnienie narzędzi, kompetencji i wzorców
 
-   → [Minimalne wymagania dostępności](./minimalne-wymagania)
-   → [Model operacyjny publikacji dostępnych multimediów](./model-operacyjny-publikacji-dostepnych-multimediow)
+Wdrożenie wymaga narzędzi redakcyjnych i technicznych: wzorów opisów, szablonów treści, list kontrolnych i procedur.
 
-7. Zapewnienie warunków wdrożenia, w szczególności narzędzi, wzorców, kompetencji oraz dostosowania modelu do wielkości i struktury podmiotu.
+Równolegle podmiot zapewnia szkolenia i bieżące wsparcie zespołu.
 
-   → [Model wdrożenia dla dużych podmiotów](./model-dla-duzych-podmiotow)
-   → [Model wdrożenia dla małych podmiotów](./model-dla-malych-podmiotow)
+Działania:
+- udostępnienie wzorców dla wideo, audio, grafik i postów,
+- szkolenia stanowiskowe dla autorów i osób publikujących,
+- monitorowanie najczęstszych błędów i aktualizacja materiałów pomocniczych.
 
-Kierownictwo podmiotu publicznego odpowiada za ustanowienie zasad, zapewnienie zasobów organizacyjnych i narzędziowych, wyznaczenie osób odpowiedzialnych oraz nadzór nad skutecznością procesu. Proces powinien podlegać okresowemu monitorowaniu, a wnioski z kontroli i zgłoszeń użytkowników powinny służyć doskonaleniu zasad publikacji.
+### 6. Obsługa sytuacji wyjątkowych
 
-Zastosowanie procedury wyjątkowej jest dopuszczalne wyłącznie wtedy, gdy publikacja jest konieczna mimo czasowego braku pełnej zgodności, a brak publikacji mógłby istotnie utrudnić dostęp do ważnej informacji publicznej lub realizację zadania podmiotu publicznego.
+Odstępstwo od pełnej dostępności ma charakter incydentalny i nie jest alternatywą dla spełnienia wymagań.
 
-Załączniki tworzą pakiet wdrożeniowy zalecenia. Różnią się charakterem i sposobem stosowania:
-- dokumenty podstawowe mają charakter normatywny i określają wymagania oraz model procesu,
-- standardy mają charakter normatywno-operacyjny i wskazują, jak przygotować materiały zgodnie z wymaganiami,
-- narzędzia operacyjne mają charakter pomocniczy i służą weryfikacji oraz przypisaniu odpowiedzialności,
-- modele wdrożeniowe mają charakter operacyjny i pomagają dostosować proces do skali podmiotu,
-- dokumenty uzupełniające mają charakter wyjaśniający i wspierający.
+Każde odstępstwo wymaga decyzji osoby uprawnionej, udokumentowanej przyczyny oraz terminu uzupełnienia braków.
 
-### Dokumenty podstawowe
+Działania:
+- prowadzenie rejestru wyjątków,
+- określanie terminu uzupełnienia, co do zasady do 3 dni roboczych,
+- zastosowanie działań końcowych: uzupełnienie, aktualizacja albo wycofanie materiału.
 
-- → [Model operacyjny publikacji dostępnych multimediów](./model-operacyjny-publikacji-dostepnych-multimediow) - dokument normatywny
-- → [Minimalne wymagania dostępności](./minimalne-wymagania) - dokument normatywny
+### 7. Monitorowanie, analiza błędów i doskonalenie procesu
 
-### Standardy
+Po publikacji podmiot analizuje zgłoszenia, błędy i opóźnienia uzupełnień.
 
-- → [Standardy](./standardy-tworzenia-index) - dokumenty normatywno-operacyjne
+Celem monitoringu jest ograniczenie powtarzalności wyjątków i podnoszenie jakości materiałów.
+
+Działania:
+- cykliczna analiza rejestru wyjątków i checklist,
+- wdrażanie działań korygujących w procesie tworzenia,
+- aktualizacja standardów i szkoleń na podstawie danych z monitoringu.
+
+## Zakres stosowania
+
+Zalecenie obejmuje komunikację publiczną prowadzoną przez podmiot w kanałach cyfrowych: serwis WWW, BIP, media społecznościowe i platformy zewnętrzne.
+
+## Status dokumentów pakietu
+
+### Dokumenty normatywne
+
+- [Minimalne wymagania dostępności](./minimalne-wymagania.md)
+
+### Standardy normatywno-operacyjne
+
+- [Standardy tworzenia dostępnych materiałów](./standardy-tworzenia-index.md)
+- [05. Standard tworzenia dostępnych materiałów audio](./05-standard-tworzenia-dostepnych-materialow-audio.md)
 
 ### Narzędzia operacyjne
 
-- → [Listy kontrolne](./listy-kontrolne-index) - narzędzia operacyjne
-- → [Mapa odpowiedzialności](./mapa-odpowiedzialnosci) - narzędzie operacyjne
+- [Listy kontrolne publikacji](./listy-kontrolne-index.md)
+- [Lista kontrolna publikacji audio](./lista-kontrolna-publikacji-audio.md)
+- [Mapa odpowiedzialności](./mapa-odpowiedzialnosci.md)
+- [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md)
 
 ### Modele wdrożeniowe
 
-- → [Model wdrożenia dla dużych podmiotów](./model-dla-duzych-podmiotow) - dokument operacyjny
-- → [Model wdrożenia dla małych podmiotów](./model-dla-malych-podmiotow) - dokument operacyjny
+- [Model operacyjny publikacji dostępnych multimediów](./model-operacyjny-publikacji-dostepnych-multimediow.md)
+- [Model wdrożenia dla dużych podmiotów](./model-dla-duzych-podmiotow.md)
+- [Model wdrożenia dla małych podmiotów](./model-dla-malych-podmiotow.md)
 
-### Dokumenty uzupełniające
+### Dokumenty wyjaśniające i pomocnicze
 
-- → [Uzasadnienie stosowania wymagań](./uzasadnienie-stosowania.md) - dokument wyjaśniający
+- [Uzasadnienie stosowania wymagań](./uzasadnienie-stosowania.md)
+- [Powiązania systemowe](./powiazania-systemowe.md)
+- [Problemy i błędy wdrożeniowe](./problemy-i-bledy-wdrozeniowe.md)
+
+## Pakiet wdrożeniowy
+
+Pakiet wdrożeniowy obejmuje dokumenty określające wymagania, przebieg procesu i narzędzia do codziennej pracy:
+
+- [Minimalne wymagania dostępności](./minimalne-wymagania.md)
+- [Model operacyjny publikacji dostępnych multimediów](./model-operacyjny-publikacji-dostepnych-multimediow.md)
+- [Standardy tworzenia dostępnych materiałów](./standardy-tworzenia-index.md)
+- [05. Standard tworzenia dostępnych materiałów audio](./05-standard-tworzenia-dostepnych-materialow-audio.md)
+- [Listy kontrolne publikacji](./listy-kontrolne-index.md)
+- [Lista kontrolna publikacji audio](./lista-kontrolna-publikacji-audio.md)
+- [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md)
+- [Modele wdrożenia dla podmiotów](./modele-index.md)
 
 ## Uzasadnienie
 
-W praktyce funkcjonowania podmiotów publicznych dostępność materiałów multimedialnych i treści cyfrowych jest często traktowana jako działanie uzupełniające lub dodatkowe, realizowane na końcowym etapie przygotowania materiału.
-
-Prowadzi to do:
-- niekompletnych komunikatów,
-- braku równoważności informacji,
-- konieczności wprowadzania poprawek po publikacji,
-- uznaniowego stosowania wymagań dostępności.
-
-Wprowadzenie spójnego modelu działania umożliwia:
-- zapewnienie dostępności na każdym etapie procesu,
-- jednoznaczne przypisanie odpowiedzialności,
-- ograniczenie publikacji materiałów niepełnych,
-- poprawę jakości komunikacji publicznej,
-- ograniczenie ryzyka naruszeń przepisów.
-
-Szczegółowe uzasadnienie oraz powiązanie z wymaganiami prawnymi określono w dokumencie:
-
-→ [Uzasadnienie stosowania wymagań](./uzasadnienie-stosowania.md)
+Wdrożenie pakietu ogranicza ryzyko publikacji materiałów niepełnych, porządkuje odpowiedzialność oraz zmniejsza koszty poprawek po publikacji.
 
 ## Podstawy prawne
 
-W zaleceniu uwzględniono poniżej wymienione przepisy, normy i wytyczne:
-
-- Art. 3–8 ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz. U. 2019 poz. 848, z późn. zm.).
-- W3C WAI, Web Content Accessibility Guidelines (WCAG).
-- Norma EN 301 549 Accessibility requirements for ICT products and services.
-- Dyrektywa Parlamentu Europejskiego i Rady (UE) 2019/882 (Europejski Akt o Dostępności).
+- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
+- EN 301 549 Accessibility requirements for ICT products and services.
+- Web Content Accessibility Guidelines (WCAG).
+- Dyrektywa (UE) 2019/882 (Europejski Akt o Dostępności).
 
 ## Źródła i opracowania
 
-- W3C WAI, Web Content Accessibility Guidelines (WCAG)
-- W3C WAI, Making Audio and Video Media Accessible
-- EN 301 549 Accessibility requirements for ICT products and services
-- WebAIM, Accessibility Principles and Techniques
+- W3C WAI, Web Content Accessibility Guidelines (WCAG).
+- W3C WAI, Making Audio and Video Media Accessible.
+- EN 301 549 Accessibility requirements for ICT products and services.
+- WebAIM, Accessibility Principles and Techniques.
 
 ## Historia wersji
 
 | Wersja | Data | Etap | Opis zmian |
-|--------|------|------|-----------|
-| 0.9 | 2026-04 | Projekt roboczy | Opracowanie struktury zalecenia i materiałów towarzyszących |
+|---|---|---|---|
+| 1.1 | 2026-04-27 | Projekt roboczy | Doprecyzowanie rekomendacji do poziomu działań wdrożeniowych i kryteriów zarządczych. |
+| 1.0 | 2026-04-23 | Projekt roboczy | Uporządkowanie struktury dokumentu, rozdzielenie statusu dokumentów i pakietu wdrożeniowego, dodanie procedury sytuacji wyjątkowych. |

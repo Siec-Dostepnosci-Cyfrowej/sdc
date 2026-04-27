@@ -1,151 +1,58 @@
 ---
 id: 03-standard-opisu-alternatywnego-i-tresci-rownowaznych
 title: Standard opisu alternatywnego i treści równoważnych
-description: Standard określający zasady tworzenia opisów alternatywnych i treści równoważnych.
+description: Standard tworzenia opisów alternatywnych i treści równoważnych dla materiałów wizualnych i multimedialnych.
 sidebar_label: Standard opisu alternatywnego
 sidebar_position: 7
-keywords: [słowo kluczowe, inne słowo]
-tags: [słowo kluczowe, inne słowo]
+keywords: [dostępność cyfrowa, opis alternatywny, treść równoważna, alt, multimedia]
+tags: [opis alternatywny, multimedia, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
-wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
+wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 23 kwietnia 2026 r.
+ostatnia_aktualizacja: 27 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
-## Postanowienia ogólne
+## Cel
 
-Niniejszy standard określa sposób tworzenia opisów alternatywnych (alt-text) oraz innych form przekazu równoważnego w celu zapewnienia spełnienia wymagań obowiązkowych.
+Ujednolicenie zasad tworzenia opisów alternatywnych i treści równoważnych tak, aby odbiorca bez dostępu do obrazu lub dźwięku otrzymywał pełny sens komunikatu.
 
-Celem standardu jest zapewnienie, że każda informacja przekazywana w formie wizualnej posiada równoważny odpowiednik tekstowy.
+## Zakres
 
-Równoważność informacyjna oznacza, że użytkownik otrzymuje tę samą wiedzę niezależnie od formy odbioru.
+Standard obejmuje opisy alt grafik, streszczenia materiałów, transkrypcje i opisy treści wizualnych w materiałach multimedialnych.
 
-Standard ma charakter obowiązkowy i jest stosowany we wszystkich kanałach publikacji.
+## Kiedy stosować
 
-## Zasada podstawowa tworzenia opisu
+Stosować przy każdym materiale, w którym część informacji jest przekazywana obrazem, wykresem, układem lub dźwiękiem.
 
-Opis alternatywny jest elementem przekazu informacyjnego, a nie opisem technicznym obrazu.
+## Wymagania obowiązkowe
 
-Jego zadaniem jest przekazanie znaczenia grafiki, a nie odwzorowanie jej wyglądu.
+- Opis alternatywny przekazuje znaczenie materiału, a nie tylko jego wygląd.
+- Treść równoważna zawiera dane krytyczne dla decyzji odbiorcy.
+- Opis jest dostosowany do celu publikacji i kontekstu.
 
-Opis powinien odpowiadać na pytanie:
-„co użytkownik powinien wiedzieć na podstawie tej grafiki?”
+## Zalecany sposób realizacji
 
-Dobrym podejściem jest tworzenie opisu tak, jakby grafika była przedstawiana osobie przez telefon.
+Należy unikać odniesień przestrzennych, jeżeli nie są potrzebne do zrozumienia treści. Można ich użyć, gdy układ, relacje przestrzenne lub kolejność elementów mają znaczenie informacyjne.
 
-Opis powinien koncentrować się na informacjach istotnych z punktu widzenia odbiorcy oraz uwzględniać kontekst publikacji.
+Opis powinien zaczynać się od informacji najważniejszej dla odbiorcy, a dopiero potem podawać szczegóły.
 
-## Struktura opisu alternatywnego
+W materiałach z danymi liczbowymi zaleca się podawać najważniejszy wniosek oraz wartości kluczowe, a nie opisywać wszystkich elementów dekoracyjnych.
 
-Opis powinien być:
-- zwięzły,
-- kompletny,
-- konkretny,
-- jednoznaczny.
+## Kryteria weryfikacji
 
-W pierwszej kolejności należy wskazać, co przedstawia grafika, a następnie przekazać najważniejsze informacje wynikające z jej treści.
-
-W przypadku grafik informacyjnych opis powinien zawierać:
-- temat lub wydarzenie,
-- kluczowe informacje (np. data, miejsce, działanie),
-- elementy istotne dla zrozumienia komunikatu.
-
-Należy unikać:
-- ogólników (np. „grafika”, „obrazek”),
-- zbędnych szczegółów,
-- powielania informacji.
-
-## Zakres informacji
-
-Zakres opisu zależy od funkcji grafiki.
-
-### Grafiki informacyjne
-
-Opis obejmuje wszystkie elementy niezbędne do zrozumienia komunikatu.
-
-Użytkownik korzystający wyłącznie z opisu powinien mieć dostęp do tych samych informacji co odbiorca obrazu.
-
-### Grafiki ilustracyjne
-
-Opis koncentruje się na znaczeniu grafiki w kontekście treści.
-
-Nie ma potrzeby opisywania wszystkich szczegółów obrazu.
-
-### Grafiki dekoracyjne
-
-Grafiki, które nie niosą informacji, powinny być oznaczone jako dekoracyjne (pusty atrybut alt).
-
-Nie należy tworzyć opisów dla grafik dekoracyjnych.
-
-## Treści równoważne
-
-Każda informacja zawarta w grafice musi być dostępna również w formie tekstowej.
-
-Grafika nie może być jedynym źródłem kluczowych informacji.
-
-Tekst i grafika powinny się uzupełniać, a nie zastępować.
-
-W przypadku materiałów złożonych (np. infografiki, wykresy):
-- należy zapewnić pełny opis tekstowy,
-- opis powinien oddawać sens, strukturę i zależności.
-
-Opis nie może ograniczać się do ogólnego streszczenia.
-
-## Spójność i jakość opisów
-
-Opisy powinny być tworzone w sposób spójny w całej komunikacji.
-
-Opis musi być zrozumiały samodzielnie, bez odwołań do obrazu.
-
-Należy unikać sformułowań typu:
-- „jak widać na obrazku”,
-- „po lewej stronie”,
-- „na zdjęciu znajduje się”.
-
-Opis stanowi integralny element treści i podlega weryfikacji przed publikacją.
-
-## Duża liczba grafik i powtarzalność treści
-
-W przypadku wielu grafik należy unikać powielania identycznych opisów.
-
-Opisy powinny wskazywać elementy różnicujące.
-
-W przypadku galerii dopuszcza się:
-- opis zbiorczy kontekstu,
-- krótsze opisy indywidualne.
-
-Opis musi wnosić informację i wspierać odbiór treści.
+- Odbiorca może zrozumieć komunikat bez obrazu i bez dodatkowych wyjaśnień.
+- W opisie są wszystkie informacje krytyczne (np. termin, miejsce, zakres działania).
+- Opis nie dubluje bezrefleksyjnie tytułu ani nazwy pliku.
 
 ## Najczęstsze błędy
 
-Do najczęstszych błędów należą:
-- opisy ogólne bez wartości informacyjnej,
-- pomijanie kluczowych informacji,
-- nadmierne rozbudowanie opisu,
-- powielanie identycznych treści,
-- brak powiązania z kontekstem.
+- Opisy typu „grafika” lub „obrazek” bez treści.
+- Brak treści równoważnej dla informacji zawartej wyłącznie w wykresie.
+- Nadmierna szczegółowość opisów, która utrudnia odbiór komunikatu.
 
-Aby ich uniknąć:
-- należy określić funkcję grafiki,
-- koncentrować się na znaczeniu,
-- weryfikować opis przed publikacją.
+## Powiązane dokumenty
 
-## Wykorzystanie narzędzi AI
-
-Narzędzia automatyczne, w tym narzędzia AI, mogą być wykorzystywane wyłącznie jako pomoc robocza.
-
-Automatycznie wygenerowany opis alternatywny nie jest samodzielnym spełnieniem wymagania dostępności. Może stanowić wyłącznie materiał pomocniczy, który przed publikacją wymaga redakcji, sprawdzenia zgodności z treścią grafiki i dostosowania do kontekstu komunikatu.
-
-Nie należy stosować opisów o charakterze technicznym, np.:
-„obraz zawierający…”.
-
-Każdy opis musi zostać przygotowany albo zatwierdzony przez osobę odpowiedzialną za treść i zweryfikowany przed publikacją.
-
-Odpowiedzialność za jakość opisu spoczywa na autorze materiału.
-
-## Postanowienia końcowe
-
-Standard określa sposób tworzenia opisów alternatywnych i treści równoważnych.
-
-Dostępność stanowi element jakości komunikatu i powinna być uwzględniana na etapie jego tworzenia.
+- [Minimalne wymagania dostępności](./minimalne-wymagania.md)
+- [Standard tworzenia dostępnych grafik](./02-standard-tworzenia-dostepnych-grafik-i-materialow-wizualnych.md)
+- [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md)

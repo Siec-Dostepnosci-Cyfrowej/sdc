@@ -4,71 +4,22 @@ title: Listy kontrolne publikacji treści
 description: Zestaw list kontrolnych służących do weryfikacji dostępności materiałów przed publikacją.
 sidebar_label: O listach kontrolnych
 sidebar_position: 20
-keywords: [słowo kluczowe, inne słowo]
-tags: [słowo kluczowe, inne słowo]
+keywords: [dostępność cyfrowa, listy kontrolne, multimedia, komunikacja, weryfikacja]
+tags: [checklisty, komunikacja, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
-wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
+wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 23 kwietnia 2026 r.
+ostatnia_aktualizacja: 27 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
-# Listy kontrolne publikacji treści
+## Dostępne listy kontrolne
 
-Listy kontrolne stanowią narzędzie weryfikacji dostępności materiałów przed publikacją.
+- [Lista kontrolna publikacji treści z obrazkiem](./lista-kontrolna-publikacji-tresci-z-obrazkiem.md)
+- [Lista kontrolna publikacji wideo](./lista-kontrolna-publikacji-wideo.md)
+- [Lista kontrolna publikacji postów w mediach społecznościowych](./lista-kontrolna-publikacji-postow-w-social-media.md)
+- [Lista kontrolna publikacji audio](./lista-kontrolna-publikacji-audio.md)
 
-Ich celem jest zapewnienie, że każdy materiał spełnia minimalne wymagania dostępności i może zostać opublikowany bez konieczności późniejszych poprawek.
+## Zasada użycia
 
-## Zasada stosowania
-
-Każdy materiał przed publikacją musi zostać sprawdzony przy użyciu odpowiedniej listy kontrolnej.
-
-Każdy punkt listy kontrolnej wymaga odpowiedzi:
-- TAK – wymaganie zostało spełnione,
-- NIE – wymaganie nie zostało spełnione.
-
-Jeżeli na którekolwiek pytanie odpowiedź brzmi „NIE”, materiał:
-- co do zasady nie może zostać opublikowany,
-- wymaga poprawy przed publikacją.
-
-Listy kontrolne mają charakter zero-jedynkowy na potrzeby oceny spełnienia wymagań i stanowią podstawę decyzji o publikacji. W sytuacjach wyjątkowych negatywny wynik listy kontrolnej może zostać obsłużony wyłącznie zgodnie z przyjętą procedurą postępowania w sytuacjach wyjątkowych.
-
-## Kiedy stosować listy kontrolne
-
-Listy kontrolne stosuje się przed publikacją:
-- materiałów na stronie internetowej,
-- postów w mediach społecznościowych,
-- materiałów wideo i audio,
-- materiałów graficznych.
-
-Listy kontrolne nie służą do oceny po publikacji.
-
-## Dobór listy kontrolnej
-
-Należy stosować listę kontrolną odpowiadającą formie materiału:
-
-- materiał wideo → lista kontrolna publikacji wideo  
-- post z grafiką → lista kontrolna publikacji treści z obrazkiem  
-- post w mediach społecznościowych → lista kontrolna publikacji postów w social media  
-
-Jeżeli materiał łączy różne formy (np. post z grafiką i wideo), należy zastosować więcej niż jedną listę kontrolną.
-
-## Odpowiedzialność
-
-Za zastosowanie listy kontrolnej odpowiada osoba publikująca materiał, która potwierdza spełnienie wymagań przed jego udostępnieniem.
-
-Brak weryfikacji listą kontrolną traktowany jest jako brak spełnienia wymagań dostępności.
-
-## Rola list kontrolnych w podmiocie
-
-Listy kontrolne:
-- ograniczają publikację materiałów niepełnych lub niedostępnych do uzasadnionych sytuacji wyjątkowych,
-- zapewniają spójny standard publikacji,
-- ograniczają konieczność wprowadzania poprawek po publikacji,
-- wspierają codzienną pracę redakcyjną i komunikacyjną.
-
-Listy kontrolne nie zastępują wiedzy ani doświadczenia, ale stanowią obowiązkowe narzędzie pracy.
-
-## Powiązanie z zaleceniem
-
-Listy kontrolne są elementem realizacji [Zalecenia Organizacja procesu publikacji dostępnych materiałów multimedialnych i treści cyfrowych](./komunikacja-masowa-zalecenie).
+Punkty obowiązkowe muszą być spełnione przed publikacją albo objęte [Procedurą postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md).

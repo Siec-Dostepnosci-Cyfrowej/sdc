@@ -1,164 +1,58 @@
 ---
 id: 04-standard-struktury-komunikatu-i-tworzenia-tresci
-title: Standard tworzenia treści
-description: Standard określający sposób tworzenia struktury komunikatu i przygotowania czytelnych treści.
-sidebar_label: Standard tworzenia treści
+title: Standard struktury komunikatu i tworzenia treści
+description: Standard określający zasady budowania zrozumiałych i dostępnych komunikatów.
+sidebar_label: Standard treści
 sidebar_position: 8
-keywords: [słowo kluczowe, inne słowo]
-tags: [słowo kluczowe, inne słowo]
+keywords: [dostępność cyfrowa, struktura komunikatu, prosty język, hierarchia informacji, komunikacja]
+tags: [treści, komunikacja, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
-wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
+wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 23 kwietnia 2026 r.
+ostatnia_aktualizacja: 27 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
-## Postanowienia ogólne
+## Cel
 
-Niniejszy standard określa sposób przygotowania materiałów w celu zapewnienia spełnienia wymagań obowiązkowych.
+Ustalenie zasad tworzenia komunikatów, które są jednoznaczne, logiczne i możliwe do zrozumienia przez szerokie grono odbiorców.
 
-Standard definiuje zasady dotyczące struktury przekazu, hierarchii informacji oraz sposobu formułowania treści, tak aby były one czytelne, zrozumiałe i dostępne.
+## Zakres
 
-Standard ma charakter operacyjny i jest stosowany na etapie przygotowania komunikatu, niezależnie od jego formy.
+Standard dotyczy treści tekstowych, opisów do materiałów wizualnych i multimedialnych oraz komunikatów publikowanych w social mediach, WWW i BIP.
 
-## Zasada struktury komunikatu
+## Kiedy stosować
 
-Komunikat powinien być zbudowany w sposób uporządkowany i jednoznaczny.
+Stosować na etapie planowania, redakcji i finalnej weryfikacji treści przed publikacją.
 
-Odbiorca musi być w stanie zrozumieć jego sens przy pierwszym kontakcie z treścią, bez konieczności interpretacji lub domyślania się znaczenia.
+## Wymagania obowiązkowe
 
-Struktura komunikatu powinna prowadzić użytkownika od informacji najważniejszych do uzupełniających.
+- Komunikat zawiera informacje niezbędne do podjęcia działania przez odbiorcę.
+- Struktura treści nie może utrudniać ani uniemożliwiać zrozumienia przekazu.
+- Kluczowe informacje nie są ukryte wyłącznie w załączniku graficznym lub wideo.
 
-Najważniejsze informacje muszą być przekazane na początku komunikatu.
+## Zalecany sposób realizacji
 
-Należy unikać:
-- ukrywania sensu komunikatu,
-- eksperymentalnych układów utrudniających odbiór,
-- wprowadzeń bez wartości informacyjnej.
+Prosty język i logiczna struktura są standardem jakości komunikacji, ale nie zawsze są bezwzględnym warunkiem publikacji.
 
-Tytuły i wprowadzenia powinny jasno informować o treści materiału.
+Brak struktury może stać się barierą dostępności, gdy uniemożliwia zrozumienie komunikatu.
 
-Nie należy stosować konstrukcji typu „przynęta informacyjna”, polegających na ukrywaniu sensu komunikatu.
+Zaleca się zasadę jednego komunikatu głównego oraz układ: informacja najważniejsza na początku, następnie szczegóły i działania dla odbiorcy.
 
-Komunikat powinien odpowiadać na podstawowe pytania:
-- co się dzieje,
-- czego dotyczy,
-- gdzie i kiedy ma to miejsce,
-- co powinien zrobić odbiorca.
+## Kryteria weryfikacji
 
-## Hierarchia informacji i kolejność przekazu
+- Odbiorca rozumie: czego dotyczy komunikat, kogo dotyczy i co należy zrobić.
+- Treść jest możliwa do szybkiego skanowania (krótkie akapity, logiczna kolejność).
+- Linki i wezwania do działania mają jednoznaczny cel.
 
-Komunikat musi posiadać wyraźną hierarchię informacji.
+## Najczęstsze błędy
 
-Najważniejsze informacje przekazuje się w pierwszej kolejności, a następnie uzupełnia o szczegóły.
+- Rozpoczynanie komunikatu od tła zamiast od informacji kluczowej.
+- Łączenie wielu różnych komunikatów w jednym poście.
+- Skróty i język specjalistyczny bez wyjaśnienia.
 
-Brak hierarchii utrudnia odbiór i obniża skuteczność komunikatu.
+## Powiązane dokumenty
 
-### Wideo
-
-Najważniejsze informacje powinny pojawiać się na początku materiału.
-
-Nie należy ukrywać kluczowych treści w dalszej części nagrania.
-
-Hierarchię można wzmacniać poprzez:
-- napisy,
-- plansze informacyjne,
-- powtórzenia kluczowych komunikatów.
-
-### Grafiki
-
-Hierarchia wynika z:
-- wielkości tekstu,
-- kontrastu,
-- umiejscowienia elementów.
-
-Najważniejsze informacje muszą być widoczne natychmiast.
-
-### Treści tekstowe
-
-Najważniejsze informacje powinny znajdować się na początku tekstu lub akapitu.
-
-Kolejne zdania powinny rozwijać i uzupełniać przekaz.
-
-Należy unikać ogólnych wprowadzeń bez wartości informacyjnej.
-
-## Język komunikatu
-
-Treści powinny być formułowane w sposób prosty i jednoznaczny.
-
-Należy stosować:
-- krótkie zdania,
-- jedną myśl w zdaniu,
-- logiczną strukturę wypowiedzi.
-
-Należy unikać:
-- zdań wielokrotnie złożonych,
-- nadmiaru informacji w jednym fragmencie,
-- wieloznacznych sformułowań.
-
-### Wideo
-
-Wypowiedzi powinny być:
-- krótkie,
-- konkretne,
-- wyraźne.
-
-Zaleca się stosowanie pauz między kluczowymi informacjami.
-
-### Grafiki
-
-Treść powinna być:
-- krótka,
-- czytelna,
-- ograniczona do minimum.
-
-Należy unikać długich bloków tekstu.
-
-### Treści tekstowe
-
-Należy stosować język prosty i bezpośredni.
-
-Należy unikać:
-- skrótów,
-- żargonu,
-- metafor utrudniających zrozumienie.
-
-Jeżeli użycie specjalistycznych pojęć jest konieczne, należy je wyjaśnić.
-
-W przypadku komunikatów o szczególnym znaczeniu można stosować dodatkowe formy przekazu, np. tłumaczenie na PJM.
-
-## Dopasowanie do formy przekazu
-
-Sposób budowy komunikatu należy dostosować do formy publikacji.
-
-### Wideo
-
-Komunikat jest odbierany w czasie, dlatego wymaga:
-- uporządkowanej narracji,
-- kontroli tempa przekazu,
-- prowadzenia użytkownika krok po kroku.
-
-W dłuższych materiałach należy stosować podział na rozdziały lub sekcje.
-
-### Grafika
-
-Grafika musi być czytelna natychmiast.
-
-Kluczowy komunikat powinien być widoczny bez analizy całej kompozycji.
-
-### Treść tekstowa
-
-Treść powinna umożliwiać szybkie skanowanie.
-
-Należy stosować:
-- krótkie akapity,
-- logiczny podział,
-- odpowiednią kolejność informacji.
-
-## Postanowienia końcowe
-
-Standard porządkuje sposób tworzenia komunikatów i zapewnia ich czytelność oraz zrozumiałość.
-
-Jego stosowanie eliminuje przypadkowość w budowaniu treści i wprowadza jednolite zasady komunikacji.
-
-Dostępność komunikatu wynika z jego struktury, języka oraz sposobu przekazywania informacji i powinna być uwzględniana na etapie jego tworzenia.
+- [Minimalne wymagania dostępności](./minimalne-wymagania.md)
+- [Lista kontrolna publikacji postów w mediach społecznościowych](./lista-kontrolna-publikacji-postow-w-social-media.md)
+- [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md)
