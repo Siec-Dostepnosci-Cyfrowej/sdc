@@ -81,8 +81,4 @@ Stosowanie prostego języka i ETR nie zastępuje standardowych dokumentów. Jest
 - [Komunikacja dla wszystkich](https://www.power.gov.pl/media/13597/informacja-dla-wszystkich.pdf)
 - [Prosty język: jak tworzyć treści dostępne cyfrowo?](https://kompetencjecyfrowe.gov.pl/aktualnosci/wpis/prosty-jezyk-jak-tworzyc-tresci-dostepne-cyfrowo)
 
-## Historia wersji
-
-| **Wersja** | **Autor** | **Data** | **Opis zmian** |
-| --- | --- | --- | --- |
 | RC | Codex na podstawie dokumentu roboczego użytkownika | 26.03.2026 | Pierwsza wersja robocza dokumentu |
