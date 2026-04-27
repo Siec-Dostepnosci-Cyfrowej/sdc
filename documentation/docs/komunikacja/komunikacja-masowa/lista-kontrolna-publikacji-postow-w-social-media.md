@@ -9,7 +9,7 @@ tags: [social media, checklista, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
 wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 23 kwietnia 2026 r.
+ostatnia_aktualizacja: 27 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
@@ -18,10 +18,11 @@ Punkty obowiązkowe muszą być spełnione przed publikacją albo objęte proced
 | Punkt kontrolny | Status | Odpowiedź | Dowód/uwaga |
 |---|---|---|---|
 | Czy post zawiera kluczową informację w treści głównej? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy przy grafice/wideo zapewniono odpowiednie elementy dostępności (alt, napisy, treść równoważna)? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
+| Czy grafiki mają opis alternatywny lub równoważną treść w poście/komentarzu? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
+| Czy materiały wideo mają napisy lub równoważną alternatywę tekstową? | warunkowe | TAK / NIE / NIE DOTYCZY | |
 | Czy materiał nie zawiera migających elementów? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
 | Czy link ma zrozumiałą treść albo jest poprzedzony opisem celu? | warunkowe | TAK / NIE / NIE DOTYCZY | |
 | Czy emoji nie zastępują kluczowej treści? | zalecane | TAK / NIE / NIE DOTYCZY | |
-| Czy komunikat jest zwięzły i logicznie uporządkowany? | zalecane | TAK / NIE / NIE DOTYCZY | |
+| Czy komunikat jest zwięzły, logiczny i możliwy do szybkiego skanowania? | zalecane | TAK / NIE / NIE DOTYCZY | |
 
 Powiązana procedura: [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md).

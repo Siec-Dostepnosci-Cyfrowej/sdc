@@ -9,13 +9,13 @@ tags: [wideo, multimedia, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
 wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 23 kwietnia 2026 r.
+ostatnia_aktualizacja: 27 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
 ## Cel
 
-Zapewnienie jednolitych zasad przygotowania materiałów wideo zgodnych z wymaganiami dostępności.
+Zapewnienie jednolitego sposobu przygotowania materiałów wideo tak, aby były zrozumiałe i dostępne dla osób korzystających z różnych sposobów odbioru.
 
 ## Zakres
 
@@ -23,14 +23,14 @@ Standard dotyczy materiałów wideo publikowanych w serwisie WWW, BIP, mediach s
 
 ## Kiedy stosować
 
-Standard stosuje się do każdego materiału wideo przed publikacją.
+Standard stosuje się do każdego materiału wideo przed publikacją oraz przy aktualizacji materiału już opublikowanego.
 
 ## Wymagania obowiązkowe
 
 - Materiał zawiera napisy obejmujące całą ścieżkę dźwiękową.
-- Materiał zapewnia alternatywę dla istotnych treści wizualnych (audiodeskrypcja lub treść równoważna).
-- Materiał nie zawiera migających elementów mogących powodować dyskomfort.
-- Odtwarzacz umożliwia pauzę/zatrzymanie (gdy funkcja jest dostępna).
+- Treści istotne wizualnie mają alternatywę (audiodeskrypcję lub równoważną treść tekstową).
+- Materiał nie zawiera migających elementów powodujących ryzyko dyskomfortu.
+- W przypadku transmisji planowanych zapewnia się napisy na żywo, jeśli jest to możliwe organizacyjnie i technicznie; w przeciwnym razie zapewnia się uzupełnienie po transmisji.
 
 ## Zalecany sposób realizacji
 
@@ -38,19 +38,23 @@ Napisy zamknięte są preferowane, gdy platforma na to pozwala. Napisy otwarte m
 
 Kontrast napisów dotyczy szczególnie napisów osadzonych na stałe i tekstów w obrazie. Przy napisach zamkniętych sposób prezentacji zależy od możliwości odtwarzacza/platformy.
 
+Automatycznie generowane napisy można traktować wyłącznie jako materiał roboczy. Przed publikacją wymagają korekty treści, synchronizacji i interpunkcji.
+
 Transkrypcja rozszerzona jest jedną z kluczowych form zapewnienia dostępu do treści audiowizualnych osobom, które nie mogą korzystać ani z obrazu, ani z dźwięku.
 
 ## Kryteria weryfikacji
 
-- Napisy są zgodne z wypowiedzią i zsynchronizowane.
-- Kluczowe treści wizualne mają odpowiednik tekstowy lub audiodeskrypcję.
-- Teksty osadzone na obrazie są czytelne.
+- Napisy są kompletne, poprawne merytorycznie i zsynchronizowane.
+- Kluczowe informacje wizualne występują również w formie dostępnej bez obrazu.
+- Materiał nie zawiera błysków i efektów, które mogą powodować barierę odbioru.
+- Tytuł i opis materiału pozwalają zrozumieć jego temat bez uruchamiania nagrania.
 
 ## Najczęstsze błędy
 
-- Automatyczne napisy bez korekty.
-- Brak informacji wizualnych w alternatywie tekstowej.
-- Zbyt niski kontrast napisów osadzonych.
+- Publikacja z napisami automatycznymi bez korekty.
+- Pominięcie informacji widocznych na planszach lub wykresach.
+- Napisy osadzone z niskim kontrastem albo zbyt małą wielkością fontu.
+- Brak wskazania, gdzie znajduje się transkrypcja.
 
 ## Powiązane dokumenty
 

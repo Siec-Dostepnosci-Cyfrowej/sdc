@@ -9,7 +9,7 @@ tags: [grafiki, checklista, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
 wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 23 kwietnia 2026 r.
+ostatnia_aktualizacja: 27 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
@@ -20,8 +20,10 @@ Punkty obowiązkowe muszą być spełnione przed publikacją albo objęte proced
 | Czy najważniejsza informacja jest dostępna w treści posta, a nie wyłącznie na grafice? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
 | Czy grafika informacyjna posiada opis alternatywny? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
 | Czy informacje z grafiki mają równoważną treść tekstową poza obrazem? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
+| Czy tekst na grafice jest czytelny i ma odpowiedni kontrast? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
 | Czy treść nie przekazuje informacji wyłącznie kolorem? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
 | Czy link ma zrozumiałą treść albo jest poprzedzony opisem celu? | warunkowe | TAK / NIE / NIE DOTYCZY | |
+| Czy komunikat jest logicznie uporządkowany i nieprzeładowany? | zalecane | TAK / NIE / NIE DOTYCZY | |
 | Czy grafika jest czytelna na urządzeniu mobilnym? | zalecane | TAK / NIE / NIE DOTYCZY | |
 
 Powiązana procedura: [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md).

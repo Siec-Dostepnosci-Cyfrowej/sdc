@@ -9,13 +9,15 @@ tags: [zalecenie, komunikacja, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
 wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 23 kwietnia 2026 r.
+ostatnia_aktualizacja: 27 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
 ## Cel zalecenia
 
-Celem zalecenia jest ustanowienie jednolitego, weryfikowalnego i możliwego do wdrożenia modelu przygotowania oraz publikacji materiałów multimedialnych i treści cyfrowych w podmiotach publicznych.
+Celem zalecenia jest ustanowienie jednolitego i weryfikowalnego modelu przygotowania, kontroli i publikacji materiałów cyfrowych, który podmiot publiczny może wdrożyć niezależnie od wielkości organizacji.
+
+Model łączy wymagania normatywne z narzędziami operacyjnymi i wskazuje, kiedy publikacja jest dopuszczalna, a kiedy konieczna jest poprawa materiału albo uruchomienie procedury wyjątkowej.
 
 ## Zalecenie
 
@@ -25,49 +27,84 @@ Podmiot publiczny ustanawia i stosuje zasady przygotowania, weryfikacji i publik
 
 ### 1. Ustanowienie zasad i wymagań
 
-Podmiot powinien formalnie przyjąć minimalne wymagania publikacyjne oraz standardy przygotowania materiałów.
+Podmiot przyjmuje minimalne wymagania publikacyjne jako warunek publikacji materiału.
 
-Wymagania obowiązkowe należy odróżnić od działań zalecanych jakościowo.
+Dodatkowo wdraża standardy tworzenia materiałów, które opisują sposób praktycznej realizacji wymagań.
+
+Działania:
+- zatwierdzenie katalogu wymagań obowiązkowych, warunkowych i zalecanych,
+- wskazanie dokumentów stosowanych przy publikacji (standardy, listy kontrolne, procedura wyjątków),
+- okresowy przegląd wymagań i ich aktualność względem przepisów.
 
 ### 2. Określenie ról i odpowiedzialności
 
-Należy przypisać odpowiedzialność za każdy etap: przygotowanie treści, opracowanie elementów dostępności, weryfikację i publikację.
+Każdy etap procesu ma właściciela odpowiedzialnego za wynik: autor, redaktor, osoba weryfikująca, osoba publikująca, osoba nadzorująca proces.
 
-Zakres odpowiedzialności powinien być znany wszystkim osobom uczestniczącym w procesie.
+Zakres odpowiedzialności musi być jawny i znany zespołowi.
+
+Działania:
+- przypisanie odpowiedzialności do ról, a nie do ogólnych zespołów,
+- wskazanie osoby decyzyjnej dla sytuacji wyjątkowych,
+- wskazanie osoby odpowiedzialnej za monitoring błędów i działania korygujące.
 
 ### 3. Wdrożenie modelu operacyjnego
 
-Proces powinien obejmować planowanie, przygotowanie, weryfikację, publikację i monitoring po publikacji.
+Model operacyjny obejmuje pełny cykl życia materiału: planowanie, przygotowanie, opracowanie dostępności, weryfikację, publikację i monitoring.
 
-Model musi uwzględniać materiały tworzone wewnętrznie i przekazywane przez podmioty zewnętrzne.
+Model stosuje się do treści własnych oraz materiałów zewnętrznych.
+
+Działania:
+- stosowanie jednego przebiegu procesu dla CMS, BIP, serwisu WWW i social mediów,
+- uwzględnienie wymagań dostępności już w briefie, zleceniu i odbiorze materiałów zewnętrznych,
+- dokumentowanie decyzji o publikacji warunkowej.
 
 ### 4. Wprowadzenie obowiązkowej weryfikacji przed publikacją
 
-Każdy materiał powinien przejść kontrolę z użyciem właściwej listy kontrolnej.
+Każdy materiał jest sprawdzany właściwą listą kontrolną przed publikacją.
 
-Brak spełnienia punktu obowiązkowego oznacza konieczność poprawy materiału albo uruchomienie procedury sytuacji wyjątkowych.
+Weryfikacja ma charakter decyzyjny i stanowi podstawę dopuszczenia materiału.
+
+Działania:
+- stosowanie tabelarycznych list kontrolnych z dowodem/uwagą,
+- traktowanie odpowiedzi „NIE” w punktach obowiązkowych jako blokady publikacji,
+- obsługa odstępstw wyłącznie przez procedurę sytuacji wyjątkowych.
 
 ### 5. Zapewnienie narzędzi, kompetencji i wzorców
 
-Podmiot powinien zapewnić szablony, wzory, instrukcje, narzędzia i szkolenia wspierające tworzenie dostępnych treści.
+Wdrożenie wymaga narzędzi redakcyjnych i technicznych: wzorów opisów, szablonów treści, list kontrolnych i procedur.
 
-Należy stosować jednolite wzorce publikacji dla materiałów wideo, audio, grafik i komunikatów tekstowych.
+Równolegle podmiot zapewnia szkolenia i bieżące wsparcie zespołu.
+
+Działania:
+- udostępnienie wzorców dla wideo, audio, grafik i postów,
+- szkolenia stanowiskowe dla autorów i osób publikujących,
+- monitorowanie najczęstszych błędów i aktualizacja materiałów pomocniczych.
 
 ### 6. Obsługa sytuacji wyjątkowych
 
-Odstępstwo od pełnej dostępności może mieć charakter wyłącznie incydentalny.
+Odstępstwo od pełnej dostępności ma charakter incydentalny i nie jest alternatywą dla spełnienia wymagań.
 
-Każde odstępstwo wymaga decyzji osoby uprawnionej, udokumentowania przyczyny oraz terminu uzupełnienia braków.
+Każde odstępstwo wymaga decyzji osoby uprawnionej, udokumentowanej przyczyny oraz terminu uzupełnienia braków.
+
+Działania:
+- prowadzenie rejestru wyjątków,
+- określanie terminu uzupełnienia, co do zasady do 3 dni roboczych,
+- zastosowanie działań końcowych: uzupełnienie, aktualizacja albo wycofanie materiału.
 
 ### 7. Monitorowanie, analiza błędów i doskonalenie procesu
 
-Po publikacji należy analizować zgłoszenia, błędy i powtarzalne problemy.
+Po publikacji podmiot analizuje zgłoszenia, błędy i opóźnienia uzupełnień.
 
-Wyniki monitoringu powinny prowadzić do działań korygujących, aktualizacji wzorców i wzmocnienia kompetencji zespołu.
+Celem monitoringu jest ograniczenie powtarzalności wyjątków i podnoszenie jakości materiałów.
+
+Działania:
+- cykliczna analiza rejestru wyjątków i checklist,
+- wdrażanie działań korygujących w procesie tworzenia,
+- aktualizacja standardów i szkoleń na podstawie danych z monitoringu.
 
 ## Zakres stosowania
 
-Zalecenie obejmuje komunikację kierowaną do szerokiego grona odbiorców, w szczególności materiały publikowane w serwisie internetowym, BIP, mediach społecznościowych i na platformach zewnętrznych.
+Zalecenie obejmuje komunikację publiczną prowadzoną przez podmiot w kanałach cyfrowych: serwis WWW, BIP, media społecznościowe i platformy zewnętrzne.
 
 ## Status dokumentów pakietu
 
@@ -101,7 +138,7 @@ Zalecenie obejmuje komunikację kierowaną do szerokiego grona odbiorców, w szc
 
 ## Pakiet wdrożeniowy
 
-Pakiet wdrożeniowy obejmuje dokumenty określające wymagania, sposób działania oraz narzędzia codziennej pracy:
+Pakiet wdrożeniowy obejmuje dokumenty określające wymagania, przebieg procesu i narzędzia do codziennej pracy:
 
 - [Minimalne wymagania dostępności](./minimalne-wymagania.md)
 - [Model operacyjny publikacji dostępnych multimediów](./model-operacyjny-publikacji-dostepnych-multimediow.md)
@@ -114,7 +151,7 @@ Pakiet wdrożeniowy obejmuje dokumenty określające wymagania, sposób działan
 
 ## Uzasadnienie
 
-Wdrożenie pakietu ogranicza ryzyko publikacji materiałów niepełnych, porządkuje odpowiedzialność i zwiększa powtarzalność jakości komunikacji publicznej.
+Wdrożenie pakietu ogranicza ryzyko publikacji materiałów niepełnych, porządkuje odpowiedzialność oraz zmniejsza koszty poprawek po publikacji.
 
 ## Podstawy prawne
 
@@ -134,4 +171,5 @@ Wdrożenie pakietu ogranicza ryzyko publikacji materiałów niepełnych, porząd
 
 | Wersja | Data | Etap | Opis zmian |
 |---|---|---|---|
+| 1.1 | 2026-04-27 | Projekt roboczy | Doprecyzowanie rekomendacji do poziomu działań wdrożeniowych i kryteriów zarządczych. |
 | 1.0 | 2026-04-23 | Projekt roboczy | Uporządkowanie struktury dokumentu, rozdzielenie statusu dokumentów i pakietu wdrożeniowego, dodanie procedury sytuacji wyjątkowych. |

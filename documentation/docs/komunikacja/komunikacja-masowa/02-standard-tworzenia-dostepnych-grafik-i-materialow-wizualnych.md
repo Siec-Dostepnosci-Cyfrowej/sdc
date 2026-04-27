@@ -9,27 +9,28 @@ tags: [grafiki, komunikacja, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
 wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 23 kwietnia 2026 r.
+ostatnia_aktualizacja: 27 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
 ## Cel
 
-Ustalenie wymagań tworzenia grafik czytelnych i zrozumiałych także bez percepcji obrazu.
+Ustalenie zasad tworzenia grafik, które przekazują informację także osobom niekorzystającym z obrazu lub odbierającym treść w warunkach ograniczonej percepcji.
 
 ## Zakres
 
-Standard obejmuje grafiki publikowane w WWW, BIP i mediach społecznościowych.
+Standard obejmuje grafiki, plansze, infografiki i materiały wizualne publikowane w kanałach cyfrowych podmiotu.
 
 ## Kiedy stosować
 
-Stosować do każdej grafiki zawierającej informację.
+Stosować do każdej publikacji zawierającej element wizualny, niezależnie od kanału publikacji.
 
 ## Wymagania obowiązkowe
 
-- Grafika informacyjna ma opis alternatywny.
-- Grafika informacyjna ma równoważną treść tekstową poza obrazem.
-- Informacje nie są przekazywane wyłącznie kolorem.
+- Grafika informacyjna ma opis alternatywny adekwatny do kontekstu.
+- Kluczowe informacje z grafiki występują również poza obrazem, w treści równoważnej.
+- Informacje nie są kodowane wyłącznie kolorem.
+- Tekst na grafice ma odpowiedni kontrast i czytelny rozmiar.
 
 ## Zalecany sposób realizacji
 
@@ -37,17 +38,19 @@ Puste alty dotyczą głównie treści publikowanych w HTML/CMS i stosuje się je
 
 Grafika zawierająca informacje musi mieć równoważną treść tekstową poza obrazem (np. w treści posta, opisie albo komentarzu).
 
+W komunikatach o znaczeniu publicznym zaleca się ograniczanie tekstu osadzonego w obrazie na rzecz tekstu natywnego w poście lub na stronie.
+
 ## Kryteria weryfikacji
 
-- Alt-text oddaje znaczenie grafiki w kontekście.
-- Kluczowe informacje są dostępne w tekście towarzyszącym.
-- Tekst w grafice jest czytelny i ma odpowiedni kontrast.
+- Odbiorca bez dostępu do obrazu otrzymuje pełny sens komunikatu.
+- Treść graficzna pozostaje czytelna na urządzeniu mobilnym.
+- Brak informacji, które można odczytać wyłącznie na podstawie koloru.
 
 ## Najczęstsze błędy
 
-- Opis „obrazek” bez informacji.
-- Przekazywanie dat, miejsc i warunków tylko na grafice.
-- Zbyt mały tekst i niski kontrast.
+- Alt opisujący wyłącznie wygląd, bez informacji.
+- Przeniesienie całego komunikatu do grafiki bez treści równoważnej.
+- Niski kontrast i zbyt mały tekst.
 
 ## Powiązane dokumenty
 

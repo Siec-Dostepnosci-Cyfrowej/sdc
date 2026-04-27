@@ -9,27 +9,27 @@ tags: [treści, komunikacja, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
 wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 23 kwietnia 2026 r.
+ostatnia_aktualizacja: 27 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
 ## Cel
 
-Ustalenie zasad budowania komunikatów czytelnych, logicznych i możliwych do zrozumienia przez szerokie grono odbiorców.
+Ustalenie zasad tworzenia komunikatów, które są jednoznaczne, logiczne i możliwe do zrozumienia przez szerokie grono odbiorców.
 
 ## Zakres
 
-Standard dotyczy treści tekstowych, opisów do grafik i wideo oraz postów publikowanych cyfrowo.
+Standard dotyczy treści tekstowych, opisów do materiałów wizualnych i multimedialnych oraz komunikatów publikowanych w social mediach, WWW i BIP.
 
 ## Kiedy stosować
 
-Stosować na etapie planowania i redakcji każdego komunikatu.
+Stosować na etapie planowania, redakcji i finalnej weryfikacji treści przed publikacją.
 
 ## Wymagania obowiązkowe
 
-- Komunikat zawiera kluczowe informacje potrzebne do podjęcia działania.
-- Struktura komunikatu nie może uniemożliwiać zrozumienia treści.
-- Informacje krytyczne nie są ukryte wyłącznie w załącznikach wizualnych.
+- Komunikat zawiera informacje niezbędne do podjęcia działania przez odbiorcę.
+- Struktura treści nie może utrudniać ani uniemożliwiać zrozumienia przekazu.
+- Kluczowe informacje nie są ukryte wyłącznie w załączniku graficznym lub wideo.
 
 ## Zalecany sposób realizacji
 
@@ -37,19 +37,19 @@ Prosty język i logiczna struktura są standardem jakości komunikacji, ale nie 
 
 Brak struktury może stać się barierą dostępności, gdy uniemożliwia zrozumienie komunikatu.
 
-Należy stosować zasadę jednego głównego komunikatu i hierarchię: najważniejsze informacje na początku.
+Zaleca się zasadę jednego komunikatu głównego oraz układ: informacja najważniejsza na początku, następnie szczegóły i działania dla odbiorcy.
 
 ## Kryteria weryfikacji
 
-- Odbiorca rozumie co, gdzie, kiedy i co ma zrobić.
-- Komunikat można przeczytać skanując treść od góry.
+- Odbiorca rozumie: czego dotyczy komunikat, kogo dotyczy i co należy zrobić.
+- Treść jest możliwa do szybkiego skanowania (krótkie akapity, logiczna kolejność).
 - Linki i wezwania do działania mają jednoznaczny cel.
 
 ## Najczęstsze błędy
 
-- Nadmiar informacji w jednym akapicie.
-- Brak celu komunikatu w pierwszych zdaniach.
-- Niejednoznaczne sformułowania i skróty bez wyjaśnienia.
+- Rozpoczynanie komunikatu od tła zamiast od informacji kluczowej.
+- Łączenie wielu różnych komunikatów w jednym poście.
+- Skróty i język specjalistyczny bez wyjaśnienia.
 
 ## Powiązane dokumenty
 
