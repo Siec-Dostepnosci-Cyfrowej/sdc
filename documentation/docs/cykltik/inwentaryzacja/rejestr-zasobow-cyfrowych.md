@@ -46,7 +46,7 @@ Rejestr powinien być prowadzony w sposób umożliwiający identyfikację właś
 6. **Powiązanie z procesami dostępności**  
    Dane zawarte w rejestrze należy wykorzystywać przy planowaniu audytów, opracowywaniu planów naprawczych oraz aktualizacji deklaracji dostępności.
 7. **Wykorzystanie danych w działaniach operacyjnych**  
-   Dane zawarte w rejestrze zasobów cyfrowych powinny stanowić podstawę do realizacji działań operacyjnych związanych z dostępnością, w szczególności programów przeglądu, oceny i zarządzania dokumentami udostępnianymi publicznie, takich jak [Program przeglądu i naprawy załączników](./przeglad-zalacznikow-zmiany-20260423T105242Z-3-001/przeglad-zalacznikow-zmiany/program-przegladu-i-naprawy-zalacznikow/zalecenie-07.md).
+   Dane zawarte w rejestrze zasobów cyfrowych powinny stanowić podstawę do realizacji działań operacyjnych związanych z dostępnością, w szczególności programów przeglądu, oceny i zarządzania dokumentami udostępnianymi publicznie, takich jak [Program przeglądu i naprawy załączników](../../komunikacja/program-przegladu-i-naprawy-zalacznikow/zalecenie-07).
 8. **Uwzględnienie wymagań europejskich**  
    Każdy zasób powinien być oceniany pod kątem zgodności z wymogami Europejskiego Aktu o Dostępności (EAA) i normy EN 301 549.
 9. **Zastosowanie otwartych formatów danych**  
@@ -138,9 +138,3 @@ Rejestr powinien być prowadzony w sposób umożliwiający identyfikację właś
 | 003       | Raport roczny 2024             | Dokument PDF   | https://www.miasto.gov.pl/raport2024.pdf | Biuro Burmistrza     | Zgodny              | Pełna (A, AA, PDF/UA)   | Tak                 | Zgodny z PDF/UA           | 2025-01-10                  | Adobe Acrobat Pro | Zastosowano tagowanie PDF |
 | 004       | Nagranie sesji rady 12.09.2025 | Multimedia     | https://www.miasto.gov.pl/sesja-2025-09-12.mp4 | Wydział Promocji     | Niezgodny           | Brak zgodności         | Nie                 | —                         | 2025-09-13                  | MP4 / YouTube     | Brak napisów – planowane dodanie do końca października |
 | 005       | API danych demograficznych     | System / API   | https://api.miasto.gov.pl/demografia | Wydział Statystyki    | Zgodny              | Pełna (A, AA, API doc)  | Tak                 | Testy automatyczne OK     | 2025-08-01                  | Node.js / Swagger | Dokumentacja dostępna, testy automatyczne aktywne |
-
-
-
-
-
-
