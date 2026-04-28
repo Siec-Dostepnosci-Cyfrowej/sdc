@@ -70,7 +70,10 @@ Proces publikacji obejmuje trzy podstawowe etapy:
    - dodanie napisów i audiodeskrypcji do wideo oraz transkrypcji,
    - przygotowanie opisu alternatywnego dla grafik.
 
-3. Weryfikacja  
+   - potwierdzenie spełnienia dostępności treści,   
+   - sprawdzenie czytelności treści,
+   - sprawdzenie zrozumiałości treści,  
+   - sprawdzenie kontrastu tekstu do tła.
    - sprawdzenie czytelności,  
    - sprawdzenie kontrastu,  
    - potwierdzenie kompletności.
