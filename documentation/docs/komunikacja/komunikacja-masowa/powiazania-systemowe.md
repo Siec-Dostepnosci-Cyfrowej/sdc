@@ -78,7 +78,7 @@ Standard wymaga wykorzystania systemów i narzędzi wspierających dostępność
 
 W szczególności:
 
-- systemy CMS powinny umożliwiać wprowadzanie opisów alternatywnych i struktury treści,
+- systemy zarządzania treścią (CMS-y) powinny umożliwiać wprowadzanie opisów alternatywnych i dostosowanie struktury treści,
 - narzędzia do tworzenia materiałów powinny wspierać czytelność i dostępność,
 - rozwiązania automatyczne mogą wspierać przygotowanie materiałów, ale ich wynik wymaga redakcji, kontroli zgodności z wymaganiami oraz zatwierdzenia przed publikacją.
 
