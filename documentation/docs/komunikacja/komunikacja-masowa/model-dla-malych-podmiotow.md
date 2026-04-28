@@ -51,7 +51,8 @@ Proces realizowany jest przez ograniczoną liczbę osób, często łączących k
 
 - autor przygotowuje materiał,
 - autor lub inna osoba zapewnia dostępność treści,
-- publikacja następuje po weryfikacji.
+- osoba odpowiedzialna za dostępność weryfikuje poprawność treści,
+- redaktor publikuje zweryfikowaną treść.
 
 Brak rozbudowanej struktury organizacyjnej wymaga jasnych i powtarzalnych zasad działania.
 
