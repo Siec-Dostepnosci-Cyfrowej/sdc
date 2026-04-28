@@ -20,8 +20,8 @@ Model określa jednolity przebieg procesu przygotowania, weryfikacji i publikacj
 ## Zakres
 
 Model obejmuje publikację materiałów w:
-- CMS,
-- BIP,
+- systemie zarządzania treścią (CMS),
+- Biuletynie Informacji Publicznych (BIP),
 - serwisie internetowym,
 - mediach społecznościowych,
 - platformie zewnętrznej.
