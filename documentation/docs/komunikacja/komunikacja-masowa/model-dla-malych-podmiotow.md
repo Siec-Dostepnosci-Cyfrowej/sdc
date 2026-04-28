@@ -50,7 +50,7 @@ Proces realizowany jest przez ograniczoną liczbę osób, często łączących k
 ```Proces realizuje mała liczba osób, często jedna osoba pełni kilka różnych ról:
 
 - autor przygotowuje materiał,
-- ta sama osoba lub druga osoba uzupełnia elementy dostępności,
+- autor lub inna osoba zapewnia dostępność treści,
 - publikacja następuje po weryfikacji.
 
 Brak rozbudowanej struktury organizacyjnej wymaga jasnych i powtarzalnych zasad działania.
