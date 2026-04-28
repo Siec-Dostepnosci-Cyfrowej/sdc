@@ -17,7 +17,10 @@ wersja_robocza: true
 
 ## Założenia
 
-Model przeznaczony jest dla podmiotów o ograniczonych zasobach kadrowych i technicznych, takich jak małe jednostki administracyjne, instytucje kultury czy organizacje pozarządowe.
+Model przeznaczony jest dla podmiotów o ograniczonych zasobach kadrowych i technicznych, takich jak:
+- małe jednostki administracyjne, 
+- instytucje kultury,
+- organizacje pozarządowe.
 
 Wdrożenie dostępności opiera się na podejściu uproszczonym, lecz konsekwentnym.
 
