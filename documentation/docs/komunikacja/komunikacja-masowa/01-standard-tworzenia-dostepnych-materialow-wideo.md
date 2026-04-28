@@ -44,7 +44,7 @@ Transkrypcja rozszerzona jest jedną z kluczowych form zapewnienia dostępu do t
 
 ## Kryteria weryfikacji
 
-- Napisy są kompletne, poprawne merytorycznie i zsynchronizowane.
+- Napisy są kompletne, poprawne merytorycznie, zsynchronizowane i mają wymagany lub zalecany kontrast.
 - Kluczowe informacje wizualne występują również w formie dostępnej bez obrazu.
 - Materiał nie zawiera błysków i efektów, które mogą powodować barierę odbioru.
 - Tytuł i opis materiału pozwalają zrozumieć jego temat bez uruchamiania nagrania.
