@@ -38,6 +38,7 @@ Standard stosuje się do każdego materiału wideo przed publikacją oraz przy a
 Napisy zamknięte są preferowane, gdy platforma na to pozwala. Napisy otwarte mogą być stosowane, gdy są jedyną skuteczną formą zapewnienia napisów.
 
 Kontrast napisów dotyczy szczególnie napisów osadzonych na stałe i tekstów w obrazie. Przy napisach zamkniętych sposób prezentacji zależy od możliwości odtwarzacza/platformy.
+```Kontrast napisów dotyczy szczególnie napisów osadzonych na stałe i tekstów w obrazie. Powinien być na minimalnym poziomie 4,5:1. Zalecany kontrast to 7:1, szczególnie przy dynamicznym tle wideo. Przy napisach zamkniętych sposób prezentacji zależy od możliwości odtwarzacza czy platformy.
 
 Automatycznie generowane napisy można traktować wyłącznie jako materiał roboczy. Przed publikacją wymagają korekty treści, synchronizacji i interpunkcji.
 
