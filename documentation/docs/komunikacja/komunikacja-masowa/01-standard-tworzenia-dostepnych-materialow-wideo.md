@@ -30,6 +30,7 @@ Standard stosuje się do każdego materiału wideo przed publikacją oraz przy a
 - Materiał zawiera napisy obejmujące całą ścieżkę dźwiękową.
 - Treści istotne wizualnie mają alternatywę (audiodeskrypcję lub równoważną treść tekstową).
 - Materiał nie zawiera migających elementów powodujących ryzyko dyskomfortu.
+```Materiał nie zawiera migających elementów, które mogą powodować dyskomfort lub np. ryzyko ataku padaczki fotogennej – w szczególności żaden element nie miga częściej niż 3 razy na sekundę.
 - W przypadku transmisji planowanych zapewnia się napisy na żywo, jeśli jest to możliwe organizacyjnie i technicznie; w przeciwnym razie zapewnia się uzupełnienie po transmisji.
 ``W przypadku transmisji planowanych zapewnia się napisy na żywo, jeśli jest to możliwe organizacyjnie i technicznie. W przeciwnym razie uzupełnia się napisy po transmisji, co do zasady w terminie do 14 dni od publikacji. W uzasadnionych sytuacjach termin ten może zostać przedłużony, nie dłużej jednak niż do dwóch miesięcy od zakończenia nadawania na żywo lub od publikacji."
 
