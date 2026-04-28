@@ -101,7 +101,7 @@ W szczególności należy:
 
 ## Zasada minimum
 
-W sytuacji ograniczonych zasobów stosuje się zasadę minimum.
+W sytuacji ograniczonych zasobów stosuje się **zasadę minimum**.
 
 Oznacza to, że:
 - każdy materiał spełnia podstawowe wymagania dostępności,
