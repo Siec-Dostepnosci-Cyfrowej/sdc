@@ -50,6 +50,7 @@ Transkrypcja rozszerzona jest jedną z kluczowych form zapewnienia dostępu do t
 - Napisy są kompletne, poprawne merytorycznie, zsynchronizowane i mają wymagany lub zalecany kontrast.
 - Kluczowe informacje wizualne występują również w formie dostępnej bez obrazu.
 - Materiał nie zawiera błysków i efektów, które mogą powodować barierę odbioru.
+```Materiał nie zawiera efektów i elementów, które migają częściej niż trzy razy na sekundę.
 - Tytuł i opis materiału pozwalają zrozumieć jego temat bez uruchamiania nagrania.
 
 ## Najczęstsze błędy
