@@ -115,7 +115,7 @@ Zalecenie obejmuje komunikację publiczną prowadzoną przez podmiot w kanałach
 ### Standardy normatywno-operacyjne
 
 - [Standardy tworzenia dostępnych materiałów](./standardy-tworzenia-index.md)
-- [05. Standard tworzenia dostępnych materiałów audio](./05-standard-tworzenia-dostepnych-materialow-audio.md)
+- [Standard tworzenia dostępnych materiałów audio](./05-standard-tworzenia-dostepnych-materialow-audio.md)
 
 ### Narzędzia operacyjne
 
@@ -143,7 +143,7 @@ Pakiet wdrożeniowy obejmuje dokumenty określające wymagania, przebieg procesu
 - [Minimalne wymagania dostępności](./minimalne-wymagania.md)
 - [Model operacyjny publikacji dostępnych multimediów](./model-operacyjny-publikacji-dostepnych-multimediow.md)
 - [Standardy tworzenia dostępnych materiałów](./standardy-tworzenia-index.md)
-- [05. Standard tworzenia dostępnych materiałów audio](./05-standard-tworzenia-dostepnych-materialow-audio.md)
+- [Standard tworzenia dostępnych materiałów audio](./05-standard-tworzenia-dostepnych-materialow-audio.md)
 - [Listy kontrolne publikacji](./listy-kontrolne-index.md)
 - [Lista kontrolna publikacji audio](./lista-kontrolna-publikacji-audio.md)
 - [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md)
