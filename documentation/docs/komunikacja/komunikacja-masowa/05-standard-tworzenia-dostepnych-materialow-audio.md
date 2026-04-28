@@ -38,7 +38,7 @@ Transkrypcję przygotowuje się równolegle z montażem lub redakcją materiału
 
 Transkrypcja powinna być dostępna bezpośrednio przy materiale albo przez jednoznaczny link.
 
-## Transkrypcja
+## Zakres transkrypcji 
 
 Transkrypcja obejmuje wypowiedzi, istotne dźwięki kontekstowe i oznaczenia mówców.
 
@@ -48,7 +48,7 @@ Treść należy podzielić na logiczne fragmenty tematyczne, aby ułatwić szybk
 
 ## Jakość dźwięku
 
-Nagranie powinno mieć jakość umożliwiającą zrozumienie wypowiedzi.
+Nagranie powinno mieć jakość umożliwiającą zrozumienie wypowiedzi. Różnica międzu dialogami a tłem powinna wynosić co najmniej 30dB
 
 Muzyka i efekty nie mogą zagłuszać wypowiedzi.
 
