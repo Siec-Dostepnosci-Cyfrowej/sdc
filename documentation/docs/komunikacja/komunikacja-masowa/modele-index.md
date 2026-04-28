@@ -14,7 +14,7 @@ wersja_robocza: true
 ---
 
 
-Niniejsza sekcja zawiera dokumenty opisujące sposób organizacji procesu przygotowania i publikacji dostępnych treści.
+Ta sekcja zawiera dokumenty opisujące, w jaki sposób przygotowywać i publikować dostępne treści.
 
 Modele mają charakter operacyjny i wskazują, jak w praktyce zorganizować działania związane z dostępnością multimediów i komunikacji masowej w zależności od struktury i wielkości podmiotu.
 
