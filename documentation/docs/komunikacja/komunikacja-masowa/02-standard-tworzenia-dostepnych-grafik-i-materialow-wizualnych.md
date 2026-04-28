@@ -34,7 +34,7 @@ Stosować do każdej publikacji zawierającej element wizualny, niezależnie od 
 
 ## Zalecany sposób realizacji
 
-Puste alty dotyczą głównie treści publikowanych w HTML/CMS i stosuje się je dla grafik dekoracyjnych. W mediach społecznościowych sposób oznaczenia dekoracyjności zależy od funkcji platformy.
+Puste alty dotyczą głównie treści publikowanych w HTML i systemach zarządzania treścią (CMS-ach) i stosuje się je dla grafik dekoracyjnych. W mediach społecznościowych sposób oznaczenia dekoracyjności zależy od funkcji platformy.
 
 Grafika zawierająca informacje musi mieć równoważną treść tekstową poza obrazem (np. w treści posta, opisie albo komentarzu).
 
