@@ -11,6 +11,7 @@ data_zgloszenia: 17 kwietnia 2026 r.
 data_aktualizacji: 29 kwietnia 2026 r.
 wersja_robocza: true
 ---
+
 # Zalecenie 7. Program przeglądu i naprawy załączników opublikowanych po 23 września 2018 r.
 
 ## Zalecenie

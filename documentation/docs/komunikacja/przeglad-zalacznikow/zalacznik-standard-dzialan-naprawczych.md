@@ -11,6 +11,7 @@ data_zgloszenia: 17 kwietnia 2026 r.
 data_aktualizacji: 29 kwietnia 2026 r.
 wersja_robocza: true
 ---
+
 # Załącznik nr 7. Standard działań naprawczych dokumentów
 
 ## Cel i zakres standardu
