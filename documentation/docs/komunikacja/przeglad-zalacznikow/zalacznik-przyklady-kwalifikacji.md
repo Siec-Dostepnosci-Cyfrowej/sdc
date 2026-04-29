@@ -2,7 +2,7 @@
 id: zalecenie-07-zalacznik-przyklady
 title: Załącznik nr 6. Przykłady kwalifikacji dokumentów
 description: Przykłady kwalifikacji dokumentów w programie przeglądu.
-sidebar_label: Przykłady
+sidebar_label: Przykłady kwalifikacji
 sidebar_position: 14
 keywords: [komunikacja, załączniki, dokumenty, dostępność cyfrowa]
 tags: [komunikacja, załączniki, dostępność cyfrowa]

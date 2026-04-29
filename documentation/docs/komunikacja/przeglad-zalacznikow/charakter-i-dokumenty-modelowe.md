@@ -2,8 +2,8 @@
 id: zalecenie-07-charakter
 title: Charakter zalecenia i dokumenty modelowe
 description: Opis charakteru zalecenia oraz dokumentów modelowych wspierających jego wdrożenie.
-sidebar_label: Charakter
-sidebar_position: 6
+sidebar_label: Charakter i dokumenty modelowe
+sidebar_position: 4
 keywords: [komunikacja, załączniki, dokumenty, dostępność cyfrowa]
 tags: [komunikacja, załączniki, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk

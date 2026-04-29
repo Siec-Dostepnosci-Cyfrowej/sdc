@@ -3,7 +3,7 @@ id: zalecenie-07-model-dzialania
 title: Model działania
 description: Model działania opisujący identyfikację, ocenę, klasyfikację, decyzje i zarządzanie dokumentami objętymi przeglądem.
 sidebar_label: Model działania
-sidebar_position: 4
+sidebar_position: 5
 keywords: [komunikacja, załączniki, dokumenty, dostępność cyfrowa]
 tags: [komunikacja, załączniki, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk

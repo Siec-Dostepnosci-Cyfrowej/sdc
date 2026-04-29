@@ -2,7 +2,7 @@
 id: zalecenie-07-zalacznik-rejestr
 title: Załącznik nr 2. Rejestr dokumentów objętych przeglądem
 description: Wzór rejestru dokumentów objętych przeglądem.
-sidebar_label: Rejestr
+sidebar_label: Rejestr dokumentów
 sidebar_position: 10
 keywords: [komunikacja, załączniki, dokumenty, dostępność cyfrowa]
 tags: [komunikacja, załączniki, dostępność cyfrowa]

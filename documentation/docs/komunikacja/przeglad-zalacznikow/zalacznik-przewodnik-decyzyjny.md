@@ -2,7 +2,7 @@
 id: zalecenie-07-zalacznik-decyzje
 title: Załącznik nr 4. Przewodnik podejmowania decyzji dotyczących dokumentów
 description: Przewodnik podejmowania decyzji dotyczących dokumentów objętych przeglądem.
-sidebar_label: Decyzje
+sidebar_label: Przewodnik decyzyjny
 sidebar_position: 12
 keywords: [komunikacja, załączniki, dokumenty, dostępność cyfrowa]
 tags: [komunikacja, załączniki, dostępność cyfrowa]

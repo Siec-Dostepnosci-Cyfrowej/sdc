@@ -2,7 +2,7 @@
 id: zalecenie-07-procedura-duze
 title: Procedura dla dużych podmiotów
 description: Procedura realizacji programu przeglądu załączników w podmiotach o rozbudowanej strukturze.
-sidebar_label: Duże podmioty
+sidebar_label: Procedura - duże podmioty
 sidebar_position: 7
 keywords: [komunikacja, załączniki, dokumenty, dostępność cyfrowa]
 tags: [komunikacja, załączniki, dostępność cyfrowa]

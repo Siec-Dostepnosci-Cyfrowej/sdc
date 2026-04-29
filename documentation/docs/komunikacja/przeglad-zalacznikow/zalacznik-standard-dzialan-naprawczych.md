@@ -2,7 +2,7 @@
 id: zalecenie-07-zalacznik-standard
 title: Załącznik nr 7. Standard działań naprawczych dokumentów
 description: Standard działań naprawczych dokumentów objętych przeglądem.
-sidebar_label: Standard naprawczy
+sidebar_label: Standard działań naprawczych
 sidebar_position: 15
 keywords: [komunikacja, załączniki, dokumenty, dostępność cyfrowa]
 tags: [komunikacja, załączniki, dostępność cyfrowa]

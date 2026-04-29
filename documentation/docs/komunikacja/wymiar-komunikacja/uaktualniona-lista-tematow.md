@@ -94,7 +94,7 @@ Brak formalnego mechanizmu zapewniania zgodności treści przekazywanych przez p
 
 ---
 
-## 7. Zalecenie: Program przeglądu i naprawy załączników opublikowanych po 23 września 2018 r.
+## 7. Zalecenie: Program przeglądu i zarządzania dokumentami udostępnionymi w serwisach internetowych
 
 ### Zakres:
 - Inwentaryzacja plików PDF, DOCX, XLS itp.

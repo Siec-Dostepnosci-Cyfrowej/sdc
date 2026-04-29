@@ -2,7 +2,7 @@
 id: zalecenie-07-zalacznik-archiwizacja
 title: Załącznik nr 5. Zasady archiwizacji i usuwania dokumentów
 description: Zasady archiwizacji i usuwania dokumentów objętych przeglądem.
-sidebar_label: Archiwizacja
+sidebar_label: Archiwizacja i usuwanie
 sidebar_position: 13
 keywords: [komunikacja, załączniki, dokumenty, dostępność cyfrowa]
 tags: [komunikacja, załączniki, dostępność cyfrowa]

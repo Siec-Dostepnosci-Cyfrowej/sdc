@@ -2,7 +2,7 @@
 id: zalecenie-07-zalacznik-niezbednosc
 title: Załącznik nr 3. Formularz oceny „niezbędności” dokumentu
 description: Formularz oceny niezbędności dokumentu.
-sidebar_label: Niezbędność
+sidebar_label: Ocena niezbędności
 sidebar_position: 11
 keywords: [komunikacja, załączniki, dokumenty, dostępność cyfrowa]
 tags: [komunikacja, załączniki, dostępność cyfrowa]

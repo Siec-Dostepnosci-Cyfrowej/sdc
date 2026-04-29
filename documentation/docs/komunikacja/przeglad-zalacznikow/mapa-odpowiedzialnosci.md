@@ -3,7 +3,7 @@ id: zalecenie-07-mapa-odpowiedzialnosci
 title: Mapa odpowiedzialności
 description: Mapa ról i odpowiedzialności w programie przeglądu i naprawy załączników.
 sidebar_label: Mapa odpowiedzialności
-sidebar_position: 5
+sidebar_position: 6
 keywords: [komunikacja, załączniki, dokumenty, dostępność cyfrowa]
 tags: [komunikacja, załączniki, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk

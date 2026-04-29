@@ -2,7 +2,7 @@
 id: zalecenie-07-zalacznik-formularz
 title: Załącznik nr 1. Formularz oceny dokumentu
 description: Formularz oceny dokumentu objętego programem przeglądu.
-sidebar_label: Formularz
+sidebar_label: Formularz oceny dokumentu
 sidebar_position: 9
 keywords: [komunikacja, załączniki, dokumenty, dostępność cyfrowa]
 tags: [komunikacja, załączniki, dostępność cyfrowa]

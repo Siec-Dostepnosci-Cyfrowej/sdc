@@ -2,7 +2,7 @@
 id: zalecenie-07-lista-kontrolna
 title: Lista kontrolna działań naprawczych dokumentów
 description: Lista kontrolna działań naprawczych dokumentów.
-sidebar_label: Kontrola naprawy
+sidebar_label: Lista kontrolna naprawy
 sidebar_position: 16
 keywords: [komunikacja, załączniki, dokumenty, dostępność cyfrowa]
 tags: [komunikacja, załączniki, dostępność cyfrowa]

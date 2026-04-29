@@ -2,7 +2,7 @@
 id: zalecenie-07-procedura-male
 title: Procedura dla małych podmiotów
 description: Procedura realizacji programu przeglądu załączników w małych podmiotach.
-sidebar_label: Małe podmioty
+sidebar_label: Procedura - małe podmioty
 sidebar_position: 8
 keywords: [komunikacja, załączniki, dokumenty, dostępność cyfrowa]
 tags: [komunikacja, załączniki, dostępność cyfrowa]
