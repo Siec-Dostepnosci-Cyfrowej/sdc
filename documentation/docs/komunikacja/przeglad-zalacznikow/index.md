@@ -16,9 +16,7 @@ wersja_robocza: true
 
 ## Cel
 
-Celem zalecenia jest zapewnienie systemowego, udokumentowanego i cyklicznego zarządzania dokumentami udostępnionymi w serwisach internetowych podmiotów publicznych, w szczególności dokumentami opublikowanymi po 23 września 2018 r. oraz dokumentami wcześniejszymi, których zawartość jest niezbędna do realizacji bieżących zadań podmiotu publicznego.
-
-Program ma zapewnić zgodność z wymaganiami dostępności cyfrowej, ograniczyć uznaniowość decyzji dotyczących dokumentów oraz powiązać wyniki przeglądu z rejestrem dokumentów i rejestrem zasobów cyfrowych.
+Celem zalecenia jest zapewnienie systemowego zarządzania dokumentami udostępnionymi w serwisach internetowych, w szczególności dokumentami opublikowanymi po 23 września 2018 r. oraz wcześniejszymi dokumentami niezbędnymi do realizacji bieżących zadań podmiotu, tak aby zapewnić zgodność z wymaganiami dostępności cyfrowej, ograniczyć uznaniowość decyzji i uporządkować zasób dokumentów.
 
 ## Zalecenie
 
@@ -35,8 +33,6 @@ Program wdraża się w celu zapewnienia zgodności z wymaganiami dostępności c
 - Podmiot stosuje jednolitą klasyfikację dokumentów opartą na ocenie niezbędności dokumentu i przyjętych kryteriach decyzyjnych.
 - Podmiot utrzymuje spójność programu z cyklem życia TIK, tak aby wyniki przeglądu aktualizowały stan zasobów cyfrowych i planowanie działań.
 
-Szczegółowe zasady organizacyjne i operacyjne określają dokumenty pomocnicze: [Charakter i dokumenty modelowe](./charakter-i-dokumenty-modelowe.md), [Model działania](./model-dzialania.md), [Mapa odpowiedzialności](./mapa-odpowiedzialnosci.md), [Procedura - duże podmioty](./procedura-duze-podmioty.md), [Procedura - małe podmioty](./procedura-male-podmioty.md), [Formularz oceny dokumentu](./zalacznik-formularz-oceny-dokumentu.md), [Rejestr dokumentów](./zalacznik-rejestr-dokumentow.md), [Ocena niezbędności](./zalacznik-ocena-niezbednosci.md), [Przewodnik decyzyjny](./zalacznik-przewodnik-decyzyjny.md), [Archiwizacja i usuwanie](./zalacznik-archiwizacja-i-usuwanie.md), [Przykłady kwalifikacji](./zalacznik-przyklady-kwalifikacji.md), [Standard działań naprawczych](./zalacznik-standard-dzialan-naprawczych.md), [Lista kontrolna naprawy](./lista-kontrolna-naprawy.md) oraz [Schemat procesu](./zalacznik-schemat-procesu.md).
-
 ## Uzasadnienie
 
 W praktyce podmiotów publicznych występuje rozproszone i niespójne podejście do dokumentów pozostających w publicznym obiegu informacyjnym, co zwiększa ryzyko niejednolitego stosowania wymagań dostępności cyfrowej.
@@ -45,7 +41,7 @@ Najczęstszymi problemami są brak pełnej wiedzy o zasobie, brak udokumentowany
 
 Program wprowadza jednolity model zarządczy, który porządkuje odpowiedzialność, ogranicza uznaniowość oraz zapewnia wykazywalność decyzji i ich powiązanie z zarządzaniem zasobami cyfrowymi.
 
-## Podstawa prawna
+## Podstawy prawne
 
 Podstawę zalecenia stanowią w szczególności:
 
@@ -54,4 +50,48 @@ Podstawę zalecenia stanowią w szczególności:
 - norma EN 301 549;
 - Web Content Accessibility Guidelines 2.2 (WCAG 2.2).
 
-Szczegółowe omówienie zakresu stosowania przepisów i definicji operacyjnych zawiera dokument [Podstawy zalecenia](./podstawy-zalecenia.md). Pojęcia stosowane w zaleceniu wyjaśnia [Słownik pojęć](./slownik-pojec.md), a powiązanie z zarządzaniem zasobami cyfrowymi opisuje zalecenie [Inwentaryzacja zasobów cyfrowych](../../cykltik/inwentaryzacja/rejestr-zasobow-cyfrowych.md).
+Szczegółowe omówienie zakresu stosowania przepisów i definicji operacyjnych zawiera dokument [Podstawy zalecenia](./podstawy-zalecenia.md).
+
+## Załączniki i narzędzia wdrożeniowe
+
+### Modele
+
+- [Charakter i dokumenty modelowe](./charakter-i-dokumenty-modelowe.md) - wyjaśnia charakter dokumentu głównego oraz rolę dokumentów pomocniczych.
+- [Model działania](./model-dzialania.md) - opisuje pełną logikę programu: identyfikację, ocenę, decyzję, realizację i kontrolę.
+- [Mapa odpowiedzialności](./mapa-odpowiedzialnosci.md) - wskazuje role i odpowiedzialności w procesie przeglądu i zarządzania dokumentami.
+
+### Procedury
+
+- [Procedura - duże podmioty](./procedura-duze-podmioty.md) - opisuje realizację programu w podmiotach o rozbudowanej strukturze.
+- [Procedura - małe podmioty](./procedura-male-podmioty.md) - opisuje uproszczony model realizacji programu w podmiotach o mniejszej skali działania.
+
+### Narzędzia
+
+- [Formularz oceny dokumentu](./zalacznik-formularz-oceny-dokumentu.md) - dokumentuje ocenę pojedynczego dokumentu i decyzję o dalszym postępowaniu.
+- [Rejestr dokumentów](./zalacznik-rejestr-dokumentow.md) - porządkuje dane o dokumentach objętych programem i statusie działań.
+- [Ocena niezbędności](./zalacznik-ocena-niezbednosci.md) - wspiera jednolite stosowanie kryterium niezbędności dokumentu.
+- [Przewodnik decyzyjny](./zalacznik-przewodnik-decyzyjny.md) - pomaga przełożyć wynik oceny na decyzję o dalszym postępowaniu.
+- [Archiwizacja i usuwanie](./zalacznik-archiwizacja-i-usuwanie.md) - opisuje zasady wycofywania dokumentów z publicznego obiegu.
+- [Przykłady kwalifikacji](./zalacznik-przyklady-kwalifikacji.md) - pokazuje typowe przypadki kwalifikacji dokumentów.
+- [Standard działań naprawczych](./zalacznik-standard-dzialan-naprawczych.md) - określa zasady dostosowania dokumentów do wymagań dostępności cyfrowej.
+- [Lista kontrolna naprawy](./lista-kontrolna-naprawy.md) - wspiera kontrolę jakości po wykonaniu działań naprawczych.
+- [Schemat procesu](./zalacznik-schemat-procesu.md) - przedstawia przebieg procesu i decyzji w skróconej formie.
+
+## Słownik pojęć
+
+Pojęcia stosowane w zaleceniu wyjaśnia [Słownik pojęć](./slownik-pojec.md).
+
+## Źródła i opracowania
+
+- [Podstawy zalecenia](./podstawy-zalecenia.md).
+- [Inwentaryzacja zasobów cyfrowych](../../cykltik/inwentaryzacja/rejestr-zasobow-cyfrowych.md).
+
+## Historia wersji
+
+| Wersja | Data | Opis zmian |
+| --- | --- | --- |
+| 0.5 | 29 kwietnia 2026 r. | Uporządkowano dokument główny do krótkiej formy normatywnej, doprecyzowano cel, zalecenie i rekomendacje oraz rozszerzono słownik pojęć. |
+| 0.4 | 29 kwietnia 2026 r. | Uporządkowano dokument główny zgodnie ze standardem zaleceń SDC, wydzielono słownik pojęć oraz powiązano treści operacyjne z dokumentami pomocniczymi i narzędziami wdrożeniowymi. |
+| 0.3 | 23 kwietnia 2026 r. | Dodano powiązanie z zaleceniem „Inwentaryzacja zasobów cyfrowych” w Wymiarze: Cykl życia TIK, wskazano rejestr zasobów cyfrowych jako nadrzędną ewidencję oraz domknięto obowiązek aktualizacji rejestru wynikami programu dokumentowego. |
+| 0.2 | 23 kwietnia 2026 r. | Przebudowano dokument główny do struktury zalecenia SDC, dodano sekcję „Zalecenie”, przeniesiono ciężar operacyjny do dokumentów pomocniczych i załączników oraz uporządkowano odwołania. |
+| 0.1 | 19 kwietnia 2026 r. | Wersja robocza programu przeglądu i naprawy załączników. |
