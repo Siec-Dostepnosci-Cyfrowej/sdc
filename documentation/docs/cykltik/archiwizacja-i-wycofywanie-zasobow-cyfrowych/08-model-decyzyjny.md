@@ -1,4 +1,4 @@
-﻿---
+---
 id: 08-model-decyzyjny-zasobow-cyfrowych
 title: Model decyzyjny dla zasobów cyfrowych
 description: Pytania i decyzje wspierające archiwizację, migrację i wycofywanie zasobów cyfrowych.
@@ -15,116 +15,116 @@ wersja_robocza: true
 
 ## Cel
 
-Celem modelu jest uporzÄ…dkowanie pytaĹ„, ktĂłre naleĹĽy zadaÄ‡ przed utrzymaniem, naprawÄ…, archiwizacjÄ…, migracjÄ…, wycofaniem z publikacji albo wycofaniem systemu. Model powinien byÄ‡ stosowany razem z [Modelem statusĂłw zasobĂłw](./07-model-statusow-zasobow.md) i [Modelem ryzyk](./09-model-ryzyk.md).
+Celem modelu jest uporządkowanie pytań, które należy zadać przed utrzymaniem, naprawą, archiwizacją, migracją, wycofaniem z publikacji albo wycofaniem systemu. Model powinien być stosowany razem z [Modelem statusów zasobów](./07-model-statusow-zasobow.md) i [Modelem ryzyk](./09-model-ryzyk.md).
 
 ## Pytania podstawowe
 
-### Czy zasĂłb jest informacjÄ… publicznÄ…?
+### Czy zasób jest informacją publiczną?
 
-JeĹĽeli zasĂłb dotyczy spraw publicznych, dziaĹ‚ania podmiotu, wydatkowania Ĺ›rodkĂłw publicznych, decyzji, naborĂłw, zamĂłwieĹ„, konsultacji albo realizacji usĹ‚ug publicznych, naleĹĽy oceniÄ‡, czy powinien pozostaÄ‡ publicznie dostÄ™pny albo dostÄ™pny na wniosek. Wycofanie z publikacji nie moĹĽe uniemoĹĽliwiaÄ‡ realizacji prawa dostÄ™pu do informacji publicznej.
+Jeżeli zasób dotyczy spraw publicznych, działania podmiotu, wydatkowania środków publicznych, decyzji, naborów, zamówień, konsultacji albo realizacji usług publicznych, należy ocenić, czy powinien pozostać publicznie dostępny albo dostępny na wniosek. Wycofanie z publikacji nie może uniemożliwiać realizacji prawa dostępu do informacji publicznej.
 
-### Czy zasĂłb jest dokumentem sprawy?
+### Czy zasób jest dokumentem sprawy?
 
-JeĹĽeli zasĂłb powstaĹ‚ w zwiÄ…zku ze sprawÄ… albo dokumentuje czynnoĹ›Ä‡ urzÄ™dowÄ…, naleĹĽy ustaliÄ‡ jego miejsce w aktach sprawy. Publikacja w WWW lub BIP nie zastÄ™puje prowadzenia sprawy i nie usuwa obowiÄ…zkĂłw kancelaryjnych.
+Jeżeli zasób powstał w związku ze sprawą albo dokumentuje czynność urzędową, należy ustalić jego miejsce w aktach sprawy. Publikacja w WWW lub BIP nie zastępuje prowadzenia sprawy i nie usuwa obowiązków kancelaryjnych.
 
-### Czy zasĂłb ma kategoriÄ™ archiwalnÄ…?
+### Czy zasób ma kategorię archiwalną?
 
-NaleĹĽy ustaliÄ‡, czy zasĂłb albo powiÄ…zana dokumentacja ma kategoriÄ™ A albo B. JeĹĽeli kategoria nie jest znana, nie wolno usuwaÄ‡ zasobu ani podejmowaÄ‡ decyzji o brakowaniu bez kwalifikacji i konsultacji z osobami odpowiedzialnymi za dokumentacjÄ™.
+Należy ustalić, czy zasób albo powiązana dokumentacja ma kategorię A albo B. Jeżeli kategoria nie jest znana, nie wolno usuwać zasobu ani podejmować decyzji o brakowaniu bez kwalifikacji i konsultacji z osobami odpowiedzialnymi za dokumentację.
 
-### Czy zasĂłb zawiera dane osobowe?
+### Czy zasób zawiera dane osobowe?
 
-JeĹĽeli zasĂłb zawiera dane osobowe, trzeba rozrĂłĹĽniÄ‡ obowiÄ…zek przechowywania od obowiÄ…zku publikacji. Dane mogÄ… wymagaÄ‡ ograniczenia publicznego dostÄ™pu, anonimizacji, skrĂłcenia ekspozycji, oceny podstawy prawnej albo udziaĹ‚u IOD.
+Jeżeli zasób zawiera dane osobowe, trzeba rozróżnić obowiązek przechowywania od obowiązku publikacji. Dane mogą wymagać ograniczenia publicznego dostępu, anonimizacji, skrócenia ekspozycji, oceny podstawy prawnej albo udziału IOD.
 
-### Czy zasĂłb nadal musi byÄ‡ publicznie dostÄ™pny?
+### Czy zasób nadal musi być publicznie dostępny?
 
-NaleĹĽy oceniÄ‡ aktualnoĹ›Ä‡, podstawÄ™ publikacji, wymogi BIP, potrzeby uĹĽytkownikĂłw, wartoĹ›Ä‡ historycznÄ… i ryzyka pozostawienia treĹ›ci publicznej. TreĹ›Ä‡ nieaktualna moĹĽe pozostaÄ‡ publiczna, jeĹĽeli zostanie oznaczona jako archiwalna i nie wprowadza w bĹ‚Ä…d.
+Należy ocenić aktualność, podstawę publikacji, wymogi BIP, potrzeby użytkowników, wartość historyczną i ryzyka pozostawienia treści publicznej. Treść nieaktualna może pozostać publiczna, jeżeli zostanie oznaczona jako archiwalna i nie wprowadza w błąd.
 
-### Czy zasĂłb moĹĽe byÄ‡ dostÄ™pny na wniosek?
+### Czy zasób może być dostępny na wniosek?
 
-JeĹĽeli dalsza publiczna publikacja nie jest potrzebna albo jest ryzykowna, podmiot powinien ustaliÄ‡, czy zasĂłb moĹĽe byÄ‡ przechowywany i udostÄ™pniany na wniosek. Taki tryb wymaga informacji dla uĹĽytkownikĂłw, miejsca przechowywania i odpowiedzialnoĹ›ci za obsĹ‚ugÄ™.
+Jeżeli dalsza publiczna publikacja nie jest potrzebna albo jest ryzykowna, podmiot powinien ustalić, czy zasób może być przechowywany i udostępniany na wniosek. Taki tryb wymaga informacji dla użytkowników, miejsca przechowywania i odpowiedzialności za obsługę.
 
-### Czy zasĂłb wymaga naprawy dostÄ™pnoĹ›ci?
+### Czy zasób wymaga naprawy dostępności?
 
-NaleĹĽy ustaliÄ‡, czy zasĂłb speĹ‚nia wymagania dostÄ™pnoĹ›ci cyfrowej, czy podlega wyjÄ…tkowi, czy wymaga naprawy, czy moĹĽliwe jest przygotowanie dostÄ™pnej wersji, transkrypcji, streszczenia albo innej formy dostÄ™pu alternatywnego.
+Należy ustalić, czy zasób spełnia wymagania dostępności cyfrowej, czy podlega wyjątkowi, czy wymaga naprawy, czy możliwe jest przygotowanie dostępnej wersji, transkrypcji, streszczenia albo innej formy dostępu alternatywnego.
 
-### Czy zasĂłb korzysta z wyjÄ…tku dostÄ™pnoĹ›ci cyfrowej?
+### Czy zasób korzysta z wyjątku dostępności cyfrowej?
 
-JeĹĽeli podmiot powoĹ‚uje siÄ™ na wyjÄ…tek albo nieproporcjonalne obciÄ…ĹĽenie, powinien udokumentowaÄ‡ podstawÄ™ i zapewniÄ‡ uĹĽytkownikowi jasnÄ… informacjÄ™ o sposobie uzyskania treĹ›ci. WyjÄ…tek nie oznacza dowolnoĹ›ci ani braku obowiÄ…zku komunikacji.
+Jeżeli podmiot powołuje się na wyjątek albo nieproporcjonalne obciążenie, powinien udokumentować podstawę i zapewnić użytkownikowi jasną informację o sposobie uzyskania treści. Wyjątek nie oznacza dowolności ani braku obowiązku komunikacji.
 
-### Czy zasĂłb ma metadane?
+### Czy zasób ma metadane?
 
-Brak metadanych powinien zatrzymaÄ‡ decyzjÄ™ o wycofaniu albo migracji. Minimalnie trzeba ustaliÄ‡ identyfikator, tytuĹ‚, wĹ‚aĹ›ciciela, daty, ĹşrĂłdĹ‚o, status, format, podstawÄ™ publikacji, powiÄ…zanie ze sprawÄ… i decyzjÄ™ o dalszym postÄ™powaniu.
+Brak metadanych powinien zatrzymać decyzję o wycofaniu albo migracji. Minimalnie trzeba ustalić identyfikator, tytuł, właściciela, daty, źródło, status, format, podstawę publikacji, powiązanie ze sprawą i decyzję o dalszym postępowaniu.
 
-### Czy zasĂłb ma wĹ‚aĹ›ciciela?
+### Czy zasób ma właściciela?
 
-JeĹĽeli nie wiadomo, kto odpowiada za zasĂłb, naleĹĽy najpierw wyznaczyÄ‡ wĹ‚aĹ›ciciela albo komĂłrkÄ™ odpowiedzialnÄ…. Brak wĹ‚aĹ›ciciela nie jest podstawÄ… do usuniÄ™cia treĹ›ci.
+Jeżeli nie wiadomo, kto odpowiada za zasób, należy najpierw wyznaczyć właściciela albo komórkę odpowiedzialną. Brak właściciela nie jest podstawą do usunięcia treści.
 
-### Czy zasĂłb jest powiÄ…zany z systemem przeznaczonym do wycofania?
+### Czy zasób jest powiązany z systemem przeznaczonym do wycofania?
 
-JeĹĽeli zasĂłb znajduje siÄ™ w systemie, ktĂłry ma zostaÄ‡ zamkniÄ™ty, naleĹĽy uwzglÄ™dniÄ‡ go w inwentaryzacji danych, planie migracji, teĹ›cie odtworzenia i decyzji o dalszym dostÄ™pie.
+Jeżeli zasób znajduje się w systemie, który ma zostać zamknięty, należy uwzględnić go w inwentaryzacji danych, planie migracji, teście odtworzenia i decyzji o dalszym dostępie.
 
-### Czy moĹĽna go wyeksportowaÄ‡?
+### Czy można go wyeksportować?
 
-ZasĂłb powinien daÄ‡ siÄ™ wyeksportowaÄ‡ razem z metadanymi, zaĹ‚Ä…cznikami, relacjami, historiÄ… zmian i informacjÄ… o statusie. Brak eksportu jest ryzykiem technologicznym i powinien zostaÄ‡ opisany w rejestrze ryzyk.
+Zasób powinien dać się wyeksportować razem z metadanymi, załącznikami, relacjami, historią zmian i informacją o statusie. Brak eksportu jest ryzykiem technologicznym i powinien zostać opisany w rejestrze ryzyk.
 
-### Czy moĹĽna go odczytaÄ‡ w czasie?
+### Czy można go odczytać w czasie?
 
-NaleĹĽy oceniÄ‡ format, zaleĹĽnoĹ›Ä‡ od starego oprogramowania, podpisy elektroniczne, kodowanie znakĂłw, elementy multimedialne i dokumentacjÄ™ technicznÄ…. ZasĂłb archiwalny powinien byÄ‡ zachowany w sposĂłb umoĹĽliwiajÄ…cy odczyt i zrozumienie w czasie.
+Należy ocenić format, zależność od starego oprogramowania, podpisy elektroniczne, kodowanie znaków, elementy multimedialne i dokumentację techniczną. Zasób archiwalny powinien być zachowany w sposób umożliwiający odczyt i zrozumienie w czasie.
 
-## MoĹĽliwe decyzje
+## Możliwe decyzje
 
-### UtrzymaÄ‡ jako aktywny
+### Utrzymać jako aktywny
 
-Decyzja wĹ‚aĹ›ciwa, gdy zasĂłb jest aktualny, potrzebny, ma wĹ‚aĹ›ciciela, wymagane metadane i speĹ‚nia wymagania dostÄ™pnoĹ›ci albo ma zaplanowane dziaĹ‚ania naprawcze.
+Decyzja właściwa, gdy zasób jest aktualny, potrzebny, ma właściciela, wymagane metadane i spełnia wymagania dostępności albo ma zaplanowane działania naprawcze.
 
-### PoprawiÄ‡
+### Poprawić
 
-Decyzja wĹ‚aĹ›ciwa, gdy zasĂłb jest potrzebny, ale wymaga aktualizacji treĹ›ci, poprawy dostÄ™pnoĹ›ci, uzupeĹ‚nienia linkĂłw, korekty danych albo poprawy formatu.
+Decyzja właściwa, gdy zasób jest potrzebny, ale wymaga aktualizacji treści, poprawy dostępności, uzupełnienia linków, korekty danych albo poprawy formatu.
 
-### UzupeĹ‚niÄ‡ metadane
+### Uzupełnić metadane
 
-Decyzja poprzedzajÄ…ca inne dziaĹ‚ania, gdy brakuje informacji o wĹ‚aĹ›cicielu, ĹşrĂłdle, dacie, statusie, kategorii archiwalnej, wersji, powiÄ…zaniu ze sprawÄ… albo podstawie publikacji.
+Decyzja poprzedzająca inne działania, gdy brakuje informacji o właścicielu, źródle, dacie, statusie, kategorii archiwalnej, wersji, powiązaniu ze sprawą albo podstawie publikacji.
 
-### OznaczyÄ‡ jako archiwalny
+### Oznaczyć jako archiwalny
 
-Decyzja wĹ‚aĹ›ciwa, gdy zasĂłb nie jest juĹĽ aktualny operacyjnie, ale powinien pozostaÄ‡ publicznie dostÄ™pny jako treĹ›Ä‡ archiwalna, dokument historyczny albo materiaĹ‚ dokumentacyjny.
+Decyzja właściwa, gdy zasób nie jest już aktualny operacyjnie, ale powinien pozostać publicznie dostępny jako treść archiwalna, dokument historyczny albo materiał dokumentacyjny.
 
-### WycofaÄ‡ z publikacji
+### Wycofać z publikacji
 
-Decyzja wĹ‚aĹ›ciwa, gdy zasĂłb nie powinien pozostaÄ‡ publicznie dostÄ™pny, ale musi zostaÄ‡ zachowany, przekazany, udostÄ™pniany na wniosek albo brakowany w odrÄ™bnym trybie.
+Decyzja właściwa, gdy zasób nie powinien pozostać publicznie dostępny, ale musi zostać zachowany, przekazany, udostępniany na wniosek albo brakowany w odrębnym trybie.
 
-### ZapewniÄ‡ dostÄ™p alternatywny
+### Zapewnić dostęp alternatywny
 
-Decyzja wĹ‚aĹ›ciwa, gdy zasĂłb nie speĹ‚nia wymagaĹ„ dostÄ™pnoĹ›ci, ale uĹĽytkownik powinien mieÄ‡ moĹĽliwoĹ›Ä‡ uzyskania informacji przez opis, streszczenie, transkrypcjÄ™, dostÄ™pnÄ… wersjÄ™ albo kontakt.
+Decyzja właściwa, gdy zasób nie spełnia wymagań dostępności, ale użytkownik powinien mieć możliwość uzyskania informacji przez opis, streszczenie, transkrypcję, dostępną wersję albo kontakt.
 
-### ZmigrowaÄ‡
+### Zmigrować
 
-Decyzja wĹ‚aĹ›ciwa, gdy zasĂłb albo system wymaga przeniesienia do innego formatu, repozytorium albo systemu. Migracja wymaga planu, mapowania pĂłl, testu i protokoĹ‚u.
+Decyzja właściwa, gdy zasób albo system wymaga przeniesienia do innego formatu, repozytorium albo systemu. Migracja wymaga planu, mapowania pól, testu i protokołu.
 
-### PrzekazaÄ‡ do archiwum zakĹ‚adowego
+### Przekazać do archiwum zakładowego
 
-Decyzja wĹ‚aĹ›ciwa, gdy zasĂłb jest dokumentacjÄ… wymagajÄ…cÄ… przechowywania w trybie kancelaryjnym i archiwalnym, a jego dalsze miejsce powinno byÄ‡ okreĹ›lone przez procedury archiwum zakĹ‚adowego.
+Decyzja właściwa, gdy zasób jest dokumentacją wymagającą przechowywania w trybie kancelaryjnym i archiwalnym, a jego dalsze miejsce powinno być określone przez procedury archiwum zakładowego.
 
-### PrzygotowaÄ‡ do przekazania do archiwum paĹ„stwowego
+### Przygotować do przekazania do archiwum państwowego
 
-Decyzja wĹ‚aĹ›ciwa dla materiaĹ‚Ăłw archiwalnych kategorii A, jeĹĽeli zgodnie z przepisami i uzgodnieniami powinny zostaÄ‡ przygotowane do przekazania wĹ‚aĹ›ciwemu archiwum paĹ„stwowemu.
+Decyzja właściwa dla materiałów archiwalnych kategorii A, jeżeli zgodnie z przepisami i uzgodnieniami powinny zostać przygotowane do przekazania właściwemu archiwum państwowemu.
 
-### PrzeznaczyÄ‡ do brakowania
+### Przeznaczyć do brakowania
 
-Decyzja moĹĽliwa dla dokumentacji kategorii B po speĹ‚nieniu warunkĂłw wynikajÄ…cych z przepisĂłw, upĹ‚ywie okresu przechowywania i przeprowadzeniu wĹ‚aĹ›ciwej procedury. Brakowanie nie jest decyzjÄ… redakcyjnÄ….
+Decyzja możliwa dla dokumentacji kategorii B po spełnieniu warunków wynikających z przepisów, upływie okresu przechowywania i przeprowadzeniu właściwej procedury. Brakowanie nie jest decyzją redakcyjną.
 
-## Decyzje blokujÄ…ce
+## Decyzje blokujące
 
-- Nie wolno wycofaÄ‡ systemu bez inwentaryzacji danych, dokumentĂłw, metadanych, logĂłw, zaĹ‚Ä…cznikĂłw i zaleĹĽnoĹ›ci.
-- Nie wolno usunÄ…Ä‡ dokumentu bez kwalifikacji archiwalnej, oceny retencji i ustalenia powiÄ…zania ze sprawÄ….
-- Nie wolno uznaÄ‡ archiwizacji za wykonanÄ…, jeĹĽeli brak metadanych, kontekstu i moĹĽliwoĹ›ci odczytu zasobu.
-- Nie wolno odciÄ…Ä‡ uĹĽytkownikĂłw od informacji wymagajÄ…cej dalszego dostÄ™pu publicznego albo dostÄ™pu na wniosek.
-- Nie wolno konwertowaÄ‡ dokumentu w sposĂłb niszczÄ…cy oryginaĹ‚, podpis, metadane albo Ĺ›lad audytowy.
-- Nie wolno powoĹ‚ywaÄ‡ siÄ™ na trudnoĹ›Ä‡ technicznÄ… jako jedynÄ… podstawÄ™ usuniÄ™cia zasobu.
+- Nie wolno wycofać systemu bez inwentaryzacji danych, dokumentów, metadanych, logów, załączników i zależności.
+- Nie wolno usunąć dokumentu bez kwalifikacji archiwalnej, oceny retencji i ustalenia powiązania ze sprawą.
+- Nie wolno uznać archiwizacji za wykonaną, jeżeli brak metadanych, kontekstu i możliwości odczytu zasobu.
+- Nie wolno odciąć użytkowników od informacji wymagającej dalszego dostępu publicznego albo dostępu na wniosek.
+- Nie wolno konwertować dokumentu w sposób niszczący oryginał, podpis, metadane albo ślad audytowy.
+- Nie wolno powoływać się na trudność techniczną jako jedyną podstawę usunięcia zasobu.
 
 ## Dokumentowanie decyzji
 
-KaĹĽda decyzja powinna byÄ‡ moĹĽliwa do odtworzenia. Minimalny zapis decyzji obejmuje identyfikator zasobu, wĹ‚aĹ›ciciela, opis, status przed decyzjÄ…, status po decyzji, podstawÄ™, ocenÄ™ dostÄ™pnoĹ›ci, ocenÄ™ danych osobowych, kwalifikacjÄ™ archiwalnÄ…, sposĂłb dalszego dostÄ™pu, osobÄ™ odpowiedzialnÄ… i datÄ™.
+Każda decyzja powinna być możliwa do odtworzenia. Minimalny zapis decyzji obejmuje identyfikator zasobu, właściciela, opis, status przed decyzją, status po decyzji, podstawę, ocenę dostępności, ocenę danych osobowych, kwalifikację archiwalną, sposób dalszego dostępu, osobę odpowiedzialną i datę.
 
-Dokumentowanie decyzji ogranicza ryzyka opisane w [Modelu ryzyk](./09-model-ryzyk.md) i pozwala wykazaÄ‡, ĹĽe archiwizacja albo wycofanie nie byĹ‚o przypadkowÄ… czynnoĹ›ciÄ… technicznÄ….
+Dokumentowanie decyzji ogranicza ryzyka opisane w [Modelu ryzyk](./09-model-ryzyk.md) i pozwala wykazać, że archiwizacja albo wycofanie nie było przypadkową czynnością techniczną.
 

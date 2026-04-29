@@ -1,4 +1,4 @@
-﻿---
+---
 id: 04-podstawy-prawne-archiwizacji
 title: Podstawy prawne archiwizacji i wycofywania zasobów cyfrowych
 description: Omówienie znaczenia przepisów dla archiwizacji cyfrowej, migracji danych, wycofywania treści i wycofywania systemów.
@@ -15,93 +15,93 @@ wersja_robocza: true
 
 ## Cel
 
-Celem dokumentu jest omĂłwienie podstaw prawnych, ktĂłre wpĹ‚ywajÄ… na archiwizacjÄ™ i wycofywanie zasobĂłw cyfrowych. Dokument nie zastÄ™puje analizy prawnej konkretnej sprawy. Wskazuje, jakie wnioski organizacyjne powinien wyciÄ…gnÄ…Ä‡ podmiot publiczny przy projektowaniu procedury.
+Celem dokumentu jest omówienie podstaw prawnych, które wpływają na archiwizację i wycofywanie zasobów cyfrowych. Dokument nie zastępuje analizy prawnej konkretnej sprawy. Wskazuje, jakie wnioski organizacyjne powinien wyciągnąć podmiot publiczny przy projektowaniu procedury.
 
 ## Ustawa o narodowym zasobie archiwalnym i archiwach
 
 Ustawa z 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz.U. 1983 nr 38 poz. 173, z późn. zm.) określa zasady postępowania z materiałami archiwalnymi i dokumentacją niearchiwalną. Art. 6 i 7 nakładają obowiązek ewidencjonowania, gromadzenia i zabezpieczania dokumentacji, a art. 11 i 18 dotyczą kwalifikacji archiwalnej, przekazywania do archiwum zakładowego oraz zapewnienia ochrony i integralności dokumentów. Art. 35–36 wskazują na obowiązek prowadzenia instrukcji kancelaryjnej i jednolitego rzeczowego wykazu akt.
 
-Dla archiwizacji cyfrowej oznacza to, ĹĽe dokument elektroniczny nie jest zasobem drugiej kategorii. JeĹĽeli dokumentuje dziaĹ‚alnoĹ›Ä‡ podmiotu, musi byÄ‡ zarzÄ…dzany w sposĂłb umoĹĽliwiajÄ…cy zachowanie jego kompletnoĹ›ci, integralnoĹ›ci, autentycznoĹ›ci i czytelnoĹ›ci w czasie.
+Dla archiwizacji cyfrowej oznacza to, że dokument elektroniczny nie jest zasobem drugiej kategorii. Jeżeli dokumentuje działalność podmiotu, musi być zarządzany w sposób umożliwiający zachowanie jego kompletności, integralności, autentyczności i czytelności w czasie.
 
-Podmiot publiczny powinien wywnioskowaÄ‡, ĹĽe wycofanie z publikacji nie jest rĂłwnoznaczne z zakoĹ„czeniem obowiÄ…zkĂłw wobec dokumentu. Trzeba ustaliÄ‡ kategoriÄ™ archiwalnÄ…, okres przechowywania, miejsce przechowywania i tryb dalszego postÄ™powania.
+Podmiot publiczny powinien wywnioskować, że wycofanie z publikacji nie jest równoznaczne z zakończeniem obowiązków wobec dokumentu. Trzeba ustalić kategorię archiwalną, okres przechowywania, miejsce przechowywania i tryb dalszego postępowania.
 
 ## Instrukcja kancelaryjna, JRWA i instrukcja archiwalna
 
-Przepisy dotyczÄ…ce instrukcji kancelaryjnej, jednolitych rzeczowych wykazĂłw akt i instrukcji archiwalnej porzÄ…dkujÄ… sposĂłb klasyfikowania spraw, kwalifikowania dokumentacji, prowadzenia akt, przekazywania dokumentacji do archiwum zakĹ‚adowego oraz brakowania dokumentacji kategorii B.
+Przepisy dotyczące instrukcji kancelaryjnej, jednolitych rzeczowych wykazów akt i instrukcji archiwalnej porządkują sposób klasyfikowania spraw, kwalifikowania dokumentacji, prowadzenia akt, przekazywania dokumentacji do archiwum zakładowego oraz brakowania dokumentacji kategorii B.
 
-WpĹ‚yw na archiwizacjÄ™ cyfrowÄ… jest bezpoĹ›redni. Publikowany dokument moĹĽe byÄ‡ czÄ™Ĺ›ciÄ… sprawy, mieÄ‡ kategoriÄ™ archiwalnÄ… i wymagaÄ‡ zachowania w okreĹ›lonym kontekĹ›cie. Metadane powinny pozwalaÄ‡ powiÄ…zaÄ‡ dokument z klasÄ… JRWA, sprawÄ…, wĹ‚aĹ›cicielem i miejscem przechowywania.
+Wpływ na archiwizację cyfrową jest bezpośredni. Publikowany dokument może być częścią sprawy, mieć kategorię archiwalną i wymagać zachowania w określonym kontekście. Metadane powinny pozwalać powiązać dokument z klasą JRWA, sprawą, właścicielem i miejscem przechowywania.
 
-Podmiot powinien wywnioskowaÄ‡, ĹĽe decyzja redaktora WWW nie moĹĽe zastÄ™powaÄ‡ kwalifikacji archiwalnej. JeĹĽeli zasĂłb jest dokumentacjÄ… sprawy, trzeba uwzglÄ™dniÄ‡ wĹ‚aĹ›ciwy tryb kancelaryjny i archiwalny.
+Podmiot powinien wywnioskować, że decyzja redaktora WWW nie może zastępować kwalifikacji archiwalnej. Jeżeli zasób jest dokumentacją sprawy, trzeba uwzględnić właściwy tryb kancelaryjny i archiwalny.
 
-## PostÄ™powanie z dokumentacjÄ… elektronicznÄ…
+## Postępowanie z dokumentacją elektroniczną
 
 Przepisy o postępowaniu z dokumentacją elektroniczną wskazują, że dokumenty w postaci elektronicznej wymagają odpowiednich metadanych, uporządkowania, zabezpieczenia i możliwości długotrwałego przechowywania. Kluczowe są relacje między dokumentem, sprawą, przesyłką, aktami sprawy i systemem, w którym dokument powstał albo jest przechowywany. Odwołują się do ustawy z 10 maja 2018 r. o krajowym systemie ewidencji dokumentów i zarządzaniu dokumentacją elektroniczną (Dz.U. 2018 poz. 1067).
 
-Dla procesu oznacza to koniecznoĹ›Ä‡ projektowania eksportĂłw, paczek archiwalnych, metadanych, formatĂłw i Ĺ›ladu audytowego juĹĽ na etapie utrzymania systemu. Wycofanie systemu bez zachowania dokumentacji elektronicznej w czytelnej i wiarygodnej postaci moĹĽe naruszaÄ‡ obowiÄ…zki archiwalne.
+Dla procesu oznacza to konieczność projektowania eksportów, paczek archiwalnych, metadanych, formatów i śladu audytowego już na etapie utrzymania systemu. Wycofanie systemu bez zachowania dokumentacji elektronicznej w czytelnej i wiarygodnej postaci może naruszać obowiązki archiwalne.
 
-Podmiot powinien wywnioskowaÄ‡, ĹĽe archiwizacja cyfrowa nie polega wyĹ‚Ä…cznie na zachowaniu pliku. Trzeba zachowaÄ‡ rĂłwnieĹĽ dane opisowe, relacje i informacje potrzebne do odczytu dokumentu w czasie.
+Podmiot powinien wywnioskować, że archiwizacja cyfrowa nie polega wyłącznie na zachowaniu pliku. Trzeba zachować również dane opisowe, relacje i informacje potrzebne do odczytu dokumentu w czasie.
 
-## Ustawa o informatyzacji dziaĹ‚alnoĹ›ci podmiotĂłw realizujÄ…cych zadania publiczne
+## Ustawa o informatyzacji działalności podmiotów realizujących zadania publiczne
 
 Ustawa z 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz.U. 2005 nr 64 poz. 565, z późn. zm.) określa ramy informatyzacji administracji publicznej, w tym znaczenie interoperacyjności, systemów teleinformatycznych, wymiany informacji w postaci elektronicznej i realizacji zadań publicznych przy użyciu technologii.
 
-WpĹ‚yw na archiwizacjÄ™ i wycofywanie systemĂłw polega na tym, ĹĽe system publiczny powinien byÄ‡ projektowany z myĹ›lÄ… o wymianie danych, zachowaniu informacji, bezpieczeĹ„stwie i ciÄ…gĹ‚oĹ›ci dziaĹ‚ania. System, ktĂłry nie pozwala wyeksportowaÄ‡ danych i metadanych, tworzy ryzyko dla realizacji zadaĹ„ publicznych.
+Wpływ na archiwizację i wycofywanie systemów polega na tym, że system publiczny powinien być projektowany z myślą o wymianie danych, zachowaniu informacji, bezpieczeństwie i ciągłości działania. System, który nie pozwala wyeksportować danych i metadanych, tworzy ryzyko dla realizacji zadań publicznych.
 
-Podmiot powinien wywnioskowaÄ‡, ĹĽe wymagania migracji i wycofania systemu naleĹĽy uwzglÄ™dniaÄ‡ w zamĂłwieniach, umowach, dokumentacji technicznej i odbiorach systemu.
+Podmiot powinien wywnioskować, że wymagania migracji i wycofania systemu należy uwzględniać w zamówieniach, umowach, dokumentacji technicznej i odbiorach systemu.
 
-## Krajowe Ramy InteroperacyjnoĹ›ci
+## Krajowe Ramy Interoperacyjności
 
-Krajowe Ramy InteroperacyjnoĹ›ci i minimalne wymagania dla systemĂłw teleinformatycznych okreĹ›lajÄ… wymagania dotyczÄ…ce interoperacyjnoĹ›ci, bezpieczeĹ„stwa, formatĂłw, protokoĹ‚Ăłw, dostÄ™pnoĹ›ci informacji i zdolnoĹ›ci systemĂłw do wspĂłĹ‚dziaĹ‚ania.
+Krajowe Ramy Interoperacyjności i minimalne wymagania dla systemów teleinformatycznych określają wymagania dotyczące interoperacyjności, bezpieczeństwa, formatów, protokołów, dostępności informacji i zdolności systemów do współdziałania.
 
-Dla archiwizacji cyfrowej oznacza to potrzebÄ™ stosowania formatĂłw i mechanizmĂłw, ktĂłre pozwalajÄ… zachowaÄ‡ dane w sposĂłb moĹĽliwy do odczytu, przeniesienia i zweryfikowania. Wymagania te wzmacniajÄ… potrzebÄ™ eksportu, dokumentacji technicznej, kontroli wersji i zabezpieczenia integralnoĹ›ci.
+Dla archiwizacji cyfrowej oznacza to potrzebę stosowania formatów i mechanizmów, które pozwalają zachować dane w sposób możliwy do odczytu, przeniesienia i zweryfikowania. Wymagania te wzmacniają potrzebę eksportu, dokumentacji technicznej, kontroli wersji i zabezpieczenia integralności.
 
-Podmiot powinien wywnioskowaÄ‡, ĹĽe wycofanie systemu jest czÄ™Ĺ›ciÄ… zarzÄ…dzania interoperacyjnoĹ›ciÄ…. Dane nie mogÄ… pozostaÄ‡ uwiÄ™zione w systemie bez moĹĽliwoĹ›ci odczytu albo przeniesienia.
+Podmiot powinien wywnioskować, że wycofanie systemu jest częścią zarządzania interoperacyjnością. Dane nie mogą pozostać uwięzione w systemie bez możliwości odczytu albo przeniesienia.
 
-## Ustawa o dostÄ™pie do informacji publicznej i przepisy o BIP
+## Ustawa o dostępie do informacji publicznej i przepisy o BIP
 
-Ustawa o dostÄ™pie do informacji publicznej i przepisy dotyczÄ…ce BIP okreĹ›lajÄ… obowiÄ…zki udostÄ™pniania informacji o sprawach publicznych. BIP jest szczegĂłlnym kanaĹ‚em publikacji, ktĂłry wymaga wiarygodnoĹ›ci, aktualnoĹ›ci i moĹĽliwoĹ›ci ustalenia zakresu udostÄ™pnianych informacji.
+Ustawa o dostępie do informacji publicznej i przepisy dotyczące BIP określają obowiązki udostępniania informacji o sprawach publicznych. BIP jest szczególnym kanałem publikacji, który wymaga wiarygodności, aktualności i możliwości ustalenia zakresu udostępnianych informacji.
 
-WpĹ‚yw na proces polega na tym, ĹĽe wycofanie treĹ›ci z BIP albo WWW wymaga oceny, czy informacja nadal powinna byÄ‡ publicznie dostÄ™pna, czy moĹĽe byÄ‡ udostÄ™pniana na wniosek, czy powinna pozostaÄ‡ jako treĹ›Ä‡ archiwalna, czy wymaga oznaczenia jako nieaktualna.
+Wpływ na proces polega na tym, że wycofanie treści z BIP albo WWW wymaga oceny, czy informacja nadal powinna być publicznie dostępna, czy może być udostępniana na wniosek, czy powinna pozostać jako treść archiwalna, czy wymaga oznaczenia jako nieaktualna.
 
-Podmiot powinien wywnioskowaÄ‡, ĹĽe nie wolno usuwaÄ‡ informacji publicznej wyĹ‚Ä…cznie z powodu wieku, niewygodnej formy technicznej albo zmiany struktury serwisu.
+Podmiot powinien wywnioskować, że nie wolno usuwać informacji publicznej wyłącznie z powodu wieku, niewygodnej formy technicznej albo zmiany struktury serwisu.
 
-## Ustawa o dostÄ™pnoĹ›ci cyfrowej
+## Ustawa o dostępności cyfrowej
 
 Ustawa z 4 kwietnia 2019 r. o dostępności cyfrowej (Dz.U. 2019 poz. 848, z późn. zm.) określa wymagania dla stron internetowych i aplikacji mobilnych podmiotów publicznych, deklaracji dostępności, przeglądu i aktualizacji deklaracji oraz postępowania w sprawie zapewniania dostępności cyfrowej.
 
-Dla archiwizacji oznacza to, ĹĽe treĹ›ci archiwalne, stare dokumenty, multimedia i zasoby historyczne muszÄ… byÄ‡ oceniane z perspektywy dostÄ™pnoĹ›ci. Nie kaĹĽdy zasĂłb bÄ™dzie wymagaĹ‚ takiego samego dziaĹ‚ania, ale podmiot powinien umieÄ‡ wskazaÄ‡, czy treĹ›Ä‡ wymaga naprawy, oznaczenia, alternatywy albo obsĹ‚ugi wniosku o zapewnienie dostÄ™pnoĹ›ci.
+Dla archiwizacji oznacza to, że treści archiwalne, stare dokumenty, multimedia i zasoby historyczne muszą być oceniane z perspektywy dostępności. Nie każdy zasób będzie wymagał takiego samego działania, ale podmiot powinien umieć wskazać, czy treść wymaga naprawy, oznaczenia, alternatywy albo obsługi wniosku o zapewnienie dostępności.
 
-Podmiot powinien wywnioskowaÄ‡, ĹĽe archiwizacja nie moĹĽe odcinaÄ‡ uĹĽytkownika od informacji. JeĹĽeli treĹ›Ä‡ pozostaje waĹĽna, potrzebny jest dostÄ™p publiczny albo dostÄ™p alternatywny w uzasadnionym trybie.
+Podmiot powinien wywnioskować, że archiwizacja nie może odcinać użytkownika od informacji. Jeżeli treść pozostaje ważna, potrzebny jest dostęp publiczny albo dostęp alternatywny w uzasadnionym trybie.
 
 ## RODO i ustawa o ochronie danych osobowych
 
 RODO (rozporządzenie 2016/679) określa zasady przetwarzania danych osobowych, w tym zgodność z prawem, ograniczenie celu, minimalizację danych, prawidłowość, ograniczenie przechowywania, integralność, poufność i rozliczalność. Art. 5, 25, 32 i 89 RODO są szczególnie istotne dla archiwizacji i wycofywania danych. Ustawa z 10 maja 2018 r. o ochronie danych osobowych (Dz.U. 2018 poz. 1000, z późn. zm.) uzupełnia krajowy system ochrony danych.
 
-WpĹ‚yw na archiwizacjÄ™ polega na koniecznoĹ›ci rozrĂłĹĽnienia publikacji danych od ich przechowywania. Dane osobowe mogÄ… wymagaÄ‡ ograniczenia publicznego dostÄ™pu, anonimizacji, pseudonimizacji albo dalszego przechowywania z uwagi na obowiÄ…zek prawny, interes publiczny w archiwizacji albo przepisy branĹĽowe.
+Wpływ na archiwizację polega na konieczności rozróżnienia publikacji danych od ich przechowywania. Dane osobowe mogą wymagać ograniczenia publicznego dostępu, anonimizacji, pseudonimizacji albo dalszego przechowywania z uwagi na obowiązek prawny, interes publiczny w archiwizacji albo przepisy branżowe.
 
-Podmiot powinien wywnioskowaÄ‡, ĹĽe IOD powinien byÄ‡ wĹ‚Ä…czany w decyzje dotyczÄ…ce zasobĂłw zawierajÄ…cych dane osobowe, zwĹ‚aszcza gdy planowane jest dalsze publiczne udostÄ™pnianie, wycofanie, migracja albo przekazanie danych.
+Podmiot powinien wywnioskować, że IOD powinien być włączany w decyzje dotyczące zasobów zawierających dane osobowe, zwłaszcza gdy planowane jest dalsze publiczne udostępnianie, wycofanie, migracja albo przekazanie danych.
 
 ## eIDAS i podpisy elektroniczne
 
-Regulacje dotyczÄ…ce identyfikacji elektronicznej i usĹ‚ug zaufania majÄ… znaczenie wtedy, gdy dokument elektroniczny zawiera podpis elektroniczny, pieczÄ™Ä‡ elektronicznÄ…, znacznik czasu albo inny mechanizm potwierdzajÄ…cy autentycznoĹ›Ä‡ i integralnoĹ›Ä‡.
+Regulacje dotyczące identyfikacji elektronicznej i usług zaufania mają znaczenie wtedy, gdy dokument elektroniczny zawiera podpis elektroniczny, pieczęć elektroniczną, znacznik czasu albo inny mechanizm potwierdzający autentyczność i integralność.
 
-Dla procesu oznacza to, ĹĽe migracja, konwersja albo archiwizacja nie moĹĽe prowadziÄ‡ do utraty moĹĽliwoĹ›ci weryfikacji podpisu, utraty znacznika czasu albo zniszczenia informacji potrzebnych do oceny autentycznoĹ›ci dokumentu.
+Dla procesu oznacza to, że migracja, konwersja albo archiwizacja nie może prowadzić do utraty możliwości weryfikacji podpisu, utraty znacznika czasu albo zniszczenia informacji potrzebnych do oceny autentyczności dokumentu.
 
-Podmiot powinien wywnioskowaÄ‡, ĹĽe dokument podpisany elektronicznie wymaga szczegĂłlnej ostroĹĽnoĹ›ci przy konwersji formatĂłw, eksporcie i dĹ‚ugoterminowym przechowywaniu.
+Podmiot powinien wywnioskować, że dokument podpisany elektronicznie wymaga szczególnej ostrożności przy konwersji formatów, eksporcie i długoterminowym przechowywaniu.
 
-## Przepisy branĹĽowe dotyczÄ…ce retencji
+## Przepisy branżowe dotyczące retencji
 
-NiektĂłre typy dokumentacji podlegajÄ… szczegĂłlnym okresom przechowywania wynikajÄ…cym z przepisĂłw branĹĽowych, na przykĹ‚ad w obszarze finansĂłw publicznych, zamĂłwieĹ„ publicznych, projektĂłw finansowanych ze Ĺ›rodkĂłw zewnÄ™trznych, dokumentacji pracowniczej, ochrony zdrowia, edukacji albo pomocy spoĹ‚ecznej.
+Niektóre typy dokumentacji podlegają szczególnym okresom przechowywania wynikającym z przepisów branżowych, na przykład w obszarze finansów publicznych, zamówień publicznych, projektów finansowanych ze środków zewnętrznych, dokumentacji pracowniczej, ochrony zdrowia, edukacji albo pomocy społecznej.
 
-WpĹ‚yw na proces polega na tym, ĹĽe ogĂłlna procedura archiwizacji musi byÄ‡ uzupeĹ‚niona identyfikacjÄ… szczegĂłlnych obowiÄ…zkĂłw retencyjnych dla danego zasobu. Nie wolno brakowaÄ‡ albo usuwaÄ‡ dokumentacji bez sprawdzenia przepisĂłw wĹ‚aĹ›ciwych dla sprawy.
+Wpływ na proces polega na tym, że ogólna procedura archiwizacji musi być uzupełniona identyfikacją szczególnych obowiązków retencyjnych dla danego zasobu. Nie wolno brakować albo usuwać dokumentacji bez sprawdzenia przepisów właściwych dla sprawy.
 
-Podmiot powinien wywnioskowaÄ‡, ĹĽe wĹ‚aĹ›ciciel zasobu musi wskazaÄ‡ podstawÄ™ prawnÄ… retencji, a w razie wÄ…tpliwoĹ›ci powinien skonsultowaÄ‡ decyzjÄ™ z osobÄ… odpowiedzialnÄ… za obsĹ‚ugÄ™ prawnÄ…, archiwum zakĹ‚adowym i IOD.
+Podmiot powinien wywnioskować, że właściciel zasobu musi wskazać podstawę prawną retencji, a w razie wątpliwości powinien skonsultować decyzję z osobą odpowiedzialną za obsługę prawną, archiwum zakładowym i IOD.
 
-## Wniosek dla podmiotĂłw publicznych
+## Wniosek dla podmiotów publicznych
 
-Archiwizacja cyfrowa znajduje siÄ™ na styku kilku porzÄ…dkĂłw prawnych: archiwalnego, kancelaryjnego, informatyzacyjnego, dostÄ™pnoĹ›ciowego, informacyjnego, ochrony danych osobowych, bezpieczeĹ„stwa i przepisĂłw branĹĽowych. Procedura opisana w tym zaleceniu ma pomĂłc podmiotowi publicznemu poĹ‚Ä…czyÄ‡ te wymagania w jeden proces decyzyjny.
+Archiwizacja cyfrowa znajduje się na styku kilku porządków prawnych: archiwalnego, kancelaryjnego, informatyzacyjnego, dostępnościowego, informacyjnego, ochrony danych osobowych, bezpieczeństwa i przepisów branżowych. Procedura opisana w tym zaleceniu ma pomóc podmiotowi publicznemu połączyć te wymagania w jeden proces decyzyjny.
 
-NajwaĹĽniejszy wniosek jest praktyczny: przed wycofaniem treĹ›ci, migracjÄ… danych albo zamkniÄ™ciem systemu podmiot powinien ustaliÄ‡ status zasobu, jego kategoriÄ™ archiwalnÄ…, metadane, kontekst, wymogi dostÄ™pnoĹ›ci, podstawÄ™ publikacji, obowiÄ…zki retencyjne i sposĂłb dalszego dostÄ™pu.
+Najważniejszy wniosek jest praktyczny: przed wycofaniem treści, migracją danych albo zamknięciem systemu podmiot powinien ustalić status zasobu, jego kategorię archiwalną, metadane, kontekst, wymogi dostępności, podstawę publikacji, obowiązki retencyjne i sposób dalszego dostępu.
 
 ## Powiązania
 

@@ -1,4 +1,4 @@
-﻿---
+---
 id: 05-powiazania-z-zaleceniami-sdc
 title: Powiązania z zaleceniami SDC
 description: Powiązania procedury archiwizacji i wycofywania zasobów cyfrowych z innymi zaleceniami SDC.
@@ -15,17 +15,17 @@ wersja_robocza: true
 
 ## Cel
 
-Celem dokumentu jest pokazanie, ĹĽe procedura archiwizacji i wycofywania zasobĂłw cyfrowych nie dziaĹ‚a w oderwaniu od innych zaleceĹ„ SDC. Jest warstwÄ… zamykajÄ…cÄ… cykl ĹĽycia informacji: przejmuje wyniki przeglÄ…du, publikacji, naprawy i komunikacji o dostÄ™pnoĹ›ci, a nastÄ™pnie prowadzi do decyzji o dalszym utrzymaniu, archiwizacji, migracji albo wycofaniu.
+Celem dokumentu jest pokazanie, że procedura archiwizacji i wycofywania zasobów cyfrowych nie działa w oderwaniu od innych zaleceń SDC. Jest warstwą zamykającą cykl życia informacji: przejmuje wyniki przeglądu, publikacji, naprawy i komunikacji o dostępności, a następnie prowadzi do decyzji o dalszym utrzymaniu, archiwizacji, migracji albo wycofaniu.
 
-## PrzeglÄ…d i naprawa zaĹ‚Ä…cznikĂłw opublikowanych po 23 wrzeĹ›nia 2018 r.
+## Przegląd i naprawa załączników opublikowanych po 23 września 2018 r.
 
-Zalecenie dotyczÄ…ce przeglÄ…du i naprawy zaĹ‚Ä…cznikĂłw wskazuje, jak identyfikowaÄ‡ dokumenty opublikowane po 23 wrzeĹ›nia 2018 r., oceniaÄ‡ ich dostÄ™pnoĹ›Ä‡, niezbÄ™dnoĹ›Ä‡ i sposĂłb dalszego postÄ™powania. Wynik tego przeglÄ…du jest jednym z gĹ‚Ăłwnych wejĹ›Ä‡ do decyzji archiwizacyjnej.
+Zalecenie dotyczące przeglądu i naprawy załączników wskazuje, jak identyfikować dokumenty opublikowane po 23 września 2018 r., oceniać ich dostępność, niezbędność i sposób dalszego postępowania. Wynik tego przeglądu jest jednym z głównych wejść do decyzji archiwizacyjnej.
 
-JeĹĽeli zaĹ‚Ä…cznik nadal jest potrzebny do realizacji zadania publicznego albo pozostaje istotny dla uĹĽytkownikĂłw, podmiot powinien rozwaĹĽyÄ‡ naprawÄ™ dostÄ™pnoĹ›ci, aktualizacjÄ™ metadanych albo utrzymanie publicznego dostÄ™pu. JeĹĽeli dokument utraciĹ‚ aktualnoĹ›Ä‡, ale powinien pozostaÄ‡ jako dowĂłd dziaĹ‚ania albo zasĂłb historyczny, moĹĽe zostaÄ‡ oznaczony jako treĹ›Ä‡ archiwalna.
+Jeżeli załącznik nadal jest potrzebny do realizacji zadania publicznego albo pozostaje istotny dla użytkowników, podmiot powinien rozważyć naprawę dostępności, aktualizację metadanych albo utrzymanie publicznego dostępu. Jeżeli dokument utracił aktualność, ale powinien pozostać jako dowód działania albo zasób historyczny, może zostać oznaczony jako treść archiwalna.
 
-Procedura archiwizacji przejmuje z przeglÄ…du informacjÄ™ o statusie dokumentu, wyniku oceny dostÄ™pnoĹ›ci, wĹ‚aĹ›cicielu zasobu, rekomendowanej decyzji i potrzebie dokumentowania dalszego postÄ™powania.
+Procedura archiwizacji przejmuje z przeglądu informację o statusie dokumentu, wyniku oceny dostępności, właścicielu zasobu, rekomendowanej decyzji i potrzebie dokumentowania dalszego postępowania.
 
-## TreĹ›ci pochodzÄ…ce od innych podmiotĂłw
+## Treści pochodzące od innych podmiotów
 
 Treści pochodzące od innych podmiotów mogą mieć ograniczoną możliwość modyfikacji. Podmiot publikujący nie zawsze jest twórcą dokumentu, ale odpowiada za sposób jego udostępnienia w swoim serwisie, oznaczenie, kontekst publikacji i informację dla użytkownika. W metadanych warto wskazać źródło treści zewnętrznej oraz ograniczenia prawne i techniczne związane z jej dalszym przetwarzaniem.
 
@@ -35,35 +35,35 @@ Procedura archiwizacji nie zastępuje oceny treści zewnętrznej, ale wskazuje, 
 
 Małe jednostki bez archiwum zakładowego mogą prowadzić prosty rejestr i korzystać z konsultacji jednostki nadrzędnej lub zewnętrznego specjalisty, aby zachować minimalny poziom odpowiedzialności i zgodności.
 
-## DostÄ™pnoĹ›Ä‡ multimediĂłw i komunikacji masowej
+## Dostępność multimediów i komunikacji masowej
 
-Nagrania transmisji, materiaĹ‚y promocyjne, komunikaty wideo, grafiki i treĹ›ci w mediach spoĹ‚ecznoĹ›ciowych mogÄ… szybko traciÄ‡ aktualnoĹ›Ä‡, ale nadal dokumentujÄ… dziaĹ‚ania podmiotu. WymagajÄ… decyzji, czy majÄ… pozostaÄ‡ aktywne, zostaÄ‡ oznaczone jako archiwalne, uzupeĹ‚nione o transkrypcjÄ™, opis albo streszczenie, czy wycofane z publikacji.
+Nagrania transmisji, materiały promocyjne, komunikaty wideo, grafiki i treści w mediach społecznościowych mogą szybko tracić aktualność, ale nadal dokumentują działania podmiotu. Wymagają decyzji, czy mają pozostać aktywne, zostać oznaczone jako archiwalne, uzupełnione o transkrypcję, opis albo streszczenie, czy wycofane z publikacji.
 
-Procedura archiwizacji przejmuje z zaleceĹ„ dotyczÄ…cych multimediĂłw informacje o wymaganiach dostÄ™pnoĹ›ciowych, wyjÄ…tkach, alternatywach, terminach publikacji i odpowiedzialnoĹ›ci za materiaĹ‚. Pozwala uniknÄ…Ä‡ sytuacji, w ktĂłrej niedostÄ™pne nagranie pozostaje publiczne bez oznaczenia albo znika bez Ĺ›ladu.
+Procedura archiwizacji przejmuje z zaleceń dotyczących multimediów informacje o wymaganiach dostępnościowych, wyjątkach, alternatywach, terminach publikacji i odpowiedzialności za materiał. Pozwala uniknąć sytuacji, w której niedostępne nagranie pozostaje publiczne bez oznaczenia albo znika bez śladu.
 
-## Deklaracja dostÄ™pnoĹ›ci i komunikacja o dostÄ™pnoĹ›ci
+## Deklaracja dostępności i komunikacja o dostępności
 
-Deklaracja dostÄ™pnoĹ›ci i komunikacja o dostÄ™pnoĹ›ci powinny uwzglÄ™dniaÄ‡ realny stan zasobĂłw cyfrowych. JeĹĽeli serwis utrzymuje archiwum treĹ›ci, stare dokumenty, multimedia albo zasoby historyczne, podmiot powinien jasno informowaÄ‡ uĹĽytkownikĂłw o ograniczeniach, wyjÄ…tkach, sposobie zgĹ‚oszenia problemu i moĹĽliwoĹ›ci uzyskania dostÄ™pu alternatywnego.
+Deklaracja dostępności i komunikacja o dostępności powinny uwzględniać realny stan zasobów cyfrowych. Jeżeli serwis utrzymuje archiwum treści, stare dokumenty, multimedia albo zasoby historyczne, podmiot powinien jasno informować użytkowników o ograniczeniach, wyjątkach, sposobie zgłoszenia problemu i możliwości uzyskania dostępu alternatywnego.
 
-Procedura archiwizacji dostarcza informacji potrzebnych do komunikacji: ktĂłre treĹ›ci sÄ… archiwalne, ktĂłre wymagajÄ… alternatywy, ktĂłre zostaĹ‚y wycofane z publikacji, gdzie moĹĽna uzyskaÄ‡ dostÄ™p na wniosek i kto odpowiada za obsĹ‚ugÄ™ zgĹ‚oszenia.
+Procedura archiwizacji dostarcza informacji potrzebnych do komunikacji: które treści są archiwalne, które wymagają alternatywy, które zostały wycofane z publikacji, gdzie można uzyskać dostęp na wniosek i kto odpowiada za obsługę zgłoszenia.
 
-## Cykl ĹĽycia TIK
+## Cykl życia TIK
 
-Nowe zalecenie jest warstwÄ… zamykajÄ…cÄ… cykl ĹĽycia informacji. Publikacja i utrzymanie zasobu nie sÄ… koĹ„cem procesu. ZasĂłb powinien przejĹ›Ä‡ przez przeglÄ…d, kwalifikacjÄ™, decyzjÄ™ o archiwizacji albo wycofaniu, a w razie potrzeby przez migracjÄ™ i przekazanie do wĹ‚aĹ›ciwego zasobu archiwalnego.
+Nowe zalecenie jest warstwą zamykającą cykl życia informacji. Publikacja i utrzymanie zasobu nie są końcem procesu. Zasób powinien przejść przez przegląd, kwalifikację, decyzję o archiwizacji albo wycofaniu, a w razie potrzeby przez migrację i przekazanie do właściwego zasobu archiwalnego.
 
-Cykl ĹĽycia TIK obejmuje rĂłwnieĹĽ system. System teleinformatyczny nie moĹĽe zostaÄ‡ wycofany bez ustalenia, co stanie siÄ™ z danymi, metadanymi, dokumentami, logami, historiÄ… publikacji i zaleĹĽnoĹ›ciami z innymi systemami.
+Cykl życia TIK obejmuje również system. System teleinformatyczny nie może zostać wycofany bez ustalenia, co stanie się z danymi, metadanymi, dokumentami, logami, historią publikacji i zależnościami z innymi systemami.
 
-## Tabela powiÄ…zaĹ„
+## Tabela powiązań
 
 | Zalecenie SDC | Punkt styku | Co przejmuje procedura archiwizacji | Co przekazuje dalej |
 | --- | --- | --- | --- |
-| PrzeglÄ…d i naprawa zaĹ‚Ä…cznikĂłw | Wynik oceny dokumentu i jego niezbÄ™dnoĹ›ci | Status dokumentu, wynik oceny dostÄ™pnoĹ›ci, rekomendacjÄ™ naprawy albo archiwizacji | DecyzjÄ™ o utrzymaniu, naprawie, oznaczeniu jako archiwalne albo wycofaniu z publikacji |
-| TreĹ›ci od innych podmiotĂłw | Publikacja materiaĹ‚u, ktĂłrego podmiot nie jest twĂłrcÄ… | InformacjÄ™ o ĹşrĂłdle, ograniczeniach modyfikacji, podstawie publikacji i dostÄ™pnoĹ›ci | Oznaczenie, dostÄ™p alternatywny, archiwizacjÄ™ kontekstu albo wycofanie |
-| Multimedia i komunikacja masowa | Nagrania, transmisje, grafiki, komunikaty i materiaĹ‚y promocyjne | InformacjÄ™ o transkrypcjach, opisach, napisach, statusie materiaĹ‚u i wyjÄ…tkach | DecyzjÄ™ o utrzymaniu, uzupeĹ‚nieniu alternatywy, oznaczeniu jako archiwalne albo wycofaniu |
-| Deklaracja dostÄ™pnoĹ›ci | Komunikacja o stanie dostÄ™pnoĹ›ci serwisu i zasobĂłw | InformacjÄ™ o treĹ›ciach archiwalnych, wyjÄ…tkach i sposobach kontaktu | AktualizacjÄ™ komunikacji, obsĹ‚ugÄ™ wnioskĂłw i dostÄ™p alternatywny |
-| Cykl ĹĽycia TIK | Projektowanie, utrzymanie, migracja i wycofanie | Statusy, metadane, ryzyka, decyzje i wymagania systemowe | Procedury migracji, archiwizacji, wycofania systemu i dokumentowania procesu |
+| Przegląd i naprawa załączników | Wynik oceny dokumentu i jego niezbędności | Status dokumentu, wynik oceny dostępności, rekomendację naprawy albo archiwizacji | Decyzję o utrzymaniu, naprawie, oznaczeniu jako archiwalne albo wycofaniu z publikacji |
+| Treści od innych podmiotów | Publikacja materiału, którego podmiot nie jest twórcą | Informację o źródle, ograniczeniach modyfikacji, podstawie publikacji i dostępności | Oznaczenie, dostęp alternatywny, archiwizację kontekstu albo wycofanie |
+| Multimedia i komunikacja masowa | Nagrania, transmisje, grafiki, komunikaty i materiały promocyjne | Informację o transkrypcjach, opisach, napisach, statusie materiału i wyjątkach | Decyzję o utrzymaniu, uzupełnieniu alternatywy, oznaczeniu jako archiwalne albo wycofaniu |
+| Deklaracja dostępności | Komunikacja o stanie dostępności serwisu i zasobów | Informację o treściach archiwalnych, wyjątkach i sposobach kontaktu | Aktualizację komunikacji, obsługę wniosków i dostęp alternatywny |
+| Cykl życia TIK | Projektowanie, utrzymanie, migracja i wycofanie | Statusy, metadane, ryzyka, decyzje i wymagania systemowe | Procedury migracji, archiwizacji, wycofania systemu i dokumentowania procesu |
 
 ## Zasada stosowania
 
-JeĹĽeli inne zalecenie SDC prowadzi do wniosku, ĹĽe zasĂłb wymaga naprawy, oznaczenia, ograniczenia dostÄ™pu, przeniesienia albo usuniÄ™cia z publikacji, naleĹĽy zastosowaÄ‡ [Model decyzyjny](./08-model-decyzyjny.md) i [Model ryzyk](./09-model-ryzyk.md). Procedura archiwizacji jest miejscem, w ktĂłrym wynik przeglÄ…du staje siÄ™ udokumentowanÄ… decyzjÄ….
+Jeżeli inne zalecenie SDC prowadzi do wniosku, że zasób wymaga naprawy, oznaczenia, ograniczenia dostępu, przeniesienia albo usunięcia z publikacji, należy zastosować [Model decyzyjny](./08-model-decyzyjny.md) i [Model ryzyk](./09-model-ryzyk.md). Procedura archiwizacji jest miejscem, w którym wynik przeglądu staje się udokumentowaną decyzją.
 

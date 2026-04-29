@@ -1,4 +1,4 @@
-﻿---
+---
 id: 02-problem-i-kontekst-archiwizacji
 title: Problem i kontekst archiwizacji oraz wycofywania zasobów cyfrowych
 description: Opis luki systemowej i skutków niekontrolowanego wycofywania treści, danych i systemów cyfrowych.
@@ -15,77 +15,77 @@ wersja_robocza: true
 
 ## Cel
 
-Celem tego dokumentu jest wskazanie problemĂłw, ktĂłre uzasadniajÄ… wdroĹĽenie procedury archiwizacji i wycofywania zasobĂłw cyfrowych. Dokument pokazuje, ĹĽe wycofanie treĹ›ci, migracja danych i zamkniÄ™cie systemu sÄ… decyzjami organizacyjnymi i prawnymi, a nie wyĹ‚Ä…cznie czynnoĹ›ciami technicznymi.
+Celem tego dokumentu jest wskazanie problemów, które uzasadniają wdrożenie procedury archiwizacji i wycofywania zasobów cyfrowych. Dokument pokazuje, że wycofanie treści, migracja danych i zamknięcie systemu są decyzjami organizacyjnymi i prawnymi, a nie wyłącznie czynnościami technicznymi.
 
-## Archiwizacja mylona z usuniÄ™ciem
+## Archiwizacja mylona z usunięciem
 
-W wielu podmiotach archiwizacja oznacza w praktyce usuniÄ™cie strony, ukrycie pliku, przeniesienie dokumentu do nieopisanego folderu albo pozostawienie starego systemu bez aktywnego utrzymania. Takie dziaĹ‚anie nie zapewnia ani dostÄ™pnoĹ›ci informacji, ani zachowania dokumentacji, ani moĹĽliwoĹ›ci wykazania, kto i na jakiej podstawie podjÄ…Ĺ‚ decyzjÄ™.
+W wielu podmiotach archiwizacja oznacza w praktyce usunięcie strony, ukrycie pliku, przeniesienie dokumentu do nieopisanego folderu albo pozostawienie starego systemu bez aktywnego utrzymania. Takie działanie nie zapewnia ani dostępności informacji, ani zachowania dokumentacji, ani możliwości wykazania, kto i na jakiej podstawie podjął decyzję.
 
-Archiwizacja powinna oznaczaÄ‡ kontrolowane zachowanie zasobu wraz z metadanymi, kontekstem, statusem, informacjÄ… o dostÄ™pnoĹ›ci i decyzjÄ… o dalszym postÄ™powaniu. UsuniÄ™cie moĹĽe byÄ‡ skutkiem decyzji, ale nie moĹĽe zastÄ™powaÄ‡ kwalifikacji archiwalnej, oceny informacji publicznej, analizy danych osobowych i ustalenia obowiÄ…zkĂłw retencyjnych.
+Archiwizacja powinna oznaczać kontrolowane zachowanie zasobu wraz z metadanymi, kontekstem, statusem, informacją o dostępności i decyzją o dalszym postępowaniu. Usunięcie może być skutkiem decyzji, ale nie może zastępować kwalifikacji archiwalnej, oceny informacji publicznej, analizy danych osobowych i ustalenia obowiązków retencyjnych.
 
-## Brak statusĂłw treĹ›ci
+## Brak statusów treści
 
-TreĹ›ci publikowane w WWW i BIP czÄ™sto funkcjonujÄ… bez statusu. UĹĽytkownik nie wie, czy dokument jest aktualny, archiwalny, historyczny, zastÄ…piony innÄ… wersjÄ…, wycofany z obiegu czy pozostawiony wyĹ‚Ä…cznie ze wzglÄ™dĂłw dokumentacyjnych. Redaktorzy i administratorzy nie majÄ… natomiast jasnej podstawy do decyzji, czy treĹ›Ä‡ naprawiÄ‡, oznaczyÄ‡, przenieĹ›Ä‡, usunÄ…Ä‡ z publikacji albo przekazaÄ‡ do archiwum zakĹ‚adowego.
+Treści publikowane w WWW i BIP często funkcjonują bez statusu. Użytkownik nie wie, czy dokument jest aktualny, archiwalny, historyczny, zastąpiony inną wersją, wycofany z obiegu czy pozostawiony wyłącznie ze względów dokumentacyjnych. Redaktorzy i administratorzy nie mają natomiast jasnej podstawy do decyzji, czy treść naprawić, oznaczyć, przenieść, usunąć z publikacji albo przekazać do archiwum zakładowego.
 
-Brak statusu prowadzi do utrzymywania w sieci treĹ›ci nieaktualnych albo bĹ‚Ä™dnych. MoĹĽe teĹĽ powodowaÄ‡ odwrotny skutek, czyli usuwanie zasobĂłw, ktĂłre powinny pozostaÄ‡ dostÄ™pne publicznie, dostÄ™pne na wniosek albo zachowane jako dokumentacja sprawy.
+Brak statusu prowadzi do utrzymywania w sieci treści nieaktualnych albo błędnych. Może też powodować odwrotny skutek, czyli usuwanie zasobów, które powinny pozostać dostępne publicznie, dostępne na wniosek albo zachowane jako dokumentacja sprawy.
 
 ## Brak metadanych i kontekstu
 
-ZasĂłb cyfrowy bez metadanych traci znacznÄ… czÄ™Ĺ›Ä‡ wartoĹ›ci dowodowej i organizacyjnej. Brak identyfikatora, daty publikacji, twĂłrcy, wĹ‚aĹ›ciciela, podstawy publikacji, kategorii archiwalnej, powiÄ…zania ze sprawÄ…, wersji i informacji o formacie utrudnia ocenÄ™, czy zasĂłb moĹĽna wycofaÄ‡, migrowaÄ‡ albo brakowaÄ‡.
+Zasób cyfrowy bez metadanych traci znaczną część wartości dowodowej i organizacyjnej. Brak identyfikatora, daty publikacji, twórcy, właściciela, podstawy publikacji, kategorii archiwalnej, powiązania ze sprawą, wersji i informacji o formacie utrudnia ocenę, czy zasób można wycofać, migrować albo brakować.
 
-SzczegĂłlnie ryzykowna jest utrata kontekstu dokumentĂłw publikowanych w BIP i WWW. Dokument pobrany z systemu, odĹ‚Ä…czony od sprawy i pozbawiony metadanych moĹĽe byÄ‡ trudny do zrozumienia, nawet jeĹĽeli sam plik nadal istnieje.
+Szczególnie ryzykowna jest utrata kontekstu dokumentów publikowanych w BIP i WWW. Dokument pobrany z systemu, odłączony od sprawy i pozbawiony metadanych może być trudny do zrozumienia, nawet jeżeli sam plik nadal istnieje.
 
 ## Brak decyzji o wycofaniu
 
-Wycofanie z publikacji bywa wykonywane bez formularza decyzji, rejestru, akceptacji wĹ‚aĹ›ciciela zasobu i udziaĹ‚u osĂłb odpowiedzialnych za archiwizacjÄ™, dostÄ™pnoĹ›Ä‡ albo ochronÄ™ danych. Powoduje to brak Ĺ›ladu audytowego i brak moĹĽliwoĹ›ci wykazania, czy decyzja byĹ‚a zgodna z prawem, instrukcjÄ… kancelaryjnÄ…, JRWA, obowiÄ…zkami BIP i interesem uĹĽytkownikĂłw.
+Wycofanie z publikacji bywa wykonywane bez formularza decyzji, rejestru, akceptacji właściciela zasobu i udziału osób odpowiedzialnych za archiwizację, dostępność albo ochronę danych. Powoduje to brak śladu audytowego i brak możliwości wykazania, czy decyzja była zgodna z prawem, instrukcją kancelaryjną, JRWA, obowiązkami BIP i interesem użytkowników.
 
-Decyzja o wycofaniu powinna okreĹ›laÄ‡ przedmiot wycofania, podstawÄ™, zakres danych, wpĹ‚yw na uĹĽytkownikĂłw, sposĂłb archiwizacji, sposĂłb dostÄ™pu po wycofaniu i osobÄ™ odpowiedzialnÄ….
+Decyzja o wycofaniu powinna określać przedmiot wycofania, podstawę, zakres danych, wpływ na użytkowników, sposób archiwizacji, sposób dostępu po wycofaniu i osobę odpowiedzialną.
 
-## Stare pliki bez dostÄ™pnoĹ›ci
+## Stare pliki bez dostępności
 
-Podmioty publiczne przechowujÄ… w serwisach wiele starych plikĂłw PDF, DOCX, XLSX, skanĂłw i multimediĂłw. CzÄ™Ĺ›Ä‡ z nich nie speĹ‚nia wymagaĹ„ dostÄ™pnoĹ›ci cyfrowej, ale nadal moĹĽe zawieraÄ‡ informacjÄ™ publicznÄ…, dokumentacjÄ™ sprawy albo treĹ›Ä‡ waĹĽnÄ… spoĹ‚ecznie.
+Podmioty publiczne przechowują w serwisach wiele starych plików PDF, DOCX, XLSX, skanów i multimediów. Część z nich nie spełnia wymagań dostępności cyfrowej, ale nadal może zawierać informację publiczną, dokumentację sprawy albo treść ważną społecznie.
 
-Problem nie polega wyĹ‚Ä…cznie na tym, ĹĽe plik jest niedostÄ™pny. Ryzykiem jest brak decyzji, czy plik naleĹĽy naprawiÄ‡, pozostawiÄ‡ z oznaczeniem archiwalnym, udostÄ™pniÄ‡ alternatywnie, wycofaÄ‡ z publikacji czy zachowaÄ‡ wyĹ‚Ä…cznie w systemie kancelaryjnym albo archiwalnym. PowiÄ…zanie z zaleceniem dotyczÄ…cym przeglÄ…du zaĹ‚Ä…cznikĂłw opisano w [PowiÄ…zaniach z zaleceniami SDC](./05-powiazania-z-zaleceniami-sdc.md).
+Problem nie polega wyłącznie na tym, że plik jest niedostępny. Ryzykiem jest brak decyzji, czy plik należy naprawić, pozostawić z oznaczeniem archiwalnym, udostępnić alternatywnie, wycofać z publikacji czy zachować wyłącznie w systemie kancelaryjnym albo archiwalnym. Powiązanie z zaleceniem dotyczącym przeglądu załączników opisano w [Powiązaniach z zaleceniami SDC](./05-powiazania-z-zaleceniami-sdc.md).
 
 ## BIP i serwisy WWW bez kontroli historii
 
-BIP i serwisy WWW peĹ‚niÄ… funkcjÄ™ informacyjnÄ…, ale czÄ™sto sÄ… rĂłwnieĹĽ miejscem publikacji dokumentĂłw zwiÄ…zanych z dziaĹ‚alnoĹ›ciÄ… podmiotu. Brak kontroli historii zmian, wersjonowania i trwaĹ‚ych odwoĹ‚aĹ„ utrudnia ustalenie, jaka treĹ›Ä‡ byĹ‚a publicznie dostÄ™pna w okreĹ›lonym czasie.
+BIP i serwisy WWW pełnią funkcję informacyjną, ale często są również miejscem publikacji dokumentów związanych z działalnością podmiotu. Brak kontroli historii zmian, wersjonowania i trwałych odwołań utrudnia ustalenie, jaka treść była publicznie dostępna w określonym czasie.
 
-Nie kaĹĽde archiwum informacyjne w serwisie WWW jest archiwum formalnym. JeĹĽeli jednak podmiot utrzymuje publicznÄ… historiÄ™ treĹ›ci, powinien oznaczaÄ‡ jej status, dbaÄ‡ o linki, zachowywaÄ‡ metadane i rozrĂłĹĽniaÄ‡ treĹ›ci aktualne od archiwalnych.
+Nie każde archiwum informacyjne w serwisie WWW jest archiwum formalnym. Jeżeli jednak podmiot utrzymuje publiczną historię treści, powinien oznaczać jej status, dbać o linki, zachowywać metadane i rozróżniać treści aktualne od archiwalnych.
 
 ## CMS bez eksportu i systemy bez planu migracji
 
-System CMS, BIP, repozytorium plikĂłw albo system dziedzinowy moĹĽe przez lata gromadziÄ‡ dane, dokumenty i metadane. JeĹĽeli system nie zapewnia eksportu, dokumentacji technicznej, mapowania pĂłl i odtworzenia relacji miÄ™dzy danymi, jego wycofanie moĹĽe prowadziÄ‡ do utraty zasobĂłw albo utraty moĹĽliwoĹ›ci ich wiarygodnego odczytu.
+System CMS, BIP, repozytorium plików albo system dziedzinowy może przez lata gromadzić dane, dokumenty i metadane. Jeżeli system nie zapewnia eksportu, dokumentacji technicznej, mapowania pól i odtworzenia relacji między danymi, jego wycofanie może prowadzić do utraty zasobów albo utraty możliwości ich wiarygodnego odczytu.
 
-WyĹ‚Ä…czenie systemu bez planu migracji oznacza ryzyko utraty danych, logĂłw, zaĹ‚Ä…cznikĂłw, historii spraw, uprawnieĹ„, podpisĂłw, powiÄ…zaĹ„ z dokumentami i informacji o publikacji. Z tego powodu kryteria wycofania systemu muszÄ… byÄ‡ powiÄ…zane z [Modelem decyzyjnym](./08-model-decyzyjny.md) i [Modelem ryzyk](./09-model-ryzyk.md).
+Wyłączenie systemu bez planu migracji oznacza ryzyko utraty danych, logów, załączników, historii spraw, uprawnień, podpisów, powiązań z dokumentami i informacji o publikacji. Z tego powodu kryteria wycofania systemu muszą być powiązane z [Modelem decyzyjnym](./08-model-decyzyjny.md) i [Modelem ryzyk](./09-model-ryzyk.md).
 
-## Brak powiÄ…zania z EZD i archiwum zakĹ‚adowym
+## Brak powiązania z EZD i archiwum zakładowym
 
-W podmiotach korzystajÄ…cych z EZD czÄ™Ĺ›Ä‡ dokumentĂłw publikowanych w WWW albo BIP pochodzi ze spraw prowadzonych w systemie kancelaryjnym. JeĹĽeli publikacja nie jest powiÄ…zana z aktami sprawy, podmiot tworzy dwa rĂłwnolegĹ‚e obiegi: formalny i publikacyjny. To utrudnia archiwizacjÄ™, ocenÄ™ kategorii archiwalnej i ustalenie obowiÄ…zkĂłw retencyjnych.
+W podmiotach korzystających z EZD część dokumentów publikowanych w WWW albo BIP pochodzi ze spraw prowadzonych w systemie kancelaryjnym. Jeżeli publikacja nie jest powiązana z aktami sprawy, podmiot tworzy dwa równoległe obiegi: formalny i publikacyjny. To utrudnia archiwizację, ocenę kategorii archiwalnej i ustalenie obowiązków retencyjnych.
 
-Archiwum zakĹ‚adowe powinno byÄ‡ wĹ‚Ä…czane w decyzje dotyczÄ…ce dokumentacji, ktĂłra ma kategoriÄ™ archiwalnÄ… albo wymaga oceny w Ĺ›wietle JRWA. Brak udziaĹ‚u archiwum zakĹ‚adowego zwiÄ™ksza ryzyko bĹ‚Ä™dnego brakowania, nieuporzÄ…dkowanego przekazania i utraty dokumentacji.
+Archiwum zakładowe powinno być włączane w decyzje dotyczące dokumentacji, która ma kategorię archiwalną albo wymaga oceny w świetle JRWA. Brak udziału archiwum zakładowego zwiększa ryzyko błędnego brakowania, nieuporządkowanego przekazania i utraty dokumentacji.
 
 ## Skutki prawne
 
-NieprawidĹ‚owe wycofanie zasobu moĹĽe naruszaÄ‡ obowiÄ…zki dotyczÄ…ce dokumentacji, informacji publicznej, BIP, dostÄ™pnoĹ›ci cyfrowej, ochrony danych osobowych albo przepisĂłw branĹĽowych o retencji. Ryzyko wzrasta, gdy podmiot nie potrafi wykazaÄ‡, jaki zasĂłb istniaĹ‚, kiedy zostaĹ‚ opublikowany, kto byĹ‚ wĹ‚aĹ›cicielem, dlaczego go wycofano i gdzie zostaĹ‚ zachowany.
+Nieprawidłowe wycofanie zasobu może naruszać obowiązki dotyczące dokumentacji, informacji publicznej, BIP, dostępności cyfrowej, ochrony danych osobowych albo przepisów branżowych o retencji. Ryzyko wzrasta, gdy podmiot nie potrafi wykazać, jaki zasób istniał, kiedy został opublikowany, kto był właścicielem, dlaczego go wycofano i gdzie został zachowany.
 
 ## Skutki organizacyjne
 
-Brak procedury powoduje zaleĹĽnoĹ›Ä‡ od wiedzy pojedynczych osĂłb. Zmiana redaktora, administratora albo wykonawcy systemu moĹĽe oznaczaÄ‡ utratÄ™ wiedzy o strukturze zasobĂłw, historii publikacji i lokalizacji plikĂłw. Organizacja traci zdolnoĹ›Ä‡ planowania migracji, kontroli jakoĹ›ci i raportowania.
+Brak procedury powoduje zależność od wiedzy pojedynczych osób. Zmiana redaktora, administratora albo wykonawcy systemu może oznaczać utratę wiedzy o strukturze zasobów, historii publikacji i lokalizacji plików. Organizacja traci zdolność planowania migracji, kontroli jakości i raportowania.
 
-## Skutki dostÄ™pnoĹ›ciowe
+## Skutki dostępnościowe
 
-UĹĽytkownik moĹĽe zostaÄ‡ odciÄ™ty od informacji, ktĂłra nadal powinna byÄ‡ dostÄ™pna. MoĹĽe teĹĽ otrzymaÄ‡ dokument niedostÄ™pny cyfrowo bez informacji, jak uzyskaÄ‡ dostÄ™p alternatywny. Brak oznaczeĹ„ archiwalnych utrudnia osobom korzystajÄ…cym z technologii wspomagajÄ…cych ocenÄ™ aktualnoĹ›ci i znaczenia treĹ›ci.
+Użytkownik może zostać odcięty od informacji, która nadal powinna być dostępna. Może też otrzymać dokument niedostępny cyfrowo bez informacji, jak uzyskać dostęp alternatywny. Brak oznaczeń archiwalnych utrudnia osobom korzystającym z technologii wspomagających ocenę aktualności i znaczenia treści.
 
 ## Skutki technologiczne
 
-Nieprzygotowana migracja prowadzi do utraty relacji miÄ™dzy danymi, nieczytelnoĹ›ci starych formatĂłw, braku zgodnoĹ›ci znakĂłw, uszkodzenia zaĹ‚Ä…cznikĂłw, utraty wersji i braku moĹĽliwoĹ›ci odtworzenia widoku historycznego. Ryzyko dotyczy szczegĂłlnie systemĂłw zamawianych bez wymagaĹ„ eksportu i dokumentacji technicznej.
+Nieprzygotowana migracja prowadzi do utraty relacji między danymi, nieczytelności starych formatów, braku zgodności znaków, uszkodzenia załączników, utraty wersji i braku możliwości odtworzenia widoku historycznego. Ryzyko dotyczy szczególnie systemów zamawianych bez wymagań eksportu i dokumentacji technicznej.
 
 ## Skutki wizerunkowe
 
-Nieaktualne treĹ›ci pozostawione bez oznaczenia obniĹĽajÄ… wiarygodnoĹ›Ä‡ podmiotu. UsuniÄ™cie informacji bez wyjaĹ›nienia moĹĽe wywoĹ‚aÄ‡ zarzut braku przejrzystoĹ›ci. Brak dostÄ™pu do zasobĂłw historycznych moĹĽe byÄ‡ odbierany jako ograniczenie pamiÄ™ci instytucjonalnej albo utrudnianie kontroli spoĹ‚ecznej.
+Nieaktualne treści pozostawione bez oznaczenia obniżają wiarygodność podmiotu. Usunięcie informacji bez wyjaśnienia może wywołać zarzut braku przejrzystości. Brak dostępu do zasobów historycznych może być odbierany jako ograniczenie pamięci instytucjonalnej albo utrudnianie kontroli społecznej.
 
 ## Luka systemowa
 
-Opisane problemy wynikajÄ… z braku wspĂłlnego standardu dla archiwizacji i wycofywania zasobĂłw cyfrowych. Zalecenie wprowadza takÄ… warstwÄ™ standardu: Ĺ‚Ä…czy [Model cyklu ĹĽycia](./06-model-cyklu-zycia.md), [Model statusĂłw zasobĂłw](./07-model-statusow-zasobow.md), [Model decyzyjny](./08-model-decyzyjny.md) i [Model ryzyk](./09-model-ryzyk.md), a nastÄ™pnie prowadzi do procedur, standardĂłw, list kontrolnych i formularzy.
+Opisane problemy wynikają z braku wspólnego standardu dla archiwizacji i wycofywania zasobów cyfrowych. Zalecenie wprowadza taką warstwę standardu: łączy [Model cyklu życia](./06-model-cyklu-zycia.md), [Model statusów zasobów](./07-model-statusow-zasobow.md), [Model decyzyjny](./08-model-decyzyjny.md) i [Model ryzyk](./09-model-ryzyk.md), a następnie prowadzi do procedur, standardów, list kontrolnych i formularzy.
 
