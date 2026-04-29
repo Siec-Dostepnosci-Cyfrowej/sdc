@@ -1,23 +1,22 @@
 ---
 id: instrukcja-dla-podmiotow-zewnetrznych
-title:  Instrukcja dla podmiotów zewnętrznych przekazujących materiały do publikacji
+title: Instrukcja dla podmiotów zewnętrznych przekazujących materiały do publikacji
 description: Zawiera wytyczne dla podmiotów przekazujących materiały dotyczące przygotowania treści zgodnie z wymaganiami publikacyjnymi i dostępności.
 sidebar_label: Instrukcja dla podmiotów zewnętrznych
 sidebar_position: 30
-keywords: [słowo kluczowe, inne słowo]
-tags: [słowo kluczowe, inne słowo]
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+ostatnia_aktualizacja: 29 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
-
-
-
 Dokument określa zasady przekazywania materiałów do publikacji przez podmioty zewnętrzne.
 
-Celem instrukcji jest zapewnienie zgodności publikowanych treści z przepisami prawa, w szczególności w zakresie dostępności cyfrowej oraz obowiązków informacyjnych.
+Celem instrukcji jest ułatwienie przygotowania materiałów w sposób, który pozwala podmiotowi publicznemu ocenić je przed publikacją oraz zapewnić dostępność informacji w swoim serwisie.
+
+Ten materiał ma charakter wdrożeniowy i wspiera stosowanie zalecenia. Nie zastępuje oceny prawnej ani indywidualnej decyzji organizacji.
 
 ---
 
@@ -27,12 +26,12 @@ Materiały przekazywane do publikacji podlegają weryfikacji przed ich udostępn
 
 Przekazanie materiału nie oznacza jego automatycznej publikacji.
 
-Każdy materiał musi umożliwiać realizację obowiązków wynikających z przepisów prawa, w szczególności:
+Materiał powinien umożliwiać realizację obowiązków wynikających z przepisów prawa, w szczególności:
 
-- ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych,  
-- ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej.  
+- ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych,
+- ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej.
 
-Podmiot przekazujący materiał uczestniczy w procesie zapewnienia dostępności informacji publicznej i ponosi odpowiedzialność za jakość oraz kompletność przekazywanych treści.
+Podmiot przekazujący odpowiada za kompletność, jakość i rzetelność przekazanego materiału. Podmiot publiczny odpowiada za sposób publikacji materiału w swoim serwisie oraz za decyzję, w jaki sposób zapewnić dostępność albo dostęp do informacji.
 
 ---
 
@@ -40,31 +39,32 @@ Podmiot przekazujący materiał uczestniczy w procesie zapewnienia dostępności
 
 Materiały powinny być przygotowane w sposób umożliwiający ich publikację zgodnie z obowiązującymi przepisami.
 
-Oznacza to, że materiał musi:
+Oznacza to, że materiał powinien:
 
-- umożliwiać jego zrozumienie bez konieczności uzupełniania informacji przez podmiot publikujący,  
-- spełniać wymagania dostępności cyfrowej,  
-- być przygotowany w sposób pozwalający na jego ocenę oraz kwalifikację przed publikacją.  
+- umożliwiać jego zrozumienie bez konieczności uzupełniania informacji przez podmiot publikujący,
+- w miarę możliwości spełniać wymagania dostępności cyfrowej,
+- być przygotowany w sposób pozwalający na jego ocenę oraz kwalifikację przed publikacją.
 
-Brak spełnienia powyższych warunków może uniemożliwić publikację materiału.
+Brak spełnienia powyższych warunków może skutkować wezwaniem do uzupełnienia, dostosowaniem materiału przez podmiot publiczny w dopuszczalnym zakresie, publikacją z dostępnym uzupełnieniem albo odmową publikacji z uzasadnieniem.
 
 ---
 
 ## 3. Wymagania w zakresie dostępności cyfrowej
 
-Materiały przekazywane do publikacji muszą umożliwiać realizację obowiązków wynikających z przepisów o dostępności cyfrowej.
+Materiały przekazywane do publikacji powinny umożliwiać realizację obowiązków wynikających z przepisów o dostępności cyfrowej.
 
 W szczególności materiał powinien:
 
-- umożliwiać zapewnienie dostępności lub przygotowanie rozwiązań alternatywnych,  
-- nie zawierać barier uniemożliwiających odbiór informacji,  
-- zawierać elementy umożliwiające jego dostosowanie (jeżeli wymagane).  
+- umożliwiać zapewnienie dostępności lub przygotowanie rozwiązań alternatywnych,
+- ograniczać bariery utrudniające odbiór informacji,
+- zawierać elementy umożliwiające jego dostosowanie (jeżeli wymagane).
 
 Podmiot przekazujący powinien uwzględniać, że:
 
-- dostępność cyfrowa stanowi obowiązek prawny podmiotu publikującego,  
-- brak możliwości dostosowania materiału może skutkować odmową jego publikacji,  
-- wyłączenia przewidziane w przepisach mają charakter wyjątkowy i podlegają każdorazowej weryfikacji.  
+- dostępność cyfrowa stanowi obowiązek prawny podmiotu publikującego,
+- podmiot publiczny może wymagać uzupełnienia, wersji edytowalnej, tekstu alternatywnego, transkrypcji, napisów lub danych BIP,
+- brak możliwości dostosowania materiału może skutkować dodatkowymi działaniami po stronie podmiotu publicznego albo odmową publikacji, jeżeli nie występuje obowiązek publikacji,
+- wyłączenia przewidziane w przepisach mają charakter wyjątkowy i podlegają każdorazowej weryfikacji.
 
 ---
 
@@ -74,24 +74,24 @@ Materiały należy przekazywać w formie umożliwiającej ich wykorzystanie zgod
 
 Forma przekazania powinna:
 
-- umożliwiać weryfikację materiału,  
-- umożliwiać jego przetwarzanie i ewentualne dostosowanie,  
-- nie ograniczać możliwości zapewnienia dostępności.  
+- umożliwiać weryfikację materiału,
+- umożliwiać jego przetwarzanie i ewentualne dostosowanie,
+- nie ograniczać możliwości zapewnienia dostępności.
 
-Przekazanie materiału w formie uniemożliwiającej jego dostosowanie może stanowić podstawę do odmowy publikacji.
+Przekazanie materiału w formie, której nie można dostosować, wymaga dodatkowej oceny. Podmiot publiczny może zwrócić się o wersję edytowalną, przygotować dostępne uzupełnienie albo podjąć inną decyzję wynikającą z oceny obowiązku publikacji i dostępności informacji.
 
 ---
 
 ## 5. Informacje wymagane do publikacji
 
-Podmiot przekazujący materiał zobowiązany jest do przekazania informacji niezbędnych do jego publikacji.
+Podmiot przekazujący materiał przekazuje informacje niezbędne do jego publikacji.
 
 Zakres informacji powinien umożliwiać:
 
-- identyfikację materiału i jego źródła,  
-- ustalenie charakteru informacji,  
-- ocenę obowiązku publikacji,  
-- zapewnienie zgodności z przepisami o dostępie do informacji publicznej.  
+- identyfikację materiału i jego źródła,
+- ustalenie charakteru informacji,
+- ocenę obowiązku publikacji,
+- zapewnienie zgodności z przepisami o dostępie do informacji publicznej.
 
 Brak wymaganych informacji może skutkować wstrzymaniem publikacji.
 
@@ -103,12 +103,12 @@ Materiały przeznaczone do publikacji w Biuletynie Informacji Publicznej muszą 
 
 Materiał powinien zawierać dane umożliwiające:
 
-- identyfikację informacji publicznej,  
-- określenie podmiotu wytwarzającego,  
-- wskazanie osoby odpowiedzialnej za treść,  
-- określenie daty wytworzenia.  
+- identyfikację informacji publicznej,
+- określenie podmiotu wytwarzającego,
+- wskazanie osoby odpowiedzialnej za treść,
+- określenie daty wytworzenia.
 
-Brak tych danych uniemożliwia publikację w Biuletynie Informacji Publicznej.
+Brak tych danych może wstrzymać publikację w Biuletynie Informacji Publicznej do czasu uzupełnienia informacji albo rozstrzygnięcia sposobu dalszego postępowania.
 
 ---
 
@@ -116,9 +116,9 @@ Brak tych danych uniemożliwia publikację w Biuletynie Informacji Publicznej.
 
 Materiały niespełniające wymagań:
 
-- mogą zostać zwrócone do uzupełnienia,  
-- mogą nie zostać opublikowane,  
-- mogą zostać opublikowane w sposób ograniczony wyłącznie w przypadku obowiązku publikacji.  
+- mogą zostać zwrócone do uzupełnienia,
+- mogą nie zostać opublikowane,
+- mogą zostać opublikowane w sposób ograniczony wyłącznie w przypadku obowiązku publikacji.
 
 Decyzje podejmowane są na podstawie kwalifikacji materiału.
 
@@ -126,13 +126,14 @@ Decyzje podejmowane są na podstawie kwalifikacji materiału.
 
 ## 8. Współpraca i odpowiedzialność
 
-Podmiot przekazujący materiał współuczestniczy w realizacji obowiązków w zakresie dostępności cyfrowej oraz udostępniania informacji publicznej.
+Podmiot przekazujący materiał współpracuje z podmiotem publicznym w zakresie przygotowania kompletnego i rzetelnego materiału.
 
 Współpraca polega w szczególności na:
 
-- przekazywaniu materiałów spełniających wymagania,  
-- przekazywaniu kompletnych informacji,  
-- uzupełnianiu materiałów w przypadku stwierdzenia braków.  
+- przekazywaniu materiałów przygotowanych możliwie dostępnie,
+- przekazywaniu kompletnych informacji,
+- uzupełnianiu materiałów w przypadku stwierdzenia braków,
+- przekazywaniu wersji edytowalnych, tekstów alternatywnych, transkrypcji, napisów lub danych BIP, jeżeli są potrzebne do publikacji.
 
 ---
 

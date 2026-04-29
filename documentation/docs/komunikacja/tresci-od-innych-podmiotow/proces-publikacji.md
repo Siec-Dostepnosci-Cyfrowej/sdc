@@ -1,172 +1,115 @@
 ---
 id: proces-publikacji
-title:  Proces publikacji treści pochodzących od innych podmiotów
+title: Proces publikacji treści pochodzących od innych podmiotów
 description: Przedstawia pełny proces publikacji materiału wraz z etapami i punktami kontrolnymi.
 sidebar_label: Proces publikacji
 sidebar_position: 41
-keywords: [słowo kluczowe, inne słowo]
-tags: [słowo kluczowe, inne słowo]
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+ostatnia_aktualizacja: 29 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
-
-
-
 ## Opis procesu
 
-Proces publikacji materiałów pochodzących od innych podmiotów przebiega według uporządkowanej sekwencji działań, z jednoznacznym przypisaniem odpowiedzialności.
+Proces publikacji materiałów pochodzących od innych podmiotów opiera się na ocenie parametrów decyzji, a nie na liniowej sekwencji „najpierw A/B/C/D, potem decyzja”.
 
-## Schemat procesu
+Model A/B/C/D jest pomocniczym modelem operacyjnym, który porządkuje możliwe ścieżki postępowania. Nie zastępuje indywidualnej oceny obowiązku publikacji, możliwości dostosowania materiału, przesłanek wyłączenia oraz obowiązku zapewnienia dostępu do informacji.
 
-### 1. Wpływ materiału
+Ten materiał ma charakter wdrożeniowy i wspiera stosowanie zalecenia. Nie zastępuje oceny prawnej ani indywidualnej decyzji organizacji.
+
+Pojęcia używane w procesie wyjaśnia [słownik pojęć](./slownik-pojec.md).
+
+## Logika procesu decyzyjnego
+
+1. Co to za materiał?
+2. Kto go wytworzył?
+3. Czy podmiot publikujący może go zmienić?
+4. Czy publikacja jest obowiązkowa?
+5. Czy materiał spełnia wymagania dostępności?
+6. Czy możliwe jest dostosowanie?
+7. Czy można zapewnić dostęp do informacji w inny sposób?
+8. Czy istnieją podstawy zastosowania wyłączenia?
+9. Jaka decyzja jest uzasadniona?
+10. Jak decyzja zostaje udokumentowana?
+
+## Diagram procesu
+
+```mermaid
+flowchart TD
+    A[Materiał od innego podmiotu] --> B[Sprawdzenie kompletności]
+    B --> C{Czy publikacja jest obowiązkowa?}
+    C --> D[Ocena dostępności]
+    D --> E{Czy materiał jest dostępny?}
+    E -->|Tak| F[Publikacja]
+    E -->|Nie| G{Czy można dostosować materiał?}
+    G -->|Tak| H[Dostosowanie materiału]
+    H --> F
+    G -->|Nie| I{Czy można zapewnić dostęp do informacji w innej formie?}
+    I -->|Tak| J[Publikacja z działaniami uzupełniającymi]
+    I -->|Nie| K{Czy istnieje podstawa wyłączenia?}
+    K -->|Tak| L[Publikacja z uzasadnieniem i dokumentacją]
+    K -->|Nie| M[Odmowa publikacji albo ponowna kwalifikacja]
+    F --> N[Dokumentowanie decyzji]
+    J --> N
+    L --> N
+    M --> N
+    N --> O[Obsługa zgłoszeń po publikacji]
+```
+
+## Etapy procesu
+
+### 1. Przyjęcie i kompletność
 
 Odpowiedzialny: redaktor
 
 - przyjęcie materiału do publikacji,
-- identyfikacja źródła,
-- sporządzenie formularza przekazania materiału.
+- identyfikacja podmiotu przekazującego i źródła materiału,
+- sprawdzenie kompletności plików, danych BIP, opisów, metadanych i informacji potrzebnych do oceny,
+- skierowanie materiału do uzupełnienia, jeżeli braki nie pozwalają przeprowadzić oceny.
 
----
+### 2. Ocena parametrów decyzji
 
-### 2. Weryfikacja kompletności
+Odpowiedzialny: redaktor
+Wsparcie: koordynator dostępności lub właściciel merytoryczny, jeżeli sprawa wymaga interpretacji
+
+Proces obejmuje ustalenie, czy materiał jest własny albo zewnętrzny, czy może zostać zmieniony, czy publikacja jest obowiązkowa, czy materiał spełnia wymagania dostępności oraz czy istnieją przesłanki wyłączenia.
+
+Obowiązek publikacji jest odrębnym parametrem. Materiał obowiązkowy nadal podlega ocenie dostępności i wymaga działań zapewniających dostęp do informacji.
+
+### 3. Wybór sposobu postępowania
+
+Możliwe rozstrzygnięcia obejmują:
+
+- publikację materiału dostępnego,
+- publikację po dostosowaniu,
+- publikację z dostępnym uzupełnieniem,
+- publikację obowiązkową z działaniami uzupełniającymi,
+- publikację z uzasadnieniem zastosowania wyłączenia,
+- odmowę publikacji z uzasadnieniem,
+- przekazanie do ponownej kwalifikacji.
+
+### 4. Przygotowanie publikacji
 
 Odpowiedzialny: redaktor
 
-- sprawdzenie kompletności materiału i informacji,
+- dostosowanie materiału, jeżeli jest możliwe,
+- przygotowanie dostępnego uzupełnienia, streszczenia, transkrypcji, napisów albo opisu,
+- oznaczenie ograniczeń dostępności i podstaw zastosowanego trybu, jeżeli jest to potrzebne,
+- uzgodnienie treści z właścicielem merytorycznym.
 
-**Decyzja:**
-- brak danych → zwrot do podmiotu przekazującego,
-- materiał kompletny → przejście do kwalifikacji.
+### 5. Dokumentowanie decyzji
 
----
+Odpowiedzialny: redaktor
+Nadzór: koordynator dostępności w sprawach problemowych
 
-### 3. Kwalifikacja materiału (A/B/C/D)
+Dokumentacja obejmuje przyjęte parametry decyzji, wynik oceny dostępności, zastosowane działania, uzasadnienie publikacji albo odmowy oraz osobę odpowiedzialną za rozstrzygnięcie.
 
-Odpowiedzialny: redaktor  
+### 6. Etap po publikacji
+
+Odpowiedzialny: redaktor
 Wsparcie: koordynator dostępności
 
-- ocena:
-  - kto stworzył materiał,
-  - czy materiał może zostać zmieniony,
-  - czy publikacja jest obowiązkowa,
-- przypisanie kategorii,
-- udokumentowanie decyzji.
-
----
-
-### 4. Ścieżki postępowania
-
-#### a. Kategoria A – pełne wymagania
-
-Odpowiedzialny: redaktor
-
-- weryfikacja dostępności,
-
-**Decyzja:**
-- spełnia wymagania → przygotowanie publikacji,
-- nie spełnia → procedura braków:
-  - identyfikacja braków,
-  - zwrot do poprawy lub poprawa wewnętrzna,
-  - ponowna weryfikacja,
-
-- brak poprawy → odmowa publikacji.
-
----
-
-#### b. Kategoria B – możliwe dostosowanie
-
-Odpowiedzialny: redaktor
-
-- weryfikacja dostępności,
-
-**Decyzja:**
-- poprawa przez podmiot przekazujący,
-- uzupełnienie wewnętrzne,
-
-- ponowna weryfikacja,
-
-- brak poprawy → odmowa publikacji lub ponowna kwalifikacja (z udziałem koordynatora w razie potrzeby).
-
----
-
-#### c. Kategoria C – wyłączenie ustawowe
-
-Odpowiedzialny: redaktor  
-Wsparcie: koordynator dostępności
-
-- weryfikacja przesłanek wyłączenia,
-- próba uzyskania wersji dostępnej,
-
-**Decyzja:**
-- brak podstaw do wyłączenia → powrót do kategorii B,
-- wyłączenie zasadne → publikacja warunkowa,
-
-- przygotowanie działań uzupełniających.
-
----
-
-#### d. Kategoria D – publikacja obowiązkowa
-
-Odpowiedzialny: redaktor
-
-- publikacja obowiązkowa,
-
-**Działania równoległe:**
-- oznaczenie materiału,
-- próba uzyskania wersji dostępnej,
-- przygotowanie elementów uzupełniających.
-
----
-
-### 5. Przygotowanie publikacji
-
-Odpowiedzialny: redaktor
-
-- przygotowanie materiału (jeżeli możliwe),
-- dodanie opisów i elementów uzupełniających,
-- oznaczenie:
-  - kategorii,
-  - źródła,
-  - ograniczeń dostępności.
-
----
-
-### 6. Publikacja
-
-Odpowiedzialny: redaktor
-
-- udostępnienie materiału,
-- publikacja wraz z elementami towarzyszącymi.
-
----
-
-### 7. Rejestr decyzji
-
-Odpowiedzialny: redaktor  
-Nadzór: koordynator dostępności
-
-- zapis:
-  - kategorii materiału,
-  - decyzji,
-  - uzasadnienia,
-  - daty i osoby odpowiedzialnej.
-
----
-
-### 8. Etap po publikacji
-
-Odpowiedzialny: redaktor  
-Wsparcie: koordynator dostępności
-
-- obsługa żądań dostępności,
-- wprowadzanie ewentualnych korekt,
-- analiza problemów.
-
----
-
-## Charakter schematu
-
-Schemat zapewnia jednoznaczne przypisanie odpowiedzialności oraz ciągłość procesu na każdym etapie. Każda decyzja posiada wskazanego wykonawcę i nie dopuszcza sytuacji, w której odpowiedzialność pozostaje nieokreślona.
+Po publikacji organizacja obsługuje żądania zapewnienia dostępności, wprowadza korekty, analizuje zgłoszenia jako sygnał problemu w procesie publikacji i okresowo przegląda przyjęte zasady.

@@ -4,14 +4,13 @@ title: Uzasadnienie stosowania wymagań dostępności
 description: Wyjaśnia podstawy stosowania wymagań oraz ich znaczenie dla zapewnienia zgodności z przepisami i dostępności.
 sidebar_label: Uzasadnienie wymagań
 sidebar_position: 21
-keywords: [słowo kluczowe, inne słowo]
-tags: [słowo kluczowe, inne słowo]
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+ostatnia_aktualizacja: 29 kwietnia 2026 r.
 wersja_robocza: true
 ---
-
 
 ## Cel
 

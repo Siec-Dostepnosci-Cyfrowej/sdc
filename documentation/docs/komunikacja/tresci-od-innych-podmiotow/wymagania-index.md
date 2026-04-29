@@ -4,18 +4,19 @@ title: Wymagania
 description: Porządkuje wymagania wynikające z zalecenia oraz wskazuje ich zakres i sposób stosowania.
 sidebar_label: O wymaganiach
 sidebar_position: 20
-keywords: [słowo kluczowe, inne słowo]
-tags: [słowo kluczowe, inne słowo]
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+ostatnia_aktualizacja: 29 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
-
-Sekcja określa wymagania, które muszą zostać spełnione w procesie publikowania treści pochodzących od innych podmiotów.
+Sekcja określa wymagania uwzględniane w procesie publikowania treści pochodzących od innych podmiotów.
 
 Stanowi bezpośrednie przełożenie przepisów prawa na warunki dopuszczenia materiału do publikacji oraz sposób jego przygotowania.
+
+Ten materiał ma charakter wdrożeniowy i wspiera stosowanie zalecenia. Nie zastępuje oceny prawnej ani indywidualnej decyzji organizacji.
 
 ---
 
@@ -43,7 +44,7 @@ Sekcja obejmuje:
 
 ## Zasada ogólna
 
-Spełnienie wymagań stanowi warunek publikacji materiału.
+Spełnienie wymagań stanowi podstawowy warunek publikacji materiału, chyba że z indywidualnej oceny wynika obowiązek publikacji albo potrzeba zastosowania innego sposobu zapewnienia dostępu do informacji.
 
 Brak spełnienia wymagań skutkuje:
 
@@ -55,10 +56,10 @@ Brak spełnienia wymagań skutkuje:
 
 ## Zawartość
 
-- [Minimalne wymagania przed publikacją](minimalne-wymagania-przed-publikacja)  
-  Warunki, które musi spełniać materiał, aby mógł zostać opublikowany.
+- [Minimalne wymagania przed publikacją](minimalne-wymagania-przed-publikacja)
+  Warunki, które powinien spełniać materiał, aby mógł zostać opublikowany.
 
-- [Uzasadnienie stosowania wymagań](uzasadnienie-stosowania-wymagan)  
+- [Uzasadnienie stosowania wymagań](uzasadnienie-stosowania-wymagan)
   Wyjaśnienie znaczenia dostępności jako warunku publikacji.
 
 ---

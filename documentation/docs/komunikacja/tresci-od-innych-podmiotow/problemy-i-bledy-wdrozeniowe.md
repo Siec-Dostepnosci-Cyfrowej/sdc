@@ -4,14 +4,13 @@ title: Problemy i błędy wdrożeniowe
 description: Wskazuje najczęstsze błędy wdrożeniowe oraz ryzyka związane z nieprawidłowym stosowaniem zalecenia.
 sidebar_label: Problemy wdrożeniowe
 sidebar_position: 52
-keywords: [słowo kluczowe, inne słowo]
-tags: [słowo kluczowe, inne słowo]
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+ostatnia_aktualizacja: 29 kwietnia 2026 r.
 wersja_robocza: true
 ---
-
 
 ## Problemy i błędy wdrożeniowe
 

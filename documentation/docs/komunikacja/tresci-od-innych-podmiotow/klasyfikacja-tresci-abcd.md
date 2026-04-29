@@ -1,52 +1,62 @@
 ---
 id: klasyfikacja-tresci-abcd
 title: Klasyfikacja treści (A/B/C/D)
-description: Opisuje zasady kwalifikacji treści do kategorii A, B, C i D oraz konsekwencje wynikające z przypisania do danej kategorii.
+description: Opisuje pomocniczy model A/B/C/D stosowany przy porządkowaniu możliwych ścieżek postępowania.
 sidebar_label: Klasyfikacja treści
 sidebar_position: 10
-keywords: [słowo kluczowe, inne słowo]
-tags: [słowo kluczowe, inne słowo]
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+ostatnia_aktualizacja: 29 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
-
-
 ## Cel klasyfikacji
 
-Klasyfikacja treści określa sposób postępowania z materiałami pochodzącymi od innych podmiotów poprzez przypisanie ich do jednej z kategorii dostępności.
+Model A/B/C/D jest pomocniczym modelem operacyjnym, który porządkuje możliwe ścieżki postępowania. Nie zastępuje indywidualnej oceny obowiązku publikacji, możliwości dostosowania materiału, przesłanek wyłączenia oraz obowiązku zapewnienia dostępu do informacji.
 
-Przypisanie kategorii warunkuje:
+Model pomaga uporządkować ocenę materiału, ale nie rozstrzyga samodzielnie o publikacji. Decyzja publikacyjna wymaga oddzielnej oceny:
+
+- pochodzenia materiału,
+- możliwości modyfikacji,
+- obowiązku publikacji,
+- przesłanek wyłączenia,
+- wyniku oceny dostępności,
+- możliwego sposobu zapewnienia dostępu do informacji.
+
+Przypisanie pomocniczej ścieżki wskazuje:
 - możliwość ingerencji w materiał,
 - zakres działań zapewniających dostępność,
 - sposób publikacji,
 - możliwość odmowy publikacji.
 
-Klasyfikacja jest obowiązkowa dla każdego materiału.
+Obowiązek publikacji jest osobnym parametrem decyzji. Materiał może jednocześnie pochodzić od innego podmiotu, być niedostępny, podlegać obowiązkowi publikacji i wymagać działań uzupełniających.
 
 ---
 
 ## Zasady ogólne
 
-- każdy materiał musi zostać przypisany do jednej kategorii,
-- kategorie są rozłączne – materiał nie może należeć do więcej niż jednej,
-- przypisanie kategorii musi być uzasadnione,
-- w przypadku wątpliwości stosuje się kategorię bardziej restrykcyjną,
-- nie dopuszcza się pominięcia etapu kwalifikacji.
+- organizacja ocenia materiał według parametrów decyzji, a model A/B/C/D wykorzystuje jako narzędzie porządkujące,
+- kategorie A, B i C opisują typowe ścieżki postępowania związane z możliwością modyfikacji i przesłankami wyłączenia,
+- kategoria D oznacza sytuację publikacji obowiązkowej i nie jest równorzędnym typem treści wobec A, B i C,
+- obowiązek publikacji wpływa na możliwe rozstrzygnięcie, ale nie zwalnia z oceny dostępności i działań zapewniających dostęp do informacji,
+- decyzja wymaga uzasadnienia i udokumentowania.
 
 ---
 
 ## Kryteria kwalifikacji
 
-Ocena materiału opiera się na trzech pytaniach:
+Ocena materiału opiera się na zestawie pytań:
 
-1. Kto stworzył materiał?  
-2. Czy materiał może zostać zmieniony?  
-3. Czy publikacja jest obowiązkowa?  
+1. Kto stworzył materiał?
+2. Czy materiał może zostać zmieniony?
+3. Czy publikacja jest obowiązkowa?
+4. Czy materiał spełnia wymagania dostępności?
+5. Czy możliwe jest zapewnienie informacji w innej dostępnej formie?
+6. Czy istnieją podstawy zastosowania wyłączenia?
 
-Na podstawie odpowiedzi materiał przypisywany jest do jednej z kategorii.
+Na podstawie odpowiedzi organizacja wskazuje pomocniczą ścieżkę postępowania i podejmuje decyzję publikacyjną.
 
 ---
 
@@ -60,9 +70,9 @@ Na podstawie odpowiedzi materiał przypisywany jest do jednej z kategorii.
 
 ### Postępowanie
 
-- materiał musi spełniać wszystkie wymagania dostępności,
-- brak spełnienia wymagań uniemożliwia publikację,
-- dopuszcza się poprawę wewnętrzną lub zwrot do poprawy.
+- materiał podlega pełnej weryfikacji dostępności,
+- w przypadku braków organizacja poprawia materiał albo kieruje go do poprawy,
+- publikacja następuje po spełnieniu wymagań albo po zastosowaniu uzasadnionego trybu przewidzianego dla danej sprawy.
 
 ### Decyzja
 
@@ -116,41 +126,41 @@ Na podstawie odpowiedzi materiał przypisywany jest do jednej z kategorii.
 
 ---
 
-## Kategoria D – treść obowiązkowa
+## Kategoria D – parametr publikacji obowiązkowej
 
 ### Charakter
 
-- publikacja wynika z przepisów prawa,
-- brak możliwości odmowy publikacji,
-- stan materiału nie wpływa na obowiązek publikacyjny.
+- publikacja wynika z przepisów prawa lub innego wiążącego obowiązku,
+- obowiązek publikacji jest parametrem decyzji, a nie osobnym typem treści,
+- stan materiału wpływa na zakres działań uzupełniających, ale nie znosi obowiązku oceny dostępności.
 
 ### Postępowanie
 
-- materiał podlega publikacji niezależnie od stanu dostępności,
-- równolegle należy:
+- organizacja ustala, czy i w jakim zakresie materiał można dostosować,
+- organizacja ocenia możliwość zapewnienia informacji w innej dostępnej formie,
+- równolegle można:
   - oznaczyć materiał,
-  - podjąć próbę uzyskania wersji dostępnej,
-  - zapewnić dostęp alternatywny.
+  - podjąć próbę uzyskania wersji dostępnej lub edytowalnej,
+  - zapewnić dostęp do informacji w sposób dostępny.
 
 ### Decyzja
 
-- publikacja obowiązkowa,
-- działania uzupełniające realizowane równolegle.
+- publikacja obowiązkowa z działaniami uzupełniającymi,
+- publikacja po dostosowaniu, jeżeli jest to możliwe,
+- publikacja z dostępnym uzupełnieniem, jeżeli materiał źródłowy nie może zostać zmieniony.
 
 ---
 
 ## Zakaz domniemania wyłączenia
 
-Przypisanie materiału do kategorii C wymaga każdorazowej analizy.
+Przypisanie materiału do ścieżki C wymaga każdorazowej analizy.
 
-Nie dopuszcza się:
-- automatycznego uznania materiału za objęty wyłączeniem,
-- stosowania wyłączenia bez weryfikacji przesłanek.
+Organizacja nie przyjmuje automatycznie, że materiał pochodzący od innego podmiotu jest objęty wyłączeniem. Zastosowanie wyłączenia wymaga weryfikacji przesłanek oraz oceny, czy można zapewnić dostęp do informacji w innej formie.
 
 ---
 
 ## Znaczenie klasyfikacji
 
-Klasyfikacja stanowi podstawowy mechanizm decyzyjny w procesie publikacji.
+Klasyfikacja wspiera proces decyzyjny, ale nie zastępuje decyzji publikacyjnej.
 
-Każda dalsza czynność wynika bezpośrednio z przypisanej kategorii, a brak klasyfikacji uniemożliwia prawidłowe przeprowadzenie procesu.
+Każda dalsza czynność wynika z łącznej oceny parametrów decyzji, w tym obowiązku publikacji, dostępności materiału, możliwości dostosowania i podstaw ewentualnego wyłączenia.

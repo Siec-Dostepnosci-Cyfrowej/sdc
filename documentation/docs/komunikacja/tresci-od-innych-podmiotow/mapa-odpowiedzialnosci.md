@@ -4,14 +4,13 @@ title: Odpowiedzialność
 description: Określa role i odpowiedzialności uczestników procesu publikacji na poszczególnych etapach.
 sidebar_label: Odpowiedzialność
 sidebar_position: 15
-keywords: [słowo kluczowe, inne słowo]
-tags: [słowo kluczowe, inne słowo]
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+ostatnia_aktualizacja: 29 kwietnia 2026 r.
 wersja_robocza: true
 ---
-
 
 ## Cel
 
@@ -109,8 +108,8 @@ Zakres udziału zależy od struktury organizacyjnej podmiotu.
 
 ## Zasady ogólne
 
-- każda decyzja musi mieć przypisaną osobę odpowiedzialną,
-- nie dopuszcza się podejmowania decyzji bez wskazania właściciela,
+- każda decyzja ma przypisaną osobę odpowiedzialną,
+- decyzja wymaga wskazania właściciela,
 - odpowiedzialność za decyzję publikacyjną spoczywa na redaktorze,
 - wsparcie nie przenosi odpowiedzialności,
-- zakres odpowiedzialności musi być spójny w całej organizacji.
+- zakres odpowiedzialności powinien być spójny w całej organizacji.

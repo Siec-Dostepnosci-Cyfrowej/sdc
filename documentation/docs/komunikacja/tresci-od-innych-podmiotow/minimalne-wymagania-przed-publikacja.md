@@ -1,22 +1,20 @@
 ---
 id: minimalne-wymagania-przed-publikacja
 title: Minimalne wymagania przed publikacją
-description: Definiuje minimalne warunki, które materiał musi spełnić, aby mógł zostać dopuszczony do publikacji.
+description: Definiuje minimalne warunki, które materiał powinien spełnić, aby mógł zostać dopuszczony do publikacji.
 sidebar_label: Minimalne wymagania
 sidebar_position: 21
-keywords: [słowo kluczowe, inne słowo]
-tags: [słowo kluczowe, inne słowo]
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+ostatnia_aktualizacja: 29 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
-
-
 ## Cel
 
-Minimalne wymagania przed publikacją określają warunki, które musi spełniać materiał, aby mógł zostać udostępniony.
+Minimalne wymagania przed publikacją określają warunki, które powinien spełniać materiał, aby mógł zostać udostępniony.
 
 Stanowią ostatni etap weryfikacji przed publikacją oraz punkt decyzyjny: publikacja lub wstrzymanie materiału.
 
@@ -26,7 +24,7 @@ Stanowią ostatni etap weryfikacji przed publikacją oraz punkt decyzyjny: publi
 
 Materiał może zostać opublikowany wyłącznie wtedy, gdy spełnia wymagania wynikające z jego kategorii.
 
-Brak spełnienia wymagań uniemożliwia publikację, chyba że materiał podlega obowiązkowi ustawowemu.
+Brak spełnienia wymagań wymaga wstrzymania publikacji albo zastosowania właściwego trybu postępowania, chyba że materiał podlega obowiązkowi ustawowemu.
 
 ---
 
@@ -111,7 +109,7 @@ Jedynym wyjątkiem od powyższych zasad jest publikacja obowiązkowa (kategoria 
 
 W takim przypadku:
 
-- materiał musi zostać opublikowany,
+- materiał podlega publikacji,
 - brak dostępności nie wstrzymuje publikacji,
 - obowiązkowe są działania zapewniające dostęp do informacji.
 
@@ -120,9 +118,9 @@ W takim przypadku:
 ## Zasady ogólne
 
 - brak dostępności wymaga działania,
-- każda publikacja musi być uzasadniona,
-- decyzja musi być możliwa do odtworzenia,
-- dostęp do informacji musi być zapewniony.
+- każda publikacja wymaga uzasadnienia,
+- decyzja powinna być możliwa do odtworzenia,
+- zapewnia się dostęp do informacji.
 
 ---
 

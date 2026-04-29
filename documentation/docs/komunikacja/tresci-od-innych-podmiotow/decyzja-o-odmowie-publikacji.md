@@ -1,18 +1,16 @@
----
+﻿---
 id: wzor-odmowy-publikacji
 title: Wzór decyzji o odmowie publikacji
 description: Opisuje zasady podejmowania i dokumentowania decyzji o odmowie publikacji materiału wraz z uzasadnieniem wynikającym z niespełnienia wymagań lub przepisów.
 sidebar_label: Wzór decyzji o odmowie
 sidebar_position: 26
-keywords: [słowo kluczowe, inne słowo]
-tags: [słowo kluczowe, inne słowo]
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+ostatnia_aktualizacja: 29 kwietnia 2026 r.
 wersja_robocza: true
 ---
-
-
 
 Dokument stanowi wzór formalnej decyzji o odmowie publikacji materiału przekazanego do publikacji.
 
@@ -22,10 +20,10 @@ Stosowany w przypadku braku podstaw do publikacji lub braku możliwości zapewni
 
 ## 1. Dane identyfikacyjne
 
-- Tytuł materiału: .............................................................................  
-- Data przekazania materiału: .........................................................  
-- Podmiot przekazujący: ..............................................................  
-- Osoba przekazująca: ...............................................................  
+- Tytuł materiału: .............................................................................
+- Data przekazania materiału: .........................................................
+- Podmiot przekazujący: ..............................................................
+- Osoba przekazująca: ...............................................................
 
 ---
 
@@ -33,7 +31,7 @@ Stosowany w przypadku braku podstaw do publikacji lub braku możliwości zapewni
 
 Na podstawie przeprowadzonej weryfikacji oraz kwalifikacji materiału odmawia się publikacji przedmiotowego materiału.
 
-Decyzja została podjęta w związku z brakiem możliwości zapewnienia zgodności materiału z wymaganiami dostępności cyfrowej określonymi w przepisach prawa, w szczególności ustawą z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych oraz wytycznymi WCAG 2.1 na poziomie AA.
+Decyzja została podjęta w związku z brakiem możliwości zapewnienia zgodności materiału z wymaganiami dostępności cyfrowej określonymi w przepisach prawa, w szczególności ustawą z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych oraz wytycznymi WCAG 2.2 na poziomie AA.
 
 Publikacja materiału niespełniającego minimalnych wymagań dostępności, w sytuacji braku obowiązku jego publikacji oraz braku możliwości zastosowania wyłączeń przewidzianych w przepisach, nie jest dopuszczalna.
 
@@ -43,13 +41,13 @@ W związku z powyższym materiał nie może zostać opublikowany w obecnej formi
 
 ## 3. Podstawa decyzji
 
-- ☐ brak obowiązku publikacji wynikającego z przepisów  
-- ☐ brak możliwości zapewnienia dostępności materiału  
-- ☐ brak możliwości modyfikacji materiału  
-- ☐ brak wymaganych informacji niezbędnych do publikacji  
-- ☐ materiał nie spełnia minimalnych wymagań dostępności  
-- ☐ inne:  
-.............................................................................  
+- ☐ brak obowiązku publikacji wynikającego z przepisów
+- ☐ brak możliwości zapewnienia dostępności materiału
+- ☐ brak możliwości modyfikacji materiału
+- ☐ brak wymaganych informacji niezbędnych do publikacji
+- ☐ materiał nie spełnia minimalnych wymagań dostępności
+- ☐ inne:
+.............................................................................
 
 ---
 
@@ -75,17 +73,17 @@ Materiał nie może zostać opublikowany w obecnej formie.
 
 Publikacja może być możliwa po:
 
-- uzupełnieniu brakujących informacji,  
-- przekazaniu wersji edytowalnej,  
-- zapewnieniu dostępności materiału,  
-- zmianie formy przekazu.  
+- uzupełnieniu brakujących informacji,
+- przekazaniu wersji edytowalnej,
+- zapewnieniu dostępności materiału,
+- zmianie formy przekazu.
 
 ---
 
 ## 6. Możliwość ponownego przekazania
 
-- ☐ dopuszcza się ponowne przekazanie materiału po uzupełnieniu  
-- ☐ brak możliwości ponownego rozpatrzenia  
+- ☐ dopuszcza się ponowne przekazanie materiału po uzupełnieniu
+- ☐ brak możliwości ponownego rozpatrzenia
 
 ---
 
@@ -93,20 +91,20 @@ Publikacja może być możliwa po:
 
 Czy decyzja była konsultowana z koordynatorem dostępności:
 
-- ☐ tak  
-- ☐ nie  
+- ☐ tak
+- ☐ nie
 
-Jeżeli tak, wskazać osobę:  
-.............................................................................  
+Jeżeli tak, wskazać osobę:
+.............................................................................
 
 ---
 
 ## 8. Podpis / identyfikacja osoby podejmującej decyzję
 
-Imię i nazwisko: .............................................................  
+Imię i nazwisko: .............................................................
 
-Stanowisko: ....................................................................  
+Stanowisko: ....................................................................
 
-Data: ............................................................................  
+Data: ............................................................................
 
-Podpis: ............................................................................  
+Podpis: ............................................................................

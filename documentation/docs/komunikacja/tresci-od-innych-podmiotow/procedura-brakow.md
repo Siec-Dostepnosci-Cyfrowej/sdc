@@ -4,14 +4,13 @@ title: Procedura braków
 description: Opisuje sposób postępowania w przypadku stwierdzenia braków w materiale przekazanym do publikacji.
 sidebar_label: Procedura braków
 sidebar_position: 12
-keywords: [słowo kluczowe, inne słowo]
-tags: [słowo kluczowe, inne słowo]
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+ostatnia_aktualizacja: 29 kwietnia 2026 r.
 wersja_robocza: true
 ---
-
 
 ## Cel
 
@@ -64,7 +63,7 @@ Dla każdego braku należy określić:
 - jaki ma wpływ na odbiór treści,
 - co należy zrobić, aby go usunąć.
 
-Nie dopuszcza się ocen ogólnych bez wskazania konkretnych problemów.
+organizacja nie stosuje ocen ogólnych bez wskazania konkretnych problemów.
 
 ---
 
@@ -86,7 +85,7 @@ Uzupełnianie materiału po stronie publikującego ma charakter pomocniczy.
 
 Przygotowywana jest informacja zwrotna dla podmiotu przekazującego.
 
-Informacja musi:
+Informacja obejmuje:
 
 - wskazywać wszystkie braki,
 - określać sposób ich usunięcia,
@@ -145,7 +144,7 @@ Odmowa następuje w szczególności, gdy:
 - brak usunięcia niezgodności,
 - utrzymanie istotnych barier.
 
-Decyzja musi być uzasadniona i możliwa do odtworzenia.
+Decyzja wymaga uzasadnienia i możliwa do odtworzenia.
 
 ---
 
@@ -153,14 +152,14 @@ Decyzja musi być uzasadniona i możliwa do odtworzenia.
 
 Procedura braków ma charakter obowiązkowy.
 
-Nie dopuszcza się:
+organizacja nie stosuje:
 
 - publikacji materiałów niespełniających wymagań,
 - publikacji tymczasowej,
 - pomijania procedury z powodu czasu,
 - podejmowania decyzji bez analizy.
 
-Każdy przypadek musi zakończyć się decyzją.
+Każdy przypadek kończy się decyzją.
 
 ---
 

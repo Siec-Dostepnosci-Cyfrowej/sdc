@@ -4,11 +4,11 @@ title: Model dla małych podmiotów
 description: Przedstawia uproszczony model publikacji dostosowany do podmiotów o ograniczonych zasobach.
 sidebar_label: Model - małe podmioty
 sidebar_position: 17
-keywords: [słowo kluczowe, inne słowo]
-tags: [słowo kluczowe, inne słowo]
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+ostatnia_aktualizacja: 29 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
@@ -48,7 +48,7 @@ Pytania te służą ustaleniu:
 - możliwości ingerencji i dostosowania,
 - zakresu obowiązków podmiotu publikującego.
 
-Na podstawie odpowiedzi materiał zostaje przypisany do jednej z kategorii: A, B, C albo D, nawet jeżeli oznaczenie to nie jest formalnie zapisywane. Decyzja musi wynikać z analizy, a nie z przyjętej praktyki.
+Na podstawie odpowiedzi materiał jest oceniany według parametrów decyzji, a oznaczenie A/B/C/D może zostać użyte pomocniczo, nawet jeżeli oznaczenie to nie jest formalnie zapisywane. Decyzja powinna wynikać z analizy, a nie z przyjętej praktyki.
 
 Szczegółowy przebieg kwalifikacji przedstawia [schemat procesu uproszczonego](proces-uproszczony).
 
@@ -64,7 +64,7 @@ Osoba ta odpowiada za cały proces, obejmujący:
 - zapewnienie zgodności z wymaganiami dostępności,
 - podjęcie decyzji o publikacji, wstrzymaniu albo odmowie.
 
-Decyzja jednoosobowa nie oznacza dowolności. Musi być oparta na tych samych zasadach, które obowiązują w modelu dla dużych podmiotów.
+Decyzja jednoosobowa nie oznacza dowolności. powinna być oparta na tych samych zasadach, które obowiązują w modelu dla dużych podmiotów.
 
 W szczególności:
 
@@ -96,7 +96,7 @@ Konsultacja ma charakter wsparcia interpretacyjnego i służy ograniczeniu ryzyk
 
 ## 4. Dokumentowanie decyzji
 
-W modelu uproszczonym dokumentowanie procesu może mieć ograniczoną formę, jednak decyzja musi być możliwa do odtworzenia.
+W modelu uproszczonym dokumentowanie procesu może mieć ograniczoną formę, jednak decyzja powinna być możliwa do odtworzenia.
 
 Osoba podejmująca decyzję powinna być w stanie wskazać:
 
@@ -120,7 +120,7 @@ Model uproszczony zachowuje pełną logikę systemu stosowanego w dużych podmio
 Oznacza to, że:
 
 - kwalifikacja materiału pozostaje obowiązkowa,
-- decyzja musi wynikać z określonych kryteriów,
+- Decyzja powinna wynikać z określonych kryteriów,
 - dostępność pozostaje warunkiem publikacji,
 - wyłączenia mają charakter wyjątkowy i wymagają uzasadnienia,
 - działania uzupełniające muszą być podejmowane wszędzie tam, gdzie pełna dostępność nie może zostać zapewniona bezpośrednio.

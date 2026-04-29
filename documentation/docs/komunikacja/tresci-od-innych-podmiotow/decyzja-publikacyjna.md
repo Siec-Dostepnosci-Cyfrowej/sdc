@@ -4,40 +4,40 @@ title: Decyzja publikacyjna
 description: Określa sposób podejmowania i dokumentowania decyzji o publikacji materiału po pozytywnej weryfikacji wymagań formalnych i dostępności.
 sidebar_label: Decyzja publikacyjna
 sidebar_position: 43
-keywords: [słowo kluczowe, inne słowo]
-tags: [słowo kluczowe, inne słowo]
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+ostatnia_aktualizacja: 29 kwietnia 2026 r.
 wersja_robocza: true
 ---
-
-
 
 Decyzja publikacyjna stanowi kluczowy element procesu publikacji treści pochodzących od innych podmiotów. Jest to rozstrzygnięcie operacyjne podejmowane po przeprowadzeniu kwalifikacji materiału oraz jego weryfikacji, które określa dalszy sposób postępowania z treścią.
 
 Decyzja nie ma charakteru technicznego ani pomocniczego. Jest elementem systemu zarządzania informacją i podlega zasadom wynikającym z przepisów prawa oraz przyjętego modelu operacyjnego.
 
+Model A/B/C/D jest pomocniczym modelem operacyjnym, który porządkuje możliwe ścieżki postępowania. Nie zastępuje indywidualnej oceny obowiązku publikacji, możliwości dostosowania materiału, przesłanek wyłączenia oraz obowiązku zapewnienia dostępu do informacji.
+
 ## 1. Charakter decyzji
 
 Decyzja publikacyjna:
 - jest obowiązkowa dla każdego materiału,
-- wynika bezpośrednio z kwalifikacji materiału (A, B, C, D),
+- wynika z oceny parametrów decyzji, a nie wyłącznie z oznaczenia A/B/C/D,
 - uwzględnia wynik weryfikacji dostępności,
 - określa sposób publikacji lub jej brak,
-- musi być możliwa do uzasadnienia i odtworzenia.
+- wymaga uzasadnienia i możliwości odtworzenia.
 
-Brak decyzji oznacza brak zakończenia procesu publikacyjnego i uniemożliwia wykazanie zgodności działania.
+Brak decyzji oznacza brak zakończenia procesu publikacyjnego i utrudnia wykazanie zgodności działania.
 
 ## 2. Moment podjęcia decyzji
 
 Decyzja publikacyjna podejmowana jest po:
 - przyjęciu materiału,
-- jego kwalifikacji do odpowiedniej kategorii,
+- ocenie pochodzenia, możliwości modyfikacji, obowiązku publikacji i przesłanek wyłączenia,
 - przeprowadzeniu weryfikacji dostępności,
-- zastosowaniu właściwej procedury (w szczególności procedury braków lub kwalifikacji C/D).
+- ustaleniu sposobu zapewnienia dostępu do informacji.
 
-Nie dopuszcza się podejmowania decyzji przed zakończeniem tych etapów.
+Decyzja jest podejmowana po zakończeniu tych etapów.
 
 ## 3. Rodzaje decyzji
 
@@ -65,9 +65,10 @@ Dotyczy to w szczególności kategorii A i B.
 
 ### 3.3 Publikacja warunkowa
 
-Materiał zostaje opublikowany pomimo braku pełnej dostępności, wyłącznie w przypadku:
-- zastosowania wyłączenia ustawowego (kategoria C),
-- obowiązku publikacji wynikającego z przepisów prawa (kategoria D).
+Materiał zostaje opublikowany pomimo braku pełnej dostępności, jeżeli:
+- istnieje podstawa zastosowania wyłączenia ustawowego,
+- publikacja jest obowiązkowa,
+- organizacja zapewnia dostęp do informacji w inny dostępny sposób.
 
 Publikacja taka wymaga:
 - oznaczenia ograniczeń dostępności,
@@ -82,28 +83,30 @@ Materiał nie zostaje opublikowany w przypadku:
 - niewprowadzenia wymaganych poprawek,
 - braku wymaganych informacji.
 
-Odmowa musi:
+Odmowa wymaga:
 - być uzasadniona,
 - wynikać z przeprowadzonego procesu,
 - być możliwa do udokumentowania.
 
-## 4. Zależność od kategorii materiału
+## 4. Zależność od parametrów decyzji
 
-Decyzja publikacyjna wynika bezpośrednio z przypisania materiału do kategorii:
+Decyzja publikacyjna wynika z łącznej oceny parametrów:
 
-- kategoria A – publikacja możliwa wyłącznie po spełnieniu wymagań dostępności,
-- kategoria B – publikacja możliwa po dostosowaniu lub uzupełnieniu materiału,
-- kategoria C – publikacja warunkowa z zastosowaniem wyłączenia,
-- kategoria D – publikacja obowiązkowa z zastosowaniem działań kompensujących.
+- materiał własny albo zewnętrzny,
+- możliwość modyfikacji materiału,
+- obowiązek publikacji,
+- przesłanki wyłączenia,
+- wynik oceny dostępności,
+- możliwość dostosowania albo zapewnienia informacji w innej formie.
 
-Nie dopuszcza się podejmowania decyzji sprzecznej z przypisaną kategorią.
+Obowiązek publikacji jest osobnym parametrem decyzji. Materiał może jednocześnie być zewnętrzny, niedostępny, objęty obowiązkiem publikacji i wymagać działań uzupełniających.
 
 ## 5. Wymóg uzasadnienia decyzji
 
-Każda decyzja publikacyjna musi być możliwa do uzasadnienia.
+Każda decyzja publikacyjna wymaga uzasadnienia.
 
 Uzasadnienie obejmuje w szczególności:
-- wskazanie kategorii materiału,
+- wskazanie parametrów decyzji i ewentualnej ścieżki A/B/C/D,
 - opis stanu dostępności materiału,
 - wskazanie podjętych działań,
 - określenie podstawy prawnej lub operacyjnej decyzji.
@@ -122,17 +125,17 @@ W szczególności dokumentowaniu podlegają:
 - decyzje o publikacji obowiązkowej,
 - przypadki problemowe lub graniczne.
 
-## 7. Zakaz uznaniowości
+## 7. Ograniczenie uznaniowości
 
-Decyzja publikacyjna nie może mieć charakteru uznaniowego.
+Decyzja publikacyjna jest podejmowana na podstawie ustalonych kryteriów.
 
 W szczególności:
-- nie może wynikać z presji czasu,
-- nie może wynikać z praktyki organizacyjnej,
-- nie może pomijać wymagań dostępności,
-- nie może być podejmowana bez kwalifikacji materiału.
+- nie wynika wyłącznie z presji czasu,
+- nie wynika wyłącznie z nieformalnej praktyki organizacyjnej,
+- uwzględnia wymagania dostępności,
+- opiera się na kwalifikacji materiału.
 
-Każda decyzja musi wynikać z zastosowania przyjętego modelu postępowania.
+Każda decyzja wynika z zastosowania przyjętego modelu postępowania oraz indywidualnej oceny materiału.
 
 ## 8. Znaczenie systemowe
 

@@ -4,11 +4,11 @@ title: Problem i kontekst
 description: Opisuje zidentyfikowane problemy w publikowaniu treści zewnętrznych oraz uzasadnienie potrzeby wprowadzenia zalecenia.
 sidebar_label: Problem i kontekst
 sidebar_position: 51
-keywords: [słowo kluczowe, inne słowo]
-tags: [słowo kluczowe, inne słowo]
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+ostatnia_aktualizacja: 29 kwietnia 2026 r.
 wersja_robocza: true
 ---
 

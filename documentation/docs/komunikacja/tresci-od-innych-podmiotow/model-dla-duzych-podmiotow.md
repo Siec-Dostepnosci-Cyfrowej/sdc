@@ -4,14 +4,13 @@ title: Model dla dużych podmiotów
 description: Opisuje szczegółowy model organizacyjny procesu publikacji w dużych jednostkach z podziałem ról i etapów.
 sidebar_label: Model - duże podmioty
 sidebar_position: 16
-keywords: [słowo kluczowe, inne słowo]
-tags: [słowo kluczowe, inne słowo]
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+ostatnia_aktualizacja: 29 kwietnia 2026 r.
 wersja_robocza: true
 ---
-
 
 ## Cel modelu
 
@@ -60,7 +59,7 @@ Jeżeli na etapie przyjęcia materiału brakuje informacji pozwalających okreś
 
 ## 2. Oznaczenie kategorii materiału
 
-Po sporządzeniu formularza materiał musi zostać zakwalifikowany do jednej z czterech kategorii: A, B, C albo D.
+Po sporządzeniu formularza materiał podlega ocenie według parametrów decyzji, a model A/B/C/D może pomóc uporządkować ścieżkę postępowania.
 
 Oznaczenie kategorii nie ma charakteru technicznego. Jest to decyzja organizacyjna i prawna, która przesądza o dalszym sposobie postępowania z materiałem.
 
@@ -171,7 +170,7 @@ Dodatkowo:
 
 Rejestr powinien obejmować również zdarzenia następcze, w szczególności żądania dostępności, sposób ich realizacji oraz ewentualne korekty materiałów po publikacji.
 
-Brak rejestru decyzji uniemożliwia odtworzenie procesu i wykazanie, że został przeprowadzony prawidłowo.
+brak rejestru decyzji utrudnia odtworzenie procesu i wykazanie, że został przeprowadzony prawidłowo.
 
 ## 5. Spójność modelu
 
@@ -189,7 +188,7 @@ Jeżeli którykolwiek z tych elementów zostanie pominięty, pojawia się ryzyko
 - brak formularza oznacza brak uporządkowanych danych wejściowych,
 - brak kwalifikacji oznacza brak podstaw do wyboru ścieżki postępowania,
 - brak uporządkowanego obiegu prowadzi do niespójności działań,
-- brak rejestru decyzji uniemożliwia odtworzenie procesu i wykazanie prawidłowości działania.
+- brak rejestru decyzji utrudnia odtworzenie procesu i wykazanie prawidłowości działania.
 
 W dużych podmiotach elementy modelu nie mogą być stosowane wybiórczo. Muszą stanowić część jednolitego modelu organizacyjnego obowiązującego wszystkich uczestników procesu.
 

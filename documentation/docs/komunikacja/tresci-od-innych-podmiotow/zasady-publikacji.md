@@ -4,14 +4,13 @@ title: Zasady publikacji
 description: Określa zasady publikacji treści pochodzących od innych podmiotów w zależności od ich charakteru i klasyfikacji.
 sidebar_label: Zasady publikacji
 sidebar_position: 11
-keywords: [słowo kluczowe, inne słowo]
-tags: [słowo kluczowe, inne słowo]
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+ostatnia_aktualizacja: 29 kwietnia 2026 r.
 wersja_robocza: true
 ---
-
 
 ## Cel
 
@@ -25,7 +24,7 @@ Stanowią bezpośrednie przełożenie klasyfikacji treści na decyzję publikacy
 
 Sposób publikacji materiału wynika bezpośrednio z przypisanej kategorii.
 
-Nie dopuszcza się podejmowania decyzji publikacyjnych z pominięciem klasyfikacji.
+organizacja nie stosuje podejmowania decyzji publikacyjnych z pominięciem klasyfikacji.
 
 ---
 
@@ -41,8 +40,8 @@ Nie dopuszcza się podejmowania decyzji publikacyjnych z pominięciem klasyfikac
 
 ### Zasady publikacji
 
-- materiał musi spełniać wszystkie wymagania dostępności,
-- brak zgodności uniemożliwia publikację,
+- materiał powinien spełniać wszystkie wymagania dostępności,
+- brak zgodności wymaga zastosowania procedury braków,
 - wymagane jest doprowadzenie materiału do zgodności przed publikacją.
 
 ---
@@ -76,7 +75,7 @@ Nie dopuszcza się podejmowania decyzji publikacyjnych z pominięciem klasyfikac
 
 ### Zasady publikacji
 
-- materiał musi zostać dostosowany przed publikacją,
+- materiał podlega dostosowaniu przed publikacją,
 - dostępność zapewniana jest poprzez uzupełnienie treści,
 - publikacja następuje dopiero po usunięciu barier.
 
@@ -112,7 +111,7 @@ Nie dopuszcza się podejmowania decyzji publikacyjnych z pominięciem klasyfikac
 
 - publikacja możliwa wyłącznie po analizie,
 - wymagane jest wykazanie przesłanek wyłączenia,
-- publikacja musi być uzupełniona działaniami kompensującymi.
+- publikacja powinna być uzupełniona działaniami kompensującymi.
 
 ---
 
@@ -146,7 +145,7 @@ Nie dopuszcza się podejmowania decyzji publikacyjnych z pominięciem klasyfikac
 
 ### Zasady publikacji
 
-- materiał musi zostać opublikowany,
+- materiał podlega publikacji,
 - brak dostępności nie stanowi podstawy do odmowy,
 - wymagane są działania kompensujące dostępność.
 
@@ -175,10 +174,10 @@ Nie dopuszcza się podejmowania decyzji publikacyjnych z pominięciem klasyfikac
 
 Niezależnie od kategorii:
 
-- każda publikacja musi wynikać z kwalifikacji,
+- każda publikacja powinna wynikać z kwalifikacji,
 - brak dostępności wymaga działania,
-- decyzja musi być możliwa do uzasadnienia,
-- dostęp do informacji musi być zapewniony.
+- decyzja powinna być możliwa do uzasadnienia,
+- zapewnia się dostęp do informacji.
 
 ---
 

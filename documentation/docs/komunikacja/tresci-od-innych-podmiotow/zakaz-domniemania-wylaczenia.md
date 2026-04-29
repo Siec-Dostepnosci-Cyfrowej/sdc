@@ -4,14 +4,13 @@ title: Zakaz domniemania wyłączenia
 description: Wprowadza zasadę zakazu domniemania wyłączeń oraz obowiązek ich każdorazowego uzasadnienia.
 sidebar_label: Zakaz wyłączenia
 sidebar_position: 13
-keywords: [słowo kluczowe, inne słowo]
-tags: [słowo kluczowe, inne słowo]
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG, wyłączenia ustawowe]
+tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 16 kwietnia 2026 r.
-data_aktualizacji: 16 kwietnia 2026 r.
+ostatnia_aktualizacja: 29 kwietnia 2026 r.
 wersja_robocza: true
 ---
-
 
 ## Cel
 
@@ -25,13 +24,13 @@ Jej celem jest wyeliminowanie praktyki automatycznego uznawania materiałów za 
 
 Wyłączenia ustawowe mogą być stosowane wyłącznie w przypadkach, w których istnieją jednoznaczne i możliwe do wykazania przesłanki prawne.
 
-Nie dopuszcza się domniemania wyłączenia.
+organizacja nie stosuje domniemania wyłączenia.
 
 ---
 
 ## Zakazy
 
-Nie dopuszcza się w szczególności:
+organizacja nie stosuje w szczególności:
 
 - uznawania materiału za wyłączony wyłącznie na podstawie jego pochodzenia,
 - stosowania wyłączenia bez przeprowadzenia kwalifikacji materiału,
