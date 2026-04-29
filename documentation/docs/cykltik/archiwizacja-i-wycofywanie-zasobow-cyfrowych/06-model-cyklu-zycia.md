@@ -11,6 +11,7 @@ data_zgloszenia: 29 kwietnia 2026 r.
 data_aktualizacji: 29 kwietnia 2026 r.
 wersja_robocza: true
 ---
+
 # Model cyklu życia zasobu cyfrowego
 
 ## Cel
