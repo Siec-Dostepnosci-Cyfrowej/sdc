@@ -159,3 +159,10 @@ Jego skuteczność zależy od powiązania z:
 - obsługą użytkowników.
 
 Tylko w takim ujęciu możliwe jest osiągnięcie trwałego i powtarzalnego poziomu dostępności.
+
+## Powiązane dokumenty
+
+- [Dokumenty uzupełniające](./dokumenty-uzupelniajace-index.md)
+- [Mapa odpowiedzialności w procesie publikacji](./mapa-odpowiedzialnosci.md)
+- [Efekty wdrożenia](./efekty-wdrozenia.md)
+- [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md)

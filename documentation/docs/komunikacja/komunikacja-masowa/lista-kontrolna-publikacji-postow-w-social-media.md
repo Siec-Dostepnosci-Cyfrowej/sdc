@@ -25,4 +25,7 @@ Punkty obowiązkowe muszą być spełnione przed publikacją albo objęte proced
 | Czy emoji nie zastępują kluczowej treści? | zalecane | TAK / NIE / NIE DOTYCZY | |
 | Czy komunikat jest zwięzły, logiczny i możliwy do szybkiego skanowania? | zalecane | TAK / NIE / NIE DOTYCZY | |
 
-Powiązana procedura: [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md).
+## Powiązane dokumenty
+
+- [Standard struktury komunikatu i tworzenia treści](./04-standard-struktury-komunikatu-i-tworzenia-tresci.md)
+- [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md)

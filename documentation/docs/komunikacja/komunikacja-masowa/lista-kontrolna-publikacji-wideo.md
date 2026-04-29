@@ -27,4 +27,7 @@ Punkty obowiązkowe muszą być spełnione przed publikacją albo objęte proced
 | Czy tytuł i opis materiału jasno wskazują temat oraz zakres treści? | zalecane | TAK / NIE / NIE DOTYCZY | |
 | Czy transkrypcja lub link do transkrypcji jest dostępny przy materiale? | warunkowe | TAK / NIE / NIE DOTYCZY | |
 
-Powiązana procedura: [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md).
+## Powiązane dokumenty
+
+- [Standard tworzenia dostępnych materiałów wideo](./01-standard-tworzenia-dostepnych-materialow-wideo.md)
+- [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md)

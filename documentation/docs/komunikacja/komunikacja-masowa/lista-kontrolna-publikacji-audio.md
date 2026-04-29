@@ -28,4 +28,7 @@ Punkty obowiązkowe muszą być spełnione przed publikacją albo objęte proced
 | Czy link do transkrypcji jest jednoznaczny i dostępny przy materiale? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
 | Czy materiał nie przekazuje kluczowych informacji wyłącznie dźwiękiem bez alternatywy tekstowej? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
 
-Powiązana procedura: [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md).
+## Powiązane dokumenty
+
+- [Standard tworzenia dostępnych materiałów audio](./05-standard-tworzenia-dostepnych-materialow-audio.md)
+- [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md)

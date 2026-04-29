@@ -154,3 +154,10 @@ Podmiot publiczny może:
 - doskonalić procesy.
 
 Podstawowy poziom dostępności zostaje utrzymany, a kolejne działania mają charakter rozwojowy, a nie naprawczy.
+
+## Powiązane dokumenty
+
+- [Minimalne wymagania dostępności](./minimalne-wymagania.md)
+- [Standardy tworzenia dostępnych materiałów](./standardy-tworzenia-index.md)
+- [Listy kontrolne publikacji](./listy-kontrolne-index.md)
+- [Mapa odpowiedzialności w procesie publikacji](./mapa-odpowiedzialnosci.md)

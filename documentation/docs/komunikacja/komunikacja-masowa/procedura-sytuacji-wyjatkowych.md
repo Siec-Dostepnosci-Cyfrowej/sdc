@@ -117,5 +117,6 @@ Rejestr służy do:
 
 - [Zalecenie organizacji procesu publikacji dostępnych materiałów](./komunikacja-masowa-zalecenie.md)
 - [Minimalne wymagania dostępności](./minimalne-wymagania.md)
+- [Mapa odpowiedzialności w procesie publikacji](./mapa-odpowiedzialnosci.md)
 - [Model operacyjny publikacji dostępnych multimediów](./model-operacyjny-publikacji-dostepnych-multimediow.md)
 - [Listy kontrolne publikacji](./listy-kontrolne-index.md)

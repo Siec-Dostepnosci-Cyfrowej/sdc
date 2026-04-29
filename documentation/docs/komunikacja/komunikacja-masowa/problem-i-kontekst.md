@@ -145,3 +145,9 @@ Wdrożenie standardu stanowi odpowiedź na te potrzeby poprzez:
 Problem dostępności multimediów i komunikacji masowej nie wynika z braku świadomości, lecz z braku systemowego podejścia.
 
 Wprowadzenie spójnego standardu pozwala na przejście od działań incydentalnych do powtarzalnego modelu pracy, który zapewnia dostępność jako element jakości komunikacji.
+
+## Powiązane dokumenty
+
+- [Problemy i błędy wdrożeniowe](./problemy-i-bledy-wdrozeniowe.md)
+- [Zasady projektowe](./zasady-projektowe.md)
+- [Powiązania systemowe](./powiazania-systemowe.md)

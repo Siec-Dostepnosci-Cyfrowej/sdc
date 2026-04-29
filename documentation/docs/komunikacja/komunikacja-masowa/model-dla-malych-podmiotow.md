@@ -137,3 +137,9 @@ Wdrożenie modelu prowadzi do:
 - możliwości dalszego rozwoju standardów.
 
 Dostępność staje się stałym elementem pracy, niezależnie od wielkości podmiotu.
+
+## Powiązane dokumenty
+
+- [Minimalne wymagania dostępności](./minimalne-wymagania.md)
+- [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md)
+- [Listy kontrolne publikacji](./listy-kontrolne-index.md)

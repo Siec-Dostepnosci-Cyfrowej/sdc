@@ -144,3 +144,9 @@ Wdrożenie modelu prowadzi do:
 - zwiększenia jakości komunikacji publicznej.
 
 Dostępność staje się elementem codziennej pracy, a nie działaniem dodatkowym.
+
+## Powiązane dokumenty
+
+- [Mapa odpowiedzialności w procesie publikacji](./mapa-odpowiedzialnosci.md)
+- [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md)
+- [Listy kontrolne publikacji](./listy-kontrolne-index.md)

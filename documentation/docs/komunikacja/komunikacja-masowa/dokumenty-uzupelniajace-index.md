@@ -45,6 +45,7 @@ W skład materiałów uzupełniających wchodzą:
 - [Zasady projektowe](./zasady-projektowe.md)
 - [Powiązania systemowe](./powiazania-systemowe.md)
 - [Efekty wdrożenia](./efekty-wdrozenia.md)
+- [Słowniczek pojęć](./slowniczek-pojec.md)
 
 ## Relacja do pozostałych części repozytorium
 

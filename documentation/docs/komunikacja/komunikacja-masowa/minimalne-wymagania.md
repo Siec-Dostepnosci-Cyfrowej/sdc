@@ -95,8 +95,13 @@ Autor odpowiada za przygotowanie materiału. Osoba weryfikująca odpowiada za ko
 
 ## Powiązane dokumenty
 
-- [Model operacyjny publikacji dostępnych multimediów](./model-operacyjny-publikacji-dostepnych-multimediow.md)
-- [Standardy tworzenia dostępnych materiałów](./standardy-tworzenia-index.md)
-- [Listy kontrolne publikacji](./listy-kontrolne-index.md)
-- [05. Standard tworzenia dostępnych materiałów audio](./05-standard-tworzenia-dostepnych-materialow-audio.md)
+- [Standard tworzenia dostępnych materiałów wideo](./01-standard-tworzenia-dostepnych-materialow-wideo.md)
+- [Standard tworzenia dostępnych grafik i materiałów wizualnych](./02-standard-tworzenia-dostepnych-grafik-i-materialow-wizualnych.md)
+- [Standard opisu alternatywnego i treści równoważnych](./03-standard-opisu-alternatywnego-i-tresci-rownowaznych.md)
+- [Standard struktury komunikatu i tworzenia treści](./04-standard-struktury-komunikatu-i-tworzenia-tresci.md)
+- [Standard tworzenia dostępnych materiałów audio](./05-standard-tworzenia-dostepnych-materialow-audio.md)
+- [Lista kontrolna publikacji treści z obrazkiem](./lista-kontrolna-publikacji-tresci-z-obrazkiem.md)
+- [Lista kontrolna publikacji wideo](./lista-kontrolna-publikacji-wideo.md)
+- [Lista kontrolna publikacji postów w mediach społecznościowych](./lista-kontrolna-publikacji-postow-w-social-media.md)
+- [Lista kontrolna publikacji audio](./lista-kontrolna-publikacji-audio.md)
 - [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md)
