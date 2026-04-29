@@ -12,31 +12,32 @@ opracowanie: Angelika Sosnowska
 # Integracja wymagań dostępności w całym cyklu projektowym (Accessibility by Design)
 
 ## 1. 
-Organizacja wdraża podejście systemowe polegające na uwzględnianiu wymagań dostępności cyfrowej na wszystkich etapach cyklu życia produktu cyfrowego – od analizy i projektowania, przez implementację, aż po testy i utrzymanie – w celu zapewnienia zgodności z wymaganiami WCAG / EN 301 549, ograniczenia kosztów poprawek oraz podniesienia jakości usług cyfrowych.
+Organizacja wdraża podejście systemowe polegające na uwzględnianiu wymagań dostępności cyfrowej na wszystkich etapach cyklu życia produktu cyfrowego – od analizy i projektowania, przez implementację, aż po testy i utrzymanie – w celu zapewnienia zgodności z wymaganiami, ograniczenia kosztów poprawek oraz podniesienia jakości usług cyfrowych.
 
 ## 2. Rekomendacje
 
-1. Organizacja zapewnia integrację wymagań dostępności co najmniej w następujących obszarach:
+1. Organizacja zapewnia integrację wymagań dostępności w następujących obszarach:
   * Włączanie wymagań dostępności do dokumentów projektowych
   * Wymagania dostępności są definiowane już na etapie analizy biznesowej i funkcjonalnej, jako integralna część wymagań dla produktu cyfrowego, a nie jako wymagania dodatkowe lub opcjonalne 
   * Na etapie analizy określa się wymagania dostępności dla kluczowych procesów użytkownika (np. logowanie, wypełnienie formularza, wyszukiwanie informacji, odtwarzanie multimediów), z uwzględnieniem różnych sposobów korzystania z systemu (klawiatura, technologie asystujące, brak dźwięku, powiększenie) 
   * Wymagania dostępności są uwzględniane w dokumentacji projektowej, w szczególności w: 
     * wymaganiach biznesowych i funkcjonalnych (np. „użytkownik może wykonać cały proces bez użycia myszy”) 
     * opisach przypadków użycia i scenariuszach użytkownika 
-    * zadaniach w backlogu produktu (np. user stories) 
+    * lista wymagań (np. user stories) 
     * opisach przedmiotu zamówienia (OPZ) i dokumentacji przetargowej 
-  * Dla każdej istotnej funkcjonalności określa się wymagania wynikające z odpowiednich kryteriów WCAG, w zakresie adekwatnym do jej charakteru (np. dla formularzy – etykiety, błędy, walidacja; dla multimediów – napisy, transkrypcje) 
+  * Dla każdej funkcjonalności określa się wymagania wynikające z odpowiednich kryteriów WCAG, w zakresie adekwatnym do jej charakteru (np. dla formularzy – etykiety, błędy, walidacja; dla multimediów – napisy, transkrypcje) 
   * Wymagania dostępności obejmują wszystkie elementy produktu cyfrowego, w tym: 
     * interfejs użytkownika (strony, widoki aplikacji) 
     * dokumenty elektroniczne (np. PDF, DOCX) 
     * multimedia (audio, wideo) 
-    * komponenty i integracje z systemami zewnętrznymi 
+    * komponenty i integracje z systemami zewnętrznymi
+    * dokumentacja 
   * Wymagania dostępności są formułowane w sposób jednoznaczny, mierzalny i możliwy do weryfikacji, tak aby mogły stanowić podstawę testów i odbioru (np. zamiast „strona powinna być dostępna” – „wszystkie elementy formularza są dostępne z klawiatury i posiadają etykiety”) 
   * W dokumentacji projektowej unika się ogólnych zapisów typu „zgodność z WCAG”, bez wskazania zakresu i sposobu realizacji, ponieważ prowadzi to do niejednoznacznej interpretacji wymagań przez wykonawców 
   * W przypadku zamówień publicznych wymagania dostępności są integralną częścią opisu przedmiotu zamówienia oraz warunków realizacji, co umożliwia ich egzekwowanie na etapie realizacji i odbioru projektu
 2. Obowiązkowe adnotacje dostępności w makietach i dokumentacji UX/UI
-  * Makiety, prototypy oraz dokumentacja UX/UI zawierają jednoznaczne informacje dotyczące wymagań dostępności, które stanowią podstawę implementacji przez zespół developerski 
-    * W dokumentacji projektowej określa się co najmniej: 
+  * Makiety, prototypy oraz dokumentacja UX/UI zawierają jednoznaczne informacje dotyczące wymagań dostępności, które stanowią podstawę implementacji przez zespół developerski.
+    W dokumentacji projektowej określa się co najmniej: 
     * strukturę treści i hierarchię nagłówków 
     * kolejność nawigacji (w tym kolejność tabowania) 
     * sposób działania elementów interaktywnych (np. przyciski, formularze, komponenty dynamiczne) 
@@ -80,20 +81,20 @@ Organizacja wdraża podejście systemowe polegające na uwzględnianiu wymagań 
     * decyzję o dopuszczeniu projektu do kolejnego etapu 
   * Projekty niespełniające minimalnych wymagań dostępności nie są przekazywane do implementacji do czasu wprowadzenia wymaganych poprawek 
   * Przeglądy dostępności na etapie projektowania uzupełniają późniejsze testy i audyty, umożliwiając wykrycie problemów na wczesnym etapie, zanim zostaną utrwalone w implementacji
-4. Wymagania dostępności jako element kryteriów akceptacji i Definition of Done
+4. Wymagania dostępności jako element kryteriów akceptacji oraz zasad uznawania zadań za zakończone.
   * Dla każdej funkcjonalności definiuje się kryteria akceptacji uwzględniające wymagania dostępności 
   * Kryteria akceptacji są powiązane z konkretnymi wymaganiami WCAG i opisują oczekiwane zachowanie funkcjonalności (np. obsługa klawiaturą, dostępność komunikatów, struktura treści) 
   * Wymagania dostępności są formułowane w sposób mierzalny i możliwy do weryfikacji w testach 
-  * Dostępność stanowi obowiązkowy element Definition of Done dla wszystkich zadań związanych z tworzeniem lub modyfikacją produktu cyfrowego 
+  * Dostępność stanowi obowiązkowy element uznania zadań za zakończone dla wszystkich zadań związanych z tworzeniem lub modyfikacją produktu cyfrowego 
   * Zadanie uznaje się za zakończone wyłącznie wtedy, gdy spełnione są wymagania dostępności określone w kryteriach akceptacji 
-  * Minimalny zakres Definition of Done w obszarze dostępności obejmuje co najmniej: 
+  * Minimalny zakres uznawania zadań za zakończone w obszarze dostępności obejmuje co najmniej: 
     * brak błędów blokujących dostępność (uniemożliwiających wykonanie kluczowych funkcji) 
     * możliwość obsługi funkcjonalności z klawiatury 
     * logiczną kolejność nawigacji i poprawne działanie fokusu 
     * poprawne oznaczenie elementów interfejsu (semantyka, etykiety, komunikaty) 
     * dostępność treści (nagłówki, linki, alternatywy dla grafik) 
     * zrozumiałe i dostępne komunikaty błędów 
-  * Weryfikacja spełnienia Definition of Done obejmuje podstawowe testy dostępności, w szczególności: 
+  * Weryfikacja spełnienia zadań obejmuje podstawowe testy dostępności, w szczególności: 
     * test obsługi klawiaturą 
     * test przy powiększeniu 
     * wykorzystanie narzędzi automatycznych lub technologii asystujących 
@@ -129,14 +130,14 @@ Integracja dostępności w całym cyklu życia produktu cyfrowego jest zgodna z 
 -	Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami 
 -	PN ETSI EN 301 549 – wymagania dostępności produktów i usług ICT 
 -	Wytyczne WCAG 2.1 
--	Prawo zamówień publicznych – obowiązek uwzględniania dostępności w opisie przedmiotu zamówienia 
+-	Ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych 
 
 
 ## 5. Źródła i opracowania
-- Angelika
+- 
 
 ## 6. Historia wersji
-- h
+- 
 
 ## Załączniki
 _Brak załączników._
