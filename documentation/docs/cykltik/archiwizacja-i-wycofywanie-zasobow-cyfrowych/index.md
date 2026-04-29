@@ -1,7 +1,7 @@
-﻿---
+---
 id: archiwizacja-i-wycofywanie-zasobow-cyfrowych
 title: Procedura archiwizacji i wycofywania zasobów cyfrowych
-description: Strona wejściowa zalecenia dotyczącego archiwizacji, migracji i wycofywania zasobów cyfrowych w cyklu życia TIK.
+description: Zalecenie SDC dotyczące archiwizacji, migracji, wycofywania treści, wycofywania systemów i dostępu do zasobów archiwalnych w cyklu życia TIK.
 sidebar_label: Archiwizacja i wycofywanie
 sidebar_position: 0
 keywords: [archiwizacja, zasoby cyfrowe, cykl życia TIK, migracja danych, wycofywanie systemów]
@@ -11,53 +11,93 @@ data_zgloszenia: 29 kwietnia 2026 r.
 data_aktualizacji: 29 kwietnia 2026 r.
 wersja_robocza: true
 ---
+
 # Procedura archiwizacji i wycofywania zasobów cyfrowych
 
-Zalecenie porzÄ…dkuje zarzÄ…dzanie koĹ„cem ĹĽycia zasobĂłw cyfrowych w podmiotach publicznych. Dotyczy treĹ›ci publikowanych w serwisach WWW i BIP, dokumentĂłw elektronicznych, zaĹ‚Ä…cznikĂłw, multimediĂłw, repozytoriĂłw plikĂłw, danych w systemach dziedzinowych oraz systemĂłw teleinformatycznych, ktĂłre sÄ… modernizowane, migrowane albo wycofywane.
+## Cel
 
-MateriaĹ‚ domyka cykl ĹĽycia TIK. Wskazuje, ĹĽe zasĂłb cyfrowy nie koĹ„czy siÄ™ w chwili publikacji ani w chwili utraty aktualnoĹ›ci. Wymaga przeglÄ…du, kwalifikacji, decyzji, udokumentowania, zapewnienia dostÄ™pnoĹ›ci, utrzymania metadanych oraz ustalenia, czy ma zostaÄ‡ zachowany, zmigrowany, wycofany z publikacji, przekazany do wĹ‚aĹ›ciwego zasobu archiwalnego albo brakowany zgodnie z przepisami.
+Celem zalecenia jest wprowadzenie wspólnego modelu postępowania z zasobami cyfrowymi, które utraciły aktualność, zmieniły funkcję, wymagają migracji, powinny pozostać dostępne jako zasoby archiwalne albo mają zostać wycofane z publikacji lub z eksploatacji. Zalecenie wyjaśnia, po co podmiot publiczny powinien planować koniec życia treści, danych i systemów już na etapie ich tworzenia, utrzymania i modernizacji.
 
-## Problem
+Problem systemowy polega na tym, że archiwizacja zasobów cyfrowych bywa sprowadzana do przeniesienia pliku, ukrycia strony, usunięcia wpisu z CMS albo wyłączenia systemu bez pełnej decyzji o losie danych, metadanych, dokumentów, załączników, podpisów, logów i powiązań ze sprawami. Takie działanie utrudnia zachowanie kontekstu, rozliczalność decyzji, dostępność cyfrową, dostęp do informacji publicznej, ochronę danych osobowych i późniejsze odtworzenie zasobu.
 
-W praktyce archiwizacja bywa mylona z przeniesieniem pliku do folderu, ukryciem strony albo usuniÄ™ciem treĹ›ci z CMS. Taki sposĂłb dziaĹ‚ania powoduje utratÄ™ kontekstu dokumentĂłw, brak moĹĽliwoĹ›ci ustalenia podstawy decyzji, problemy z dostÄ™pnoĹ›ciÄ… cyfrowÄ…, niekontrolowane pozostawianie nieaktualnych informacji oraz wyĹ‚Ä…czanie systemĂłw bez planu migracji danych.
+Zalecenie domyka cykl życia TIK, ponieważ obejmuje nie tylko projektowanie, publikację i utrzymanie zasobów, lecz także archiwizację, migrację, wycofywanie treści, wycofywanie systemów, zapewnianie dostępu do zasobów archiwalnych oraz postępowanie w sytuacjach incydentowych, takich jak nieuprawnione usunięcie, utrata danych albo nieprawidłowa archiwizacja.
 
-Zalecenie odpowiada na lukÄ™ miÄ™dzy codziennym zarzÄ…dzaniem treĹ›ciÄ… w WWW i BIP, obowiÄ…zkami archiwalnymi, ochronÄ… danych osobowych, dostÄ™pem do informacji publicznej, dostÄ™pnoĹ›ciÄ… cyfrowÄ… oraz utrzymaniem systemĂłw teleinformatycznych.
+Materiał dotyczy treści publikowanych w serwisach WWW i BIP, dokumentów elektronicznych, załączników, multimediów, repozytoriów plików, danych w systemach dziedzinowych oraz systemów teleinformatycznych. Nie zastępuje instrukcji kancelaryjnej, JRWA, instrukcji archiwalnej, decyzji właściwego archiwum państwowego ani analizy prawnej konkretnej sprawy. Porządkuje natomiast działania na styku zarządzania treścią, archiwizacji, dostępności cyfrowej, informacji publicznej, ochrony danych osobowych i utrzymania systemów.
 
-## Cel materiaĹ‚u
+## Zalecenie
 
-Celem materiaĹ‚u jest wprowadzenie wspĂłlnego modelu postÄ™powania dla wszystkich podmiotĂłw publicznych, niezaleĹĽnie od ich wielkoĹ›ci i poziomu cyfryzacji. MaĹ‚a jednostka bez EZD moĹĽe wdroĹĽyÄ‡ prosty rejestr i podstawowe metadane, a duĹĽy podmiot z archiwum zakĹ‚adowym, EZD i wieloma systemami moĹĽe wykorzystaÄ‡ ten sam model do ustalenia rĂłl, statusĂłw, wymagaĹ„ dla systemĂłw i procedur migracji.
+Wprowadzenie systemowego modelu i procedury archiwizacji oraz wycofywania zasobów cyfrowych, obejmujących cały cykl życia TIK, w tym migrację danych, zapewnienie dostępu do zasobów archiwalnych oraz postępowanie w sytuacjach incydentowych.
 
-MateriaĹ‚ nie zastÄ™puje instrukcji kancelaryjnej, JRWA, instrukcji archiwalnej ani decyzji wĹ‚aĹ›ciwego archiwum paĹ„stwowego. PorzÄ…dkuje natomiast zarzÄ…dzanie zasobami cyfrowymi na styku publikacji, utrzymania, dostÄ™pnoĹ›ci, archiwizacji i wycofania.
+## Rekomendacje
 
-## Sytuacje awaryjne – od czego zacząć
+1. Osadzić archiwizację w cyklu życia TIK jako etap planowany od początku tworzenia treści, danych i systemów, a nie jako czynność techniczną wykonywaną dopiero po zakończeniu publikacji albo eksploatacji.
+2. Nadawać zasobom statusy pozwalające odróżnić zasoby aktywne, przeznaczone do przeglądu, archiwalne, wycofane z publikacji, przeznaczone do migracji, przekazane albo przeznaczone do brakowania zgodnie z właściwymi zasadami.
+3. Przed wycofaniem treści, migracją danych lub zamknięciem systemu ustalać kwalifikację archiwalną zasobu z uwzględnieniem instrukcji kancelaryjnej, JRWA, instrukcji archiwalnej, kategorii archiwalnej oraz roli archiwum zakładowego.
+4. Utrzymywać metadane umożliwiające wyszukanie, zrozumienie, ocenę aktualności, kontrolę wersji, powiązanie ze sprawą, ustalenie właściciela, podstawy publikacji, dat, statusu i dalszego trybu postępowania.
+5. Zapewniać integralność i autentyczność zasobów przez adekwatne środki organizacyjne i techniczne, w tym ślad audytowy, kontrolę wersji, sumy kontrolne, podpisy elektroniczne, pieczęcie elektroniczne, znaczniki czasu albo blokadę edycji po archiwizacji, jeżeli są potrzebne dla danego typu zasobu.
+6. Stosować trwałe i możliwe do odczytu formaty, a przy konwersji zachowywać oryginał, metadane, relacje z innymi dokumentami oraz informacje potrzebne do oceny autentyczności i integralności.
+7. Zapewniać dostęp do treści archiwalnych, jeżeli powinny pozostać publicznie dostępne, oraz oznaczać je w sposób zrozumiały dla użytkownika, zwłaszcza gdy treść nie jest już aktualna.
+8. Przewidywać dostęp alternatywny dla zasobów historycznych, których nie można racjonalnie dostosować w pełnym zakresie, w szczególności przez dostępną wersję, opis, streszczenie, transkrypcję albo obsługę wniosku o zapewnienie dostępności.
+9. Wycofywać treści z publikacji wyłącznie po ustaleniu podstawy decyzji, statusu zasobu, wpływu na informację publiczną, dostępność, ochronę danych osobowych, archiwizację i możliwość dalszego udostępnienia.
+10. Wycofywać systemy dopiero po inwentaryzacji danych, dokumentów, metadanych, integracji, kont użytkowników, logów, zależności technicznych, obowiązków prawnych, retencji i potrzeb odtworzenia informacji.
+11. Planować migrację danych przed modernizacją lub wyłączeniem systemu, w tym zakres eksportu, formaty, mapowanie pól, zachowanie relacji, test odtworzenia, odpowiedzialność wykonawcy i dokumentację techniczną.
+12. Dokumentować decyzje archiwizacyjne, decyzje o wycofaniu treści, decyzje o migracji i decyzje o zamknięciu systemu w rejestrze lub innym utrwalonym narzędziu organizacyjnym.
+13. Obsługiwać incydenty archiwizacji według ustalonego trybu, obejmującego zabezpieczenie śladów, ustalenie zakresu utraty, ocenę skutków prawnych i dostępnościowych, działania naprawcze oraz dokumentację decyzji.
+14. Dla systemów ograniczonych stosować wariant minimalny, obejmujący wykaz zasobów, status, właściciela, podstawowe metadane, decyzję o dalszym postępowaniu, miejsce przechowywania i informację o dostępie.
+15. Powiązać procedurę z innymi zaleceniami SDC, w szczególności dotyczącymi przeglądu załączników, treści od innych podmiotów, dostępności multimediów, deklaracji dostępności, komunikacji masowej, interoperacyjności oraz cyklu życia TIK.
 
-- **Usunąłem zasób / zasób zniknął** → [Procedura postępowania w przypadku nieprawidłowej archiwizacji lub nieuprawnionego usunięcia zasobu](./49-procedura-postepowania-w-przypadku-nieprawidlowej-archiwizacji.md).
-- **Nie wiem co zrobić – incydent** → [Lista kontrolna obsługi incydentu archiwizacji zasobów cyfrowych](./50-lista-kontrolna-incydentu-archiwizacji.md).
-- **Chcę wycofać treść** → [Procedura wycofywania treści](./11-procedura-wycofywania-tresci.md).
-- **Wyłączamy system** → [Procedura wycofywania systemów](./12-procedura-wycofywania-systemow.md).
+## Uzasadnienie
 
-## Zalecenie i kontekst
+Zalecenie jest potrzebne, ponieważ wiele podmiotów publicznych nie ma jednego standardu organizacyjnego dla archiwizacji i wycofywania zasobów cyfrowych. Decyzje bywają rozproszone między redaktorów, komórki merytoryczne, IT, archiwum zakładowe, IOD, obsługę prawną i wykonawców systemów, a sam proces nie zawsze zostawia czytelny ślad decyzyjny.
 
-- [Zalecenie](./01-zalecenie.md) - gĹ‚Ăłwna treĹ›Ä‡ zalecenia, rekomendacje, podstawy prawne i historia wersji.
-- [Problem i kontekst](./02-problem-i-kontekst.md) - opis luki systemowej, skutkĂłw prawnych, organizacyjnych, technologicznych i dostÄ™pnoĹ›ciowych.
-- [Zakres stosowania](./03-zakres-stosowania.md) - wskazanie zasobĂłw, systemĂłw i sytuacji objÄ™tych zaleceniem.
-- [Podstawy prawne](./04-podstawy-prawne.md) - omĂłwienie znaczenia przepisĂłw dla archiwizacji cyfrowej i wycofywania zasobĂłw.
-- [PowiÄ…zania z zaleceniami SDC](./05-powiazania-z-zaleceniami-sdc.md) - relacja z zaleceniami dotyczÄ…cymi zaĹ‚Ä…cznikĂłw, treĹ›ci zewnÄ™trznych, multimediĂłw, deklaracji dostÄ™pnoĹ›ci i cyklu ĹĽycia TIK.
+Brak procedury powoduje skutki prawne, organizacyjne, dostępnościowe, archiwalne i technologiczne. Może prowadzić do usunięcia informacji publicznej bez udokumentowanej podstawy, utraty dokumentacji elektronicznej, naruszenia zasad retencji, niekontrolowanego publikowania danych osobowych, pozostawienia nieaktualnych treści bez oznaczenia, utraty metadanych oraz zamknięcia systemu bez możliwości odtworzenia danych.
 
-## Modele
+Ryzyko archiwalne polega na utracie kontekstu dokumentów, powiązań ze sprawami, kategorii archiwalnych i informacji potrzebnych do przekazania, przechowywania albo brakowania dokumentacji. Ryzyko technologiczne polega na uwięzieniu danych w nieutrzymywanym systemie, utracie formatów odczytu, braku eksportu, braku dokumentacji technicznej i braku testu migracji. Ryzyko dostępnościowe polega na tym, że zasób historyczny pozostaje publiczny, ale nie jest możliwy do użycia przez część użytkowników albo nie ma określonego trybu dostępu alternatywnego.
 
-- [Model cyklu ĹĽycia](./06-model-cyklu-zycia.md) - fazy od projektowania zasobu do przekazania albo brakowania.
-- [Model statusĂłw zasobĂłw](./07-model-statusow-zasobow.md) - statusy zasobĂłw oraz zasady ich nadawania i zmiany.
-- [Model decyzyjny](./08-model-decyzyjny.md) - pytania i decyzje wspierajÄ…ce kwalifikacjÄ™ zasobĂłw.
-- [Model ryzyk](./09-model-ryzyk.md) - ryzyka prawne, archiwalne, dostÄ™pnoĹ›ciowe, technologiczne i organizacyjne.
+Procedura pomaga połączyć perspektywę kancelaryjną, archiwalną, prawną, techniczną i redakcyjną. Dzięki temu wycofanie zasobu nie jest przypadkowym usunięciem, lecz kontrolowaną decyzją o dalszym losie treści, danych, dokumentów i systemu.
 
-## Elementy wykonawcze
+## Podstawy prawne
 
-Kolejne czÄ™Ĺ›ci materiaĹ‚u rozwijajÄ… procedury, standardy i narzÄ™dzia wdroĹĽeniowe. ObejmujÄ… w szczegĂłlnoĹ›ci procedurÄ™ archiwizacji zasobĂłw, procedurÄ™ wycofywania treĹ›ci, procedurÄ™ wycofywania systemĂłw, procedurÄ™ migracji danych, kwalifikacjÄ™ archiwalnÄ…, standard metadanych, standard formatĂłw archiwalnych, standard integralnoĹ›ci i autentycznoĹ›ci, dostÄ™p do treĹ›ci archiwalnych, dostÄ™p alternatywny, listy kontrolne, formularze decyzji, rejestry i schematy procesĂłw.
+Przy stosowaniu zalecenia należy uwzględniać ustawę z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach oraz przepisy dotyczące instrukcji kancelaryjnej, jednolitych rzeczowych wykazów akt i instrukcji archiwalnej właściwych dla danego podmiotu. Te regulacje wyznaczają ramy klasyfikowania, kwalifikowania, przechowywania, przekazywania i brakowania dokumentacji.
 
-Te elementy powinny byÄ‡ stosowane Ĺ‚Ä…cznie. Modele wskazujÄ… logikÄ™ decyzji, procedury opisujÄ… przebieg dziaĹ‚aĹ„, standardy okreĹ›lajÄ… minimalnÄ… jakoĹ›Ä‡ zasobu, a narzÄ™dzia pomagajÄ… udokumentowaÄ‡ decyzje.
-## Procedury i standardy
+Istotne są także przepisy dotyczące postępowania z dokumentacją elektroniczną, ponieważ dokument elektroniczny wymaga zachowania metadanych, relacji, kontekstu, integralności, autentyczności i możliwości odczytu w czasie. W praktyce oznacza to konieczność uwzględnienia archiwizacji, eksportu i migracji w sposobie utrzymania systemów.
 
+Ustawa z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne ma znaczenie dla interoperacyjności, bezpieczeństwa, formatów danych, wymiany informacji w postaci elektronicznej i minimalnych wymagań dla systemów teleinformatycznych. Rozporządzenie Rady Ministrów z dnia 12 kwietnia 2012 r. w sprawie Krajowych Ram Interoperacyjności, minimalnych wymagań dla rejestrów publicznych i wymiany informacji w postaci elektronicznej oraz minimalnych wymagań dla systemów teleinformatycznych.
+
+Ustawa z dnia 6 września 2001 r. o dostępie do informacji publicznej oraz przepisy dotyczące Biuletynu Informacji Publicznej wpływają na decyzje o publikacji, utrzymaniu, oznaczeniu, wycofaniu i dalszym udostępnianiu informacji publicznej. Wycofanie treści nie powinno być utożsamiane z końcem obowiązków dotyczących informacji.
+
+Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych ma znaczenie dla treści archiwalnych, zasobów historycznych, deklaracji dostępności, postępowań w sprawie zapewnienia dostępności cyfrowej oraz dostępu alternatywnego.
+
+RODO oraz ustawa z dnia 10 maja 2018 r. o ochronie danych osobowych wymagają powiązania retencji, publikacji, ograniczenia dostępu, minimalizacji danych, bezpieczeństwa przetwarzania i rozliczalności. W przypadku zasobów zawierających dane osobowe decyzja o pozostawieniu, ograniczeniu, migracji albo wycofaniu powinna uwzględniać podstawę prawną i cel przetwarzania.
+
+Rozporządzenie eIDAS oraz krajowe przepisy dotyczące usług zaufania należy uwzględniać wtedy, gdy zasób zawiera podpis elektroniczny, pieczęć elektroniczną, znacznik czasu albo inny mechanizm potwierdzający autentyczność i integralność. Migracja lub konwersja nie powinna pozbawiać dokumentu możliwości weryfikacji, jeżeli ta możliwość jest wymagana dla danego zasobu.
+
+## Źródła i opracowania
+
+- Materiały Naczelnej Dyrekcji Archiwów Państwowych oraz właściwych archiwów państwowych dotyczące dokumentacji, archiwów zakładowych, kwalifikacji archiwalnej, przekazywania materiałów archiwalnych i brakowania dokumentacji.
+- Materiały dotyczące EZD, w tym dokumentacja systemu stosowanego przez podmiot, zasady prowadzenia spraw w postaci elektronicznej oraz materiały dotyczące powiązania dokumentów, spraw i metadanych.
+- EN 301 549 oraz Web Content Accessibility Guidelines (WCAG).
+- Materiały i zalecenia SDC dotyczące dostępności cyfrowej, zarządzania treścią, załączników, multimediów, deklaracji dostępności, interoperacyjności, dokumentowania decyzji i cyklu życia TIK.
+- Opracowania dotyczące długotrwałej czytelności formatów, metadanych, archiwizacji cyfrowej, migracji danych, integralności, autentyczności i zarządzania dokumentacją elektroniczną.
+- Dokumentacja wewnętrzna podmiotu, w szczególności instrukcja kancelaryjna, JRWA, instrukcja archiwalna, polityki bezpieczeństwa informacji, procedury ochrony danych osobowych, dokumentacja systemów oraz umowy z wykonawcami.
+
+## Historia wersji
+
+| Wersja | Data | Opis zmian |
+| --- | --- | --- |
+| 0.1 | 29 kwietnia 2026 r. | Wersja robocza zalecenia dotyczącego archiwizacji i wycofywania zasobów cyfrowych. |
+
+## Materiały wykonawcze
+
+- [Zalecenie szczegółowe](./01-zalecenie.md)
+- [Problem i kontekst](./02-problem-i-kontekst.md)
+- [Zakres stosowania](./03-zakres-stosowania.md)
+- [Podstawy prawne](./04-podstawy-prawne.md)
+- [Powiązania z zaleceniami SDC](./05-powiazania-z-zaleceniami-sdc.md)
+- [Model cyklu życia](./06-model-cyklu-zycia.md)
+- [Model statusów zasobów](./07-model-statusow-zasobow.md)
+- [Model decyzyjny](./08-model-decyzyjny.md)
+- [Model ryzyk](./09-model-ryzyk.md)
 - [Procedura archiwizacji zasobów](./10-procedura-archiwizacji-zasobow.md)
 - [Procedura wycofywania treści](./11-procedura-wycofywania-tresci.md)
 - [Procedura wycofywania systemów](./12-procedura-wycofywania-systemow.md)
@@ -75,25 +115,14 @@ Te elementy powinny byÄ‡ stosowane Ĺ‚Ä…cznie. Modele wskazujÄ… logik
 - [Wymagania dla systemów](./24-wymagania-dla-systemow.md)
 - [Kryteria wycofania systemu](./25-kryteria-wycofania-systemu.md)
 - [Dokumentowanie procesu wycofania](./26-dokumentowanie-procesu-wycofania.md)
-
-## Modele wdrożeniowe i organizacyjne
-
 - [Modele wdrożeniowe](./27-modele-wdrozeniowe.md)
 - [Model dla małych podmiotów](./28-model-dla-malych-podmiotow.md)
 - [Model dla dużych podmiotów](./29-model-dla-duzych-podmiotow.md)
 - [Mapa odpowiedzialności](./30-mapa-odpowiedzialnosci.md)
-
-## Praktyka i ryzyka
-
 - [Scenariusze praktyczne](./31-scenariusze-praktyczne.md)
 - [Przypadki szczególne](./32-przypadki-szczegolne.md)
 - [Konflikty prawne i decyzyjne](./33-konflikty-prawne-i-decyzyjne.md)
 - [Najczęstsze błędy](./34-najczestsze-bledy.md)
-- [Procedura postępowania w przypadku nieprawidłowej archiwizacji lub nieuprawnionego usunięcia zasobu](./49-procedura-postepowania-w-przypadku-nieprawidlowej-archiwizacji.md)
-- [Lista kontrolna obsługi incydentu archiwizacji zasobów cyfrowych](./50-lista-kontrolna-incydentu-archiwizacji.md)
-
-## Narzędzia i wzory
-
 - [Lista kontrolna archiwizacji](./35-lista-kontrolna-archiwizacji.md)
 - [Lista kontrolna wycofania treści](./36-lista-kontrolna-wycofania-tresci.md)
 - [Lista kontrolna wycofania systemu](./37-lista-kontrolna-wycofania-systemu.md)
@@ -103,18 +132,10 @@ Te elementy powinny byÄ‡ stosowane Ĺ‚Ä…cznie. Modele wskazujÄ… logik
 - [Rejestr wycofania systemów](./41-rejestr-wycofania-systemow.md)
 - [Wzór opisu treści archiwalnej](./42-wzor-opisu-tresci-archiwalnej.md)
 - [Wzór informacji o dostępie alternatywnym](./43-wzor-informacji-o-dostepie-alternatywnym.md)
-
-## Schematy procesów
-
 - [Schemat procesu archiwizacji](./44-schemat-procesu-archiwizacji.md)
 - [Schemat procesu wycofania systemu](./45-schemat-procesu-wycofania-systemu.md)
-
-## Słownik i źródła
-
 - [Słownik pojęć](./46-slownik-pojec.md)
 - [Źródła i opracowania](./47-zrodla-i-opracowania.md)
 - [Historia wersji](./48-historia-wersji.md)
-## Narzędzia i procedury incydentowe
-
-- [Procedura postępowania w przypadku nieprawidłowej archiwizacji lub nieuprawnionego usunięcia zasobu](./49-procedura-postepowania-w-przypadku-nieprawidlowej-archiwizacji.md) - sposób postępowania po stwierdzeniu usunięcia, utraty lub nieprawidłowej archiwizacji zasobu cyfrowego.
-- [Lista kontrolna obsługi incydentu archiwizacji zasobów cyfrowych](./50-lista-kontrolna-incydentu-archiwizacji.md) - narzędzie do dokumentowania ustaleń, decyzji i działań naprawczych w przypadku incydentu archiwizacji.
+- [Procedura postępowania w przypadku nieprawidłowej archiwizacji lub nieuprawnionego usunięcia zasobu](./49-procedura-postepowania-w-przypadku-nieprawidlowej-archiwizacji.md)
+- [Lista kontrolna obsługi incydentu archiwizacji zasobów cyfrowych](./50-lista-kontrolna-incydentu-archiwizacji.md)
