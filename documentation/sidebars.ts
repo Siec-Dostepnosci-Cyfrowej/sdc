@@ -67,7 +67,7 @@ const sidebars: SidebarsConfig = {
             link: { type: 'doc', id: 'komunikacja/komunikacja-masowa/dokumenty-uzupelniajace-index' },
             items: [
               'komunikacja/komunikacja-masowa/mapa-odpowiedzialnosci',
-              'komunikacja/komunikacja-masowa/slowniczek-pojec',
+              'komunikacja/komunikacja-masowa/slowniczek-pojec-komunikacja-masowa',
             ],
           },
           {
