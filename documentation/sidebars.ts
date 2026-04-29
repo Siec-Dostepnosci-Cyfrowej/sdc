@@ -29,15 +29,9 @@ const sidebars: SidebarsConfig = {
           description: 'Zestaw dokumentów dotyczących modelu przeglądu, oceny, klasyfikacji, naprawy, archiwizacji i usuwania dokumentów pozostających w publicznym obiegu informacyjnym podmiotu publicznego.',
         },
         items: [
-          {
-            type: 'category',
-            label: 'Przegląd i zarządzanie dokumentami',
-            items: [
-              'komunikacja/przeglad-zalacznikow/przeglad-naprawa-zalacznikow-zalecenie',
-              'komunikacja/przeglad-zalacznikow/zalecenie-07-podstawy',
-              'komunikacja/przeglad-zalacznikow/zalecenie-07-slownik-pojec',
-            ],
-          },
+          'komunikacja/przeglad-zalacznikow/przeglad-naprawa-zalacznikow-zalecenie',
+          'komunikacja/przeglad-zalacznikow/zalecenie-07-podstawy',
+          'komunikacja/przeglad-zalacznikow/zalecenie-07-slownik-pojec',
           {
             type: 'category',
             label: 'Modele',
