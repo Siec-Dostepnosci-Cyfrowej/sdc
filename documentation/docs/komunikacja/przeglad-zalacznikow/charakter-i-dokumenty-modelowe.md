@@ -1,10 +1,17 @@
 ---
 id: zalecenie-07-charakter
 title: Charakter zalecenia i dokumenty modelowe
+description: Opis charakteru zalecenia oraz dokumentów modelowych wspierających jego wdrożenie.
 sidebar_label: Charakter
-sidebar_position: 4
+sidebar_position: 6
+keywords: [komunikacja, załączniki, dokumenty, dostępność cyfrowa]
+tags: [komunikacja, załączniki, dostępność cyfrowa]
+opracowanie: Bartłomiej Wilk
+wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
+data_zgloszenia: 16 kwietnia 2026 r.
+data_aktualizacji: 29 kwietnia 2026 r.
+wersja_robocza: true
 ---
-
 # Charakter zalecenia i dokumenty modelowe
 
 ## Charakter dokumentu głównego
@@ -33,13 +40,13 @@ Dokument [Mapa odpowiedzialności](./mapa-odpowiedzialnosci.md) określa role, z
 
 ### Procedury dla dużych i małych podmiotów
 
-Dokument [Procedura dla dużych podmiotów](../procedury/procedura-duze-podmioty.md) opisuje realizację programu w podmiotach o rozbudowanej strukturze, z rozproszonym wykonaniem i centralnym nadzorem.
+Dokument [Procedura dla dużych podmiotów](./procedura-duze-podmioty.md) opisuje realizację programu w podmiotach o rozbudowanej strukturze, z rozproszonym wykonaniem i centralnym nadzorem.
 
-Dokument [Procedura dla małych podmiotów](../procedury/procedura-male-podmioty.md) opisuje uproszczoną realizację programu w podmiotach o mniejszej skali działania, przy zachowaniu tej samej logiki oceny, decyzji, dokumentowania i kontroli.
+Dokument [Procedura dla małych podmiotów](./procedura-male-podmioty.md) opisuje uproszczoną realizację programu w podmiotach o mniejszej skali działania, przy zachowaniu tej samej logiki oceny, decyzji, dokumentowania i kontroli.
 
 ### Lista kontrolna działań naprawczych
 
-Dokument [Lista kontrolna działań naprawczych dokumentów](../zalaczniki/lista-kontrolna-naprawy.md) wspiera etap kontroli jakości i zamknięcia działania naprawczego. Ma charakter operacyjny i wynika ze standardu działań naprawczych.
+Dokument [Lista kontrolna działań naprawczych dokumentów](./lista-kontrolna-naprawy.md) wspiera etap kontroli jakości i zamknięcia działania naprawczego. Ma charakter operacyjny i wynika ze standardu działań naprawczych.
 
 ## Załączniki operacyjne
 
@@ -47,35 +54,35 @@ Załączniki stanowią integralne narzędzia stosowania zalecenia w praktyce. Ic
 
 ### Formularz oceny dokumentu
 
-[Załącznik nr 1. Formularz oceny dokumentu](../zalaczniki/zalacznik-formularz-oceny-dokumentu.md) służy do udokumentowania podstawowych danych o dokumencie, jego funkcji, kategorii, priorytetu oraz decyzji o dalszym postępowaniu.
+[Załącznik nr 1. Formularz oceny dokumentu](./zalacznik-formularz-oceny-dokumentu.md) służy do udokumentowania podstawowych danych o dokumencie, jego funkcji, kategorii, priorytetu oraz decyzji o dalszym postępowaniu.
 
 ### Rejestr dokumentów objętych przeglądem
 
-[Załącznik nr 2. Rejestr dokumentów objętych przeglądem](../zalaczniki/zalacznik-rejestr-dokumentow.md) jest centralnym narzędziem ewidencyjnym i zarządczym procesu. Umożliwia monitorowanie stanu oceny, realizacji działań, terminów oraz statusu dokumentów.
+[Załącznik nr 2. Rejestr dokumentów objętych przeglądem](./zalacznik-rejestr-dokumentow.md) jest centralnym narzędziem ewidencyjnym i zarządczym procesu. Umożliwia monitorowanie stanu oceny, realizacji działań, terminów oraz statusu dokumentów.
 
 ### Formularz oceny „niezbędności”
 
-[Załącznik nr 3. Formularz oceny „niezbędności” dokumentu](../zalaczniki/zalacznik-ocena-niezbednosci.md) przekłada definicję operacyjną niezbędności na pytania i kryteria stosowane przy ocenie konkretnego dokumentu.
+[Załącznik nr 3. Formularz oceny „niezbędności” dokumentu](./zalacznik-ocena-niezbednosci.md) przekłada definicję operacyjną niezbędności na pytania i kryteria stosowane przy ocenie konkretnego dokumentu.
 
 ### Przewodnik podejmowania decyzji
 
-[Załącznik nr 4. Przewodnik podejmowania decyzji dotyczących dokumentów](../zalaczniki/zalacznik-przewodnik-decyzyjny.md) wskazuje, jak wynik oceny niezbędności, kategoria i priorytet prowadzą do decyzji o dostosowaniu, odtworzeniu, przygotowaniu nowej wersji, archiwizacji albo usunięciu.
+[Załącznik nr 4. Przewodnik podejmowania decyzji dotyczących dokumentów](./zalacznik-przewodnik-decyzyjny.md) wskazuje, jak wynik oceny niezbędności, kategoria i priorytet prowadzą do decyzji o dostosowaniu, odtworzeniu, przygotowaniu nowej wersji, archiwizacji albo usunięciu.
 
 ### Zasady archiwizacji i usuwania dokumentów
 
-[Załącznik nr 5. Zasady archiwizacji i usuwania dokumentów](../zalaczniki/zalacznik-archiwizacja-i-usuwanie.md) porządkuje pozostawianie dokumentów jako archiwalnych oraz usuwanie dokumentów zbędnych z publicznego obiegu.
+[Załącznik nr 5. Zasady archiwizacji i usuwania dokumentów](./zalacznik-archiwizacja-i-usuwanie.md) porządkuje pozostawianie dokumentów jako archiwalnych oraz usuwanie dokumentów zbędnych z publicznego obiegu.
 
 ### Przykłady kwalifikacji dokumentów
 
-[Załącznik nr 6. Przykłady kwalifikacji dokumentów](../zalaczniki/zalacznik-przyklady-kwalifikacji.md) wspiera jednolite stosowanie kategorii, priorytetów i decyzji przez pokazanie typowych przypadków.
+[Załącznik nr 6. Przykłady kwalifikacji dokumentów](./zalacznik-przyklady-kwalifikacji.md) wspiera jednolite stosowanie kategorii, priorytetów i decyzji przez pokazanie typowych przypadków.
 
 ### Standard działań naprawczych
 
-[Załącznik nr 7. Standard działań naprawczych dokumentów](../zalaczniki/zalacznik-standard-dzialan-naprawczych.md) określa zasady wykonywania dostosowania, odtworzenia lub przygotowania nowej wersji dokumentu w sposób zgodny z wymaganiami dostępności.
+[Załącznik nr 7. Standard działań naprawczych dokumentów](./zalacznik-standard-dzialan-naprawczych.md) określa zasady wykonywania dostosowania, odtworzenia lub przygotowania nowej wersji dokumentu w sposób zgodny z wymaganiami dostępności.
 
 ### Schemat procesu
 
-[Załącznik nr 8. Schemat procesu / mapa decyzyjna](../schematy/zalacznik-schemat-procesu.md) przedstawia przepływ decyzji i etapów procesu w formie syntetycznej.
+[Załącznik nr 8. Schemat procesu / mapa decyzyjna](./zalacznik-schemat-procesu.md) przedstawia przepływ decyzji i etapów procesu w formie syntetycznej.
 
 ## Rola dokumentów modelowych
 

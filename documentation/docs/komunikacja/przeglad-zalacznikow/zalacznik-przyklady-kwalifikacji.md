@@ -1,10 +1,17 @@
 ---
 id: zalecenie-07-zalacznik-przyklady
 title: Załącznik nr 6. Przykłady kwalifikacji dokumentów
+description: Przykłady kwalifikacji dokumentów w programie przeglądu.
 sidebar_label: Przykłady
-sidebar_position: 6
+sidebar_position: 14
+keywords: [komunikacja, załączniki, dokumenty, dostępność cyfrowa]
+tags: [komunikacja, załączniki, dostępność cyfrowa]
+opracowanie: Bartłomiej Wilk
+wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
+data_zgloszenia: 16 kwietnia 2026 r.
+data_aktualizacji: 29 kwietnia 2026 r.
+wersja_robocza: true
 ---
-
 # Załącznik nr 6. Przykłady kwalifikacji dokumentów
 
 Załącznik zawiera modelowe przykłady kwalifikacji dokumentów, opracowane w oparciu o przyjęty model działania. Każdy przykład przedstawia pełną ścieżkę decyzyjną, od identyfikacji funkcji dokumentu, przez ocenę „niezbędności”, aż do określenia sposobu dalszego postępowania.

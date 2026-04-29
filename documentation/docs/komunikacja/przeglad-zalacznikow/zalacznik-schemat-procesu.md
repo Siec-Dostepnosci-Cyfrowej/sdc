@@ -1,10 +1,17 @@
 ---
 id: zalecenie-07-zalacznik-schemat
 title: Załącznik nr 8. Schemat procesu / mapa decyzyjna
+description: Schemat procesu i mapa decyzyjna programu przeglądu dokumentów.
 sidebar_label: Schemat procesu
-sidebar_position: 1
+sidebar_position: 17
+keywords: [komunikacja, załączniki, dokumenty, dostępność cyfrowa]
+tags: [komunikacja, załączniki, dostępność cyfrowa]
+opracowanie: Bartłomiej Wilk
+wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
+data_zgloszenia: 16 kwietnia 2026 r.
+data_aktualizacji: 29 kwietnia 2026 r.
+wersja_robocza: true
 ---
-
 # Załącznik nr 8. Schemat procesu / mapa decyzyjna
 
 ## Cel załącznika

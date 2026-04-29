@@ -1,10 +1,17 @@
 ---
 id: zalecenie-07-zalacznik-rejestr
 title: Załącznik nr 2. Rejestr dokumentów objętych przeglądem
+description: Wzór rejestru dokumentów objętych przeglądem.
 sidebar_label: Rejestr
-sidebar_position: 2
+sidebar_position: 10
+keywords: [komunikacja, załączniki, dokumenty, dostępność cyfrowa]
+tags: [komunikacja, załączniki, dostępność cyfrowa]
+opracowanie: Bartłomiej Wilk
+wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
+data_zgloszenia: 16 kwietnia 2026 r.
+data_aktualizacji: 29 kwietnia 2026 r.
+wersja_robocza: true
 ---
-
 # Załącznik nr 2. Rejestr dokumentów objętych przeglądem
 
 Rejestr dokumentów objętych przeglądem stanowi operacyjne narzędzie ewidencyjne i zarządcze programu przeglądu i zarządzania dokumentami. Może być prowadzony jako podzbiór rejestru zasobów cyfrowych albo jako odrębne narzędzie robocze powiązane z tym rejestrem.

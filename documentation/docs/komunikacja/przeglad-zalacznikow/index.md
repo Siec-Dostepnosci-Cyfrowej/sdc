@@ -1,10 +1,17 @@
 ---
 id: zalecenie-07-glowny
 title: Zalecenie 7. Program przeglądu i naprawy załączników opublikowanych po 23 września 2018 r.
+description: Dokument główny określający program przeglądu, oceny i zarządzania załącznikami opublikowanymi po 23 września 2018 r.
 sidebar_label: Zalecenie 7
 sidebar_position: 1
+keywords: [komunikacja, załączniki, dokumenty, dostępność cyfrowa]
+tags: [komunikacja, załączniki, dostępność cyfrowa]
+opracowanie: Bartłomiej Wilk
+wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
+data_zgloszenia: 16 kwietnia 2026 r.
+data_aktualizacji: 29 kwietnia 2026 r.
+wersja_robocza: true
 ---
-
 # Zalecenie 7. Program przeglądu i naprawy załączników opublikowanych po 23 września 2018 r.
 
 ## Zalecenie
@@ -21,7 +28,7 @@ Program przeglądu dokumentów jest stałym elementem zarządzania zasobem dokum
 - Podmiot prowadzi rejestr dokumentów objętych programem, obejmujący co najmniej lokalizację dokumentu, rodzaj dokumentu, datę publikacji, ocenę niezbędności oraz decyzję o dalszym postępowaniu.
 - Podmiot przypisuje odpowiedzialność za właściciela dokumentu, publikującego, ocenę dokumentu, zatwierdzanie decyzji oraz realizację działań wynikających z decyzji.
 - Podmiot stosuje jednolitą klasyfikację dokumentów, opartą na ocenie niezbędności dokumentu i możliwości dalszego przetwarzania.
-- Podmiot utrzymuje spójność programu z [modelami operacyjnymi](./modele/model-dzialania.md), [procedurami](./procedury/procedura-duze-podmioty.md), [załącznikami](./zalaczniki/zalacznik-rejestr-dokumentow.md) oraz [schematami](./schematy/zalacznik-schemat-procesu.md).
+- Podmiot utrzymuje spójność programu z [modelami operacyjnymi](./model-dzialania.md), [procedurami](./procedura-duze-podmioty.md), [załącznikami](./zalacznik-rejestr-dokumentow.md) oraz [schematami](./zalacznik-schemat-procesu.md).
 
 ## Uzasadnienie
 
@@ -48,7 +55,7 @@ Podstawę zalecenia stanowią w szczególności:
 - norma EN 301 549;
 - Web Content Accessibility Guidelines 2.2 (WCAG 2.2).
 
-Szczegółowe omówienie zakresu stosowania przepisów, definicji operacyjnej niezbędności oraz problemów regulacyjnych znajduje się w dokumencie [Podstawy zalecenia](./modele/podstawy-zalecenia.md).
+Szczegółowe omówienie zakresu stosowania przepisów, definicji operacyjnej niezbędności oraz problemów regulacyjnych znajduje się w dokumencie [Podstawy zalecenia](./podstawy-zalecenia.md).
 
 ## Słownik pojęć
 
@@ -58,14 +65,14 @@ W zaleceniu stosuje się pojęcia z [pełnego słownika pojęć](./slownik-pojec
 
 Dokumentami wspierającymi stosowanie zalecenia są:
 
-- [Podstawy zalecenia](./modele/podstawy-zalecenia.md);
-- [Model działania](./modele/model-dzialania.md);
-- [Mapa odpowiedzialności](./modele/mapa-odpowiedzialnosci.md);
-- [Charakter zalecenia i dokumenty modelowe](./modele/charakter-i-dokumenty-modelowe.md);
-- [Procedura dla dużych podmiotów](./procedury/procedura-duze-podmioty.md);
-- [Procedura dla małych podmiotów](./procedury/procedura-male-podmioty.md);
-- [Załączniki wdrożeniowe](./zalaczniki/zalacznik-formularz-oceny-dokumentu.md);
-- [Schemat procesu](./schematy/zalacznik-schemat-procesu.md);
+- [Podstawy zalecenia](./podstawy-zalecenia.md);
+- [Model działania](./model-dzialania.md);
+- [Mapa odpowiedzialności](./mapa-odpowiedzialnosci.md);
+- [Charakter zalecenia i dokumenty modelowe](./charakter-i-dokumenty-modelowe.md);
+- [Procedura dla dużych podmiotów](./procedura-duze-podmioty.md);
+- [Procedura dla małych podmiotów](./procedura-male-podmioty.md);
+- [Załączniki wdrożeniowe](./zalacznik-formularz-oceny-dokumentu.md);
+- [Schemat procesu](./zalacznik-schemat-procesu.md);
 - [Inwentaryzacja zasobów cyfrowych](../../cykltik/inwentaryzacja/rejestr-zasobow-cyfrowych.md).
 
 ## Historia wersji

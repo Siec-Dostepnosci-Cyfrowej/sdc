@@ -1,10 +1,17 @@
 ---
 id: zalecenie-07-zalacznik-decyzje
 title: Załącznik nr 4. Przewodnik podejmowania decyzji dotyczących dokumentów
+description: Przewodnik podejmowania decyzji dotyczących dokumentów objętych przeglądem.
 sidebar_label: Decyzje
-sidebar_position: 4
+sidebar_position: 12
+keywords: [komunikacja, załączniki, dokumenty, dostępność cyfrowa]
+tags: [komunikacja, załączniki, dostępność cyfrowa]
+opracowanie: Bartłomiej Wilk
+wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
+data_zgloszenia: 16 kwietnia 2026 r.
+data_aktualizacji: 29 kwietnia 2026 r.
+wersja_robocza: true
 ---
-
 # Załącznik nr 4. Przewodnik podejmowania decyzji dotyczących dokumentów
 
 Przewodnik określa sposób postępowania prowadzący do podjęcia decyzji o dalszym postępowaniu z dokumentem. Stosuje się go po zakończeniu oceny „niezbędności”, przypisaniu kategorii dokumentu oraz nadaniu priorytetu.

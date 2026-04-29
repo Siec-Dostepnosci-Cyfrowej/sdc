@@ -1,10 +1,17 @@
 ---
 id: zalecenie-07-procedura-duze
 title: Procedura dla dużych podmiotów
+description: Procedura realizacji programu przeglądu załączników w podmiotach o rozbudowanej strukturze.
 sidebar_label: Duże podmioty
-sidebar_position: 1
+sidebar_position: 7
+keywords: [komunikacja, załączniki, dokumenty, dostępność cyfrowa]
+tags: [komunikacja, załączniki, dostępność cyfrowa]
+opracowanie: Bartłomiej Wilk
+wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
+data_zgloszenia: 16 kwietnia 2026 r.
+data_aktualizacji: 29 kwietnia 2026 r.
+wersja_robocza: true
 ---
-
 # Procedura dla dużych podmiotów
 
 Procedura określa sposób organizacji i realizacji procesu przeglądu, oceny oraz naprawy dokumentów w podmiotach o rozbudowanej strukturze organizacyjnej, w których odpowiedzialność za zasób dokumentów jest rozproszona pomiędzy komórki organizacyjne.
@@ -59,7 +66,7 @@ Koordynator zapewnia również przygotowanie jednolitych narzędzi wspierającyc
 - zestawu kryteriów oceny „niezbędności”;
 - wytycznych dotyczących sposobu wypełniania danych.
 
-Na etapie przygotowania oceny podstawowym narzędziem roboczym pozostaje [formularz oceny dokumentu](../zalaczniki/zalacznik-formularz-oceny-dokumentu.md).
+Na etapie przygotowania oceny podstawowym narzędziem roboczym pozostaje [formularz oceny dokumentu](./zalacznik-formularz-oceny-dokumentu.md).
 
 ## Inwentaryzacja dokumentów w obszarach merytorycznych
 
@@ -74,7 +81,7 @@ Inwentaryzacja prowadzona jest w obszarach merytorycznych i obejmuje:
 
 Wyniki inwentaryzacji są na bieżąco wprowadzane do jednolitego rejestru dokumentów, który stanowi centralne narzędzie zarządzania procesem. Rejestr powinien umożliwiać identyfikację dokumentu, odtworzenie przebiegu jego oceny oraz dalsze monitorowanie realizacji działań.
 
-Podstawowym narzędziem inwentaryzacji jest [rejestr dokumentów objętych przeglądem](../zalaczniki/zalacznik-rejestr-dokumentow.md), a przy ocenie „niezbędności” należy stosować [formularz oceny „niezbędności” dokumentu](../zalaczniki/zalacznik-ocena-niezbednosci.md).
+Podstawowym narzędziem inwentaryzacji jest [rejestr dokumentów objętych przeglądem](./zalacznik-rejestr-dokumentow.md), a przy ocenie „niezbędności” należy stosować [formularz oceny „niezbędności” dokumentu](./zalacznik-ocena-niezbednosci.md).
 
 ## Weryfikacja i zatwierdzenie decyzji
 
@@ -88,7 +95,7 @@ Na tym etapie weryfikuje się:
 
 W przypadku stwierdzenia nieprawidłowości, niejednoznaczności lub rozbieżności, dokument może zostać zwrócony do ponownej oceny, skorygowany albo objęty dodatkowymi wytycznymi. Zatwierdzenie decyzji stanowi warunek przejścia do realizacji działań.
 
-Przy wyborze sposobu dalszego postępowania należy korzystać z [przewodnika podejmowania decyzji dotyczących dokumentów](../zalaczniki/zalacznik-przewodnik-decyzyjny.md).
+Przy wyborze sposobu dalszego postępowania należy korzystać z [przewodnika podejmowania decyzji dotyczących dokumentów](./zalacznik-przewodnik-decyzyjny.md).
 
 ## Opracowanie i realizacja harmonogramu
 
@@ -108,7 +115,7 @@ Etap obejmuje wykonanie działań wynikających z zatwierdzonych decyzji, w szcz
 
 Dobór sposobu działania wynika bezpośrednio z zatwierdzonej decyzji i nie podlega ponownej interpretacji na etapie realizacji. Po wykonaniu działań komórka organizacyjna aktualizuje dane w rejestrze dokumentów, wskazuje zakres wykonanych czynności oraz odnotowuje datę zakończenia i osobę odpowiedzialną.
 
-Realizacja działań naprawczych powinna odbywać się zgodnie ze [standardem działań naprawczych dokumentów](../zalaczniki/zalacznik-standard-dzialan-naprawczych.md).
+Realizacja działań naprawczych powinna odbywać się zgodnie ze [standardem działań naprawczych dokumentów](./zalacznik-standard-dzialan-naprawczych.md).
 
 ## Zarządzanie zasobem dokumentów
 

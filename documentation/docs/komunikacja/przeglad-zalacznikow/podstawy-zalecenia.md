@@ -1,10 +1,17 @@
 ---
 id: zalecenie-07-podstawy
 title: Podstawy zalecenia
+description: Omówienie podstaw prawnych, zakresu stosowania i definicji operacyjnych programu przeglądu załączników.
 sidebar_label: Podstawy
-sidebar_position: 1
+sidebar_position: 3
+keywords: [komunikacja, załączniki, dokumenty, dostępność cyfrowa]
+tags: [komunikacja, załączniki, dostępność cyfrowa]
+opracowanie: Bartłomiej Wilk
+wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
+data_zgloszenia: 16 kwietnia 2026 r.
+data_aktualizacji: 29 kwietnia 2026 r.
+wersja_robocza: true
 ---
-
 # Podstawy zalecenia
 
 ## Cel zalecenia
