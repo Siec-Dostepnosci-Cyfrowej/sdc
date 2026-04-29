@@ -1,16 +1,8 @@
 ---
 id: zalecenie-07-model-dzialania
 title: Model działania
-description: Model działania określający zasady oceny, klasyfikacji, priorytetyzacji, inwentaryzacji oraz realizacji działań naprawczych wobec dokumentów pozostających w publicznym obiegu.
 sidebar_label: Model działania
-sidebar_position: 3
-keywords: [model działania, klasyfikacja dokumentów, priorytetyzacja, inwentaryzacja, harmonogram]
-tags: [model, proces, dokumenty, zarządzanie]
-opracowanie: Bartłomiej Wilk
-data: 19 kwietnia 2026
-data_zgloszenia: 19 kwietnia 2026 r.
-data_aktualizacji: 23 kwietnia 2026 r.
-wersja_robocza: true
+sidebar_position: 2
 ---
 
 # Model działania
@@ -19,7 +11,7 @@ wersja_robocza: true
 
 Podstawową zasadą modelu jest objęcie oceną każdego dokumentu opublikowanego przez podmiot, który znajduje się w publicznym obiegu informacyjnym. Oznacza to, że żaden dokument nie jest z góry uznawany za wyłączony z obowiązku analizy wyłącznie na podstawie daty jego publikacji, miejsca udostępnienia albo przyjętego wcześniej sposobu kwalifikacji.
 
-Data publikacji dokumentu nie stanowi samodzielnego i wystarczającego kryterium rozstrzygającego o dalszym postępowaniu. Sam fakt, że dokument został opublikowany przed dniem 23 września 2018 r., nie przesądza jeszcze o możliwości pozostawienia go poza zakresem działań dostosowawczych. Każdorazowo konieczne jest ustalenie, czy dokument nadal pozostaje związany z realizacją bieżących zadań podmiotu publicznego, czy jest wykorzystywany przez użytkowników oraz czy powinien pozostać w publicznym obiegu.
+Data publikacji dokumentu nie stanowi samodzielnego i wystarczającego kryterium rozstrzygającego o dalszym postępowaniu. Sam fakt, że dokument został opublikowany przed dniem 23 września 2018 r., nie przesądza jeszcze o możliwości pozostawienia go poza zakresem działań dostosowawczych. Każdorazowo niezbędne jest ustalenie, czy dokument nadal pozostaje związany z realizacją bieżących zadań podmiotu publicznego, czy jest wykorzystywany przez użytkowników oraz czy powinien pozostać w publicznym obiegu.
 
 Przyjęcie takiej zasady ma na celu wyeliminowanie automatyzmu decyzyjnego, w którym data publikacji zastępuje rzeczywistą ocenę znaczenia dokumentu. Model oparty wyłącznie na kryterium czasowym prowadziłby bowiem do nieuzasadnionego pozostawiania w obiegu dokumentów istotnych, lecz niedostępnych, albo przeciwnie - do kierowania działań naprawczych na dokumenty, które utraciły znaczenie i nie powinny już być publicznie wykorzystywane.
 
@@ -37,7 +29,7 @@ Identyfikacja zasobu dokumentów jest realizowana na podstawie rejestru zasobów
 
 Następnie należy ustalić zasady klasyfikacji dokumentów oraz ich priorytetyzacji, w tym przyjąć jednolite kategorie dokumentów oraz odpowiadające im poziomy priorytetu czasowego. Zasady te powinny być spójne w skali całego podmiotu i stanowić podstawę dalszych decyzji podejmowanych w procesie oceny.
 
-W ramach przygotowania procesu konieczne jest również określenie sposobu prowadzenia inwentaryzacji dokumentów, w tym poziomu szczegółowości zbieranych danych oraz sposobu ich gromadzenia i porządkowania. Przyjęte rozwiązania powinny umożliwiać powiązanie każdego dokumentu z dalszymi etapami procesu, w szczególności oceną, przypisaniem priorytetu oraz decyzją o dalszym postępowaniu. Rejestr dokumentów objętych przeglądem może stanowić narzędzie operacyjne programu albo podzbiór danych wyodrębniony z rejestru zasobów cyfrowych, pod warunkiem zachowania spójności identyfikatorów, statusów, decyzji i informacji o dalszym postępowaniu.
+W ramach przygotowania procesu niezbędne jest również określenie sposobu prowadzenia inwentaryzacji dokumentów, w tym poziomu szczegółowości zbieranych danych oraz sposobu ich gromadzenia i porządkowania. Przyjęte rozwiązania powinny umożliwiać powiązanie każdego dokumentu z dalszymi etapami procesu, w szczególności oceną, przypisaniem priorytetu oraz decyzją o dalszym postępowaniu. Rejestr dokumentów objętych przeglądem może stanowić narzędzie operacyjne programu albo podzbiór danych wyodrębniony z rejestru zasobów cyfrowych, pod warunkiem zachowania spójności identyfikatorów, statusów, decyzji i informacji o dalszym postępowaniu.
 
 Istotnym elementem przygotowania jest przypisanie odpowiedzialności za realizację procesu, obejmującej zarówno przeprowadzenie inwentaryzacji, jak i ocenę dokumentów, weryfikację i zatwierdzanie decyzji, realizację działań naprawczych, zarządzanie zasobem dokumentów oraz raportowanie i kontrolę procesu. Określenie jednoznacznej odpowiedzialności stanowi warunek spójności i skuteczności całego modelu.
 
@@ -106,7 +98,7 @@ Przypisanie dokumentu do określonej kategorii oraz nadanie mu priorytetu termin
 
 Kategoria dokumentu określa jego znaczenie funkcjonalne w działalności podmiotu, w szczególności jego rolę w realizacji zadań, funkcjonowaniu organizacyjnym oraz obsłudze użytkowników. Priorytet terminowy określa natomiast pilność podjęcia działań w odniesieniu do danego dokumentu, wynikającą z jego znaczenia oraz faktycznego wykorzystania.
 
-Łączne zastosowanie kategorii i priorytetu umożliwia określenie właściwego sposobu postępowania z dokumentem, w tym decyzji o jego dostosowaniu, pozostawieniu w obiegu jako dokumentu archiwalnego lub usunięciu. Dokumenty o wysokim znaczeniu funkcjonalnym powinny być kwalifikowane do wyższych priorytetów terminowych, co skutkuje koniecznością ich niezwłocznego dostosowania.
+Łączne zastosowanie kategorii i priorytetu umożliwia określenie właściwego sposobu postępowania z dokumentem, w tym decyzji o jego dostosowaniu, pozostawieniu w obiegu jako dokumentu archiwalnego lub usunięciu. Dokumenty o wysokim znaczeniu funkcjonalnym powinny być kwalifikowane do wyższych priorytetów terminowych, co skutkuje niezbędnością ich niezwłocznego dostosowania.
 
 Przypisanie kategorii i priorytetu powinno być każdorazowo uzasadnione oraz udokumentowane, a przyjęte rozstrzygnięcia powinny być stosowane w sposób spójny w skali całego podmiotu.
 
@@ -114,7 +106,7 @@ Przypisanie kategorii i priorytetu powinno być każdorazowo uzasadnione oraz ud
 
 Inwentaryzacja dokumentów stanowi uporządkowany, wieloetapowy proces obejmujący identyfikację pełnego zasobu dokumentów pozostających w publicznym obiegu, ich opisanie, ocenę oraz przypisanie informacji niezbędnych do podjęcia decyzji o dalszym postępowaniu. Celem inwentaryzacji jest uzyskanie kompletnej, spójnej i aktualnej wiedzy o zasobie dokumentów oraz przygotowanie danych do dalszych etapów procesu.
 
-Proces inwentaryzacji powinien być prowadzony w sposób systematyczny, z wykorzystaniem jednolitego narzędzia ewidencyjnego, oraz obejmować wszystkie miejsca publikacji dokumentów. Punktem wyjścia dla identyfikacji dokumentów powinien być rejestr zasobów cyfrowych, a rejestr dokumentów objętych przeglądem powinien uszczegóławiać dane potrzebne do oceny niezbędności, klasyfikacji, priorytetyzacji i podjęcia decyzji wobec dokumentów.
+Proces inwentaryzacji powinien być prowadzony w sposób systematyczny, z wykorzystaniem jednolitego narzędzia ewidencyjnego, oraz obejmować wszystkie miejsca publikacji dokumentów. Punktem wyjścia dla identyfikacji dokumentów powinien być rejestr zasobów cyfrowych, a rejestr dokumentów objętych przeglądem powinien uszczegóławiać dane niezbędne do oceny niezbędności, klasyfikacji, priorytetyzacji i podjęcia decyzji wobec dokumentów.
 
 Proces inwentaryzacji obejmuje następujące etapy:
 
@@ -206,7 +198,7 @@ Raportowanie powinno mieć charakter cykliczny oraz być powiązane z harmonogra
 
 ## Kontrola i doskonalenie procesu
 
-Kontrola i doskonalenie procesu służą weryfikacji poprawności podejmowanych decyzji, jakości wykonanych działań oraz identyfikacji potrzebnych usprawnień organizacyjnych i technicznych.
+Kontrola i doskonalenie procesu służą weryfikacji poprawności podejmowanych decyzji, jakości wykonanych działań oraz identyfikacji niezbędnych usprawnień organizacyjnych i technicznych.
 
 W ramach kontroli należy w szczególności:
 

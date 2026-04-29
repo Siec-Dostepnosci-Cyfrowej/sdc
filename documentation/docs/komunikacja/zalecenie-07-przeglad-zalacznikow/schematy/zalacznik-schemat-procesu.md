@@ -1,23 +1,15 @@
 ---
 id: zalecenie-07-zalacznik-schemat
 title: Załącznik nr 8. Schemat procesu / mapa decyzyjna
-description: Uproszczony schemat procesu postępowania z dokumentami objętymi przeglądem przedstawiający logikę decyzyjną zalecenia.
 sidebar_label: Schemat procesu
-sidebar_position: 16
-keywords: [schemat procesu, mapa decyzyjna, ocena niezbędności, archiwizacja, usunięcie]
-tags: [załącznik, schemat, decyzje, proces]
-opracowanie: Bartłomiej Wilk
-data: 19 kwietnia 2026
-data_zgloszenia: 19 kwietnia 2026 r.
-data_aktualizacji: 19 kwietnia 2026 r.
-wersja_robocza: true
+sidebar_position: 1
 ---
 
 # Załącznik nr 8. Schemat procesu / mapa decyzyjna
 
 ## Cel załącznika
 
-Załącznik określa uproszczony schemat procesu postępowania z dokumentami objętymi przeglądem. Jego celem jest przedstawienie w sposób syntetyczny i jednoznaczny logiki decyzyjnej wynikającej z zalecenia oraz umożliwienie szybkiego podejmowania decyzji bez konieczności każdorazowej analizy pełnej treści dokumentu.
+Załącznik określa uproszczony schemat procesu postępowania z dokumentami objętymi przeglądem. Jego celem jest przedstawienie w sposób syntetyczny i jednoznaczny logiki decyzyjnej wynikającej z zalecenia oraz umożliwienie szybkiego podejmowania decyzji bez niezbędności każdorazowej analizy pełnej treści dokumentu.
 
 Załącznik ma charakter operacyjny i stanowi narzędzie wspierające stosowanie:
 
@@ -82,7 +74,7 @@ Po określeniu kierunku działania należy zweryfikować decyzję w odniesieniu 
 
 - Kategorie 1–3: co do zasady brak możliwości usunięcia, wymagane utrzymanie i dostosowanie;
 - Kategoria 4: obowiązek zapewnienia pełnej dostępności, najwyższy priorytet;
-- Kategorie 5–6: konieczność uwzględnienia obowiązków prawnych i publikacyjnych;
+- Kategorie 5–6: niezbędność uwzględnienia obowiązków prawnych i publikacyjnych;
 - Kategoria 7: dopuszczalna archiwizacja lub usunięcie w zależności od znaczenia.
 
 Decyzja sprzeczna z funkcją kategorii wymaga dodatkowej weryfikacji.

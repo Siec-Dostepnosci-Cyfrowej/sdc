@@ -1,16 +1,8 @@
 ---
 id: zalecenie-07-zalacznik-decyzje
 title: Załącznik nr 4. Przewodnik podejmowania decyzji dotyczących dokumentów
-description: Krokowy przewodnik podejmowania decyzji o dostosowaniu, odtworzeniu, przygotowaniu nowej wersji, archiwizacji lub usunięciu dokumentu.
 sidebar_label: Decyzje
-sidebar_position: 12
-keywords: [przewodnik decyzyjny, dostosowanie, odtworzenie, archiwizacja, usunięcie]
-tags: [załącznik, decyzje, przewodnik, dokumenty]
-opracowanie: Bartłomiej Wilk
-data: 19 kwietnia 2026
-data_zgloszenia: 19 kwietnia 2026 r.
-data_aktualizacji: 19 kwietnia 2026 r.
-wersja_robocza: true
+sidebar_position: 4
 ---
 
 # Załącznik nr 4. Przewodnik podejmowania decyzji dotyczących dokumentów

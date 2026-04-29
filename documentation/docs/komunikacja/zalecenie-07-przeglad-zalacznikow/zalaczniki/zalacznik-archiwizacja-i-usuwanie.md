@@ -1,16 +1,8 @@
 ---
 id: zalecenie-07-zalacznik-archiwizacja
 title: Załącznik nr 5. Zasady archiwizacji i usuwania dokumentów
-description: Zasady archiwizacji i usuwania dokumentów określające warunki pozostawienia dokumentów jako archiwalnych oraz warunki ich usunięcia z obiegu.
 sidebar_label: Archiwizacja
-sidebar_position: 13
-keywords: [archiwizacja, usuwanie dokumentów, brakowanie, obowiązek przechowywania, dokument archiwalny]
-tags: [załącznik, archiwizacja, usuwanie, dokumenty]
-opracowanie: Bartłomiej Wilk
-data: 19 kwietnia 2026
-data_zgloszenia: 19 kwietnia 2026 r.
-data_aktualizacji: 19 kwietnia 2026 r.
-wersja_robocza: true
+sidebar_position: 5
 ---
 
 # Załącznik nr 5. Zasady archiwizacji i usuwania dokumentów

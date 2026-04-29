@@ -1,16 +1,8 @@
 ---
 id: zalecenie-07-zalacznik-niezbednosc
 title: Załącznik nr 3. Formularz oceny „niezbędności” dokumentu
-description: Formularz oceny niezbędności dokumentu służący do ustalenia związku dokumentu z bieżącymi zadaniami podmiotu oraz potrzebami użytkownika.
 sidebar_label: Niezbędność
-sidebar_position: 11
-keywords: [ocena niezbędności, formularz, bieżące zadania, użytkownik, reguły decyzyjne]
-tags: [załącznik, niezbędność, formularz, ocena]
-opracowanie: Bartłomiej Wilk
-data: 19 kwietnia 2026
-data_zgloszenia: 19 kwietnia 2026 r.
-data_aktualizacji: 19 kwietnia 2026 r.
-wersja_robocza: true
+sidebar_position: 3
 ---
 
 # Załącznik nr 3. Formularz oceny „niezbędności” dokumentu

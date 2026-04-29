@@ -1,23 +1,15 @@
 ---
 id: zalecenie-07-zalacznik-rejestr
 title: Załącznik nr 2. Rejestr dokumentów objętych przeglądem
-description: Rejestr dokumentów objętych przeglądem stanowiący centralne narzędzie ewidencyjne i zarządcze procesu.
 sidebar_label: Rejestr
-sidebar_position: 10
-keywords: [rejestr dokumentów, ewidencja, status realizacji, termin realizacji, zarządzanie procesem]
-tags: [załącznik, rejestr, ewidencja, zarządzanie]
-opracowanie: Bartłomiej Wilk
-data: 19 kwietnia 2026
-data_zgloszenia: 19 kwietnia 2026 r.
-data_aktualizacji: 23 kwietnia 2026 r.
-wersja_robocza: true
+sidebar_position: 2
 ---
 
 # Załącznik nr 2. Rejestr dokumentów objętych przeglądem
 
 Rejestr dokumentów objętych przeglądem stanowi operacyjne narzędzie ewidencyjne i zarządcze programu przeglądu i zarządzania dokumentami. Może być prowadzony jako podzbiór rejestru zasobów cyfrowych albo jako odrębne narzędzie robocze powiązane z tym rejestrem.
 
-Rejestrem nadrzędnym dla zasobów cyfrowych podmiotu pozostaje rejestr zasobów cyfrowych prowadzony w Wymiarze: Cykl życia TIK. Rejestr dokumentów objętych przeglądem uszczegóławia dane potrzebne do oceny niezbędności, klasyfikacji, priorytetyzacji, decyzji i realizacji działań wobec dokumentów cyfrowych udostępnianych publicznie.
+Rejestrem nadrzędnym dla zasobów cyfrowych podmiotu pozostaje rejestr zasobów cyfrowych prowadzony w Wymiarze: Cykl życia TIK. Rejestr dokumentów objętych przeglądem uszczegóławia dane niezbędne do oceny niezbędności, klasyfikacji, priorytetyzacji, decyzji i realizacji działań wobec dokumentów cyfrowych udostępnianych publicznie.
 
 Rejestr prowadzony jest w formie tabelarycznej, na przykład jako arkusz kalkulacyjny albo system, w sposób umożliwiający filtrowanie, sortowanie oraz bieżącą aktualizację danych.
 
@@ -97,7 +89,7 @@ Pole na informacje dodatkowe, w szczególności:
 - ograniczenia prawne;
 - brak możliwości ingerencji;
 - problemy techniczne;
-- konieczność dodatkowych działań.
+- niezbędność dodatkowych działań.
 
 ## Wymagania dotyczące prowadzenia rejestru
 
@@ -130,7 +122,7 @@ W celu zwiększenia czytelności oraz ułatwienia zarządzania procesem zaleca s
 - oznaczanie statusu realizacji;
 - wskazywanie dokumentów, dla których upłynął termin realizacji lub zbliża się jego upływ.
 
-Formatowanie powinno mieć charakter informacyjny i umożliwiać szybkie rozpoznanie sytuacji wymagających interwencji, bez konieczności szczegółowej analizy danych.
+Formatowanie powinno mieć charakter informacyjny i umożliwiać szybkie rozpoznanie sytuacji wymagających interwencji, bez niezbędności szczegółowej analizy danych.
 
 Rejestr powinien umożliwiać:
 

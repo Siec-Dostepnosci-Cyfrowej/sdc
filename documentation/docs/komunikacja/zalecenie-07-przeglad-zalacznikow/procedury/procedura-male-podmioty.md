@@ -1,16 +1,8 @@
 ---
 id: zalecenie-07-procedura-male
 title: Procedura dla małych podmiotów
-description: Uproszczona procedura realizacji programu przeglądu i naprawy dokumentów w małych podmiotach z zachowaniem tej samej logiki oceny i decyzji.
 sidebar_label: Małe podmioty
-sidebar_position: 6
-keywords: [małe podmioty, procedura uproszczona, odpowiedzialność, rejestr dokumentów, finalizacja procesu]
-tags: [procedura, małe podmioty, uproszczenie, dokumenty]
-opracowanie: Bartłomiej Wilk
-data: 19 kwietnia 2026
-data_zgloszenia: 19 kwietnia 2026 r.
-data_aktualizacji: 19 kwietnia 2026 r.
-wersja_robocza: true
+sidebar_position: 2
 ---
 
 # Procedura dla małych podmiotów

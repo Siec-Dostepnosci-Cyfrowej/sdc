@@ -1,16 +1,8 @@
 ---
 id: zalecenie-07-zalacznik-standard
 title: Załącznik nr 7. Standard działań naprawczych dokumentów
-description: Techniczny standard realizacji działań naprawczych dokumentów oparty na cyklu PDCA oraz zasadzie integralności dokumentu.
 sidebar_label: Standard naprawczy
-sidebar_position: 15
-keywords: [standard działań naprawczych, PDCA, integralność dokumentu, kontrola jakości, wymagania techniczne]
-tags: [załącznik, standard, naprawa, PDCA]
-opracowanie: Bartłomiej Wilk
-data: 19 kwietnia 2026
-data_zgloszenia: 19 kwietnia 2026 r.
-data_aktualizacji: 19 kwietnia 2026 r.
-wersja_robocza: true
+sidebar_position: 7
 ---
 
 # Załącznik nr 7. Standard działań naprawczych dokumentów

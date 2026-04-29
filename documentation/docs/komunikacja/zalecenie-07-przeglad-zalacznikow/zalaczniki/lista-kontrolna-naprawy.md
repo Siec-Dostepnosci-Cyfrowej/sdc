@@ -1,16 +1,8 @@
 ---
 id: zalecenie-07-lista-kontrolna
 title: Lista kontrolna działań naprawczych dokumentów
-description: Zero-jedynkowa lista kontrolna służąca do zamknięcia działania naprawczego wobec dokumentu po weryfikacji zgodności, jakości i odnotowania wyniku.
 sidebar_label: Kontrola naprawy
 sidebar_position: 8
-keywords: [lista kontrolna, zamknięcie działania naprawczego, kontrola jakości, integralność dokumentu, odnotowanie w rejestrze]
-tags: [lista kontrolna, naprawa, kontrola, dokumenty]
-opracowanie: Bartłomiej Wilk
-data: 19 kwietnia 2026
-data_zgloszenia: 19 kwietnia 2026 r.
-data_aktualizacji: 19 kwietnia 2026 r.
-wersja_robocza: true
 ---
 
 # Lista kontrolna działań naprawczych dokumentów

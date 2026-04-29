@@ -1,16 +1,8 @@
 ---
 id: zalecenie-07-mapa-odpowiedzialnosci
 title: Mapa odpowiedzialności
-description: Operacyjny opis ról, zakresów odpowiedzialności i przepływu decyzji w procesie przeglądu, oceny, naprawy, archiwizacji i kontroli dokumentów.
 sidebar_label: Mapa odpowiedzialności
-sidebar_position: 4
-keywords: [odpowiedzialność, role procesowe, koordynator procesu, weryfikacja decyzji, kontrola dokumentów]
-tags: [odpowiedzialność, role, proces, nadzór]
-opracowanie: Bartłomiej Wilk
-data: 19 kwietnia 2026
-data_zgloszenia: 19 kwietnia 2026 r.
-data_aktualizacji: 19 kwietnia 2026 r.
-wersja_robocza: true
+sidebar_position: 3
 ---
 
 # Mapa odpowiedzialności
@@ -150,7 +142,7 @@ Model uproszczony nie znosi jednak potrzeby rozróżnienia między:
 - zatwierdzeniem decyzji;
 - kontrolą poprawności wykonania.
 
-Dlatego decyzje o charakterze rozstrzygającym oraz działania kontrolne pozostają na poziomie kierowniczym. Jeżeli te same osoby uczestniczą w większej liczbie etapów, konieczne jest szczególne dbanie o czytelne udokumentowanie podstaw decyzji i przebiegu realizacji.
+Dlatego decyzje o charakterze rozstrzygającym oraz działania kontrolne pozostają na poziomie kierowniczym. Jeżeli te same osoby uczestniczą w większej liczbie etapów, niezbędne jest szczególne dbanie o czytelne udokumentowanie podstaw decyzji i przebiegu realizacji.
 
 ## Przepływ odpowiedzialności według etapów procesu
 

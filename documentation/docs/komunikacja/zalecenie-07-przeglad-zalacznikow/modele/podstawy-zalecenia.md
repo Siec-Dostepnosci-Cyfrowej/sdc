@@ -1,16 +1,8 @@
 ---
 id: zalecenie-07-podstawy
 title: Podstawy zalecenia
-description: Podstawy prawne, definicja operacyjna, zakres stosowania oraz problemy regulacyjne uzasadniające wdrożenie programu przeglądu i naprawy załączników.
 sidebar_label: Podstawy
-sidebar_position: 2
-keywords: [podstawa prawna, definicja niezbędności, zakres stosowania, problemy regulacyjne, dostępność cyfrowa]
-tags: [podstawy, prawo, interpretacja, dokumenty]
-opracowanie: Bartłomiej Wilk
-data: 19 kwietnia 2026
-data_zgloszenia: 19 kwietnia 2026 r.
-data_aktualizacji: 19 kwietnia 2026 r.
-wersja_robocza: true
+sidebar_position: 1
 ---
 
 # Podstawy zalecenia
@@ -32,13 +24,13 @@ Podstawą niniejszego zalecenia jest art. 3 ust. 1 pkt 3 ustawy z dnia 4 kwietni
 
 Zgodnie z tym przepisem, wymogów dostępności cyfrowej nie stosuje się do dokumentów tekstowych i tekstowo-graficznych, dokumentów utworzonych w programach przeznaczonych do tworzenia prezentacji oraz arkuszy kalkulacyjnych, opublikowanych przed dniem 23 września 2018 r., chyba że ich zawartość jest niezbędna do realizacji bieżących zadań podmiotu publicznego.
 
-Zalecenie obejmuje jednak cały zasób dokumentów pozostających w publicznym obiegu informacyjnym podmiotu, ponieważ dla zapewnienia spójnego i wykonalnego modelu działania konieczne jest objęcie oceną oraz uporządkowaniem wszystkich dokumentów publicznie udostępnianych, a nie wyłącznie dokumentów objętych ustawowym wyłączeniem.
+Zalecenie obejmuje jednak cały zasób dokumentów pozostających w publicznym obiegu informacyjnym podmiotu, ponieważ dla zapewnienia spójnego i wykonalnego modelu działania niezbędne jest objęcie oceną oraz uporządkowaniem wszystkich dokumentów publicznie udostępnianych, a nie wyłącznie dokumentów objętych ustawowym wyłączeniem.
 
 ## Definicja operacyjna
 
 W związku z brakiem ustawowej definicji pojęcia „niezbędna do realizacji bieżących zadań podmiotu publicznego”, o którym mowa w art. 3 ust. 1 pkt 3 ustawy o dostępności cyfrowej, przyjmuje się następującą interpretację tego pojęcia na potrzeby jego stosowania w praktyce działania podmiotu.
 
-Niezbędność dokumentu należy rozumieć jako jego konieczność w realizacji bieżących zadań podmiotu publicznego, rozumianą jako brak możliwości prawidłowego wykonania tych zadań, zapewnienia funkcjonowania podmiotu lub umożliwienia użytkownikowi realizacji jego uprawnień lub obowiązków bez dostępu do tego dokumentu.
+Niezbędność dokumentu należy rozumieć jako jego niezbędność w realizacji bieżących zadań podmiotu publicznego, rozumianą jako brak możliwości prawidłowego wykonania tych zadań, zapewnienia funkcjonowania podmiotu lub umożliwienia użytkownikowi realizacji jego uprawnień lub obowiązków bez dostępu do tego dokumentu.
 
 Przez bieżące zadania podmiotu publicznego rozumie się zadania realizowane w oparciu o obowiązujące przepisy prawa, obejmujące zarówno wykonywanie zadań publicznych, jak i zapewnienie ciągłości funkcjonowania podmiotu, w tym w szczególności zadania wynikające z ustaw i aktów wykonawczych, prowadzenie procedur administracyjnych, obsługę spraw obywateli oraz działania o charakterze organizacyjnym, zarządczym i usługowym.
 
@@ -69,7 +61,7 @@ Postanowienia zalecenia mają charakter przekrojowy i znajdują zastosowanie do 
 
 Analiza sposobu stosowania art. 3 ust. 1 pkt 3 ustawy o dostępności cyfrowej w praktyce funkcjonowania podmiotów publicznych wskazuje na występowanie istotnych problemów regulacyjnych i organizacyjnych, które uniemożliwiają jednolite i zgodne z przepisami postępowanie w odniesieniu do dokumentów pozostających w publicznym obiegu.
 
-Do najważniejszych problemów należą:
+Do głównych problemów należą:
 
 - brak ustawowej definicji pojęcia „niezbędności” dokumentu w kontekście realizacji bieżących zadań podmiotu publicznego;
 - brak systemowego podejścia do przeglądu i oceny dokumentów pozostających w publicznym obiegu, w tym dokumentów opublikowanych po 23 września 2018 r.;
@@ -79,4 +71,4 @@ Do najważniejszych problemów należą:
 - nadmiar opublikowanych dokumentów oraz brak mechanizmów ich systemowej eliminacji lub przenoszenia do archiwum;
 - brak powiązania działań dostosowawczych z rzeczywistym wykorzystaniem dokumentów przez użytkowników.
 
-Wskazane problemy uzasadniają konieczność wprowadzenia jednolitego modelu postępowania, który zapewni spójność decyzji, ograniczy uznaniowość oraz umożliwi systemowe zarządzanie dokumentami już opublikowanymi, zgodnie z wymaganiami ustawy o dostępności cyfrowej.
+Wskazane problemy uzasadniają niezbędność wprowadzenia jednolitego modelu postępowania, który zapewni spójność decyzji, ograniczy uznaniowość oraz umożliwi systemowe zarządzanie dokumentami już opublikowanymi, zgodnie z wymaganiami ustawy o dostępności cyfrowej.

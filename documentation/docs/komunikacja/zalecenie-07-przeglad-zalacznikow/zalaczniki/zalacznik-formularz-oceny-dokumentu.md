@@ -1,16 +1,8 @@
 ---
 id: zalecenie-07-zalacznik-formularz
 title: Załącznik nr 1. Formularz oceny dokumentu
-description: Formularz oceny dokumentu służący do identyfikacji, oceny niezbędności, klasyfikacji, nadania priorytetu i udokumentowania decyzji o dalszym postępowaniu.
 sidebar_label: Formularz
-sidebar_position: 9
-keywords: [formularz oceny dokumentu, identyfikacja dokumentu, ocena niezbędności, priorytet, decyzja]
-tags: [załącznik, formularz, ocena, dokumenty]
-opracowanie: Bartłomiej Wilk
-data: 19 kwietnia 2026
-data_zgloszenia: 19 kwietnia 2026 r.
-data_aktualizacji: 19 kwietnia 2026 r.
-wersja_robocza: true
+sidebar_position: 1
 ---
 
 # Załącznik nr 1. Formularz oceny dokumentu

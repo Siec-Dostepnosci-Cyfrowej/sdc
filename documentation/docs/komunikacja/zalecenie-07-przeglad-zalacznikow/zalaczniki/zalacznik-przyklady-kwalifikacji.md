@@ -1,16 +1,8 @@
 ---
 id: zalecenie-07-zalacznik-przyklady
 title: Załącznik nr 6. Przykłady kwalifikacji dokumentów
-description: Modelowe przykłady kwalifikacji dokumentów pokazujące ocenę niezbędności, przypisanie kategorii, nadanie priorytetu i wybór dalszego postępowania.
 sidebar_label: Przykłady
-sidebar_position: 14
-keywords: [przykłady kwalifikacji, kategorie dokumentów, priorytety, decyzje, niezbędność]
-tags: [załącznik, przykłady, kwalifikacja, dokumenty]
-opracowanie: Bartłomiej Wilk
-data: 19 kwietnia 2026
-data_zgloszenia: 19 kwietnia 2026 r.
-data_aktualizacji: 19 kwietnia 2026 r.
-wersja_robocza: true
+sidebar_position: 6
 ---
 
 # Załącznik nr 6. Przykłady kwalifikacji dokumentów
@@ -40,7 +32,7 @@ Załącznik zawiera modelowe przykłady kwalifikacji dokumentów, opracowane w o
 - Przykład 4: dokument wynika z obowiązku ustawowego i ma znaczenie dla użytkowników.
 - Przykład 5: dokument nie jest wykorzystywany operacyjnie, ale może podlegać obowiązkowi przechowywania.
 - Przykład 6: dokument utracił aktualność i nie posiada wartości archiwalnej.
-- Przykład 7: dokument jest wymagany, ale nie może być modyfikowany, konieczne jest zapewnienie jego dostępnej formy.
+- Przykład 7: dokument jest wymagany, ale nie może być modyfikowany, niezbędne jest zapewnienie jego dostępnej formy.
 - Przykład 8: dokument został zastąpiony i nie powinien być używany przez użytkowników.
 - Przykład 9: dokument nie jest obowiązkowy, ale poprawia dostępność usługi.
 - Przykład 10: dokument ma charakter normatywny i musi być dostępny.
