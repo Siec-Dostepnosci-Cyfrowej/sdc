@@ -27,7 +27,11 @@ Organizacja zapewnia ciągłą zdolność realizacji procesu naprawczego poprzez
 ## Rekomendacje
 
 ### 1. Uruchamianie procesu naprawczego
+**10. Nadzór kierownictwa**
 
+Kierownictwo organizacji zapewnia nadzór nad funkcjonowaniem systemu zarządzania problemami dostępności poprzez:
+- okresowe przeglądy danych o problemach i czasie ich naprawy,  
+- podejmowanie decyzji dotyczących działań usprawniających.
 Każdy problem dostępności:
 
 - wykryta w wyniku monitoringu automatycznego, testów manualnych lub audytu,
@@ -91,8 +95,8 @@ Weryfikacja jest proporcjonalna do zakresu zmiany, jednak obowiązkowa w przypad
 W relacjach z wykonawcami zewnętrznymi stosuje się pragmatyczne podejście do odbiorów:
 
 - **Minimalny wymóg odbiorowy:** wykonawca dostarcza raport (próbkę) z testów automatycznych przeprowadzonych ogólnodostępnymi narzędziami. Potwierdza on brak podstawowych błędów w dostarczonym kodzie.
-- **Odpowiedzialność:** wykonawca jest zobowiązany do usunięcia niezgodności wykrytych w okresie gwarancji, o ile wynikają one z błędów w kodzie źródłowym lub architekturze informacji dostarczonej przez Wykonawcę. Odpowiedzialność ta nie obejmuje niedostępności wynikającej z publikowania przez Zamawiającego treści nietekstowych (np. dokumentów biurowych, multimediów) bez zapewnienia ich dostępności przez redaktorów.
-- **Nadzór nad terminowością:** Zamiast sztywnych kar za każdy błąd, stosuje się mechanizm eskalacji w przypadku braku reakcji wykonawcy na zgłoszenia błędów krytycznych w ustalonym czasie.
+- **Odpowiedzialność:** wykonawca jest zobowiązany do usunięcia niezgodności wykrytych w okresie gwarancji, o ile wynikają one z błędów w kodzie źródłowym lub architekturze informacji dostarczonej przez Wykonawcę. Odpowiedzialność ta nie obejmuje niedostępności wynikającej z publikowania przez Zamawiającego treści (np. dokumentów biurowych, multimediów) bez zapewnienia ich dostępności przez redaktorów.
+- **Nadzór nad terminowością:** Zamiast sztywnych kar za każdy błąd, stosuje się mechanizm zaostrzenia lub podjęcia dalszych kroków w przypadku braku reakcji wykonawcy na zgłoszenia błędów krytycznych w ustalonym czasie.
 
 Wymagania dostępności oraz obowiązek usuwania błędów są elementem umowy, a nie wyłącznie opisu przedmiotu zamówienia.
 
@@ -137,8 +141,8 @@ Dostępność cyfrowa jest procesem ciągłym, zależnym od zmian w systemach in
 
 Brak dostępności kluczowych funkcji (np. formularzy, logowania, procesów wnioskowych) lub treści (np. niedostępne dokumenty PDF) może uniemożliwiać korzystanie z usług publicznych, co oznacza zarówno ryzyko naruszenia prawa, jak i realne wykluczenie części użytkowników.
 
-Niniejsze zalecenie wprowadza mechanizm, w którym każde wykrycie lub zgłoszenie problemu stanowi jednoznaczny impuls do działania – uruchamiając proces naprawczy realizowany w ramach standardowych procesów wytwarzania i utrzymania systemów. Dzięki temu dostępność przestaje być wyłącznie przedmiotem diagnozy, a staje się elementem bieżącego zarządzania jakością usług cyfrowych.
-
+To zalecenie wprowadza mechanizm, w którym każde wykrycie lub zgłoszenie problemu stanowi jednoznaczny impuls do działania – uruchamiając proces naprawczy realizowany w ramach standardowych procesów wytwarzania i utrzymania systemów. Dzięki temu dostępność przestaje być wyłącznie przedmiotem diagnozy, a staje się elementem bieżącego zarządzania jakością usług cyfrowych.
+- PN-EN 301 549 Wymagania dotyczące dostępności produktów i usług ICT 
 ## Podstawy prawne
 
 - [Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000848) (Dz.U. 2019 poz. 848 z późn. zm.).
@@ -146,8 +150,6 @@ Niniejsze zalecenie wprowadza mechanizm, w którym każde wykrycie lub zgłoszen
 
 ## Źródła
 
-- Ustawa o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych wraz z aktami wykonawczymi.
-- Ustawa o zapewnianiu dostępności osobom ze szczególnymi potrzebami.
 - [W3C Accessibility Guidelines Evaluation Methodology (WCAG-EM) 2.0](https://www.w3.org/TR/wcag-em-2/)
 
 ## Załączniki
