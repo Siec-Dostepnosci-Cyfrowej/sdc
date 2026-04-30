@@ -1,7 +1,7 @@
 ---
 id: procedura-kontroli-dostepnosci-przed-publikacja
-title: Procedura kontroli dostępności przed publikacją treści
-description: Zalecenie określające obowiązkowy punkt kontroli dostępności przed publikacją treści cyfrowych oraz sposób dokumentowania wyniku kontroli.
+title: Zalecenie 4 – Procedura kontroli dostępności przed publikacją
+description: Procedura kontroli dostępności przed publikacją treści cyfrowych
 sidebar_label: Zalecenie 4
 sidebar_position: 0
 keywords: [dostępność cyfrowa, kontrola dostępności, publikacja, komunikacja, listy kontrolne]
@@ -19,7 +19,7 @@ Podmiot publiczny ustanawia obowiązkowy punkt kontroli dostępności przed publ
 
 Wynik kontroli ma charakter decyzyjny. Treść może zostać opublikowana, jeżeli kontrola potwierdza spełnienie wymagań dostępności właściwych dla danego rodzaju materiału albo jeżeli zastosowano i udokumentowano procedurę postępowania w sytuacji wyjątkowej.
 
-Kontrola przed publikacją wykorzystuje standardy i listy kontrolne określone w [Zaleceniu 5 - Standard dostępności multimediów i komunikacji masowej](./komunikacja-masowa-zalecenie.md). Niniejsze zalecenie określa procedurę kontroli i decyzję publikacyjną. Zalecenie 5 określa standardy, wymagania oraz listy kontrolne. [Zalecenie 7 - Program przeglądu i naprawy załączników opublikowanych po 23 września 2018 r.](../wymiar-komunikacja/uaktualniona-lista-tematow.md) określa przegląd i naprawę zasobów już opublikowanych.
+Kontrola przed publikacją wykorzystuje standardy i listy kontrolne określone w [Zaleceniu 5 - Standard dostępności multimediów i komunikacji masowej](../komunikacja-masowa/komunikacja-masowa-zalecenie.md). Niniejsze zalecenie określa procedurę kontroli i decyzję publikacyjną. Zalecenie 5 określa standardy, wymagania oraz listy kontrolne. [Zalecenie 7 - Program przeglądu i naprawy załączników opublikowanych po 23 września 2018 r.](../wymiar-komunikacja/uaktualniona-lista-tematow.md) określa przegląd i naprawę zasobów już opublikowanych.
 
 ## Rekomendacje
 
@@ -66,7 +66,7 @@ Dokumentacja może być prowadzona w systemie obiegu treści, arkuszu kontrolnym
 
 Pozytywny wynik kontroli oznacza dopuszczenie materiału do publikacji w zakresie objętym sprawdzeniem.
 
-Negatywny wynik kontroli oznacza konieczność poprawy materiału przed publikacją. Materiał z niespełnionym wymaganiem obowiązkowym nie jest publikowany, chyba że zachodzą przesłanki zastosowania [procedury postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md).
+Negatywny wynik kontroli oznacza konieczność poprawy materiału przed publikacją. Materiał z niespełnionym wymaganiem obowiązkowym nie jest publikowany, chyba że zachodzą przesłanki zastosowania [procedury postępowania w sytuacjach wyjątkowych](../komunikacja-masowa/procedura-sytuacji-wyjatkowych.md).
 
 Publikacja warunkowa wymaga wskazania przyczyny odstępstwa, osoby podejmującej decyzję, terminu uzupełnienia braków oraz sposobu zapewnienia odbiorcom dostępu do informacji do czasu usunięcia braku.
 
