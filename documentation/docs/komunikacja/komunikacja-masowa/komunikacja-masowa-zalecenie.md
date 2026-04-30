@@ -17,10 +17,6 @@ wersja_robocza: true
 
 Podmiot publiczny stosuje spójne wymagania dostępności, standardy tworzenia oraz listy kontrolne dla materiałów multimedialnych i treści komunikacji masowej publikowanych w kanałach cyfrowych.
 
-Weryfikacja spełnienia wymagań dostępności przed publikacją odbywa się zgodnie z procedurą określoną w [Zaleceniu 4 - Procedura kontroli dostępności przed publikacją treści](./procedura-kontroli-dostepnosci-przed-publikacja.md). Listy kontrolne z niniejszego zalecenia są narzędziem wykorzystywanym w tej procedurze.
-
-Niniejsze zalecenie określa standardy, wymagania oraz listy kontrolne. Nie określa decyzji publikacyjnej, sposobu dokumentowania kontroli ani trybu postępowania z błędami po publikacji.
-
 ## Rekomendacje
 
 ### 1. Ustanowienie wymagań dostępności
@@ -142,6 +138,11 @@ Rozdzielenie standardów od procedury kontroli zapobiega dublowaniu treści. Zal
 - W3C WAI, Making Audio and Video Media Accessible.
 - EN 301 549 Accessibility requirements for ICT products and services.
 - WebAIM, Accessibility Principles and Techniques.
+
+## Weryfikacja 
+Weryfikacja spełnienia wymagań dostępności przed publikacją odbywa się zgodnie z procedurą określoną w [Zaleceniu 4 - Procedura kontroli dostępności przed publikacją treści](./procedura-kontroli-dostepnosci-przed-publikacja.md). Listy kontrolne z niniejszego zalecenia są narzędziem wykorzystywanym w tej procedurze.
+
+Niniejsze zalecenie określa standardy, wymagania oraz listy kontrolne. Nie określa decyzji publikacyjnej, sposobu dokumentowania kontroli ani trybu postępowania z błędami po publikacji.
 
 ## Historia wersji
 
