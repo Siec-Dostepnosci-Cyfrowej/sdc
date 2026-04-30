@@ -1,7 +1,7 @@
 ---
 id: model-operacyjny-publikacji-dostepnych-multimediow
-title: Model operacyjny publikacji dostępnych multimediów
-description: Model operacyjny opisujący proces przygotowania i publikacji dostępnych materiałów multimedialnych.
+title: Model przygotowania dostępnych multimediów
+description: Model opisujący włączanie wymagań dostępności w przygotowanie materiałów multimedialnych.
 sidebar_label: Model operacyjny
 sidebar_position: 10
 keywords: [dostępność cyfrowa, model operacyjny, publikacja, multimedia, proces]
@@ -15,7 +15,7 @@ wersja_robocza: true
 
 ## Cel
 
-Model określa jednolity przebieg procesu przygotowania, weryfikacji i publikacji materiałów dostępnych.
+Model pokazuje, jak włączyć wymagania dostępności w przygotowanie materiałów multimedialnych i treści cyfrowych.
 
 ## Zakres
 
@@ -43,46 +43,31 @@ Wymagania dostępności dla materiałów zewnętrznych należy określać już n
 - umowy,
 - odbioru materiału.
 
-## Role i odpowiedzialność
+## Role wspierające przygotowanie materiału
 
 - **Autor/redaktor:** przygotowanie treści i struktury komunikatu.
 - **Osoba opracowująca dostępność:** napisy, transkrypcje, opisy alternatywne, treści równoważne.
-- **Osoba weryfikująca:** kontrola wymagań przed publikacją.
-- **Osoba publikująca:** publikacja techniczna i kontrola po publikacji.
-- **Nadzór procesowy:** monitoring błędów i doskonalenie procesu.
+- **Osoba sprawdzająca materiał:** porównanie materiału z wymaganiami, standardem albo listą kontrolną.
+- **Osoba publikująca:** techniczne udostępnienie materiału w wybranym kanale.
+- **Koordynacja dostępności:** wsparcie zespołów i aktualizacja standardów.
 
-## Schemat procesu
+## Schemat pracy z materiałem
 
 ```mermaid
 flowchart TD
     A[Planowanie komunikatu] --> B[Przygotowanie treści lub materiału]
     B --> C[Opracowanie elementów dostępności]
-    C --> D[Weryfikacja przed publikacją]
-    D --> E{Czy wymagania są spełnione?}
-    E -- Tak --> F[Publikacja]
-    E -- Nie --> G{Czy zachodzi sytuacja wyjątkowa?}
-    G -- Nie --> H[Poprawa materiału]
-    H --> D
-    G -- Tak --> I[Decyzja osoby odpowiedzialnej]
-    I --> J[Udokumentowanie odstępstwa]
-    J --> K[Publikacja warunkowa]
-    K --> L[Uzupełnienie braków w terminie]
-    L --> M[Kontrola po publikacji]
-    F --> M
-    M --> N[Monitoring zgłoszeń i błędów]
-    N --> O[Działania korygujące i doskonalenie procesu]
+    C --> D[Sprawdzenie listą kontrolną]
+    D --> E[Uzupełnienie brakujących elementów]
+    E --> F[Przekazanie do publikacji zgodnie z Zaleceniem 4]
 ```
 
-## Zasady decyzyjne
+## Relacja do Zalecenia 4
 
-Materiał publikuje się po pozytywnej weryfikacji.
-
-Jeżeli wymagania nie są spełnione, materiał wraca do poprawy albo przechodzi ścieżkę procedury wyjątkowej zgodnie z [Procedurą postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md).
+Model nie określa decyzji publikacyjnej ani sposobu dokumentowania kontroli. Weryfikacja spełnienia wymagań dostępności przed publikacją odbywa się zgodnie z procedurą określoną w Zaleceniu 4.
 
 ## Powiązane dokumenty
 
 - [Minimalne wymagania dostępności](./minimalne-wymagania.md)
-- [Mapa odpowiedzialności w procesie publikacji](./mapa-odpowiedzialnosci.md)
 - [Listy kontrolne publikacji](./listy-kontrolne-index.md)
 - [05. Standard tworzenia dostępnych materiałów audio](./05-standard-tworzenia-dostepnych-materialow-audio.md)
-- [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md)

@@ -1,8 +1,8 @@
 ---
 id: mapa-odpowiedzialnosci
-title: Mapa odpowiedzialności w procesie publikacji multimediów
-description: Dokument określający role i odpowiedzialności w procesie publikacji dostępnych treści.
-sidebar_label: Mapa odpowiedzialności
+title: Mapa ról przy tworzeniu dostępnych multimediów
+description: Dokument opisujący role uczestniczące w przygotowaniu dostępnych treści multimedialnych.
+sidebar_label: Mapa ról
 sidebar_position: 13
 keywords: [dostępność cyfrowa, multimedia, komunikacja, administracja publiczna]
 tags: [komunikacja, multimedia, dostępność cyfrowa]
@@ -16,13 +16,13 @@ wersja_robocza: true
 
 ## Założenia
 
-Dokument określa podział odpowiedzialności w procesie przygotowania i publikacji materiałów multimedialnych oraz zasady przekazywania informacji między etapami.
+Dokument opisuje role uczestniczące w przygotowaniu materiałów multimedialnych oraz informacje przekazywane między etapami pracy.
 
 Dostępność jest budowana na każdym etapie procesu.
 
 Każdy etap przygotowuje dane wejściowe dla kolejnego.
 
-Brak wymaganych informacji uniemożliwia dalsze przetwarzanie materiału i stanowi podstawę do wstrzymania publikacji.
+Brak wymaganych informacji utrudnia przygotowanie materiału zgodnego ze standardem dostępności.
 
 Model odpowiada rzeczywistemu sposobowi pracy w administracji.
 
@@ -67,7 +67,7 @@ Przekazuje:
 - napisy,
 - transkrypcję (jeżeli dotyczy).
 
-### Redaktor publikujący
+### Redaktor
 
 Odpowiada za:
 - wprowadzenie materiału do systemu,
@@ -80,7 +80,7 @@ Sprawdza:
 - poprawność działania,
 - obecność elementów dostępności.
 
-Brak któregokolwiek elementu co do zasady uniemożliwia publikację. Dalsze postępowanie jest możliwe wyłącznie zgodnie z przyjętą procedurą postępowania w sytuacjach wyjątkowych.
+Brak któregokolwiek elementu należy odnotować na liście kontrolnej i uzupełnić przed przekazaniem materiału do kontroli zgodnie z Zaleceniem 4.
 
 ### Koordynator dostępności
 
@@ -119,10 +119,10 @@ Transkrypcja:
 - zawiera pełną treść,
 - zachowuje strukturę wypowiedzi.
 
-### Redaktor publikujący
+### Redaktor
 
 Odpowiada za:
-- publikację nagrania,
+- przygotowanie nagrania do udostępnienia,
 - powiązanie nagrania z transkrypcją.
 
 ### Koordynator dostępności
@@ -157,12 +157,12 @@ Opis:
 Grafiki dekoracyjne:
 - oznacza się jako dekoracyjne.
 
-### Redaktor publikujący
+### Redaktor
 
 Odpowiada za:
-- publikację grafiki,
+- przygotowanie grafiki do udostępnienia,
 - przypisanie opisu alternatywnego,
-- kontrolę poprawności wyświetlania.
+- sprawdzenie poprawności wyświetlania.
 
 ### Koordynator dostępności
 
@@ -187,7 +187,7 @@ Odpowiada za:
 ### Administrator kanału
 
 Odpowiada za:
-- publikację materiału,
+- techniczne udostępnienie materiału,
 - wykorzystanie funkcji dostępności (np. opisy alternatywne, napisy).
 
 ### Koordynator dostępności
@@ -206,7 +206,7 @@ Odpowiada za:
 - poprawne osadzenie materiału,
 - działanie techniczne.
 
-### Redaktor publikujący
+### Redaktor
 
 Odpowiada za:
 - dodanie materiału,
@@ -231,10 +231,10 @@ Odpowiada za:
 - opisy alternatywne,
 - czytelność.
 
-### Redaktor publikujący
+### Redaktor
 
 Odpowiada za:
-- weryfikację dokumentu przed publikacją.
+- sprawdzenie dokumentu z wymaganiami dostępności.
 
 ### Koordynator dostępności
 
@@ -246,23 +246,22 @@ Każdy etap przekazuje informacje niezbędne do realizacji kolejnego etapu.
 
 Brak informacji:
 - uniemożliwia zapewnienie dostępności,
-- stanowi podstawę do wstrzymania publikacji.
+- wymaga uzupełnienia przed dalszą pracą nad materiałem.
 
 ## Podsumowanie
 
-Model określa odpowiedzialność etapową w procesie tworzenia i publikacji materiałów.
+Model określa role i zakres informacji potrzebnych podczas tworzenia materiałów.
 
-Każdy uczestnik procesu odpowiada za dostępność w swoim zakresie.
+Każdy uczestnik pracy nad materiałem uwzględnia dostępność w swoim zakresie.
 
 Dostępność nie jest naprawiana na końcu, lecz powstaje w trakcie całego procesu.
 
-Publikacja materiału niespełniającego wymagań nie powinna mieć miejsca poza sytuacjami wyjątkowymi obsłużonymi zgodnie z przyjętą procedurą.
+Weryfikacja spełnienia wymagań dostępności przed publikacją odbywa się zgodnie z procedurą określoną w Zaleceniu 4.
 
-Model stanowi podstawę organizacji pracy, współpracy między zespołami oraz kontroli jakości.
+Model stanowi podstawę organizacji pracy i współpracy między zespołami.
 
 ## Powiązane dokumenty
 
-- [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md)
 - [Modele organizacyjne i wdrożeniowe](./modele-index.md)
 - [Listy kontrolne publikacji](./listy-kontrolne-index.md)
 - [Minimalne wymagania dostępności](./minimalne-wymagania.md)

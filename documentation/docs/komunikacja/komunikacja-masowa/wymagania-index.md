@@ -1,7 +1,7 @@
 ---
 id: wymagania-index
 title: Wymagania dostępności
-description: Minimalne wymagania dostępności, które muszą zostać spełnione przed publikacją materiałów. 
+description: Minimalne wymagania dostępności dla materiałów multimedialnych i treści komunikacji masowej. 
 sidebar_label: O wymaganiach
 sidebar_position: 1
 keywords: [dostępność cyfrowa, multimedia, komunikacja, administracja publiczna]
@@ -17,20 +17,20 @@ wersja_robocza: true
 
 Niniejsza sekcja zawiera minimalne wymagania dostępności dla materiałów multimedialnych i komunikacji masowej.
 
-Wymagania określają obowiązkowy poziom dostępności, który musi zostać spełniony przed publikacją materiału.
+Wymagania określają obowiązkowy poziom dostępności właściwy dla danego typu materiału.
 
 ## Rola wymagań
 
 Wymagania:
 
 - definiują minimalny poziom dostępności,
-- określają warunki publikacji materiałów,
+- porządkują kryteria przygotowania materiałów,
 - zapewniają jednolite kryteria oceny,
-- eliminują uznaniowość w podejmowaniu decyzji.
+- ograniczają uznaniowość w interpretowaniu wymagań.
 
 Wymagania odpowiadają na pytanie:
 
-**co musi zostać spełnione, aby materiał mógł zostać opublikowany**
+**co musi zostać spełnione, aby materiał był dostępny**
 
 ## Zawartość
 
@@ -41,24 +41,16 @@ W skład dokumentów wchodzą:
 
 ## Zasada stosowania
 
-Spełnienie wymagań stanowi warunek publikacji materiału.
+Wymagania stosuje się podczas planowania, przygotowania i sprawdzania materiału.
 
-Materiał:
-- spełnia wymagania i może zostać opublikowany,
-- nie spełnia wymagań i co do zasady nie może zostać opublikowany.
-
-Co do zasady nie dopuszcza się:
-- publikacji materiałów częściowo dostępnych,
-- uzupełniania dostępności po publikacji.
-
-Odstępstwo od tej zasady jest dopuszczalne wyłącznie w sytuacjach wyjątkowych, zgodnie z przyjętą procedurą i z obowiązkiem uzupełnienia brakujących elementów dostępności.
+Weryfikacja spełnienia wymagań dostępności przed publikacją odbywa się zgodnie z procedurą określoną w Zaleceniu 4.
 
 ## Relacja do innych elementów repozytorium
 
 Wymagania stanowią podstawę całego systemu i są punktem odniesienia dla pozostałych dokumentów:
 
 - `standardy/` – określają, jak spełnić wymagania,
-- `modele/` – określają, jak zorganizować proces,
+- `modele/` – pokazują, jak włączyć wymagania w pracę nad materiałem,
 - `checklisty/` – służą do weryfikacji spełnienia wymagań,
 - `docs/` – wyjaśniają kontekst i znaczenie wymagań.
 
@@ -70,4 +62,4 @@ Wymagania mają charakter:
 - mierzalny – umożliwiają jednoznaczną ocenę,
 - powtarzalny – mogą być stosowane w każdej sytuacji.
 
-Stanowią podstawę kontroli jakości oraz oceny zgodności działań podmiotu publicznego.
+Stanowią podstawę oceny zgodności materiału z przyjętym standardem dostępności.

@@ -70,7 +70,7 @@ Dla zaplanowanych transmisji na żywo należy zapewnić napisy w czasie rzeczywi
 
 Weryfikacja jest wykonywana przed publikacją z użyciem właściwej listy kontrolnej.
 
-Punkty obowiązkowe muszą mieć wynik „TAK” albo zostać objęte procedurą sytuacji wyjątkowych.
+Punkty obowiązkowe wskazują wymagania podstawowe, których spełnienie jest sprawdzane zgodnie z Zaleceniem 4.
 
 ## Dowody spełnienia wymagań
 

@@ -13,7 +13,7 @@ ostatnia_aktualizacja: 27 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
-Punkty obowiązkowe muszą być spełnione przed publikacją albo objęte procedurą postępowania w sytuacjach wyjątkowych. Punkty warunkowe stosuje się wtedy, gdy dany typ treści, funkcja lub element występuje w materiale. Punkty zalecane wspierają jakość komunikacji i powinny być stosowane, ale same nie muszą blokować publikacji. Odpowiedź „NIE DOTYCZY” wymaga krótkiego uzasadnienia w kolumnie „Dowód/uwaga”.
+Punkty obowiązkowe wskazują wymagania podstawowe dla materiału wideo. Punkty warunkowe stosuje się wtedy, gdy dany typ treści, funkcja lub element występuje w materiale. Punkty zalecane wspierają jakość komunikacji. Odpowiedź „NIE DOTYCZY” wymaga krótkiego uzasadnienia w kolumnie „Dowód/uwaga”.
 
 | Punkt kontrolny | Status | Odpowiedź | Dowód/uwaga |
 |---|---|---|---|

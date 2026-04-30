@@ -38,7 +38,7 @@ Brak takiego przełożenia prowadzi do:
 
 W efekcie materiały mogą spełniać część wymagań technicznych, a jednocześnie pozostawać niedostępne jako komunikat.
 
-Wprowadzenie minimalnych wymagań ogranicza tę lukę poprzez określenie konkretnych działań, które powinny zostać wykonane przed publikacją w celu zapewnienia zgodności i spójności działania.
+Wprowadzenie minimalnych wymagań ogranicza tę lukę poprzez określenie konkretnych działań potrzebnych do zapewnienia zgodności i spójności materiału.
 
 ## Zakres implementacji wymagań
 
@@ -62,18 +62,17 @@ Minimalne wymagania obejmują kluczowe obszary dostępności:
 | Sterowanie | kontrola odtwarzania, brak migania | 2.2, 2.3 | 9.2.x | bezpieczeństwo |
 | Kompletność komunikatu | pełna informacja, spójność | 1.3, 2.4, 3.2 | 9.1.3.x, 9.2.4.x | dostęp do informacji |
 
-## Zgodność procesowa
+## Zgodność w pracy nad materiałem
 
-Wymagania zapewniają zgodność nie tylko na poziomie pojedynczego materiału, ale całego procesu jego przygotowania.
+Wymagania zapewniają zgodność na poziomie pojedynczego materiału oraz ułatwiają spójne przygotowanie treści w różnych kanałach.
 
-Zgodność realizowana jest na etapach:
+Wymagania mogą być stosowane na etapach:
 - planowania,
 - przygotowania,
 - opracowania elementów dostępności,
-- weryfikacji,
-- publikacji.
+- weryfikacji materiału.
 
-Dostępność jest wbudowana w proces tworzenia treści.
+Dostępność jest wbudowana w sposób tworzenia treści.
 
 ## Zgodność z normą EN 301 549
 
@@ -97,18 +96,9 @@ Informacje nie mogą być uzależnione od jednej formy odbioru.
 
 ## Mechanizm zapewnienia zgodności
 
-Wymagania wprowadzają mechanizm weryfikacji oparty na minimalnym progu publikacji.
+Wymagania wprowadzają mechanizm weryfikacji oparty na jednoznacznych kryteriach dostępności.
 
-Materiał:
-- spełnia wymagania i może zostać opublikowany  
-  lub  
-- nie spełnia wymagań i co do zasady nie może zostać opublikowany  
-
-Co do zasady nie dopuszcza się:
-- publikacji materiałów częściowo dostępnych,
-- uzupełniania dostępności po publikacji.
-
-Wyjątki mogą wynikać wyłącznie z przyjętej w podmiocie procedury postępowania w sytuacjach wyjątkowych i wymagają odrębnego uzasadnienia. Takie rozwiązanie nie znosi wymagań dostępności, lecz określa sposób postępowania, gdy publikacja jest konieczna mimo czasowego braku pełnej zgodności.
+Weryfikacja spełnienia wymagań przed publikacją odbywa się zgodnie z procedurą określoną w Zaleceniu 4. Niniejszy dokument określa kryteria, a nie tryb podejmowania decyzji publikacyjnej.
 
 Weryfikacja obejmuje:
 - kompletność komunikatu,
@@ -123,16 +113,15 @@ Każde wymaganie posiada odniesienie do kryteriów dostępności.
 
 Oznacza to, że:
 - możliwy jest audyt bez interpretacji przepisów,
-- każda czynność ma uzasadnienie normatywne,
+- każde wymaganie ma uzasadnienie normatywne,
 - zgodność może być wykazana w sposób mierzalny i powtarzalny.
 
 Mapowanie umożliwia ocenę zgodności na podstawie wykonanych działań, a nie deklaracji.
 
-## Znaczenie dla kontroli i audytu
+## Znaczenie dla audytu
 
 Zastosowanie wymagań umożliwia:
 - jednoznaczną ocenę zgodności,
-- przypisanie odpowiedzialności,
 - identyfikację błędów,
 - porównywalność wyników.
 

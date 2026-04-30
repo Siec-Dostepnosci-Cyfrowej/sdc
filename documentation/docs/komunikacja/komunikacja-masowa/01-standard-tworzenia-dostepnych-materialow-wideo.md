@@ -29,17 +29,14 @@ Standard stosuje się do każdego materiału wideo przed publikacją oraz przy a
 
 - Materiał zawiera napisy obejmujące całą ścieżkę dźwiękową.
 - Treści istotne wizualnie mają alternatywę (audiodeskrypcję lub równoważną treść tekstową).
-- Materiał nie zawiera migających elementów powodujących ryzyko dyskomfortu.
-```Materiał nie zawiera migających elementów, które mogą powodować dyskomfort lub np. ryzyko ataku padaczki fotogennej – w szczególności żaden element nie miga częściej niż 3 razy na sekundę.
+- Materiał nie zawiera migających elementów, które mogą powodować dyskomfort lub ryzyko ataku padaczki fotogennej.
 - W przypadku transmisji planowanych zapewnia się napisy na żywo, jeśli jest to możliwe organizacyjnie i technicznie; w przeciwnym razie zapewnia się uzupełnienie po transmisji.
-``W przypadku transmisji planowanych zapewnia się napisy na żywo, jeśli jest to możliwe organizacyjnie i technicznie. W przeciwnym razie uzupełnia się napisy po transmisji, co do zasady w terminie do 14 dni od publikacji. W uzasadnionych sytuacjach termin ten może zostać przedłużony, nie dłużej jednak niż do dwóch miesięcy od zakończenia nadawania na żywo lub od publikacji."
 
 ## Zalecany sposób realizacji
 
 Napisy zamknięte są preferowane, gdy platforma na to pozwala. Napisy otwarte mogą być stosowane, gdy są jedyną skuteczną formą zapewnienia napisów.
 
 Kontrast napisów dotyczy szczególnie napisów osadzonych na stałe i tekstów w obrazie. Przy napisach zamkniętych sposób prezentacji zależy od możliwości odtwarzacza/platformy.
-```Kontrast napisów dotyczy szczególnie napisów osadzonych na stałe i tekstów w obrazie. Powinien być na minimalnym poziomie 4,5:1. Zalecany kontrast to 7:1, szczególnie przy dynamicznym tle wideo. Przy napisach zamkniętych sposób prezentacji zależy od możliwości odtwarzacza czy platformy.
 
 Automatycznie generowane napisy można traktować wyłącznie jako materiał roboczy. Przed publikacją wymagają korekty treści, synchronizacji i interpunkcji.
 
@@ -50,7 +47,6 @@ Transkrypcja rozszerzona jest jedną z kluczowych form zapewnienia dostępu do t
 - Napisy są kompletne, poprawne merytorycznie, zsynchronizowane i mają wymagany lub zalecany kontrast.
 - Kluczowe informacje wizualne występują również w formie dostępnej bez obrazu.
 - Materiał nie zawiera błysków i efektów, które mogą powodować barierę odbioru.
-```Materiał nie zawiera efektów i elementów, które migają częściej niż trzy razy na sekundę.
 - Tytuł i opis materiału pozwalają zrozumieć jego temat bez uruchamiania nagrania.
 
 ## Najczęstsze błędy

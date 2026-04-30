@@ -1,8 +1,8 @@
 ---
 id: komunikacja-masowa-zalecenie
-title: Organizacja procesu publikacji dostępnych materiałów multimedialnych i treści cyfrowych
-description: Zalecenie określające sposób organizacji procesu przygotowania, weryfikacji i publikacji dostępnych materiałów multimedialnych oraz treści cyfrowych.
-sidebar_label: Zalecenie
+title: Standard dostępności multimediów i komunikacji masowej
+description: Zalecenie określające wymagania, standardy i listy kontrolne dla dostępnych materiałów multimedialnych oraz treści komunikacji masowej.
+sidebar_label: Zalecenie 5
 sidebar_position: 0
 keywords: [dostępność cyfrowa, multimedia, komunikacja, standard wdrożeniowy, administracja publiczna]
 tags: [zalecenie, komunikacja, dostępność cyfrowa]
@@ -13,94 +13,67 @@ ostatnia_aktualizacja: 27 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
-## Cel zalecenia
-
-Celem zalecenia jest ustanowienie jednolitego i weryfikowalnego modelu przygotowania, kontroli i publikacji materiałów cyfrowych, który podmiot publiczny może wdrożyć niezależnie od wielkości organizacji.
-
-Model łączy wymagania normatywne z narzędziami operacyjnymi i wskazuje, kiedy publikacja jest dopuszczalna, a kiedy konieczna jest poprawa materiału albo uruchomienie procedury wyjątkowej.
-
 ## Zalecenie
 
-Podmiot publiczny ustanawia i stosuje zasady przygotowania, weryfikacji i publikacji materiałów multimedialnych oraz treści cyfrowych, które zapewniają uwzględnianie dostępności na każdym etapie procesu, jednoznaczne przypisanie odpowiedzialności, obowiązkową weryfikację przed publikacją oraz publikowanie materiałów spełniających przyjęte wymagania dostępności albo objętych udokumentowaną procedurą postępowania w sytuacjach wyjątkowych.
+Podmiot publiczny stosuje spójne wymagania dostępności, standardy tworzenia oraz listy kontrolne dla materiałów multimedialnych i treści komunikacji masowej publikowanych w kanałach cyfrowych.
+
+Weryfikacja spełnienia wymagań dostępności przed publikacją odbywa się zgodnie z procedurą określoną w Zaleceniu 4.
+
+Niniejsze zalecenie określa standardy, wymagania oraz listy kontrolne. Nie określa decyzji publikacyjnej, sposobu dokumentowania kontroli ani odpowiedzialności za punkt kontroli przed publikacją.
 
 ## Rekomendacje
 
-### 1. Ustanowienie zasad i wymagań
+### 1. Ustanowienie wymagań dostępności
 
-Podmiot przyjmuje minimalne wymagania publikacyjne jako warunek publikacji materiału.
+Podmiot przyjmuje minimalne wymagania dostępności dla materiałów multimedialnych i treści komunikacji masowej.
 
-Dodatkowo wdraża standardy tworzenia materiałów, które opisują sposób praktycznej realizacji wymagań.
+Wymagania obejmują w szczególności:
+- napisy i transkrypcje dla materiałów audio i wideo,
+- opisy alternatywne i treści równoważne dla grafik, infografik i materiałów wizualnych,
+- strukturę komunikatu, prosty język i logiczny układ treści,
+- dostępność postów publikowanych w mediach społecznościowych,
+- dostępność opisu, metadanych i sposobu osadzenia materiału w kanale publikacji.
 
-Działania:
-- zatwierdzenie katalogu wymagań obowiązkowych, warunkowych i zalecanych,
-- wskazanie dokumentów stosowanych przy publikacji (standardy, listy kontrolne, procedura wyjątków),
-- okresowy przegląd wymagań i ich aktualność względem przepisów.
+### 2. Stosowanie standardów tworzenia
 
-### 2. Określenie ról i odpowiedzialności
+Podmiot stosuje standardy tworzenia dostępnych materiałów jako instrukcje wykonawcze dla osób przygotowujących treści.
 
-Każdy etap procesu ma właściciela odpowiedzialnego za wynik: autor, redaktor, osoba weryfikująca, osoba publikująca, osoba nadzorująca proces.
+Standardy określają sposób przygotowania:
+- materiałów wideo,
+- materiałów audio,
+- grafik i materiałów wizualnych,
+- opisów alternatywnych i treści równoważnych,
+- komunikatów tekstowych i postów.
 
-Zakres odpowiedzialności musi być jawny i znany zespołowi.
+### 3. Używanie list kontrolnych
 
-Działania:
-- przypisanie odpowiedzialności do ról, a nie do ogólnych zespołów,
-- wskazanie osoby decyzyjnej dla sytuacji wyjątkowych,
-- wskazanie osoby odpowiedzialnej za monitoring błędów i działania korygujące.
+Podmiot stosuje listy kontrolne jako narzędzie potwierdzania spełnienia wymagań właściwych dla danego typu materiału.
 
-### 3. Wdrożenie modelu operacyjnego
+Listy kontrolne powinny:
+- odnosić się do konkretnych wymagań i standardów,
+- pozwalać odnotować wynik dla każdego punktu,
+- umożliwiać wskazanie uwag lub dowodu spełnienia wymagania,
+- być aktualizowane razem ze zmianą standardów lub przepisów.
 
-Model operacyjny obejmuje pełny cykl życia materiału: planowanie, przygotowanie, opracowanie dostępności, weryfikację, publikację i monitoring.
+### 4. Utrzymanie spójnego pakietu dokumentów
 
-Model stosuje się do treści własnych oraz materiałów zewnętrznych.
+Pakiet Zalecenia 5 obejmuje dokumenty określające wymagania, standardy i narzędzia stosowane przy tworzeniu dostępnych materiałów.
 
-Działania:
-- stosowanie jednego przebiegu procesu dla CMS, BIP, serwisu WWW i social mediów,
-- uwzględnienie wymagań dostępności już w briefie, zleceniu i odbiorze materiałów zewnętrznych,
-- dokumentowanie decyzji o publikacji warunkowej.
+Dokumenty pakietu powinny być utrzymywane łącznie, tak aby wymagania, standardy i listy kontrolne nie zawierały sprzecznych kryteriów.
 
-### 4. Wprowadzenie obowiązkowej weryfikacji przed publikacją
+### 5. Rozgraniczenie z procedurami kontroli i naprawy
 
-Każdy materiał jest sprawdzany właściwą listą kontrolną przed publikacją.
+Zalecenie 4 określa procedurę kontroli przed publikacją i decyzję publikacyjną.
 
-Weryfikacja ma charakter decyzyjny i stanowi podstawę dopuszczenia materiału.
+Zalecenie 5 określa standardy, wymagania oraz listy kontrolne wykorzystywane w tej procedurze.
 
-Działania:
-- stosowanie tabelarycznych list kontrolnych z dowodem/uwagą,
-- traktowanie odpowiedzi „NIE” w punktach obowiązkowych jako blokady publikacji,
-- obsługa odstępstw wyłącznie przez procedurę sytuacji wyjątkowych.
+[Zalecenie 7](../wymiar-komunikacja/uaktualniona-lista-tematow.md) określa przegląd i naprawę zasobów już opublikowanych.
 
-### 5. Zapewnienie narzędzi, kompetencji i wzorców
+### 6. Aktualizacja standardów i list kontrolnych
 
-Wdrożenie wymaga narzędzi redakcyjnych i technicznych: wzorów opisów, szablonów treści, list kontrolnych i procedur.
+Standardy i listy kontrolne należy aktualizować po zmianach przepisów, wytycznych technicznych, narzędzi publikacyjnych albo po stwierdzeniu powtarzalnych błędów w przygotowywanych materiałach.
 
-Równolegle podmiot zapewnia szkolenia i bieżące wsparcie zespołu.
-
-Działania:
-- udostępnienie wzorców dla wideo, audio, grafik i postów,
-- szkolenia stanowiskowe dla autorów i osób publikujących,
-- monitorowanie najczęstszych błędów i aktualizacja materiałów pomocniczych.
-
-### 6. Obsługa sytuacji wyjątkowych
-
-Odstępstwo od pełnej dostępności ma charakter incydentalny i nie jest alternatywą dla spełnienia wymagań.
-
-Każde odstępstwo wymaga decyzji osoby uprawnionej, udokumentowanej przyczyny oraz terminu uzupełnienia braków.
-
-Działania:
-- prowadzenie rejestru wyjątków,
-- określanie terminu uzupełnienia, co do zasady do 3 dni roboczych,
-- zastosowanie działań końcowych: uzupełnienie, aktualizacja albo wycofanie materiału.
-
-### 7. Monitorowanie, analiza błędów i doskonalenie procesu
-
-Po publikacji podmiot analizuje zgłoszenia, błędy i opóźnienia uzupełnień.
-
-Celem monitoringu jest ograniczenie powtarzalności wyjątków i podnoszenie jakości materiałów.
-
-Działania:
-- cykliczna analiza rejestru wyjątków i checklist,
-- wdrażanie działań korygujących w procesie tworzenia,
-- aktualizacja standardów i szkoleń na podstawie danych z monitoringu.
+Aktualizacja nie może obniżać poziomu wymagań wynikających z przepisów prawa, WCAG i normy EN 301 549.
 
 ## Zakres stosowania
 
@@ -121,7 +94,6 @@ Zalecenie obejmuje komunikację publiczną prowadzoną przez podmiot w kanałach
 
 - [Listy kontrolne publikacji](./listy-kontrolne-index.md)
 - [Lista kontrolna publikacji audio](./lista-kontrolna-publikacji-audio.md)
-- [Mapa odpowiedzialności](./mapa-odpowiedzialnosci.md)
 - [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md)
 
 ### Modele wdrożeniowe
@@ -138,10 +110,9 @@ Zalecenie obejmuje komunikację publiczną prowadzoną przez podmiot w kanałach
 
 ## Pakiet wdrożeniowy
 
-Pakiet wdrożeniowy obejmuje dokumenty określające wymagania, przebieg procesu i narzędzia do codziennej pracy:
+Pakiet wdrożeniowy obejmuje dokumenty określające wymagania, standardy i narzędzia do codziennej pracy:
 
 - [Minimalne wymagania dostępności](./minimalne-wymagania.md)
-- [Model operacyjny publikacji dostępnych multimediów](./model-operacyjny-publikacji-dostepnych-multimediow.md)
 - [Standardy tworzenia dostępnych materiałów](./standardy-tworzenia-index.md)
 - [Standard tworzenia dostępnych materiałów audio](./05-standard-tworzenia-dostepnych-materialow-audio.md)
 - [Listy kontrolne publikacji](./listy-kontrolne-index.md)
@@ -151,7 +122,9 @@ Pakiet wdrożeniowy obejmuje dokumenty określające wymagania, przebieg procesu
 
 ## Uzasadnienie
 
-Wdrożenie pakietu ogranicza ryzyko publikacji materiałów niepełnych, porządkuje odpowiedzialność oraz zmniejsza koszty poprawek po publikacji.
+Spójne wymagania, standardy i listy kontrolne ograniczają ryzyko przygotowania materiałów niedostępnych oraz zapewniają jednolite kryteria oceny przed publikacją.
+
+Rozdzielenie standardów od procedury kontroli zapobiega dublowaniu treści. Zalecenie 5 wskazuje, jakie wymagania mają być spełnione, a Zalecenie 4 określa, jak wynik kontroli wpływa na decyzję publikacyjną.
 
 ## Podstawy prawne
 
@@ -171,5 +144,6 @@ Wdrożenie pakietu ogranicza ryzyko publikacji materiałów niepełnych, porząd
 
 | Wersja | Data | Etap | Opis zmian |
 |---|---|---|---|
+| 1.2 | 2026-04-30 | Projekt roboczy | Wydzielenie warstwy kontroli przed publikacją do Zalecenia 4 i pozostawienie w Zaleceniu 5 standardów, wymagań oraz list kontrolnych. |
 | 1.1 | 2026-04-27 | Projekt roboczy | Doprecyzowanie rekomendacji do poziomu działań wdrożeniowych i kryteriów zarządczych. |
 | 1.0 | 2026-04-23 | Projekt roboczy | Uporządkowanie struktury dokumentu, rozdzielenie statusu dokumentów i pakietu wdrożeniowego, dodanie procedury sytuacji wyjątkowych. |

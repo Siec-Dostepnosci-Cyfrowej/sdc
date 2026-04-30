@@ -1,7 +1,7 @@
 ---
 id: modele-index
 title: Modele organizacyjne i wdrożeniowe
-description: Modele organizacyjne i wdrożeniowe określające sposób organizacji procesu publikacji dostępnych treści. 
+description: Modele organizacyjne i wdrożeniowe określające sposób pracy nad dostępnymi treściami. 
 sidebar_label: O modelach
 sidebar_position: 9
 keywords: [dostępność cyfrowa, multimedia, komunikacja, administracja publiczna]
@@ -14,7 +14,7 @@ wersja_robocza: true
 ---
 
 
-Ta sekcja zawiera dokumenty opisujące, w jaki sposób przygotowywać i publikować dostępne treści.
+Ta sekcja zawiera dokumenty opisujące, w jaki sposób przygotowywać dostępne treści.
 
 Modele mają charakter operacyjny i wskazują, jak w praktyce zorganizować działania związane z dostępnością multimediów i komunikacji masowej w zależności od struktury i wielkości podmiotu.
 
@@ -22,9 +22,8 @@ Modele mają charakter operacyjny i wskazują, jak w praktyce zorganizować dzia
 
 Modele:
 
-- opisują sposób organizacji pracy,
-- określają przebieg procesu publikacji,
-- wskazują role i odpowiedzialności,
+- opisują sposób organizacji pracy nad materiałem,
+- wskazują role uczestniczące w przygotowaniu treści,
 - pomagają dostosować wdrożenie do możliwości podmiotu.
 
 Nie stanowią listy wymagań ani standardów technicznych, lecz pokazują, jak wdrożyć je w praktyce.
@@ -35,15 +34,15 @@ W skład dokumentów wchodzą:
 
 ### Model operacyjny
 
-- [Model operacyjny publikacji dostępnych multimediów](./model-operacyjny-publikacji-dostepnych-multimediow.md)
+- [Model przygotowania dostępnych multimediów](./model-operacyjny-publikacji-dostepnych-multimediow.md)
 
-Opisuje pełny proces przygotowania i publikacji materiałów, od planowania do monitorowania.
+Opisuje sposób przygotowania materiałów, od planowania do sprawdzenia listą kontrolną.
 
-### Mapa odpowiedzialności
+### Mapa ról
 
-- [Mapa odpowiedzialności w procesie publikacji](./mapa-odpowiedzialnosci.md)
+- [Mapa ról przy tworzeniu dostępnych multimediów](./mapa-odpowiedzialnosci.md)
 
-Określa podział ról oraz zakres odpowiedzialności na poszczególnych etapach procesu.
+Określa role i informacje potrzebne na poszczególnych etapach pracy nad materiałem.
 
 ### Modele wdrożeniowe
 
@@ -52,8 +51,8 @@ Określa podział ról oraz zakres odpowiedzialności na poszczególnych etapach
 
 Pokazują, w jaki sposób dostosować organizację pracy do skali działania:
 
-- model dla dużych podmiotów opisuje strukturę wieloetapową z podziałem ról,
-- model dla małych podmiotów przedstawia uproszczony proces możliwy do realizacji przy ograniczonych zasobach.
+- model dla dużych podmiotów opisuje strukturę pracy z podziałem ról,
+- model dla małych podmiotów przedstawia uproszczony sposób pracy możliwy do realizacji przy ograniczonych zasobach.
 
 ## Jak korzystać z modeli
 
@@ -61,11 +60,11 @@ Modele powinny być stosowane łącznie z pozostałymi elementami repozytorium:
 
 - `wymagania/` – określają, co musi zostać spełnione,
 - `standardy/` – określają, jak przygotować materiały,
-- `checklisty/` – służą do weryfikacji przed publikacją.
+- `checklisty/` – służą do sprawdzania spełnienia wymagań.
 
 Modele odpowiadają na pytanie:
 
-👉 **jak zorganizować pracę, aby wymagania były spełniane w sposób powtarzalny**
+**jak zorganizować pracę, aby wymagania były spełniane w sposób powtarzalny**
 
 ## Dobór modelu
 
@@ -73,7 +72,7 @@ Dobór modelu zależy od:
 
 - wielkości podmiotu,
 - liczby osób zaangażowanych w komunikację,
-- stopnia złożoności procesów.
+- stopnia złożoności pracy nad treściami.
 
 Podmiot może:
 

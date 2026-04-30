@@ -22,4 +22,4 @@ wersja_robocza: true
 
 ## Zasada użycia
 
-Punkty obowiązkowe muszą być spełnione przed publikacją albo objęte [Procedurą postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md).
+Punkty obowiązkowe wskazują wymagania podstawowe dla danego typu materiału. Listy kontrolne są narzędziem sprawdzenia tych wymagań; decyzja publikacyjna należy do procedury określonej w Zaleceniu 4.

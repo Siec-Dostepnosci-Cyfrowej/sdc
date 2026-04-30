@@ -18,7 +18,7 @@ wersja_robocza: true
 
 Wdrożenie standardu dostępności multimediów i komunikacji masowej prowadzi do zmiany sposobu organizacji pracy z treściami.
 
-Dostępność przestaje być działaniem uzupełniającym, a staje się integralnym elementem procesu przygotowania i publikacji materiałów.
+Dostępność przestaje być działaniem uzupełniającym, a staje się integralnym elementem przygotowania materiałów.
 
 Zmiana ta ma charakter systemowy i obejmuje zarówno sposób tworzenia komunikatów, jak i organizację pracy zespołów.
 
@@ -51,14 +51,14 @@ Dzięki temu użytkownik nie musi domyślać się znaczenia komunikatu ani korzy
 
 ---
 
-## Eliminacja publikacji materiałów niepełnych
+## Ograniczenie materiałów niepełnych
 
-Wprowadzenie zasady, że dostępność jest warunkiem publikacji, prowadzi do wyeliminowania materiałów niekompletnych.
+Stosowanie wymagań, standardów i list kontrolnych ogranicza liczbę materiałów niekompletnych.
 
-Publikowane są wyłącznie treści:
-- zweryfikowane,
-- spełniające wymagania,
-- gotowe do odbioru przez użytkownika.
+Materiały są przygotowywane w sposób, który ułatwia potwierdzenie:
+- kompletności informacji,
+- obecności wymaganych elementów dostępności,
+- gotowości do odbioru przez użytkownika.
 
 Zmniejsza to konieczność późniejszych korekt i aktualizacji.
 
@@ -75,32 +75,19 @@ W efekcie:
 
 ---
 
-## Uporządkowanie procesu pracy
+## Uporządkowanie pracy
 
-Wdrożenie modelu operacyjnego wprowadza jasny i powtarzalny sposób działania.
+Wdrożenie standardów wprowadza jasny i powtarzalny sposób przygotowania materiałów.
 
-Proces publikacji:
-- posiada określone etapy,
-- zawiera obowiązkowe elementy,
-- kończy się weryfikacją przed publikacją.
+Praca nad treścią:
+- opiera się na tych samych wymaganiach,
+- wykorzystuje wspólne listy kontrolne,
+- ogranicza przypadkowość i różnice interpretacyjne.
 
 Dzięki temu:
 - eliminowana jest przypadkowość,
 - zwiększa się spójność działań,
 - łatwiejsze staje się wdrażanie nowych pracowników.
-
----
-
-## Jednoznaczne przypisanie odpowiedzialności
-
-Wdrożenie standardu porządkuje odpowiedzialność za dostępność.
-
-Każdy uczestnik procesu:
-- zna swój zakres zadań,
-- odpowiada za określony etap,
-- ma jasne kryteria oceny.
-
-Eliminowane są sytuacje, w których odpowiedzialność za dostępność jest rozproszona lub nieokreślona.
 
 ---
 
@@ -110,7 +97,6 @@ Dostępność przestaje być działaniem incydentalnym i staje się elementem sy
 
 Podmiot publiczny:
 - działa według ustalonych zasad,
-- posiada powtarzalne procesy,
 - rozwija kompetencje zespołu,
 - identyfikuje i eliminuje błędy na poziomie systemowym.
 
@@ -160,4 +146,3 @@ Podstawowy poziom dostępności zostaje utrzymany, a kolejne działania mają ch
 - [Minimalne wymagania dostępności](./minimalne-wymagania.md)
 - [Standardy tworzenia dostępnych materiałów](./standardy-tworzenia-index.md)
 - [Listy kontrolne publikacji](./listy-kontrolne-index.md)
-- [Mapa odpowiedzialności w procesie publikacji](./mapa-odpowiedzialnosci.md)
