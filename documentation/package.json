@@ -18,8 +18,8 @@
     "write-translations": "docusaurus write-translations"
   },
   "dependencies": {
-    "@docusaurus/core": "3.10.0",
-    "@docusaurus/preset-classic": "3.10.0",
+    "@docusaurus/core": "3.10.1",
+    "@docusaurus/preset-classic": "3.10.1",
     "@grnet/docusaurus-glossary-view": "2.0.0-rc.2",
     "@grnet/docusaurus-term-preview": "2.0.0-rc.2",
     "@grnet/docusaurus-terminology": "2.0.0-rc.2",
@@ -37,9 +37,9 @@
     "tailwind-merge": "^3.5.0"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "3.10.0",
-    "@docusaurus/tsconfig": "3.10.0",
-    "@docusaurus/types": "3.10.0",
+    "@docusaurus/module-type-aliases": "3.10.1",
+    "@docusaurus/tsconfig": "3.10.1",
+    "@docusaurus/types": "3.10.1",
     "@tailwindcss/postcss": "^4.2.4",
     "@types/imagemin": "9.0.1",
     "@types/imagemin-mozjpeg": "8.0.4",
