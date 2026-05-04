@@ -66,6 +66,6 @@ Najważniejsze jest to, aby:
 
 Przejdź do kolejnych poradników:
 
-- [Utwórz konto na GitHubie](./utworz-konto)
+- [Utwórz konto na GitHubie](./utworz-konto-na-githubie)
 - [Dodaj dokument bezpośrednio na GitHub](./dodaj-dokument-z-kopii-repo)
 - [Komentuj i sugeruj poprawki](./komentuj-i-sugeruj-poprawki)
