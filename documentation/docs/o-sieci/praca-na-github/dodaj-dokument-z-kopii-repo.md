@@ -89,9 +89,9 @@ Dla każdego nowego projektu twórz osobną gałąź.
 
 Na liście plików otwórz kolejno:
 
-1. documentation
-2. docs
-3. katalog odpowiedniego wymiaru, na przykład _komunikacja_.  
+1. `documentation`
+2. `docs`
+3. katalog odpowiedniego wymiaru, na przykład `komunikacja`  
    To jest miejsce, w którym dodajesz nowy projekt dokumentu.
    
 W katalogu wymiaru utworzysz osobny podkatalog dla swojego projektu.   
@@ -205,11 +205,14 @@ Jeśli wszystko jest poprawne, zobaczysz komunikaty podobne do:
 
 Jeśli pojawią się błędy, nie przejmuj się. Administrator lub osoba prowadząca repozytorium pomoże je znaleźć i poprawić.
 
+
 ## Gotowe
 
 Twój projekt został zgłoszony.
 
-Teraz może zostać:
+Administrator repozytorium utworzy w pierwszym komentarzu link **Zobacz podgląd projektu**, dzięki któremu będzie można podejrzeć treść projektu na specjalnie utworzonej stronie internetowej.
+
+Teraz projekt może zostać:
 
 - sprawdzony,
 - skomentowany,
