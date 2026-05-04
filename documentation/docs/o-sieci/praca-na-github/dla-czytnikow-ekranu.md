@@ -14,8 +14,8 @@ Ten poradnik jest przeznaczony dla osób korzystających z czytników ekranu. Po
 
 Zanim zaczniesz pracę, musisz:
 
-1. Założyć konto na platformie Github. Tu znajdziesz [poradnik na ten temat](utworz-konto-na-githubie)
-2. Zainstalować Github Desktop. Tu [instrukcja instalacji](zainstaluj-github-destkop)
+1. Założyć konto na platformie Github. Tu znajdziesz [poradnik na ten temat](./utworz-konto-na-githubie)
+2. Zainstalować Github Desktop. Tu [instrukcja instalacji](./zainstaluj-github-desktop)
 3. Zalogować się w Github Desktop za pomocą swojego konta Github.
 
 ## Stworzenie własnego forka
@@ -32,7 +32,7 @@ Po zalogowaniu wejdź na stronę repozytorium: https://github.com/Siec-Dostepnos
 2. Kliknij na link <q lang="en">Fork</q>.
 3. W otwartym formularzu zostaw wszystko domyślnie. Nazwa użytkownika to Twoja nazwa na Github. Nazwa repozytorium jest kopią forkowanego repozytorium.
 4. Kliknij na przycisk <q lang="en">Create fork</q>.
-5. Zostaniesz automatycznie przeniesiony na stronę swojego forka, na przykład [https://github.com/JacZad/sdc](https://github.com/JacZad/sdc)
+5. Zostaniesz automatycznie przeniesiony na stronę swojego forka, na przykład https://github.com/zwiastunsw/sdc
 
 I to już koniec forkowania, czyli rozwidlenia repozytorium.
 
@@ -40,7 +40,7 @@ I to już koniec forkowania, czyli rozwidlenia repozytorium.
 
 1. Uruchom aplikację Github Desktop.
 2. Sklonuj swój fork za pomocą menu <q lang="en">file->Clone repository</q> lub za pomocą skrótu klawiszowego <kbd>Ctrl+Shift+o</kbd>.
-3. W otwartym oknie cofnij się <kbd>Shift+Tab</kbd> do zakładek i wybierz zakładkę 3. Automatycznie przeniesiesz się do pola edycyjnego, gdzie wklej adres swojego forka. Wygląda z grubsza tak:  [https://github.com/JacZad/sdc](https://github.com/JacZad/sdc)
+3. W otwartym oknie cofnij się <kbd>Shift+Tab</kbd> do zakładek i wybierz zakładkę 3. Automatycznie przeniesiesz się do pola edycyjnego, gdzie wklej adres swojego forka. Wygląda z grubsza tak:  https://github.com/zwiastunsw/sdc
 4. Klawiszem Tab przejdź do pola <q lang="en">Local path</q> i nie zmieniaj tam niczego, chyba że potrzebujesz innej ścieżki dla repozytorium.
 5. Przejdź do przycisku <q lang="en">Clone</q> i naciśnij go.
 6. Repozytorium jest już sklonowane i pojawi się okno, jak chcesz go używać. Domyślna opcja <q lang="en">To contribute to the parent project</q> jest prawidłowa. Oznacza, że będzie można dodawać elementy do głównego repozytorium, a nie tylko do Twojego rozwidlenia.
