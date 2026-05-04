@@ -115,8 +115,8 @@ Rejestr służy do:
 
 ## Powiązane dokumenty
 
-- [Zalecenie 5 - Standard dostępności multimediów i komunikacji masowej](./komunikacja-masowa-zalecenie.md)
-- [Minimalne wymagania dostępności](./minimalne-wymagania.md)
+- [Zalecenie 5 - Standard dostępności multimediów i komunikacji masowej](../komunikacja-masowa/komunikacja-masowa-zalecenie.md)
+- [Minimalne wymagania dostępności](../komunikacja-masowa/minimalne-wymagania.md)
 - [Mapa odpowiedzialności w procesie publikacji](./mapa-odpowiedzialnosci.md)
 - [Model operacyjny publikacji dostępnych multimediów](./model-operacyjny-publikacji-dostepnych-multimediow.md)
 - [Listy kontrolne publikacji](./listy-kontrolne-index.md)

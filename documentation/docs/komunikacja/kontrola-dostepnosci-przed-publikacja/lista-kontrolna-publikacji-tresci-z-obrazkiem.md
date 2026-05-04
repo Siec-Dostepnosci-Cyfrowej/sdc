@@ -28,6 +28,6 @@ Punkty obowiązkowe muszą być spełnione przed publikacją albo objęte proced
 
 ## Powiązane dokumenty
 
-- [Standard tworzenia dostępnych grafik i materiałów wizualnych](./02-standard-tworzenia-dostepnych-grafik-i-materialow-wizualnych.md)
-- [Standard opisu alternatywnego i treści równoważnych](./03-standard-opisu-alternatywnego-i-tresci-rownowaznych.md)
+- [Standard tworzenia dostępnych grafik i materiałów wizualnych](../komunikacja-masowa/02-standard-tworzenia-dostepnych-grafik-i-materialow-wizualnych.md)
+- [Standard opisu alternatywnego i treści równoważnych](../komunikacja-masowa/03-standard-opisu-alternatywnego-i-tresci-rownowaznych.md)
 - [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md)

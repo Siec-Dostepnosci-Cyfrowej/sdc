@@ -29,5 +29,5 @@ Punkty obowiązkowe muszą być spełnione przed publikacją albo objęte proced
 
 ## Powiązane dokumenty
 
-- [Standard tworzenia dostępnych materiałów wideo](./01-standard-tworzenia-dostepnych-materialow-wideo.md)
+- [Standard tworzenia dostępnych materiałów wideo](../komunikacja-masowa/01-standard-tworzenia-dostepnych-materialow-wideo.md)
 - [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md)

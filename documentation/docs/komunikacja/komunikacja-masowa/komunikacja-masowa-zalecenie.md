@@ -59,7 +59,7 @@ Dokumenty pakietu powinny być utrzymywane łącznie, tak aby wymagania, standar
 
 ### 5. Rozgraniczenie z procedurami kontroli i naprawy
 
-[Zalecenie 4](./procedura-kontroli-dostepnosci-przed-publikacja.md) określa procedurę kontroli przed publikacją i decyzję publikacyjną.
+[Zalecenie 4](../kontrola-dostepnosci-przed-publikacja/procedura-kontroli-dostepnosci-przed-publikacja.md) określa procedurę kontroli przed publikacją i decyzję publikacyjną.
 
 Zalecenie 5 określa standardy, wymagania oraz listy kontrolne wykorzystywane w tej procedurze.
 
@@ -80,7 +80,7 @@ Zalecenie obejmuje komunikację publiczną prowadzoną przez podmiot w kanałach
 ### Dokumenty normatywne
 
 - [Minimalne wymagania dostępności](./minimalne-wymagania.md)
-- [Procedura kontroli dostępności przed publikacją treści](./procedura-kontroli-dostepnosci-przed-publikacja.md)
+- [Procedura kontroli dostępności przed publikacją treści](../kontrola-dostepnosci-przed-publikacja/procedura-kontroli-dostepnosci-przed-publikacja.md)
 
 ### Standardy normatywno-operacyjne
 
@@ -89,16 +89,16 @@ Zalecenie obejmuje komunikację publiczną prowadzoną przez podmiot w kanałach
 
 ### Narzędzia operacyjne
 
-- [Listy kontrolne publikacji](./listy-kontrolne-index.md)
-- [Lista kontrolna publikacji audio](./lista-kontrolna-publikacji-audio.md)
-- [Mapa odpowiedzialności](./mapa-odpowiedzialnosci.md)
-- [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md)
+- [Listy kontrolne publikacji](../kontrola-dostepnosci-przed-publikacja/listy-kontrolne-index.md)
+- [Lista kontrolna publikacji audio](../kontrola-dostepnosci-przed-publikacja/lista-kontrolna-publikacji-audio.md)
+- [Mapa odpowiedzialności](../kontrola-dostepnosci-przed-publikacja/mapa-odpowiedzialnosci.md)
+- [Procedura postępowania w sytuacjach wyjątkowych](../kontrola-dostepnosci-przed-publikacja/procedura-sytuacji-wyjatkowych.md)
 
 ### Modele wdrożeniowe
 
-- [Model operacyjny publikacji dostępnych multimediów](./model-operacyjny-publikacji-dostepnych-multimediow.md)
-- [Model wdrożenia dla dużych podmiotów](./model-dla-duzych-podmiotow.md)
-- [Model wdrożenia dla małych podmiotów](./model-dla-malych-podmiotow.md)
+- [Model operacyjny publikacji dostępnych multimediów](../kontrola-dostepnosci-przed-publikacja/model-operacyjny-publikacji-dostepnych-multimediow.md)
+- [Model wdrożenia dla dużych podmiotów](../kontrola-dostepnosci-przed-publikacja/model-dla-duzych-podmiotow.md)
+- [Model wdrożenia dla małych podmiotów](../kontrola-dostepnosci-przed-publikacja/model-dla-malych-podmiotow.md)
 
 ### Dokumenty wyjaśniające i pomocnicze
 
@@ -140,7 +140,7 @@ Rozdzielenie standardów od procedury kontroli zapobiega dublowaniu treści. Zal
 - WebAIM, Accessibility Principles and Techniques.
 
 ## Weryfikacja 
-Weryfikacja spełnienia wymagań dostępności przed publikacją odbywa się zgodnie z procedurą określoną w [Zaleceniu 4 - Procedura kontroli dostępności przed publikacją treści](./procedura-kontroli-dostepnosci-przed-publikacja.md). Listy kontrolne z niniejszego zalecenia są narzędziem wykorzystywanym w tej procedurze.
+Weryfikacja spełnienia wymagań dostępności przed publikacją odbywa się zgodnie z procedurą określoną w [Zaleceniu 4 - Procedura kontroli dostępności przed publikacją treści](../kontrola-dostepnosci-przed-publikacja/procedura-kontroli-dostepnosci-przed-publikacja.md). Listy kontrolne z niniejszego zalecenia są narzędziem wykorzystywanym w tej procedurze.
 
 Niniejsze zalecenie określa standardy, wymagania oraz listy kontrolne. Nie określa decyzji publikacyjnej, sposobu dokumentowania kontroli ani trybu postępowania z błędami po publikacji.
 

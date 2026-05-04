@@ -140,6 +140,6 @@ Dostępność staje się stałym elementem pracy, niezależnie od wielkości pod
 
 ## Powiązane dokumenty
 
-- [Minimalne wymagania dostępności](./minimalne-wymagania.md)
+- [Minimalne wymagania dostępności](../komunikacja-masowa/minimalne-wymagania.md)
 - [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md)
 - [Listy kontrolne publikacji](./listy-kontrolne-index.md)

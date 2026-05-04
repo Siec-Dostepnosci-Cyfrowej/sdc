@@ -56,5 +56,5 @@ W komunikatach o znaczeniu publicznym zaleca się ograniczanie tekstu osadzonego
 
 - [Minimalne wymagania dostępności](./minimalne-wymagania.md)
 - [Standard opisu alternatywnego i treści równoważnych](./03-standard-opisu-alternatywnego-i-tresci-rownowaznych.md)
-- [Lista kontrolna publikacji treści z obrazkiem](./lista-kontrolna-publikacji-tresci-z-obrazkiem.md)
-- [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md)
+- [Lista kontrolna publikacji treści z obrazkiem](../kontrola-dostepnosci-przed-publikacja/lista-kontrolna-publikacji-tresci-z-obrazkiem.md)
+- [Procedura postępowania w sytuacjach wyjątkowych](../kontrola-dostepnosci-przed-publikacja/procedura-sytuacji-wyjatkowych.md)
