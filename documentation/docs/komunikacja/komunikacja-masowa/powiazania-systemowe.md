@@ -163,6 +163,6 @@ Tylko w takim ujęciu możliwe jest osiągnięcie trwałego i powtarzalnego pozi
 ## Powiązane dokumenty
 
 - [Dokumenty uzupełniające](./dokumenty-uzupelniajace-index.md)
-- [Mapa odpowiedzialności w procesie publikacji](../kontrola-dostepnosci-przed-publikacja/mapa-odpowiedzialnosci.md)
+- Mapa odpowiedzialności w procesie publikacji - dokument powiązany z Zaleceniem 4.
 - [Efekty wdrożenia](./efekty-wdrozenia.md)
-- [Procedura postępowania w sytuacjach wyjątkowych](../kontrola-dostepnosci-przed-publikacja/procedura-sytuacji-wyjatkowych.md)
+- Procedura postępowania w sytuacjach wyjątkowych - dokument powiązany z Zaleceniem 4.
