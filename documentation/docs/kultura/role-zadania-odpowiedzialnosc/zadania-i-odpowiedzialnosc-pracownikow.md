@@ -8,7 +8,7 @@ keywords: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna,
 tags: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie]
 opracowanie: Stefan Wajda 
 data_zgloszenia: 7 listopada 2025 r.
-ostatnia_aktualizacja: 12 listopada 2025 r.
+ostatnia_aktualizacja: 18 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
@@ -124,11 +124,10 @@ Odpowiedzialność za dostępność wymaga zmiany podejścia i kultury organizac
 
 
 ### B. Narzędzia zarządcze i dokumenty wspierające
-1. [Opis głównych procesów zapewniania dostępności cyfrowej](zal-1-opis-procesow-dostepnosc-cyfrowa)  
-2. [Opis interpretacyjny mapy odpowiedzialności (RACI)](zal-2-opis-mapy-raci-dostepnosc-cyfrowa)
-3. [Mapa odpowiedzialności (RACI)](zal-3-mapa-odpowiedzialnosci-raci-dostepnosc-cyfrowa)
-4. [Zestawienie wszystkich ról i funkcji w systemie dostępności cyfrowej](zal-4-zestawienie-rol-dostepnosc-cyfrowa)  
-5. [Wzory dokumentów pomocniczych dotyczących zapewniania dostępności cyfrowej](zal-5-wzory-dokumentow-pomocniczych-dostepnosc-cyfrowa) 
-6. [Zasady raportowania i wskaźniki monitorowania dostępności cyfrowej ](zal-06-zasady-raportowania-i-wskazniki-dostepnosc-cyfrowa) 
+1. [Opis interpretacyjny mapy odpowiedzialności (RACI)](zal-2-opis-mapy-raci-dostepnosc-cyfrowa)
+1. [Mapa odpowiedzialności (RACI)](zal-3-mapa-odpowiedzialnosci-raci-dostepnosc-cyfrowa)
+1. [Zestawienie wszystkich ról i funkcji w systemie dostępności cyfrowej](zal-4-zestawienie-rol-dostepnosc-cyfrowa)  
+1. [Wzory dokumentów pomocniczych dotyczących zapewniania dostępności cyfrowej](zal-5-wzory-dokumentow-pomocniczych-dostepnosc-cyfrowa) 
+1. [Zasady raportowania i wskaźniki monitorowania dostępności cyfrowej ](zal-06-zasady-raportowania-i-wskazniki-dostepnosc-cyfrowa) 
 
 ---
