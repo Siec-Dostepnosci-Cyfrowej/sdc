@@ -154,6 +154,6 @@ To zalecenie wprowadza mechanizm, w którym każde wykrycie lub zgłoszenie prob
 
 ## Załączniki
 
-1. [Organizacja i zadania zespołu odpowiedzialnego za naprawę problemów dostępności cyfrowej](organizacja-i-zadania-zespolu-naprawczego.md)
-2. [Wzorcowe zapisy dotyczące w umowie serwisowej](zapisy-w-umowie-serwisowej.md)
-3. [Zapisy dotyczące dostępności cyfrowej w umowie serwisowej (wariant dla małych jednostek)](zapisy-w-umowie-serwisowej-male-jst.md)
+1. [Organizacja i zadania zespołu odpowiedzialnego za naprawę problemów dostępności cyfrowej](organizacja-i-zadania-zespolu-naprawczego)
+2. [Wzorcowe zapisy dotyczące w umowie serwisowej](zapisy-w-umowie-serwisowej)
+3. [Zapisy dotyczące dostępności cyfrowej w umowie serwisowej (wariant dla małych jednostek)](zapisy-w-umowie-serwisowej-male-jst)
