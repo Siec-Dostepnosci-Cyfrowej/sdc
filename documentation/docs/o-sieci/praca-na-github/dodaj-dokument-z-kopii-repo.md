@@ -1,149 +1,251 @@
 ---
 id: dodaj-dokument-z-kopii-repo
-title: Dodaj dokument bezpośrednio na Github
-description: Poradnik objaśnia krok po kroku, jak uczestnik/-czka Sieci może dodać nowy dokument. 
-sidebar_position: 6
-sidebar_label: Dodaj dokument bezpośrednio na Github
+title: Dodaj dokument bezpośrednio na GitHubie
+description: Jak dodać nowy projekt dokumentu bezpośrednio w przeglądarce.
+sidebar_position: 3
+sidebar_label: Dodaj dokument na GitHubie
+
+data_zgloszenia: 18 października 2025 r.
+ostatnia_aktualizacja: 3 maja 2026 r.
 opracowanie: Stefan Wajda
-data_zgloszenia: 19 października 2025 r.
-data_aktualizacji: 19 października 2025 r.
 ---
 
-:::info Wskazówka
+## Cel
 
-Ten poradnik objaśnia, jak dodać swój projekt zalecenia, rozwiązania lub opis praktyki **z kopii repozytorium Sieci na swoim koncie Github**.
+Dodasz nowy dokument do repozytorium Sieci i zgłosisz go do sprawdzenia.
 
-Aby dodać swój projekt w środowisku Github Destkop, zobacz [**Dodaj projekt z Github Destkop**](dodaj-dokument-z-github-destkop). 
+Ten poradnik opisuje pracę bezpośrednio na stronie GitHub, bez instalowania dodatkowych programów.
 
+## Zanim zaczniesz
+
+Potrzebujesz:
+
+- konta na GitHubie,
+- dostępu do repozytorium Sieci,
+- kopii repozytorium Sieci na swoim koncie, czyli forka.
+
+Jeśli nie masz jeszcze konta lub dostępu, zacznij od poradnika:
+
+- [Utwórz konto na GitHubie](./utworz-konto-na-githubie)
+
+## Jak wygląda cały proces
+
+Wykonasz pięć czynności:
+
+1. sprawdzisz, czy Twoja kopia repozytorium jest aktualna,
+2. utworzysz nową gałąź,
+3. dodasz nowy plik w podkatalogu projektu,
+4. zapiszesz zmianę,
+5. utworzysz pull request.
+
+## Kilka słów przed rozpoczęciem
+
+**Fork** to kopia repozytorium Sieci na Twoim koncie.
+
+**Gałąź** to miejsce pracy nad jedną propozycją.  
+Dla każdego nowego projektu utwórz osobną gałąź.
+
+**Commit** to zapisanie zmiany w repozytorium.
+
+**Pull request** to zgłoszenie propozycji do sprawdzenia i przyjęcia.
+
+## 1. Otwórz swoją kopię repozytorium
+
+1. Zaloguj się na GitHubie.
+2. Otwórz swoją kopię repozytorium Sieci.
+3. Upewnij się, że jesteś w gałęzi `main`.
+
+## 2. Zsynchronizuj swoją kopię
+
+Przed dodaniem dokumentu sprawdź, czy Twoja kopia repozytorium jest aktualna.
+
+1. Znajdź przycisk **Sync fork**.
+2. Otwórz go.
+3. Jeśli pojawi się przycisk **Update branch**, wybierz go.
+
+Jeśli GitHub pokazuje informację, że gałąź jest aktualna, przejdź dalej.
+
+## 3. Utwórz nową gałąź
+
+1. Przejdź do strony **Branches**.
+2. Wybierz przycisk **New branch**.
+3. Wpisz nazwę gałęzi.  
+   Nazwę zapisz prosto, bez polskich znaków i bez spacji.  
+   Najlepiej taką, jak temat zalecenia, na przykład:
+
+```txt
+stosowanie-prostego-jezyka
+```
+
+4. Wybierz przycisk **Create branch**.
+   Od tej chwili pracujesz w nowej gałęzi.
+
+:::tip Pamiętaj
+
+Dla każdego nowego projektu twórz osobną gałąź.
 :::
 
-Aby dodawać do repozytorium Sieci dokumenty i zgłaszać poprawki do dokumentów, korzystamy z funkcji **<em lang="en">pull requesty</em>**. 
+## 4. Przejdź do katalogu odpowiedniego wymiaru
 
-Funkcja **Pull requesty** jest stworzona do tego, aby proponować, a następnie analizować, testować, rozwijać, korygować, przeglądać, komentować i zatwierdzać zmiany w kodzie. Doskonale sprawdzi się także w przypadku dokumentów z projektami zaleceń, rozwiązań i opisami praktyk.
+Na liście plików otwórz kolejno:
 
-Proces dodawania do repozytorium nowego dokumentu składa się z kilku etapów:
-- utworzenie w repozytorium nowej gałęzi 
-- utworzenie w tej gałęzi nowego dokumentu lub poprawki w istniejącym dokumencie
-- skomitowanie do repozytorium wprowadzonej zmiany (nowego lub poprawionego dokumentu lub zestawu dokumentów)
-- wysłanie gałęzi ze zmianami na Github
-- utworzenie i otwarcie pull requesta. 
+1. documentation
+2. docs
+3. katalog odpowiedniego wymiaru, na przykład _komunikacja_.  
+   To jest miejsce, w którym dodajesz nowy projekt dokumentu.
+   
+W katalogu wymiaru utworzysz osobny podkatalog dla swojego projektu.   
+   
+## 5. Dodaj nowy plik w nowym podkatalogu
 
-Aby dodać do repozytorium Sieci dokument ze swoim projektem, musisz mieć kopię repozytorium na swoim koncie Github. Kopia repozytorium nazywa się forkiem (rozgałęzieniem).
+GitHub nie tworzy pustych katalogów.  
+Nowy podkatalog powstanie dopiero wtedy, gdy utworzysz w nim pierwszy plik.
 
-[Dowiedz się, jak utworzyć kopię repozytorium na swoim koncie](./utworz-konto-na-githubie)
+Działanie składa się z dwóch części:
+
+### 5A. Wpisz nazwę podkatalogu
+
+1. Wybierz przycisk **Add file**.
+2. Wybierz opcję **Create new file**.
+3. W polu nazwy pliku wpisz nazwę podkatalogu.
+4. Po nazwie podkatalogu wpisz ukośnik `/`.
+
+Przykład:
+
+```txt
+stosowanie-prostego-jezyka/
+```
+Po wpisaniu ukośnika GitHub przeniesie kursor do pola nazwy pliku. 
+
+### 5B. Wpisz nazwę pliku
+
+4. Wpisz nazwę pliku, na przykład:
+
+```txt
+index.md
+```
+
+Cała ścieżka będzie wyglądała tak:
+
+```txt
+stosowanie-prostego-jezyka/index.md
+```
+
+Nazwa podkatalogu i nazwa pliku powinny:
+
+- być krótkie,
+- nie zawierać spacji,
+- nie zawierać polskich znaków,
+- używać małych liter i łączników.
+
+Plik musi kończyć się rozszerzeniem `.md`.
 
 
-## Tworzenie nowej gałęzi
+## 6. Wpisz treść dokumentu
 
-Gałąź (ang. **<em lang="en">branch</em>** to kopia głównej wersji plików składających się na cały projekt. Dzięki gałęziom wiele osób może równolegle rozwijać projekt - w przypadku oprogramowania dodawać i testować nowe funkcje, a w naszym przypadku dodawać i rozpatrywać dokumenty projektowe, dyskutować nad nimi i korygować je bez wpływu na główne zaakceptowane lub robocze wersje dokumentów projektu. 
+W dużym polu edycji wpisz albo wklej treść dokumentu.
 
-Gdy kształt nowych projektów dokumentów albo poprawek do istniejących dokumentów zostanie uzgodniony, zostają one scalone z główną wersją projektu, a gałąź jest usuwana. W przypadku, gdy ktoś uzna za potrzebne wprowadzenie do dokumentu scalonego z główną wersją projektu jakiejkolwiek poprawki, tworzy się nową gałąź.
+Dokument zapisujemy w formacie Markdown.
 
-Github przechowuje wszystkie uzgodnione i poprawione wersje dokuemntów, a także historię dyskusji nad nimi. Dzięki temu można w razie potrzeby przywrócić każdą z wcześiejszych wersji. 
+Na początku pliku dodaj metadane, na przykład:
 
-Gałąź może być utworzona w kopii repozytorium na koncie użytkownika Github albo bezpośrednio w głównym repozytorium. **Zasady pracy Sieci skonfigurowaliśmy tak, że gałęzie tworzone są z zasady w kopiach repozytoriów na kontach uczestników Sieci**.
+```Markdown
+---
+id: zalecenie-prosty-jezyk
+title: Stosowanie prostego języka w komunikacji organizacji
+description: Projekt zalecenia dotyczącego prostego języka.
+---
+```
+
+Identyfikator (`id`) musi być dokładnie taki sam, jak nazwa pliku bez rozszerzenia `.md`.
 
 
-### Sprawdź aktualność repozytorium
-Twoje repozytorium musi mieć aktualną wersję głównej gałęzi repozytorium Sieci. Sprawdź, czy jest aktualne.
+Potem wpisz treść dokumentu.
 
-1. Przejdź na swoje konto Github i otwórz kopię repozytorium SDC
-2. **Zsynchronizuj swoją kopię**. Zawsze sprawdzaj, czy Twoja kopia głównej gałęzi **<em lang="en">main</em>** jest aktualna. Jeśli nie jest, zsynchronizuj ją. Rozwiń przycisk  **<em lang="en">Sync fork</em>** (Zsynchronizuj fork):<br /><br /> 
-   ![Lokalizacja przycisku Synchronizuj fork](./img/01-dodaj-z-repo-synchronizuj.png)<br /><br />
-3. Sprawdź, czy Twój fork jest aktualny. Jeśli komuniakt w rozwijanej treści mówi  **<em lang="en">This branch is out-of-date</em>**, to znaczy, że kopia nie jest aktualna i trzeba uaktualnić gałąź. Wybierz przycisk **<em lang="en">Update branch</em>** (Aktualizuj gałąź):<br /><br />
-   ![Okno z komunikatem o aktualności głównej gałęzi](./img/02-dodaj-z-repo-update-branch.png)<br /><br />
-### Utwórz nową gałąź  
-**Aby utworzyć nową gałąź na nowy projekt:** 
-1. Wybierz przycisk  **<em lang="en">Go to branches page</em>** (Idź na stronę gałęzi)<br /><br />
-   ![Przycisk Idź na stronę gałęzi](./img/03-dodaj-z-repo-wybierz-galezie.png)
-2. Na stronie gałęzi wybierz przycisk **<em lang="en">New branch</em>** (Nowa gałąź):<br /><br />
-   ![Lokalizacja przycisku Nowa gałąź na stronie Gałęzie](./img/05-dodaj-z-repo-new-branch.png)
-3. Pojawi się formularz **<em lang="en">Create branch</em>** (Utwórz gałąź). Wpisz w polu 
-   **<em lang="en">Name</em>** nazwę nowej gałęzi – używaj tylko liter łacińskich i cyfr, nie zostawiaj spacji, wyrazy oddzielaj znakami łącznika, np. _moj-piekny-projekt_<br /><br />
-   ![Formularz Utwórz gałąź](./img/04-dodaj-z-repo-create-new-branch.png)<br /><br />
-4. Wybierz przycisk **<em lang="en">Create branch</em>** (Utwórz gałąź)<br /><br />
+Przykład:
 
-Zostanie utworzona nowa gałąź. Pamiętaj, żeby usunąć tę gałąź, gdy już nie będzie potrzebna.
+```Markdown
 
-:::tip Pamiętaj!
+# Stosowanie prostego języka w komunikacji organizacji
 
-Dla każdego nowego projektu musisz utworzyć nową gałąź.
+## 1. Cel zalecenia
 
-:::
+Celem zalecenia jest...
 
-## Tworzenie nowego dokumentu  
-Dokumenty dodajemy do przeznaczonego na nie katalogu projektu w gałęzi przeznaczonej na ten projekt. W głównym repozytorium Sieci (i w głównej gałęzi) utworzyliśmy specjalne katalogi nazwane **_nowy projekt** w katalogu projektów dla każdego wymiaru. 
+```
 
-Aby dodać nowy dokument do tego katalogu
+## 7. Zapisz zmianę
 
-1. Wybierz utworzoną wcześniej gałąź przeznaczoną na nowy projekt. W tym celu możesz przejść na stroną **<em lang="en">Branches</em>** (Gałęzie): <br/><br/> 
-   ![Wybierz dodaną gałąź na stronie Gałęzie](./img/06-dodaj-z-repo-my-branch.png)<br/><br/> 
-   **albo** wybrać gałąź z rozwijanego menu **<em lang="en">Branches</em>** (Gałęzie): <br/><br/> 
-   ![Wybierz dodaną gałąź z menu Gałęzie](./img/06-dodaj-z-repo-my-branch-02.png) <br/><br/> 
-2. Na liście plików wybierz kolejno:
-   - katalog ***documentation***
-   - katalog ***docs***
-   - katalog wymiaru, np. ***komunikacja***
-   - i katalog ***_nowy-projekt***. <br/>
-   Znajdziesz się w miejscu, w którym możesz dodać dokumenty swojego projektu: <br/><br/> 
-   ![Okno katalogu nowy projekt. Strzałki wskazuje dwie lokalizacje łącza Dodaj plik](./img/06-dodaj-z-repo-wybierz-folder.png) <br/><br/> 
-3. Przejdź do obszaru treści głównej. 
-4. Użyj opcji **<span lang="en">Add file</span>** (Dodaj plik). Łącza znajdują się w dwóch miejscach. Na początku bocznego paska nawigacyjnego. To najszybszy dostęp za pomocą czytnika ekranu. Albo w prawym narożniku ekranu, za ścieżką powrotu.<br/><br/> 
-   ![Rozwinięta lista opcji Dodaj plik](./img/dodaj-plik-rozwinieta-opcja.png)<br/><br/> 
-   Druga opcja pozwala przesłać dokument ze swojego komputera. My utworzymy nowy dokument. 
-5. Dodaj nazwę dokumentu<br/>
-   Wybór łącza **<span lang="en">Add file</span>** w pasku nawigacyjnym przeniesie Cię od razu do ścieżki powrotu, na końcu której trzeba dodać nazwę pliku. Nazwa nie może zawierać spacji, wyrazy oddzielaj łącznikami. Używaj w nazwach tylko małych liter z zestawu alfabetu łacińskiego (polskie zastąp odpowiednikami np. wpisuj <q>a</q> zamiast <q>ą</q>, np. **moj-piekny-projekt.md**. Nazwę pliku uzupełnij po kropce rozszerzeniem **.md** wskazującym na format Makdown. <br/><br/> 
-  ![Ścieżka powrotu z nazwą dokumentu wpisaną jako ostatni wizualnie element ścieżki](./img/07-dodaj-z-repo-nazwa-dokumentu.png)<br/><br/> 
-6. Dodaj treść dokumentu.<br />
-   Treść zapisujemy za pomocą bardzo prostego [formatu Markdown](
-   ../poradniki/poradnik-do-markdown.mdx). Na ilustracji widać kilka typowych elementów:<br />
-   Pierwsza sekcja dokumentu to metadane, tzw. **<em lang="en">FrontMater</em>**. Rozpoczyna ją i kończy wiersz z trzema myślnikami. Między myślnikami umieszczamy wiersze z danymi o dokumencie: <br/>
-    
-   ```md
-   ---
-   id: moj-piekny-projekt
-   description: "Rozwiązuje \"wszystkie problemy\" dostępności cyfrowej w organizacji"
-   ---  
-   ```
-   Obowiązuje tu składnia: **nazwa_danej: treść danej**. Najpierw wpisujemy nazwę danej, po nazwie stawiamy dwukropek i robimy jedną spację, a następnie zapisujemy treść danej.  Jeśli chcemy użyć w treści dwukropka albo znaków cala, to całą treść musimy objąć znakami cala, a znaki cala wewnątrz poprzedzamy znakiem ucieczki (lewym ukośnikiem).<br/>
+Na GitHubie zapisanie zmiany nazywa się **commit**.
 
-   ![Fragment dokumentu w edytorze](./img/07-dodaj-z-repo-tekst-dokumentu.png)<br/><br/>
-   Aby utworzyć nagłówek 1 stopnia, zaczynamy wiersz od znaku **#**, nagłówek drugiego stopnia - od dwóch znaków **##**, itd.<br/>
-   Aby utworzyć **nowy akapit**, rozpoczynamy tekst od nowej linii poprzedzonej pustym wierszem.<br/>
-   Aby utworzyć **punkt listy z punktorem** rozpoczynamy wiersz od myślnika albo gwiazdki.<br/>
-   Aby rozpocząć punkt listy numerowanej, rozpoczynamy wiersz od cyfry 1.
+1. Wybierz przycisk **Commit changes**.
+2. W oknie zapisu możesz zostawić domyślny tytuł.
+3. Upewnij się, że wybrana jest opcja zapisu do Twojej nowej gałęzi.
+4. Wybierz przycisk **Commit changes**.
 
-## Wykonaj <span lang="en">commit</span>
+## 8. Utwórz pull request
 
-   Gdy mamy gotowy dokument, musimy go wysłać do repozytorium na naszej gałęzi. Angielskie **<span lang="en">commit</span>** już nawet spolonizowaliśmy i mówimy <q>skomitować</q>. 
- 
-1. Wróć do nagłówka edyora internetowego. Wybierz przycisk **<span lang="en">Commit changes</span>** (Wyślij zmiany), który znajduje się za ścieżką powrotu.<br/><br/>  
-   ![Fragment dokumentu w edytorze](./img/08-dodaj-z-repo-commit-change.png)<br/><br/>   
-2. W oknie **<span lang="en">Commit message</span>** wybierz przycisk **<span lang="en">Commit changes</span>**. <br/>**Uwaga**: Tytuł i opis pozostaw bez zmian, choć możesz je poprawić w razie potrzeby. Najważniejsze, by nie zmienić wybranej opcji:  **<span lang="en">Commit directly to the… [branch name]</span>** (Komituj bezpośrednio do gałęzi nazwa-projektu. <br/><br/> 
-   ![Położenie przycisku Prześlij zmiany](./img/09-dodaj-z-repo-commit-changes.png)  
+Po zapisaniu zmiany GitHub zwykle pokaże przycisk **Compare & pull request**.
 
-## Utwórz pull request
+1. Wybierz **Compare & pull request**.
+2. Sprawdź tytuł pull requesta.
+3. W opisie możesz krótko napisać, czego dotyczy dokument.
+4. Wybierz **Create pull request**.
 
-Przejdź na stronę główną repozytorium.
+Pull request został utworzony. Twoja propozycja trafiła do sprawdzenia.
 
-1. W obszarze terści głównej pojawi się komunikat o <q>komicie</q> oraz przycisk  **<span lang="en">Compare &amp; pull request</span>** (Porównaj i wyślij żądanie). Wybierz to polecenie:<br/><br/>  
-   ![Położenie przycisku Prześlij zmiany](./img/10-dodaj-z-repo-compare-and-pull-request.png)<br/><br/> 
-   Zostanie otwarta strona **<span lang="en">Open a pull request</span>** (Otwórz żądanie scalenia) w repozytorium Sieci Dostępności cyfrowej.  
-2. Masz tu jeszcze raz okazję, by poprawić nazwę i dodać lub zmienić opis. Najważniejsze jest jednak, by utworzyć **pull request**. Wybierz przycisk **<span lang="en">Create pull request</span>** (Utwórz żądanie scalenia):<br/><br/> 
-   ![Położenie przycisku Prześlij zmiany](./img/11-dodaj-z-repo-open-pull-request.png)
+## 9. Sprawdź wynik automatycznych testów
 
-## Sprawdź poprawność
-Po otwarciu żądania scalenia (*<em lang="en">pull requesta</em>*) Github uruchomi automatyczne testy poprawności. 
+Po utworzeniu pull requesta GitHub uruchomi automatyczne testy.
 
-1. Zobacz przebieg testów automatycznych. Przebieg testów jest widoczny na stronie z  *<em lang="en">pull requestem</em>*, poniżej opisu:<br/><br/>
-   ![Sprawdzanie poprawności kodu w repozytorium Sieci](./img/12-dodaj-z-repo-sprawdz-poprawnosc.png)
-2. Zobacz wynik. O poprawnym wyniku testów informują dwa komunikaty: **<em lang="en">All checks have passed</em>** (Wszystkie testy zakończyły się pomyślnie) oraz **<em lang="en">No conflicts with the base branch</em>** (Brak konfliktów z gałęzią bazową). Dodatkowo poprawny wynik sygnalizują ikony z białą fiszką na zielonym tle. <br/><br/>
-   ![Poprawny wynik testów](./img/13-dodaj-z-repo-sprawdz-poprawnosc-ok.png)
-3. Popraw błędy. Jeśli wynik testów nie będzie poprawny, spróbuj znaleźć błędy w dokumencie, np. czy linki są poprawne. Jeśli nie wiesz, co sprawdzać, **nie przejmuj się**! Przejrzymy Twój dokument i poprawimy ewentualne błędy.
+Jeśli wszystko jest poprawne, zobaczysz komunikaty podobne do:
 
-## Gotowe!
+- **All checks have passed** (_Wszystkie testy przeszły_)
+- **No conflicts with the base branch**  (_Nie ma konfliktu z główną gałęzią_)
 
-Możesz sprawdzić na karcie Pull request, że Twoja propozycja została dodana. Administrator przejrzy Twój dokument, poprawi go w razie potrzeby lub zamieści komentarz z informacją, co należy poprawić. Jeśli dokument będzie poprawny, opatrzy go etykietami oraz przypisze Ci odpowiedzialnosć za dokument. Może także zlecić konkretnym współpracownikom dokonanie przeglądu.
+Jeśli pojawią się błędy, nie przejmuj się. Administrator lub osoba prowadząca repozytorium pomoże je znaleźć i poprawić.
 
-![Na karcie Pull requesty zaznaczone nowe żądanie scalenia.](./img/14-dodaj-z-repo-pull-request.png)
+## Gotowe
 
+Twój projekt został zgłoszony.
+
+Teraz może zostać:
+
+- sprawdzony,
+- skomentowany,
+- poprawiony,
+- zaakceptowany,
+- scalony z głównym repozytorium.
+
+Po scaleniu gałąź można usunąć.
+
+## Co może pójść nie tak
+
+**Nie widzę przycisku „Sync fork”**
+
+Upewnij się, że jesteś w swojej kopii repozytorium, a nie w repozytorium głównym Sieci.
+
+**Nie wiem, w którym katalogu dodać dokument**
+
+Wybierz katalog wymiaru, którego dotyczy projekt.
+Jeśli nie masz pewności, dodaj dokument w najbliższym właściwym katalogu albo poproś lidera zespołu o wskazanie miejsca.
+
+**GitHub pokazuje błąd w metadanych**
+
+Najczęstsze przyczyny:
+
+- brak dwukropka po nazwie pola,
+- brak spacji po dwukropku,
+- użycie cudzysłowu w środku opisu bez odpowiedniego zapisu,
+- brak drugiego wiersza z trzema myślnikami.
+
+**Testy automatyczne nie przeszły**
+
+Nie oznacza to, że projekt jest zły.
+Najczęściej trzeba poprawić drobny błąd techniczny w pliku.
+
+## Wskazówki dla osób korzystających z czytnika ekranu
+- Kieruj się nazwami przycisków i pól, a nie ich położeniem na ekranie.
+- Najważniejsze elementy to: **Sync fork**, **New branch**, **Add file**, **Create new file**, **Commit changes**, **Compare & pull request**, **Create pull request**.
+- Jeśli GitHub otworzy dodatkowe okno lub formularz, przejdź po jego polach klawiszem Tab.
+- W razie problemów z odnalezieniem przycisku użyj wyszukiwania na stronie albo listy przycisków dostępnej w czytniku ekranu.
