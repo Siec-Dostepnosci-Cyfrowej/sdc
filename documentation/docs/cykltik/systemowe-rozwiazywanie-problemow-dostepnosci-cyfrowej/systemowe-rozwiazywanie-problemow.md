@@ -55,7 +55,7 @@ Podmiot stosuje następującą klasyfikację niezgodności:
 | Priorytet | Opis | Przykład |
 | :--- | :--- | :--- |
 | **Krytyczny** | Uniemożliwia skorzystanie z usługi. | Brak obsługi klawiaturą, pułapka klawiaturowa, brak etykiet w formularzu logowania. |
-| **Istotny** | Znacznie utrudnia korzystanie z usługi, ale istnieje alternatywna (trudniejsza) droga. | Błędy wpływające na nawigację, interakcję lub zrozumienie treści. |
+| **Istotny** | Znacznie utrudnia korzystanie z usługi, ale istnieje alternatywna (trudniejsza) droga. | Błędy wpływające na nawigację, interakcję lub zrozumienie treści, zbędne komunikaty. |
 | **Niski** | Błędy, które nie wpływają na możliwość skorzystania z usługi ani na zrozumienie treści. | Drobne błędy w kodzie niedostrzegalne dla użytkownika. |
 
 Podmiot określa maksymalne czasy naprawy, uwzględniając wpływ na użytkownika końcowego, a nie wyłącznie złożoność techniczną naprawy.
