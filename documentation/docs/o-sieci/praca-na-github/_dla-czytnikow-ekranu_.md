@@ -6,6 +6,7 @@ sidebar_position: 8
 data_zgloszenia: 25 października 2025 r.
 ostatnia_aktualizacja: 25 października 2025 r.
 opracowanie: Jacek Zadrożny
+wersja_robocza: false
 ---
 
 ## Warunki wstępne

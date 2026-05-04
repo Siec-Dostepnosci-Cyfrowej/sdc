@@ -248,7 +248,9 @@ Nie oznacza to, że projekt jest zły.
 Najczęściej trzeba poprawić drobny błąd techniczny w pliku.
 
 ## Wskazówki dla osób korzystających z czytnika ekranu
-- Kieruj się nazwami przycisków i pól, a nie ich położeniem na ekranie.
+- Kieruj się nazwami elementów, a nie ich położeniem na ekranie.
 - Najważniejsze elementy to: **Sync fork**, **New branch**, **Add file**, **Create new file**, **Commit changes**, **Compare & pull request**, **Create pull request**.
 - Jeśli GitHub otworzy dodatkowe okno lub formularz, przejdź po jego polach klawiszem Tab.
 - W razie problemów z odnalezieniem przycisku użyj wyszukiwania na stronie albo listy przycisków dostępnej w czytniku ekranu.
+
+GitHub może działać inaczej w zależności od czytnika i przeglądarki.

@@ -236,3 +236,6 @@ Dodanie projektu zalecenia
 - <kbd>Ctrl+p</kbd> - wypchnięcie na serwer
 - <kbd>Ctrl+Shift+p</kbd> - pobranie aktualnej wersji z serwera
 :::
+
+
+GitHub może działać inaczej w zależności od czytnika i przeglądarki.

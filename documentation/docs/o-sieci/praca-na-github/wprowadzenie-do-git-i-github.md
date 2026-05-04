@@ -23,7 +23,8 @@ Git pozwala zapisywać i śledzić zmiany w plikach, a GitHub umożliwia wspóln
 W pracy Sieci GitHub służy do:
 - dodawania projektów dokumentów,
 - komentowania i poprawiania dokumentów innych osób,
-- wprowadzania zmian do już opublikowanych materiałów.
+- wprowadzania zmian do już opublikowanych materiałów,
+- prezentacji dorobku Sieci na stronie internetowej. 
 
 Nie musisz znać wszystkich funkcji Git i GitHub. Wystarczy, że opanujesz kilka podstawowych działań, opisanych w kolejnych poradnikach.
 
@@ -34,11 +35,11 @@ Nie musisz znać wszystkich funkcji Git i GitHub. Wystarczy, że opanujesz kilka
 - **Pull request** – propozycja zmiany w projekcie (np. nowy dokument lub poprawka).
 - **Komentarz** – uwaga do dokumentu lub propozycja zmiany.
 
-To wystarczy na początek. Pozostałe pojęcia poznasz w praktyce.
+To wystarczy na początek. Pozostałe pojęcia poznasz w trakcie pracy.
 
 ## Jak wygląda praca w praktyce
 
-Najczęściej wykonasz jeden z trzech typów działań:
+Najczęściej wykonasz jeden z czterech typów działań:
 
 ### 1. Dodanie nowego dokumentu
 - tworzysz plik,
@@ -53,6 +54,17 @@ Najczęściej wykonasz jeden z trzech typów działań:
 - wprowadzasz zmiany,
 - zgłaszasz je do akceptacji (pull request).
 
+### 4. Przeglądanie projektów
+
+- gotowe, opublikowane projekty znajdziesz na stronie:
+  https://siec-dostepnosci-cyfrowej.github.io/sdc/
+
+- projekty zgłoszone, ale jeszcze niescalone, możesz przeglądać
+  na karcie „Pull requests” w repozytorium
+
+- w pierwszym komentarzu do projektu znajdziesz też link do jego podglądu
+
+
 ## Co jest najważniejsze
 
 Nie musisz rozumieć wszystkich pojęć technicznych.  
@@ -61,6 +73,16 @@ Najważniejsze jest to, aby:
 - dodawać swoje propozycje,
 - komentować prace innych,
 - reagować na uwagi do własnych dokumentów.
+
+## Praca z GitHub przy użyciu czytnika ekranu
+
+- kieruj się nazwami elementów, nie ich położeniem
+- używaj klawisza Tab do przechodzenia między elementami
+- korzystaj z listy przycisków i linków w czytniku
+- używaj wyszukiwania na stronie (Ctrl+F), aby szybko znaleźć element
+- jeśli nie możesz znaleźć elementu, dodaj komentarz ogólny zamiast szczegółowego
+
+GitHub może działać inaczej w zależności od czytnika i przeglądarki.
 
 ## Co dalej
 
