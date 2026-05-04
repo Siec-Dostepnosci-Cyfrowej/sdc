@@ -24,6 +24,6 @@ wersja_robocza: true
 ## Powiązane dokumenty
 
 - [Minimalne wymagania dostępności](./minimalne-wymagania.md)
-- [Model operacyjny publikacji dostępnych multimediów](./model-operacyjny-publikacji-dostepnych-multimediow.md)
-- [Listy kontrolne publikacji](./listy-kontrolne-index.md)
-- [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md)
+- [Model operacyjny publikacji dostępnych multimediów](../kontrola-dostepnosci-przed-publikacja/model-operacyjny-publikacji-dostepnych-multimediow.md)
+- [Listy kontrolne publikacji](../kontrola-dostepnosci-przed-publikacja/listy-kontrolne-index.md)
+- [Procedura postępowania w sytuacjach wyjątkowych](../kontrola-dostepnosci-przed-publikacja/procedura-sytuacji-wyjatkowych.md)

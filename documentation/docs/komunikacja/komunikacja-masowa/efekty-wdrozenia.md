@@ -159,5 +159,5 @@ Podstawowy poziom dostępności zostaje utrzymany, a kolejne działania mają ch
 
 - [Minimalne wymagania dostępności](./minimalne-wymagania.md)
 - [Standardy tworzenia dostępnych materiałów](./standardy-tworzenia-index.md)
-- [Listy kontrolne publikacji](./listy-kontrolne-index.md)
-- [Mapa odpowiedzialności w procesie publikacji](./mapa-odpowiedzialnosci.md)
+- [Listy kontrolne publikacji](../kontrola-dostepnosci-przed-publikacja/listy-kontrolne-index.md)
+- [Mapa odpowiedzialności w procesie publikacji](../kontrola-dostepnosci-przed-publikacja/mapa-odpowiedzialnosci.md)

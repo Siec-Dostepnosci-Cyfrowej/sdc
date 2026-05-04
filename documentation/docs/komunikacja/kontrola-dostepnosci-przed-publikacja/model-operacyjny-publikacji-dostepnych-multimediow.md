@@ -81,8 +81,8 @@ Jeżeli wymagania nie są spełnione, materiał wraca do poprawy albo przechodzi
 
 ## Powiązane dokumenty
 
-- [Minimalne wymagania dostępności](./minimalne-wymagania.md)
+- [Minimalne wymagania dostępności](../komunikacja-masowa/minimalne-wymagania.md)
 - [Mapa odpowiedzialności w procesie publikacji](./mapa-odpowiedzialnosci.md)
 - [Listy kontrolne publikacji](./listy-kontrolne-index.md)
-- [05. Standard tworzenia dostępnych materiałów audio](./05-standard-tworzenia-dostepnych-materialow-audio.md)
+- [05. Standard tworzenia dostępnych materiałów audio](../komunikacja-masowa/05-standard-tworzenia-dostepnych-materialow-audio.md)
 - [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md)

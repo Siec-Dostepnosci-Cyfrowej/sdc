@@ -111,13 +111,13 @@ Zalecenie obejmuje komunikację publiczną prowadzoną przez podmiot w kanałach
 Pakiet wdrożeniowy obejmuje dokumenty określające wymagania, przebieg procesu i narzędzia do codziennej pracy:
 
 - [Minimalne wymagania dostępności](./minimalne-wymagania.md)
-- [Model operacyjny publikacji dostępnych multimediów](./model-operacyjny-publikacji-dostepnych-multimediow.md)
+- [Model operacyjny publikacji dostępnych multimediów](../kontrola-dostepnosci-przed-publikacja/model-operacyjny-publikacji-dostepnych-multimediow.md)
 - [Standardy tworzenia dostępnych materiałów](./standardy-tworzenia-index.md)
 - [Standard tworzenia dostępnych materiałów audio](./05-standard-tworzenia-dostepnych-materialow-audio.md)
-- [Listy kontrolne publikacji](./listy-kontrolne-index.md)
-- [Lista kontrolna publikacji audio](./lista-kontrolna-publikacji-audio.md)
-- [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md)
-- [Modele wdrożenia dla podmiotów](./modele-index.md)
+- [Listy kontrolne publikacji](../kontrola-dostepnosci-przed-publikacja/listy-kontrolne-index.md)
+- [Lista kontrolna publikacji audio](../kontrola-dostepnosci-przed-publikacja/lista-kontrolna-publikacji-audio.md)
+- [Procedura postępowania w sytuacjach wyjątkowych](../kontrola-dostepnosci-przed-publikacja/procedura-sytuacji-wyjatkowych.md)
+- [Modele wdrożenia dla podmiotów](../kontrola-dostepnosci-przed-publikacja/modele-index.md)
 
 ## Uzasadnienie
 

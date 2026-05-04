@@ -265,4 +265,4 @@ Model stanowi podstawę organizacji pracy, współpracy między zespołami oraz 
 - [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md)
 - [Modele organizacyjne i wdrożeniowe](./modele-index.md)
 - [Listy kontrolne publikacji](./listy-kontrolne-index.md)
-- [Minimalne wymagania dostępności](./minimalne-wymagania.md)
+- [Minimalne wymagania dostępności](../komunikacja-masowa/minimalne-wymagania.md)
