@@ -72,7 +72,10 @@ Ustawa o informatyzacji działalności podmiotów realizujących zadania publicz
 
 Ustawa o dostępie do informacji publicznej i przepisy dotyczące BIP wpływają na decyzje o publikacji, utrzymaniu, wycofaniu i udostępnianiu informacji. Ustawa o dostępności cyfrowej określa wymagania dla stron internetowych, aplikacji mobilnych, deklaracji dostępności i postępowania w sprawie zapewnienia dostępności cyfrowej.
 
-RODO oraz ustawa o ochronie danych osobowych wymagają powiązania retencji, publikacji, ograniczenia dostępu, minimalizacji danych i bezpieczeństwa przetwarzania. Przepisy branżowe mogą określać szczególne okresy przechowywania dokumentacji, których procedura archiwizacji nie może pomijać.
+5. **Ochrona danych osobowych**  
+   [Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (RODO)](https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:32016R0679) oraz [ustawa z dnia 10 maja 2018 r. o ochronie danych osobowych](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001000) (Dz.U. 2018 poz. 1000) wymagają powiązania retencji, publikacji, ograniczenia dostępu, minimalizacji danych i bezpieczeństwa przetwarzania.
+
+6. **Przepisy branżowe** – mogą określać szczególne okresy przechowywania dokumentacji, których procedura archiwizacji nie może pomijać.
 
 ## Źródła i opracowania
 
