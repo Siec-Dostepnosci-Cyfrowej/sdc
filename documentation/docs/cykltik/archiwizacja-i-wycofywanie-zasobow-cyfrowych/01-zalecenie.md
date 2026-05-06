@@ -63,6 +63,8 @@ Procedura archiwizacji i wycofywania pozwala rozróżnić archiwizację operacyj
 
 ## Podstawy prawne
 
+Podstawy prawne zalecenia wynikają z kilku porządków regulacyjnych.
+
 Podstawy prawne zalecenia wynikają z kilku porządków regulacyjnych. Ustawa o narodowym zasobie archiwalnym i archiwach oraz przepisy wykonawcze dotyczące instrukcji kancelaryjnej, JRWA i instrukcji archiwalnej określają obowiązek właściwego klasyfikowania, kwalifikowania, przechowywania, przekazywania i brakowania dokumentacji.
 
 Ustawa o informatyzacji działalności podmiotów realizujących zadania publiczne oraz Krajowe Ramy Interoperacyjności wskazują znaczenie interoperacyjności, bezpieczeństwa, minimalnych wymagań dla systemów, formatów danych i zdolności wymiany informacji w postaci elektronicznej.
