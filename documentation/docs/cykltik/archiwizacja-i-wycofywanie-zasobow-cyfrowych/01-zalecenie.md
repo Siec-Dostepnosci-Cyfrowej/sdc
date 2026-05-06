@@ -18,7 +18,14 @@ wersja_robocza: true
 
 Celem zalecenia jest wprowadzenie systemowych zasad archiwizacji i wycofywania zasobów cyfrowych w podmiotach publicznych. Zalecenie odpowiada na problem rozproszonego i nieudokumentowanego postępowania z treściami, dokumentami, danymi i systemami, które utraciły aktualność, zmieniły funkcję albo mają zostać przeniesione do innego środowiska.
 
-Zalecenie domyka cykl życia TIK przez wskazanie, że projektowanie, tworzenie, publikacja i utrzymanie zasobu muszą być powiązane z przeglądem, kwalifikacją, archiwizacją, migracją, wycofaniem z publikacji, wycofaniem systemu oraz przekazaniem albo brakowaniem dokumentacji. Zasób cyfrowy powinien mieć określony status, właściciela, metadane, kontekst oraz udokumentowaną decyzję o dalszym postępowaniu.
+Zalecenie domyka cykl życia technologii informacyjno-komunikacyjnych (TIK) przez wskazanie, że projektowanie, tworzenie, publikacja i utrzymanie zasobu muszą być powiązane z:
+
+- przeglądem i kwalifikacją,
+- archiwizacją lub migracją,
+- wycofaniem z publikacji lub wycofaniem systemu,
+- przekazaniem albo brakowaniem dokumentacji.
+
+Zasób cyfrowy powinien mieć określony status, właściciela, metadane, kontekst oraz udokumentowaną decyzję o dalszym postępowaniu.
 
 Materiał wspiera wszystkie podmioty publiczne. Małe jednostki mogą stosować uproszczone narzędzia organizacyjne, takie jak rejestr decyzji i podstawowa karta zasobu. Duże podmioty powinny powiązać procedurę z EZD, archiwum zakładowym, właścicielami systemów, procesami migracji i umowami z wykonawcami. W każdym przypadku wymagania prawne pozostają takie same, a różnić może się sposób organizacji działań.
 
