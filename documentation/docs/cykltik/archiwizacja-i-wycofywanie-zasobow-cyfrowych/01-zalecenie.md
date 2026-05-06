@@ -65,7 +65,8 @@ Procedura archiwizacji i wycofywania pozwala rozróżnić archiwizację operacyj
 
 Podstawy prawne zalecenia wynikają z kilku porządków regulacyjnych.
 
-Podstawy prawne zalecenia wynikają z kilku porządków regulacyjnych. Ustawa o narodowym zasobie archiwalnym i archiwach oraz przepisy wykonawcze dotyczące instrukcji kancelaryjnej, JRWA i instrukcji archiwalnej określają obowiązek właściwego klasyfikowania, kwalifikowania, przechowywania, przekazywania i brakowania dokumentacji.
+1. **Archiwa i dokumentacja**  
+   [Ustawa z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19830380173) (Dz.U. 1983 nr 38 poz. 173) oraz przepisy wykonawcze, w tym [rozporządzenie Prezesa Rady Ministrów z dnia 18 stycznia 2011 r. w sprawie instrukcji kancelaryjnej, jednolitych rzeczowych wykazów akt oraz instrukcji w sprawie organizacji i zakresu działania archiwów zakładowych](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110890505) (Dz.U. 2011 nr 89 poz. 505), określają obowiązek właściwego klasyfikowania, kwalifikowania, przechowywania, przekazywania i brakowania dokumentacji.
 
 Ustawa o informatyzacji działalności podmiotów realizujących zadania publiczne oraz Krajowe Ramy Interoperacyjności wskazują znaczenie interoperacyjności, bezpieczeństwa, minimalnych wymagań dla systemów, formatów danych i zdolności wymiany informacji w postaci elektronicznej.
 
