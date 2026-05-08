@@ -19,7 +19,7 @@ Celem zalecenia jest zapewnienie skutecznego, skalowalnego i trwałego wsparcia 
 
 ## 2. Zalecenie
 
-Organizacja opracowuje i wdraża model organizacyjny wsparcia dostępności cyfrowej, oparty na sieci liderów dostępności, społeczności praktyków dostępności lub połączeniu obu rozwiązań, dostosowany do swojej struktury, kultury organizacyjnej i poziomu dojrzałości.
+Organizacja opracowuje i wdraża model organizacyjny wsparcia dostępności cyfrowej, oparty na sieci liderów dostępności, społeczności praktyków dostępności lub połączeniu obu rozwiązań, dostosowany do swojej struktury, kultury organizacyjnej i poziomu dojrzałości. 
 
 ## 3. Rekomendacje
 
