@@ -17,7 +17,7 @@ wersja_robocza: true
 - **Wymiar:** Zarządzanie i kultura
 - **Kontakt:** madamski@um.warszawa.pl
 ---
-## Cele
+## Cel
 Zapewnienie zarządowi operacyjnemu oraz kadrze kierowniczej rzetelnych, terminowych i zrozumiałych informacji niezbędnych do podejmowania decyzji w czterech kluczowych obszarach:
 
 1. zgodności z obowiązkami ustawowymi w zakresie dostępności cyfrowej,
