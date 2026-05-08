@@ -18,7 +18,14 @@ wersja_robocza: true
 - **Kontakt:** madamski@um.warszawa.pl
 ---
 ## Cele
-Odpowiednie informowanie i raportowanie do celów decyzji zarządczych, w tym rzetelne informowanie osób decyzyjnych o obowiązkach ustawowych podmiotu w zakresie dostępności oraz prezentowanie informacji i danych z realizacji zadań związanych z zapewnieniem dostępności i ich efektywności. 
+Zapewnienie zarządowi operacyjnemu oraz kadrze kierowniczej rzetelnych, terminowych i zrozumiałych informacji niezbędnych do podejmowania decyzji w czterech kluczowych obszarach:
+
+1. zgodności z obowiązkami ustawowymi w zakresie dostępności cyfrowej,
+2. alokacji budżetu i zasobów na działania naprawcze i rozwojowe,
+3. oceny efektywności zrealizowanych zadań dostępnościowych,
+4. zarządzania ryzykiem prawnym i reputacyjnym.
+
+Dodatkowo celem jest wdrożenie **pętli zwrotnej** - monitorowanie wpływu podjętych decyzji na rzeczywisty poziom dostępności, aby cyklicznie doskonalić proces informowania.
 ## Problem
 Zapewnienie dostępności cyfrowej produktów takich jak strony internetowe, aplikacje, dokumenty, stanowi dla podmiotu publicznego koszt. Będzie on tym większy, im większy jest podmiot. Koszt będzie zależeć w szczególności od liczby produktów oraz ich złożoności. Podmioty mniejsze, prowadzące 1-2 serwisy internetowe, nieposiadające aplikacji mobilnych, tworzące niewiele dokumentów cyfrowych w ciągu roku, będą ponosić relatywnie niskie koszty zapewnienia dostępności. Dla podmiotów dużych i złożonych organizacyjnie, oferujących wiele serwisów, posiadających aplikacje webowe i mobilne, tworzących tysiące dokumentów cyfrowych rocznie – koszty zapewnienia i utrzymania cyfrowej dostępności produktów będą znaczące. W każdym z przypadków, ze względu na wydatkowanie środków publicznych, kluczową rolę odgrywają kierownicy jednostek oraz osoby odpowiedzialne za podejmowane decyzje finansowe. Ze względu na potencjalnie dużą skalę kosztu zapewnienia dostępności cyfrowej w przypadku dużych podmiotów posiadających wiele produktów cyfrowych, może się pojawiać wyzwanie związane z akceptacją skali takich kosztów. Może się pojawić dążenie do ograniczania nakładów organizacyjnych czy finansowych w tym obszarze. Mogą się pojawiać pytania o efektywność kosztową. Osoby podejmujące decyzje o finansowaniu procesu zapewnienia dostępności cyfrowej nie w każdym przypadku będą zorientowane w szczegółowych aspektach tego obszaru. Naturalne jest, że ich wiedza w zakresie merytorycznym może być ograniczona. 
 ## Opis 
