@@ -36,7 +36,7 @@ Pozwala potwierdzić zgodność z wymaganiami **Ustawy o dostępności cyfrowej*
 
 ## 2. Struktura dokumentu
 
-| Nr | Kryterium | TAK | NIE | ND | Uwagi |
+| Nr | Kryterium | TAK | NIE | ND. | Uwagi |
 |----|------------|-----|-----|----|--------|
 | 2.1 | Czy dokument posiada tytuł główny i logiczną strukturę nagłówków (Nagłówek 1, 2, 3)? | ☐ | ☐ | ☐ | … |
 | 2.2 | Czy użyto wbudowanych stylów zamiast ręcznego formatowania (pogrubień, odstępów)? | ☐ | ☐ | ☐ | … |
@@ -47,7 +47,7 @@ Pozwala potwierdzić zgodność z wymaganiami **Ustawy o dostępności cyfrowej*
 
 ## 3. Tekst i język
 
-| Nr | Kryterium | TAK | NIE | ND | Uwagi |
+| Nr | Kryterium | TAK | NIE | ND. | Uwagi |
 |----|------------|-----|-----|----|--------|
 | 3.1 | Czy tekst jest napisany prostym i zrozumiałym językiem? | ☐ | ☐ | ☐ | … |
 | 3.2 | Czy zastosowano jednolity, czytelny krój pisma (bez nadmiernych ozdobników)? | ☐ | ☐ | ☐ | … |
@@ -58,7 +58,7 @@ Pozwala potwierdzić zgodność z wymaganiami **Ustawy o dostępności cyfrowej*
 
 ## 4. Obrazy, wykresy i tabele
 
-| Nr | Kryterium | TAK | NIE | ND | Uwagi |
+| Nr | Kryterium | TAK | NIE | ND. | Uwagi |
 |----|------------|-----|-----|----|--------|
 | 4.1 | Czy każdy obraz ma tekst alternatywny (ALT)? | ☐ | ☐ | ☐ | … |
 | 4.2 | Czy obrazy pełniące funkcję dekoracyjną są oznaczone jako „puste” (bez ALT)? | ☐ | ☐ | ☐ | … |
@@ -70,7 +70,7 @@ Pozwala potwierdzić zgodność z wymaganiami **Ustawy o dostępności cyfrowej*
 
 ## 5. Linki i odnośniki
 
-| Nr | Kryterium | TAK | NIE | ND | Uwagi |
+| Nr | Kryterium | TAK | NIE | ND. | Uwagi |
 |----|------------|-----|-----|----|--------|
 | 5.1 | Czy wszystkie linki mają opis kontekstowy (np. „Formularz zgłoszeniowy”)? | ☐ | ☐ | ☐ | … |
 | 5.2 | Czy nie użyto sformułowań typu „kliknij tutaj”? | ☐ | ☐ | ☐ | … |
@@ -80,7 +80,7 @@ Pozwala potwierdzić zgodność z wymaganiami **Ustawy o dostępności cyfrowej*
 
 ## 6. Format i eksport
 
-| Nr | Kryterium | TAK | NIE | ND | Uwagi |
+| Nr | Kryterium | TAK | NIE | ND. | Uwagi |
 |----|------------|-----|-----|----|--------|
 | 6.1 | Czy plik zapisano w formacie zachowującym strukturę (np. PDF/UA)? | ☐ | ☐ | ☐ | … |
 | 6.2 | Czy przed publikacją wykonano test „Sprawdź dostępność” (Word / Acrobat)? | ☐ | ☐ | ☐ | … |
@@ -90,13 +90,14 @@ Pozwala potwierdzić zgodność z wymaganiami **Ustawy o dostępności cyfrowej*
 
 ## 7. Podsumowanie
 
-| Poziom spełnienia kryteriów | Interpretacja |
-|------------------------------|---------------|
-| 90–100% | Dokument w pełni dostępny |
-| 70–89% | Dokument zasadniczo dostępny – drobne poprawki |
-| 50–69% | Dokument wymaga korekt |
-| poniżej 50% | Dokument niedostępny cyfrowo |
+| Poziom spełnienia kryteriów | Interpretacja | Działanie |
+|------------------------------|---------------|----------|
+| 90–100% | Dokument w pełni dostępny | Można opublikować |
+| 70–89% | Dokument zasadniczo dostępny – drobne poprawki | Poprawić i opublikować |
+| 50–69% | Dokument wymaga korekt | Poprosić o pomoc w poprawieniu, powtórzyć szkolenie |
+| poniżej 50% | Dokument niedostępny cyfrowo | Powtórzyć szkolenie |
 
 **Uwagi ogólne:**  
 …………………………………………………………………………………………………………………………  
-…………………………………………………………………………………………………………………………  
+
+---
