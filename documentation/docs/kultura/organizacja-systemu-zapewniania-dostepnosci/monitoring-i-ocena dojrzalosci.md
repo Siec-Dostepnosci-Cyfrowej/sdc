@@ -98,6 +98,7 @@ Wskaźniki stanowią dane wejściowe do oceny dojrzałości.
 - odsetek problemów rozwiązanych.
 
 Wskaźniki monitorowania powinny być tak dobrane, aby wspierały ocenę dojrzałości w poszczególnych wymiarach modelu W3C.
+
 ---
 
 ### 5.2. Wskaźniki procesów
@@ -200,6 +201,7 @@ Wyniki monitorowania i oceny dojrzałości są wykorzystywane do:
 - planowania działań naprawczych.
 
 Model oceny odpowiada na pytanie „jaki jest stan organizacji”, natomiast decyzje zarządcze odpowiadają na pytanie „jak ten stan zmienić”. 
+
 ---
 
 ## 9. Raportowanie
