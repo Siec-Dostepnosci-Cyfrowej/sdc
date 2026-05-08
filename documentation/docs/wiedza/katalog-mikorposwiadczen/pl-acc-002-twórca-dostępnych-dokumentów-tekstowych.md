@@ -76,7 +76,7 @@ Mikropoświadczenie obejmuje w szczególności zdolność do:
 - rozumie znaczenie dostępności dokumentów cyfrowych,  
 - zna podstawowe zasady struktury dokumentu i ich znaczenie dla użytkowników,  
 - zna typowe błędy dostępności w dokumentach tekstowych,  
-- zna funkcje wspierające dostępność w edytorach dokumentów tekstowych.  
+- zna funkcje wspierające dostępność w edytorze dokumentów tekstowych.  
 
 ### Umiejętności  
 - tworzy dokumenty z zachowaniem logicznej struktury i hierarchii treści,  
@@ -114,12 +114,12 @@ Dowody odnoszą się do rzeczywistych działań wykonywanych przez osobę.
 
 ## 9. Warunki uzyskania mikropoświadczenia
 
-Mikropoświadczenie może być przyznane po spełnieniu jednego lub kilku z poniższych warunków:
+Mikropoświadczenie może być przyznane po spełnieniu obu poniższych warunków:
 
 - wykonanie zadania praktycznego polegającego na przygotowaniu dostępnego dokumentu,  
-- pozytywna ocena pracy przez osobę uprawnioną,  
-- ukończenie szkolenia lub programu rozwojowego (opcjonalnie).  
+- pozytywna ocena pracy przez osobę uprawnioną.  
 
+Dodatkowo, nabycie wiedzy może zostać potwierdzone w wyniku ukończenia szkolenia lub programu rozwojowego.
 ---
 
 ## 10. Metody oceny
