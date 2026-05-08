@@ -117,6 +117,7 @@ Polityka dostępności, plan działań, raporty.
 aktualność polityki, realizacja planów, zgodność z wymaganiami.
 
 Proces obejmuje także zapewnienie spójności między procesami, rolami, kompetencjami oraz mechanizmami monitorowania i oceny dojrzałości.
+
 ---
 
 ### **Proces 2. Zarządzanie treściami i dokumentami cyfrowymi**
