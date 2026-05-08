@@ -63,7 +63,7 @@ Model obejmuje pięć obowiązkowych obszarów:
 
 ## 5. Minimalny zestaw kompetencji
 
-### 5.1. Dokumenty cyfrowe (Word, PDF)
+### 5.1. Dokumenty cyfrowe (np. Word, PDF)
 
 Organizacja zapewnia:
 
