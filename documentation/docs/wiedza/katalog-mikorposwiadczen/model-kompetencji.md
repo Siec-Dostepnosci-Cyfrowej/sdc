@@ -53,7 +53,7 @@ Model obejmuje cztery poziomy:
 
 Model obejmuje pięć obowiązkowych obszarów:
 
-1. **Dokumenty cyfrowe (w tym PDF)**  
+1. **Dokumenty cyfrowe (np. PDF)**  
 2. **Treści internetowe (WWW)**  
 3. **Multimedia**  
 4. **Testowanie i jakość**  
