@@ -17,7 +17,7 @@ wersja_robocza: true
 ## 1. Cel modelu
 
 Celem modelu jest określenie minimalnego, ale kompletnego zestawu kompetencji, które organizacja zapewnia, aby skutecznie tworzyć, publikować, weryfikować i doskonalić dostępność:
-- dokumentów cyfrowych (w tym PDF),
+- dokumentów cyfrowych (np. PDF),
 - treści internetowych,
 - materiałów multimedialnych,
 - oraz zapewniać dostępność w procesach zaopatrzenia.
