@@ -1,8 +1,8 @@
 ---
 id: procedura-kontroli-dostepnosci-przed-publikacja
-title: Zalecenie 4 – Procedura kontroli dostępności przed publikacją
+title: Procedura kontroli dostępności przed publikacją
 description: Procedura kontroli dostępności przed publikacją treści cyfrowych
-sidebar_label: Zalecenie 4
+sidebar_label: Zalecenie
 sidebar_position: 0
 keywords: [dostępność cyfrowa, kontrola dostępności, publikacja, komunikacja, listy kontrolne]
 tags: [zalecenie, komunikacja, dostępność cyfrowa, kontrola]
@@ -29,9 +29,9 @@ Kontrola obejmuje treść, metadane, elementy alternatywne oraz sposób udostęp
 
 Kontrola nie zastępuje standardów tworzenia treści. Stanowi końcowe potwierdzenie, że materiał przygotowany do publikacji spełnia wymagania właściwe dla swojego typu.
 
-### 2. Wykorzystanie list kontrolnych z Zalecenia 5
+### 2. Wykorzystanie list kontrolnych z zalecenia Standard dostępności multimediów
 
-Kontrola wykorzystuje standardy i listy kontrolne określone w [Zaleceniu 5 - Standard dostępności multimediów i komunikacji masowej](../komunikacja-masowa/komunikacja-masowa-zalecenie.md). Osoba wykonująca kontrolę dobiera listę kontrolną do rodzaju materiału, w szczególności do materiału wideo, audio, treści z obrazkiem albo posta w mediach społecznościowych.
+Kontrola wykorzystuje standardy i listy kontrolne określone w zaleceniu [Standard dostępności multimediów i komunikacji masowej](../komunikacja-masowa/komunikacja-masowa-zalecenie). Osoba wykonująca kontrolę dobiera listę kontrolną do rodzaju materiału, w szczególności do materiału wideo, audio, treści z obrazkiem albo posta w mediach społecznościowych.
 
 Lista kontrolna wskazuje wymagania potwierdzane przed publikacją. Wypełnienie listy kontrolnej stanowi dowód wykonania kontroli i element dokumentacji decyzji publikacyjnej.
 
@@ -77,7 +77,7 @@ Jeżeli poprawa wymaga udziału innej osoby lub komórki organizacyjnej, właśc
 
 ### 7. Powiązanie z Zaleceniem 7
 
-Błędy wykryte po publikacji nie są rozpatrywane jako element kontroli przed publikacją. Podmiot ujmuje je w procesie przeglądu i naprawy zasobów już opublikowanych, zgodnie z Zaleceniem 7 - Program przeglądu i naprawy załączników opublikowanych po 23 września 2018 r.
+Błędy wykryte po publikacji nie są rozpatrywane jako element kontroli przed publikacją. Podmiot ujmuje je w procesie przeglądu i naprawy zasobów już opublikowanych, zgodnie z zaleceniem - Program przeglądu i naprawy załączników opublikowanych po 23 września 2018 r.
 
 ## Uzasadnienie
 

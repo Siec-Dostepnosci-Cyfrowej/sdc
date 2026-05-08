@@ -70,6 +70,6 @@ Tytuł i opis nagrania powinny jasno wskazywać temat i kontekst.
 
 ## Powiązane dokumenty
 
-- [Minimalne wymagania dostępności](./minimalne-wymagania.md)
-- [Lista kontrolna publikacji audio](../kontrola-dostepnosci-przed-publikacja/lista-kontrolna-publikacji-audio.md)
-- [Procedura postępowania w sytuacjach wyjątkowych](../kontrola-dostepnosci-przed-publikacja/procedura-sytuacji-wyjatkowych.md)
+- [Minimalne wymagania dostępności](./minimalne-wymagania)
+- [Lista kontrolna publikacji audio](../kontrola-dostepnosci-przed-publikacja/lista-kontrolna-publikacji-audio)
+- [Procedura postępowania w sytuacjach wyjątkowych](../kontrola-dostepnosci-przed-publikacja/procedura-sytuacji-wyjatkowych)

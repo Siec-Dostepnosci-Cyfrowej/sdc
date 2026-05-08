@@ -14,7 +14,7 @@ wersja_robocza: true
 ---
 
 
-Niniejsza sekcja zawiera materiały uzupełniające do Zalecenia 5.
+Niniejsza sekcja zawiera materiały uzupełniające do zalecenia _Standard dostępności multimediów i komunikacji masowej_.
 
 Dokumenty zgromadzone w tym katalogu nie stanowią treści samego zalecenia ani jego obowiązkowych elementów wdrożeniowych. Pełnią funkcję analityczną, porządkującą i wspierającą. Służą wyjaśnieniu kontekstu, pokazaniu problemów wdrożeniowych, opisaniu efektów wdrożenia oraz wskazaniu systemowych powiązań standardu dostępności multimediów i komunikacji masowej.
 
@@ -40,22 +40,22 @@ Dokumenty te mogą być wykorzystywane jako:
 
 W skład materiałów uzupełniających wchodzą:
 
-- [Problem i kontekst](./problem-i-kontekst.md)
-- [Problemy i błędy wdrożeniowe](./problemy-i-bledy-wdrozeniowe.md)
-- [Zasady projektowe](./zasady-projektowe.md)
-- [Powiązania systemowe](./powiazania-systemowe.md)
-- [Efekty wdrożenia](./efekty-wdrozenia.md)
-- [Słowniczek pojęć](./slowniczek-pojec.md)
+- [Problem i kontekst](./problem-i-kontekst)
+- [Problemy i błędy wdrożeniowe](./problemy-i-bledy-wdrozeniowe)
+- [Zasady projektowe](./zasady-projektowe)
+- [Powiązania systemowe](./powiazania-systemowe)
+- [Efekty wdrożenia](./efekty-wdrozenia)
+- [Słowniczek pojęć](./slowniczek-pojec)
 
 ## Relacja do pozostałych części repozytorium
 
 Sekcja uzupełnia dokumenty znajdujące się w głównych częściach repozytorium:
 
-- `zalecenie.md` - dokument główny zgodny ze strukturą Sieci Dostępności Cyfrowej,
-- `wymagania/` - minimalne wymagania i ich uzasadnienie,
-- `standardy/` - szczegółowe zasady przygotowania materiałów,
-- `modele/` - modele organizacyjne i wdrożeniowe,
-- `checklisty/` - listy kontrolne stosowane przed publikacją.
+- **zalecenie.md** - dokument główny zgodny ze strukturą Sieci Dostępności Cyfrowej,
+- **wymagania** - minimalne wymagania i ich uzasadnienie,
+- **standardy** - szczegółowe zasady przygotowania materiałów,
+- **modele** - modele organizacyjne i wdrożeniowe,
+- **listy kontrolne** - listy kontrolne stosowane przed publikacją.
 
 Dokumenty uzupełniające nie zastępują tych materiałów, lecz wspierają ich zrozumienie i wdrożenie.
 

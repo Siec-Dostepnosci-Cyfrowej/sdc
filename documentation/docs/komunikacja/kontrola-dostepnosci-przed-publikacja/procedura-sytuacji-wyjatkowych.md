@@ -21,7 +21,7 @@ Procedura ma charakter incydentalny i nie stanowi alternatywy dla zapewniania do
 
 ## Kiedy można zastosować procedurę
 
-Procedurę można zastosować wyłącznie, gdy łącznie:
+Procedurę można zastosować tylko wtedy, gdy łącznie:
 - materiał dotyczy informacji istotnej dla realizacji zadań publicznych,
 - brak publikacji w terminie spowodowałby istotne utrudnienie dostępu do informacji,
 - brakujący element dostępności może zostać uzupełniony w krótkim czasie,

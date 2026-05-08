@@ -2,8 +2,8 @@
 id: komunikacja-masowa-zalecenie
 title: Standard dostępności multimediów i komunikacji masowej
 description: Zalecenie określające wymagania, standardy i listy kontrolne dla dostępnych materiałów multimedialnych oraz treści komunikacji masowej.
-sidebar_label: Zalecenie 5
-sidebar_position: 1
+sidebar_label: Zalecenie
+sidebar_position: 0
 keywords: [dostępność cyfrowa, multimedia, komunikacja, standard wdrożeniowy, administracja publiczna]
 tags: [zalecenie, komunikacja, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk

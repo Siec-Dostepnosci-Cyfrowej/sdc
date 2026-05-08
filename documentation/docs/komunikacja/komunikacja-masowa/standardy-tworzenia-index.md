@@ -15,15 +15,15 @@ wersja_robocza: true
 
 ## Zawartość standardów
 
-- [01. Standard tworzenia dostępnych materiałów wideo](./01-standard-tworzenia-dostepnych-materialow-wideo.md)
-- [02. Standard tworzenia dostępnych grafik i materiałów wizualnych](./02-standard-tworzenia-dostepnych-grafik-i-materialow-wizualnych.md)
-- [03. Standard opisu alternatywnego i treści równoważnych](./03-standard-opisu-alternatywnego-i-tresci-rownowaznych.md)
-- [04. Standard struktury komunikatu i tworzenia treści](./04-standard-struktury-komunikatu-i-tworzenia-tresci.md)
-- [05. Standard tworzenia dostępnych materiałów audio](./05-standard-tworzenia-dostepnych-materialow-audio.md)
+- [Standard tworzenia dostępnych materiałów wideo](./01-standard-tworzenia-dostepnych-materialow-wideo)
+- [Standard tworzenia dostępnych grafik i materiałów wizualnych](./02-standard-tworzenia-dostepnych-grafik-i-materialow-wizualnych)
+- [Standard opisu alternatywnego i treści równoważnych](./03-standard-opisu-alternatywnego-i-tresci-rownowaznych)
+- [Standard struktury komunikatu i tworzenia treści](./04-standard-struktury-komunikatu-i-tworzenia-tresci)
+- [Standard tworzenia dostępnych materiałów audio](./05-standard-tworzenia-dostepnych-materialow-audio)
 
 ## Powiązane dokumenty
 
-- [Minimalne wymagania dostępności](./minimalne-wymagania.md)
-- [Model operacyjny publikacji dostępnych multimediów](../kontrola-dostepnosci-przed-publikacja/model-operacyjny-publikacji-dostepnych-multimediow.md)
-- [Listy kontrolne publikacji](../kontrola-dostepnosci-przed-publikacja/listy-kontrolne-index.md)
-- [Procedura postępowania w sytuacjach wyjątkowych](../kontrola-dostepnosci-przed-publikacja/procedura-sytuacji-wyjatkowych.md)
+- [Minimalne wymagania dostępności](./minimalne-wymagania)
+- [Model operacyjny publikacji dostępnych multimediów](../kontrola-dostepnosci-przed-publikacja/model-operacyjny-publikacji-dostepnych-multimediow)
+- [Listy kontrolne publikacji](../kontrola-dostepnosci-przed-publikacja/listy-kontrolne-index)
+- [Procedura postępowania w sytuacjach wyjątkowych](../kontrola-dostepnosci-przed-publikacja/procedura-sytuacji-wyjatkowych)

@@ -36,8 +36,8 @@ Wymagania odpowiadają na pytanie:
 
 W skład dokumentów wchodzą:
 
-- [Minimalne wymagania dostępności](minimalne-wymagania.md)
-- [Uzasadnienie stosowania wymagań](uzasadnienie-stosowania.md)
+- [Minimalne wymagania dostępności](minimalne-wymagania)
+- [Uzasadnienie stosowania wymagań](uzasadnienie-stosowania)
 
 ## Zasada stosowania
 
@@ -57,10 +57,10 @@ Odstępstwo od tej zasady jest dopuszczalne wyłącznie w sytuacjach wyjątkowyc
 
 Wymagania stanowią podstawę całego systemu i są punktem odniesienia dla pozostałych dokumentów:
 
-- `standardy/` – określają, jak spełnić wymagania,
-- `modele/` – określają, jak zorganizować proces,
-- `checklisty/` – służą do weryfikacji spełnienia wymagań,
-- `docs/` – wyjaśniają kontekst i znaczenie wymagań.
+- **standardy** – określają, jak spełnić wymagania,
+- **modele** – określają, jak zorganizować proces,
+- **listy kontrolne** – służą do weryfikacji spełnienia wymagań,
+- **docs** – wyjaśniają kontekst i znaczenie wymagań.
 
 ## Charakter wymagań
 

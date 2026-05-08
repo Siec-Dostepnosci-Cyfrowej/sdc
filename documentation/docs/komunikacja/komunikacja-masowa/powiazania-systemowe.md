@@ -162,7 +162,7 @@ Tylko w takim ujęciu możliwe jest osiągnięcie trwałego i powtarzalnego pozi
 
 ## Powiązane dokumenty
 
-- [Dokumenty uzupełniające](./dokumenty-uzupelniajace-index.md)
-- [Mapa odpowiedzialności w procesie publikacji](../kontrola-dostepnosci-przed-publikacja/mapa-odpowiedzialnosci.md)
-- [Efekty wdrożenia](./efekty-wdrozenia.md)
-- [Procedura postępowania w sytuacjach wyjątkowych](../kontrola-dostepnosci-przed-publikacja/procedura-sytuacji-wyjatkowych.md)
+- [Dokumenty uzupełniające](./dokumenty-uzupelniajace-index)
+- [Mapa odpowiedzialności w procesie publikacji](../kontrola-dostepnosci-przed-publikacja/mapa-odpowiedzialnosci)
+- [Efekty wdrożenia](./efekty-wdrozenia)
+- [Procedura postępowania w sytuacjach wyjątkowych](../kontrola-dostepnosci-przed-publikacja/procedura-sytuacji-wyjatkowych)

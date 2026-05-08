@@ -41,14 +41,14 @@ Opisuje pełny proces przygotowania i publikacji materiałów, od planowania do 
 
 ### Mapa odpowiedzialności
 
-- [Mapa odpowiedzialności w procesie publikacji](./mapa-odpowiedzialnosci.md)
+- [Mapa odpowiedzialności w procesie publikacji](./mapa-odpowiedzialnosci)
 
 Określa podział ról oraz zakres odpowiedzialności na poszczególnych etapach procesu.
 
 ### Modele wdrożeniowe
 
-- [Model dla dużych podmiotów](./model-dla-duzych-podmiotow.md)
-- [Model dla małych podmiotów](./model-dla-malych-podmiotow.md)
+- [Model dla dużych podmiotów](./model-dla-duzych-podmiotow)
+- [Model dla małych podmiotów](./model-dla-malych-podmiotow)
 
 Pokazują, w jaki sposób dostosować organizację pracy do skali działania:
 
@@ -59,13 +59,11 @@ Pokazują, w jaki sposób dostosować organizację pracy do skali działania:
 
 Modele powinny być stosowane łącznie z pozostałymi elementami repozytorium:
 
-- `wymagania/` – określają, co musi zostać spełnione,
-- `standardy/` – określają, jak przygotować materiały,
-- `checklisty/` – służą do weryfikacji przed publikacją.
+- **wymagania** – określają, co musi zostać spełnione,
+- **standardy** – określają, jak przygotować materiały,
+- **listy kontrolne** – służą do weryfikacji przed publikacją.
 
-Modele odpowiadają na pytanie:
-
-👉 **jak zorganizować pracę, aby wymagania były spełniane w sposób powtarzalny**
+Modele odpowiadają na pytanie: 👉 **jak zorganizować pracę, aby wymagania były spełniane w sposób powtarzalny**
 
 ## Dobór modelu
 

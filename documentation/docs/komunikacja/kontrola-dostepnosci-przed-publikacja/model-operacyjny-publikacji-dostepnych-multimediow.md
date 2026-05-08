@@ -77,12 +77,12 @@ flowchart TD
 
 Materiał publikuje się po pozytywnej weryfikacji.
 
-Jeżeli wymagania nie są spełnione, materiał wraca do poprawy albo przechodzi ścieżkę procedury wyjątkowej zgodnie z [Procedurą postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md).
+Jeżeli wymagania nie są spełnione, materiał wraca do poprawy albo przechodzi ścieżkę procedury wyjątkowej zgodnie z [Procedurą postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych).
 
 ## Powiązane dokumenty
 
-- [Minimalne wymagania dostępności](../komunikacja-masowa/minimalne-wymagania.md)
-- [Mapa odpowiedzialności w procesie publikacji](./mapa-odpowiedzialnosci.md)
-- [Listy kontrolne publikacji](./listy-kontrolne-index.md)
-- [05. Standard tworzenia dostępnych materiałów audio](../komunikacja-masowa/05-standard-tworzenia-dostepnych-materialow-audio.md)
-- [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md)
+- [Minimalne wymagania dostępności](../komunikacja-masowa/minimalne-wymagania)
+- [Mapa odpowiedzialności w procesie publikacji](./mapa-odpowiedzialnosci)
+- [Listy kontrolne publikacji](./listy-kontrolne-index)
+- [Standard tworzenia dostępnych materiałów audio](../komunikacja-masowa/05-standard-tworzenia-dostepnych-materialow-audio)
+- [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych)

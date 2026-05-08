@@ -53,7 +53,7 @@ W materiałach z danymi liczbowymi zaleca się podawać najważniejszy wniosek o
 
 ## Powiązane dokumenty
 
-- [Minimalne wymagania dostępności](./minimalne-wymagania.md)
-- [Standard tworzenia dostępnych grafik](./02-standard-tworzenia-dostepnych-grafik-i-materialow-wizualnych.md)
-- [Lista kontrolna publikacji treści z obrazkiem](../kontrola-dostepnosci-przed-publikacja/lista-kontrolna-publikacji-tresci-z-obrazkiem.md)
-- [Procedura postępowania w sytuacjach wyjątkowych](../kontrola-dostepnosci-przed-publikacja/procedura-sytuacji-wyjatkowych.md)
+- [Minimalne wymagania dostępności](./minimalne-wymagania)
+- [Standard tworzenia dostępnych grafik](./02-standard-tworzenia-dostepnych-grafik-i-materialow-wizualnych)
+- [Lista kontrolna publikacji treści z obrazkiem](../kontrola-dostepnosci-przed-publikacja/lista-kontrolna-publikacji-tresci-z-obrazkiem)
+- [Procedura postępowania w sytuacjach wyjątkowych](../kontrola-dostepnosci-przed-publikacja/procedura-sytuacji-wyjatkowych)

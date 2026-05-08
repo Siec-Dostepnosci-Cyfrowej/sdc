@@ -75,7 +75,7 @@ Punkty obowiązkowe muszą mieć wynik „TAK” albo zostać objęte procedurą
 ## Dowody spełnienia wymagań
 
 Dowodem spełnienia wymagań mogą być w szczególności:
-- zapis checklisty,
+- zapis listy kontrolnej,
 - dostępne napisy lub transkrypcja,
 - wpis o alt-text i treści równoważnej,
 - potwierdzenie techniczne ustawień odtwarzacza,
