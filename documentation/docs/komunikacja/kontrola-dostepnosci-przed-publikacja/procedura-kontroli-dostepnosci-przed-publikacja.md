@@ -75,7 +75,7 @@ Błędy wykryte przed publikacją są usuwane przed udostępnieniem materiału. 
 
 Jeżeli poprawa wymaga udziału innej osoby lub komórki organizacyjnej, właściciel treści albo osoba wyznaczona przekazuje informację o błędzie, oczekiwanym sposobie poprawy i terminie wykonania. Błędy powtarzalne są wykorzystywane do aktualizacji standardów, wzorców, szkoleń i organizacji pracy.
 
-### 7. Powiązanie z Zaleceniem 7
+### 7. Powiązanie z zaleceniem Program przeglądu i naprawy załączników
 
 Błędy wykryte po publikacji nie są rozpatrywane jako element kontroli przed publikacją. Podmiot ujmuje je w procesie przeglądu i naprawy zasobów już opublikowanych, zgodnie z zaleceniem - Program przeglądu i naprawy załączników opublikowanych po 23 września 2018 r.
 

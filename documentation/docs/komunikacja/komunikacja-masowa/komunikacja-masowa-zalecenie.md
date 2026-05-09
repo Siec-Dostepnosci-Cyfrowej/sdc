@@ -59,9 +59,9 @@ Dokumenty pakietu powinny być utrzymywane łącznie, tak aby wymagania, standar
 
 ### 5. Rozgraniczenie z procedurami kontroli i naprawy
 
-[Zalecenie 4](../kontrola-dostepnosci-przed-publikacja/procedura-kontroli-dostepnosci-przed-publikacja.md) określa procedurę kontroli przed publikacją i decyzję publikacyjną.
+[Zalecenie Procedura kontroli dostępności przed publikacją](../kontrola-dostepnosci-przed-publikacja/procedura-kontroli-dostepnosci-przed-publikacja.md) określa procedurę kontroli przed publikacją i decyzję publikacyjną.
 
-Zalecenie 5 określa standardy, wymagania oraz listy kontrolne wykorzystywane w tej procedurze.
+To Zalecenie określa standardy, wymagania oraz listy kontrolne wykorzystywane w tej procedurze.
 
 [Zalecenie 7](../wymiar-komunikacja/uaktualniona-lista-tematow.md) określa przegląd i naprawę zasobów już opublikowanych.
 

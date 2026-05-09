@@ -122,12 +122,12 @@ Dostępność jest uwzględniana:
 
 Proces obejmuje:
 
-1. Planowanie – określenie celu i wymagań dostępności.
-2. Przygotowanie – tworzenie materiału zgodnie z założeniami.
-3. Opracowanie – przygotowanie napisów, opisów i transkrypcji.
-4. Weryfikacja – sprawdzenie zgodności z wymaganiami.
-5. Publikacja – udostępnienie materiału.
-6. Monitorowanie – kontrola jakości i analiza błędów.
+1. **Planowanie** – określenie celu i wymagań dostępności.
+2. **Przygotowanie** – tworzenie materiału zgodnie z założeniami.
+3. **Opracowanie** – przygotowanie napisów, opisów i transkrypcji.
+4. **Weryfikacja** – sprawdzenie zgodności z wymaganiami.
+5. **Publikacja** – udostępnienie materiału.
+6. **Monitorowanie** – kontrola jakości i analiza błędów.
 
 Publikacja materiału następuje po spełnieniu wymagań. W sytuacjach wyjątkowych możliwe jest zastosowanie odrębnej procedury, która wskazuje przyczynę odstępstwa, osobę odpowiedzialną, sposób udokumentowania decyzji i termin uzupełnienia brakujących elementów dostępności.
 
