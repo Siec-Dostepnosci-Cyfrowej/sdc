@@ -1,142 +1,73 @@
 ---
 id: model-dla-malych-podmiotow
-title: Model wdrożenia dla małych podmiotów
-description: Uproszczony model wdrożeniowy dla małych podmiotów umożliwiający zapewnienie dostępności przy ograniczonych zasobach.
-sidebar_label: Model - małe podmioty
-sidebar_position: 11
-keywords: [dostępność cyfrowa, multimedia, komunikacja, administracja publiczna]
-tags: [komunikacja, multimedia, dostępność cyfrowa]
+title: Wariant uproszczony procedury dla małych podmiotów
+description: Praktyczny wariant uproszczonej procedury kontroli dostępności przed publikacją dla małych jednostek.
+sidebar_label: Wariant uproszczony
+sidebar_position: 4
+keywords: [dostępność cyfrowa, małe podmioty, procedura uproszczona, publikacja]
+tags: [komunikacja, dostępność cyfrowa, procedura]
 opracowanie: Bartłomiej Wilk
-wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
+wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 28 kwietnia 2026 r.
+ostatnia_aktualizacja: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
+# Wariant uproszczony procedury dla małych podmiotów
 
+## Założenie
 
-## Założenia
+Wariant uproszczony jest przeznaczony dla podmiotów, w których publikacją zajmuje się niewielki zespół albo jedna osoba. Uproszczenie dotyczy sposobu organizacji i dokumentowania, a nie rezygnacji z kontroli dostępności.
 
-Model przeznaczony jest dla podmiotów o ograniczonych zasobach kadrowych i technicznych, takich jak:
-- małe jednostki administracyjne, 
-- instytucje kultury,
-- organizacje pozarządowe.
+Jedna osoba może przygotować, sprawdzić i technicznie opublikować materiał, jeżeli podmiot nie ma możliwości rozdzielenia tych zadań. W takim przypadku powinna świadomie odnotować, że pełni kilka ról.
 
-Wdrożenie dostępności opiera się na podejściu uproszczonym, lecz konsekwentnym.
+## Minimalny przebieg
 
-Uproszczenie dotyczy organizacji pracy, a nie poziomu wymagań.
+1. Osoba przygotowująca określa typ materiału i kanał publikacji.
+2. Ta sama osoba albo druga osoba sprawdza materiał według krótkiej listy kontrolnej właściwej dla typu materiału.
+3. Wynik kontroli zostaje odnotowany w prosty sposób: w karcie kontroli, zadaniu, arkuszu, CMS albo notatce do publikacji.
+4. Materiał jest publikowany, kierowany do poprawy, publikowany warunkowo albo wstrzymywany.
+5. Jeżeli zastosowano publikację warunkową, wpisuje się termin naprawy i osobę odpowiedzialną.
 
-Spełnienie minimalnych wymagań dostępności stanowi warunek publikacji materiału.
+## Minimalny zakres kontroli
 
----
+Kontrola uproszczona powinna potwierdzać co najmniej:
 
-## Minimalny zakres działań
+- czy materiał ma logiczną strukturę i zrozumiały tytuł,
+- czy dokument, strona, formularz albo komunikat może być odczytany i obsłużony bez barier oczywistych dla osoby sprawdzającej,
+- czy grafiki mają opisy alternatywne, jeżeli są informacyjne,
+- czy nagrania audio i wideo mają wymagane treści równoważne,
+- czy załączniki publikowane w BIP albo CMS są opisane i dostępne,
+- czy decyzja publikacyjna jest odnotowana.
 
-Model opiera się na realizacji podstawowych, obowiązkowych elementów dostępności:
+## Dokumentowanie
 
-- materiały wideo zawierają napisy,
-- grafiki posiadają opisy alternatywne,
-- treści są czytelne wizualnie (kontrast, wielkość tekstu, układ),
-- komunikat ma logiczną strukturę i jasny przekaz,
-- stosowany jest prosty i zrozumiały język.
+Wariant uproszczony może ograniczyć dokumentowanie do krótkiego wpisu:
 
-Każdy z tych elementów ma bezpośredni wpływ na dostępność i nie może być pomijany.
+- tytuł materiału,
+- typ materiału,
+- kanał publikacji,
+- data kontroli,
+- osoba sprawdzająca,
+- wynik kontroli,
+- decyzja publikacyjna,
+- termin poprawy lub naprawy, jeżeli dotyczy.
 
----
+Zakres dokumentowania kontroli powinien być dostosowany do skali działania podmiotu, rodzaju materiału i ryzyka związanego z publikacją.
 
-## Organizacja pracy
+## Kiedy stosować pełniejszą kontrolę
 
-Proces realizuje mała liczba osób, często jedna osoba pełni kilka różnych ról:
+Podmiot powinien zastosować pełniejszą kontrolę, gdy materiał:
 
-- autor przygotowuje materiał,
-- autor lub inna osoba zapewnia dostępność treści,
-- osoba odpowiedzialna za dostępność weryfikuje poprawność treści,
-- redaktor publikuje zweryfikowaną treść.
-
-Brak rozbudowanej struktury organizacyjnej wymaga jasnych i powtarzalnych zasad działania.
-
----
-
-## Uproszczony proces
-
-Proces publikacji obejmuje trzy podstawowe etapy:
-
-1. Przygotowanie materiału  
-   - uporządkowanie treści,  
-   - zapewnienie czytelności i struktury.
-2. Uzupełnienie dostępności  
-   - dodanie napisów i audiodeskrypcji do wideo oraz transkrypcji,
-   - przygotowanie opisu alternatywnego dla grafik.
-   - potwierdzenie spełnienia dostępności treści,   
-   - sprawdzenie czytelności treści,
-   - sprawdzenie zrozumiałości treści,  
-   - sprawdzenie kontrastu tekstu do tła.
-   - sprawdzenie czytelności,  
-   - sprawdzenie kontrastu,  
-   - potwierdzenie kompletności.
-
-Publikacja następuje po przejściu wszystkich etapów.
-
----
-
-## Zasady czytelności i komunikatu
-
-Materiał powinien być:
-
-- prosty i jednoznaczny,
-- logicznie uporządkowany,
-- zbudowany według hierarchii informacji (najważniejsze na początku),
-- pozbawiony zbędnej złożoności.
-
-W szczególności należy:
-- unikać skomplikowanych układów graficznych,
-- stosować czytelne kroje pisma (preferowane bezszeryfowe),
-- zapewnić odpowiedni kontrast,
-- unikać przekazywania informacji wyłącznie kolorem.
-
----
-
-## Zasada minimum
-
-W sytuacji ograniczonych zasobów stosuje się **zasadę minimum**.
-
-Oznacza to, że:
-- każdy materiał spełnia podstawowe wymagania dostępności,
-- nie pomija się kluczowych elementów,
-- dostępność nie jest odkładana na później.
-
-Jeżeli nie jest możliwe wdrożenie wszystkich elementów w pełnym zakresie, należy zapewnić minimum, które realnie wpływa na dostępność.
-
----
-
-## Zasada konsekwencji
-
-Kluczowym elementem modelu jest konsekwencja.
-
-Przyjęte minimalne wymagania są stosowane w każdym przypadku jako zasada podstawowa.
-
-W sytuacjach wyjątkowych podmiot może zastosować odrębną procedurę postępowania, wraz ze wskazaniem osoby odpowiedzialnej za decyzję i terminu uzupełnienia brakujących elementów dostępności.
-
-Dzięki temu podmiot zapewnia:
-- powtarzalność działań,
-- stabilny poziom jakości,
-- zgodność z wymaganiami.
-
----
-
-## Efekt wdrożenia
-
-Wdrożenie modelu prowadzi do:
-
-- zapewnienia podstawowego poziomu dostępności,
-- ograniczenia publikacji materiałów niedostępnych do uzasadnionych sytuacji wyjątkowych,
-- zwiększenia czytelności komunikacji,
-- możliwości dalszego rozwoju standardów.
-
-Dostępność staje się stałym elementem pracy, niezależnie od wielkości podmiotu.
+- dotyczy praw lub obowiązków obywateli,
+- jest formularzem, komunikatem transakcyjnym albo dokumentem wykorzystywanym w procedurze administracyjnej,
+- będzie publikowany w BIP,
+- trafi do dużej grupy odbiorców,
+- był wcześniej źródłem zgłoszeń lub błędów.
 
 ## Powiązane dokumenty
 
-- [Minimalne wymagania dostępności](../komunikacja-masowa/minimalne-wymagania)
-- [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych)
-- [Listy kontrolne publikacji](./listy-kontrolne-index)
+- [Kontrola dostępności treści cyfrowych przed publikacją](./procedura-kontroli-dostepnosci-przed-publikacja.md)
+- [Procedura kontroli dostępności przed publikacją](./procedura-wdrozeniowa-kontroli-dostepnosci-przed-publikacja.md)
+- [Wzór karty kontroli dostępności przed publikacją](./wzor-karty-kontroli-dostepnosci.md)
+- [Zestaw list kontrolnych według typu materiału](./listy-kontrolne-index.md)

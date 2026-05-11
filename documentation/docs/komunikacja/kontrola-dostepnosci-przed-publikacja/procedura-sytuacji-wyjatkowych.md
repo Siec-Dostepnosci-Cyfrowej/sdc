@@ -1,122 +1,104 @@
 ---
 id: procedura-sytuacji-wyjatkowych
-title: Procedura postępowania w sytuacjach wyjątkowych
-description: Procedura określająca zasady publikacji materiału mimo czasowego braku pełnego spełnienia wymagań dostępności.
-sidebar_label: Procedura wyjątków
-sidebar_position: 4
-keywords: [dostępność cyfrowa, procedura wyjątkowa, publikacja, multimedia, komunikacja, administracja publiczna]
-tags: [komunikacja, multimedia, dostępność cyfrowa, procedura]
+title: Tryb publikacji warunkowej i rejestr wyjątków
+description: Załącznik opisujący warunki publikacji warunkowej, dokumentowanie wyjątków, termin naprawy i odpowiedzialność.
+sidebar_label: Publikacja warunkowa
+sidebar_position: 2
+keywords: [dostępność cyfrowa, publikacja warunkowa, wyjątek, rejestr wyjątków]
+tags: [komunikacja, dostępność cyfrowa, procedura]
 opracowanie: Bartłomiej Wilk
 wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 27 kwietnia 2026 r.
+ostatnia_aktualizacja: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
-## Cel procedury
+# Tryb publikacji warunkowej i rejestr wyjątków
 
-Procedura określa, jak postępować, gdy publikacja materiału jest konieczna mimo czasowego braku pełnego spełnienia wymagań dostępności.
+## Cel
 
-Procedura ma charakter incydentalny i nie stanowi alternatywy dla zapewniania dostępności.
+Tryb publikacji warunkowej określa sposób postępowania, gdy publikacja treści cyfrowej jest konieczna mimo czasowego braku pełnego spełnienia wymagań dostępności.
 
-## Kiedy można zastosować procedurę
+Tryb ma charakter wyjątkowy. Nie zastępuje kontroli dostępności przed publikacją i nie może być stosowany jako stały sposób organizacji pracy.
 
-Procedurę można zastosować tylko wtedy, gdy łącznie:
+## Warunki zastosowania
+
+Publikacja warunkowa może zostać zastosowana, gdy łącznie:
+
 - materiał dotyczy informacji istotnej dla realizacji zadań publicznych,
-- brak publikacji w terminie spowodowałby istotne utrudnienie dostępu do informacji,
-- brakujący element dostępności może zostać uzupełniony w krótkim czasie,
-- wskazano osobę decyzyjną i udokumentowano przyczynę odstępstwa.
+- brak publikacji w terminie spowodowałby istotne utrudnienie dostępu do informacji albo wykonania zadania,
+- brakujący element dostępności może zostać uzupełniony w określonym terminie,
+- wskazano osobę odpowiedzialną za decyzję i naprawę,
+- udokumentowano przyczynę odstępstwa.
 
-## Kiedy procedury nie wolno stosować
+## Ograniczenia
 
-Procedury nie wolno stosować:
-- jako stałego sposobu publikacji materiałów,
-- przy planowanych działaniach, dla których brak dostępności wynika z braku organizacji pracy,
-- gdy brakujący element uniemożliwia zrozumienie kluczowego komunikatu i nie zapewniono alternatywy,
-- bez wskazania osoby zatwierdzającej i terminu uzupełnienia braków.
+Trybu publikacji warunkowej nie należy stosować:
 
-## Minimalne warunki publikacji mimo braku pełnej dostępności
-
-Przed publikacją warunkową należy zapewnić minimum:
-- możliwą do wdrożenia alternatywę (np. opis w poście, komentarzu albo link do wersji dostępnej),
-- jednoznaczną informację, który element dostępności jest tymczasowo niespełniony,
-- termin uzupełnienia braków,
-- wpis do rejestru wyjątków.
-
-Procedura nie znosi obowiązku uzupełnienia braków.
+- przy planowanych publikacjach, dla których brak dostępności wynika z braku organizacji pracy,
+- jako rutynowego sposobu publikowania materiałów niedostępnych,
+- bez terminu uzupełnienia braków,
+- bez osoby odpowiedzialnej za decyzję,
+- gdy brakujący element uniemożliwia zrozumienie kluczowej informacji i nie zapewniono rozwiązania alternatywnego.
 
 ## Decyzja i odpowiedzialność
 
-Decyzję o publikacji warunkowej podejmuje osoba uprawniona przez podmiot publiczny (np. kierownik komórki, redaktor prowadzący, osoba wyznaczona w modelu operacyjnym).
+Decyzję o publikacji warunkowej podejmuje osoba uprawniona przez podmiot publiczny. Może to być kierownik komórki, redaktor prowadzący, właściciel procesu publikacji albo inna osoba wskazana w procedurze wewnętrznej.
 
-Decyzja musi wskazywać:
-- kto ją podjął,
+Decyzja powinna wskazywać:
+
 - czego dotyczy odstępstwo,
-- dlaczego odstępstwo jest konieczne,
-- kiedy braki zostaną uzupełnione.
+- dlaczego publikacja jest konieczna,
+- kto zatwierdził publikację warunkową,
+- kto odpowiada za uzupełnienie braków,
+- jaki jest termin naprawy,
+- jak odbiorcy uzyskają dostęp do informacji do czasu usunięcia braku, jeżeli jest to potrzebne.
 
-## Dokumentowanie odstępstwa
+## Dokumentowanie
 
-Każde odstępstwo wymaga udokumentowania co najmniej:
-- daty i kanału publikacji,
-- rodzaju materiału,
-- brakującego elementu dostępności,
-- przyczyny odstępstwa,
-- osoby zatwierdzającej,
-- terminu uzupełnienia,
-- działania końcowego.
+Odstępstwo należy udokumentować w karcie kontroli, rejestrze wyjątków, systemie obiegu zadań albo innym narzędziu przyjętym przez podmiot.
 
-## Termin uzupełnienia braków
+Minimalny zakres dokumentowania obejmuje:
 
-Termin uzupełnienia braków określa się w momencie podejmowania decyzji o publikacji warunkowej.
+- datę i kanał publikacji,
+- tytuł i typ materiału,
+- brakujący element dostępności,
+- przyczynę odstępstwa,
+- osobę zatwierdzającą,
+- osobę odpowiedzialną za naprawę,
+- termin uzupełnienia,
+- datę zakończenia i działanie końcowe.
 
-Co do zasady termin nie powinien przekraczać 3 dni roboczych.
+## Termin naprawy
 
-## Działania po uzupełnieniu
+Termin naprawy ustala się w chwili podejmowania decyzji o publikacji warunkowej. Powinien być możliwie krótki i adekwatny do rodzaju braku.
 
-Po uzupełnieniu braków należy:
-- zaktualizować opublikowany materiał,
-- potwierdzić spełnienie wymagania w rejestrze wyjątków,
-- odnotować datę uzupełnienia i osobę wykonującą czynność.
-
-## Brak uzupełnienia w terminie
-
-Jeżeli braki nie zostały uzupełnione w terminie, materiał należy niezwłocznie:
-- uzupełnić,
-- zaktualizować,
-- albo wycofać z publikacji.
-
-Dodatkowo należy odnotować przekroczenie terminu i przyczynę w rejestrze oraz podjąć działanie korygujące, aby ograniczyć powtarzalność sytuacji.
+Jeżeli termin nie może zostać dotrzymany, podmiot powinien odnotować przyczynę, wyznaczyć nowy termin albo zdecydować o aktualizacji, zastąpieniu lub wycofaniu materiału.
 
 ## Rejestr wyjątków
 
-Podmiot publiczny prowadzi rejestr wyjątków jako narzędzie zarządcze i kontrolne.
+Rejestr wyjątków jest narzędziem zarządczym. Służy do monitorowania odstępstw, terminów naprawy i powtarzających się przyczyn problemów.
 
-Rejestr służy do:
-- monitorowania liczby odstępstw,
-- analizy przyczyn,
-- planowania działań naprawczych,
-- ograniczania powtarzalności wyjątków.
-
-## Wzór wpisu do rejestru
+Rejestr może być prowadzony jako tabela, arkusz, moduł w systemie zadań, wpis w CMS albo część rejestru publikacji.
 
 | Pole | Opis |
 |---|---|
 | Data publikacji | Data udostępnienia materiału. |
-| Kanał publikacji | Np. serwis WWW, BIP, profil w mediach społecznościowych, platforma zewnętrzna. |
-| Rodzaj materiału | Np. wideo, audio, grafika, post tekstowy. |
-| Brakujący element dostępności | Np. brak napisów, brak transkrypcji, brak opisu alternatywnego. |
-| Przyczyna odstępstwa | Krótki, konkretny opis przyczyny. |
-| Osoba zatwierdzająca | Imię, nazwisko i rola osoby decyzyjnej. |
-| Termin uzupełnienia | Data graniczna uzupełnienia braków. |
+| Tytuł materiału | Nazwa materiału albo identyfikator sprawy. |
+| Kanał publikacji | Np. serwis WWW, BIP, intranet, system wewnętrzny, newsletter, media społecznościowe. |
+| Typ materiału | Np. dokument, strona, formularz, komunikat, grafika, audio, wideo, post. |
+| Brakujący element dostępności | Krótki opis niespełnionego wymagania. |
+| Przyczyna odstępstwa | Uzasadnienie publikacji warunkowej. |
+| Osoba zatwierdzająca | Imię i nazwisko albo rola osoby decyzyjnej. |
+| Osoba odpowiedzialna za naprawę | Osoba lub komórka odpowiedzialna za uzupełnienie braku. |
+| Termin uzupełnienia | Data graniczna naprawy. |
 | Data uzupełnienia | Data rzeczywistego usunięcia braku. |
-| Działanie końcowe | uzupełniono / zaktualizowano / wycofano |
-| Uwagi | Dodatkowe informacje, w tym działania korygujące. |
+| Działanie końcowe | Uzupełniono / zaktualizowano / zastąpiono / wycofano. |
+| Uwagi | Działania korygujące albo informacja o zmianie terminu. |
 
 ## Powiązane dokumenty
 
-- [Standard dostępności multimediów i komunikacji masowej](../komunikacja-masowa/komunikacja-masowa-zalecenie.md)
-- [Minimalne wymagania dostępności](../komunikacja-masowa/minimalne-wymagania.md)
-- [Mapa odpowiedzialności w procesie publikacji](./mapa-odpowiedzialnosci.md)
-- [Model operacyjny publikacji dostępnych multimediów](./model-operacyjny-publikacji-dostepnych-multimediow.md)
-- [Listy kontrolne publikacji](./listy-kontrolne-index.md)
+- [Kontrola dostępności treści cyfrowych przed publikacją](./procedura-kontroli-dostepnosci-przed-publikacja.md)
+- [Procedura kontroli dostępności przed publikacją](./procedura-wdrozeniowa-kontroli-dostepnosci-przed-publikacja.md)
+- [Wzór karty kontroli dostępności przed publikacją](./wzor-karty-kontroli-dostepnosci.md)
+- [Mapa ról i odpowiedzialności w procesie publikacji](./mapa-odpowiedzialnosci.md)

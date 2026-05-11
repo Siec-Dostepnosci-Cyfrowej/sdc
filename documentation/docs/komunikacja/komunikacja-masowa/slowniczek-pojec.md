@@ -269,9 +269,9 @@ Wymaganie lub praktyka, która zwiększa dostępność i jakość komunikacji, a
 
 Sprawdzenie materiału przed jego publicznym udostępnieniem. Weryfikacja powinna potwierdzić kompletność napisów, opisów, transkrypcji, alternatyw tekstowych, linków, metadanych i innych elementów wymaganych dla danego formatu.
 
-### Procedura postępowania w sytuacjach wyjątkowych
+### Tryb publikacji warunkowej
 
-Ustalony sposób postępowania, gdy materiał nie może spełnić wszystkich wymagań przed publikacją. Procedura powinna wskazywać powód wyjątku, osobę decyzyjną, termin uzupełnienia braków i sposób zapewnienia odbiorcom dostępu do informacji.
+Ustalony sposób postępowania, gdy materiał nie może spełnić wszystkich wymagań przed publikacją, a publikacja jest konieczna. Tryb powinien wskazywać powód wyjątku, osobę decyzyjną, termin uzupełnienia braków i sposób zapewnienia odbiorcom dostępu do informacji.
 
 ### Działanie korygujące
 

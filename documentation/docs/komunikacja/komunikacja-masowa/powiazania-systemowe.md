@@ -163,6 +163,6 @@ Tylko w takim ujęciu możliwe jest osiągnięcie trwałego i powtarzalnego pozi
 ## Powiązane dokumenty
 
 - [Dokumenty uzupełniające](./dokumenty-uzupelniajace-index)
-- [Mapa odpowiedzialności w procesie publikacji](../kontrola-dostepnosci-przed-publikacja/mapa-odpowiedzialnosci)
+- [Mapa ról i odpowiedzialności w procesie publikacji](../kontrola-dostepnosci-przed-publikacja/mapa-odpowiedzialnosci)
 - [Efekty wdrożenia](./efekty-wdrozenia)
-- [Procedura postępowania w sytuacjach wyjątkowych](../kontrola-dostepnosci-przed-publikacja/procedura-sytuacji-wyjatkowych)
+- [Tryb publikacji warunkowej i rejestr wyjątków](../kontrola-dostepnosci-przed-publikacja/procedura-sytuacji-wyjatkowych)

@@ -1,268 +1,58 @@
 ---
 id: mapa-odpowiedzialnosci
-title: Mapa odpowiedzialności w procesie publikacji multimediów
-description: Dokument określający role i odpowiedzialności w procesie publikacji dostępnych treści.
-sidebar_label: Mapa odpowiedzialności
-sidebar_position: 13
-keywords: [dostępność cyfrowa, multimedia, komunikacja, administracja publiczna]
-tags: [komunikacja, multimedia, dostępność cyfrowa]
+title: Mapa ról i odpowiedzialności w procesie publikacji
+description: Załącznik opisujący role i odpowiedzialności w procesie kontroli dostępności treści cyfrowych przed publikacją.
+sidebar_label: Mapa ról
+sidebar_position: 3
+keywords: [dostępność cyfrowa, role, odpowiedzialność, publikacja, treści cyfrowe]
+tags: [komunikacja, dostępność cyfrowa, role]
 opracowanie: Bartłomiej Wilk
-wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
+wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 23 kwietnia 2026 r.
+ostatnia_aktualizacja: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
+# Mapa ról i odpowiedzialności w procesie publikacji
 
-## Założenia
+## Założenie
 
-Dokument określa podział odpowiedzialności w procesie przygotowania i publikacji materiałów multimedialnych oraz zasady przekazywania informacji między etapami.
+Mapa opisuje funkcje potrzebne w procesie publikacji treści cyfrowych. W małych podmiotach jedna osoba może pełnić kilka ról. Role powinny być jednak nazwane oddzielnie, ponieważ rozdzielają odpowiedzialność za przygotowanie, sprawdzenie, decyzję, publikację techniczną i wyjątki.
 
-Dostępność jest budowana na każdym etapie procesu.
+Mapa dotyczy różnych typów treści cyfrowych, w tym dokumentów, stron CMS, załączników BIP, formularzy, komunikatów transakcyjnych, newsletterów, e-maili masowych, treści w systemach wewnętrznych, grafik, audio, wideo i treści w mediach społecznościowych.
 
-Każdy etap przygotowuje dane wejściowe dla kolejnego.
+## Role podstawowe
 
-Brak wymaganych informacji uniemożliwia dalsze przetwarzanie materiału i stanowi podstawę do wstrzymania publikacji.
+| Rola | Główna odpowiedzialność | Przykładowe zadania |
+|---|---|---|
+| Osoba przygotowująca materiał | Przygotowanie treści i elementów wymaganych do publikacji. | Tworzy treść, dokument, stronę, formularz, załącznik, grafikę, nagranie lub post; zapewnia strukturę, kompletność i elementy równoważne w swoim zakresie. |
+| Osoba sprawdzająca dostępność | Kontrola materiału przed publikacją. | Dobiera listę kontrolną lub standard, sprawdza wymagania właściwe dla typu materiału, wskazuje braki i wynik kontroli. |
+| Osoba zatwierdzająca publikację | Podjęcie decyzji publikacyjnej. | Zatwierdza publikację, kieruje materiał do poprawy, wstrzymuje publikację albo uruchamia tryb publikacji warunkowej. |
+| Osoba publikująca technicznie | Udostępnienie materiału w kanale publikacji. | Wprowadza materiał do CMS, BIP, systemu newsletterowego, platformy społecznościowej lub systemu wewnętrznego; sprawdza, czy elementy dostępności zostały zachowane w kanale docelowym. |
+| Osoba odpowiedzialna za tryb publikacji warunkowej lub wyjątek | Uzasadnienie, zatwierdzenie i monitorowanie wyjątku. | Dokumentuje powód odstępstwa, termin naprawy, osobę odpowiedzialną i działanie końcowe w rejestrze wyjątków. |
 
-Model odpowiada rzeczywistemu sposobowi pracy w administracji.
+## Przykładowe przypisanie do typów treści
 
-## Materiały wideo
+| Typ treści | Osoba przygotowująca | Osoba sprawdzająca | Osoba zatwierdzająca | Osoba publikująca |
+|---|---|---|---|---|
+| Dokument PDF, DOCX, XLSX | Autor dokumentu lub komórka merytoryczna | Redaktor, specjalista dostępności albo osoba wyznaczona | Właściciel treści lub kierownik komórki | Redaktor CMS, BIP albo kancelaria publikująca |
+| Strona informacyjna CMS | Autor lub redaktor merytoryczny | Redaktor dostępności lub drugi redaktor | Redaktor prowadzący albo właściciel treści | Redaktor CMS |
+| Załącznik BIP | Komórka merytoryczna | Osoba sprawdzająca dokument i metadane | Osoba uprawniona do zatwierdzenia publikacji w BIP | Administrator lub redaktor BIP |
+| Formularz lub komunikat transakcyjny | Właściciel procesu, analityk albo zespół systemu | Tester dostępności, redaktor albo osoba wyznaczona | Właściciel procesu lub systemu | Administrator systemu albo zespół techniczny |
+| Newsletter lub e-mail masowy | Zespół komunikacji | Redaktor lub osoba wyznaczona do kontroli | Redaktor prowadzący | Osoba obsługująca system wysyłkowy |
+| Treść w systemie wewnętrznym | Właściciel informacji | Redaktor, administrator albo osoba wyznaczona | Właściciel procesu wewnętrznego | Administrator systemu |
+| Grafika, audio, wideo, social media | Zespół komunikacji, grafik, montażysta albo autor | Redaktor, osoba ds. dostępności albo drugi członek zespołu | Redaktor prowadzący lub kierownik komunikacji | Administrator kanału |
 
-### Komórka merytoryczna
+## Zasady współpracy
 
-Odpowiada za:
-- określenie celu materiału,
-- przygotowanie treści i kontekstu,
-- wskazanie najważniejszych informacji,
-- przygotowanie lub zarys wypowiedzi.
+Każda rola powinna wiedzieć, kiedy otrzymuje materiał, jaki wynik ma przekazać dalej i kto podejmuje decyzję publikacyjną.
 
-Przekazuje:
-- zakres treści,
-- kontekst materiału,
-- informacje niezbędne do przygotowania napisów i opisów.
-
-### Zespół realizujący nagranie
-
-Odpowiada za:
-- jakość dźwięku i obrazu,
-- czytelność przekazu,
-- uporządkowanie materiału.
-
-Przekazuje:
-- nagranie,
-- informacje o mówcach,
-- informacje o przebiegu materiału,
-- wskazanie elementów wymagających opisu.
-
-### Montaż
-
-Odpowiada za:
-- przygotowanie napisów,
-- synchronizację treści,
-- przygotowanie transkrypcji (jeżeli wymagane),
-- opis istotnych elementów wizualnych.
-
-Przekazuje:
-- materiał wideo,
-- napisy,
-- transkrypcję (jeżeli dotyczy).
-
-### Redaktor publikujący
-
-Odpowiada za:
-- wprowadzenie materiału do systemu,
-- przypisanie napisów,
-- uzupełnienie opisu,
-- nadanie kontekstu.
-
-Sprawdza:
-- kompletność materiału,
-- poprawność działania,
-- obecność elementów dostępności.
-
-Brak któregokolwiek elementu co do zasady uniemożliwia publikację. Dalsze postępowanie jest możliwe wyłącznie zgodnie z przyjętą procedurą postępowania w sytuacjach wyjątkowych.
-
-### Koordynator dostępności
-
-Odpowiada za:
-- nadzór nad procesem,
-- weryfikację poprawności działania modelu,
-- wsparcie zespołów.
-
-## Materiały audio
-
-### Komórka merytoryczna
-
-Odpowiada za:
-- przygotowanie treści,
-- zapewnienie kompletności komunikatu.
-
-Przekazuje:
-- treść lub notatki do nagrania.
-
-### Osoba nagrywająca
-
-Odpowiada za:
-- jakość dźwięku,
-- czytelność wypowiedzi.
-
-Przekazuje:
-- nagranie,
-- informacje o mówcach.
-
-### Opracowanie
-
-Odpowiada za:
-- przygotowanie transkrypcji.
-
-Transkrypcja:
-- zawiera pełną treść,
-- zachowuje strukturę wypowiedzi.
-
-### Redaktor publikujący
-
-Odpowiada za:
-- publikację nagrania,
-- powiązanie nagrania z transkrypcją.
-
-### Koordynator dostępności
-
-Nadzoruje proces.
-
-## Grafiki informacyjne i promocyjne
-
-### Komórka merytoryczna
-
-Odpowiada za:
-- przygotowanie treści,
-- określenie najważniejszych informacji.
-
-### Grafik
-
-Odpowiada za:
-- przygotowanie projektu,
-- czytelność (kontrast, wielkość tekstu, układ),
-- wskazanie elementów kluczowych i dekoracyjnych.
-
-### Autor lub redaktor
-
-Odpowiada za:
-- przygotowanie opisu alternatywnego.
-
-Opis:
-- przekazuje znaczenie grafiki,
-- zawiera kluczowe informacje,
-- uwzględnia kontekst.
-
-Grafiki dekoracyjne:
-- oznacza się jako dekoracyjne.
-
-### Redaktor publikujący
-
-Odpowiada za:
-- publikację grafiki,
-- przypisanie opisu alternatywnego,
-- kontrolę poprawności wyświetlania.
-
-### Koordynator dostępności
-
-Nadzoruje proces.
-
-## Materiały w mediach społecznościowych
-
-### Zespół komunikacji
-
-Odpowiada za:
-- przygotowanie treści,
-- dostosowanie materiału do platformy,
-- zapewnienie dostępności (napisy, opisy, struktura).
-
-### Osoba przygotowująca materiał
-
-Odpowiada za:
-- dodanie napisów,
-- przygotowanie opisów,
-- dostosowanie materiału do funkcji platformy.
-
-### Administrator kanału
-
-Odpowiada za:
-- publikację materiału,
-- wykorzystanie funkcji dostępności (np. opisy alternatywne, napisy).
-
-### Koordynator dostępności
-
-Monitoruje działania i wspiera zespół.
-
-## Materiały osadzane z zewnętrznych platform
-
-### Zespół tworzący materiał
-
-Odpowiada za przygotowanie materiału w sposób dostępny.
-
-### Administrator / IT
-
-Odpowiada za:
-- poprawne osadzenie materiału,
-- działanie techniczne.
-
-### Redaktor publikujący
-
-Odpowiada za:
-- dodanie materiału,
-- uzupełnienie opisu i kontekstu.
-
-### Koordynator dostępności
-
-Nadzoruje proces.
-
-## Dokumenty zawierające multimedia
-
-### Komórka merytoryczna
-
-Odpowiada za:
-- przygotowanie treści,
-- przekazanie informacji do opisów.
-
-### Autor dokumentu
-
-Odpowiada za:
-- strukturę dokumentu,
-- opisy alternatywne,
-- czytelność.
-
-### Redaktor publikujący
-
-Odpowiada za:
-- weryfikację dokumentu przed publikacją.
-
-### Koordynator dostępności
-
-Nadzoruje proces.
-
-## Zasada przepływu informacji
-
-Każdy etap przekazuje informacje niezbędne do realizacji kolejnego etapu.
-
-Brak informacji:
-- uniemożliwia zapewnienie dostępności,
-- stanowi podstawę do wstrzymania publikacji.
-
-## Podsumowanie
-
-Model określa odpowiedzialność etapową w procesie tworzenia i publikacji materiałów.
-
-Każdy uczestnik procesu odpowiada za dostępność w swoim zakresie.
-
-Dostępność nie jest naprawiana na końcu, lecz powstaje w trakcie całego procesu.
-
-Publikacja materiału niespełniającego wymagań nie powinna mieć miejsca poza sytuacjami wyjątkowymi obsłużonymi zgodnie z przyjętą procedurą.
-
-Model stanowi podstawę organizacji pracy, współpracy między zespołami oraz kontroli jakości.
+Brak wymaganych informacji albo brak potwierdzenia dostępności powinien prowadzić do uzupełnienia materiału, skierowania go do poprawy, publikacji warunkowej albo wstrzymania publikacji.
 
 ## Powiązane dokumenty
 
-- [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md)
-- [Modele organizacyjne i wdrożeniowe](./modele-index.md)
-- [Listy kontrolne publikacji](./listy-kontrolne-index.md)
-- [Minimalne wymagania dostępności](../komunikacja-masowa/minimalne-wymagania.md)
+- [Kontrola dostępności treści cyfrowych przed publikacją](./procedura-kontroli-dostepnosci-przed-publikacja.md)
+- [Procedura kontroli dostępności przed publikacją](./procedura-wdrozeniowa-kontroli-dostepnosci-przed-publikacja.md)
+- [Tryb publikacji warunkowej i rejestr wyjątków](./procedura-sytuacji-wyjatkowych.md)
+- [Wariant uproszczony procedury dla małych podmiotów](./model-dla-malych-podmiotow.md)
+- [Wariant rozszerzony procedury dla dużych podmiotów](./model-dla-duzych-podmiotow.md)

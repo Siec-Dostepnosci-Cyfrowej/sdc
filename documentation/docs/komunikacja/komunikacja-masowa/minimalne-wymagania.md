@@ -87,7 +87,7 @@ Publikacja jest dopuszczalna, gdy wymagania obowiązkowe i właściwe wymagania 
 
 ## Sytuacje wyjątkowe
 
-Jeżeli wymaganie obowiązkowe nie może zostać spełnione w momencie publikacji, stosuje się [Procedurę postępowania w sytuacjach wyjątkowych](../kontrola-dostepnosci-przed-publikacja/procedura-sytuacji-wyjatkowych.md).
+Jeżeli wymaganie obowiązkowe nie może zostać spełnione w momencie publikacji, stosuje się [tryb publikacji warunkowej i rejestr wyjątków](../kontrola-dostepnosci-przed-publikacja/procedura-sytuacji-wyjatkowych.md).
 
 ## Odpowiedzialność
 
@@ -104,4 +104,4 @@ Autor odpowiada za przygotowanie materiału. Osoba weryfikująca odpowiada za ko
 - [Lista kontrolna publikacji wideo](../kontrola-dostepnosci-przed-publikacja/lista-kontrolna-publikacji-wideo.md)
 - [Lista kontrolna publikacji postów w mediach społecznościowych](../kontrola-dostepnosci-przed-publikacja/lista-kontrolna-publikacji-postow-w-social-media.md)
 - [Lista kontrolna publikacji audio](../kontrola-dostepnosci-przed-publikacja/lista-kontrolna-publikacji-audio.md)
-- [Procedura postępowania w sytuacjach wyjątkowych](../kontrola-dostepnosci-przed-publikacja/procedura-sytuacji-wyjatkowych.md)
+- [Tryb publikacji warunkowej i rejestr wyjątków](../kontrola-dostepnosci-przed-publikacja/procedura-sytuacji-wyjatkowych.md)

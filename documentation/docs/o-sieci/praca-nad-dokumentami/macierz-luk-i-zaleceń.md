@@ -31,7 +31,7 @@ wersja_robocza: true
 | Cykl życia TIK | Brak procedury wyjątku (nadmierne obciążenie) | Standard stosowania odstępstw | Zarządzanie, Komunikacja |
 | Komunikacja | Brak nadrzędnej polityki komunikacyjnej | Polityka dostępnej komunikacji | Zarządzanie |
 | Komunikacja | Brak jednolitego standardu redakcyjnego | Standard redakcyjny (Plain Language + technika) | Wiedza i umiejętności |
-| Komunikacja | Brak formalnej kontroli przed publikacją | Procedura kontroli dostępności treści | Cykl życia TIK |
+| Komunikacja | Brak formalnej kontroli przed publikacją | Kontrola dostępności treści cyfrowych przed publikacją | Cykl życia TIK |
 | Komunikacja | Brak systemowego podejścia do multimediów | Standard dostępności multimediów | Zaopatrzenie |
 | Komunikacja | Brak procedury publikacji treści zewnętrznych | Procedura weryfikacji treści podmiotów trzecich | Zaopatrzenie |
 | Wsparcie | Brak formalnej procedury alternatywnego dostępu | Procedura zapewniania alternatywnego dostępu | Komunikacja, Cykl życia TIK |

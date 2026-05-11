@@ -28,4 +28,4 @@ Punkty obowiązkowe muszą być spełnione przed publikacją albo objęte proced
 ## Powiązane dokumenty
 
 - [Standard struktury komunikatu i tworzenia treści](../komunikacja-masowa/04-standard-struktury-komunikatu-i-tworzenia-tresci.md)
-- [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md)
+- [Tryb publikacji warunkowej i rejestr wyjątków](./procedura-sytuacji-wyjatkowych.md)

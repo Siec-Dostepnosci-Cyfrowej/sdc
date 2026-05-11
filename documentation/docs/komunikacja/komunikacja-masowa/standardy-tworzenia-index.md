@@ -24,6 +24,6 @@ wersja_robocza: true
 ## Powiązane dokumenty
 
 - [Minimalne wymagania dostępności](./minimalne-wymagania)
-- [Model operacyjny publikacji dostępnych multimediów](../kontrola-dostepnosci-przed-publikacja/model-operacyjny-publikacji-dostepnych-multimediow)
-- [Listy kontrolne publikacji](../kontrola-dostepnosci-przed-publikacja/listy-kontrolne-index)
-- [Procedura postępowania w sytuacjach wyjątkowych](../kontrola-dostepnosci-przed-publikacja/procedura-sytuacji-wyjatkowych)
+- [Kontrola dostępności treści cyfrowych przed publikacją](../kontrola-dostepnosci-przed-publikacja/procedura-kontroli-dostepnosci-przed-publikacja)
+- [Zestaw list kontrolnych według typu materiału](../kontrola-dostepnosci-przed-publikacja/listy-kontrolne-index)
+- [Tryb publikacji warunkowej i rejestr wyjątków](../kontrola-dostepnosci-przed-publikacja/procedura-sytuacji-wyjatkowych)

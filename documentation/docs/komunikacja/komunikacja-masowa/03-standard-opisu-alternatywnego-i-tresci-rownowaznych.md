@@ -56,4 +56,4 @@ W materiałach z danymi liczbowymi zaleca się podawać najważniejszy wniosek o
 - [Minimalne wymagania dostępności](./minimalne-wymagania)
 - [Standard tworzenia dostępnych grafik](./02-standard-tworzenia-dostepnych-grafik-i-materialow-wizualnych)
 - [Lista kontrolna publikacji treści z obrazkiem](../kontrola-dostepnosci-przed-publikacja/lista-kontrolna-publikacji-tresci-z-obrazkiem)
-- [Procedura postępowania w sytuacjach wyjątkowych](../kontrola-dostepnosci-przed-publikacja/procedura-sytuacji-wyjatkowych)
+- [Tryb publikacji warunkowej i rejestr wyjątków](../kontrola-dostepnosci-przed-publikacja/procedura-sytuacji-wyjatkowych)

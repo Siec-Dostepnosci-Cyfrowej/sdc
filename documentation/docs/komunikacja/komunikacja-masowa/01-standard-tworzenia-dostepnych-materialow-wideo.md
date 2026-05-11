@@ -65,4 +65,4 @@ Transkrypcja rozszerzona jest jedną z kluczowych form zapewnienia dostępu do t
 
 - [Minimalne wymagania dostępności](./minimalne-wymagania)
 - [Lista kontrolna publikacji wideo](../kontrola-dostepnosci-przed-publikacja/lista-kontrolna-publikacji-wideo)
-- [Procedura postępowania w sytuacjach wyjątkowych](../kontrola-dostepnosci-przed-publikacja/procedura-sytuacji-wyjatkowych)
+- [Tryb publikacji warunkowej i rejestr wyjątków](../kontrola-dostepnosci-przed-publikacja/procedura-sytuacji-wyjatkowych)

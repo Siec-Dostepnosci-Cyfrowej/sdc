@@ -1,152 +1,74 @@
 ---
 id: model-dla-duzych-podmiotow
-title: Model wdrożenia dla dużych podmiotów
-description: Model wdrożeniowy dla dużych podmiotów określający organizację procesu zapewniania dostępności treści.
-sidebar_label: Model - duże podmioty
-sidebar_position: 12
-keywords: [dostępność cyfrowa, multimedia, komunikacja, administracja publiczna]
-tags: [komunikacja, multimedia, dostępność cyfrowa]
+title: Wariant rozszerzony procedury dla dużych podmiotów
+description: Wariant rozszerzony procedury kontroli dostępności przed publikacją dla organizacji z wieloma redakcjami, kanałami i komórkami organizacyjnymi.
+sidebar_label: Wariant rozszerzony
+sidebar_position: 5
+keywords: [dostępność cyfrowa, duże podmioty, procedura rozszerzona, publikacja]
+tags: [komunikacja, dostępność cyfrowa, procedura]
 opracowanie: Bartłomiej Wilk
-wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
+wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 23 kwietnia 2026 r.
+ostatnia_aktualizacja: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
-## Założenia
+# Wariant rozszerzony procedury dla dużych podmiotów
 
-W dużych podmiotach wdrożenie dostępności multimediów i komunikacji masowej ma charakter systemowy.
+## Założenie
 
-Komunikacja realizowana jest przez wiele zespołów, w różnych kanałach i przy użyciu różnych narzędzi. Brak ujednoliconego podejścia prowadzi do niespójności i powstawania barier dostępnościowych o charakterze organizacyjnym.
+Wariant rozszerzony jest przeznaczony dla podmiotów, w których publikacja treści cyfrowych odbywa się w wielu komórkach organizacyjnych, redakcjach, systemach i kanałach.
 
-Dostępność stanowi element zarządzania jakością komunikacji, a nie działanie dodatkowe.
+Celem wariantu jest zapewnienie jednolitego punktu decyzyjnego przed publikacją oraz spójnego dokumentowania wyników kontroli.
 
----
+## Organizacja procesu
 
-## Standard organizacyjny
+Podmiot powinien określić:
 
-Podstawą wdrożenia jest włączenie dostępności do istniejących zasad działania podmiotu publicznego.
+- właścicieli procesów publikacji dla głównych kanałów,
+- role osób przygotowujących, sprawdzających, zatwierdzających i publikujących,
+- narzędzia kontroli właściwe dla typów materiałów,
+- sposób eskalacji problemów i wyjątków,
+- sposób raportowania wyników kontroli i powtarzających się błędów.
 
-W szczególności:
+## Przebieg rozszerzony
 
-- wymagania dostępności są elementem polityki dostępności lub procedur komunikacyjnych,
-- zasady publikacji treści zawierają obowiązkowy etap weryfikacji dostępności,
-- brak weryfikacji co do zasady uniemożliwia publikację materiału.
+1. Komórka merytoryczna przygotowuje materiał i określa kanał publikacji.
+2. Osoba przygotowująca przekazuje materiał wraz z informacją o typie, przeznaczeniu i ryzyku publikacji.
+3. Osoba sprawdzająca dobiera listę kontrolną, standard publikacji albo inne narzędzie kontroli.
+4. Wynik kontroli zostaje odnotowany w karcie kontroli, systemie obiegu zadań, CMS albo rejestrze publikacji.
+5. Osoba zatwierdzająca podejmuje decyzję publikacyjną.
+6. Osoba publikująca technicznie udostępnia materiał i potwierdza, że elementy dostępności zostały zachowane w kanale docelowym.
+7. Wyniki kontroli są okresowo analizowane w celu poprawy standardów, szablonów, szkoleń i organizacji pracy.
 
-Dostępność jest wbudowana w istniejące procesy, a nie realizowana jako odrębna ścieżka.
+## Kontrola według ryzyka
 
-W podmiotach bez formalnej polityki dostępności możliwe jest wdrożenie rozwiązania przejściowego w postaci:
-- wewnętrznego standardu publikacji,
-- instrukcji dla zespołów komunikacyjnych,
-- obowiązkowych list kontrolnych.
+Podmiot może stosować różne poziomy kontroli:
 
----
+- kontrolę podstawową dla prostych informacji i komunikatów,
+- kontrolę standardową dla typowych stron, dokumentów i materiałów publikowanych publicznie,
+- kontrolę rozszerzoną dla formularzy, komunikatów transakcyjnych, BIP, dokumentów o skutkach prawnych, dużych kampanii i materiałów wysokiego ryzyka.
 
-## Role i odpowiedzialność
+## Dokumentowanie i raportowanie
 
-Skuteczne wdrożenie wymaga jednoznacznego przypisania odpowiedzialności.
+Wariant rozszerzony powinien umożliwiać analizę:
 
-### Autor
+- liczby materiałów skierowanych do poprawy,
+- liczby publikacji warunkowych,
+- typów najczęstszych błędów,
+- kanałów, w których błędy powtarzają się najczęściej,
+- terminowości naprawy wyjątków.
 
-Uwzględnia dostępność na etapie tworzenia materiału, w szczególności:
-- przygotowuje treść możliwą do opisania,
-- zapewnia kompletność informacji,
-- uwzględnia strukturę komunikatu.
+Wyniki tej analizy powinny zasilać aktualizację standardów, list kontrolnych, szablonów, instrukcji i szkoleń.
 
-### Redaktor / osoba publikująca
+## Powiązanie z działaniami po publikacji
 
-Odpowiada za:
-- uzupełnienie elementów dostępności,
-- weryfikację materiału przed publikacją,
-- zapewnienie zgodności z wymaganiami.
-
-### Osoba ds. dostępności
-
-Pełni rolę koordynacyjną:
-
-- wspiera zespoły,
-- identyfikuje problemy,
-- analizuje powtarzające się błędy,
-- inicjuje działania naprawcze.
-
-Nie zastępuje zespołów w realizacji ich zadań.
-
-### Mechanizm doskonalenia
-
-Błędy są analizowane pod kątem przyczyn, a nie tylko usuwane.
-
-Wnioski z analizy przekładają się na:
-- zmiany w procedurach,
-- doprecyzowanie standardów,
-- działania szkoleniowe.
-
----
-
-## Narzędzia i organizacja pracy
-
-Warunkiem skuteczności modelu jest zapewnienie odpowiednich narzędzi.
-
-Podmiot publiczny zapewnia:
-
-- wzorce i przykłady (np. opisy alternatywne, transkrypcje),
-- wewnętrzne repozytorium materiałów,
-- narzędzia wspierające proces, np. robocze generowanie napisów, pod warunkiem obowiązkowej redakcji i weryfikacji przez osobę odpowiedzialną.
-
-Narzędzia automatyczne nie zastępują oceny dostępności ani odpowiedzialności za publikację.
-
-Standaryzacja ogranicza uznaniowość i zwiększa spójność działań.
-
----
-
-## Kontrola jakości
-
-Kontrola dostępności ma charakter ciągły.
-
-Obejmuje:
-- weryfikację przed publikacją,
-- cykliczne przeglądy publikacji,
-- analizę błędów.
-
-Kontrola nie ma charakteru jednorazowego audytu, lecz stanowi element procesu.
-
----
-
-## Procedura „najpierw dostępne”
-
-Model opiera się na podejściu proaktywnym.
-
-Dostępność jest uwzględniana:
-- na etapie planowania,
-- w trakcie przygotowania materiału,
-- przed publikacją.
-
-Proces obejmuje:
-
-1. **Planowanie** – określenie celu i wymagań dostępności.
-2. **Przygotowanie** – tworzenie materiału zgodnie z założeniami.
-3. **Opracowanie** – przygotowanie napisów, opisów i transkrypcji.
-4. **Weryfikacja** – sprawdzenie zgodności z wymaganiami.
-5. **Publikacja** – udostępnienie materiału.
-6. **Monitorowanie** – kontrola jakości i analiza błędów.
-
-Publikacja materiału następuje po spełnieniu wymagań. W sytuacjach wyjątkowych możliwe jest zastosowanie odrębnej procedury, która wskazuje przyczynę odstępstwa, osobę odpowiedzialną, sposób udokumentowania decyzji i termin uzupełnienia brakujących elementów dostępności.
-
----
-
-## Efekt wdrożenia
-
-Wdrożenie modelu prowadzi do:
-
-- spójności komunikacji,
-- ograniczenia publikacji materiałów niepełnych do uzasadnionych sytuacji wyjątkowych,
-- ograniczenia działań naprawczych,
-- jednoznacznego przypisania odpowiedzialności,
-- zwiększenia jakości komunikacji publicznej.
-
-Dostępność staje się elementem codziennej pracy, a nie działaniem dodatkowym.
+Kontrola przed publikacją nie zastępuje przeglądu treści już opublikowanych. Zgłoszenia, błędy ujawnione po publikacji i naprawa historycznych materiałów powinny być obsługiwane w odrębnym procesie cyklu życia treści.
 
 ## Powiązane dokumenty
 
-- [Mapa odpowiedzialności w procesie publikacji](./mapa-odpowiedzialnosci.md)
-- [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md)
-- [Listy kontrolne publikacji](./listy-kontrolne-index.md)
+- [Kontrola dostępności treści cyfrowych przed publikacją](./procedura-kontroli-dostepnosci-przed-publikacja.md)
+- [Procedura kontroli dostępności przed publikacją](./procedura-wdrozeniowa-kontroli-dostepnosci-przed-publikacja.md)
+- [Mapa ról i odpowiedzialności w procesie publikacji](./mapa-odpowiedzialnosci.md)
+- [Tryb publikacji warunkowej i rejestr wyjątków](./procedura-sytuacji-wyjatkowych.md)
+- [Zestaw list kontrolnych według typu materiału](./listy-kontrolne-index.md)

@@ -1,93 +1,137 @@
 ---
 id: procedura-kontroli-dostepnosci-przed-publikacja
-title: Procedura kontroli dostępności przed publikacją
-description: Procedura kontroli dostępności przed publikacją treści cyfrowych
+title: Kontrola dostępności treści cyfrowych przed publikacją
+description: Zalecenie ustanawiające obowiązkowy punkt kontroli dostępności przed publikacją treści cyfrowych.
 sidebar_label: Zalecenie
 sidebar_position: 0
-keywords: [dostępność cyfrowa, kontrola dostępności, publikacja, komunikacja, listy kontrolne]
+keywords: [dostępność cyfrowa, kontrola dostępności, publikacja, komunikacja, treści cyfrowe]
 tags: [zalecenie, komunikacja, dostępność cyfrowa, kontrola]
 opracowanie: Bartłomiej Wilk
 wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 30 kwietnia 2026 r.
-ostatnia_aktualizacja: 30 kwietnia 2026 r.
+ostatnia_aktualizacja: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
-## Cel zalecenia
+# Kontrola dostępności treści cyfrowych przed publikacją
 
-Celem zalecenia jest wprowadzenie jednoznacznego punktu kontroli dostępności przed publikacją treści cyfrowych. Punkt ten rozwiązuje problem braku decyzji, czy przygotowany materiał spełnia wymagania dostępności i może zostać udostępniony odbiorcom.
+## 1. Cel zalecenia
 
-## Zalecenie
+Celem zalecenia jest zapewnienie, aby podmiot publiczny nie publikował treści cyfrowych bez wcześniejszego potwierdzenia spełnienia wymagań dostępności albo bez udokumentowanej decyzji o poprawie, wstrzymaniu publikacji lub czasowej publikacji warunkowej.
 
-Podmiot zapewnia obowiązkową procedurę kontroli dostępności przed publikacją treści cyfrowych. Procedura kończy się decyzją o dopuszczeniu treści do publikacji, skierowaniu jej do poprawy albo zastosowaniu trybu wyjątkowego.
+Zalecenie przenosi dostępność z etapu naprawy po publikacji na etap przygotowania i zatwierdzania treści. Ma ograniczać bariery powstające w procesie komunikacji, wzmacniać odpowiedzialność za jakość publikacji oraz zapewniać powtarzalny mechanizm kontroli w organizacji.
 
-## Rekomendacje
+## 2. Zalecenie
 
-### 1. Punkt kontroli przed publikacją
+Podmiot publiczny ustanawia kontrolę dostępności jako obowiązkowy punkt procesu publikacji treści cyfrowych. Publikacja następuje po potwierdzeniu spełnienia wymagań dostępności albo po udokumentowanej decyzji o skierowaniu materiału do poprawy, wstrzymaniu publikacji lub zastosowaniu trybu publikacji warunkowej.
 
-Kontrola obejmuje treść, metadane, elementy alternatywne oraz sposób udostępnienia materiału w docelowym kanale cyfrowym. Punkt kontroli jest stosowany po przygotowaniu materiału i przed jego publikacją w serwisie internetowym, Biuletynie Informacji Publicznej, mediach społecznościowych, platformie zewnętrznej albo innym kanale cyfrowym podmiotu.
+## 3. Zakres stosowania
 
-Kontrola nie zastępuje standardów tworzenia treści. Stanowi końcowe potwierdzenie, że materiał przygotowany do publikacji spełnia wymagania właściwe dla swojego typu.
+Zalecenie dotyczy treści cyfrowych przygotowywanych, zatwierdzanych i publikowanych przez podmiot publiczny w kanałach zewnętrznych oraz, odpowiednio, w systemach wewnętrznych.
 
-### 2. Wykorzystanie list kontrolnych z zalecenia Standard dostępności multimediów
+Zakres stosowania obejmuje w szczególności:
 
-Kontrola wykorzystuje standardy i listy kontrolne określone w zaleceniu [Standard dostępności multimediów i komunikacji masowej](../komunikacja-masowa/komunikacja-masowa-zalecenie). Osoba wykonująca kontrolę dobiera listę kontrolną do rodzaju materiału, w szczególności do materiału wideo, audio, treści z obrazkiem albo posta w mediach społecznościowych.
+- strony informacyjne i aktualności publikowane w CMS,
+- dokumenty PDF, DOCX, XLSX i inne załączniki,
+- załączniki publikowane w Biuletynie Informacji Publicznej,
+- formularze i komunikaty transakcyjne,
+- newslettery i e-maile masowe,
+- grafiki, infografiki i plakaty cyfrowe,
+- materiały audio i wideo,
+- treści publikowane w mediach społecznościowych,
+- treści publikowane w systemach wewnętrznych, jeżeli służą realizacji zadań publicznych albo obsłudze użytkowników.
 
-Lista kontrolna wskazuje wymagania potwierdzane przed publikacją. Wypełnienie listy kontrolnej stanowi dowód wykonania kontroli i element dokumentacji decyzji publikacyjnej.
+Zakres kontroli powinien być dostosowany do rodzaju materiału, kanału publikacji i ryzyka związanego z publikacją.
 
-### 3. Odpowiedzialność za wykonanie kontroli
+## 4. Rekomendacje
 
-Podmiot określa właściciela treści albo osobę wyznaczoną w procesie publikacji, która odpowiada za uruchomienie kontroli i doprowadzenie jej do decyzji.
+### 4.1. Włączenie kontroli dostępności do procesu publikacji
 
-Właściciel treści albo osoba wyznaczona:
+Kontrola dostępności powinna być stałym i obowiązkowym punktem procesu publikacji. Powinna następować przed udostępnieniem treści użytkownikom.
 
-- wskazuje materiał objęty kontrolą,
-- zapewnia zastosowanie właściwej listy kontrolnej,
-- rozstrzyga wynik kontroli,
-- kieruje materiał do poprawy, gdy kontrola wykazuje niespełnienie wymagań,
-- przekazuje osobie publikującej potwierdzenie dopuszczenia materiału do publikacji.
+Kontrola może być prowadzona z użyciem list kontrolnych, standardów publikacji, szablonów, narzędzi automatycznych, oceny eksperckiej albo innych narzędzi przyjętych przez podmiot.
 
-### 4. Dokumentowanie kontroli
+Kontrola wykorzystuje listy kontrolne, standardy publikacji lub inne narzędzia przyjęte przez podmiot, odpowiednie do rodzaju materiału i kanału publikacji.
 
-Dokument określa minimalny zakres informacji pozwalających odtworzyć przebieg kontroli i decyzję publikacyjną. Dokumentacja obejmuje co najmniej:
+[Zalecenie 5 - Standard dostępności multimediów i komunikacji masowej](../komunikacja-masowa/komunikacja-masowa-zalecenie.md) może być przykładem źródła standardów i list kontrolnych dla materiałów audio, wideo, graficznych i społecznościowych. Nie jest warunkiem stosowania niniejszego zalecenia.
 
-- identyfikację materiału,
-- kanał publikacji,
-- datę kontroli,
-- osobę wykonującą kontrolę,
-- zastosowaną listę kontrolną albo zakres kontroli,
-- wynik kontroli,
-- wykryte błędy lub braki,
-- decyzję: publikacja, poprawa przed publikacją albo publikacja warunkowa,
-- datę i osobę zatwierdzającą decyzję, gdy decyzja wymaga zatwierdzenia.
+### 4.2. Określenie ról i odpowiedzialności
 
-Dokumentacja może być prowadzona w systemie obiegu treści, arkuszu kontrolnym, rejestrze publikacji, zgłoszeniu zadania albo innym narzędziu przyjętym przez podmiot.
+Podmiot powinien rozdzielić funkcje i odpowiedzialności w procesie publikacji treści cyfrowych. Należy opisać co najmniej:
 
-### 5. Charakter decyzyjny kontroli
+- osobę przygotowującą materiał,
+- osobę sprawdzającą dostępność,
+- osobę zatwierdzającą publikację,
+- osobę publikującą technicznie,
+- osobę odpowiedzialną za tryb publikacji warunkowej lub wyjątek.
 
-Wynik kontroli ma charakter decyzyjny. Pozytywny wynik oznacza dopuszczenie materiału do publikacji w zakresie objętym sprawdzeniem.
+W małych podmiotach jedna osoba może pełnić kilka ról. Role powinny być jednak opisane oddzielnie, ponieważ chodzi o rozdzielenie funkcji i odpowiedzialności, a niekoniecznie o tworzenie odrębnych stanowisk.
 
-Negatywny wynik oznacza skierowanie materiału do poprawy przed publikacją. Publikacja warunkowa wymaga wskazania przyczyny odstępstwa, osoby podejmującej decyzję, terminu uzupełnienia braków oraz sposobu zapewnienia odbiorcom dostępu do informacji do czasu usunięcia braku.
+### 4.3. Dobór zakresu kontroli do rodzaju materiału
 
-### 6. Reakcja na błędy wykryte przed publikacją
+Zakres kontroli powinien zależeć od typu treści, kanału publikacji, grupy odbiorców, znaczenia informacji dla realizacji spraw użytkownika, ryzyka wykluczenia użytkowników oraz możliwości poprawy materiału przed publikacją.
 
-Błędy wykryte przed publikacją są usuwane przed udostępnieniem materiału. Po poprawie materiał podlega ponownej kontroli w zakresie, którego dotyczyły błędy.
+Inny zakres kontroli będzie właściwy dla prostej aktualności, inny dla formularza, dokumentu urzędowego, materiału wideo, załącznika w BIP albo komunikatu transakcyjnego.
 
-Jeżeli poprawa wymaga udziału innej osoby lub komórki organizacyjnej, właściciel treści albo osoba wyznaczona przekazuje informację o błędzie, oczekiwanym sposobie poprawy i terminie wykonania. Błędy powtarzalne są wykorzystywane do aktualizacji standardów, wzorców, szkoleń i organizacji pracy.
+### 4.4. Dokumentowanie wyniku kontroli
 
-### 7. Powiązanie z zaleceniem Program przeglądu i naprawy załączników
+Wynik kontroli powinien być udokumentowany w sposób umożliwiający ustalenie:
 
-Błędy wykryte po publikacji nie są rozpatrywane jako element kontroli przed publikacją. Podmiot ujmuje je w procesie przeglądu i naprawy zasobów już opublikowanych, zgodnie z zaleceniem - Program przeglądu i naprawy załączników opublikowanych po 23 września 2018 r.
+- co sprawdzono,
+- kiedy sprawdzono,
+- kto sprawdził,
+- jaki był wynik,
+- jaka decyzja publikacyjna została podjęta,
+- jakie działania naprawcze wskazano, jeżeli były potrzebne.
 
-## Uzasadnienie
+Zakres dokumentowania kontroli powinien być dostosowany do skali działania podmiotu, rodzaju materiału i ryzyka związanego z publikacją.
 
-Kontrola dostępności przed publikacją ogranicza ryzyko udostępnienia treści, które nie spełniają wymagań dostępności albo wymagają kosztownych poprawek po publikacji.
+Dla prostych publikacji wystarczające mogą być uproszczone formy potwierdzenia. Zalecenie nie oznacza obowiązku prowadzenia rozbudowanego rejestru dla każdego drobnego materiału.
 
-Oddzielenie procedury kontroli od standardów tworzenia treści porządkuje odpowiedzialność. Zalecenie 4 określa moment kontroli, odpowiedzialność i decyzję publikacyjną, natomiast Zalecenie 5 pozostaje źródłem wymagań, standardów i list kontrolnych.
+### 4.5. Decyzje publikacyjne
 
-Udokumentowany wynik kontroli zapewnia ślad decyzyjny, ułatwia analizę błędów i wspiera doskonalenie procesu publikacji.
+Kontrola powinna prowadzić do jednej z decyzji:
 
-## Podstawy prawne
+- publikacja po potwierdzeniu dostępności,
+- skierowanie materiału do poprawy,
+- wstrzymanie publikacji,
+- publikacja warunkowa w uzasadnionych przypadkach.
+
+Decyzja publikacyjna powinna wynikać z wyniku kontroli, a nie z uznaniowego pominięcia wymagań dostępności.
+
+### 4.6. Tryb publikacji warunkowej
+
+Tryb publikacji warunkowej jest wyjątkiem od zasady publikowania treści dostępnych.
+
+Tryb ten powinien być uzasadniony i udokumentowany. Powinien wskazywać zakres znanych barier, działania naprawcze, termin poprawy, osobę lub komórkę odpowiedzialną oraz rozwiązanie alternatywne, jeżeli jest potrzebne dla użytkowników.
+
+Szczegółowy sposób stosowania wyjątku opisuje załącznik [Tryb publikacji warunkowej i rejestr wyjątków](./procedura-sytuacji-wyjatkowych.md).
+
+### 4.7. Wykorzystanie wyników kontroli do doskonalenia procesu
+
+Wyniki kontroli powinny być wykorzystywane do poprawy całego procesu publikacji.
+
+Mogą służyć w szczególności do aktualizacji szablonów, poprawy list kontrolnych, szkolenia osób przygotowujących treści, doprecyzowania standardów publikacji, identyfikowania powtarzalnych błędów, ograniczania liczby poprawek po publikacji oraz poprawy współpracy między autorami, redaktorami, koordynatorem dostępności i osobami publikującymi.
+
+### 4.8. Proporcjonalne wdrożenie w małych i średnich podmiotach
+
+Zalecenie może być wdrażane w różnej skali, zależnie od wielkości podmiotu, liczby kanałów publikacji, liczby osób zaangażowanych i ryzyka publikowanych treści.
+
+Małe podmioty mogą stosować uproszczony wariant procedury, a jedna osoba może pełnić kilka funkcji. Nie należy tworzyć nadmiernej biurokracji, ale nie można rezygnować z samego punktu kontroli i decyzji publikacyjnej.
+
+Minimalnym wymaganiem jest świadome sprawdzenie materiału przed publikacją i możliwość ustalenia wyniku tej kontroli.
+
+## 5. Uzasadnienie
+
+W wielu podmiotach publicznych dostępność jest nadal traktowana jako etap naprawy po publikacji, a nie jako element procesu przygotowania i zatwierdzania treści. Taki sposób działania powoduje, że bariery są ujawniane dopiero po udostępnieniu materiału użytkownikom.
+
+Publikowanie niedostępnych treści tworzy bariery dla użytkowników i zwiększa ryzyko naruszeń. Poprawki po publikacji są zwykle mniej skuteczne i bardziej kosztowne organizacyjnie niż kontrola wykonana przed udostępnieniem materiału.
+
+Punkt kontroli przed publikacją ogranicza ryzyko publikowania treści niedostępnych, wzmacnia odpowiedzialność organizacyjną i wspiera cykl życia treści cyfrowej: przygotowanie, kontrolę, publikację, utrzymanie i doskonalenie.
+
+Działania po publikacji, w tym przegląd i naprawa opublikowanych materiałów, są odrębnym etapem cyklu życia treści. Mogą być powiązane z kierunkiem opisanym dla [Zalecenia 7 - Program przeglądu i naprawy załączników opublikowanych po 23 września 2018 r.](../wymiar-komunikacja/uaktualniona-lista-tematow.md).
+
+## 6. Podstawy prawne
 
 Akty prawne:
 
@@ -100,7 +144,7 @@ Standardy:
 - Norma EN 301 549 Accessibility requirements for ICT products and services, w szczególności wymagania dotyczące treści internetowych i dokumentów elektronicznych.
 - Web Content Accessibility Guidelines (WCAG) 2.1, poziom AA.
 
-## Źródła i opracowania
+## 7. Źródła i opracowania
 
 1. W3C, Web Content Accessibility Guidelines (WCAG) 2.1, https://www.w3.org/TR/WCAG21/, dostęp: 30 kwietnia 2026 r.
 2. W3C WAI, Making Audio and Video Media Accessible, https://www.w3.org/WAI/media/av/, dostęp: 30 kwietnia 2026 r.
@@ -108,9 +152,14 @@ Standardy:
 4. Dziennik Ustaw, Ustawa o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych, https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000848, dostęp: 30 kwietnia 2026 r.
 5. EUR-Lex, Dyrektywa Parlamentu Europejskiego i Rady (UE) 2016/2102, https://eur-lex.europa.eu/eli/dir/2016/2102/oj, dostęp: 30 kwietnia 2026 r.
 
-## Historia wersji
+## 8. Załączniki wspierające
 
-| Wersja | Data | Etap | Opis zmian |
-|---|---|---|---|
-| 1.1 | 2026-04-30 | Projekt roboczy | Uzupełnienie celu zalecenia, skrócenie zalecenia, uporządkowanie rekomendacji, podstaw prawnych, źródeł i odniesień. |
-| 1.0 | 2026-04-30 | Projekt roboczy | Utworzenie zalecenia określającego procedurę kontroli dostępności przed publikacją treści. |
+Pakiet załączników wspierających ma charakter wdrożeniowy i pomocniczy. Załączniki opisują szczegóły wykonawcze, instrukcje, narzędzia, karty, rejestry i warianty procedur.
+
+1. [Procedura kontroli dostępności przed publikacją](./procedura-wdrozeniowa-kontroli-dostepnosci-przed-publikacja.md) - główny załącznik wdrożeniowy opisujący kroki: przygotowanie, kontrola, decyzja, poprawa, publikacja i dokumentowanie.
+2. [Tryb publikacji warunkowej i rejestr wyjątków](./procedura-sytuacji-wyjatkowych.md) - załącznik opisujący sposób stosowania wyjątku, uzasadnienie, zakres barier, termin poprawy i odpowiedzialność.
+3. [Mapa ról i odpowiedzialności w procesie publikacji](./mapa-odpowiedzialnosci.md) - załącznik pokazujący role i odpowiedzialności dla różnych typów treści cyfrowych, nie tylko dla multimediów.
+4. [Wariant uproszczony procedury dla małych podmiotów](./model-dla-malych-podmiotow.md) - praktyczny wariant dla podmiotów, w których jedna osoba może pełnić kilka ról.
+5. [Wariant rozszerzony procedury dla dużych podmiotów](./model-dla-duzych-podmiotow.md) - wariant dla organizacji z wieloma redakcjami, kanałami publikacji i komórkami organizacyjnymi.
+6. [Wzór karty kontroli dostępności przed publikacją](./wzor-karty-kontroli-dostepnosci.md) - załącznik umożliwiający udokumentowanie kontroli i decyzji publikacyjnej.
+7. [Zestaw list kontrolnych według typu materiału](./listy-kontrolne-index.md) - załącznik obejmujący lub wskazujący listy kontrolne dla różnych typów treści, w tym docelowo: dokumentów PDF/DOCX/XLSX, stron CMS, BIP, formularzy, komunikatów transakcyjnych, grafik, audio, wideo i social mediów.

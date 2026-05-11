@@ -31,4 +31,4 @@ Punkty obowiązkowe muszą być spełnione przed publikacją albo objęte proced
 ## Powiązane dokumenty
 
 - [Standard tworzenia dostępnych materiałów audio](../komunikacja-masowa/05-standard-tworzenia-dostepnych-materialow-audio.md)
-- [Procedura postępowania w sytuacjach wyjątkowych](./procedura-sytuacji-wyjatkowych.md)
+- [Tryb publikacji warunkowej i rejestr wyjątków](./procedura-sytuacji-wyjatkowych.md)

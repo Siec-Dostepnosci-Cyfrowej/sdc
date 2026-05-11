@@ -145,4 +145,4 @@ Podstawowy poziom dostępności zostaje utrzymany, a kolejne działania mają ch
 
 - [Minimalne wymagania dostępności](./minimalne-wymagania.md)
 - [Standardy tworzenia dostępnych materiałów](./standardy-tworzenia-index.md)
-- Listy kontrolne publikacji - dokument powiązany z Zaleceniem 4, utrzymywany w procedurze kontroli dostępności przed publikacją.
+- [Zestaw list kontrolnych według typu materiału](../kontrola-dostepnosci-przed-publikacja/listy-kontrolne-index.md) - przykładowe narzędzia kontroli wykorzystywane w zaleceniu [Kontrola dostępności treści cyfrowych przed publikacją](../kontrola-dostepnosci-przed-publikacja/procedura-kontroli-dostepnosci-przed-publikacja.md).
