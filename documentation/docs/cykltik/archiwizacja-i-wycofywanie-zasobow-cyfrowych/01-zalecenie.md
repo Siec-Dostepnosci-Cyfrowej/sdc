@@ -76,7 +76,8 @@ Podstawy prawne zalecenia wynikają z kilku porządków regulacyjnych.
 
 5. **Ochrona danych osobowych**  
    [Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (RODO)](https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:32016R0679) oraz [ustawa z dnia 10 maja 2018 r. o ochronie danych osobowych](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001000) (Dz.U. 2018 poz. 1000) wymagają powiązania retencji, publikacji, ograniczenia dostępu, minimalizacji danych i bezpieczeństwa przetwarzania.
-
+4. **Dostępność cyfrowa**  
+   [Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000848) (Dz.U. 2019 poz. 848) określa wymagania dla stron, aplikacji, deklaracji dostępności i postępowania w sprawie zapewnienia dostępności.
 6. **Przepisy branżowe** – mogą określać szczególne okresy przechowywania dokumentacji, których procedura archiwizacji nie może pomijać.
 
 ## Źródła i opracowania
