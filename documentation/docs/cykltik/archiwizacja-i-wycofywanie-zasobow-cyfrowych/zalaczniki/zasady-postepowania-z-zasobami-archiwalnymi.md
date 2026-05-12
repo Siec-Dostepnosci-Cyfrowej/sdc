@@ -1,0 +1,32 @@
+---
+id: zasady-postepowania-z-zasobami-archiwalnymi
+title: Zasady postępowania z zasobami archiwalnymi
+sidebar_label: Zasady postępowania z zasobami archiwalnymi
+sidebar_position: 16
+---
+
+# Zasady postępowania z zasobami archiwalnymi
+
+## Oznaczanie treści archiwalnych
+
+Użytkownik powinien wiedzieć, że treść jest archiwalna, nieaktualna lub zachowana ze względu na wartość dokumentacyjną. Oznaczenie powinno być zrozumiałe, widoczne w kontekście korzystania z zasobu i nie powinno sugerować, że treść jest nadal aktualnym komunikatem podmiotu.
+
+Oznaczenie może wskazywać datę publikacji, datę archiwizacji, zakres nieaktualności, miejsce nowszej wersji albo sposób uzyskania informacji aktualnej. Zakres informacji powinien być proporcjonalny do znaczenia zasobu i ryzyka wprowadzenia użytkownika w błąd.
+
+## Dostępność cyfrowa
+
+Zasoby archiwalne pozostające publicznie dostępne powinny być dostępne cyfrowo albo mieć określony sposób zapewnienia dostępności lub dostępu alternatywnego, zgodnie z przepisami. Ocena powinna uwzględniać charakter zasobu, jego aktualność, wartość historyczną, realne potrzeby użytkowników i możliwość zapewnienia alternatywy.
+
+Jeżeli pełne dostosowanie zasobu historycznego nie jest możliwe albo byłoby nieproporcjonalne, podmiot powinien zachować informację o sposobie uzyskania treści w formie dostępnej, o ile taki obowiązek lub potrzeba wynika z przepisów albo z charakteru zasobu.
+
+## Wycofanie z publikacji
+
+Wycofanie z publikacji nie powinno oznaczać utraty dokumentacji ani braku możliwości ustalenia, co i dlaczego zostało usunięte. Przed wycofaniem należy ocenić, czy zasób jest informacją publiczną, dokumentem sprawy, materiałem archiwalnym, treścią zawierającą dane osobowe albo elementem usługi cyfrowej.
+
+Decyzja o wycofaniu powinna wskazywać podstawę, zakres, datę, osobę odpowiedzialną i sposób dalszego przechowywania albo udostępniania, jeżeli jest ono wymagane.
+
+## Migracja i trwałość
+
+Migracja powinna zapewniać czytelność danych, zachowanie metadanych, kontekstu i relacji między zasobami. Dotyczy to w szczególności załączników, powiązań z dokumentami, historii zmian, podpisów, znaczników czasu, identyfikatorów spraw i informacji o publikacji.
+
+Przed zakończeniem migracji należy zweryfikować, czy zasób można odtworzyć i czy zachowano informacje potrzebne do jego interpretacji. Sam eksport plików bez metadanych i kontekstu może być niewystarczający.
