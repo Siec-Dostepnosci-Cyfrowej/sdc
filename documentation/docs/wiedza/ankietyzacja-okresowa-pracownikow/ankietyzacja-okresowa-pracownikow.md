@@ -13,11 +13,11 @@ wersja_robocza: true
 ---
 
 ## 1. Zalecenie
-Wprowadzenie regularnych corocznych badań ankietowych wśród pracowników i współpracowników dotyczących poziomu dostępności cyfrowej w organizacji. 
+Wprowadzenie regularnych corocznych badań ankietowych wśród pracowników i współpracowników dotyczących poziomu dostępności cyfrowej w organizacji.
 
 ## 2. Rekomendacje
 1. **Cykliczność i harmonogram**: Przeprowadzanie badań co najmniej raz w roku lub po każdej większej aktualizacji wewnętrznych systemów IT. Pozwala to na bieżąco monitorować bariery cyfrowe, z którymi mierzą się pracownicy.
-2. **Dostępna forma ankiety**: Narzędzie do ankietyzacji musi być w pełni zgodne ze standardem WCAG 2.1 (np. obsługa samą klawiaturą, czytelność dla czytników ekranu). Niezachowanie tych standardów wyklucza z badania osoby, których opinie są najcenniejsze. Stworzenie możliwości wypełnienia ankiety poprzez stronę internetową/ system zapewniający ułatwienia dostępowe;
+2. **Dostępna forma ankiety**: Narzędzie do ankietyzacji musi być w pełni zgodne ze standardem WCAG 2.1 (np. obsługa samą klawiaturą, czytelność dla czytników ekranu). Niezachowanie tych standardów wyklucza z badania osoby, których opinie są najcenniejsze. Stworzenie możliwości wypełnienia ankiety poprzez stronę internetową/ system zapewniający ułatwienia dostępowe; 
 3. **Zakres podmiotowy**: Badanie powinno obejmować zarówno pracowników etatowych, jak i zewnętrznych współpracowników (B2B, zleceniobiorcy). Współpracownicy często korzystają z innych zestawów narzędzi, co pozwala na szerszą diagnozę ekosystemu cyfrowego podmiotu.
 4. **Zapewnienie anonimowości i dobrowolności**: Ankieta powinna być w pełni anonimowa, a udział dobrowolny. Pracownicy chętniej zgłaszają problemy, jeśli mają pewność, że ich odpowiedzi nie wpłyną na ocenę pracy i nie zostaną powiązane z ich tożsamością.
 5. **Prosty i jasny język**: Stosowanie zrozumiałych sformułowań, unikając hermetycznego żargonu technicznego. Pozwala to uzyskać wysokiej jakości dane od osób niebędących specjalistami IT.
