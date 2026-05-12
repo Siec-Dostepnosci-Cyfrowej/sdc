@@ -33,21 +33,19 @@ Zalecenie nie zastępuje instrukcji kancelaryjnej, jednolitego rzeczowego wykazu
 
 ## Załączniki wdrożeniowe
 
-- [Załączniki wdrożeniowe](./zalaczniki/index.md)
-- [Model organizacji procesu](./zalaczniki/model-organizacji-procesu.md)
-- [Role i odpowiedzialności](./zalaczniki/role-i-odpowiedzialnosci.md)
-- [Procedura uproszczona](./zalaczniki/procedura-uproszczona.md)
-- [Procedura standardowa](./zalaczniki/procedura-standardowa.md)
-- [Zasady kwalifikacji zasobów](./zalaczniki/zasady-kwalifikacji-zasobow.md)
-- [Zasady postępowania z zasobami archiwalnymi](./zalaczniki/zasady-postepowania-z-zasobami-archiwalnymi.md)
+- [Model organizacji procesu](./zalacznik-01-model-organizacji-procesu.md)
+- [Role i odpowiedzialności](./zalacznik-02-role-i-odpowiedzialnosci.md)
+- [Procedura uproszczona](./zalacznik-03-procedura-uproszczona.md)
+- [Procedura standardowa](./zalacznik-04-procedura-standardowa.md)
+- [Zasady kwalifikacji zasobów](./zalacznik-05-zasady-kwalifikacji-zasobow.md)
+- [Zasady postępowania z zasobami archiwalnymi](./zalacznik-06-zasady-postepowania-z-zasobami-archiwalnymi.md)
 
 ## Materiały pomocnicze i operacyjne
 
-- [Materiały pomocnicze](./materialy-pomocnicze/index.md)
-- [Lista kontrolna archiwizacji](./materialy-pomocnicze/lista-kontrolna-archiwizacji.md)
-- [Lista kontrolna wycofania treści](./materialy-pomocnicze/lista-kontrolna-wycofania-tresci.md)
-- [Lista kontrolna wycofania systemu](./materialy-pomocnicze/lista-kontrolna-wycofania-systemu.md)
-- [Formularz decyzji](./materialy-pomocnicze/formularz-decyzji.md)
-- [Rejestr decyzji](./materialy-pomocnicze/rejestr-decyzji.md)
-- [Przykłady i scenariusze](./materialy-pomocnicze/przyklady-i-scenariusze.md)
-- [Słownik pojęć](./materialy-pomocnicze/slownik-pojec.md)
+- [Lista kontrolna archiwizacji](./material-01-lista-kontrolna-archiwizacji.md)
+- [Lista kontrolna wycofania treści](./material-02-lista-kontrolna-wycofania-tresci.md)
+- [Lista kontrolna wycofania systemu](./material-03-lista-kontrolna-wycofania-systemu.md)
+- [Formularz decyzji](./material-04-formularz-decyzji.md)
+- [Rejestr decyzji](./material-05-rejestr-decyzji.md)
+- [Przykłady i scenariusze](./material-06-przyklady-i-scenariusze.md)
+- [Słownik pojęć](./material-07-slownik-pojec.md)

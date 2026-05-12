@@ -1,8 +1,8 @@
 ---
-id: lista-kontrolna-archiwizacji
+id: material-01-lista-kontrolna-archiwizacji
 title: Lista kontrolna archiwizacji
 sidebar_label: Lista kontrolna archiwizacji
-sidebar_position: 21
+sidebar_position: 20
 ---
 
 # Lista kontrolna archiwizacji

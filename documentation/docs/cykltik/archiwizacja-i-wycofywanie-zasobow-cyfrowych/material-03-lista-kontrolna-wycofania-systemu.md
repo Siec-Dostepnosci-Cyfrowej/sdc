@@ -1,8 +1,8 @@
 ---
-id: lista-kontrolna-wycofania-systemu
+id: material-03-lista-kontrolna-wycofania-systemu
 title: Lista kontrolna wycofania systemu
 sidebar_label: Lista kontrolna wycofania systemu
-sidebar_position: 23
+sidebar_position: 22
 ---
 
 # Lista kontrolna wycofania systemu

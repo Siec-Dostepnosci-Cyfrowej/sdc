@@ -1,8 +1,8 @@
 ---
-id: zasady-postepowania-z-zasobami-archiwalnymi
+id: zalacznik-06-zasady-postepowania-z-zasobami-archiwalnymi
 title: Zasady postępowania z zasobami archiwalnymi
 sidebar_label: Zasady postępowania z zasobami archiwalnymi
-sidebar_position: 16
+sidebar_position: 15
 ---
 
 # Zasady postępowania z zasobami archiwalnymi

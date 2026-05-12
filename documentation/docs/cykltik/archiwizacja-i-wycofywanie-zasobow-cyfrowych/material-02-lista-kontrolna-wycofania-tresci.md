@@ -1,8 +1,8 @@
 ---
-id: lista-kontrolna-wycofania-tresci
+id: material-02-lista-kontrolna-wycofania-tresci
 title: Lista kontrolna wycofania treści
 sidebar_label: Lista kontrolna wycofania treści
-sidebar_position: 22
+sidebar_position: 21
 ---
 
 # Lista kontrolna wycofania treści

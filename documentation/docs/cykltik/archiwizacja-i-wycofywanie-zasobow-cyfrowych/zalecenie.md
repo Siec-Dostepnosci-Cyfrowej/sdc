@@ -17,7 +17,7 @@ Dokument porządkuje poziom normatywny i strategiczno-organizacyjny. Szczegóło
 
 ## Zalecenie
 
-Podmiot publiczny powinien zarządzać archiwizacją, migracją i wycofywaniem zasobów cyfrowych jako elementem cyklu życia technologii informacyjno-komunikacyjnych. Decyzje dotyczące zasobów cyfrowych powinny być poprzedzone oceną ich statusu, funkcji, podstawy prawnej, wartości informacyjnej, wymagań dostępności cyfrowej, obowiązków archiwalnych, retencji danych oraz możliwości dalszego udostępniania.
+Podmioty publiczne zarządzają archiwizacją, migracją i wycofywaniem zasobów cyfrowych jako elementem cyklu życia technologii informacyjno-komunikacyjnych. Decyzje dotyczące zasobów cyfrowych poprzedza się oceną ich statusu, funkcji, podstawy prawnej, wartości informacyjnej, wymagań dostępności cyfrowej, obowiązków archiwalnych, retencji danych oraz możliwości dalszego udostępniania.
 
 ## Rekomendacje
 

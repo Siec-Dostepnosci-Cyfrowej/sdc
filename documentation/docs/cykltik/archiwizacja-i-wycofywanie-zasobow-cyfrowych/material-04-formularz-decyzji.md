@@ -1,8 +1,8 @@
 ---
-id: formularz-decyzji
+id: material-04-formularz-decyzji
 title: Formularz decyzji
 sidebar_label: Formularz decyzji
-sidebar_position: 24
+sidebar_position: 23
 ---
 
 # Formularz decyzji

@@ -1,8 +1,8 @@
 ---
-id: procedura-uproszczona
+id: zalacznik-03-procedura-uproszczona
 title: Procedura uproszczona
 sidebar_label: Procedura uproszczona
-sidebar_position: 13
+sidebar_position: 12
 ---
 
 # Procedura uproszczona

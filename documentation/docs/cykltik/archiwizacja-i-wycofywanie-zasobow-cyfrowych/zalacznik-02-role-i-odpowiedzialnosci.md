@@ -1,8 +1,8 @@
 ---
-id: role-i-odpowiedzialnosci
+id: zalacznik-02-role-i-odpowiedzialnosci
 title: Role i odpowiedzialności
 sidebar_label: Role i odpowiedzialności
-sidebar_position: 12
+sidebar_position: 11
 ---
 
 # Role i odpowiedzialności

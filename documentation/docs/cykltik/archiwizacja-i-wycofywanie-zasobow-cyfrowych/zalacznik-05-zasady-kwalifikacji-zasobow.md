@@ -1,8 +1,8 @@
 ---
-id: zasady-kwalifikacji-zasobow
+id: zalacznik-05-zasady-kwalifikacji-zasobow
 title: Zasady kwalifikacji zasobów
 sidebar_label: Zasady kwalifikacji zasobów
-sidebar_position: 15
+sidebar_position: 14
 ---
 
 # Zasady kwalifikacji zasobów

@@ -1,8 +1,8 @@
 ---
-id: rejestr-decyzji
+id: material-05-rejestr-decyzji
 title: Rejestr decyzji
 sidebar_label: Rejestr decyzji
-sidebar_position: 25
+sidebar_position: 24
 ---
 
 # Rejestr decyzji

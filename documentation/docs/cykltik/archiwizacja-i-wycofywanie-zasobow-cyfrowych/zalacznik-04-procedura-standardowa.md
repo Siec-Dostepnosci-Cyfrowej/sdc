@@ -1,8 +1,8 @@
 ---
-id: procedura-standardowa
+id: zalacznik-04-procedura-standardowa
 title: Procedura standardowa
 sidebar_label: Procedura standardowa
-sidebar_position: 14
+sidebar_position: 13
 ---
 
 # Procedura standardowa

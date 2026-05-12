@@ -1,8 +1,8 @@
 ---
-id: przyklady-i-scenariusze
+id: material-06-przyklady-i-scenariusze
 title: Przykłady i scenariusze
 sidebar_label: Przykłady i scenariusze
-sidebar_position: 26
+sidebar_position: 25
 ---
 
 # Przykłady i scenariusze

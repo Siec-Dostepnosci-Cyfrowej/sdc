@@ -1,8 +1,8 @@
 ---
-id: model-organizacji-procesu
+id: zalacznik-01-model-organizacji-procesu
 title: Model organizacji procesu
 sidebar_label: Model organizacji procesu
-sidebar_position: 11
+sidebar_position: 10
 ---
 
 # Model organizacji procesu
