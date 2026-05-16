@@ -1,171 +1,207 @@
 ---
 id: wykorzystanie-mikroposwiadczen
-title: Wykorzystanie mikropoświadczeń w rozwoju kompetencji w zakresie dostępności cyfrowej
-description: Zalecenie określające sposób wykorzystania mikropoświadczeń jako narzędzia wspierającego rozwój, potwierdzanie i praktyczne wykorzystanie kompetencji pracowników w zakresie dostępności cyfrowej.
-sidebar_position: 2
+title: Wykorzystanie mikropoświadczeń w systemie wsparcia kompetencyjnego
+description: Przedstawia, jak wykorzystać mikropoświadczenia jako element wspierający rozwijanie kwalifikacji pracowników oraz budowanie zdolności organizacji do działania w zakresie dostępności cyfrowej.
+sidebar_position: 6
 sidebar_label: Wykorzystanie mikropoświadczeń
 keywords: [wiedza, umiejętności, kompetencje, pracownicy]
 tags: [wiedza, umiejętności, kompetencje, pracownicy]
 opracowanie: Stefan Wajda 
 data_zgloszenia: 18 kwietnia 2026 r.
-data_aktualizacji:  18 kwietnia 2026 r.
+data_aktualizacji:  16 maja 2026 r.
 wersja_robocza: true
 ---
 
+## 1. Cel załącznika
 
-# Wykorzystanie mikropoświadczeń w rozwoju kompetencji w zakresie dostępności cyfrowej
+Celem załącznika jest przedstawienie sposobu wykorzystania mikropoświadczeń jako elementu wspierającego rozwijanie kwalifikacji pracowników oraz budowanie zdolności organizacji do działania w zakresie dostępności cyfrowej.
 
-## 1. Cel zalecenia
+Mikropoświadczenia:
+- wspierają rozwijanie kwalifikacji związanych z realizacją konkretnych zadań,
+- umożliwiają potwierdzanie przygotowania do wykonywania określonych ról,
+- pomagają organizacji identyfikować dostępne kwalifikacje i potrzeby rozwojowe,
+- mogą być wykorzystywane jako element systemu wsparcia kompetencyjnego.
 
-Celem zalecenia jest wspieranie pracowników w rozwijaniu kompetencji niezbędnych do realizacji zadań związanych z dostępnością cyfrową poprzez zapewnienie warunków do uczenia się w działaniu oraz wykorzystanie mikropoświadczeń jako narzędzia potwierdzania i wzmacniania tych kompetencji.
-
----
-
-## 2. Zalecenie
-
-Organizacja zapewnia warunki umożliwiające pracownikom rozwój kompetencji wynikających z pełnionych ról i realizowanych zadań oraz wspiera uzyskiwanie mikropoświadczeń jako formy potwierdzania tych kompetencji.
-
----
-
-## 3. Rekomendacje
-
-### 3.1. Organizacja procesu weryfikacji kompetencji
-
-Organizacja:
-- powołuje zespół lub zespoły weryfikujące,
-- określa zasady i kryteria oceny kompetencji,
-- umożliwia pracownikom przystąpienie do procesu weryfikacji.
-
-
-Koordynator ds. dostępności cyfrowej:
-- pełni rolę przewodniczącego zespołu weryfikującego lub nadzoruje jego pracę,
-- zapewnia spójność kryteriów oceny kompetencji,
-- uczestniczy w zatwierdzaniu wyników weryfikacji lub odpowiada za ich zatwierdzenie.
-
-Weryfikacja może być realizowana:
-- wewnętrznie,
-- we współpracy z podmiotami zewnętrznymi,
-- z wykorzystaniem dostępnych platform wydawania mikropoświadczeń.
+Mikropoświadczenia nie zastępują:
+- organizacji odpowiedzialności,
+- systemu wsparcia kompetencyjnego,
+- organizacyjnego uczenia się,
+- rozwijania kompetencji organizacji rozumianych jako zdolność do skutecznego działania.
 
 ---
 
-### 3.2. Informowanie o możliwości uzyskania mikropoświadczeń
+## 2. Rola mikropoświadczeń w organizacji
 
-Organizacja:
-- informuje pracowników o możliwości uzyskiwania mikropoświadczeń,
-- udostępnia informacje o ich zakresie i sposobach uzyskania,
-- wskazuje mikropoświadczenia jako jedną z form potwierdzania kompetencji.
+Mikropoświadczenia wspierają organizację w:
+- rozwijaniu kwalifikacji pracowników,
+- powierzaniu ról i zadań,
+- organizowaniu działań onboardingowych,
+- planowaniu działań edukacyjnych,
+- organizowaniu wsparcia kompetencyjnego,
+- identyfikowaniu potrzeb rozwojowych,
+- budowaniu wewnętrznych zdolności organizacji.
 
----
-
-### 3.3. Umożliwienie uzyskiwania mikropoświadczeń
-
-Organizacja:
-- umożliwia pracownikom przystąpienie do procesu weryfikacji,
-- zapewnia dostęp do usług edukacyjnych (wewnętrznych lub zewnętrznych),
-- stwarza warunki do przygotowania się do weryfikacji kompetencji.
-
----
-
-### 3.4. Uznawanie mikropoświadczeń jako dowodu kompetencji
-
-Organizacja:
-- uznaje mikropoświadczenia jako dowód posiadanych kompetencji,
-- uwzględnia je w procesach rozwoju i oceny pracowników,
-- traktuje je jako równoważne lub uzupełniające wobec innych form potwierdzania kwalifikacji.
+Mikropoświadczenia są najbardziej użyteczne wtedy, gdy:
+- odnoszą się do rzeczywistych zadań wykonywanych w organizacji,
+- są powiązane z rolami i odpowiedzialnością,
+- wspierają rozwijanie kwalifikacji w działaniu,
+- stanowią element systemu wsparcia kompetencyjnego.
 
 ---
 
-### 3.5. Uwzględnianie mikropoświadczeń przy powierzaniu ról i zadań
+## 3. Zasady wykorzystania mikropoświadczeń
 
-Organizacja:
-- uwzględnia mikropoświadczenia przy powierzaniu ról i zadań,
-- wykorzystuje je przy doborze osób do realizacji działań,
-- traktuje je jako potwierdzenie zdolności do wykonywania określonych zadań.
+### 3.1. Powiązanie z rolami i zadaniami
 
----
+Organizacja wykorzystuje mikropoświadczenia przede wszystkim w odniesieniu do:
+- rzeczywistych ról organizacyjnych,
+- konkretnych zadań,
+- działań wykonywanych w procesach organizacyjnych.
 
-### 3.6. Wykorzystanie mikropoświadczeń w zarządzaniu kompetencjami
-
-Organizacja może wykorzystywać informacje o mikropoświadczeniach do:
-- identyfikacji dostępnych kompetencji,
-- rozpoznawania braków kompetencyjnych,
-- planowania działań rozwojowych.
-
-Wykorzystanie mikropoświadczeń wspiera zdolność organizacji do realizacji zadań i nie powinno prowadzić do nadmiernej formalizacji.
+Mikropoświadczenia powinny odnosić się do praktycznych zdolności wykonywania zadań, a nie wyłącznie do wiedzy teoretycznej.
 
 ---
 
-### 3.7. Wykorzystanie Publicznego Katalogu Mikropoświadczeń Kompetencji
+### 3.2. Powiązanie z systemem wsparcia kompetencyjnego
 
-Organizacja:
-- korzysta z Publicznego Katalogu Mikropoświadczeń Kompetencji jako podstawowego źródła informacji o dostępnych mikropoświadczeniach,
-- stosuje zasady określone dla katalogu, w szczególności dotyczące opisu, weryfikacji i potwierdzania kompetencji,
-- uwzględnia mikropoświadczenia z katalogu przy planowaniu rozwoju pracowników oraz powierzaniu ról i zadań.
+Mikropoświadczenia są wykorzystywane jako element systemu wsparcia kompetencyjnego i mogą być powiązane w szczególności z:
+- onboardingiem pracowników,
+- materiałami operacyjnymi,
+- mikro-szkoleniami,
+- działaniami edukacyjnymi,
+- analizą luk kwalifikacyjnych i organizacyjnych,
+- planowaniem działań rozwojowych.
+
+---
+
+### 3.3. Dobrowolność i proporcjonalność
+
+Organizacja stosuje mikropoświadczenia w sposób proporcjonalny do:
+- swoich potrzeb,
+- poziomu dojrzałości organizacyjnej,
+- rodzaju realizowanych zadań,
+- dostępnych zasobów.
+
+Mikropoświadczenia:
+- nie powinny prowadzić do nadmiernej formalizacji,
+- nie zastępują praktycznej oceny sposobu wykonywania zadań,
+- mogą być wdrażane stopniowo.
+
+---
+
+## 4. Organizowanie potwierdzania kwalifikacji
+
+Organizacja może:
+- umożliwiać pracownikom uzyskiwanie mikropoświadczeń,
+- wykorzystywać rozwiązania zewnętrzne,
+- współpracować z podmiotami prowadzącymi weryfikację kwalifikacji,
+- rozwijać własne sposoby potwierdzania przygotowania do realizacji zadań.
+
+Potwierdzanie kwalifikacji może obejmować w szczególności:
+- wykonanie zadania praktycznego,
+- analizę przykładowych realizacji,
+- udział w działaniach projektowych,
+- ocenę jakości wykonywanej pracy,
+- weryfikację umiejętności w działaniu.
+
+Organizacja może rozwijać własne mikropoświadczenia stopniowo, w zakresie odpowiadającym rzeczywistym potrzebom organizacyjnym i realizowanym zadaniom.
+
+---
+
+## 5. Wykorzystanie mikropoświadczeń w organizacji
+
+### 5.1. Powierzanie ról i zadań
+
+Organizacja może wykorzystywać mikropoświadczenia:
+- przy powierzaniu ról i zadań,
+- przy organizowaniu zespołów,
+- przy planowaniu działań projektowych,
+- przy organizowaniu działań doskonalących.
+
+Mikropoświadczenia mogą stanowić jeden z dowodów przygotowania do wykonywania określonych zadań.
+
+---
+
+### 5.2. Organizowanie działań edukacyjnych
+
+Organizacja może wykorzystywać mikropoświadczenia do:
+- planowania onboardingu,
+- organizowania mikro-szkoleń,
+- określania ścieżek rozwojowych,
+- identyfikowania potrzeb edukacyjnych,
+- rozwijania działań samokształceniowych.
+
+---
+
+### 5.3. Analiza kwalifikacji i potrzeb rozwojowych
+
+Informacje o mikropoświadczeniach mogą wspierać:
+- identyfikowanie dostępnych kwalifikacji,
+- analizę luk kwalifikacyjnych i organizacyjnych,
+- organizowanie wsparcia kompetencyjnego,
+- planowanie działań rozwojowych.
+
+---
+
+### 5.4. Budowanie zdolności organizacji do działania
+
+Mikropoświadczenia wspierają organizację w:
+- rozwijaniu wewnętrznych zdolności realizacji zadań,
+- ograniczaniu zależności od pojedynczych osób,
+- rozwijaniu organizacyjnego uczenia się,
+- utrwalaniu skutecznych sposobów działania.
+
+Ich rola polega na wspieraniu organizacji działania, a nie na tworzeniu rozbudowanego systemu formalnej certyfikacji.
+
+---
+
+## 6. Publiczny Katalog Mikropoświadczeń Kompetencji
+
+Organizacja może wykorzystywać Publiczny Katalog Mikropoświadczeń Kompetencji jako:
+- źródło gotowych mikropoświadczeń,
+- podstawę organizowania działań rozwojowych,
+- punkt odniesienia przy powierzaniu ról i zadań,
+- wsparcie przy organizowaniu systemu wsparcia kompetencyjnego.
 
 Organizacja może również:
-- opracowywać własne mikropoświadczenia odpowiadające jej potrzebom,
-- stosować dla nich strukturę i zasady zgodne z katalogiem,
-- zgłaszać opracowane mikropoświadczenia do Publicznego Katalogu Mikropoświadczeń Kompetencji w celu ich upowszechnienia i wykorzystania przez inne podmioty.
+- rozwijać własne mikropoświadczenia odpowiadające jej potrzebom,
+- wykorzystywać strukturę i zasady zgodne z katalogiem,
+- zgłaszać opracowane rozwiązania do upowszechnienia.
 
 ---
 
-## 4. Uzasadnienie
+## 7. Wskazówki wdrożeniowe
 
-Zapewnienie dostępności cyfrowej wymaga nie tylko wiedzy pracowników, lecz przede wszystkim zdolności organizacji do realizacji zadań w praktyce.
-
-Kompetencje powstają i rozwijają się w trakcie wykonywania zadań. Ich źródłem nie są wyłącznie szkolenia, lecz przede wszystkim doświadczenie, jasno określone wymagania oraz możliwość sprawdzenia i potwierdzenia własnych umiejętności.
-
-W praktyce organizacje często nie wykorzystują dostępnych narzędzi potwierdzania kompetencji, w tym mikropoświadczeń:
-- kompetencje pracowników nie są w sposób czytelny identyfikowane,
-- trudniejsze jest powierzanie zadań adekwatnie do umiejętności,
-- działania rozwojowe nie przekładają się bezpośrednio na zdolność organizacji do działania.
-
-Mikropoświadczenia mogą wspierać rozwiązanie tego problemu, pod warunkiem że są:
-- powiązane z rzeczywistymi zadaniami,
-- uznawane przez organizację jako dowód kompetencji,
-- wykorzystywane przy powierzaniu ról i zadań,
-- dostępne dla pracowników jako dobrowolna forma weryfikacji umiejętności.
-
-Ich znaczenie nie polega na zastępowaniu systemu zarządzania kompetencjami, lecz na wspieraniu jego praktycznego funkcjonowania poprzez:
-- umożliwienie pracownikom potwierdzenia kompetencji,
-- dostarczenie organizacji informacji o rzeczywistych umiejętnościach,
-- wzmocnienie motywacji do rozwoju poprzez uznanie osiągnięć.
-
-Organizacja, która:
-- uznaje mikropoświadczenia jako dowód kompetencji,
-- wykorzystuje je przy powierzaniu zadań,
-- umożliwia ich uzyskiwanie,
-- oraz zapewnia mechanizm weryfikacji,
-
-W efekcie mikropoświadczenia stają się elementem wspierającym zdolność organizacji do systemowego zapewniania dostępności cyfrowej, bez konieczności budowania rozbudowanych, sformalizowanych systemów edukacyjnych.
+Organizacja:
+1. rozpoczyna od powiązania mikropoświadczeń z rzeczywistymi zadaniami,
+2. wykorzystuje je jako wsparcie organizacji działania,
+3. wdraża je stopniowo,
+4. unika nadmiernej formalizacji,
+5. rozwija wykorzystanie mikropoświadczeń wraz z rozwojem systemu wsparcia kompetencyjnego,
+6. wykorzystuje doświadczenia do doskonalenia sposobu działania organizacji.
 
 ---
 
-## 5. Podstawy prawne
+## 8. Najczęstsze błędy
 
-- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz.U. 2019 poz. 848 z późn. zm.).  
-- Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz.U. 2019 poz. 1696 z późn. zm.).  
-- Dyrektywa (UE) 2016/2102 Parlamentu Europejskiego i Rady z dnia 26 października 2016 r.  
-- Dyrektywa (UE) 2019/882 – Europejski Akt o Dostępności (EAA).  
-- Wytyczne WCAG 2.2.
-
----
-
-## 6. Źródła opracowania
-
-- Materiały metodyczne Ministerstwa Cyfryzacji (2020–2025).  
-- W3C Web Accessibility Initiative (WAI): Planning and Managing Web Accessibility.  
-- [W3C WAI: Accessibility Roles and Responsibilities Mapping (ARRM)](https://www.w3.org/WAI/planning/arrm/).  
-- [Europejskie Ramy Kwalifikacji (EQF)](https://europass.europa.eu/pl/description-eight-eqf-levels).  
+Najczęstsze błędy obejmują:
+- traktowanie mikropoświadczeń wyłącznie jako formy szkoleniowej,
+- brak powiązania z rzeczywistymi zadaniami,
+- nadmierną formalizację procesu,
+- utożsamianie mikropoświadczeń z systemem ocen pracowników,
+- wykorzystywanie mikropoświadczeń bez organizacji wsparcia kompetencyjnego,
+- skupienie się wyłącznie na potwierdzaniu wiedzy teoretycznej.
 
 ---
 
-## 7. Załączniki (materiały wspierające)
+## 9. Uwagi końcowe
 
-1. Struktura pojedynczego mikropoświadczenia (wzór)  
-2. Zasady przyznawania mikropoświadczeń  
-3. Pakiet startowy dla wydawcy mikropoświadczeń w zakresie dostępności cyfrowej  
-4. Przykładowe zestawy mikropoświadczeń powiązanych z rolami i zadaniami  
+Mikropoświadczenia wspierają rozwijanie kwalifikacji pracowników oraz organizowanie zdolności organizacji do działania.
 
----
+Ich skuteczność zależy od:
+- powiązania z rzeczywistymi zadaniami,
+- wykorzystania w organizacji pracy,
+- powiązania z systemem wsparcia kompetencyjnego,
+- wykorzystania doświadczeń organizacji.
+
+Mikropoświadczenia są najbardziej wartościowe wtedy, gdy wspierają praktyczne działanie organizacji oraz rozwijanie jej zdolności do skutecznego zapewniania dostępności cyfrowej.
