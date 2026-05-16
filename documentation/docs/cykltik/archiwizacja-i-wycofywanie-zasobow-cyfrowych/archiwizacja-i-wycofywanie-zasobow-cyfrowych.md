@@ -1,11 +1,17 @@
 ---
-id: zalecenie
-title: Zalecenie
+id: archiwizacja-i-wycofywanie-zasobow-cyfrowych
+title: Zarządzanie archiwizacją i wycofywaniem zasobów cyfrowych
+description: Zalecenie dotyczące organizacji procesu archiwizacji, migracji i wycofywania zasobów cyfrowych oraz systemów teleinformatycznych z uwzględnieniem dostępności cyfrowej i trwałości informacji publicznej.
 sidebar_label: Zalecenie
-sidebar_position: 1
+sidebar_position: 0
+keywords: [cykl życia TIK,archiwizacja,zasoby cyfrowe,wycofywanie treści,migracja danych,informacja publiczna,dostępność cyfrowa]
+tags: [cykl życia TIK,archiwizacja,zasoby cyfrowe,wycofywanie treści,migracja danych,informacja publiczna,dostępność cyfrowa]
+opracowanie: Bartłomiej Wilk
+data_zgloszenia: 29 kwietnia 2026 r.
+data_aktualizacji: 16 maja 2026 r.
+wersja_robocza: true
 ---
 
-# Zalecenie
 
 ## Cel
 
@@ -31,6 +37,54 @@ Podmioty publiczne zarządzają archiwizacją, migracją i wycofywaniem zasobów
 8. Planować migrację danych przed modernizacją lub wyłączeniem systemu, z uwzględnieniem czytelności danych, zachowania kontekstu i możliwości ich dalszego wykorzystania.
 9. Nie utożsamiać ukrycia, usunięcia albo technicznego przeniesienia treści z prawidłową archiwizacją zasobu.
 10. Powiązać zasady archiwizacji i wycofywania zasobów z innymi zaleceniami SDC dotyczącymi załączników, treści od innych podmiotów, multimediów, deklaracji dostępności i cyklu życia TIK.
+
+
+## Podstawy prawne
+
+### Archiwa i dokumentacja
+
+- [Ustawa z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19830380173)
+- [Rozporządzenie Prezesa Rady Ministrów z dnia 18 stycznia 2011 r. w sprawie instrukcji kancelaryjnej, jednolitych rzeczowych wykazów akt oraz instrukcji w sprawie organizacji i zakresu działania archiwów zakładowych](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110890505)
+
+Regulacje te określają ramy klasyfikowania, kwalifikowania, przechowywania, przekazywania i brakowania dokumentacji. Zalecenie nie zastępuje tych regulacji, lecz wskazuje potrzebę powiązania ich z zarządzaniem zasobami cyfrowymi.
+
+### Informatyzacja i interoperacyjność
+
+- Ustawa z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne
+- Rozporządzenie Rady Ministrów z dnia 12 kwietnia 2012 r. w sprawie Krajowych Ram Interoperacyjności
+
+Regulacje te mają znaczenie dla systemów teleinformatycznych, formatów danych, interoperacyjności, bezpieczeństwa i możliwości wymiany informacji w postaci elektronicznej.
+
+### Informacja publiczna i BIP
+
+- Ustawa z dnia 6 września 2001 r. o dostępie do informacji publicznej
+- Przepisy dotyczące Biuletynu Informacji Publicznej
+
+Przepisy te wpływają na decyzje o publikacji, utrzymaniu, oznaczaniu, wycofaniu oraz dalszym udostępnianiu informacji publicznej.
+
+### Dostępność cyfrowa
+
+- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych
+
+Regulacja ta ma znaczenie dla treści archiwalnych i historycznych, które pozostają publicznie dostępne, a także dla postępowań w sprawie zapewnienia dostępności cyfrowej i dostępu alternatywnego.
+
+### Ochrona danych osobowych
+
+- RODO
+- Ustawa z dnia 10 maja 2018 r. o ochronie danych osobowych
+
+Regulacje te mają znaczenie dla retencji danych, ograniczenia dostępu, minimalizacji danych, bezpieczeństwa przetwarzania i rozliczalności.
+
+### Usługi zaufania
+
+- Rozporządzenie eIDAS
+
+Regulacja ta powinna być uwzględniana, gdy zasób zawiera podpis elektroniczny, pieczęć elektroniczną, znacznik czasu albo inny mechanizm potwierdzający autentyczność lub integralność.
+
+
+
+
+
 
 ## Uzasadnienie
 
@@ -59,3 +113,22 @@ Zalecenie ma znaczenie dla dostępności multimediów i komunikacji masowej, w s
 Zalecenie dostarcza informacji potrzebnych do deklaracji dostępności, zwłaszcza gdy zasoby archiwalne pozostają publicznie dostępne albo wymagają wskazania dostępu alternatywnego.
 
 Zalecenie rozwija perspektywę cyklu życia TIK, ponieważ archiwizacja, migracja i wycofywanie powinny być planowane od etapu projektowania, utrzymania i modernizacji systemu.
+
+## Źródła i opracowania
+
+- Materiały Naczelnej Dyrekcji Archiwów Państwowych
+- Materiały właściwych archiwów państwowych
+- Dokumentacja systemów EZD
+- EN 301 549
+- Web Content Accessibility Guidelines (WCAG)
+- Materiały i zalecenia SDC dotyczące dostępności cyfrowej, zarządzania treścią, załączników, multimediów, deklaracji dostępności, interoperacyjności i cyklu życia TIK
+- Dokumentacja wewnętrzna podmiotu, w szczególności instrukcja kancelaryjna, JRWA, instrukcja archiwalna, polityki bezpieczeństwa informacji, procedury ochrony danych osobowych, dokumentacja systemów oraz umowy z wykonawcami
+
+
+## Historia wersji
+
+| Wersja | Data | Opis zmian |
+| --- | --- | --- |
+| 0.1 | 29 kwietnia 2026 r. | Wersja robocza zalecenia dotyczącego archiwizacji i wycofywania zasobów cyfrowych. |
+| 0.2 | 12 maja 2026 r. | Skrócenie materiału, oddzielenie zalecenia od załączników wdrożeniowych oraz materiałów pomocniczych i operacyjnych. |
+| 0.3 | 12 maja 2026 r. | Przeniesienie załączników i materiałów pomocniczych do jednego katalogu pakietu oraz aktualizacja linków i front matter dla automatycznego sidebaru. |

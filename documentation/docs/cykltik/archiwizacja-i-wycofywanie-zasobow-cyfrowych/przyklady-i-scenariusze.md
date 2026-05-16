@@ -1,11 +1,17 @@
 ---
-id: material-06-przyklady-i-scenariusze
+id: przyklady-i-scenariusze
 title: Przykłady i scenariusze
+description: Przykładowe scenariusze stosowania procedury archiwizacji i wycofywania zasobów cyfrowych.
 sidebar_label: Przykłady i scenariusze
-sidebar_position: 25
+sidebar_position: 12
+keywords: [cykl życia TIK,archiwizacja,zasoby cyfrowe,wycofywanie treści,migracja danych,informacja publiczna,dostępność cyfrowa]
+tags: [cykl życia TIK,archiwizacja,zasoby cyfrowe,wycofywanie treści,migracja danych,informacja publiczna,dostępność cyfrowa]
+opracowanie: Bartłomiej Wilk
+wspolpraca: Stefan Wajda
+data_zgloszenia: 29 kwietnia 2026 r.
+data_aktualizacji: 9 maja 2026 r.
+wersja_robocza: true
 ---
-
-# Przykłady i scenariusze
 
 Materiały mają charakter przykładowy. Nie tworzą zamkniętego katalogu decyzji i powinny być stosowane z uwzględnieniem przepisów oraz procedur podmiotu.
 

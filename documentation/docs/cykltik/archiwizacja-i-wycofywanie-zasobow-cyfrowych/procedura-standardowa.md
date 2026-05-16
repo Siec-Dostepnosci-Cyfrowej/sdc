@@ -1,11 +1,17 @@
 ---
-id: zalacznik-04-procedura-standardowa
+id: procedura-standardowa
 title: Procedura standardowa
-sidebar_label: Procedura standardowa
-sidebar_position: 13
+description: Standardowa procedura archiwizacji zasobów, wycofywania treści, wycofywania systemów, migracji danych, kwalifikacji zasobów, przekazania do właściwego trybu archiwalnego oraz dokumentowania procesu
+sidebar_label:  Procedura standardowa
+sidebar_position: 3
+keywords: [cykl życia TIK,archiwizacja,zasoby cyfrowe,wycofywanie treści,migracja danych,informacja publiczna,dostępność cyfrowa, procedura standardowa]
+tags: [cykl życia TIK,archiwizacja,zasoby cyfrowe,wycofywanie treści,migracja danych,informacja publiczna,dostępność cyfrowa]
+opracowanie: Bartłomiej Wilk
+data_zgloszenia: 29 kwietnia 2026 r.
+data_aktualizacji: 16 maja 2026 r.
+wersja_robocza: true
 ---
 
-# Procedura standardowa
 
 ## Zakres
 

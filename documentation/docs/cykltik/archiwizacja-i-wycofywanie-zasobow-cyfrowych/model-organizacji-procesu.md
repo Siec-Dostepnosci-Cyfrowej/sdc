@@ -1,11 +1,17 @@
 ---
-id: zalacznik-01-model-organizacji-procesu
+id: model-organizacji-procesu
 title: Model organizacji procesu
-sidebar_label: Model organizacji procesu
-sidebar_position: 10
+description: Załącznik określający minimalny model organizacji procesu archiwizacji, migracji i wycofywania zasobów cyfrowych oraz systemów teleinformatycznych.
+sidebar_label: Organizacja procesu
+sidebar_position: 1
+keywords: [cykl życia TIK,archiwizacja,zasoby cyfrowe,wycofywanie treści,migracja danych,informacja publiczna,dostępność cyfrowa]
+tags: [cykl życia TIK,archiwizacja,zasoby cyfrowe,wycofywanie treści,migracja danych,informacja publiczna,dostępność cyfrowa]
+opracowanie: Bartłomiej Wilk
+data_zgloszenia: 29 kwietnia 2026 r.
+data_aktualizacji: 16 maja 2026 r.
+wersja_robocza: true
 ---
 
-# Model organizacji procesu
 
 ## Cel modelu
 

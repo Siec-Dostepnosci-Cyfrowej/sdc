@@ -1,11 +1,18 @@
 ---
-id: material-02-lista-kontrolna-wycofania-tresci
+id: lista-kontrolna-wycofania-tresci
 title: Lista kontrolna wycofania treści
+description: Materiał operacyjny wspierający organizację procesu wycofywania treści cyfrowych i zasobów publikowanych.
 sidebar_label: Lista kontrolna wycofania treści
-sidebar_position: 21
+sidebar_position: 8
+keywords: [cykl życia TIK,archiwizacja,zasoby cyfrowe,wycofywanie treści,migracja danych,informacja publiczna,dostępność cyfrowa]
+tags: [cykl życia TIK,archiwizacja,zasoby cyfrowe,wycofywanie treści,migracja danych,informacja publiczna,dostępność cyfrowa]
+opracowanie: Bartłomiej Wilk
+wspolpraca: Stefan Wajda
+data_zgloszenia: 29 kwietnia 2026 r.
+data_aktualizacji: 16 maja 2026 r.
+wersja_robocza: true
 ---
 
-# Lista kontrolna wycofania treści
 
 Lista ma charakter przykładowy i może być dostosowana do procedur podmiotu.
 

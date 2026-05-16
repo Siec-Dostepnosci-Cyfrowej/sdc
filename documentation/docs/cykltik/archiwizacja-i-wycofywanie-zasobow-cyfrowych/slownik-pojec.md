@@ -1,11 +1,16 @@
 ---
-id: material-07-slownik-pojec
+id: slownik-pojec
 title: Słownik pojęć
+description: Słownik pojęć stosowanych w zaleceniu dotyczącym archiwizacji i wycofywania zasobów cyfrowych.
 sidebar_label: Słownik pojęć
-sidebar_position: 26
+sidebar_position: 22
+keywords: [cykl życia TIK,archiwizacja,zasoby cyfrowe,wycofywanie treści,migracja danych,informacja publiczna,dostępność cyfrowa]
+tags: [cykl życia TIK,archiwizacja,zasoby cyfrowe,wycofywanie treści,migracja danych,informacja publiczna,dostępność cyfrowa]
+opracowanie: Bartłomiej Wilk
+data_zgloszenia: 29 kwietnia 2026 r.
+data_aktualizacji: 16 maja 2026 r.
+wersja_robocza: true
 ---
-
-# Słownik pojęć
 
 ## Zasób cyfrowy
 

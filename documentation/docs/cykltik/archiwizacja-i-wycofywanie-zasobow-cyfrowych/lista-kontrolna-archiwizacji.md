@@ -1,8 +1,15 @@
 ---
-id: material-01-lista-kontrolna-archiwizacji
+id: lista-kontrolna-archiwizacji
 title: Lista kontrolna archiwizacji
+description: Materiał operacyjny wspierający organizację procesu archiwizacji zasobów cyfrowych.
 sidebar_label: Lista kontrolna archiwizacji
-sidebar_position: 20
+sidebar_position: 7
+keywords: [cykl życia TIK,archiwizacja,zasoby cyfrowe,wycofywanie treści,migracja danych,informacja publiczna,dostępność cyfrowa]
+tags: [cykl życia TIK,archiwizacja,zasoby cyfrowe,wycofywanie treści,migracja danych,informacja publiczna,dostępność cyfrowa]
+opracowanie: Bartłomiej Wilk
+data_zgloszenia: 29 kwietnia 2026 r.
+data_aktualizacji: 16 maja 2026 r.
+wersja_robocza: true
 ---
 
 # Lista kontrolna archiwizacji

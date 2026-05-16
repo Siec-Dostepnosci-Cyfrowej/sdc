@@ -1,11 +1,18 @@
 ---
-id: material-03-lista-kontrolna-wycofania-systemu
+id: lista-kontrolna-wycofania-systemu
 title: Lista kontrolna wycofania systemu
+description: Materiał operacyjny wspierający organizację procesu wycofywania systemów teleinformatycznych i usług cyfrowych.
 sidebar_label: Lista kontrolna wycofania systemu
-sidebar_position: 22
+sidebar_position: 9
+keywords: [cykl życia TIK,archiwizacja,zasoby cyfrowe,wycofywanie treści,migracja danych,informacja publiczna,dostępność cyfrowa]
+tags: [cykl życia TIK,archiwizacja,zasoby cyfrowe,wycofywanie treści,migracja danych,informacja publiczna,dostępność cyfrowa]
+opracowanie: Bartłomiej Wilk
+wspolpraca: Stefan Wajda
+data_zgloszenia: 29 kwietnia 2026 r.
+data_aktualizacji: 16 maja 2026 r.
+wersja_robocza: true
 ---
 
-# Lista kontrolna wycofania systemu
 
 Lista ma charakter przykładowy i może być dostosowana do procedur podmiotu.
 

@@ -1,11 +1,16 @@
 ---
 id: zalacznik-06-zasady-postepowania-z-zasobami-archiwalnymi
 title: Zasady postępowania z zasobami archiwalnymi
+description: Zasady postępowania z zasobami archiwalnymi
 sidebar_label: Zasady postępowania z zasobami archiwalnymi
-sidebar_position: 15
+sidebar_position: 6
+keywords: [cykl życia TIK,archiwizacja,zasoby cyfrowe,wycofywanie treści,migracja danych,informacja publiczna,dostępność cyfrowa, procedura standardowa]
+tags: [cykl życia TIK,archiwizacja,zasoby cyfrowe,wycofywanie treści,migracja danych,informacja publiczna,dostępność cyfrowa]
+opracowanie: Bartłomiej Wilk
+data_zgloszenia: 29 kwietnia 2026 r.
+data_aktualizacji: 16 maja 2026 r.
+wersja_robocza: true
 ---
-
-# Zasady postępowania z zasobami archiwalnymi
 
 ## Oznaczanie treści archiwalnych
 

@@ -1,11 +1,18 @@
 ---
-id: zalacznik-02-role-i-odpowiedzialnosci
-title: Role i odpowiedzialności
+id: role-i-odpowiedzialnosci
+title: Model organizacji procesu
+description: Załącznik określający role i odpowiedzialności w procesie archiwizacji, migracji i wycofywania zasobów cyfrowych oraz systemów teleinformatycznych.
 sidebar_label: Role i odpowiedzialności
-sidebar_position: 11
+sidebar_position: 2
+keywords: [cykl życia TIK,archiwizacja,zasoby cyfrowe,wycofywanie treści,migracja danych,informacja publiczna,dostępność cyfrowa]
+tags: [cykl życia TIK,archiwizacja,zasoby cyfrowe,wycofywanie treści,migracja danych,informacja publiczna,dostępność cyfrowa]
+opracowanie: Bartłomiej Wilk
+data_zgloszenia: 29 kwietnia 2026 r.
+data_aktualizacji: 16 maja 2026 r.
+wersja_robocza: true
 ---
 
-# Role i odpowiedzialności
+
 
 ## Zasada ogólna
 

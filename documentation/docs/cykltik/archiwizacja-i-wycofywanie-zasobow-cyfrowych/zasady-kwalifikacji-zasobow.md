@@ -1,11 +1,16 @@
 ---
-id: zalacznik-05-zasady-kwalifikacji-zasobow
+id: zasady-kwalifikacji-zasobow
 title: Zasady kwalifikacji zasobów
+description: Kwalifikacja zasobów służy ustalaniu dalszego trybu postępowania z zasobem cyfrowym
 sidebar_label: Zasady kwalifikacji zasobów
-sidebar_position: 14
+sidebar_position: 5
+keywords: [cykl życia TIK,archiwizacja,zasoby cyfrowe,wycofywanie treści,migracja danych,informacja publiczna,dostępność cyfrowa, procedura standardowa]
+tags: [cykl życia TIK,archiwizacja,zasoby cyfrowe,wycofywanie treści,migracja danych,informacja publiczna,dostępność cyfrowa]
+opracowanie: Bartłomiej Wilk
+data_zgloszenia: 29 kwietnia 2026 r.
+data_aktualizacji: 16 maja 2026 r.
+wersja_robocza: true
 ---
-
-# Zasady kwalifikacji zasobów
 
 ## Cel kwalifikacji
 
