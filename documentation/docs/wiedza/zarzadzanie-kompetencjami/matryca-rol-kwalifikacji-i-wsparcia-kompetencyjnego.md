@@ -1,5 +1,5 @@
 ---
-id: matryca-kompetencji
+id: matryca-rol-kwalifikacji-i-wsparcia-kompetencyjnego
 title: Matryca ról, kwalifikacji i wsparcia kompetencyjnego
 description: Przykładowe powiązanie ról organizacyjnych, zadań związanych z dostępnością cyfrową, wymaganych kwalifikacji, systemu wsparcia kompetencyjnego, warunków organizacyjnych umożliwiających skuteczne działanie.
 sidebar_position: 5

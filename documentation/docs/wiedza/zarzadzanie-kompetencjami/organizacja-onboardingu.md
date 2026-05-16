@@ -4,8 +4,8 @@ title: Organizacja onboardingu pracowników w zakresie dostępności cyfrowej
 description: Przedstawia koncepcję wdrozenia pracowników do realizacji zadan w zakresie dostępności cyfrowej
 sidebar_position: 3
 sidebar_label: Organizacja onboardingu
-keywords: [wiedza, umiejętności, kompetencje, kwalifikacje, pracownicy, wsparcie kompetencyjne, role, odpowiedzialności]
-tags: [wiedza, umiejętności, kompetencje, kwalifikacje, pracownicy, wsparcie kompetencyjne, role, odpowiedzialności]
+keywords: [wiedza, umiejętności, kompetencje, kwalifikacje, pracownicy, wsparcie kompetencyjne, onboarding]
+tags: [wiedza, umiejętności, kompetencje, kwalifikacje, pracownicy, wsparcie kompetencyjne, onboarding]
 opracowanie: Stefan Wajda 
 data_zgloszenia: 18 kwietnia 2026 r.
 ostatnia_aktualizacja:  16 maja 2026 r.

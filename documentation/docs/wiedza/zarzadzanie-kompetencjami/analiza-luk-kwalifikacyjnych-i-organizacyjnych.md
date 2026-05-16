@@ -1,11 +1,11 @@
 ---
-id: analiza-luk-kompetencyjnych
+id: analiza-luk-kwalifikacyjnych-i-organizacyjnych
 title: Analiza luk kwalifikacyjnych i organizacyjnych
 description: Materiał wspomagający monitoring i ocenę dojrzałości organizacji w zakresie zdolości do zapewniania dostępnosci cyfrowej   
 sidebar_position: 4
 sidebar_label: Analiza luk
-keywords: [wiedza, umiejętności, kompetencje, pracownicy]
-tags: [wiedza, umiejętności, kompetencje, pracownicy]
+keywords: [wiedza, umiejętności, kompetencje, kwalifikacje, pracownicy, wsparcie kompetencyjne, role, odpowiedzialności]
+tags: [wiedza, umiejętności, kompetencje, kwalifikacje, pracownicy, wsparcie kompetencyjne, role, odpowiedzialności]
 opracowanie: Stefan Wajda 
 data_zgloszenia: 18 kwietnia 2026 r.
 ostatnia_aktualizacja:  16 maja kwietnia 2026 r.
