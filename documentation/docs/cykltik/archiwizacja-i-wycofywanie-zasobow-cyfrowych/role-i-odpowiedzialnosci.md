@@ -1,6 +1,6 @@
 ---
 id: role-i-odpowiedzialnosci
-title: Model organizacji procesu
+title: Role i odpowiedzialności
 description: Załącznik określający role i odpowiedzialności w procesie archiwizacji, migracji i wycofywania zasobów cyfrowych oraz systemów teleinformatycznych.
 sidebar_label: Role i odpowiedzialności
 sidebar_position: 2
