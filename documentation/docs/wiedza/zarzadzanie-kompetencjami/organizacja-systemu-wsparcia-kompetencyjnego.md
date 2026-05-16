@@ -8,7 +8,7 @@ keywords: [kompetencje, wsparcie, pracownicy, zarządzanie]
 tags: [wiedza, umiejętności, kompetencje, pracownicy]
 opracowanie: Stefan Wajda
 data_zgloszenia: 20 kwietnia 2026 r.
-data_aktualizacji: 16 maja 2026 r.
+ostatnia_aktualizacja: 16 maja 2026 r.
 wersja_robocza: true
 ---
 

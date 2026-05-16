@@ -8,7 +8,7 @@ keywords: [wiedza, umiejętności, kompetencje, pracownicy]
 tags: [wiedza, umiejętności, kompetencje, pracownicy]
 opracowanie: Stefan Wajda 
 data_zgloszenia: 18 kwietnia 2026 r.
-data_aktualizacji:  16 maja 2026 r.
+ostatnia_aktualizacja:  16 maja 2026 r.
 wersja_robocza: true
 ---
 
