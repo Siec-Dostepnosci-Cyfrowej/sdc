@@ -42,6 +42,7 @@ Onboarding:
 Organizacja nie zakłada, że pracownik przed rozpoczęciem wykonywania zadań osiągnie pełną gotowość kompetencyjną.
 
 Onboarding ma umożliwić rozpoczęcie działania oraz korzystanie ze wsparcia organizacji w trakcie realizacji zadań.
+
 ---
 
 ## 3. Zakres onboardingu
