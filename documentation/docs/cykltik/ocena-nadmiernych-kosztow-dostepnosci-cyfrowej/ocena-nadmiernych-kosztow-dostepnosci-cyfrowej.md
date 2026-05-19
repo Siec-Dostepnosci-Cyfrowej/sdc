@@ -18,7 +18,7 @@ Dokument wskazuje warunki prawidłowego zastosowania wyjątku, tak aby uniknąć
 
 ## Zalecenie
 
-Podmioty publiczne powinny prowadzić systematyczną, udokumentowaną ocenę nadmiernych kosztów dostępności cyfrowej, opierając się na obiektywnych kryteriach wynikających z przepisów prawa, analizie kosztów i korzyści oraz konsultacjach z interesariuszami.
+Organizacje powinny prowadzić systematyczną, udokumentowaną ocenę nadmiernych kosztów dostępności cyfrowej, opierając się na obiektywnych kryteriach wynikających z przepisów prawa, analizie kosztów i korzyści oraz konsultacjach z interesariuszami.
 
 Wyjątek od obowiązku dostępności może być stosowany wyłącznie w uzasadnionych przypadkach, przy jednoczesnym zapewnieniu rozwiązań alternatywnych.
 
