@@ -26,12 +26,12 @@ Listy kontrolne są przykładowymi narzędziami kontroli dostępności przed pub
 
 ## Listy do uzupełnienia
 
-Poniższe listy wymagają opracowania jako odrębne narzędzia kontroli:
+Poniższe listy kontrolne zostały opracowane jako część pakietu wdrożeniowego:
 
-- TODO: lista kontrolna dokumentów PDF, DOCX i XLSX,
-- TODO: lista kontrolna stron informacyjnych publikowanych w CMS,
-- TODO: lista kontrolna załączników publikowanych w BIP,
-- TODO: lista kontrolna formularzy i komunikatów transakcyjnych.
+- [Lista kontrolna dokumentów PDF, DOCX i XLSX](./lista-kontrolna-dokumentow-pdf-docx-xlsx.md)
+- [Lista kontrolna stron informacyjnych publikowanych w CMS](./lista-kontrolna-stron-cms.md)
+- [Lista kontrolna załączników publikowanych w BIP](./lista-kontrolna-zalacznikow-bip.md)
+- [Lista kontrolna formularzy i komunikatów transakcyjnych](./lista-kontrolna-formularzy-i-komunikatow-transakcyjnych.md)
 
 ## Szkielet nowej listy kontrolnej
 
