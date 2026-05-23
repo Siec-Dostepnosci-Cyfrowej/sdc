@@ -9,7 +9,7 @@ tags: [komunikacja, multimedia, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
 wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 23 kwietnia 2026 r.
+ostatnia_aktualizacja: 23 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -98,7 +98,7 @@ Informacje nie mogą być uzależnione od jednej formy odbioru.
 
 Wymagania wprowadzają mechanizm weryfikacji oparty na jednoznacznych kryteriach dostępności.
 
-Weryfikacja spełnienia wymagań przed publikacją odbywa się zgodnie z procedurą określoną w Zaleceniu 4. Niniejszy dokument określa kryteria, a nie tryb podejmowania decyzji publikacyjnej.
+Weryfikacja spełnienia wymagań odbywa się przed publikacją w ramach procesu publikacji. Niniejszy dokument określa kryteria, a nie tryb podejmowania decyzji publikacyjnej.
 
 Weryfikacja obejmuje:
 - kompletność komunikatu,

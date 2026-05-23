@@ -1,10 +1,10 @@
 ---
 id: slowniczek-pojec-komunikacja-masowa
 title: Słowniczek pojęć
-description: Słowniczek podstawowych pojęć związanych z dostępnością multimediów i komunikacją masową.
+description: Słowniczek podstawowych pojęć związanych z dostępnością materiałów multimedialnych i treści cyfrowych.
 sidebar_label: Słowniczek pojęć
 sidebar_position: 25
-keywords: [dostępność cyfrowa, multimedia, komunikacja masowa, słowniczek, administracja publiczna]
+keywords: [dostępność cyfrowa, multimedia, treści cyfrowe, słowniczek, administracja publiczna]
 tags: [komunikacja, multimedia, dostępność cyfrowa, słowniczek]
 opracowanie: Bartłomiej Wilk
 wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
@@ -15,13 +15,13 @@ wersja_robocza: true
 
 ## Cel słowniczka
 
-Słowniczek wyjaśnia pojęcia używane w dokumentach dotyczących dostępnych materiałów multimedialnych i komunikacji masowej. Ma wspierać wspólne rozumienie wymagań przez osoby tworzące treści, redaktorów, osoby publikujące, koordynatorów dostępności i osoby nadzorujące proces publikacji.
+Słowniczek wyjaśnia pojęcia używane w dokumentach dotyczących dostępnych materiałów multimedialnych i treści cyfrowych. Ma wspierać wspólne rozumienie wymagań przez osoby tworzące treści, redaktorów, osoby publikujące, koordynatorów dostępności i osoby nadzorujące proces publikacji.
 
 ---
 
 ## Pojęcia ogólne
 
-### Komunikacja masowa
+### Komunikacja publiczna w kanałach cyfrowych
 
 Komunikacja kierowana do szerokiego grona odbiorców, zwykle przez stronę internetową, Biuletyn Informacji Publicznej, media społecznościowe, newsletter, platformę wideo, transmisję, kampanię informacyjną albo inny publiczny kanał cyfrowy.
 

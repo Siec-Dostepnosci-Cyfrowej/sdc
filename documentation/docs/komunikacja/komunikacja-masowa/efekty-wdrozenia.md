@@ -1,6 +1,6 @@
 ---
 id: efekty-wdrozenia
-title: Efekty wdrożenia standardu dostępności multimediów i komunikacji masowej
+title: Efekty wdrożenia standardu publikacji dostępnych materiałów multimedialnych i treści cyfrowych
 description: Opis efektów wdrożenia standardu dostępności w podmiocie publicznym. 
 sidebar_label: Efekty wdrożenia
 sidebar_position: 19
@@ -16,7 +16,7 @@ wersja_robocza: true
 
 ## Charakter zmian
 
-Wdrożenie standardu dostępności multimediów i komunikacji masowej prowadzi do zmiany sposobu organizacji pracy z treściami.
+Wdrożenie standardu publikacji dostępnych materiałów multimedialnych i treści cyfrowych prowadzi do zmiany sposobu organizacji pracy z treściami.
 
 Dostępność przestaje być działaniem uzupełniającym, a staje się integralnym elementem przygotowania materiałów.
 

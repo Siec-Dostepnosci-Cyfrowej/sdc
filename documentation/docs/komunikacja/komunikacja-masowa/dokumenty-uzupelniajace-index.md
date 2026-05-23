@@ -1,7 +1,7 @@
 ---
 id: dokumenty-uzupelniajace-index
 title: Dokumenty uzupełniające
-description: Materiały uzupełniające wspierające wdrożenie standardu dostępności multimediów i komunikacji masowej.
+description: Materiały uzupełniające wspierające wdrożenie standardu publikacji dostępnych materiałów multimedialnych i treści cyfrowych.
 sidebar_label: Dokumenty uzupełniające
 sidebar_position: 14
 keywords: [dostępność cyfrowa, multimedia, komunikacja, administracja publiczna]
@@ -9,14 +9,14 @@ tags: [komunikacja, multimedia, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
 wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 23 kwietnia 2026 r.
+ostatnia_aktualizacja: 23 maja 2026 r.
 wersja_robocza: true
 ---
 
 
 Niniejsza sekcja zawiera materiały uzupełniające do Zalecenia 5.
 
-Dokumenty zgromadzone w tym katalogu nie stanowią treści samego zalecenia ani jego obowiązkowych elementów wdrożeniowych. Pełnią funkcję analityczną, porządkującą i wspierającą. Służą wyjaśnieniu kontekstu, pokazaniu problemów wdrożeniowych, opisaniu efektów wdrożenia oraz wskazaniu systemowych powiązań standardu dostępności multimediów i komunikacji masowej.
+Dokumenty zgromadzone w tym katalogu nie stanowią treści samego zalecenia ani jego obowiązkowych elementów wdrożeniowych. Pełnią funkcję analityczną, porządkującą i wspierającą. Służą wyjaśnieniu kontekstu, pokazaniu problemów wdrożeniowych, opisaniu efektów wdrożenia oraz wskazaniu systemowych powiązań standardu publikacji dostępnych materiałów multimedialnych i treści cyfrowych.
 
 ## Rola dokumentów w tej sekcji
 
@@ -47,15 +47,15 @@ W skład materiałów uzupełniających wchodzą:
 - [Efekty wdrożenia](./efekty-wdrozenia.md)
 - [Słowniczek pojęć](./slowniczek-pojec.md)
 
-## Relacja do pozostałych części repozytorium
+## Relacja do pozostałych części pakietu
 
-Sekcja uzupełnia dokumenty znajdujące się w głównych częściach repozytorium:
+Sekcja uzupełnia dokumenty znajdujące się w głównych częściach pakietu:
 
-- `zalecenie.md` - dokument główny zgodny ze strukturą Sieci Dostępności Cyfrowej,
-- `wymagania/` - minimalne wymagania i ich uzasadnienie,
-- `standardy/` - szczegółowe zasady przygotowania materiałów,
-- `modele/` - modele organizacyjne i wdrożeniowe,
-- `checklisty/` - listy kontrolne stosowane przed publikacją.
+- dokument główny zalecenia,
+- minimalne wymagania i ich uzasadnienie,
+- standardy przygotowania materiałów,
+- model organizacyjny i operacyjny,
+- listy kontrolne stosowane przed publikacją.
 
 Dokumenty uzupełniające nie zastępują tych materiałów, lecz wspierają ich zrozumienie i wdrożenie.
 

@@ -1,6 +1,6 @@
 ---
 id: powiazania-systemowe
-title: Powiązania systemowe standardu dostępności multimediów i komunikacji masowej
+title: Powiązania systemowe standardu publikacji dostępnych materiałów multimedialnych i treści cyfrowych
 description: Opis powiązań standardu dostępności z innymi obszarami funkcjonowania podmiotu. 
 sidebar_label: Powiązania systemowe
 sidebar_position: 18
@@ -9,7 +9,7 @@ tags: [komunikacja, multimedia, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
 wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 23 kwietnia 2026 r.
+ostatnia_aktualizacja: 23 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -17,7 +17,7 @@ wersja_robocza: true
 
 ## Charakter powiązań
 
-Standard dostępności multimediów i komunikacji masowej nie funkcjonuje jako odrębny element podmiotu, lecz stanowi część szerszego systemu zarządzania dostępnością cyfrową.
+Standard publikacji dostępnych materiałów multimedialnych i treści cyfrowych nie funkcjonuje jako odrębny element podmiotu, lecz stanowi część szerszego systemu zarządzania dostępnością cyfrową.
 
 Jego skuteczność zależy od powiązania z innymi obszarami działania podmiotu, w szczególności z procesami, kompetencjami pracowników oraz systemami informatycznymi.
 
@@ -147,7 +147,7 @@ Dzięki temu dostępność może być rozwijana w sposób systemowy, a nie incyd
 
 ## Podsumowanie
 
-Standard dostępności multimediów i komunikacji masowej jest elementem systemu zarządzania podmiotem.
+Standard publikacji dostępnych materiałów multimedialnych i treści cyfrowych jest elementem systemu zarządzania podmiotem.
 
 Jego skuteczność zależy od powiązania z:
 
@@ -163,6 +163,4 @@ Tylko w takim ujęciu możliwe jest osiągnięcie trwałego i powtarzalnego pozi
 ## Powiązane dokumenty
 
 - [Dokumenty uzupełniające](./dokumenty-uzupelniajace-index.md)
-- Mapa odpowiedzialności w procesie publikacji - dokument powiązany z Zaleceniem 4.
 - [Efekty wdrożenia](./efekty-wdrozenia.md)
-- Procedura postępowania w sytuacjach wyjątkowych - dokument powiązany z Zaleceniem 4.

@@ -1,6 +1,6 @@
 ---
 id: problemy-i-bledy-wdrozeniowe
-title: Problemy i błędy wdrożeniowe w zakresie dostępności multimediów i komunikacji masowej
+title: Problemy i błędy wdrożeniowe w zakresie dostępności materiałów multimedialnych i treści cyfrowych
 description: Analiza najczęstszych błędów i problemów we wdrażaniu dostępności multimediów i komunikacji. 
 sidebar_label: Problemy i błędy wdrożeniowe
 sidebar_position: 16
@@ -17,7 +17,7 @@ wersja_robocza: true
 
 ## Charakter problemów
 
-Problemy związane z dostępnością multimediów i komunikacji masowej mają w większości charakter systemowy, a nie jednostkowy.
+Problemy związane z dostępnością materiałów multimedialnych i treści cyfrowych mają w większości charakter systemowy, a nie jednostkowy.
 
 Nie wynikają z braku dobrej woli pracowników, lecz z braku:
 - spójnych zasad działania,

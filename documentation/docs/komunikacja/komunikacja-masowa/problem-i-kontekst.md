@@ -1,6 +1,6 @@
 ---
 id: problem-i-kontekst
-title: Problem i kontekst wdrożenia standardu dostępności multimediów i komunikacji masowej
+title: Problem i kontekst wdrożenia standardu publikacji dostępnych materiałów multimedialnych i treści cyfrowych
 description: Opis problemów i kontekstu, na które odpowiada standard dostępności multimediów i komunikacji. 
 sidebar_label: Problem i kontekst
 sidebar_position: 15
@@ -16,7 +16,7 @@ wersja_robocza: true
 
 ## Charakter problemu
 
-W wielu podmiotach publicznych dostępność multimediów i komunikacji masowej nie jest realizowana w sposób systemowy.
+W wielu podmiotach publicznych dostępność materiałów multimedialnych i treści cyfrowych nie jest realizowana w sposób systemowy.
 
 Działania związane z dostępnością mają najczęściej charakter:
 - incydentalny,
@@ -142,7 +142,7 @@ Wdrożenie standardu stanowi odpowiedź na te potrzeby poprzez:
 
 ## Podsumowanie
 
-Problem dostępności multimediów i komunikacji masowej nie wynika z braku świadomości, lecz z braku systemowego podejścia.
+Problem dostępności materiałów multimedialnych i treści cyfrowych nie wynika z braku świadomości, lecz z braku systemowego podejścia.
 
 Wprowadzenie spójnego standardu pozwala na przejście od działań incydentalnych do powtarzalnego modelu pracy, który zapewnia dostępność jako element jakości komunikacji.
 

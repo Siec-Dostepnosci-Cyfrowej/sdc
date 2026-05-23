@@ -1,6 +1,6 @@
 ---
 id: minimalne-wymagania
-title: Minimalne wymagania dostępności multimediów i komunikacji
+title: Minimalne wymagania dostępności materiałów multimedialnych i treści cyfrowych
 description: Zestaw minimalnych wymagań dostępności dla materiałów multimedialnych i treści cyfrowych.
 sidebar_label: Minimalne wymagania
 sidebar_position: 2
@@ -9,7 +9,7 @@ tags: [wymagania, komunikacja, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
 wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 27 kwietnia 2026 r.
+ostatnia_aktualizacja: 23 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -70,7 +70,7 @@ Dla zaplanowanych transmisji na żywo należy zapewnić napisy w czasie rzeczywi
 
 Weryfikacja jest wykonywana przed publikacją z użyciem właściwej listy kontrolnej.
 
-Punkty obowiązkowe wskazują wymagania podstawowe, których spełnienie jest sprawdzane zgodnie z Zaleceniem 4.
+Punkty obowiązkowe wskazują wymagania podstawowe, których spełnienie jest sprawdzane przed publikacją.
 
 ## Dowody spełnienia wymagań
 
@@ -87,11 +87,13 @@ Publikacja jest dopuszczalna, gdy wymagania obowiązkowe i właściwe wymagania 
 
 ## Sytuacje wyjątkowe
 
-Jeżeli wymaganie obowiązkowe nie może zostać spełnione w momencie publikacji, stosuje się procedurę postępowania w sytuacjach wyjątkowych określoną w Zaleceniu 4.
+Jeżeli wymaganie obowiązkowe nie może zostać spełnione w momencie publikacji, stosuje się procedurę postępowania w sytuacjach wyjątkowych.
+
+Wyjątek wymaga wskazania powodu, osoby odpowiedzialnej, minimalnego poziomu dostępności zapewnionego w chwili publikacji, terminu uzupełnienia braków oraz sposobu zapewnienia dostępu alternatywnego lub równoważnej informacji.
 
 ## Odpowiedzialność
 
-Autor odpowiada za przygotowanie materiału. Osoba weryfikująca odpowiada za kontrolę. Osoba publikująca odpowiada za publikację zgodną z wynikiem weryfikacji. Kierownictwo podmiotu odpowiada za zapewnienie warunków organizacyjnych.
+Właściciel treści odpowiada za merytoryczną poprawność i kompletność materiału. Osoba przygotowująca materiał odpowiada za zastosowanie standardów dostępności. Osoba weryfikująca odpowiada za kontrolę przed publikacją. Redaktor lub osoba publikująca odpowiada za publikację zgodną z wynikiem weryfikacji. Kierownictwo podmiotu odpowiada za zapewnienie warunków organizacyjnych, a koordynator dostępności lub wyznaczona osoba wspiera, monitoruje i okresowo ocenia stosowanie standardu.
 
 ## Powiązane dokumenty
 

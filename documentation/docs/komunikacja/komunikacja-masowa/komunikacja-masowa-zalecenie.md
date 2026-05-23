@@ -1,7 +1,7 @@
 ---
 id: komunikacja-masowa
-title: Zalecenie 5 – Standard dostępności multimediów i komunikacji masowej
-description: Standard dostępności dla materiałów multimedialnych i komunikacji masowej
+title: Zalecenie 5 – Standard publikacji dostępnych materiałów multimedialnych i treści cyfrowych
+description: Standard organizacji publikacji dostępnych materiałów multimedialnych i treści cyfrowych
 sidebar_label: Zalecenie 5
 sidebar_position: 5
 keywords: [dostępność cyfrowa, kontrola dostępności, publikacja, komunikacja, listy kontrolne]
@@ -9,23 +9,27 @@ tags: [zalecenie, komunikacja, dostępność cyfrowa, kontrola]
 opracowanie: Bartłomiej Wilk
 wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 30 kwietnia 2026 r.
-ostatnia_aktualizacja: 30 kwietnia 2026 r.
+ostatnia_aktualizacja: 23 maja 2026 r.
 wersja_robocza: true
 ---
 
 ## Cel zalecenia
 
-Celem zalecenia jest standaryzacja tworzenia dostępnych materiałów multimedialnych i treści komunikacji masowej. Dokument odpowiada na potrzebę spójnych wymagań dla osób przygotowujących treści publikowane w serwisach internetowych, Biuletynie Informacji Publicznej, mediach społecznościowych i platformach zewnętrznych.
+Celem zalecenia jest standaryzacja organizacji pracy nad dostępnymi materiałami multimedialnymi i treściami cyfrowymi publikowanymi przez podmiot. Dokument odpowiada na potrzebę spójnych zasad dla treści udostępnianych w serwisach internetowych, Biuletynie Informacji Publicznej, mediach społecznościowych i na platformach zewnętrznych.
 
 ## Zalecenie
 
-Podmiot zapewnia stosowanie standardów dostępności i list kontrolnych dla materiałów multimedialnych oraz treści komunikacji masowej. Dokument określa wymagania stosowane przy tworzeniu i przygotowaniu treści do publikacji.
+Podmiot ustanawia i stosuje standard publikacji dostępnych materiałów multimedialnych i treści cyfrowych. Standard określa minimalne wymagania, role, model operacyjny, kontrolę jakości przed publikacją oraz zasady zapewnienia zasobów, narzędzi i kompetencji.
 
 ## Rekomendacje
 
-### 1. Wymagania dla treści
+### 1. Zasady i standardy
 
-Podmiot przyjmuje minimalne wymagania dostępności dla materiałów multimedialnych i treści komunikacji masowej. Wymagania obejmują w szczególności:
+Kierownictwo podmiotu ustanawia standard dostępności materiałów multimedialnych i treści cyfrowych oraz zapewnia warunki jego stosowania. Standard obejmuje minimalne wymagania dostępności, standardy tworzenia materiałów, listy kontrolne oraz zasady postępowania w sytuacjach wyjątkowych.
+
+Minimalne wymagania określają warunki, które muszą zostać spełnione przed publikacją. Standardy tworzenia opisują sposób przygotowania materiałów i treści. Dobre praktyki mogą zwiększać jakość komunikacji, ale nie zastępują wymagań obowiązkowych.
+
+Wymagania obejmują w szczególności:
 
 - napisy i transkrypcje dla materiałów audio i wideo,
 - opisy alternatywne i treści równoważne dla grafik, infografik i materiałów wizualnych,
@@ -33,57 +37,96 @@ Podmiot przyjmuje minimalne wymagania dostępności dla materiałów multimedial
 - dostępność postów publikowanych w mediach społecznościowych,
 - dostępność opisu, metadanych i sposobu osadzenia materiału w kanale publikacji.
 
-### 2. Standardy tworzenia
+### 2. Role i odpowiedzialności
 
-Podmiot stosuje standardy tworzenia dostępnych materiałów jako instrukcje wykonawcze dla osób przygotowujących treści. Standardy określają sposób przygotowania:
+Podmiot przypisuje odpowiedzialność za każdy etap przygotowania, weryfikacji i publikacji materiału. Jedna osoba może pełnić więcej niż jedną rolę, jeżeli podmiot zapewni rozdzielenie przygotowania materiału od jego weryfikacji przed publikacją.
 
-- materiałów wideo,
-- materiałów audio,
-- grafik i materiałów wizualnych,
-- opisów alternatywnych i treści równoważnych,
-- komunikatów tekstowych i postów,
-- metadanych i elementów towarzyszących publikacji.
+Kierownictwo podmiotu odpowiada za ustanowienie standardu, zapewnienie warunków organizacyjnych, narzędzi i kompetencji oraz za nadzór nad jego stosowaniem.
 
-### 3. Listy kontrolne
+Właściciel treści odpowiada za merytoryczną poprawność, kompletność i aktualność materiału oraz za przekazanie informacji potrzebnych do przygotowania dostępnej publikacji.
+
+Osoba przygotowująca materiał odpowiada za zastosowanie standardów dostępności właściwych dla formatu, kanału publikacji i typu treści.
+
+Osoba weryfikująca sprawdza materiał przed publikacją na podstawie wymagań, standardów i właściwej listy kontrolnej. Wynik weryfikacji powinien wskazywać, czy materiał może zostać opublikowany, wymaga poprawy albo wymaga zastosowania procedury sytuacji wyjątkowej.
+
+Redaktor lub osoba publikująca odpowiada za publikację wyłącznie materiałów zweryfikowanych oraz za prawidłowe dodanie elementów dostępności w kanale publikacji.
+
+Koordynator dostępności lub wyznaczona osoba wspiera stosowanie standardu, monitoruje powtarzalne błędy, inicjuje działania korygujące oraz okresowo ocenia potrzebę aktualizacji standardu.
+
+Decyzję o publikacji podejmuje osoba upoważniona w procesie publikacji na podstawie wyniku weryfikacji i, jeżeli dotyczy, dokumentacji sytuacji wyjątkowej.
+
+### 3. Model operacyjny
+
+Podmiot organizuje pracę nad materiałem w powtarzalnym modelu obejmującym:
+
+- zaplanowanie formatu, kanału publikacji i wymaganych elementów dostępności,
+- przygotowanie treści merytorycznej oraz materiałów równoważnych,
+- opracowanie napisów, transkrypcji, opisów alternatywnych, metadanych i innych elementów wymaganych dla danego formatu,
+- weryfikację materiału przed publikacją,
+- decyzję publikacyjną,
+- publikację i utrzymanie materiału,
+- działania korygujące oraz okresową ocenę stosowania standardu.
+
+Model powinien być możliwy do zastosowania zarówno w podmiotach o rozbudowanej strukturze, jak i w mniejszych jednostkach, w których jedna osoba łączy kilka funkcji. Ograniczone zasoby nie znoszą wymagań dostępności, lecz wymagają jasnego określenia minimalnego poziomu dostępności, odpowiedzialności i terminu uzupełnienia braków.
+
+### 4. Kontrola jakości przed publikacją
 
 Podmiot stosuje listy kontrolne jako narzędzie potwierdzania spełnienia wymagań właściwych dla danego typu materiału. Listy kontrolne:
 
 - odnoszą się do konkretnych wymagań i standardów,
 - pozwalają odnotować wynik dla każdego punktu,
 - umożliwiają wskazanie uwag lub dowodu spełnienia wymagania,
+- wskazują, czy materiał może zostać opublikowany, wymaga poprawy albo wymaga zastosowania procedury sytuacji wyjątkowej,
 - są aktualizowane razem ze zmianą standardów, przepisów albo narzędzi publikacyjnych.
 
-Weryfikacja spełnienia wymagań dostępności przed publikacją odbywa się zgodnie z procedurą określoną w Zaleceniu 4.
+Materiał, który nie spełnia wymagań obowiązkowych lub właściwych wymagań warunkowych, nie jest materiałem kompletnym. Nie powinien zostać opublikowany, chyba że zastosowano i udokumentowano procedurę sytuacji wyjątkowej.
 
-### 4. Spójny pakiet dokumentów
+### 5. Zasoby, narzędzia i kompetencje
 
-Pakiet Zalecenia 5 obejmuje dokumenty określające wymagania, standardy i narzędzia stosowane przy tworzeniu dostępnych materiałów. Dokumenty pakietu są utrzymywane łącznie, tak aby wymagania, standardy i listy kontrolne nie zawierały sprzecznych kryteriów.
-
-Do pakietu należą w szczególności:
+Podmiot zapewnia zasoby potrzebne do stosowania standardu, w szczególności:
 
 - minimalne wymagania dostępności,
 - standardy tworzenia dostępnych materiałów,
 - listy kontrolne publikacji,
-- modele wdrożenia dla podmiotów,
-- dokumenty wyjaśniające i pomocnicze.
+- narzędzia umożliwiające dodawanie elementów dostępności w kanałach publikacji,
+- kompetencje osób przygotowujących, weryfikujących i publikujących materiały,
+- wsparcie koordynatora dostępności lub wyznaczonej osoby,
+- mechanizm monitorowania błędów i działań korygujących.
 
-### 5. Powiązanie z procedurami kontroli i naprawy
+Standardy, listy kontrolne i materiały pomocnicze są utrzymywane łącznie, tak aby nie zawierały sprzecznych kryteriów. Aktualizacja standardu następuje po zmianach przepisów, wytycznych technicznych, narzędzi publikacyjnych albo po stwierdzeniu powtarzalnych błędów w przygotowywanych materiałach.
 
-Zalecenie 5 określa standardy, wymagania oraz listy kontrolne wykorzystywane przy tworzeniu treści. Zalecenie 4 określa procedurę kontroli dostępności przed publikacją.
+## Procedura sytuacji wyjątkowych
 
-Zalecenie 7 - Program przeglądu i naprawy załączników opublikowanych po 23 września 2018 r. określa przegląd i naprawę zasobów już opublikowanych.
+Procedura sytuacji wyjątkowych jest elementem procesu publikacji. Nie może być zwykłym sposobem omijania wymagań dostępności ani zastępować planowania dostępności na etapie przygotowania materiału.
 
-### 6. Aktualizacja standardów i list kontrolnych
+Procedurę stosuje się w szczególności do:
 
-Podmiot aktualizuje standardy i listy kontrolne po zmianach przepisów, wytycznych technicznych, narzędzi publikacyjnych albo po stwierdzeniu powtarzalnych błędów w przygotowywanych materiałach.
+- materiałów pilnych,
+- transmisji na żywo,
+- treści lub materiałów pochodzących od podmiotów zewnętrznych,
+- sytuacji, w których pełna dostępność nie może być zapewniona od razu.
 
-Aktualizacja utrzymuje poziom wymagań wynikających z przepisów prawa, WCAG i normy EN 301 549.
+Zastosowanie wyjątku wymaga udokumentowania:
+
+- powodu zastosowania wyjątku,
+- osoby odpowiedzialnej za decyzję i uzupełnienie braków,
+- minimalnego poziomu dostępności zapewnionego w chwili publikacji,
+- terminu uzupełnienia braków,
+- sposobu zapewnienia dostępu alternatywnego lub równoważnej informacji, jeżeli materiał nie może zostać w pełni dostosowany.
+
+W przypadku materiałów pilnych należy zapewnić co najmniej te elementy dostępności, które umożliwiają odbiór podstawowej informacji w chwili publikacji, a brakujące elementy uzupełnić w wyznaczonym terminie.
+
+W przypadku transmisji na żywo należy rozróżnić dostępność w czasie rzeczywistym od dostępności materiału po transmisji. Jeżeli napisy na żywo, tłumaczenie albo inna forma dostępności w czasie rzeczywistym nie mogą zostać zapewnione, podmiot określa minimalny poziom dostępności transmisji oraz termin udostępnienia nagrania, transkrypcji, napisów lub równoważnej informacji po zakończeniu transmisji.
+
+W przypadku treści lub materiałów pochodzących od podmiotów zewnętrznych podmiot publikujący kwalifikuje materiał przed udostępnieniem, sprawdza możliwość zapewnienia wymaganych elementów dostępności i określa, czy materiał może zostać opublikowany, wymaga dostosowania, wymaga alternatywy albo nie powinien zostać udostępniony w danym kanale.
+
+Jeżeli pełna dostępność nie może być zapewniona od razu, publikacja jest dopuszczalna wyłącznie wtedy, gdy brak nie uniemożliwia odbioru kluczowej informacji albo gdy odbiorcom zapewniono dostęp alternatywny lub równoważną informację.
 
 ## Uzasadnienie
 
-Spójne wymagania, standardy i listy kontrolne ograniczają ryzyko przygotowania materiałów niedostępnych oraz zapewniają jednolite kryteria tworzenia treści w różnych kanałach komunikacji.
+Spójne wymagania, standardy i listy kontrolne ograniczają ryzyko przygotowania materiałów niedostępnych oraz zapewniają jednolite kryteria tworzenia treści w różnych kanałach publikacji.
 
-Rozdzielenie standardów od procedury kontroli zapobiega dublowaniu treści. Zalecenie 5 wskazuje, jakie wymagania są stosowane przy tworzeniu materiałów, a Zalecenie 4 określa sposób weryfikacji przed publikacją.
+Rozdzielenie wymagań obowiązkowych, standardów wykonawczych i dobrych praktyk ogranicza uznaniowość decyzji publikacyjnych. Jasny podział odpowiedzialności pozwala traktować dostępność jako element jakości i kompletności materiału, a nie jako działanie dodatkowe wykonywane po publikacji.
 
 ## Podstawy prawne
 
@@ -110,6 +153,7 @@ Standardy:
 
 | Wersja | Data | Etap | Opis zmian |
 |---|---|---|---|
+| 1.4 | 2026-05-23 | Projekt roboczy | Doprecyzowanie decyzji organizacyjnej, ról, modelu operacyjnego, kontroli przed publikacją i procedury sytuacji wyjątkowych; ujednolicenie tytułu i zakresu dokumentu. |
 | 1.3 | 2026-04-30 | Projekt roboczy | Uporządkowanie dokumentu zgodnie ze wzorcem zaleceń, doprecyzowanie celu, rekomendacji, podstaw prawnych i źródeł. |
 | 1.2 | 2026-04-30 | Projekt roboczy | Wydzielenie warstwy kontroli przed publikacją do Zalecenia 4 i pozostawienie w Zaleceniu 5 standardów, wymagań oraz list kontrolnych. |
 | 1.1 | 2026-04-27 | Projekt roboczy | Doprecyzowanie rekomendacji do poziomu działań wdrożeniowych i kryteriów zarządczych. |
