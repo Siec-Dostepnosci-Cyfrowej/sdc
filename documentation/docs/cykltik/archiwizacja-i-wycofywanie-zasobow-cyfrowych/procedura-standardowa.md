@@ -1,14 +1,14 @@
 ---
 id: procedura-standardowa
 title: Procedura standardowa
-description: Standardowa procedura archiwizacji zasobów, wycofywania treści, wycofywania systemów, migracji danych, kwalifikacji zasobów, przekazania do właściwego trybu archiwalnego oraz dokumentowania procesu
-sidebar_label:  Procedura standardowa
+description: Standardowa procedura oceny dostępności cyfrowej, archiwizacji, migracji, wycofywania zasobów i dokumentowania decyzji.
+sidebar_label: Procedura standardowa
 sidebar_position: 3
 keywords: [cykl życia TIK,archiwizacja,zasoby cyfrowe,wycofywanie treści,migracja danych,informacja publiczna,dostępność cyfrowa, procedura standardowa]
 tags: [cykl życia TIK,archiwizacja,zasoby cyfrowe,wycofywanie treści,migracja danych,informacja publiczna,dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 16 maja 2026 r.
+data_aktualizacji: 23 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -23,13 +23,15 @@ Procedura nie zastępuje instrukcji kancelaryjnej, JRWA, instrukcji archiwalnej,
 
 1. Inwentaryzacja zasobu.
 2. Ocena statusu i funkcji zasobu.
-3. Ocena obowiązków prawnych, archiwalnych, dostępnościowych i danych osobowych.
+3. Ocena dostępności cyfrowej, obowiązków prawnych, archiwalnych i danych osobowych.
 4. Decyzja o dalszym postępowaniu.
 5. Archiwizacja, migracja, oznaczenie, wycofanie albo przekazanie.
 6. Dokumentowanie decyzji.
 7. Weryfikacja skutków i aktualizacja rejestru.
 
 Na etapie inwentaryzacji należy ustalić, gdzie zasób się znajduje, kto za niego odpowiada, jakie systemy go przetwarzają i czy istnieją powiązane pliki, metadane, logi, podpisy, załączniki albo informacje o publikacji. Przy wycofaniu systemu należy także uwzględnić integracje, konta, uprawnienia, dokumentację techniczną i możliwość odtworzenia danych po migracji.
+
+Jeżeli zasób pozostaje publicznie dostępny, należy ocenić jego dostępność cyfrową i określić status dostępnościowy. Jeżeli zasób nie spełnia wymagań, należy zdecydować o dostosowaniu, dostępie alternatywnym, oznaczeniu albo wycofaniu z publikacji. Jeżeli zasób jest migrowany, należy sprawdzić, czy nie utracono elementów dostępnościowych.
 
 ## Minimalna dokumentacja decyzji
 
@@ -40,9 +42,10 @@ Dokumentacja decyzji powinna obejmować co najmniej:
 - data decyzji,
 - osoba lub komórka odpowiedzialna,
 - status zasobu,
+- status dostępnościowy zasobu,
 - wybrany sposób postępowania,
 - uzasadnienie,
-- informacja o dostępności albo dalszym udostępnianiu,
+- informacja o dostępności cyfrowej, dostępie alternatywnym albo dalszym udostępnianiu,
 - informacja o danych osobowych, jeżeli dotyczy.
 
 Zakres dokumentacji można rozszerzyć, gdy zasób ma istotne znaczenie dla informacji publicznej, dokumentacji sprawy, ciągłości działania, ochrony danych osobowych albo praw użytkowników.

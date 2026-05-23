@@ -1,20 +1,20 @@
 ---
 id: zasady-kwalifikacji-zasobow
 title: Zasady kwalifikacji zasobów
-description: Kwalifikacja zasobów służy ustalaniu dalszego trybu postępowania z zasobem cyfrowym
+description: Kwalifikacja zasobów służy ustalaniu statusu dostępnościowego i dalszego trybu postępowania z zasobem cyfrowym.
 sidebar_label: Zasady kwalifikacji zasobów
 sidebar_position: 5
 keywords: [cykl życia TIK,archiwizacja,zasoby cyfrowe,wycofywanie treści,migracja danych,informacja publiczna,dostępność cyfrowa, procedura standardowa]
 tags: [cykl życia TIK,archiwizacja,zasoby cyfrowe,wycofywanie treści,migracja danych,informacja publiczna,dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 16 maja 2026 r.
+data_aktualizacji: 23 maja 2026 r.
 wersja_robocza: true
 ---
 
 ## Cel kwalifikacji
 
-Celem kwalifikacji jest ustalenie dalszego trybu postępowania z zasobem cyfrowym. Kwalifikacja pomaga rozstrzygnąć, czy zasób powinien pozostać aktywny, zostać oznaczony jako archiwalny, zostać dostosowany, migrowany, wycofany z publikacji, przekazany do właściwego trybu archiwalnego albo brakowany zgodnie z właściwymi przepisami.
+Celem kwalifikacji jest ustalenie statusu dostępnościowego i dalszego trybu postępowania z zasobem cyfrowym. Kwalifikacja pomaga rozstrzygnąć, czy zasób powinien pozostać aktywny, zostać oznaczony jako archiwalny, zostać dostosowany, migrowany, wycofany z publikacji, przekazany do właściwego trybu archiwalnego albo brakowany zgodnie z właściwymi przepisami.
 
 Kwalifikacja ma charakter organizacyjny i pomocniczy. Nie zastępuje kwalifikacji archiwalnej wynikającej z JRWA i przepisów archiwalnych.
 
@@ -27,12 +27,26 @@ Przy kwalifikacji zasobu należy uwzględnić w szczególności:
 - wartość informacyjna,
 - znaczenie dla sprawy lub dokumentacji,
 - obowiązki archiwalne,
-- dostępność cyfrowa,
+- status dostępnościowy zasobu,
 - dane osobowe,
 - możliwość dalszego udostępnienia,
 - możliwość migracji albo odtworzenia.
 
 Ocena powinna uwzględniać zarówno treść zasobu, jak i jego kontekst: miejsce publikacji, powiązane dokumenty, daty, wersje, właściciela, system źródłowy, metadane i potrzeby użytkowników.
+
+## Status dostępnościowy zasobu
+
+Status dostępnościowy powinien wskazywać, czy i w jaki sposób użytkownik może korzystać z zasobu po archiwizacji, migracji albo wycofaniu z publikacji. Można stosować w szczególności następujące statusy:
+
+- dostępny cyfrowo,
+- wymaga dostosowania,
+- wymaga dostępu alternatywnego,
+- archiwalny dostępny,
+- archiwalny z ograniczeniami,
+- wycofany z publikacji,
+- migrowany z wymaganiem zachowania elementów dostępnościowych.
+
+Status dostępnościowy nie zastępuje kwalifikacji archiwalnej. Pomaga natomiast powiązać decyzję o zasobie z potrzebami użytkowników, wymaganiami dostępności cyfrowej i sposobem dalszego udostępniania.
 
 ## Możliwe decyzje
 

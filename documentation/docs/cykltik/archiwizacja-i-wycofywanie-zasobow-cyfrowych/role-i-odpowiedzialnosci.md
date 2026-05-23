@@ -8,7 +8,7 @@ keywords: [cykl życia TIK,archiwizacja,zasoby cyfrowe,wycofywanie treści,migra
 tags: [cykl życia TIK,archiwizacja,zasoby cyfrowe,wycofywanie treści,migracja danych,informacja publiczna,dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 16 maja 2026 r.
+data_aktualizacji: 23 maja 2026 r.
 wersja_robocza: true
 ---
 

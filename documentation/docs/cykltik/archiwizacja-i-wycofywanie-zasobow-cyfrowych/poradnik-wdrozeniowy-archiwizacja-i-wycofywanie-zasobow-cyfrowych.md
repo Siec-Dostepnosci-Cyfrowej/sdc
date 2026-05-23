@@ -1,6 +1,6 @@
 ---
 id: poradnik-wdrozeniowy-archiwizacja-i-wycofywanie-zasobow-cyfrowych
-title: Poradnik wdrożeniowy — archiwizacja i wycofywanie zasobów cyfrowych
+title: Poradnik wdrożeniowy - archiwizacja i wycofywanie zasobów cyfrowych
 description: Poradnik wspierający wdrażanie zasad zarządzania archiwizacją, migracją i wycofywaniem zasobów cyfrowych oraz systemów teleinformatycznych.
 sidebar_label: Poradnik wdrożeniowy
 sidebar_position: 14
@@ -8,7 +8,7 @@ keywords: [cykl życia TIK,archiwizacja,zasoby cyfrowe,wycofywanie treści,migra
 tags: [cykl życia TIK,archiwizacja,zasoby cyfrowe,wycofywanie treści,migracja danych,informacja publiczna,dostępność cyfrowa]
 opracowanie: Stefan Wajda
 data_zgloszenia: 16 maja 2026 r.
-data_aktualizacji: 16 maja 2026 r.
+data_aktualizacji: 23 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -314,7 +314,7 @@ W praktyce oznacza to między innymi:
 
 ---
 
-## Dostęp alternatywny — praktyczne podejście
+## Dostęp alternatywny - praktyczne podejście
 
 Dostęp alternatywny nie powinien być traktowany jako:
 - „usprawiedliwienie” dla pozostawiania niedostępnych zasobów.
@@ -471,11 +471,11 @@ Do czasu wyjaśnienia sytuacji organizacja powinna zachować stan umożliwiając
 
 Organizacja może rozpocząć od wdrożenia pięciu podstawowych elementów:
 
-- **Odpowiedzialność** — wyznaczenie osoby odpowiedzialnej,
-- **Statusy zasobów** — wprowadzenie prostych statusów,
-- **Dokumentowanie** — stosowanie formularzy i rejestrów,
-- **Archiwizacja** — określenie sposobu przechowywania danych,
-- **Dostępność** — oznaczanie treści archiwalnych i zapewnianie dostępu alternatywnego.
+- **Odpowiedzialność** - wyznaczenie osoby odpowiedzialnej,
+- **Statusy zasobów** - wprowadzenie prostych statusów,
+- **Dokumentowanie** - stosowanie formularzy i rejestrów,
+- **Archiwizacja** - określenie sposobu przechowywania danych,
+- **Dostępność** - oznaczanie treści archiwalnych i zapewnianie dostępu alternatywnego.
 
 ---
 
@@ -499,7 +499,7 @@ Podjęcie i udokumentowanie decyzji.
 Zabezpieczenie danych i archiwizacja.
 
 ### Krok 5
-Poinformowanie użytkowników — jeżeli jest wymagane.
+Poinformowanie użytkowników - jeżeli jest wymagane.
 
 ### Krok 6
 Aktualizacja rejestrów i dokumentacji.
