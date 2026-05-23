@@ -1,8 +1,8 @@
 ---
-id: procedura-zadania-dostepnosci
+id: procedura-obslugi-zadania-zapewnienia-dostepnosci
 title: Procedura obsługi żądania zapewnienia dostępności cyfrowej
 description: Określa szczegółowy tryb realizacji żądań zapewnienia dostępności zgodnie z obowiązującymi przepisami.
-sidebar_label: Wzór informacji o brakach
+sidebar_label: Procedura obsługi żądania dostępności
 sidebar_position: 31
 keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG, wyłączenia ustawowe]
 tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]

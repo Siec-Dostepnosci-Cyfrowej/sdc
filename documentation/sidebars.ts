@@ -27,6 +27,7 @@ const sidebars: SidebarsConfig = {
         },
         items: [
           'komunikacja/tresci-od-innych-podmiotow/tresci-od-innych-podmiotow',
+          'komunikacja/tresci-od-innych-podmiotow/slownik-pojec',
           {
             type: 'category',
             label: 'Modele',
@@ -86,13 +87,14 @@ const sidebars: SidebarsConfig = {
             },
             items: [
               'komunikacja/tresci-od-innych-podmiotow/formularz-przekazania-materialu',
-              'komunikacja/tresci-od-innych-podmiotow/schemat-klasyfikacji-tresci',
-              'komunikacja/tresci-od-innych-podmiotow/lista-kontrolna-przed-publikacja',
-              'komunikacja/tresci-od-innych-podmiotow/wzor-odmowy-publikacji',
-              'komunikacja/tresci-od-innych-podmiotow/wzor-informacji-o-brakach',
-              'komunikacja/tresci-od-innych-podmiotow/oznaczenie-tresci-obowiazkowej',
-              'komunikacja/tresci-od-innych-podmiotow/oznaczenie-tresci-wylaczonej',
+              'komunikacja/tresci-od-innych-podmiotow/schemat-kwalifikacji-tresci-abcd',
+              'komunikacja/tresci-od-innych-podmiotow/lista-kontrolna-weryfikacji-przed-publikacja',
+              'komunikacja/tresci-od-innych-podmiotow/decyzja-o-odmowie-publikacji',
+              'komunikacja/tresci-od-innych-podmiotow/informacja-o-brakach-w-materiale',
+              'komunikacja/tresci-od-innych-podmiotow/oznaczenie-tresci-obowiazkowej-bip',
+              'komunikacja/tresci-od-innych-podmiotow/oznaczenie-tresci-objetej-wylaczeniem',
               'komunikacja/tresci-od-innych-podmiotow/instrukcja-dla-podmiotow-zewnetrznych',
+              'komunikacja/tresci-od-innych-podmiotow/procedura-obslugi-zadania-zapewnienia-dostepnosci',
             ],
           },
           {

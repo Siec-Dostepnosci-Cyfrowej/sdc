@@ -1,5 +1,5 @@
 ---
-id: oznaczenie-tresci-wylaczonej
+id: oznaczenie-tresci-objetej-wylaczeniem
 title: Wzór oznaczenia treści objętej wyłączeniem
 description: Opisuje zasady oznaczania treści objętych wyłączeniami ustawowymi wraz z wymaganym zakresem informacji dla odbiorcy.
 sidebar_label: Wzór oznaczenia treści wyłączonej

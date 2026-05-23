@@ -1,5 +1,5 @@
 ---
-id: lista-kontrolna-przed-publikacja
+id: lista-kontrolna-weryfikacji-przed-publikacja
 title: Lista kontrolna weryfikacji przed publikacją
 description: Zawiera zestaw pytań kontrolnych umożliwiających jednoznaczną ocenę materiału przed podjęciem decyzji o publikacji.
 sidebar_label: Lista kontrolna weryfikacji

@@ -1,5 +1,5 @@
 ﻿---
-id: wzor-odmowy-publikacji
+id: decyzja-o-odmowie-publikacji
 title: Wzór decyzji o odmowie publikacji
 description: Opisuje zasady podejmowania i dokumentowania decyzji o odmowie publikacji materiału wraz z uzasadnieniem wynikającym z niespełnienia wymagań lub przepisów.
 sidebar_label: Wzór decyzji o odmowie

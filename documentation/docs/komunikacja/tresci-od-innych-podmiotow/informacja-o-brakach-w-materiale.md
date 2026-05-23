@@ -1,5 +1,5 @@
 ---
-id: wzor-informacji-o-brakach
+id: informacja-o-brakach-w-materiale
 title: Wzór informacji o brakach w materiale przekazanym do publikacji
 description: Określa sposób informowania o brakach w materiale oraz zasady ich uzupełniania przed podjęciem decyzji publikacyjnej.
 sidebar_label: Wzór informacji o brakach

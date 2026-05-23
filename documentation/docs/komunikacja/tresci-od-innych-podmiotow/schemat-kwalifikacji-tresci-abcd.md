@@ -1,5 +1,5 @@
 ---
-id: schemat-klasyfikacji-tresci
+id: schemat-kwalifikacji-tresci-abcd
 title: Schemat kwalifikacji treści (A/B/C/D)
 description: Prezentuje pomocniczy schemat kwalifikacji materiału przed decyzją publikacyjną.
 sidebar_label: Schemat kwalifikacji

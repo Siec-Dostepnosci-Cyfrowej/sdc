@@ -1,5 +1,5 @@
 ---
-id: oznaczenie-tresci-obowiazkowej
+id: oznaczenie-tresci-obowiazkowej-bip
 title: Wzór oznaczenia treści obowiązkowej (Biuletyn Informacji Publicznej)
 description: Określa sposób oznaczania treści publikowanych obowiązkowo w Biuletynie Informacji Publicznej.
 sidebar_label: Wzór oznaczenia treści obowiązkowej
