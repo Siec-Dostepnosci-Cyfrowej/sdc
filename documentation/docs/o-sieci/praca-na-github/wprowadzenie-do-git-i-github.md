@@ -6,7 +6,7 @@ sidebar_label: Wprowadzenie do Git i GitHub
 sidebar_position: 0 
 
 data_zgloszenia: 18 października 2025 r.
-ostatnia_aktualizacja: 3 maja 2026 r.
+ostatnia_aktualizacja: 25 maja 2026 r.
 opracowanie: Stefan Wajda
 ---
 
@@ -18,6 +18,11 @@ Zrozumiesz, czym są Git i GitHub oraz jak będą wykorzystywane w pracy Sieci.
 
 Git pozwala zapisywać i śledzić zmiany w plikach, a GitHub umożliwia wspólną pracę nad tymi plikami przez Internet.
 
+Git i GitHub to nie jest to samo.
+
+- Git to mechanizm zapisywania i śledzenia zmian w plikach.
+- GitHub to strona internetowa i platforma współpracy wykorzystująca Git.
+
 ## Jak będziemy z tego korzystać
 
 W pracy Sieci GitHub służy do:
@@ -27,6 +32,11 @@ W pracy Sieci GitHub służy do:
 - prezentacji dorobku Sieci na stronie internetowej. 
 
 Nie musisz znać wszystkich funkcji Git i GitHub. Wystarczy, że opanujesz kilka podstawowych działań, opisanych w kolejnych poradnikach.
+
+### Nazwy przycisków i funkcji
+
+Nazwy przycisków i funkcji w GitHub są najczęściej w języku angielskim.  
+W poradnikach podajemy oryginalne nazwy przycisków, ponieważ są one widoczne w interfejsie platformy.
 
 ## Podstawowe pojęcia (tylko niezbędne)
 
@@ -60,7 +70,7 @@ Najczęściej wykonasz jeden z czterech typów działań:
   https://siec-dostepnosci-cyfrowej.github.io/sdc/
 
 - projekty zgłoszone, ale jeszcze niescalone, możesz przeglądać
-  na karcie „Pull requests” w repozytorium
+  na karcie **Pull requests** w repozytorium
 
 - w pierwszym komentarzu do projektu znajdziesz też link do jego podglądu
 
