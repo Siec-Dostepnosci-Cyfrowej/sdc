@@ -28,6 +28,7 @@ Polityka dotyczy wszystkich osób zaangażowanych w:
 - testowanie i ocenę zgodności dokumentów z wymaganiami dostępności.
 
 Zakres polityki obejmuje niezależnie od stosowanego oprogramowania i technologii wszystkie role związane z tworzeniem i publikacją dokumentów cyfrowych.
+
 ---
 
 ## 3. Zasady ogólne

@@ -89,6 +89,7 @@ wersja_robocza: true
    - DOCX, XLSX, PPTX (zachowujące style),  
    - PDF/UA (z oznaczonymi elementami struktury), 
    - HTML (dla treści dynamicznych lub interaktywnych).   
+
 ---
 
 ## § 7. Odpowiedzialność
