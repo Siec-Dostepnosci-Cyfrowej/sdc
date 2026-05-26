@@ -78,7 +78,7 @@ Dla realizacji zalecenia rekomenduje się, aby podmioty publiczne podejmowały n
 ## 5. Uzasadnienie
 
 Dostępność cyfrowa dokumentów biurowych jest niezbędnym elementem równego dostępu obywateli do informacji publicznej oraz efektywnej komunikacji administracji publicznej.  
-Dokumenty takie jak pisma, formularze, raporty, prezentacje czy instrukcje są często jedynym źródłem informacji dla osób z niepełnosprawnościami. Ich prawidłowe przygotowanie, zgodne ze standardami dostępności, umożliwia korzystanie z nich za pomocą technologii wspomagających.
+Dokumenty takie jak pisma, formularze, raporty, prezentacje czy instrukcje są często podstawowym lub jedynym źródłem informacji dla użytkowników. Ich prawidłowe przygotowanie, zgodne ze standardami dostępności, umożliwia korzystanie z nich za pomocą technologii wspomagających.
 
 Zapewnienie dostępności dokumentów:
 - realizuje zobowiązania wynikające z ustaw o dostępności cyfrowej i zapewnianiu dostępności,  

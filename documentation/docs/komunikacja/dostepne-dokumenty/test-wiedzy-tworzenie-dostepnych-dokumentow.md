@@ -162,6 +162,7 @@ D. Opisywanie treści w sposób zrozumiały.
 | < 50% | 2,0 | Niezaliczone |
 
 Organizacja może stosować uproszczoną skalę zaliczeniową (zaliczony / niezaliczony lub poziom podstawowy osiągnięty / do uzupełnienia.
+
 ---
 
 **Opracował:** Zespół ds. Dostępności Cyfrowej  
