@@ -1,6 +1,6 @@
 ---
 id: kalendarz-publikacji
-title: Stworzenie kalendarza publikacji dotyczących dostępności cyfrowej
+title: Kalendarz publikacji dotyczących dostępności cyfrowej
 description: Propozycja stworzenia kalendarza publikacji nt. dostępności cyfrowej
 sidebar_label: Kalendarz publikacji
 sidebar_position: 0 
@@ -79,6 +79,6 @@ Zauważono w Muzeum, gdy instytucja jasno informuje o dostępnych udogodnieniach
 ---
 
 ## Rekomendowane dobre praktyki
-- Stworzenie i implementacja w organizacji "Polityki dostępności cyfrowej", której ww. harmonogram jest elementem
+- Stworzenie i implementacja w organizacji „Polityki dostępności cyfrowej”, której ww. harmonogram jest elementem
 
 ![Kalendarz publikacji - przepływ pracy](/komunikacja/kalendarz-publikacji/kalendarz-publikacji.png)
