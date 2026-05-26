@@ -40,7 +40,7 @@ Wprowadzenie obowiązkowych szkoleń miało dodatkowy walor - zapewnianie jednol
    - Tworzenie dostępnych dokumentów (Word, PDF)
    - Dostępne multimedia (audio, wideo, grafika)
    - Publikacja w mediach społecznościowych
-3. **Przygotowanie materiałów dydaktycznych** – Prezentacje, checklisty, przykłady dobrych i złych praktyk.
+3. **Przygotowanie materiałów dydaktycznych** – Prezentacje, listy kontrolne, przykłady dobrych i złych praktyk.
 4. **Wdrożenie systemu szkoleń** –
    - Szkolenia stacjonarne
    - Obowiązkowe dla nowych pracowników w ciągu pierwszych 3 miesięcy pracy
@@ -72,7 +72,7 @@ Poniższy diagram przedstawia proces wdrożenia systemu obowiązkowych szkoleń 
 ### Kroki procesu
 1. **Analiza potrzeb** – Zidentyfikowanie braków kompetencyjnych i najczęstszych problemów w publikacjach.
 2. **Opracowanie programu szkolenia** – Stworzenie modułów tematycznych (dokumenty, multimedia, social media).
-3. **Przygotowanie materiałów dydaktycznych** – Checklisty, prezentacje, przykłady dobrych praktyk.
+3. **Przygotowanie materiałów dydaktycznych** – Listy kontrolne, prezentacje, przykłady dobrych praktyk.
 4. **Wdrożenie systemu szkoleń** – Organizacja szkoleń.
 5. **Obowiązkowe dla nowych pracowników** – Szkolenie w ciągu pierwszych 3 miesięcy pracy.
 6. **Aktualizacja wiedzy co 2 lata** – Regularne przypomnienia i aktualizacje.
