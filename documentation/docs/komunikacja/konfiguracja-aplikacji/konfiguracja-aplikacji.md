@@ -67,7 +67,7 @@ Wszyscy pracownicy organizacji.
 - Ustalono cykliczne audyty dostępności dokumentów i treści publikowanych w CMS.
 - Zbierane są opinie pracowników i użytkowników w celu dalszego usuwania błędów oraz ulepszania ustawień.
 
-## Checklisty ustawień dostępności dla podstawowych edytorów treści i aplikacji do komunikacji
+## Listy kontrolne ustawień dostępności dla podstawowych edytorów treści i aplikacji do komunikacji
 ::: do weryfikacji lub uzupełnienia :::
 
 ### Word (szablony dokumentów)
