@@ -49,8 +49,7 @@ Efektywność ich wykorzystania zależy od tego, czy:
 
 Organizacja określa potrzebę przed wyborem formy usługi.
 
-Usługa powinna odpowiadać na pytanie:
-**jakie działanie organizacja podejmie na podstawie jej wyniku**.
+Usługa powinna odpowiadać na pytanie: **jakie działanie organizacja podejmie na podstawie jej wyniku**.
 
 ---
 
