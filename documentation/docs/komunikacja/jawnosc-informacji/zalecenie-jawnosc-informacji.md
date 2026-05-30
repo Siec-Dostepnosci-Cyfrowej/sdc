@@ -1,5 +1,5 @@
 ---
-id: organizacja-zapewnia-jawno-informacji-o-podejmowanych-dzia-aniach-w-zakresie-dost-pno-ci-cyfrowej-w-szczeg-lno-ci-poprzez-publikowanie-informacji-o-stanie-dost-pno-ci-i-planowanych-dzia-aniach-naprawczych
+id: jawnosc-informacji-o-stanie-dostepnosci-i-dzialaniach-naprawczych
 title: Organizacja zapewnia jawność informacji o podejmowanych działaniach w zakresie dostępności cyfrowej, w szczególności poprzez publikowanie informacji o stanie dostępności i planowanych działaniach naprawczych.
 description: System zapewniania dostępności cyfrowej gromadzi informacje o stanie dostępności i planowanych działaniach. Informacje te powstają w procesach monitorowania...
 sidebar_label: Organizacja zapewnia jawność informacji o podejmowanych działaniach w zakresie dostępności cyfrowej, w szczególności poprzez publikowanie informacji o stanie dostępności i planowanych działaniach naprawczych.
@@ -9,7 +9,7 @@ wymiar: Komunikacja
 opracowanie: Paulina Wysakowska
 ---
 
-# Zalecenie: Organizacja zapewnia jawność informacji o podejmowanych działaniach w zakresie dostępności cyfrowej, w szczególności poprzez publikowanie informacji o stanie dostępności i planowanych działaniach naprawczych.
+# Zalecenie: Jawność informacji o stanie dostępności i działaniach naprawczych
 
 ## 1. Zalecenie
 Organizacja zapewnia jawność informacji o podejmowanych działaniach w zakresie dostępności cyfrowej, w szczególności poprzez publikowanie informacji o stanie dostępności i planowanych działaniach naprawczych.
