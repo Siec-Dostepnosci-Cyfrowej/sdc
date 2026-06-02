@@ -31,4 +31,4 @@ Pan Stefan Wajda zaprezentował też, powiązany z ww. projektem, pomysł utworz
 
 Następne spotkanie Sieci odbędzie się 20 stycznia 2026.
 
-![Logotypy związane z finansowaniem projektu - Fundusze Europejskie dla Rozwoju Społecznego, flagi Polski i Unii Europejskiej oraz napisy Fundusze Europejskie dla Rozwoju Społecznego, Rzeczpospolita Polska i Dofinansowane przez Unię Europejską](../img/logotyp-fers-sdc.png)
+![Logotypy związane z finansowaniem projektu - Fundusze Europejskie dla Rozwoju Społecznego, flagi Polski i Unii Europejskiej oraz napisy Fundusze Europejskie dla Rozwoju Społecznego, Rzeczpospolita Polska i Dofinansowane przez Unię Europejską](/img/logotyp-fers-sdc.png)
