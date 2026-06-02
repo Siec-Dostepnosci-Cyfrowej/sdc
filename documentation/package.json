@@ -18,6 +18,7 @@
     "write-translations": "docusaurus write-translations"
   },
   "dependencies": {
+    "@barrierenlos/docusaurus-prerender-mermaid": "^1.0.2",
     "@docusaurus/core": "^3.10.1",
     "@docusaurus/preset-classic": "^3.10.1",
     "@grnet/docusaurus-glossary-view": "2.0.0-rc.2",
