@@ -31,3 +31,5 @@ Wszystkie prezentacje wywołały dyskusje, w wyniku których uznano, że przedst
 W drugiej części spotkania pp. Stefan Wajda i Cezary Tomczyk omówili możliwości bieżącej pracy w wymiarach pomiędzy spotkaniami Sieci DC na platformie GitHub.
 
 Następne spotkanie Sieci odbędzie się 18 listopada 2025 r.
+
+![Logotypy związane z finansowaniem projektu - Fundusze Europejskie dla Rozwoju Społecznego, flagi Polski i Unii Europejskiej oraz napisy Fundusze Europejskie dla Rozwoju Społecznego, Rzeczpospolita Polska i Dofinansowane przez Unię Europejską](/img/logotyp-fers-sdc.png)
