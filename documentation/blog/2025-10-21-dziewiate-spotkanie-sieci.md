@@ -6,7 +6,10 @@ tags: [SDC, dostępność cyfrowa, Fundusze Europejskie]
 
 ---
 
+
 Dziewiąte spotkanie Sieci dostępności cyfrowej odbyło się zdalnie 21 października 2025 r.
+
+<!-- truncate -->
 
 Przewodniczący Sieci podsumował krótko poprzednie spotkanie i omówił agendę dziewiątego spotkania. Następnie poprosił o przedstawienie wyników prac w poszczególnych wymiarach dostępności cyfrowej.
 

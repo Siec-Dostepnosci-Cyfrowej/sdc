@@ -7,10 +7,9 @@ tags: [SDC, dostępność cyfrowa, Fundusze Europejskie]
 ---
 
 
+Jedenaste spotkanie Sieci dostępności cyfrowej odbyło się zdalnie 16 grudnia 2025 r.
 
-# 11 spotkanie Sieci dostępności cyfrowej
-
-**Jedenaste spotkanie Sieci dostępności cyfrowej odbyło się zdalnie 16 grudnia 2025 r.**
+<!-- truncate -->
 
 Przewodniczący Sieci podsumował krótko poprzednie spotkanie i przedstawił cztery nowe [osoby, które dołączyły do Sieci](https://www.gov.pl/web/dostepnosc-cyfrowa/sklad-sieci-dostepnosci-cyfrowej): Tomasz Szymczak, Daniel Potrapeluk, Karolina Kowalczyk – Dziergas, Wojciech Polar.
 
