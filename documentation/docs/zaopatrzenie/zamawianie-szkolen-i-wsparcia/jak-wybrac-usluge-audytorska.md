@@ -113,13 +113,13 @@ Przejdź do Kroku 2.
 
 Przykłady:
 
-• e-usługa publiczna,
-• usługa realizowana przy wykorzystaniu aplikacji internetowej,
-• usługa realizowana przy wykorzystaniu aplikacji mobilnej,
-• usługa realizowana przy wykorzystaniu systemu informatycznego,
-• usługa wykorzystująca portal klienta,
-• usługa wykorzystująca formularze elektroniczne,
-• usługa realizowana wielokanałowo z wykorzystaniem komponentów cyfrowych.
+- e-usługa publiczna,
+- usługa realizowana przy wykorzystaniu aplikacji internetowej,
+- usługa realizowana przy wykorzystaniu aplikacji mobilnej,
+- usługa realizowana przy wykorzystaniu systemu informatycznego,
+- usługa wykorzystująca portal klienta,
+- usługa wykorzystująca formularze elektroniczne,
+- usługa realizowana wielokanałowo z wykorzystaniem komponentów cyfrowych.
 
 Przejdź do Kroku 2.
 

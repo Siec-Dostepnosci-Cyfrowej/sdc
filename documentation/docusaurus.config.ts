@@ -68,7 +68,7 @@ const config: Config = {
       {
         // Plugin options...
         contentPaths: ['docs'], // Dirs to scan
-        outputDir: 'static/img/diagrams', // Where to write SVGs
+        outputDir: 'img/diagrams', // Where to write SVGs
         outputFormat: 'svg', // 'svg' or 'png'
         // concurrency: 4, // How many to render at once. Defaults to CPU count
         mmdcArgs: ['-b', 'transparent'], // Extra mmdc args
