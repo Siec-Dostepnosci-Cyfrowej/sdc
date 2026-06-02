@@ -71,7 +71,7 @@ const config: Config = {
         outputDir: 'img/diagrams', // Where to write SVGs
         outputFormat: 'svg', // 'svg' or 'png'
         // concurrency: 4, // How many to render at once. Defaults to CPU count
-        mmdcArgs: ['-b', 'transparent'], // Extra mmdc args
+        mmdcArgs: ['-b', 'transparent', '--puppeteerConfigFile', './puppeteer.config.json'],
         // other options...
       },
     ],		
