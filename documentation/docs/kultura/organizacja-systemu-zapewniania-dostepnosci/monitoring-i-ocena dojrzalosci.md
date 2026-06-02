@@ -246,7 +246,7 @@ Raportowanie:
 
 ## 11. Uwagi końcowe
 
-Dojrzałość organizacji nie jest stanem, który się osiąga, lecz sposobem działania, który organizacja stosuje w praktyce. :contentReference[oaicite:6]{index=6}
+Dojrzałość organizacji nie jest stanem, który się osiąga, lecz sposobem działania, który organizacja stosuje w praktyce.
 
 Monitoring i ocena dojrzałości:
 - umożliwiają zrozumienie sposobu działania organizacji,
