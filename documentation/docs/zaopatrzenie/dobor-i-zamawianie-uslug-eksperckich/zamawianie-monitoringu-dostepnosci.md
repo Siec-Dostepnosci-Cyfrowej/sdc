@@ -230,6 +230,13 @@ Opis przedmiotu zamówienia powinien określać co najmniej:
 - zakres analiz,
 - sposób przekazywania wyników.
 
+W opisie przedmiotu zamówienia warto również określić:
+
+- wymagania dotyczące historii zmian i błędów,
+- wymagania dotyczące wykrywania regresji,
+- wymagania dotyczące monitorowania dokumentów,
+- wymagania dotyczące monitorowania wielu technologii,
+- sposób integracji monitoringu z procesami organizacji.
 ---
 
 # 9. Jakich rezultatów oczekiwać
