@@ -1,4 +1,13 @@
-# Wzór publicznej informacji o stanie dostępności i działaniach naprawczych
+---
+id: wzor-stan-dostepnosci
+title: Wzór publicznej informacji o stanie dostępności i działaniach naprawczych
+sidebar_label: Zarządzanie standardami treści
+sidebar_position: 2
+opracowanie: Paulina Wysakowska
+data_zgloszenia: 30 maja 2026 r.
+ostatnia_aktualizacja: 30 maja 2026 r.
+wersja_robocza: true
+---
 
 > Wzór do dobrowolnego zastosowania, pomyślany jako uzupełnienie deklaracji dostępności o informację o planowanych działaniach naprawczych. Pola w nawiasach kwadratowych wypełnia podmiot.
 
