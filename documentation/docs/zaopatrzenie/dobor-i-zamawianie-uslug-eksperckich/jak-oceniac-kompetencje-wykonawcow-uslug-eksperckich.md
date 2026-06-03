@@ -59,7 +59,8 @@ Wykonawca powinien przedstawić opis doświadczenia obejmujący:
 - charakter realizowanych usług,
 - zakres działań,
 - osiągnięte rezultaty,
-- rolę wykonawcy.
+- rolę wykonawcy,
+- ograniczenia lub trudności napotkane w projekcie.
 
 #### Czego nie należy przeceniać
 
