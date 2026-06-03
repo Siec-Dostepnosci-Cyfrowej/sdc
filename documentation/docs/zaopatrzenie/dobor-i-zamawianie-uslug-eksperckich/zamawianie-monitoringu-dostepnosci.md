@@ -333,6 +333,6 @@ Przed zamówieniem monitoringu sprawdź:
 
 - Czy określono sposób wykorzystania wyników?
 
-□ Czy monitoring został powiązany z działaniami naprawczymi i doskonalącymi?
+- Czy monitoring został powiązany z działaniami naprawczymi i doskonalącymi?
 
 □ Czy monitoring jest elementem systemu zarządzania dostępnością?
