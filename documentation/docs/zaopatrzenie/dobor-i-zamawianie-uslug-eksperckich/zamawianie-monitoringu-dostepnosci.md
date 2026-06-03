@@ -262,6 +262,13 @@ Monitoring nie powinien ograniczać się do listy błędów.
 
 Powinien wspierać podejmowanie decyzji.
 
+Rezultaty monitoringu mogą również obejmować:
+
+- historię wykrytych problemów i ich napraw,
+- informacje o regresjach,
+- ocenę jakości publikowanych treści,
+- wskaźniki dotyczące procesów organizacyjnych,
+- sygnały ostrzegawcze o nagłych zmianach jakości.
 ---
 
 # 10. Najczęstsze błędy
