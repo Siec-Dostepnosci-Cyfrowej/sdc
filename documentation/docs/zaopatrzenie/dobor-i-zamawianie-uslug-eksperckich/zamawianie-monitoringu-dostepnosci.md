@@ -85,6 +85,12 @@ Monitoring może być realizowany:
 - dla wybranych zasobów,
 - dla wybranych procesów.
 
+Monitoring jest szczególnie potrzebny, gdy:
+
+- zmiany wprowadzają różne zespoły lub wykonawcy zewnętrzni,
+- organizacja chce ograniczyć ryzyko regresji po wdrożeniach,
+- organizacja potrzebuje danych do planowania audytów i przeglądów,
+- organizacja chce ograniczyć koszty audytów poprzez bieżące monitorowanie stanu dostępności.
 ---
 
 # 4. Co może być przedmiotem monitoringu
