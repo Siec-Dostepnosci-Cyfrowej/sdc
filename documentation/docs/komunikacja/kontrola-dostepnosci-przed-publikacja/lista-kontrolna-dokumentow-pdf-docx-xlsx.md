@@ -5,7 +5,7 @@ description: Lista kontrolna weryfikacji dostępności dokumentów przed publika
 sidebar_label: Lista kontrolna - dokumenty
 sidebar_position: 25
 keywords: [dostępność cyfrowa, dokumenty, PDF, DOCX, XLSX, lista kontrolna]
-tags: [dokumenty, lista kontrolna, dostępność cyfrowa]
+tags: [dostępność cyfrowa, dokumenty, PDF, DOCX, XLSX, lista kontrolna]
 opracowanie: Bartłomiej Wilk
 wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 23 maja 2026 r.
