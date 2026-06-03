@@ -308,7 +308,7 @@ Przed zamówieniem monitoringu sprawdź:
 
 □ Czy określono oczekiwane informacje zarządcze?
 
-□ Czy określono sposób raportowania?
+- Czy określono sposób raportowania?
 
 □ Czy określono sposób wykorzystania wyników?
 
