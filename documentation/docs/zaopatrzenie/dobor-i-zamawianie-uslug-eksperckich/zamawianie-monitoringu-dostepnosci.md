@@ -335,4 +335,4 @@ Przed zamówieniem monitoringu sprawdź:
 
 - Czy monitoring został powiązany z działaniami naprawczymi i doskonalącymi?
 
-□ Czy monitoring jest elementem systemu zarządzania dostępnością?
+- Czy monitoring jest elementem systemu zarządzania dostępnością?
