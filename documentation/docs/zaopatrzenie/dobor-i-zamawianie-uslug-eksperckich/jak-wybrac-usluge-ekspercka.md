@@ -8,7 +8,7 @@ keywords: [cykl życia TIK, dostępność cyfrowa, deklaracja dostępności, prz
 tags: [cykl życia TIK, dostępność cyfrowa, deklaracja dostępności, przegląd dostępności, przegląd diagnostyczny]
 opracowanie: Stefan Wajda 
 data_zgloszenia: 30 maja 2026 r.
-ostatnia_aktualizacja: 30 maja 2026 r.
+ostatnia_aktualizacja: 2 czerwca 2026 r.
 wersja_robocza: true
 
 ---
@@ -68,7 +68,39 @@ Jeżeli organizacja chce przeanalizować swoją sytuację bardziej szczegółowo
 
 ---
 
-## Krok 1. Określ główny cel
+## Krok 1. Określ rodzaj potrzeby
+
+Przed wyborem usługi warto określić, jaki charakter ma potrzeba organizacji.
+
+### Potrzeby informacyjne
+
+Organizacja potrzebuje:
+
+- pozyskać wiedzę,
+- rozpoznać problemy,
+- zrozumieć przyczyny problemów,
+- uzyskać niezależną ocenę.
+
+### Potrzeby rozwojowe
+
+Organizacja potrzebuje:
+
+- rozwinąć kompetencje pracowników,
+- przygotować osoby pełniące określone role,
+- rozwinąć zdolność do samodzielnego działania.
+
+### Potrzeby wdrożeniowe
+
+Organizacja potrzebuje:
+
+- usprawnić sposób działania,
+- wdrożyć zmiany,
+- przeprowadzić działania przy wsparciu ekspertów.
+
+Po określeniu rodzaju potrzeby należy przejść do kolejnego kroku.
+
+
+## Krok 2. Określ główny cel
 
 Najpierw odpowiedz na pytanie:
 
@@ -88,7 +120,7 @@ Dostępność cyfrowa jest obszarem zarządzania. Usługi eksperckie mają wspie
 
 ---
 
-## Krok 2. Wybierz odpowiednią usługę
+## Krok 3. Wybierz odpowiednią usługę
 
 ### 1. Usługi organizacyjne
 
@@ -162,7 +194,7 @@ Organizacja nie wie:
 | Stała obserwacja sytuacji | Monitoring |
 | Ogólna diagnoza | Przegląd diagnostyczny |
 | Rozpoznanie problemów w dokumentach | Ocena dokumentów elektronicznych |
-| Rozpoznanie problemów w usłudze cyfrowej | Ocena usługi cyfrowej |
+| Rozpoznanie problemów w usłudze publicznej | Ocena dostępności cyfrowej usługi publicznej (w tym jej komponentów cyfrowych) |
 
 #### Typowe sytuacje
 
@@ -279,6 +311,16 @@ Organizacja zna problemy i chce je usunąć.
 
 ## Usługi eksperckie można łączyć
 
+Poszczególne usługi eksperckie nie powinny być traktowane jako rozwiązania uniwersalne ani jako działania wykonywane w oderwaniu od innych działań organizacji.
+
+Największą skuteczność osiąga się wtedy, gdy usługi wspierają kolejne etapy:
+
+- **rozpoznawania problemów**,
+- **analizy przyczyn**,
+- **planowania działań**,
+- **wdrażania zmian**,
+- **oceny rezultatów**.
+
 W praktyce organizacje często korzystają z kilku usług następujących po sobie.
 
 ### Przykładowe ścieżki:
@@ -357,6 +399,35 @@ Audyt zgodności powinien być stosowany przede wszystkim wtedy, gdy istnieją u
 
 ---
 
+### Błąd 7. „Najpierw wybierzmy usługę”
+
+Jednym z najczęstszych błędów jest rozpoczynanie planowania od wyboru usługi.
+
+W praktyce organizacja powinna najpierw określić:
+
+- jaki problem chce rozwiązać,
+- jakiej informacji potrzebuje,
+- jakie działania zamierza podjąć,
+- jaki rezultat chce osiągnąć.
+
+Dopiero na tej podstawie można dobrać odpowiednią usługę.
+
+---
+
+### Błąd 8. „Potrzebujemy wykonawcy”
+
+Usługi eksperckie mogą być realizowane:
+
+- samodzielnie przez organizację,
+- przy wsparciu ekspertów,
+- przez wykonawcę zewnętrznego.
+
+Decyzja o skorzystaniu z wykonawcy nie powinna poprzedzać decyzji o sposobie realizacji zadania.
+
+W wielu przypadkach najbardziej efektywne okazuje się połączenie własnych zasobów organizacji ze wsparciem eksperckim.
+
+---
+
 ## Nie każda potrzeba wymaga audytu
 
 Jednym z najczęstszych błędów jest utożsamianie wszystkich usług eksperckich z audytem dostępności.
@@ -371,6 +442,8 @@ W praktyce organizacje znacznie częściej potrzebują:
 - lub usunąć bariery.
 
 Audyt zgodności jest tylko jedną z wielu usług eksperckich wspierających zapewnianie dostępności cyfrowej.
+
+Audyt zgodności odpowiada przede wszystkim na pytanie, czy rozwiązanie spełnia wymagania dostępności. Jeżeli organizacja potrzebuje przede wszystkim rozpoznać problemy, określić ich skalę lub zrozumieć ich przyczyny, bardziej odpowiednie mogą być inne rodzaje usług.
 
 Wybór właściwej usługi powinien wynikać z celu, jaki organizacja chce osiągnąć, a nie z popularności lub rozpoznawalności danej nazwy usługi.
 

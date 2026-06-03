@@ -8,7 +8,7 @@ keywords: [dostępność cyfrowa,usługi eksperckie,audyt, monitoring,ocena dojr
 tags: [dostępność cyfrowa,usługi eksperckie,audyt, monitoring,ocena dojrzałości,szkolenia,wsparcie kompetencyjne,konsultacje,]
 opracowanie: Stefan Wajda 
 data_zgloszenia: 30 maja 2026 r.
-ostatnia_aktualizacja: 30 maja 2026 r.
+ostatnia_aktualizacja: 2 czerwca 2026 r.
 wersja_robocza: true
 ---
 
@@ -33,6 +33,14 @@ Usługi eksperckie mogą wspierać organizację na różnych etapach działania,
 Dobór usługi powinien wynikać z odpowiedzi na pytanie:
 
 > **Czy organizacja potrzebuje zbudować zdolność działania, rozwinąć kompetencje, rozpoznać problem, zrozumieć jego przyczyny, usunąć go czy potwierdzić zgodność?**
+
+Potrzeby organizacji mają najczęściej charakter:
+
+- **informacyjny** (pozyskanie wiedzy, rozpoznanie problemów, uzyskanie oceny),
+- **rozwojowy** (rozwój kompetencji i zdolności organizacji do działania),
+- **wdrożeniowy** (wdrożenie zmian, usuwanie problemów, doskonalenie sposobu działania).
+
+Poszczególne grupy usług eksperckich odpowiadają na różne rodzaje potrzeb.
 
 ---
 
@@ -69,7 +77,9 @@ Określenie sposobu organizacji działań związanych z dostępnością oraz roz
 - standardy organizacyjne,
 - procedury,
 - modele działania,
-- rekomendacje organizacyjne.
+- rekomendacje organizacyjne,
+- mapy ról i odpowiedzialności,
+- modele zarządzania dostępnością.
 
 **Typowe zastosowania**
 
@@ -79,7 +89,7 @@ Określenie sposobu organizacji działań związanych z dostępnością oraz roz
 
 ---
 
-### 3.2 Mentoring systemowy
+### 3.2 Mentoring wdrożeniowy (Wsparcie wdrażania systemu zarządzania dostępnością)
 
 **Definicja**
 
@@ -192,7 +202,10 @@ Zapewnienie zdolności do samodzielnego wykonywania zadań wymagających uwzglę
 - przygotowanie procedur i instrukcji działania,
 - opracowanie materiałów wspierających realizację zadań,
 - przygotowanie osób wspierających innych pracowników,
-- zwiększenie jakości realizowanych działań.
+- zwiększenie jakości realizowanych działań,
+- przygotowanie programów szkoleń wewnętrznych,
+- przygotowanie trenerów wewnętrznych,
+- przygotowanie materiałów szkoleniowych i ćwiczeń.
 
 #### Typowe formy realizacji
 
@@ -293,6 +306,8 @@ Zapewnienie organizacji zdolności do samodzielnego rozwijania i utrzymywania ko
 
 Bieżące obserwowanie stanu dostępności oraz identyfikowanie zmian i problemów.
 
+Monitoring dostępności może obejmować zarówno obserwację stanu dostępności rozwiązań cyfrowych, jak i gromadzenie informacji o problemach zgłaszanych przez użytkowników oraz wynikach działań naprawczych.
+
 **Cel**
 
 Zapewnienie widoczności problemów oraz informacji o stanie dostępności.
@@ -332,7 +347,7 @@ Przegląd diagnostyczny nie jest oceną zgodności.
 
 **Definicja**
 
-Diagnostyczna ocena dostępności dokumentów elektronicznych.
+Diagnostyczna ocena dostępności dokumentów elektronicznych ukierunkowana na identyfikację problemów oraz ocenę ich wpływu na możliwość korzystania z dokumentów przez użytkowników.
 
 **Cel**
 
@@ -341,7 +356,18 @@ Identyfikacja problemów występujących w dokumentach.
 **Rezultaty**
 
 - identyfikacja barier,
-- rekomendacje działań naprawczych.
+- ocena ich znaczenia,
+- wskazanie typowych problemów,
+- rekomendacje działań naprawczych,
+- rekomendacje dotyczące sposobu tworzenia dokumentów.
+
+**Typowe zastosowania**
+
+- dokumenty publikowane w BIP,
+- formularze elektroniczne,
+- dokumenty urzędowe,
+- dokumentacja projektowa,
+- materiały edukacyjne.
 
 ---
 
@@ -354,6 +380,8 @@ Ocena wpływu komponentów cyfrowych wykorzystywanych w realizacji usługi publi
 Ocena może obejmować strony internetowe, aplikacje mobilne, formularze elektroniczne, dokumenty elektroniczne, portale klienta, aplikacje internetowe, systemy informatyczne oraz inne rozwiązania cyfrowe wykorzystywane podczas realizacji usługi.
 
 Ocena dostępności cyfrowej usługi publicznej nie jest audytem zgodności poszczególnych komponentów cyfrowych ani kompleksową oceną dostępności usługi publicznej. Przedmiotem oceny jest wpływ komponentów cyfrowych na możliwość skutecznego skorzystania z usługi przez użytkownika.
+
+Ocena może być prowadzona zarówno dla całej usługi publicznej, jak i dla wybranych komponentów cyfrowych wykorzystywanych podczas jej realizacji.
 
 **Cel**
 
@@ -404,6 +432,8 @@ Zrozumienie przyczyn problemu.
 **Definicja**
 
 Badania polegające na obserwacji rzeczywistego korzystania z rozwiązania przez użytkowników.
+
+Badania mogą obejmować użytkowników z niepełnosprawnościami, osoby starsze oraz inne grupy użytkowników, dla których dostępność może mieć istotne znaczenie.
 
 **Cel**
 
@@ -496,9 +526,12 @@ Określenie aktualnego stanu zgodności rozwiązania oraz identyfikacja najważn
 
 Ocena zgodności wykonywana przed odbiorem produktu lub usługi cyfrowej. Obejmuje analizę dowodów dostępności przedstawionych przez wykonawcę oraz weryfikację wybranych funkcjonalności i wymagań dostępności.
 
+
 ### Cel
 
 Ocena, czy istnieją wystarczające podstawy do uznania, że rozwiązanie spełnia wymagania dostępności oraz może zostać odebrane przez zamawiającego.
+
+Ocena zgodności przed odbiorem koncentruje się przede wszystkim na ocenie ryzyka odbioru rozwiązania niespełniającego wymagań dostępności.
 
 ### Rezultaty
 
@@ -530,6 +563,8 @@ Kompleksowa ocena zgodności rozwiązania z wymaganiami dostępności przeprowad
 ### Cel
 
 Uzyskanie wiarygodnej, udokumentowanej i możliwej do zweryfikowania oceny zgodności rozwiązania z wymaganiami dostępności.
+
+Audyt zgodności służy ocenie zgodności rozwiązania oraz udokumentowaniu wykrytych niezgodności. Nie jest jego celem identyfikacja wszystkich występujących problemów ani przygotowanie kompletnej listy działań naprawczych.
 
 ### Rezultaty
 
@@ -673,114 +708,10 @@ Poszczególne usługi odpowiadają różnym potrzebom organizacji:
 
 Dobór usługi powinien wynikać z celu, jaki organizacja chce osiągnąć, oraz decyzji, które zamierza podjąć na podstawie wyników tej usługi.
 
+Ta sama potrzeba organizacji może być realizowana:
 
+- samodzielnie przez organizację,
+- przy wsparciu ekspertów,
+- poprzez zlecenie wykonania usługi podmiotowi zewnętrznemu.
 
-
-<!--
-
-## 4. Usługi wsparcia kompetencyjnego
-
-### 4.1 Szkolenia
-
-**Definicja**
-
-Usługa edukacyjna służąca rozwijaniu wiedzy i umiejętności związanych z dostępnością.
-
-**Cel**
-
-Rozwój kwalifikacji uczestników.
-
-**Rezultaty**
-
-- wzrost wiedzy,
-- rozwój umiejętności,
-- zwiększenie świadomości.
-
-**Typowe zastosowania**
-
-- szkolenia stanowiskowe,
-- szkolenia specjalistyczne,
-- szkolenia dla kierownictwa.
-
----
-
-### 4.2 Warsztaty praktyczne
-
-**Definicja**
-
-Forma szkolenia oparta na wykonywaniu rzeczywistych zadań.
-
-**Cel**
-
-Rozwijanie praktycznych umiejętności.
-
-**Rezultaty**
-
-- nabycie umiejętności praktycznych,
-- rozwiązanie rzeczywistych problemów,
-- rozwój dobrych praktyk.
-
-**Typowe zastosowania**
-
-- dokumenty,
-- publikowanie treści,
-- testowanie dostępności.
-
----
-
-### 4.3 Mentoring i coaching
-
-**Definicja**
-
-Indywidualne wsparcie osób realizujących zadania związane z dostępnością.
-
-**Cel**
-
-Rozwój kompetencji w działaniu.
-
-**Rezultaty**
-
-- wzrost samodzielności,
-- rozwój kompetencji specjalistycznych,
-- poprawa jakości realizowanych działań.
-
----
-
-### 4.4 Wsparcie wdrożeniowe w działaniu
-
-**Definicja**
-
-Usługa polegająca na rozwijaniu kompetencji podczas realizacji rzeczywistych zadań organizacji.
-
-**Cel**
-
-Uczenie poprzez praktyczne działanie.
-
-**Rezultaty**
-
-- rozwój kompetencji pracowników,
-- rozwój kompetencji organizacji,
-- utrwalanie skutecznych praktyk.
-
----
-
-### 4.5 Budowa systemu wsparcia kompetencyjnego
-
-**Definicja**
-
-Usługa polegająca na projektowaniu i wdrażaniu rozwiązań wspierających rozwój kompetencji.
-
-**Cel**
-
-Zapewnienie trwałego rozwoju kompetencji w organizacji.
-
-**Rezultaty**
-
-- ścieżki rozwoju,
-- onboarding,
-- system wsparcia,
-- baza wiedzy.
-
----
-
--->
+Dobór usługi nie powinien być utożsamiany z wyborem sposobu realizacji działania.
