@@ -160,6 +160,13 @@ Monitoring powinien dostarczać informacji między innymi o:
 
 Wyniki powinny być przedstawiane w sposób umożliwiający podejmowanie decyzji.
 
+Monitoring powinien również dostarczać:
+
+- historię wykrytych problemów i ich usuwania,
+- informacje o regresjach po wdrożeniach,
+- dane o jakości publikowanych treści,
+- wskaźniki dotyczące czasu reakcji i czasu naprawy,
+- sygnały ostrzegawcze o nagłych pogorszeniach jakości.
 ---
 
 # 6. Jakie metody mogą być wykorzystywane
