@@ -310,7 +310,7 @@ Przed zamówieniem monitoringu sprawdź:
 
 - Czy określono sposób raportowania?
 
-□ Czy określono sposób wykorzystania wyników?
+- Czy określono sposób wykorzystania wyników?
 
 □ Czy monitoring został powiązany z działaniami naprawczymi i doskonalącymi?
 
