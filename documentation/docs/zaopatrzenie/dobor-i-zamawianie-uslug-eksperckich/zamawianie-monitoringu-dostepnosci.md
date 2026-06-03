@@ -282,6 +282,13 @@ Monitoring ma wspierać decyzje i działania.
 
 Zakres monitoringu powinien wynikać z potrzeb organizacji.
 
+Częste błędy to również:
+
+- monitorowanie tylko jednego zasobu zamiast całego ekosystemu,
+- brak powiązania monitoringu z procesem publikacji treści,
+- brak monitorowania dokumentów elektronicznych,
+- brak kontroli nad zmianami wprowadzanymi przez wykonawców,
+- brak historii zmian i problemów.
 ---
 
 # Lista kontrolna
