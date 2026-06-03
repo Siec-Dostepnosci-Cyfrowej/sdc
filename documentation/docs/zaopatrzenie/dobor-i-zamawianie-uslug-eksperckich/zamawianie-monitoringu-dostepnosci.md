@@ -137,6 +137,12 @@ Przykłady:
 - wdrażanie zaleceń,
 - realizacja planów poprawy.
 
+Monitoring może również obejmować:
+
+- zmiany wprowadzane przez wykonawców zewnętrznych,
+- elementy infrastruktury cyfrowej zależne od wielu technologii,
+- zasoby publikowane w różnych systemach (różne CMS-y, różne platformy),
+- dokumenty generowane automatycznie przez systemy.
 ---
 
 # 5. Jakie informacje powinien dostarczać monitoring
