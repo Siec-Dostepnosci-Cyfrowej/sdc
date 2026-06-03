@@ -51,7 +51,7 @@ Przede wszystkim:
 - podobieństwo wcześniejszych usług do zamawianej usługi,
 - doświadczenie w pracy z organizacjami podobnymi do zamawiającego,
 - różnorodność realizowanych projektów.
-
+- powtarzalność rezultatów (czy wykonawca osiąga podobne efekty w różnych projektach).
 #### Co warto wymagać
 
 Wykonawca powinien przedstawić opis doświadczenia obejmujący:
