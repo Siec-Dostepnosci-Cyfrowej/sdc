@@ -306,7 +306,7 @@ Przed zamówieniem monitoringu sprawdź:
 
 - Czy określono monitorowane zasoby lub procesy?
 
-□ Czy określono oczekiwane informacje zarządcze?
+- Czy określono oczekiwane informacje zarządcze?
 
 - Czy określono sposób raportowania?
 
