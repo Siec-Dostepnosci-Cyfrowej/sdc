@@ -59,6 +59,12 @@ Monitoring nie służy wydawaniu formalnej oceny zgodności.
 
 Nie powinien być traktowany jako zamiennik audytu.
 
+Monitoring nie zastępuje:
+
+- analizy przyczyn problemów,
+- oceny procesów organizacyjnych,
+- oceny dokumentów projektowych,
+- testów z użytkownikami.
 ---
 
 # 3. Kiedy warto zamówić monitoring
