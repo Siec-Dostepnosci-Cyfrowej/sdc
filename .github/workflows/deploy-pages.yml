@@ -100,7 +100,7 @@ jobs:
           path: ${{ env.MERMAID_OUTPUT_DIR }}
  
       - name: Commit pre-rendered diagrams
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "chore: pre-render Mermaid diagrams [skip ci]"
           file_pattern: ${{ env.MERMAID_OUTPUT_DIR }}/**
