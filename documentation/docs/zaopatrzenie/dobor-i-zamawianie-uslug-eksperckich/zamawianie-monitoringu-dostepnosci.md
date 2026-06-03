@@ -302,7 +302,7 @@ Częste błędy to również:
 
 Przed zamówieniem monitoringu sprawdź:
 
-□ Czy określono cel monitoringu?
+- Czy określono cel monitoringu?
 
 □ Czy określono monitorowane zasoby lub procesy?
 
