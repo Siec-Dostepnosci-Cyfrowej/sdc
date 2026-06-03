@@ -26,7 +26,7 @@ Monitoring jest narzędziem zarządczym służącym zapewnieniu bieżącej infor
 
 Monitoring dostępności jest procesem systematycznego zbierania i analizowania informacji o stanie dostępności cyfrowej.
 
-Jego celem nie jest formalna ocena zgodności ani przeprowadzanie audytu.
+Nie jest to formalna ocena zgodności ani audyt - monitoring pełni funkcję ciągłego nadzoru, a nie oceny końcowej.
 
 Monitoring ma umożliwiać:
 
