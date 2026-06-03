@@ -1,12 +1,13 @@
 ---
-id: procedura-kontroli-dost-pno-ci-przed-publikacj-tresci
+id: procedura-kontroli-dostepnosci-przed-publikacja-tresci
 title: Procedura kontroli dostępności przed publikacją treści
-description: W wielu organizacjach treści trafiają do publikacji bez formalnego momentu sprawdzenia ich dostępności. Powstałe w ten sposób bariery trafiają do opublikowan...
-sidebar_label: Procedura kontroli dostępności przed publikacją treści
-sidebar_position: 999
-typ: zalecenie
-wymiar: Komunikacja
+description: W wielu organizacjach treści trafiają do publikacji bez formalnego momentu sprawdzenia ich dostępności. Powstałe w ten sposób bariery trafiają do publikacji.
+sidebar_label: Zalecenie
+sidebar_position: 1
 opracowanie: Paulina Wysakowska
+data_zgloszenia: 30 maja 2026 r.
+ostatnia_aktualizacja: 30 maja 2026 r.
+wersja_robocza: true
 ---
 
 # Zalecenie: Procedura kontroli dostępności przed publikacją treści
