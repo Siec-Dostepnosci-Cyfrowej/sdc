@@ -206,6 +206,27 @@ Może obejmować:
 - czas usuwania problemów,
 - realizację działań naprawczych.
 
+## Monitoring ciągły w środowisku użytkownika
+
+Monitoring może obejmować również ciągłą obserwację działania zasobów w rzeczywistych warunkach użytkowania, a nie tylko w środowisku testowym.
+
+Tego typu monitoring pozwala:
+
+- wykrywać problemy pojawiające się podczas faktycznego korzystania z zasobów,
+- identyfikować błędy zależne od interakcji użytkownika,
+- analizować zachowanie zasobów w różnych konfiguracjach technicznych,
+- wykrywać regresje po wdrożeniach,
+- monitorować elementy dynamiczne,
+- obserwować wpływ zmian treści i komponentów na dostępność w czasie rzeczywistym.
+
+Monitoring ciągły w środowisku użytkownika jest szczególnie istotny w przypadku:
+
+- usług cyfrowych o wysokiej dynamice treści,
+- systemów złożonych z wielu komponentów,
+- zasobów aktualizowanych przez wielu redaktorów,
+- usług, które są intensywnie wykorzystywane przez mieszkańców lub klientów,
+- środowisk, w których zmiany są wprowadzane często i przez różne zespoły.
+
 ---
 
 # 7. Jak wykorzystywać wyniki monitoringu
