@@ -79,7 +79,8 @@ Przykładowo wykonawca może wskazać:
 - nazwy organizacji,
 - nazwy projektów,
 - opublikowane raporty,
-- publicznie dostępne rezultaty działań.
+- publicznie dostępne rezultaty działań,
+- możliwość kontaktu z klientem referencyjnym.
 
 #### Dlaczego jest to ważne
 
