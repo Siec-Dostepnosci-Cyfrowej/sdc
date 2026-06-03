@@ -1,15 +1,15 @@
 ---
 id: jawnosc-informacji-o-stanie-dostepnosci-i-dzialaniach-naprawczych
-title: Organizacja zapewnia jawność informacji o podejmowanych działaniach w zakresie dostępności cyfrowej, w szczególności poprzez publikowanie informacji o stanie dostępności i planowanych działaniach naprawczych.
+title: Jawność informacji o stanie dostępności i działaniach naprawczych
 description: System zapewniania dostępności cyfrowej gromadzi informacje o stanie dostępności i planowanych działaniach. Informacje te powstają w procesach monitorowania...
-sidebar_label: Organizacja zapewnia jawność informacji o podejmowanych działaniach w zakresie dostępności cyfrowej, w szczególności poprzez publikowanie informacji o stanie dostępności i planowanych działaniach naprawczych.
-sidebar_position: 999
-typ: zalecenie
-wymiar: Komunikacja
+sidebar_label: Zalecenie
+sidebar_position: 1
 opracowanie: Paulina Wysakowska
+data_zgloszenia: 30 maja 2026 r.
+ostatnia_aktualizacja: 30 maja 2026 r.
+wersja_robocza: true
 ---
 
-# Zalecenie: Jawność informacji o stanie dostępności i działaniach naprawczych
 
 ## 1. Zalecenie
 Organizacja zapewnia jawność informacji o podejmowanych działaniach w zakresie dostępności cyfrowej, w szczególności poprzez publikowanie informacji o stanie dostępności i planowanych działaniach naprawczych.
