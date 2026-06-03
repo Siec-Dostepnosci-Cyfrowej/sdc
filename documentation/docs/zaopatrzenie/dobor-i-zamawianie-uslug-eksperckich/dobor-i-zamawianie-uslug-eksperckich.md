@@ -24,7 +24,7 @@ Zalecenie pomaga organizacjom:
 - decydować, które działania realizować samodzielnie, a które przy wsparciu ekspertów lub wykonawców zewnętrznych,
 - skutecznie wykorzystywać usługi eksperckie wspierające realizację działań związanych z dostępnością cyfrową.
 
-Zalecenie ma ograniczyć sytuacje, w których organizacje zamawiają usługi nieadekwatne do problemu, który próbują rozwiązać, lub traktują pojedyncze usługi (np. audyt lub szkolenie) jako uniwersalne rozwiązanie problemów dostępności.
+Zalecenie ogranicza sytuacje, w których organizacje zamawiają usługi nieadekwatne do problemu, który próbują rozwiązać, lub traktują pojedyncze usługi (np. audyt, szkolenie) jako rozwiązanie uniwersalne.
 
 ---
 
