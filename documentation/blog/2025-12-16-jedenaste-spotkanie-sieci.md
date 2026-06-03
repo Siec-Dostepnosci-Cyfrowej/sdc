@@ -1,6 +1,6 @@
 ---
 slug: 2025-12-16-jedenaste-spotkanie-sieci
-title: Jedenaste spotkanie Sieci dostępności cyfrowej
+title: Jedenaste spotkanie Sieci Dostępności Cyfrowej
 authors: mwenek
 tags: [SDC, dostępność cyfrowa, Fundusze Europejskie]
 

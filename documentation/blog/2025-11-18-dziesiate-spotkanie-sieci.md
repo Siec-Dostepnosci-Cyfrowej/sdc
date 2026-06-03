@@ -1,6 +1,6 @@
 ---
 slug: 2025-11-18-dziesiate-spotkanie-sieci
-title: Dzisiąte spotkanie Sieci dostępności cyfrowej
+title: Dziesiąte spotkanie Sieci Dostępności Cyfrowej
 authors: mwenek
 tags: [SDC, dostępność cyfrowa, Fundusze Europejskie]
 
