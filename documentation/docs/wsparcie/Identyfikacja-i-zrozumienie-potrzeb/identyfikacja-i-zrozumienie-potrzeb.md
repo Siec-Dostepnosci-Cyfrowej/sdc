@@ -12,9 +12,9 @@ Organizacje zapewniają warunki, w których koordynator dostępności na bieżą
 
 ## 2. Rekomendacje
 - W celu optymalnej realizacji zalecenia koordynator identyfikuje i rozumie następujące grupy potrzeb:
-- Zrozumienie potrzeb osób niewidomych (wykorzystanie czytników ekranu;
-- słabowidzących (zapewnienie odpowiedniego kontrastu, możliwość skalowania tekstu). Aspekt ten w dużej mierze dotyczy również seniorów z naturalnie pogarszającym się wzrokiem.
-- Niesłyszących i słabosłyszących - zapewnienie alternatyw multimedialnych, takich jak transkrypcje tekstowe napisy. rozszerzone, Koordynator musi mieć świadomość, że napisy oraz prosty język są kluczowe nie tylko dla osób głuchych, ale stanowią też ogromne ułatwienie dla obcokrajowców słabiej znających język polski.
+  - Zrozumienie potrzeb osób niewidomych (wykorzystanie czytników ekranu;
+  - słabowidzących (zapewnienie odpowiedniego kontrastu, możliwość skalowania tekstu). Aspekt ten w dużej mierze dotyczy również seniorów z naturalnie pogarszającym się wzrokiem.
+  - Niesłyszących i słabosłyszących - zapewnienie alternatyw multimedialnych, takich jak transkrypcje tekstowe napisy. rozszerzone, Koordynator musi mieć świadomość, że napisy oraz prosty język są kluczowe nie tylko dla osób głuchych, ale stanowią też ogromne ułatwienie dla obcokrajowców słabiej znających język polski.
 - Przeciwdziałanie barierom motorycznym: Dbałość o pełną dostępność i funkcjonalność serwisu za pomocą samej klawiatury oraz zapewnienie odpowiednio dużych pól klikalnych (targetów). Rozwiązanie to jest niezbędne dla osób z niepełnosprawnością ruchową, jak również dla starszych użytkowników z obniżoną precyzją manualną.
 - Wspieranie potrzeb poznawczych i językowych: Aktywne promowanie zasad prostego języka (Plain Language) oraz intuicyjnej, powtarzalnej nawigacji. Pomaga to osobom w spektrum autyzmu, seniorom (ułatwia zapamiętywanie i orientację w strukturze strony) oraz obcokrajowcom pokonującym barierę lingwistyczną i kulturową.
 - Empatia i rzecznictwo: Koordynator występuje w strukturach organizacji jako rzecznik zmian. Jego zadaniem jest tłumaczenie programistom, projektantom oraz decydentom ludzkiego wymiaru napotykanych barier. Musi wykazywać zrozumienie, że brak dostępności cyfrowej wywołuje realną frustrację i skutkuje wykluczeniem konkretnego człowieka z dostępu do usługi publicznej.
