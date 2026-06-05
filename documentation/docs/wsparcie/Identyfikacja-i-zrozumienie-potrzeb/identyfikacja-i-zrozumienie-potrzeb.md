@@ -11,7 +11,7 @@ opracowanie: Mateusz Ciborowski
 Organizacje zapewniają warunki, w których koordynator dostępności na bieżąco identyfikuje, rozumie i promuje rozwiązania odpowiadające na autentyczne potrzeby zróżnicowanych grup użytkowników.
 
 ## 2. Rekomendacje
-- W celu optymalnej realizacji zalecenia koordynator identyfikuje i rozumie następujące grupy potrzeb:
+W celu optymalnej realizacji zalecenia koordynator identyfikuje i rozumie następujące grupy potrzeb:
   - Zrozumienie potrzeb osób niewidomych (wykorzystanie czytników ekranu;
   - słabowidzących (zapewnienie odpowiedniego kontrastu, możliwość skalowania tekstu). Aspekt ten w dużej mierze dotyczy również seniorów z naturalnie pogarszającym się wzrokiem.
   - Niesłyszących i słabosłyszących - zapewnienie alternatyw multimedialnych, takich jak transkrypcje tekstowe napisy. rozszerzone, Koordynator musi mieć świadomość, że napisy oraz prosty język są kluczowe nie tylko dla osób głuchych, ale stanowią też ogromne ułatwienie dla obcokrajowców słabiej znających język polski.
