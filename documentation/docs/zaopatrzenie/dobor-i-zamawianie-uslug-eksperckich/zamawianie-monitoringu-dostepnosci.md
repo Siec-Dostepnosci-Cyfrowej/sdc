@@ -323,6 +323,16 @@ Częste błędy to również:
 
 Przed zamówieniem monitoringu sprawdź:
 
+- Czy monitoring obejmuje dokumenty elektroniczne?
+- Czy monitoring obejmuje wiele zasobów i technologii?
+- Czy monitoring wspiera proces publikacji treści?
+- Czy monitoring umożliwia wykrywanie regresji?
+- Czy monitoring jest elementem systemu zarządzania dostępnością?
+- Czy monitoring obejmuje obserwację zasobów w rzeczywistym środowisku użytkowników?
+- Czy monitoring umożliwia wykrywanie problemów zależnych od interakcji użytkownika?
+- Czy monitoring pozwala wykrywać regresje po wdrożeniach i aktualizacjach?
+- Czy monitoring obejmuje elementy dynamiczne?
+
 - Czy określono cel monitoringu?
 
 - Czy określono monitorowane zasoby lub procesy?
