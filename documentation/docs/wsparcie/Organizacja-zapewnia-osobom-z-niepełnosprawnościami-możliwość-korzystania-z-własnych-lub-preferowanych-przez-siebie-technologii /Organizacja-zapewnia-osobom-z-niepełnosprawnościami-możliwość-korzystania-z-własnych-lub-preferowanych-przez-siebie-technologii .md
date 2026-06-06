@@ -1,14 +1,13 @@
 ---
-id: organizacja-zapewnia-osobom-z-niepe-nosprawno-ciami-mo-liwo-korzystania-z-w-asnych-lub-preferowanych-przez-siebie-technologii-wspomagaj-cych-podczas-osobistego-za-atwiania-spraw-urz-dowych-w-siedzibie-organizacji
-title: Organizacja zapewnia osobom z niepełnosprawnościami możliwość korzystania z własnych lub preferowanych przez siebie technologii wspomagających podczas osobistego załatwiania spraw urzędowych w siedzibie organizacji.
+id: korzystanie-z-wlasnych-technologii-wspomagajacych
+title: Korzystanie z własnych technologii wspomagających
 description: Zapewnienie możliwości korzystania z własnych technologii wspomagających promuje autonomię osób z niepełnosprawnościami, zwiększa efektywność załatwiania spr...
 sidebar_label: Organizacja zapewnia osobom z niepełnosprawnościami możliwość korzystania z własnych lub preferowanych przez siebie technologii wspomagających podczas osobistego załatwiania spraw urzędowych w siedzibie organizacji.
 sidebar_position: 1
-wymiar: Wsparcie
 opracowanie: Mateusz Ciborowski
+data_zgloszenia: 6 czerwca 2026 r.
+ostatnia_aktualizacja: 6 czerwca 2026 r.
 ---
-
-# Zalecenie: Organizacja zapewnia osobom z niepełnosprawnościami możliwość korzystania z własnych lub preferowanych przez siebie technologii wspomagających podczas osobistego załatwiania spraw urzędowych w siedzibie organizacji.
 
 ## 1. Zalecenie
 Organizacja zapewnia osobom z niepełnosprawnościami możliwość korzystania z własnych lub preferowanych przez siebie technologii wspomagających podczas osobistego załatwiania spraw urzędowych w siedzibie organizacji.
