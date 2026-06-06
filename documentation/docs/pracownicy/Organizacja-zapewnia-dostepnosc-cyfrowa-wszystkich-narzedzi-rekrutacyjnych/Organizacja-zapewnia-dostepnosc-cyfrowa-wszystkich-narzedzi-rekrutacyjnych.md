@@ -1,17 +1,17 @@
 ---
-id: organizacja-zapewnia-dost-pno-cyfrow-wszystkich-narz-dzi-rekrutacyjnych-tablice-og-osze-o-pracy-obszary-w-serwisach-internetowych-aplikacje-mobilne-itp-i-zgodno-z-ustaw-o-dost-pno-ci-cyfrowej-stron-internetowych-i-aplikacji-mobilnych-podmiot-w-publicznych-lub-z-rozdzia-ami-9-11-normy-pn-etsi-en-301-549
-title: Organizacja zapewnia dostępność cyfrową wszystkich narzędzi rekrutacyjnych (tablice ogłoszeń o pracy, obszary w serwisach internetowych, aplikacje mobilne itp.) i zgodność z ustawą o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych lub z rozdziałami 9-11 normy PN-ETSI EN 301 549.
+id: dostepnos-cyfrowa-narzedzi-rekrutacyjnych
+title: Dostępność cyfrowa narzędzi rekrutacyjnych
 description: Zapewnienie pełnej dostępności cyfrowej procesów i narzędzi rekrutacyjnych gwarantuje równe traktowanie wszystkich kandydatów na etapie naboru, eliminując ry...
-sidebar_label: Organizacja zapewnia dostępność cyfrową wszystkich narzędzi rekrutacyjnych (tablice ogłoszeń o pracy, obszary w serwisach internetowych, aplikacje mobilne itp.) i zgodność z ustawą o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych lub z rozdziałami 9-11 normy PN-ETSI EN 301 549.
+sidebar_label: Dostępność cyfrowa narzędzi rekrutacyjnych
 sidebar_position: 1
-wymiar: Pracownicy
 opracowanie: Mateusz Ciborowski
+data_zgloszenia: 6 czerwca 2026 r.
+ostatnia_aktualizacja: 6 czerwca 2026 r.
+wersja_robocza: true
 ---
 
-# Zalecenie: Organizacja zapewnia dostępność cyfrową wszystkich narzędzi rekrutacyjnych (tablice ogłoszeń o pracy, obszary w serwisach internetowych, aplikacje mobilne itp.) i zgodność z ustawą o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych lub z rozdziałami 9-11 normy PN-ETSI EN 301 549.
-
 ## 1. Zalecenie
-Organizacja zapewnia dostępność cyfrową wszystkich narzędzi rekrutacyjnych.
+Organizacja zapewnia dostępność cyfrową wszystkich narzędzi rekrutacyjnych (tablice ogłoszeń o pracy, obszary w serwisach internetowych, aplikacje mobilne itp.) i zgodność z ustawą o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych lub z rozdziałami 9-11 normy PN-ETSI EN 301 549.
 
 ## 2. Rekomendacje
 - Wszystkie strony internetowe, zakładki typu „Kariera” oraz wewnętrzne elektroniczne tablice ogłoszeń, na których publikowane są oferty pracy, w pełni spełniają wytyczne WCAG.
