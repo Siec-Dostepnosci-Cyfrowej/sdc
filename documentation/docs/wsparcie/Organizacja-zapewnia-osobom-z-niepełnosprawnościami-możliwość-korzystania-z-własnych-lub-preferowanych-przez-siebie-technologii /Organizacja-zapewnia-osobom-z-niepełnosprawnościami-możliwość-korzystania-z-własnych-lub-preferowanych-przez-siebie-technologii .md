@@ -2,11 +2,12 @@
 id: korzystanie-z-wlasnych-technologii-wspomagajacych
 title: Korzystanie z własnych technologii wspomagających
 description: Zapewnienie możliwości korzystania z własnych technologii wspomagających promuje autonomię osób z niepełnosprawnościami, zwiększa efektywność załatwiania spr...
-sidebar_label: Organizacja zapewnia osobom z niepełnosprawnościami możliwość korzystania z własnych lub preferowanych przez siebie technologii wspomagających podczas osobistego załatwiania spraw urzędowych w siedzibie organizacji.
+sidebar_label: Korzystanie z własnych technologii wspomagających
 sidebar_position: 1
 opracowanie: Mateusz Ciborowski
 data_zgloszenia: 6 czerwca 2026 r.
 ostatnia_aktualizacja: 6 czerwca 2026 r.
+wersja_robocza: true
 ---
 
 ## 1. Zalecenie
