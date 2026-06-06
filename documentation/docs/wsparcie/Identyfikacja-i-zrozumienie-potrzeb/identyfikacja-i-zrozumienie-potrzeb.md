@@ -2,9 +2,12 @@
 id: identyfikacja-i-zrozumienie-potrzeb
 title: Identyfikacja i zrozumienie specjalnych potrzeb w zakresie dostępności cyfrowej
 description: Skuteczne zarządzanie dostępnością wymaga wyjścia poza suchą teorię standardów WCAG. Koordynator musi rozumieć, dlaczego dany element stanowi barierę i kogo...
-sidebar_label: Identyfikacja i zrozumienie specjalnych potrzeb w zakresie dostępności cyfrowej
+sidebar_label: Identyfikacja i zrozumienie potrzeb
 sidebar_position: 1
 opracowanie: Mateusz Ciborowski
+data_zgloszenia: 5 czerwca 2026 r.
+ostatnia_aktualizacja: 6 czerwca 2026 r.
+wersja_robocza: true
 ---
  
 ## 1. Zalecenie
