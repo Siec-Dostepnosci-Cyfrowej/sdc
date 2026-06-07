@@ -2,6 +2,7 @@
   "label": "Zarządzanie kompetencjami",
   "position": 0,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+	"description": "W wielu organizacjach dostępność cyfrowa jest traktowana jako efekt szkoleń lub indywidualnej wiedzy pracowników. Prowadzi to do sytuacji, w której jakość działań zależy od pojedynczych osób, a zdobywane doświadczenia nie są utrwalane i wykorzystywane przez organizację. Zestaw dokumentów pomaga budować zdolność organizacji do skutecznego, powtarzalnego i trwałego zapewniania dostępności cyfrowej poprzez rozwijanie kwalifikacji pracowników, organizację wsparcia kompetencyjnego, wdrażanie nowych osób, wykorzystanie doświadczeń w doskonaleniu sposobów działania oraz rozwijanie kompetencji organizacyjnych. Wspiera organizacje w przejściu od działań incydentalnych i szkoleniowych do systemowego podejścia, w którym dostępność staje się naturalnym elementem codziennej pracy, procesów i kultury organizacyjnej."
   }
 }
