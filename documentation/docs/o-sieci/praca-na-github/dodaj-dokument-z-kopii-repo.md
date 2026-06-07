@@ -6,7 +6,7 @@ sidebar_position: 3
 sidebar_label: Dodaj dokument na GitHubie
 
 data_zgloszenia: 18 października 2025 r.
-ostatnia_aktualizacja: 3 maja 2026 r.
+ostatnia_aktualizacja: 25 maja 2026 r.
 opracowanie: Stefan Wajda
 ---
 
@@ -63,7 +63,8 @@ Przed dodaniem dokumentu sprawdź, czy Twoja kopia repozytorium jest aktualna.
 2. Otwórz go.
 3. Jeśli pojawi się przycisk **Update branch**, wybierz go.
 
-Jeśli GitHub pokazuje informację, że gałąź jest aktualna, przejdź dalej.
+Jeśli od ostatniej pracy ktoś zmienił główne repozytorium Sieci, zsynchronizuj swoją kopię przed rozpoczęciem pracy.
+Jeśli GitHub pokazuje informację, że gałąź jest aktualna, nie musisz wykonywać synchronizacji.
 
 ## 3. Utwórz nową gałąź
 
@@ -178,10 +179,10 @@ Celem zalecenia jest...
 
 Na GitHubie zapisanie zmiany nazywa się **commit**.
 
-1. Wybierz przycisk **Commit changes**.
+1. Wybierz przycisk zapisania zmian („Commit changes” lub podobny).
 2. W oknie zapisu możesz zostawić domyślny tytuł.
 3. Upewnij się, że wybrana jest opcja zapisu do Twojej nowej gałęzi.
-4. Wybierz przycisk **Commit changes**.
+4. Potwierdź zapisanie zmian.
 
 ## 8. Utwórz pull request
 

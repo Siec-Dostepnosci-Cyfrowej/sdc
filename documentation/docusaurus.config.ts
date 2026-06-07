@@ -2,6 +2,8 @@ import 'dotenv/config';
 import type * as Preset from '@docusaurus/preset-classic';
 import type { Config } from '@docusaurus/types';
 import { themes as prismThemes } from 'prism-react-renderer';
+// 1. Import the remark plugin
+import remarkMermaidStatic from '@barrierenlos/docusaurus-prerender-mermaid/remark';
 import path from 'path'; // ← wymagane do pluginu aliasów
 
 // ==============================
@@ -33,6 +35,17 @@ const config: Config = {
         defaultLocale: 'pl',
         locales: ['pl'],
     },
+	
+	 themeConfig: {
+    // ...
+    // The plugin reads this config automatically!
+    mermaid: {
+      theme: { light: 'neutral', dark: 'dark' },
+      options: {
+        fontFamily: 'Arial, sans-serif',
+      },
+    },
+  },
 
     // =====================================
     //  PLUGINS
@@ -49,6 +62,20 @@ const config: Config = {
 
         // --- DODANY PLUGIN ALIASÓW @ ---
         path.resolve(__dirname, 'plugins/alias-plugin'),
+		
+       [
+      '@barrierenlos/docusaurus-prerender-mermaid',
+      {
+        // Plugin options...
+        contentPaths: ['docs'], // Dirs to scan
+        outputDir: 'img/diagrams', // Where to write SVGs
+        outputFormat: 'svg', // 'svg' or 'png'
+        // concurrency: 4, // How many to render at once. Defaults to CPU count
+        mmdcArgs: ['-b', 'transparent', '--puppeteerConfigFile', './puppeteer.config.json'],
+        // other options...
+      },
+    ],		
+		
     ],
 
     // =====================================
@@ -62,6 +89,7 @@ const config: Config = {
                     sidebarPath: './sidebars.ts',
                     editUrl:
                         'https://github.com/Siec-Dostepnosci-Cyfrowej/sdc/edit/main/documentation/',
+					 beforeDefaultRemarkPlugins: [remarkMermaidStatic],	
                 },
                 blog: {
                     showReadingTime: true,

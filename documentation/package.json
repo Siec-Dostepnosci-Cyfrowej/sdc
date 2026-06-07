@@ -18,8 +18,9 @@
     "write-translations": "docusaurus write-translations"
   },
   "dependencies": {
-    "@docusaurus/core": "3.10.1",
-    "@docusaurus/preset-classic": "3.10.1",
+    "@barrierenlos/docusaurus-prerender-mermaid": "^1.0.2",
+    "@docusaurus/core": "^3.10.1",
+    "@docusaurus/preset-classic": "^3.10.1",
     "@grnet/docusaurus-glossary-view": "2.0.0-rc.2",
     "@grnet/docusaurus-term-preview": "2.0.0-rc.2",
     "@grnet/docusaurus-terminology": "2.0.0-rc.2",
@@ -29,7 +30,7 @@
     "clsx": "2.1.1",
     "dotenv": "^17.4.2",
     "jszip": "^3.10.1",
-    "lucide-react": "^1.16.0",
+    "lucide-react": "^1.17.0",
     "mammoth": "^1.12.0",
     "prism-react-renderer": "2.4.1",
     "react": "^18.2.0",
@@ -37,9 +38,9 @@
     "tailwind-merge": "^3.6.0"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "3.10.1",
-    "@docusaurus/tsconfig": "3.10.1",
-    "@docusaurus/types": "3.10.1",
+    "@docusaurus/module-type-aliases": "^3.10.1",
+    "@docusaurus/tsconfig": "^3.10.1",
+    "@docusaurus/types": "^3.10.1",
     "@tailwindcss/postcss": "^4.3.0",
     "@types/imagemin": "9.0.1",
     "@types/imagemin-mozjpeg": "8.0.4",
@@ -50,7 +51,7 @@
     "imagemin-pngquant": "10.0.0",
     "markdownlint": "0.40.0",
     "markdownlint-cli": "0.48.0",
-    "postcss": "^8.5.14",
+    "postcss": "^8.5.15",
     "shadcn-ui": "^0.9.5",
     "svgo": "4.0.1",
     "tailwindcss": "^3.4.14",

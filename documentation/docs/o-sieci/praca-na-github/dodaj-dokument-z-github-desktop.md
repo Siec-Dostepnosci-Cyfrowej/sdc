@@ -5,7 +5,7 @@ description: Jak dodać nowy dokument z użyciem GitHub Desktop i zgłosić go d
 sidebar_label: Dodaj dokument z GitHub Desktop
 sidebar_position: 10
 data_zgloszenia: 18 października 2025 r.
-ostatnia_aktualizacja: 3 maja 2026 r.
+ostatnia_aktualizacja: 25 maja 2026 r.
 opracowanie: Stefan Wajda
 ---
 
@@ -154,7 +154,8 @@ Wybierz przycisk: **Commit to [nazwa gałęzi]**
 
 ## 8. Opublikuj gałąź
 
-Po zapisaniu zmiany wybierz: **Publish branch**
+Po zapisaniu zmiany wybierz przycisk publikacji gałęzi (**Publish branch** lub podobny). 
+Nazwa przycisku może różnić się zależnie od języka systemu i wersji programu.
 
 Dzięki temu Twoja gałąź zostanie wysłana na GitHub.
 

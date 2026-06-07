@@ -6,7 +6,7 @@ sidebar_label: Utwórz kopię repozytorium
 sidebar_position: 2
 
 opracowanie: Stefan Wajda
-data_zgloszenia: 3 maja 2026 r.
+data_zgloszenia: 25 maja 2026 r.
 data_aktualizacji: 3 maja 2026 r.
 ---
 
@@ -31,8 +31,8 @@ Taka kopia nazywa się **fork**.
 ### 2. Utwórz kopię repozytorium
 
 1. Znajdź przycisk **Fork**.
-   - znajduje się w górnej części strony repozytorium,
-   - jest jednym z głównych przycisków na stronie.
+   - jest to jeden z głównych przycisków na stronie repozytorium,
+   - może działać jako przycisk rozwijany.   
 
 2. Wybierz przycisk **Fork**.
 
