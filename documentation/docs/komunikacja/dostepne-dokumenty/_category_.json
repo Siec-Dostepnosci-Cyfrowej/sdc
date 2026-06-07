@@ -1,7 +1,8 @@
 {
   "label": "Dostępne dokumenty",
-  "position": 1,
+  "position": 4,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "W wielu organizacjach problemy z dostępnością dokumentów cyfrowych nie wynikają z pojedynczych błędów technicznych, lecz z braku spójnych zasad działania, odpowiedzialności, standardów, narzędzi oraz wsparcia dla osób przygotowujących dokumenty. Skutkiem są dokumenty niedostępne, trudne do aktualizacji, wymagające kosztownych działań naprawczych i utrudniające dostęp do informacji publicznej. Zalecenie wraz z załącznikami pomaga organizacji zbudować system zapewniania dostępności dokumentów cyfrowych obejmujący zasady działania, role i odpowiedzialność, procedury, standardy dokumentów, wsparcie kompetencyjne oraz monitorowanie jakości. Dzięki temu dostępność staje się elementem codziennej pracy, a nie jednorazowym działaniem naprawczym, co pozwala utrzymywać dokumenty w dostępnej postaci przez cały okres ich wykorzystania."
   }
 }
