@@ -2,6 +2,7 @@
   "label": "Prosty język i ETR",
   "position": 4,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+	"description": "Zalecenie pomaga rozwiązać problem niezrozumiałości informacji i usług cyfrowych publikowanych przez podmioty publiczne. W wielu organizacjach treści są przygotowywane językiem specjalistycznym, urzędowym lub zbyt złożonym dla części odbiorców, co utrudnia samodzielne załatwianie spraw i korzystanie z informacji publicznej. Zalecenie wprowadza systemowe podejście do tworzenia zrozumiałej komunikacji poprzez stosowanie prostego języka jako standardu oraz tekstu łatwego do czytania i zrozumienia (ETR) tam, gdzie potrzeby odbiorców wymagają dodatkowego wsparcia. Dzięki temu organizacja ogranicza bariery komunikacyjne, zwiększa dostępność informacyjno-komunikacyjną swoich usług i buduje kulturę komunikacji dostępnej dla wszystkich."
   }
 }
