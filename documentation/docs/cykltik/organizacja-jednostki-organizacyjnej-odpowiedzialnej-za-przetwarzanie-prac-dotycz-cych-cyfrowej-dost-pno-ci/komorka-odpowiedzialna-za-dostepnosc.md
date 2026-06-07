@@ -1,9 +1,9 @@
 ---
-id: organizacja-jednostki-organizacyjnej-odpowiedzialnej-za-przetwarzanie-prac-dotycz-cych-cyfrowej-dost-pno-ci
-title: Organizacja jednostki organizacyjnej odpowiedzialnej za przetwarzanie prac dotyczących cyfrowej dostępności
+id: komorka-odpowiedzialna-za-dostepnosc
+title: Organizacja jednostki organizacyjnej odpowiedzialnej za prace dotyczące cyfrowej dostępności
 description: Zalecenie dotyczące zapewniania dostępności cyfrowej
-sidebar_label: Organizacja jednostki organizacyjnej odpowiedzialnej za przetwarzanie prac dotyczących cyfrowej dostępności
-sidebar_position: 999
+sidebar_label: Komórka organizacyjna
+sidebar_position: 1
 keywords: [organizacja jednostki,usługi,dostępność cyfrowa,deklaracja dostępności,przetwarzanie dostępności]
 tags: [organizacja jednostki,usługi,dostępność cyfrowa,deklaracja dostępności,przetwarzanie dostępności]
 typ: zalecenie
@@ -14,8 +14,6 @@ ostatnia_aktualizacja: 7 czerwca 2026 r.
 wersja_robocza: true
 ---
 
-
-# Zalecenie: Organizacja jednostki organizacyjnej odpowiedzialnej za przetwarzanie prac dotyczących cyfrowej dostępności
 
 ## Cel zalecenia
 
