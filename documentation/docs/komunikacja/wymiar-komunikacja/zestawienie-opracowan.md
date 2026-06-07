@@ -260,20 +260,21 @@ Projekt jest zasadny i powinien zostać włączony do dokumentu końcowego, jedn
 **Współpraca**: Stefan Wajda
 
 **Zawiera**:
-- [Zalecenie: Zarządzanie publicznie udostępnianymi dokumentami urzędowymi](zarzadzanie-publicznie-udostepnianymi-dokumentami-urzedowymi)
-- [Załącznik: Organizacja procesu zarządzania publicznie udostępnianymi dokumentami urzędowymi](zalacznik-organizacja-procesu-zarzadzania-dokumentami-urzedowymi)
-- [Załącznik: Role i odpowiedzialności](zalacznik-role-i-odpowiedzialnosci-zarzadzanie-dokumentami)
-- [Załącznik: Minimalne wymagania dla nowych dokumentów publikowanych przez organizację](zalacznik-minimalne-wymagania-dla-nowych-dokumentow)
-- [Załącznik: Standard działań naprawczych dokumentów](zalacznik-standard-dzialan-naprawczych-dokumentow)
-- [Załącznik: Kategorie dokumentów i zalecany sposób postępowania](zalacznik-kategorie-dokumentow-i-zalecany-sposob-postepowania)
-- [Załącznik: Zasady oceny „niezbędności” dokumentów](zalacznik-zasady-oceny-niezbednosci-dokumentow)
-- [Załącznik: Zasady postępowania z dokumentami archiwalnymi i zbędnymi](zalacznik-zasady-postepowania-z-dokumentami-archiwalnymi-i-zbednymi)
-- [Załącznik: Procedura dla dużych podmiotów](zalacznik-procedura-duze-podmioty-zarzadzanie-dokumentami)
-- [Załącznik: Procedura uproszczona dla małych podmiotów](zalacznik-procedura-male-podmioty-zarzadzanie-dokumentami)
-- [Wzór: Formularz oceny „niezbędności” dokumentu](wzor-formularz-oceny-niezbednosci-dokumentu)
-- [Wzór: Formularz oceny dokumentu](wzor-formularz-oceny-dokumentu)
-- [Wzór: Rejestr dokumentów objętych przeglądem](wzor-rejestr-dokumentow-objetych-przegladem)
-- [Załącznik: Poradnik wdrożeniowy — zarządzanie publicznie udostępnianymi dokumentami urzędowymi](zalacznik-poradnik-wdrozeniowy-zarzadzanie-dokumentami)
+
+- Zalecenie: Zarządzanie publicznie udostępnianymi dokumentami urzędowymi
+- Załącznik: Organizacja procesu zarządzania publicznie udostępnianymi dokumentami urzędowymi
+- Załącznik: Role i odpowiedzialności
+- Załącznik: Minimalne wymagania dla nowych dokumentów publikowanych przez organizację
+- Załącznik: Standard działań naprawczych dokumentów
+- Załącznik: Kategorie dokumentów i zalecany sposób postępowania
+- Załącznik: Zasady oceny „niezbędności” dokumentów
+- Załącznik: Zasady postępowania z dokumentami archiwalnymi i zbędnymi
+- Załącznik: Procedura dla dużych podmiotów
+- Załącznik: Procedura uproszczona dla małych podmiotów
+- Wzór: Formularz oceny „niezbędności” dokumentu
+- Wzór: Formularz oceny dokumentu
+- Wzór: Rejestr dokumentów objętych przeglądem
+- Załącznik: Poradnik wdrożeniowy — zarządzanie publicznie udostępnianymi dokumentami urzędowymi
 
 
 **Status**: Do decyzji
