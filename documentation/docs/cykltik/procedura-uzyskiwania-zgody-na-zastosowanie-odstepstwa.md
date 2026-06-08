@@ -11,8 +11,7 @@ ostatnia_aktualizacja: 08 czerwca 2026 r.
 wersja_robocza: true
 ---
 
-
-# Dobra praktyka: Procedura uzyskiwania zgody na zastosowanie odstępstwa
+# Procedura uzyskiwania zgody na zastosowanie odstępstwa
 
 ## Krótki opis
 
