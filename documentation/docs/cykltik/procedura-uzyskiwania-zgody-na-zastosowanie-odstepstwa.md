@@ -3,8 +3,8 @@ id: procedura-uzyskiwania-zgody-na-zastosowanie-odst-pstwa
 title: Procedura uzyskiwania zgody na zastosowanie odstępstwa
 sidebar_label: Projekt zalecenia
 sidebar_position: 1
-keywords: [dostępność cyfrowa, odstęstwo, procedura, nieproporcjonalne obciążenie]
-tags: [dostępność cyfrowa, odstęstwo, procedura, nieproporcjonalne obciążenie]
+keywords: [dostępność cyfrowa, odstępstwo, procedura, nieproporcjonalne obciążenie]
+tags: [dostępność cyfrowa, odstępstwo, procedura, nieproporcjonalne obciążenie]
 opracowanie: Rafał Laskowski
 data_zgloszenia: 08 czerwca 2026 r.
 ostatnia_aktualizacja: 08 czerwca 2026 r.
