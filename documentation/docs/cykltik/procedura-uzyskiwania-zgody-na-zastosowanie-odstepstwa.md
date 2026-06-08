@@ -1,44 +1,51 @@
 ---
 id: procedura-uzyskiwania-zgody-na-zastosowanie-odst-pstwa
 title: Procedura uzyskiwania zgody na zastosowanie odstępstwa
-description: Krótki opis dobrej praktyki
-sidebar_label: Procedura uzyskiwania zgody na zastosowanie odstępstwa
-sidebar_position: 999
+sidebar_label: Projekt zalecenia
+sidebar_position: 1
+keywords: [dostępność cyfrowa, odstęstwo, procedura, nieproporcjonalne obciążenie]
+tags: [dostępność cyfrowa, odstęstwo, procedura, nieproporcjonalne obciążenie]
 opracowanie: Rafał Laskowski
+data_zgloszenia: 08 czerwca 2026 r.
+ostatnia_aktualizacja: 08 czerwca 2026 r.
+wersja_robocza: true
 ---
+
 
 # Dobra praktyka: Procedura uzyskiwania zgody na zastosowanie odstępstwa
 
-## Metryczka
-- **Podmiot realizujący:** Sieć Dostępności Cyfrowej
-- **Zgłaszający:** Rafał Laskowski
-- **Wymiar:** Cykl życia TIK
-- **Kontakt:** rlaskowski@zut.edu.pl
-
 ## Krótki opis
+
 Każda strona internetowa i aplikacja mobilna podmiotu publicznego powinna być dostępna cyfrowo. Taki obowiązek nakłada na jednostki publiczne ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz.U. 2019 poz. 848). Szczegóły postępowania opisane są w załączniku do ustawy.
-Istnieje jednak pewien wyjątek, kiedy można zastosować odstępstwo. 
+
+Istnieje jednak pewien wyjątek, kiedy można zastosować odstępstwo.
+
 Wymagań określonych w załączniku do ustawy nie stosuje się, jeżeli zapewnienie dostępności cyfrowej w zakresie tych wymagań wiązałoby się z nieproporcjonalnym obciążeniem dla podmiotu publicznego.
 W takim przypadku podmiot publiczny zapewnia dostępność cyfrową w zakresie, w jakim jest to możliwe oraz zapewnia dostęp alternatywny do treści niedostępnych cyfrowo.
+
 Informację o zakresie, w jakim nie spełnione zostały wymagania dostępności, wraz z uzasadnieniem, zamieszcza się w deklaracji dostępności.
 
 ## Problem
+
 Podmiot publiczny może odstąpić od wymagań jeżeli mamy do czynienia z nieproporcjonalnym obciążeniem. Występuje gdy koszty lub przeszkody techniczne są niewspółmierne do korzyści i zawsze dla konkretnego elementu, a nie całej strony czy aplikacji. Uwzględniają one zasoby finansowe, skalę działalności podmiotu oraz charakter i znaczenie treści.
+
 Odstępstwo od wymagań nie jest automatyczne, wymaga analizy, logicznego uzasadnienia oraz opisu w deklaracji dostępności. Poza tym konieczne jest zapewnienie dostępu alternatywnego.
 
 ## Cele
+
 Celem tego dokumentu jest ustalenie procedury uzyskiwania zgody na zastosowanie odstępstwa.
 
 ## Jak wdrożono praktykę
+
 Nieproporcjonalne obciążenie oznacza, że wysiłek, koszt lub trudność techniczna zapewnienia dostępności jest niewspółmierna do efektu, biorąc pod uwagę konkretną sytuację danego podmiotu.
 Procedura uzyskiwania zgody na zastosowanie odstępstwa podzielona jest na etapy.
 
-1: Wykonanie oceny nieproporcjonalnego obciążenia. 
-Ocenie podlegają następujące wartości:
-a) Zasoby podmiotu publicznego:
-- wielkość budżetu,
-- liczba pracowników,
-- realne możliwości techniczne.
+1. Wykonanie oceny nieproporcjonalnego obciążenia. Ocenie podlegają następujące wartości:
+
+    a. Zasoby podmiotu publicznego:
+      - wielkość budżetu,
+      - liczba pracowników,
+      - realne możliwości techniczne.
 
 b) Zakres i znaczenie elementu strony: 
 - czy treść ma wysoką wartość merytoryczną dla odwiedzających,
@@ -72,6 +79,7 @@ Może mieć różne formy, tj.:
 W deklaracji dostępności zamieszczana jest publiczna informacja o zastosowaniu odstępstwa, jego zakresie i charakterze oraz możliwości dostępu alternatywnego.
 
 ## Rezultaty
+
 Podmiot publiczny dokonał analizy swoich zasobów cyfrowych, wskazał odstępstwo (nieproporcjonalne obciążenie), poinformował o tym publicznie w deklaracji dostępności i zapewnił dostęp alternatywny.
 Odstępstw nie zatwierdza się z zewnątrz – podmiot publiczny samodzielnie je uzasadnia, zatwierdza, ujawnia i za nie odpowiada.
 
