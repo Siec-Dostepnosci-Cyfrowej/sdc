@@ -24,7 +24,7 @@ W takim przypadku podmiot publiczny zapewnia dostępność cyfrową w zakresie, 
 
 Informację o zakresie, w jakim nie spełnione zostały wymagania dostępności, wraz z uzasadnieniem, zamieszcza się w deklaracji dostępności.
 
-## Problem
+## Zalecenie
 
 Podmiot publiczny może odstąpić od wymagań jeżeli mamy do czynienia z nieproporcjonalnym obciążeniem. Występuje gdy koszty lub przeszkody techniczne są niewspółmierne do korzyści i zawsze dla konkretnego elementu, a nie całej strony czy aplikacji. Uwzględniają one zasoby finansowe, skalę działalności podmiotu oraz charakter i znaczenie treści.
 
