@@ -43,39 +43,40 @@ Procedura uzyskiwania zgody na zastosowanie odstępstwa podzielona jest na etapy
 1. Wykonanie oceny nieproporcjonalnego obciążenia. Ocenie podlegają następujące wartości:
 
     a. Zasoby podmiotu publicznego:
-      - wielkość budżetu,
-      - liczba pracowników,
-      - realne możliwości techniczne.
+    - wielkość budżetu,
+    - liczba pracowników,
+    - realne możliwości techniczne.
 
-b) Zakres i znaczenie elementu strony: 
-- czy treść ma wysoką wartość merytoryczną dla odwiedzających,
-- czy treść stanowi przepisy, regulaminy, opisy usług publicznych, itp.,
-- czy element strony jest często odwiedzany / używany.
+    b. Zakres i znaczenie elementu strony: 
+    - czy treść ma wysoką wartość merytoryczną dla odwiedzających,
+    - czy treść stanowi przepisy, regulaminy, opisy usług publicznych, itp.,
+    - czy element strony jest często odwiedzany / używany.
 
-c) Charakter ograniczenia:
-- czy brak dostępności jest tymczasowy,
-- czy problem techniczny jest bardzo złożony,
-- czy pojawi się możliwość usunięcia w przyszłości.
+    c. Charakter ograniczenia:
+    - czy brak dostępności jest tymczasowy,
+    - czy problem techniczny jest bardzo złożony,
+    - czy pojawi się możliwość usunięcia w przyszłości.
 
-d) Dostęp alternatywny:
-- czy istnieje możliwość udostępnienia treść na wniosek,
-- czy można przygotować alternatywną wersję tekstową,
-- czy można zapewnić kontakt telefoniczny lub mailowy.
+    d. Dostęp alternatywny:
+    - czy istnieje możliwość udostępnienia treść na wniosek,
+    - czy można przygotować alternatywną wersję tekstową,
+    - czy można zapewnić kontakt telefoniczny lub mailowy.
 
-Ocena może być sporządzona w formie notatki. Nie musi mieć formalnego charakteru.
+    Ocena może być sporządzona w formie notatki. Nie musi mieć formalnego charakteru.
 
-2: Zatwierdzenie oceny
+2. Zatwierdzenie oceny
 Podmiot publiczny wykonuje wewnętrzne zatwierdzenie poprzez osobę decyzyjną (dyrektor, kierownik jednostki) lub odpowiedzialną za dostępność.
 Najczęściej ma formę podpisu pod notatką, decyzji kierowniczej lub akceptacji mailowej.
 
-3: Zapewnienie dostępu alternatywnego
+3. Zapewnienie dostępu alternatywnego
 Zapewnienie dostępu alternatywnego jest obowiązkowe, jego brak stanowi naruszenie prawa.
-Może mieć różne formy, tj.:
-- udostępnienie treści e-mailem na żądanie użytkownika,
-- zamieszczenie alternatywnej wersji tekstowej,
-- podanie kontaktu telefonicznego do uzyskania dostępnych treści.
 
-4: Opisanie odstępstwa w deklaracji dostępności
+    Może mieć różne formy, tj.:
+    - udostępnienie treści e-mailem na żądanie użytkownika,
+    - zamieszczenie alternatywnej wersji tekstowej,
+    - podanie kontaktu telefonicznego do uzyskania dostępnych treści.
+
+4. Opisanie odstępstwa w deklaracji dostępności
 W deklaracji dostępności zamieszczana jest publiczna informacja o zastosowaniu odstępstwa, jego zakresie i charakterze oraz możliwości dostępu alternatywnego.
 
 ## Rezultaty
