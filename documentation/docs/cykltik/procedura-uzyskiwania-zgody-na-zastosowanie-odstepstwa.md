@@ -55,7 +55,7 @@ W deklaracji dostępności zamieszczana jest publiczna informacja o zastosowaniu
 
 3. Podczas analizy charakteru ograniczenia bierze się pod uwagę czy brak dostępności jest tymczasowy, czy problem techniczny jest bardzo złożony oraz czy będzie możliwość usunięcia w przyszłości.
 
-4. Podczas analizy dostępu alternatywnego ocenia się czy istnieje możliwość udostępnienia treść na wniosek uzytkownika, czy można przygotować alternatywną wersję tekstową oraz czy można zapewnić kontakt telefoniczny lub mailowy.
+4. Podczas analizy dostępu alternatywnego ocenia się czy istnieje możliwość udostępnienia treść na wniosek użytkownika, czy można przygotować alternatywną wersję tekstową oraz czy można zapewnić kontakt telefoniczny lub mailowy.
 
 5. Wykonana analiza zatwierdzana jest wewnętrznie przez osobę decyzyjną (dyrektor, kierownik jednostki) lub odpowiedzialną za dostępność.
 
@@ -71,5 +71,5 @@ W deklaracji dostępności zamieszczana jest publiczna informacja o zastosowaniu
 
 Podmiot publiczny może odstąpić od wymagań jeżeli mamy do czynienia z nieproporcjonalnym obciążeniem. Występuje ono gdy koszty lub przeszkody techniczne są niewspółmierne do korzyści i zawsze dla konkretnego elementu, a nie całej strony czy aplikacji. Uwzględniają one zasoby finansowe, skalę działalności podmiotu oraz charakter i znaczenie treści.
 
-Odstępstwo od wymagań nie jest automatyczne, wymaga analizy i logicznego uzasadnienia, wewnętrzengo zatwierdzenia oraz opisu w deklaracji dostępności. Poza tym konieczne jest zapewnienie dostępu alternatywnego.
+Odstępstwo od wymagań nie jest automatyczne, wymaga analizy i logicznego uzasadnienia, wewnętrznego zatwierdzenia oraz opisu w deklaracji dostępności. Poza tym konieczne jest zapewnienie dostępu alternatywnego.
 Zapewnienie dostępu alternatywnego jest obowiązkowe, jego brak stanowi naruszenie prawa.
