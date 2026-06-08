@@ -13,7 +13,7 @@ wersja_robocza: true
 
 # Procedura uzyskiwania zgody na zastosowanie odstępstwa
 
-## Krótki opis
+## Cel zalecenia
 
 Każda strona internetowa i aplikacja mobilna podmiotu publicznego powinna być dostępna cyfrowo. Taki obowiązek nakłada na jednostki publiczne ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz.U. 2019 poz. 848). Szczegóły postępowania opisane są w załączniku do ustawy.
 
