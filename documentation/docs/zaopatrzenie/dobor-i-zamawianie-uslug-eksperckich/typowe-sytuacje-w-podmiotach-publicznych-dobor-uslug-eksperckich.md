@@ -2,7 +2,7 @@
 id: typowe-sytuacje-w-podmiotach-publicznych-dobor-uslug-eksperckich
 title: Typowe sytuacje w podmiotach publicznych – dobór usług eksperckich
 description: Wskazówki dotyczące oceny kompetencji wykonawców usług eksperckich związanych z dostępnością cyfrową.
-sidebar_label: Jak oceniać kompetencje wykonawców usług eksperckich
+sidebar_label: Typowe sytuacje w podmiotach publicznych
 sidebar_position: 5
 keywords: [cykl życia TIK, dostępność cyfrowa, deklaracja dostępności, przegląd dostępności, przegląd diagnostyczny]
 tags: [cykl życia TIK, dostępność cyfrowa, deklaracja dostępności, przegląd dostępności, przegląd diagnostyczny]
