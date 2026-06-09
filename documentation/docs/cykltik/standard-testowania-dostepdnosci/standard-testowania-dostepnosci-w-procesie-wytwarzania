@@ -1,0 +1,74 @@
+---
+id: standard-testowania-dostepnodci-w-procesie-wytwarzania-i-utrzymania-dev-ci-cd
+title: Standard testowania dostępności w procesie wytwarzania i utrzymania (Dev/CI/CD)
+description: Podmioty publiczne dysponują obecnie procedurami oceny zgodności (procedura ramowa i uproszczona) oraz referencyjną Podstawą testowania zgodności, które okre...
+sidebar_label: Standard testowania dostępności w procesie wytwarzania i utrzymania (Dev/CI/CD)
+sidebar_position: 999
+typ: zalecenie
+wymiar: Cykl życia TIK
+opracowanie: Paulina Wysakowska
+---
+
+# Zalecenie: Standard testowania dostępności w procesie wytwarzania i utrzymania (Dev/CI/CD)
+
+## 1. Zalecenie
+Podmiot publiczny osadza testowanie dostępności cyfrowej jako stały element procesu wytwarzania i utrzymania rozwiązań cyfrowych, integrując testy automatyczne i manualne, w tym z wykorzystaniem technologii asystujących CI/CD, archiwizując dowody testowe oraz prowadząc retesty po każdej istotnej zmianie.
+
+## 2. Rekomendacje
+1. Osadzenie testów w cyklu wytwórczym
+- Testowanie dostępności jest traktowane jako stały element procesu wytwórczego i utrzymaniowego, a nie jako czynność wykonywana jednorazowo przed wydaniem.
+- Kryteria dostępności włączane są do definicji ukończenia zadania (definition of done) oraz do warunków akceptacji zmian przed ich połączeniem i wydaniem.
+- Zakres i głębokość testów na danym etapie ustala się przez odniesienie do profili i poziomów głębokości określonych w Podstawie testowania zgodności, bez powielania ich definicji.
+
+2. Minimalny zakres testów automatycznych i manualnych
+- Testy automatyczne uruchamiane są dla każdej zmiany (na poziomie żądania połączenia oraz budowania) i obejmują maszynowo wykrywalny podzbiór kryteriów wskazany w Profilu Fundamenty zgodności.
+- Testy manualne obejmują kryteria niewykrywalne automatycznie (m.in. obsługa z klawiatury, kolejność i widoczność fokusu, sens struktury i powiązań, ocena kontrastu w kontekście), prowadzone zgodnie z krokami Wzorcowej procedury testowej.
+- Testem manualnym objęta jest reprezentatywna próbka zasobu ustalana według zasad reprezentatywności przyjętych w Podstawie testowania.
+- Wynik testów automatycznych nie zastępuje testów manualnych; oba zakresy traktowane są jako wzajemnie uzupełniające.
+
+3. Testowanie z udziałem technologii asystujących
+- Kluczowe ścieżki użytkownika weryfikowane są z udziałem technologii asystujących (m.in. czytnik ekranu), zgodnie z trybem testu opisanym we Wzorcowej procedurze testowej.
+- Zakres weryfikacji z technologią asystującą dobierany jest do poziomu głębokości oceny właściwego dla danego wydania i wykonywany jest przed wydaniem zmian dotykających tych ścieżek.
+
+4. Integracja testów z CI/CD
+- Testy automatyczne włączone są do pipeline CI/CD i uruchamiane automatycznie przy budowaniu oraz przed wydaniem.
+- Wykrycie niezgodności w kryteriach obowiązkowych skutkuje wstrzymaniem lub oznaczeniem wydania; reguła ta różnicowana jest według wagi niezgodności określonej w Podstawie testowania, a nie według kategorii treści.
+- Wyniki testów rejestrowane są w formie nadającej się do dalszego przetwarzania (model dowodowy EARL), zasilając rejestr niezgodności bez jego ponownego definiowania.
+
+5. Archiwizacja raportów i dowodów testowych
+- Raporty oraz dowody testowe zachowywane są jako dowód oceny i powiązane są z konkretną wersją (wydaniem) rozwiązania.
+- Archiwizacja prowadzona jest w sposób umożliwiający odtworzenie stanu dostępności danego wydania oraz wykorzystanie wyników w ocenie okresowej (w tym rocznej).
+- Zarchiwizowane wyniki stanowią materiał źródłowy dla dokumentów sprawozdawczych podmiotu (m.in. deklaracji dostępności i raportu zgodności); zalecenie nie powiela ich zakresu, lecz wskazuje źródło danych.
+
+6. Procedura retestów po aktualizacjach
+- Po każdej istotnej zmianie prowadzony jest retest, którego zakres różnicowany jest według ryzyka i zasięgu zmiany (ryzyko regresji dostępności), a nie według kategorii treści.
+- Zmiana o szerokim zasięgu lub dotykająca komponentów wspólnych obejmowana jest retestem pełnym, a zmiana punktowa retestem ukierunkowanym na obszar zmiany i jego bezpośrednie otoczenie.
+- Dla zmian wprowadzanych w trybie pilnym dopuszcza się retest minimalny obejmujący kryteria obowiązkowe i bezpośrednio dotknięte ścieżki, z zaplanowaniem retestu pełnego w najbliższym możliwym terminie.
+
+7. Ciągłość i dojrzałość procesu
+- Testowanie w cyklu wytwórczym traktowane jest jako stała warstwa monitoringu w rozumieniu Podstawy testowania zgodności.
+- Stopień zautomatyzowania, pokrycia i powtarzalności testów rozwijany jest stosownie do Modelu dojrzałości monitoringu.
+
+## 3. Uzasadnienie
+Podmioty publiczne dysponują obecnie procedurami oceny zgodności (procedura ramowa i uproszczona) oraz referencyjną Podstawą testowania zgodności, które określają co i jak się testuje. Brakuje natomiast operacyjnego standardu określającego, w którym momencie procesu wytwórczego i utrzymaniowego testy te są uruchamiane oraz w jaki sposób są zautomatyzowane i powtarzane.
+W praktyce skutkuje to przesuwaniem testów dostępności na koniec cyklu, niekontrolowanym powstawaniem regresji przy aktualizacjach, brakiem trwałych dowodów testowych powiązanych z wydaniami oraz rosnącym kosztem napraw wykrywanych zbyt późno.
+Ustanowienie standardu osadzenia testów w procesie wytwarzania i utrzymania oraz ich integracji z CI/CD pozwala wykrywać niezgodności wcześniej, ograniczać ryzyko regresji po zmianach, zachować ciągłość dowodów na potrzeby oceny okresowej i sprawozdawczości oraz podnosić dojrzałość organizacyjną monitoringu dostępności.
+
+
+## 4. Podstawy prawne
+- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
+- Przepisy wykonawcze wydane na podstawie powyższej ustawy.
+
+## 5. Źródła i opracowania
+_Brak źródeł._
+
+## 6. Historia wersji
+- Wersja 0.1 – projekt wstępny
+
+## Załączniki
+_Brak załączników._
+
+
+// Paulina: Pytania otwarte: 
+//czy powinnam tez opisac cel zalecenia?
+// czy zalecenie powinno odnosić się takze do aplikacji mobilnych?
