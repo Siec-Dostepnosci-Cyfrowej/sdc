@@ -2,7 +2,7 @@
 id: zamawianie-uslugi-wsparcie-w-organizacji-systemu-rozwoju-kompetencji
 title: Zamawianie usługi wsparcia w organizacji systemu rozwoju kompetencji
 description: Wskazówki dotyczące zamawiania usług wspierających rozwój trwałych zdolności organizacji do rozwijania, utrzymywania i przekazywania kompetencji niezbędnych do zapewniania dostępności cyfrowej.
-sidebar_label: Zamawianie usługi wsparcia wdrażania
+sidebar_label: Zamawianie usługi wsparcia w organizacji systemu
 sidebar_position: 19
 keywords: [cykl życia TIK, dostępność cyfrowa, deklaracja dostępności, przegląd dostępności, przegląd diagnostyczny]
 tags: [cykl życia TIK, dostępność cyfrowa, deklaracja dostępności, przegląd dostępności, przegląd diagnostyczny]
