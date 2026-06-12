@@ -173,12 +173,8 @@ Aktualizacja deklaracji jest szczególnie zalecana po:
 ## 10. Powiązane dokumenty
 
 - Zalecenie: Okresowa ocena stanu zgodności rozwiązań cyfrowych i aktualizacja deklaracji dostępności
-- Procedura okresowej oceny stanu zgodności
-- Procedura okresowej oceny stanu zgodności — scenariusz badania
-- Raportowanie wyników okresowej oceny stanu zgodności
-- Profil minimum raportu zgodności (ACR-MIN)
-- Profil rozszerzony raportu zgodności (ACR-EXT)
-- Profil ekspercki raportu zgodności (ACR-AUDIT)
+- Scenariusz badania okresowej oceny stanu zgodności
+- Raport zgodności – zasady prowadzenia, aktualizacji i wykorzystywania
 - Wzór raportu zgodności (ACR)
 
 ---

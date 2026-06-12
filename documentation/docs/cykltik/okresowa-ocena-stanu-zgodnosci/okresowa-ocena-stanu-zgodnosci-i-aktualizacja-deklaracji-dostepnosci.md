@@ -216,11 +216,9 @@ Raport zgodności powinien umożliwiać:
 - planowanie działań naprawczych,
 - monitorowanie zmian stanu zgodności.
 
-Raport zgodności może być prowadzony zgodnie z profilem:
+Raport zgodności może być rozwijany od poziomu podstawowego do poziomu pogłębionego w miarę pozyskiwania nowych informacji o stanie zgodności rozwiązania.
 
-- [Profil minimum raportu zgodności (ACR-MIN)](profil-minimum-raportu-zgodnosci-acr-min),
-- [Profil rozszerzony raportu zgodności (ACR-EXT)](profil-rozszerzony-raportu-zgodnosci-acr-ext),
-- [Profil ekspercki raportu zgodności (ACR-AUDIT)](profil-ekspercki-raportu-zgodnosci-acr-audit).
+Poziomy szczegółowości raportu oraz zasady jego aktualizacji określa dokument [Raport zgodności – zasady prowadzenia, aktualizacji i wykorzystywania](raport-zgodnosci-zasady-prowadzenia-aktualizacji-wykorzystania).
 
 
 ### 3.10. Raport zgodności jako rejestr wiedzy o stanie zgodności
@@ -277,27 +275,13 @@ W modelu przyjętym w tym zaleceniu raport zgodności nie jest rezultatem pojedy
 
 - [Lista kontrolna okresowej oceny stanu zgodności](lista-kontrolna-okresowej-oceny-stanu-zgodnosci)
 - [Procedura okresowej oceny stanu zgodności — scenariusz badania](procedura-okresowej-oceny-stanu-zgodnosci-scenariusz-badania)
+- [Raport zgodności – zasady prowadzenia, aktualizacji i wykorzystywania](raport-zgodnosci-zasady-prowadzenia-aktualizacji-wykorzystania).
+- [Aktualizacja deklaracji dostępności na podstawie wyników oceny](aktualizacja-deklaracji-dostepnosci-na-podstawie-wynikow-oceny)
 - [Macierz powiązań testów i kryteriów sukcesu WCAG](macierz-powiazan-testow-i-kryteriow-sukcesu-wcag)
-- [Raportowanie wyników okresowej oceny stanu zgodności](raportowanie-wynikow-okresowej-oceny-stanu-zgodnosci)
-- [Profil minimum raportu zgodności (ACR-MIN)](profil-minimum-raportu-zgodnosci-acr-min)
-- [Profil rozszerzony raportu zgodności (ACR-EXT)](profil-rozszerzony-raportu-zgodnosci-acr-ext)
-- [Profil ekspercki raportu zgodności (ACR-AUDIT)](profil-ekspercki-raportu-zgodnosci-acr-audit)
 - Wzór raportu zgodności (ACR)
-- Aktualizacja deklaracji dostępności na podstawie wyników oceny
 - Monitoring dostępności a monitoring dojrzałości
 - Dobór i zamawianie usług eksperckich w zakresie dostępności cyfrowej
 
 ---
-
-
-## 3. Rekomendacje
-
-
-
-
-
-
-
-
 
 
