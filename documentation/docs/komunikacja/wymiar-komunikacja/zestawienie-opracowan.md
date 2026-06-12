@@ -5,9 +5,37 @@ sidebar_label: Zestawienie opracowań
 sidebar_position: 5
 opracowanie: Stefan Wajda
 data_zgloszenia: 7 czerwca 2026 r.
-ostatnia_aktualizacja: 7 czerwca 2026 r.
+ostatnia_aktualizacja: 9 czerwca 2026 r.
 wersja_robocza: true
 ---
+
+## Zarządzanie deklaracją dostępności
+
+**Dokumenty opracowane na podstawie materiału bazowego**
+
+**Opracowanie**: Tomasz Szymczak. **Współpraca**: Damian Żłobicki
+
+- Zalecenie: Zarządzanie deklaracją dostępności
+- Dokument uzupełniający: Procedura tworzenia i publikacji deklaracji dostępności
+- Dokument uzupełniający: Procedura przeglądu i aktualizacji deklaracji dostępności
+- Dokument uzupełniający: Role i odpowiedzialności w zarządzaniu deklaracją dostępności
+- Dokument uzupełniający: Dokumentowanie oceny dostępności na potrzeby deklaracji
+- Dokument uzupełniający: Zlecanie prac związanych z deklaracją dostępności
+
+**Nowe dokumenty uzupełniające i narzędzia wdrożeniowe**
+
+**Opracowanie**: Damian Żłobicki. **Współpraca**: Tomasz Szymczak
+
+- Dokument uzupełniający: Ocena nadmiernych kosztów
+- Dokument uzupełniający: Obsługa żądań i skarg dotyczących dostępności cyfrowej
+- Narzędzie wdrożeniowe: Rejestr stron, aplikacji i deklaracji dostępności
+- Narzędzie wdrożeniowe: Lista kontrolna deklaracji dostępności
+- Narzędzie wdrożeniowe: Karta przeglądu i decyzji po zmianie
+- Narzędzie wdrożeniowe: Plan usuwania barier
+
+Pakiet porządkuje deklarację dostępności jako proces organizacyjny. Rozdziela obowiązki prawne, warunki techniczne i podwyższony standard organizacyjny Sieci. Obejmuje pełny cykl życia deklaracji, ocenę dostępności, obsługę zmian, żądań i skarg, nadmierne koszty, współpracę z wykonawcami oraz usuwanie barier.
+
+**Status**: projekt do opiniowania
 
 ## Stosowanie tekstu łatwego do czytania i zrozumienia (ETR)
   
