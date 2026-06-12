@@ -2,6 +2,7 @@
   "label": "Polityka zakupowa",
   "position": 1,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+	"description": "Zalecenie wspiera organizacje w systemowym uwzględnianiu wymagań dostępności cyfrowej podczas nabywania technologii, produktów, usług i treści cyfrowych. Pomaga ograniczać ryzyko zakupu rozwiązań niedostępnych, zmniejszać koszty późniejszych dostosowań oraz budować zdolność organizacji do tworzenia dostępnego środowiska pracy i świadczenia dostępnych usług publicznych."
   }
 }
