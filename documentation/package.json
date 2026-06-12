@@ -54,7 +54,7 @@
     "postcss": "^8.5.15",
     "shadcn-ui": "^0.9.5",
     "svgo": "4.0.1",
-    "tailwindcss": "^3.4.14",
+    "tailwindcss": "^4.3.1",
     "typescript": "6.0.3"
   },
   "overrides": {
