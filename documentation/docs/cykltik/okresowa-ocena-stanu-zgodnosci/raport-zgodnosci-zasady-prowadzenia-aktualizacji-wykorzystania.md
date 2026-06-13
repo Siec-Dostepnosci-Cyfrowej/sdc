@@ -2,7 +2,7 @@
 id: raport-zgodnosci-zasady-prowadzenia-aktualizacji-wykorzystania
 title: Raport zgodności – zasady prowadzenia, aktualizacji i wykorzystywania
 sidebar_label: Raport zgodności
-sidebar_position: 4
+sidebar_position: 2
 description: Zasady  prowadzenia, aktualizacji i wykorzystywania raportu zgodności jako narzędzia wspierającego ocenę stanu zgodności rozwiązań cyfrowych z wymaganiami dostępności.
 keywords: [raportowanie, okresowa ocena stanu zgodności, raport, ACR, dostępność cyfrowa, WCAG]
 tags: [monitoring, ocena zgodności, raportowanie, dostępność cyfrowa]
@@ -254,6 +254,7 @@ Aktualizacja może następować między innymi po:
 Nie każda aktualizacja raportu wymaga przeprowadzenia pełnej okresowej oceny stanu zgodności.
 
 Raport może być aktualizowany również na podstawie wyników badań wycinkowych oraz innych działań dostarczających nowych informacji o stanie zgodności rozwiązania.
+
 ---
 
 ## 10. Wersjonowanie raportu

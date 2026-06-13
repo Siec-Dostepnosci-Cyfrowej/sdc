@@ -12,7 +12,7 @@ ostatnia_aktualizacja: 10 czerwca 2026 r.
 wersja_robocza: true
 --------------------
 
-## 1. ID testu
+## 1. Identyfikator testu
 
 **testID-029**
 

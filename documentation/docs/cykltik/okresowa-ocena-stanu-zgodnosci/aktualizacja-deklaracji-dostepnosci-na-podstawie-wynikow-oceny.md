@@ -2,7 +2,7 @@
 id: aktualizacja-deklaracji-dostepnosci-na-podstawie-wynikow-oceny
 title: Aktualizacja deklaracji dostępności na podstawie wyników oceny
 sidebar_label: Aktualizacja deklaracji dostępności
-sidebar_position: 4
+sidebar_position: 3
 description: Zasady wykorzystywania wyników okresowych ocen stanu zgodności i raportów zgodności do przeglądu oraz aktualizacji deklaracji dostępności.
 keywords: [deklaracja dostępności, aktualizacja deklaracji, raport zgodności, ocena stanu zgodności]
 tags: [deklaracja dostępności, monitoring, ocena zgodności]

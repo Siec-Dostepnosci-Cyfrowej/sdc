@@ -133,7 +133,7 @@ Dobór stron, ekranów, funkcji i procesów powinien uwzględniać główne obsz
 
 Badanie może być realizowane samodzielnie przez organizację, przy wsparciu ekspertów lub jako usługa zewnętrzna.
 
-Zalecany zestaw testów określa załącznik [Scenariusz badania okresowej oceny stanu zgodności](procedura-okresowej-oceny-stanu-zgodnosci-scenariusz-badania).
+Zalecany zestaw testów określa załącznik [Scenariusz przeprowadzania okresowej oceny stanu zgodności](scenariusz-przeprowadzania-okresowej-oceny-stanu-zgodności).
 
 ---
 
@@ -218,7 +218,7 @@ Raport zgodności powinien umożliwiać:
 
 Raport zgodności może być rozwijany od poziomu podstawowego do poziomu pogłębionego w miarę pozyskiwania nowych informacji o stanie zgodności rozwiązania.
 
-Poziomy szczegółowości raportu oraz zasady jego aktualizacji określa dokument [Raport zgodności – zasady prowadzenia, aktualizacji i wykorzystywania](raport-zgodnosci-zasady-prowadzenia-aktualizacji-wykorzystania).
+Poziomy szczegółowości raportu oraz zasady jego aktualizacji określa dokument [Scenariusz przeprowadzania okresowej oceny stanu zgodności](scenariusz-przeprowadzania-okresowej-oceny-stanu-zgodności).
 
 
 ### 3.10. Raport zgodności jako rejestr wiedzy o stanie zgodności
@@ -274,7 +274,7 @@ W modelu przyjętym w tym zaleceniu raport zgodności nie jest rezultatem pojedy
 ## 5. Powiązane dokumenty
 
 - [Lista kontrolna okresowej oceny stanu zgodności](lista-kontrolna-okresowej-oceny-stanu-zgodnosci)
-- [Procedura okresowej oceny stanu zgodności — scenariusz badania](procedura-okresowej-oceny-stanu-zgodnosci-scenariusz-badania)
+- [Scenariusz przeprowadzania okresowej oceny stanu zgodności](scenariusz-przeprowadzania-okresowej-oceny-stanu-zgodności)
 - [Raport zgodności – zasady prowadzenia, aktualizacji i wykorzystywania](raport-zgodnosci-zasady-prowadzenia-aktualizacji-wykorzystania).
 - [Aktualizacja deklaracji dostępności na podstawie wyników oceny](aktualizacja-deklaracji-dostepnosci-na-podstawie-wynikow-oceny)
 - [Macierz powiązań testów i kryteriów sukcesu WCAG](macierz-powiazan-testow-i-kryteriow-sukcesu-wcag)

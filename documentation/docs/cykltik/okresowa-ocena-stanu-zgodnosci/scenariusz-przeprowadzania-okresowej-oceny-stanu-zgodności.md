@@ -1,11 +1,11 @@
 ---
-id: procedura-okresowej-oceny-stanu-zgodnosci-scenariusz-badania
-title: Scenariusz badania okresowej oceny stanu zgodności
-sidebar_label: Scenariusz badania
-sidebar_position: 2
+id: scenariusz-przeprowadzania-okresowej-oceny-stanu-zgodności
+title: Scenariusz przeprowadzania okresowej oceny stanu zgodności
+sidebar_label: Scenariusz przeprowadzania oceny 
+sidebar_position: 1
 description: Procedura określająca sposób przygotowania, przeprowadzenia i dokumentowania okresowej oceny stanu zgodności rozwiązań cyfrowych z wymaganiami dostępności.
-keywords: [okresowa ocena stanu zgodności, scenariusz badania, dostępność cyfrowa, monitoring, ocena zgodności]
-tags: [monitoring, ocena zgodności, dostępność cyfrowa, procedura]
+keywords: [okresowa ocena stanu zgodności, przeprowadzania oceny, dostępność cyfrowa, monitoring, ocena zgodności]
+tags: [okresowa ocena stanu zgodności, przeprowadzania oceny, dostępność cyfrowa, monitoring, ocena zgodności]
 opracowanie: Sieć Dostępności Cyfrowej
 data_zgloszenia: 11 czerwca 2026 r.
 ostatnia_aktualizacja: 11 czerwca 2026 r.
@@ -83,59 +83,59 @@ Minimalny zakres badania odpowiada wymaganiom określonym w zaleceniu dotyczący
 
 ### 3.1. Automatyczne wykrywanie błędów
 
-| Test |
-|--------|
-| Automatyczne wykrywanie błędów dostępności |
+| Id testu  | Nazwa testu |
+|-----------|--------------------- |
+| **procID-001** | Automatyczne wykrywanie błędów dostępności |
 
 ---
 
 ### 3.2. Percepcja i struktura informacji
 
-| Test |
-|--------|
-| Tytuł strony |
-| Język strony |
-| Język części strony |
-| Nagłówki |
-| Punkty orientacyjne |
-| Tekst alternatywny |
-| Wystarczający kontrast |
+| Id testu  | Nazwa testu |
+|-----------|--------------------- |
+| **testID-019** | Tytuł strony |
+| **testID-021** | Język strony |
+| **testID-022** | Język części strony |
+| **testID-020** | Nagłówki |
+| **testID-031** | Punkty orientacyjne |
+| **testID-033** | Tekst alternatywny |
+| **testID-032** | Wystarczający kontrast |
 
 ---
 
 ### 3.3. Obsługa przy użyciu klawiatury
 
-| Test |
-|--------|
-| Dostęp z klawiatury |
-| Pułapka klawiaturowa |
-| Kolejność fokusu |
-| Widoczność fokusu |
-| Łącza pomijania |
+| Id testu  | Nazwa testu |
+|-----------|--------------------- |
+| **testID-023** | Dostęp z klawiatury |
+| **testID-025** | Pułapka klawiaturowa |
+| **testID-026** | Kolejność fokusu |
+| **testID-027** | Widoczność fokusu |
+| **testID-034** | Łącza pomijania |
 
 ---
 
 ### 3.4. Formularze i komunikaty
 
-| Test |
-|--------|
-| Widoczne etykiety lub instrukcje |
-| Oznaczenie pól wymaganych |
-| Format danych |
-| Identyfikacja błędów |
-| Sugestie korekty błędów |
-| Komunikaty o stanie |
+| Id testu  | Nazwa testu |
+|-----------|--------------------- |
+| **testID-039** | Widoczne etykiety lub instrukcje |
+| **testID-041** | Oznaczenie pól wymaganych |
+| **testID-042** | Format danych |
+| **testID-044** | Identyfikacja błędów |
+| **testID-045** | Sugestie korekty błędów |
+| **testID-069** | Komunikaty o stanie |
 
 ---
 
 ### 3.5. Współpraca z technologiami wspomagającymi
 
-| Test |
-|--------|
-| Odczyt struktury przez czytnik ekranu |
-| Odczyt formularza przez czytnik ekranu |
-| Dostępna nazwa elementu interaktywnego |
-| Dostępna nazwa w widocznej etykiecie |
+| Id testu  | Nazwa testu |
+|-----------|--------------------- |
+| **testID-047** | Odczyt struktury przez czytnik ekranu |
+| **testID-048** | Odczyt formularza przez czytnik ekranu |
+| **testID-070** | Dostępna nazwa elementu interaktywnego |
+| **testID-071** | Dostępna nazwa w widocznej etykiecie |
 
 ---
 
@@ -157,38 +157,38 @@ Rozszerzanie może następować poprzez:
 
 ### 5.1. Komponenty interfejsu
 
-| Test |
-|--------|
-| Menu nawigacyjne |
-| Wyszukiwanie w witrynie |
-| Modalne okno dialogowe |
-| Zakładki |
-| Akordeon |
-| Karuzela |
-| Galeria obrazów |
-| Powiadomienia (komunikaty o stanie) |
+| Id testu  | Nazwa testu |
+|-----------|--------------------- |
+| **testID-066** | Menu nawigacyjne |
+| **testID-067** | Wyszukiwanie w witrynie |
+| **testID-055** | Modalne okno dialogowe |
+| **testID-056** | Zakładki |
+| **testID-059** | Akordeon |
+| **testID-058** | Karuzela |
+| **testID-068** | Galeria obrazów |
+| **testID-069** | Komunikaty o stanie |
 
 ---
 
 ### 5.2. Formularze i procesy
 
-| Test |
-|--------|
-| Opisowe etykiety |
-| Etykiety powiązane programowo |
-| Zapobieganie błędom |
-| Cel łącza (w kontekście) |
+| Id testu  | Nazwa testu |
+|-----------|--------------------- |
+| **testID-040** | Opisowe etykiety |
+| **testID-046** | Etykiety powiązane programowo |
+| **testID-045** | Zapobieganie błędom |
+| **testID-035** | Cel łącza (w kontekście) |
 
 ---
 
 ### 5.3. Technologie wspomagające
 
-| Test |
-|--------|
-| Dostępna nazwa elementu interaktywnego |
-| Dostępna nazwa w widocznej etykiecie |
-| Spójność identyfikacji |
-| Spójność nawigacji |
+| Id testu  | Nazwa testu |
+|-----------|--------------------- |
+| **testID-070** | Dostępna nazwa elementu interaktywnego |
+| **testID-071** | Dostępna nazwa w widocznej etykiecie |
+| **testID-073** | Spójność identyfikacji |
+| **testID-074** | Spójność nawigacji |
 
 ---
 
@@ -196,38 +196,38 @@ Rozszerzanie może następować poprzez:
 
 ### 6.1. Dokumenty elektroniczne
 
-| Test |
-|--------|
-| Dokument PDF |
-| Dokument DOCX / ODT |
+| Id testu  | Nazwa testu |
+|-----------|--------------------- |
+| **testID-060** | Dokument PDF |
+| **Dokument DOCX (ODT)** | Dokument DOCX / ODT |
 
 ---
 
 ### 6.2. Multimedia
 
-| Test |
-|--------|
-| Transkrypcja dla nagrań audio |
-| Transkrypcja dla wideo bez dźwięku |
-| Napisy rozszerzone |
-| Audiodeskrypcja |
-| Alternatywa pełnotekstowa dla multimediów |
-| Odtwarzacz multimedialny |
-| Ruch i błyski |
+| Id testu  | Nazwa testu |
+|-----------|--------------------- |
+| **testID-050** | Transkrypcja dla nagrań audio |
+| **testID-049** | Transkrypcja dla wideo bez dźwięku |
+| **testID-051** | Napisy rozszerzone |
+| **testID-052** | Audiodeskrypcja |
+| **testID-053** | Alternatywa pełnotekstowa dla multimediów |
+| **testID-065** | Odtwarzacz multimedialny |
+| **testID-054** | Ruch i błyski |
 
 ---
 
 ## 7. Rozszerzenie dotyczące prezentacji informacji
 
-| Test |
-|--------|
-| Użycie koloru |
-| Obrazy tekstu |
-| Zmiana rozmiaru tekstu |
-| Dopasowanie do szerokości ekranu |
-| Tabela |
-| Wykres |
-| Wizualizacja danych |
+| Id testu  | Nazwa testu |
+|-----------|--------------------- |
+| **testID-075** | Użycie koloru |
+| **testID-072** | Obrazy tekstu |
+| **testID-037** | Zmiana rozmiaru tekstu |
+| **testID-038** | Dopasowanie do szerokości ekranu |
+| **testID-062** | Tabela |
+| **testID-063** | Wykres |
+| **testID-064** | Wizualizacja danych |
 
 ---
 

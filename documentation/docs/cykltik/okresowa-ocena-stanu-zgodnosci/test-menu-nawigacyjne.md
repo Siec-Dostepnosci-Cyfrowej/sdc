@@ -13,7 +13,7 @@ wersja_robocza: true
 ---
 
 
-## 1. ID testu
+## 1. Identyfikator testu
 
 **testID-066**
 

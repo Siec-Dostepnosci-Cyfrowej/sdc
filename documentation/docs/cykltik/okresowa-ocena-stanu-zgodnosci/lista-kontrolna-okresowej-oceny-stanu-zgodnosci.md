@@ -2,7 +2,7 @@
 id: lista-kontrolna-okresowej-oceny-stanu-zgodnosci
 title: Lista kontrolna okresowej oceny stanu zgodności
 sidebar_label: Lista kontrolna
-sidebar_position: 2
+sidebar_position: 8
 description: Lista kontrolna wspierająca planowanie, przeprowadzanie i dokumentowanie okresowej oceny stanu zgodności rozwiązań cyfrowych z wymaganiami dostępności.
 keywords: [lista kontrolna, okresowa ocena stanu zgodności, dostępność cyfrowa, monitoring, zgodność]
 tags: [monitoring, ocena zgodności, dostępność cyfrowa, lista kontrolna]

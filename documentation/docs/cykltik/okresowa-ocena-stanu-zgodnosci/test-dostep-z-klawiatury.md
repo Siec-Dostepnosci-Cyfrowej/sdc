@@ -2,7 +2,7 @@
 id: test-dostep-z-klawiatury
 title: Karta testu — Dostęp z klawiatury
 sidebar_label: Dostęp z klawiatury
-sidebar_position: 24
+sidebar_position: 23
 description: Scenariusz testu sprawdzającego, czy wszystkie funkcje strony internetowej są dostępne przy użyciu samej klawiatury.
 keywords: [klawiatura, keyboard, dostęp z klawiatury, nawigacja, dostępność cyfrowa, WCAG]
 tags: [test dostępności, klawiatura, WCAG, okresowa ocena zgodności]
@@ -12,9 +12,9 @@ ostatnia_aktualizacja: 10 czerwca 2026 r.
 wersja_robocza: true
 ---
 
-## 1. ID testu
+## 1. Identyfikator testu
 
-**testID-024**
+**testID-023**
 
 ---
 
