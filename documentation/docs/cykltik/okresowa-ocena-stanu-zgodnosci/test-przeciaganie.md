@@ -12,65 +12,57 @@ ostatnia_aktualizacja: 12 czerwca 2026 r.
 wersja_robocza: true
 ---
 
-
-
-## Identyfikator testu
+## 1. Identyfikator testu
 
 **testID-088**
 
-## Nazwa testu
+## 2. Nazwa testu
 
-Przeciąganie
+**Przeciąganie**
 
-## Cel testu
+## 3. Profil stosowania testu
 
-Sprawdzenie, czy funkcjonalności wymagające przeciągania elementów mogą zostać wykonane również przy użyciu alternatywnego sposobu niewymagającego operacji przeciągania.
+**ACR-EXT**
 
-## Powiązane wymagania
+## 4. Opis testu
 
-### WCAG 2.2
+Test sprawdza, czy funkcjonalności wymagające przeciągania elementów mogą zostać wykonane również przy użyciu alternatywnego sposobu niewymagającego operacji przeciągania.
 
-- 2.5.7 Przeciąganie (Dragging Movements) – poziom AA
+### Co oznacza „przeciąganie”?
+
+Przeciąganie (ang. *dragging movement*) polega na:
+
+1. wskazaniu elementu,
+2. przytrzymaniu przycisku myszy lub utrzymaniu kontaktu z ekranem dotykowym,
+3. przesunięciu elementu do nowego miejsca,
+4. zakończeniu operacji poprzez zwolnienie przycisku lub oderwanie palca od ekranu.
+
+Przykładami przeciągania są:
+
+- zmiana kolejności elementów metodą „przeciągnij i upuść”,
+- przesuwanie wydarzeń w kalendarzu,
+- przenoszenie plików,
+- przesuwanie elementów na mapie,
+- obsługa suwaków wymagających ciągłego ruchu wskaźnika.
+
+Test nie dotyczy zwykłego kliknięcia, dotknięcia ani prostego wyboru elementu.
+
+## 5. Mapowanie do standardów
+
+### WCAG 2.1 / 2.2
+
+- 2.5.7 Przeciąganie (Poziom AA)
 
 ### EN 301 549
 
-Po publikacji aktualizacji normy uwzględniającej WCAG 2.2:
+Po publikacji wersji normy uwzględniającej WCAG 2.2:
 
 - 9.2.5.7 Dragging Movements
 - 11.2.5.7 Dragging Movements
 
----
+## 6. Zastosowanie do treści
 
-## Dlaczego to jest ważne
-
-Przeciąganie wymaga wykonywania precyzyjnych ruchów oraz utrzymywania ciągłej kontroli nad wskaźnikiem.
-
-Dla wielu użytkowników może to być trudne lub niemożliwe, w szczególności dla:
-
-- osób z niepełnosprawnościami ruchowymi,
-- osób z drżeniem rąk,
-- użytkowników technologii wspomagających,
-- osób korzystających z alternatywnych urządzeń wskazujących,
-- użytkowników ekranów dotykowych.
-
-Jeżeli wykonanie zadania wymaga wyłącznie przeciągania, część użytkowników może zostać całkowicie pozbawiona możliwości korzystania z funkcjonalności.
-
----
-
-## Kogo dotyczy
-
-Test jest szczególnie istotny dla:
-
-- osób z niepełnosprawnościami ruchowymi,
-- użytkowników technologii wspomagających,
-- osób korzystających z urządzeń mobilnych,
-- użytkowników obsługujących rozwiązanie przy użyciu klawiatury lub alternatywnych metod sterowania.
-
----
-
-## Zakres stosowania
-
-Test należy wykonywać dla:
+Test stosuje się do:
 
 - komponentów typu „przeciągnij i upuść”,
 - list umożliwiających zmianę kolejności elementów,
@@ -82,9 +74,39 @@ Test należy wykonywać dla:
 - systemów zarządzania treścią,
 - aplikacji biznesowych wykorzystujących przeciąganie.
 
----
+## 7. Oczekiwany wynik
 
-## Metoda badania
+Dla każdej funkcjonalności wykorzystującej przeciąganie istnieje alternatywna metoda wykonania tego samego zadania niewymagająca przeciągania.
+
+Alternatywa umożliwia osiągnięcie tego samego rezultatu przy użyciu standardowych elementów interfejsu.
+
+## 8. Dlaczego to jest ważne
+
+Przeciąganie wymaga wykonywania precyzyjnych ruchów oraz utrzymywania ciągłej kontroli nad wskaźnikiem.
+
+Dla wielu użytkowników może być trudne lub niemożliwe, szczególnie dla:
+
+- osób z niepełnosprawnościami ruchowymi,
+- osób z drżeniem rąk,
+- użytkowników technologii wspomagających,
+- osób korzystających z alternatywnych urządzeń wskazujących,
+- użytkowników ekranów dotykowych,
+- osób starszych.
+
+Jeżeli wykonanie zadania wymaga wyłącznie przeciągania, część użytkowników może zostać całkowicie pozbawiona możliwości skorzystania z funkcjonalności.
+
+## 9. Kogo to dotyczy
+
+Szczególnie:
+
+- osób z niepełnosprawnościami ruchowymi,
+- osób korzystających z technologii wspomagających,
+- osób korzystających z alternatywnych urządzeń wskazujących,
+- użytkowników urządzeń mobilnych,
+- osób starszych,
+- użytkowników korzystających wyłącznie z klawiatury.
+
+## 10. Sposób testowania
 
 ### Krok 1. Identyfikacja funkcji wykorzystujących przeciąganie
 
@@ -110,6 +132,7 @@ Sprawdź, czy tę samą funkcję można wykonać przy użyciu:
 Sprawdź, czy alternatywny sposób:
 
 - umożliwia wykonanie tej samej operacji,
+- zapewnia ten sam rezultat,
 - jest dostępny dla wszystkich użytkowników,
 - nie wymaga przeciągania.
 
@@ -117,19 +140,24 @@ Sprawdź, czy alternatywny sposób:
 
 Sprawdź, czy wykorzystanie przeciągania jest rzeczywiście niezbędne dla charakteru funkcjonalności.
 
----
+Przykładem dopuszczalnego wyjątku może być:
 
-## Kryteria oceny
+- rysowanie,
+- malowanie,
+- modelowanie graficzne,
+- inne działania wymagające ciągłego ruchu wskaźnika.
 
-### Spełnia
+## 11. Kryteria oceny wyniku
+
+### Spełnione
 
 Dla każdej funkcjonalności wykorzystującej przeciąganie dostępna jest alternatywna metoda wykonania zadania niewymagająca przeciągania.
 
-### Częściowo spełnia
+### Częściowo spełnione
 
 Alternatywny sposób wykonania zadania zapewniono jedynie dla części funkcjonalności.
 
-### Nie spełnia
+### Niespełnione
 
 Istnieją funkcjonalności, które mogą zostać wykonane wyłącznie przez przeciąganie elementów.
 
@@ -137,19 +165,16 @@ Istnieją funkcjonalności, które mogą zostać wykonane wyłącznie przez prze
 
 Rozwiązanie nie wykorzystuje przeciągania jako sposobu realizacji funkcjonalności.
 
----
-
-## Typowe niezgodności
+## 12. Typowe niezgodności
 
 - zmiana kolejności elementów wyłącznie przez przeciąganie,
 - plan zajęć umożliwiający modyfikację wyłącznie metodą „przeciągnij i upuść”,
 - kalendarz wymagający przeciągania wydarzeń,
 - zarządzanie plikami wyłącznie metodą „drag and drop”,
+- suwak możliwy do obsługi wyłącznie przez przeciąganie,
 - brak alternatywnych przycisków „Przenieś”, „Przesuń”, „W górę”, „W dół”.
 
----
-
-## Dobre praktyki
+## 13. Dobre praktyki
 
 - stosowanie przycisków zmiany kolejności,
 - umożliwienie wykonania operacji z poziomu klawiatury,
@@ -157,54 +182,36 @@ Rozwiązanie nie wykorzystuje przeciągania jako sposobu realizacji funkcjonalno
 - traktowanie przeciągania jako dodatkowego, a nie jedynego sposobu wykonania zadania,
 - zapewnienie alternatywnej ścieżki realizacji wszystkich funkcji.
 
----
+## 14. Wynik testu
 
-## Klasyfikacja problemów
+- Spełnione
+- Częściowo spełnione
+- Niespełnione
+- Nie dotyczy
 
-### Krytyczne
+## 15. Ustalenia
 
-- kluczowy proces użytkownika możliwy do wykonania wyłącznie przez przeciąganie.
+Miejsce na opis wyników testu, wskazanie funkcjonalności wykorzystujących przeciąganie oraz opis stwierdzonych ograniczeń.
 
-### Istotne
+## 16. Przykładowy opis niezgodności do raportu lub deklaracji
 
-- brak alternatywnej metody realizacji ważnych funkcji.
+> W badanym rozwiązaniu część funkcjonalności może zostać wykonana wyłącznie poprzez przeciąganie elementów. Nie zapewniono alternatywnego sposobu realizacji tych działań. Problem może uniemożliwiać korzystanie z funkcjonalności osobom z ograniczoną sprawnością ruchową oraz użytkownikom korzystającym z technologii wspomagających.
 
-### Umiarkowane
+## 17. Rekomendacje naprawcze
 
-- alternatywa istnieje, ale jest trudna do odnalezienia lub niepełna.
+- zapewnić alternatywne przyciski realizujące te same operacje,
+- umożliwić wykonanie funkcji przy użyciu klawiatury,
+- zastosować menu kontekstowe lub dodatkowe kontrolki,
+- zapewnić alternatywną ścieżkę wykonania każdej funkcji wymagającej przeciągania,
+- przetestować rozwiązanie z użytkownikami korzystającymi z technologii wspomagających.
 
-### Drobne
+## 18. Powiązane testy
 
-- pojedyncze lokalne przypadki ograniczające wygodę użytkowania.
-
----
-
-## Profil stosowania testu
-
-| Profil                                       | Stosowanie |
-| -------------------------------------------- | ---------- |
-| Okresowa ocena stanu zgodności — minimum     | Nie        |
-| Okresowa ocena stanu zgodności — rozszerzona | Tak        |
-| Ocena przed odbiorem rozwiązania             | Tak        |
-| Audyt zgodności                              | Tak        |
-| ACR-MIN                                      | Nie        |
-| ACR-EXT                                      | Tak        |
-| ACR-AUDIT                                    | Tak        |
-
----
-
-## Powiązane testy
-
-- Gesty wskaźnika
-- Rezygnacja ze wskazania
-- Aktywowanie ruchem
-- Dostęp z klawiatury
-- Modalne okno dialogowe
-- Karuzela
-- Galeria obrazów
-
----
-
-## Uwagi
-
-Kryterium 2.5.7 zostało wprowadzone w WCAG 2.2. Nie zabrania stosowania przeciągania, lecz wymaga zapewnienia alternatywnego sposobu wykonania tej samej operacji. Wyjątek dotyczy sytuacji, w których przeciąganie jest istotne dla charakteru funkcjonalności, np. podczas tworzenia rysunku, malowania lub innych działań, których nie można sensownie wykonać bez ciągłego ruchu wskaźnika. Pojęcie „istotne” należy interpretować wąsko – nie oznacza ono rozwiązania wygodniejszego dla projektanta lub łatwiejszego do zaimplementowania.
+- testID-080 Gesty wskaźnika
+- testID-081 Rezygnacja ze wskazania
+- testID-082 Aktywowanie ruchem
+- testID-023 Dostęp z klawiatury
+- testID-024 Obsługa klawiaturą
+- testID-058 Karuzela
+- testID-068 Galeria obrazów
+- testID-130 Komponent Kalendarz

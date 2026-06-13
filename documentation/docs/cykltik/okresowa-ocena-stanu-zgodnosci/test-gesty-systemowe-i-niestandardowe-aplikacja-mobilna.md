@@ -4,142 +4,151 @@ title: Gesty systemowe i niestandardowe (aplikacja mobilna)
 sidebar_label: Gesty systemowe i niestandardowe
 sidebar_position: 97
 description: Scenariusz testu sprawdzającego, czy funkcje aplikacji mobilnej wykorzystujące gesty systemowe lub niestandardowe pozostają dostępne dla użytkowników korzystających z technologii wspomagających oraz czy dla gestów złożonych zapewniono alternatywne sposoby wykonania tych samych działań.
-keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,dostępne uwierzytelnianie]
-tags: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,dostępne uwierzytelnianie]
+keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,gest systemowy,gest niestandardowy]
+tags: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,gest systemowy,gest niestandardowy]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2026 r.
 ostatnia_aktualizacja: 12 czerwca 2026 r.
 wersja_robocza: true
 ---
 
-
-
-## Identyfikator testu
+## 1. Identyfikator testu
 
 **testID-097**
 
-## Nazwa testu
+## 2. Nazwa testu
 
-Gesty systemowe i niestandardowe (aplikacja mobilna)
+**Gesty systemowe i niestandardowe (aplikacja mobilna)**
 
-## Cel testu
+## 3. Profil stosowania testu
 
-Sprawdzenie, czy funkcje aplikacji mobilnej wykorzystujące gesty systemowe lub niestandardowe pozostają dostępne dla użytkowników korzystających z technologii wspomagających oraz czy dla gestów złożonych zapewniono alternatywne sposoby wykonania tych samych działań.
+**ACR-EXT**
 
-## Powiązane wymagania
+## 4. Opis testu
+
+Test sprawdza, czy funkcje aplikacji mobilnej wykorzystujące gesty systemowe lub niestandardowe pozostają dostępne dla użytkowników korzystających z technologii wspomagających oraz czy dla gestów złożonych zapewniono alternatywne sposoby wykonania tych samych działań.
+
+### Co oznacza „gest systemowy”?
+
+Gest systemowy to gest obsługiwany przez system operacyjny urządzenia.
+
+Przykładami są:
+
+- przewijanie,
+- przechodzenie pomiędzy ekranami,
+- cofanie,
+- standardowe gesty TalkBack,
+- standardowe gesty VoiceOver.
+
+Użytkownicy urządzeń mobilnych zazwyczaj znają te gesty i korzystają z nich niezależnie od konkretnej aplikacji.
+
+### Co oznacza „gest niestandardowy”?
+
+Gest niestandardowy to gest zdefiniowany przez twórcę aplikacji.
+
+Przykładami są:
+
+- przesunięcie karty w celu usunięcia,
+- gest dwoma lub trzema palcami,
+- przeciągnięcie elementu do określonego miejsca,
+- specjalny skrót gestowy,
+- własny sposób sterowania funkcjami aplikacji.
+
+Takie gesty mogą być trudne lub niemożliwe do wykonania przez część użytkowników.
+
+## 5. Mapowanie do standardów
 
 ### WCAG 2.1 / 2.2
 
 W szczególności:
 
-- 2.5.1 Gesty wskaźnika
-- 2.5.2 Rezygnacja ze wskazania
-- 2.5.4 Aktywowanie ruchem
-- 2.5.7 Przeciąganie
-- 2.1.1 Klawiatura
-- 4.1.2 Nazwa, rola, wartość
+- 2.5.1 Gesty wskaźnika,
+- 2.5.2 Rezygnacja ze wskazania,
+- 2.5.4 Aktywowanie ruchem,
+- 2.5.7 Przeciąganie,
+- 2.1.1 Klawiatura,
+- 4.1.2 Nazwa, rola, wartość.
 
 ### EN 301 549
 
 W szczególności:
 
-- 11.2.5.1 Pointer Gestures
-- 11.2.5.2 Pointer Cancellation
-- 11.2.5.4 Motion Actuation
-- 11.2.5.7 Dragging Movements
+- 11.2.5.1 Pointer Gestures,
+- 11.2.5.2 Pointer Cancellation,
+- 11.2.5.4 Motion Actuation,
+- 11.2.5.7 Dragging Movements,
+- 11.2.1.1 Keyboard,
+- 11.4.1.2 Name, Role, Value.
 
----
+## 6. Zastosowanie do treści
 
-## Dlaczego to jest ważne
-
-Aplikacje mobilne często wykorzystują gesty takie jak:
-
-- przesunięcie palcem,
-- przeciągnięcie,
-- szczypanie (pinch),
-- rozsuwanie palców,
-- przeciągnięcie w określonym kierunku,
-- gesty wielopunktowe.
-
-Dla wielu użytkowników wykonanie takich gestów może być trudne lub niemożliwe.
-
-Problem dotyczy w szczególności:
-
-- osób niewidomych korzystających z czytników ekranu,
-- osób z niepełnosprawnościami ruchowymi,
-- użytkowników przełączników,
-- osób korzystających z klawiatury zewnętrznej,
-- użytkowników alternatywnych metod sterowania.
-
-Jeżeli wykonanie funkcji wymaga wyłącznie złożonego gestu, część użytkowników może utracić dostęp do funkcjonalności aplikacji.
-
----
-
-## Kogo dotyczy
-
-Test jest szczególnie istotny dla:
-
-- osób niewidomych,
-- osób słabowidzących,
-- osób z niepełnosprawnościami ruchowymi,
-- użytkowników technologii wspomagających,
-- użytkowników czytników ekranu.
-
----
-
-## Zakres stosowania
-
-Test należy wykonywać dla:
+Test stosuje się do:
 
 - aplikacji Android,
 - aplikacji iOS,
-- ekranów wykorzystujących gesty dotykowe,
-- komponentów niestandardowych,
+- ekranów wykorzystujących gesty,
 - galerii zdjęć,
 - map,
 - karuzel,
 - list przewijanych gestami,
+- komponentów niestandardowych,
 - systemów nawigacji opartych na gestach.
 
----
+## 7. Oczekiwany wynik
 
-## Gesty objęte oceną
+Każda funkcja dostępna za pomocą gestu złożonego lub niestandardowego może zostać wykonana również przy użyciu alternatywnej metody.
 
-### Gesty systemowe
+Użytkownik nie jest zmuszony do wykonywania gestów wielopunktowych, niestandardowych lub wymagających dużej precyzji.
 
-Przykładowo:
+## 8. Dlaczego to jest ważne
 
-- przewijanie,
-- cofanie,
-- przechodzenie między ekranami,
-- gesty czytnika ekranu.
+Wiele aplikacji mobilnych wykorzystuje:
 
-### Gesty niestandardowe
+- przesunięcia palcem,
+- gesty wielopunktowe,
+- przeciąganie,
+- ruch urządzenia,
+- niestandardowe skróty gestowe.
 
-Przykładowo:
+Dla części użytkowników wykonanie takich gestów jest trudne lub niemożliwe.
 
-- przesunięcie karty w celu usunięcia,
-- przeciągnięcie elementu,
-- gest dwoma lub trzema palcami,
-- niestandardowe skróty gestowe,
-- sterowanie funkcjami za pomocą ruchów dłoni.
+Problem szczególnie dotyczy:
 
----
+- osób niewidomych korzystających z czytników ekranu,
+- osób z niepełnosprawnościami ruchowymi,
+- użytkowników przełączników,
+- użytkowników klawiatur zewnętrznych,
+- osób korzystających z alternatywnych metod sterowania.
 
-## Metoda badania
+Brak alternatywy może uniemożliwiać korzystanie z części funkcji aplikacji.
+
+## 9. Kogo to dotyczy
+
+Szczególnie:
+
+- osób niewidomych,
+- osób słabowidzących,
+- osób z niepełnosprawnościami ruchowymi,
+- użytkowników TalkBack,
+- użytkowników VoiceOver,
+- użytkowników przełączników,
+- użytkowników alternatywnych metod sterowania.
+
+## 10. Sposób testowania
 
 ### Krok 1. Identyfikacja gestów
 
-Przejrzyj aplikację i zidentyfikuj wszystkie funkcje aktywowane przez:
+Przejrzyj aplikację i zidentyfikuj funkcje wykorzystujące:
 
-- pojedyncze gesty,
-- gesty wielopunktowe,
+- przesunięcia,
 - przeciąganie,
-- ruch urządzenia.
+- gesty wielopunktowe,
+- ruch urządzenia,
+- niestandardowe skróty gestowe.
 
 ### Krok 2. Ocena alternatyw
 
-Dla każdego gestu sprawdź, czy dostępna jest alternatywna metoda wykonania tej samej funkcji.
+Dla każdej funkcji sprawdź, czy dostępna jest alternatywna metoda wykonania tej samej czynności.
 
 Przykładowo:
 
@@ -153,109 +162,88 @@ Przykładowo:
 
 Uruchom:
 
-- TalkBack (Android)
+- TalkBack (Android),
 
 lub
 
-- VoiceOver (iOS)
+- VoiceOver (iOS).
 
 Sprawdź, czy funkcjonalność pozostaje dostępna podczas korzystania z czytnika ekranu.
 
-### Krok 4. Ocena kluczowych procesów
+### Krok 4. Ocena procesów użytkownika
 
-Sprawdź, czy użytkownik może wykonać wszystkie kluczowe zadania bez konieczności stosowania gestów złożonych.
+Sprawdź, czy wszystkie kluczowe zadania mogą zostać wykonane bez konieczności używania gestów niestandardowych lub wielopunktowych.
 
----
+### Krok 5. Ocena dostępności alternatyw
 
-## Kryteria oceny
+Sprawdź, czy alternatywne metody są łatwo dostępne i zapewniają osiągnięcie tego samego rezultatu.
 
-### Spełnia
+## 11. Kryteria oceny wyniku
 
-Wszystkie funkcje wymagające gestów złożonych posiadają alternatywny sposób wykonania.
+### Spełnione
 
-Użytkownik może korzystać z aplikacji bez konieczności wykonywania gestów wielopunktowych lub niestandardowych.
+Wszystkie funkcje wykorzystujące gesty złożone lub niestandardowe posiadają alternatywną metodę wykonania.
 
-### Częściowo spełnia
+### Częściowo spełnione
 
-Większość funkcji posiada alternatywne rozwiązania, jednak część funkcjonalności nadal wymaga gestów niedostępnych dla części użytkowników.
+Większość funkcji posiada alternatywy, jednak część funkcjonalności nadal wymaga gestów niedostępnych dla części użytkowników.
 
-### Nie spełnia
+### Niespełnione
 
-Istnieją funkcje, które mogą zostać wykonane wyłącznie przy użyciu gestów niestandardowych lub wielopunktowych.
+Istnieją funkcje, które mogą zostać wykonane wyłącznie przy użyciu gestów niestandardowych, wielopunktowych lub wymagających dużej precyzji.
 
 ### Nie dotyczy
 
 Aplikacja nie wykorzystuje gestów wykraczających poza standardowe aktywowanie elementów interfejsu.
 
----
-
-## Typowe niezgodności
+## 12. Typowe niezgodności
 
 - usuwanie elementów wyłącznie przez przesunięcie palcem,
-- brak alternatywy dla gestu „przeciągnij i upuść”,
+- brak alternatywy dla przeciągania,
 - funkcje dostępne wyłącznie po wykonaniu gestu wielopunktowego,
 - sterowanie mapą wyłącznie przy użyciu gestów szczypania,
-- ukryte funkcje dostępne wyłącznie poprzez niestandardowe gesty.
+- ukryte funkcje dostępne wyłącznie przez niestandardowe gesty,
+- brak możliwości wykonania zadania podczas korzystania z czytnika ekranu.
 
----
-
-## Dobre praktyki
+## 13. Dobre praktyki
 
 - zapewnianie przycisków wykonujących te same funkcje co gesty,
 - udostępnianie funkcji poprzez menu kontekstowe,
 - stosowanie standardowych komponentów systemowych,
 - testowanie aplikacji z TalkBack i VoiceOver,
-- unikanie ukrywania kluczowych funkcji za gestami niestandardowymi.
+- unikanie ukrywania kluczowych funkcji za gestami niestandardowymi,
+- projektowanie alternatywnych ścieżek realizacji zadań.
 
----
+## 14. Wynik testu
 
-## Klasyfikacja problemów
+- Spełnione
+- Częściowo spełnione
+- Niespełnione
+- Nie dotyczy
 
-### Krytyczne
+## 15. Ustalenia
 
-- wykonanie kluczowego zadania możliwe wyłącznie przy użyciu niedostępnego gestu.
+Miejsce na opis wyników testu, wykrytych gestów oraz ocenę dostępności alternatywnych metod wykonania zadań.
 
-### Istotne
+## 16. Przykładowy opis niezgodności do raportu lub deklaracji
 
-- brak alternatywy dla istotnych funkcji aplikacji.
+> W aplikacji występują funkcje dostępne wyłącznie za pomocą gestów niestandardowych lub wielopunktowych. Nie zapewniono alternatywnych metod wykonania tych samych działań. Problem może uniemożliwiać korzystanie z części funkcji osobom korzystającym z technologii wspomagających oraz użytkownikom z ograniczoną sprawnością ruchową.
 
-### Umiarkowane
+## 17. Rekomendacje naprawcze
 
-- dostępność funkcji zależna od wykonania trudnych gestów.
+- zapewnić alternatywne sposoby wykonania funkcji aktywowanych gestami,
+- udostępnić funkcje poprzez standardowe elementy interfejsu,
+- ograniczyć wykorzystanie gestów niestandardowych jako jedynej metody obsługi,
+- testować aplikację z użytkownikami TalkBack i VoiceOver,
+- zweryfikować wszystkie procesy użytkownika pod kątem dostępności bez gestów złożonych.
 
-### Drobne
+## 18. Powiązane testy
 
-- lokalne problemy dotyczące funkcji pomocniczych.
-
----
-
-## Profil stosowania testu
-
-| Profil                                       | Stosowanie              |
-| -------------------------------------------- | ----------------------- |
-| Okresowa ocena stanu zgodności — minimum     | Tak (aplikacje mobilne) |
-| Okresowa ocena stanu zgodności — rozszerzona | Tak                     |
-| Ocena przed odbiorem rozwiązania             | Tak                     |
-| Audyt zgodności                              | Tak                     |
-| ACR-MIN                                      | Tak                     |
-| ACR-EXT                                      | Tak                     |
-| ACR-AUDIT                                    | Tak                     |
-
----
-
-## Powiązane testy
-
-- Obsługa czytnikiem ekranu (aplikacja mobilna)
-- Obsługa klawiaturą zewnętrzną (aplikacja mobilna)
-- Gesty wskaźnika
-- Przeciąganie
-- Rezygnacja ze wskazania
-- Aktywowanie ruchem
-- Karuzela
-- Galeria obrazów
-
----
-
-## Uwagi
-
-Test stanowi mobilny odpowiednik kart dotyczących gestów wskaźnika, przeciągania i aktywowania ruchem, ale koncentruje się na rzeczywistym sposobie korzystania z aplikacji mobilnych. Szczególną uwagę należy zwrócić na funkcjonalności dostępne wyłącznie poprzez przesunięcia, gesty wielopunktowe lub gesty specyficzne dla danej aplikacji. W przypadku aplikacji mobilnych brak alternatywy dla takich gestów jest jedną z najczęstszych przyczyn niedostępności dla użytkowników technologii wspomagających.
+- testID-095 Obsługa czytnikiem ekranu (aplikacja mobilna)
+- testID-096 Obsługa klawiaturą zewnętrzną (aplikacja mobilna)
+- testID-080 Gesty wskaźnika
+- testID-081 Rezygnacja ze wskazania
+- testID-082 Aktywowanie ruchem
+- testID-088 Przeciąganie
+- testID-058 Karuzela
+- testID-068 Galeria obrazów

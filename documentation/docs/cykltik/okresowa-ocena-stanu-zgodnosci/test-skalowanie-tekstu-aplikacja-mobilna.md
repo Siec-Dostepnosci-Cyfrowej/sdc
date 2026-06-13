@@ -12,73 +12,57 @@ ostatnia_aktualizacja: 12 czerwca 2026 r.
 wersja_robocza: true
 ---
 
-## Identyfikator testu
+## 1. Identyfikator testu
 
 **testID-101**
 
-## Nazwa testu
+## 2. Nazwa testu
 
-Skalowanie tekstu (aplikacja mobilna)
+**Skalowanie tekstu (aplikacja mobilna)**
 
-## Cel testu
+## 3. Profil stosowania testu
 
-Sprawdzenie, czy aplikacja mobilna prawidłowo reaguje na zmianę rozmiaru tekstu ustawioną przez użytkownika w systemie operacyjnym oraz czy treść i funkcjonalność pozostają dostępne przy znacznym powiększeniu tekstu.
+**ACR-MIN**
 
-## Powiązane wymagania
+## 4. Opis testu
+
+Test sprawdza, czy aplikacja mobilna prawidłowo reaguje na zmianę rozmiaru tekstu ustawioną przez użytkownika w systemie operacyjnym oraz czy treść i funkcjonalność pozostają dostępne przy znacznym powiększeniu tekstu.
+
+### Co oznacza „skalowanie tekstu”?
+
+Skalowanie tekstu oznacza dostosowanie wielkości tekstu wyświetlanego w aplikacji do ustawień wybranych przez użytkownika w systemie operacyjnym urządzenia.
+
+Użytkownik może zwiększyć rozmiar tekstu między innymi w celu:
+
+- poprawy czytelności,
+- ograniczenia zmęczenia wzroku,
+- korzystania z urządzenia przy słabszym wzroku,
+- dostosowania interfejsu do własnych potrzeb.
+
+Aplikacja powinna respektować te ustawienia i zachowywać czytelność oraz funkcjonalność również przy bardzo dużych rozmiarach tekstu.
+
+## 5. Mapowanie do standardów
 
 ### WCAG 2.1 / 2.2
 
 W szczególności:
 
-- 1.4.4 Zmiana rozmiaru tekstu
-- 1.4.10 Dopasowanie do szerokości ekranu (w zakresie mającym zastosowanie do aplikacji mobilnych)
-- 1.4.12 Odstępy w tekście
-- 1.3.1 Informacje i relacje
+- 1.4.4 Zmiana rozmiaru tekstu,
+- 1.4.10 Dopasowanie do szerokości ekranu,
+- 1.4.12 Odstępy w tekście,
+- 1.3.1 Informacje i relacje.
 
 ### EN 301 549
 
 W szczególności:
 
-- 11.1.4.4 Resize Text
-- 11.1.4.10 Reflow
+- 11.1.4.4 Resize Text,
+- 11.1.4.10 Reflow,
 - wymagania dotyczące współpracy z ustawieniami dostępności systemu operacyjnego.
 
----
+## 6. Zastosowanie do treści
 
-## Dlaczego to jest ważne
-
-Wielu użytkowników korzysta z powiększonego tekstu ustawionego w systemie operacyjnym.
-
-Dotyczy to szczególnie:
-
-- osób słabowidzących,
-- osób starszych,
-- osób z dysleksją,
-- użytkowników korzystających z urządzeń mobilnych w trudnych warunkach oświetleniowych.
-
-Jeżeli aplikacja nie reaguje prawidłowo na zmianę rozmiaru tekstu, może dochodzić do sytuacji, w których:
-
-- tekst zostaje obcięty,
-- nakłada się na inne elementy,
-- znika część informacji,
-- przyciski i pola formularzy stają się niedostępne.
-
----
-
-## Kogo dotyczy
-
-Test jest szczególnie istotny dla:
-
-- osób słabowidzących,
-- osób starszych,
-- osób z trudnościami w czytaniu,
-- użytkowników korzystających z ustawień dostępności systemu.
-
----
-
-## Zakres stosowania
-
-Test należy wykonywać dla:
+Test stosuje się do:
 
 - aplikacji Android,
 - aplikacji iOS,
@@ -89,36 +73,60 @@ Test należy wykonywać dla:
 - ekranów ustawień,
 - komunikatów,
 - okien dialogowych,
-- procesów użytkownika.
+- procesów użytkownika,
+- komponentów niestandardowych.
 
----
+## 7. Oczekiwany wynik
 
-## Narzędzia
+Po zwiększeniu rozmiaru tekstu:
 
-### Android
+- treść pozostaje czytelna,
+- informacje nie są obcinane,
+- elementy nie nakładają się na siebie,
+- użytkownik może wykonywać wszystkie kluczowe zadania,
+- funkcjonalność aplikacji pozostaje zachowana.
 
-- ustawienia rozmiaru czcionki,
-- ustawienia wielkości wyświetlania (Display Size).
+## 8. Dlaczego to jest ważne
 
-### iOS
+Wielu użytkowników korzysta z powiększonego tekstu ustawionego w systemie operacyjnym.
 
-- Dynamic Type,
-- Larger Accessibility Sizes.
+Dotyczy to szczególnie:
 
----
+- osób słabowidzących,
+- osób starszych,
+- osób z trudnościami w czytaniu,
+- użytkowników korzystających z urządzeń mobilnych w trudnych warunkach oświetleniowych.
 
-## Metoda badania
+Jeżeli aplikacja nie respektuje ustawień użytkownika, może dochodzić do sytuacji, w których:
+
+- tekst zostaje obcięty,
+- informacje stają się niedostępne,
+- elementy interfejsu nakładają się na siebie,
+- formularze stają się trudne lub niemożliwe do obsługi.
+
+## 9. Kogo to dotyczy
+
+Szczególnie:
+
+- osób słabowidzących,
+- osób starszych,
+- osób z dysleksją,
+- osób z trudnościami w czytaniu,
+- użytkowników korzystających z ustawień dostępności systemu,
+- wszystkich użytkowników preferujących większy tekst.
+
+## 10. Sposób testowania
 
 ### Krok 1. Ustawienie powiększonego tekstu
 
 Zwiększ rozmiar tekstu w ustawieniach systemu operacyjnego.
 
-Zaleca się zastosowanie:
+Zaleca się sprawdzenie:
 
 - największego standardowego rozmiaru tekstu,
-- a następnie największego rozmiaru dostępności (jeżeli system taki oferuje).
+- największego rozmiaru dostępności oferowanego przez system.
 
-### Krok 2. Ponowne uruchomienie aplikacji
+### Krok 2. Uruchomienie aplikacji
 
 Uruchom aplikację lub przejdź ponownie przez oceniane ekrany.
 
@@ -138,7 +146,7 @@ Sprawdź, czy nadal można:
 - korzystać z menu,
 - wypełniać formularze,
 - odczytywać komunikaty,
-- wykonywać kluczowe procesy.
+- wykonywać kluczowe procesy użytkownika.
 
 ### Krok 5. Ocena komponentów
 
@@ -149,36 +157,25 @@ Sprawdź działanie:
 - zakładek,
 - komunikatów,
 - okien dialogowych,
-- elementów niestandardowych.
+- komponentów niestandardowych.
 
----
+### Krok 6. Weryfikacja procesów użytkownika
 
-## Pytania kontrolne
+Przeprowadź najważniejsze procesy użytkownika przy maksymalnym rozmiarze tekstu i oceń, czy nadal można je ukończyć.
 
-1. Czy aplikacja reaguje na zmianę rozmiaru tekstu ustawioną przez użytkownika?
-2. Czy tekst pozostaje czytelny?
-3. Czy nie dochodzi do obcinania tekstu?
-4. Czy elementy nie nakładają się na siebie?
-5. Czy wszystkie funkcje pozostają dostępne?
-6. Czy użytkownik może wykonać kluczowe zadania przy największym rozmiarze tekstu?
+## 11. Kryteria oceny wyniku
 
----
+### Spełnione
 
-## Kryteria oceny
+Aplikacja prawidłowo reaguje na zwiększenie rozmiaru tekstu. Treść pozostaje czytelna, a funkcjonalność dostępna.
 
-### Spełnia
+### Częściowo spełnione
 
-Aplikacja poprawnie reaguje na zwiększenie rozmiaru tekstu.
+Występują lokalne problemy związane ze skalowaniem tekstu, jednak nie uniemożliwiają wykonania kluczowych zadań.
 
-Treść pozostaje czytelna, a funkcjonalność dostępna.
+### Niespełnione
 
-### Częściowo spełnia
-
-Występują lokalne problemy związane ze skalowaniem tekstu, jednak nie uniemożliwiają one realizacji kluczowych zadań.
-
-### Nie spełnia
-
-Powiększenie tekstu powoduje utratę treści, funkcjonalności lub uniemożliwia wykonanie zadań.
+Powiększenie tekstu powoduje utratę informacji, funkcjonalności lub uniemożliwia wykonanie zadania.
 
 ### Nie dotyczy
 
@@ -186,78 +183,58 @@ Nie stosuje się.
 
 Każda aplikacja mobilna wykorzystująca tekst może zostać oceniona.
 
----
-
-## Typowe niezgodności
+## 12. Typowe niezgodności
 
 - obcinanie tekstu w przyciskach,
 - ucinanie etykiet formularzy,
-- nakładanie się elementów,
+- nakładanie się elementów interfejsu,
 - niewidoczne komunikaty,
 - utrata części treści,
 - przyciski wychodzące poza ekran,
-- komponenty niereagujące na ustawienia systemowe.
+- komponenty ignorujące ustawienia systemowe,
+- błędne działanie formularzy po zwiększeniu rozmiaru tekstu.
 
----
+## 13. Dobre praktyki
 
-## Dobre praktyki
-
-- korzystanie z Dynamic Type (iOS),
+- korzystanie z Dynamic Type w iOS,
 - korzystanie z mechanizmów skalowania Androida,
-- projektowanie elastycznych układów,
-- testowanie przy maksymalnych ustawieniach tekstu,
-- unikanie sztywno definiowanych wysokości elementów.
+- projektowanie elastycznych układów interfejsu,
+- testowanie przy maksymalnych ustawieniach dostępności,
+- unikanie sztywno definiowanych wysokości elementów,
+- uwzględnianie skalowania tekstu już na etapie projektowania.
 
----
+## 14. Wynik testu
 
-## Klasyfikacja problemów
+- Spełnione
+- Częściowo spełnione
+- Niespełnione
+- Nie dotyczy
 
-### Krytyczne
+## 15. Ustalenia
 
-- użytkownik nie może wykonać kluczowego zadania po zwiększeniu rozmiaru tekstu,
-- istotne informacje stają się niedostępne.
+Miejsce na opis wyników testu, wskazanie problemów związanych ze skalowaniem tekstu oraz ocenę ich wpływu na użytkowników.
 
-### Istotne
+## 16. Przykładowy opis niezgodności do raportu lub deklaracji
 
-- formularze lub menu stają się trudne albo niemożliwe do użycia.
+> Aplikacja nieprawidłowo reaguje na zwiększenie rozmiaru tekstu ustawionego przez użytkownika. Po zastosowaniu dużych rozmiarów czcionki część treści jest obcinana, nakłada się na inne elementy lub staje się niedostępna. Problem może utrudniać korzystanie z aplikacji osobom słabowidzącym oraz użytkownikom korzystającym z ustawień dostępności systemu operacyjnego.
 
-### Umiarkowane
+## 17. Rekomendacje naprawcze
 
-- lokalne problemy z układem lub czytelnością.
+- dostosować interfejs do współpracy z systemowymi ustawieniami rozmiaru tekstu,
+- usunąć przypadki obcinania treści,
+- zapewnić elastyczne skalowanie komponentów,
+- przeprojektować elementy o sztywno określonych wymiarach,
+- testować aplikację przy maksymalnych ustawieniach dostępności,
+- zweryfikować wszystkie kluczowe procesy użytkownika przy powiększonym tekście.
 
-### Drobne
+## 18. Powiązane testy
 
-- pojedyncze przypadki nieoptymalnego skalowania.
-
----
-
-## Profil stosowania testu
-
-| Profil                                       | Stosowanie              |
-| -------------------------------------------- | ----------------------- |
-| Okresowa ocena stanu zgodności — minimum     | Tak (aplikacje mobilne) |
-| Okresowa ocena stanu zgodności — rozszerzona | Tak                     |
-| Ocena przed odbiorem rozwiązania             | Tak                     |
-| Audyt zgodności                              | Tak                     |
-| ACR-MIN                                      | Tak                     |
-| ACR-EXT                                      | Tak                     |
-| ACR-AUDIT                                    | Tak                     |
-
----
-
-## Powiązane testy
-
-- Orientacja ekranu (aplikacja mobilna)
-- Obsługa czytnikiem ekranu (aplikacja mobilna)
-- Etykiety elementów (aplikacja mobilna)
-- Zmiana rozmiaru tekstu
-- Dopasowanie do szerokości ekranu
-- Odstępy w tekście
-- Rozmiar celu (minimum)
-- Rozmiar celu dotykowego (ulepszone)
-
----
-
-## Uwagi
-
-Test ten jest jednym z najważniejszych testów dostępności aplikacji mobilnych. W przeciwieństwie do stron internetowych problem zwykle nie polega na możliwości powiększenia treści przez użytkownika, lecz na tym, czy aplikacja respektuje systemowe ustawienia rozmiaru tekstu. Szczególną uwagę należy zwracać na formularze, komunikaty, przyciski i niestandardowe komponenty interfejsu, ponieważ właśnie tam najczęściej występują błędy związane ze skalowaniem. W praktyce monitoringu aplikacji mobilnych test ten powinien należeć do podstawowego zestawu badań.
+- testID-100 Orientacja ekranu (aplikacja mobilna)
+- testID-095 Obsługa czytnikiem ekranu (aplikacja mobilna)
+- testID-099 Etykiety elementów interaktywnych (aplikacja mobilna)
+- testID-033 Zmiana rozmiaru tekstu
+- testID-034 Dopasowanie do szerokości ekranu
+- testID-035 Reflow (dopasowanie treści)
+- testID-084 Odstępy w tekście
+- testID-089 Rozmiar celu (minimum)
+- testID-090 Rozmiar celu (ulepszone)

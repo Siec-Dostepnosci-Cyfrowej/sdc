@@ -12,34 +12,57 @@ ostatnia_aktualizacja: 12 czerwca 2026 r.
 wersja_robocza: true
 ---
 
-
-
-## Identyfikator testu
+## 1. Identyfikator testu
 
 **testID-083**
 
-## Nazwa testu
+## 2. Nazwa testu
 
-Odstępy w tekście
+**Odstępy w tekście**
 
-## Cel testu
+## 3. Profil stosowania testu
 
-Sprawdzenie, czy użytkownik może zwiększyć odstępy pomiędzy znakami, wyrazami, wierszami i akapitami bez utraty treści lub funkcjonalności rozwiązania.
+**ACR-EXT**
 
-## Powiązane wymagania
+## 4. Opis testu
 
-### WCAG 2.1
+Test sprawdza, czy użytkownik może zwiększyć odstępy pomiędzy znakami, wyrazami, wierszami i akapitami bez utraty treści lub funkcjonalności rozwiązania.
 
-- 1.4.12 Odstępy w tekście (Text Spacing) – poziom AA
+## 5. Mapowanie do standardów
+
+### WCAG 2.1 / 2.2
+
+- 1.4.12 Odstępy w tekście (Poziom AA)
 
 ### EN 301 549
 
 - 9.1.4.12 Text Spacing
 - 11.1.4.12 Text Spacing
 
----
+## 6. Zastosowanie do treści
 
-## Dlaczego to jest ważne
+Test stosuje się do:
+
+- stron internetowych,
+- aplikacji internetowych,
+- formularzy,
+- artykułów,
+- dokumentacji online,
+- paneli administracyjnych,
+- systemów informacyjnych,
+- innych rozwiązań zawierających tekst.
+
+## 7. Oczekiwany wynik
+
+Po zwiększeniu odstępów zgodnie z wymaganiami WCAG:
+
+- wszystkie treści pozostają dostępne,
+- tekst nie jest obcinany,
+- tekst nie nakłada się na inne elementy,
+- funkcjonalność rozwiązania pozostaje zachowana,
+- użytkownik może nadal korzystać z formularzy i elementów interfejsu.
+
+## 8. Dlaczego to jest ważne
 
 Wiele osób ma trudności z czytaniem tekstu o zbyt małych odstępach pomiędzy znakami, wyrazami lub wierszami.
 
@@ -48,39 +71,23 @@ Zwiększenie odstępów może znacząco poprawić czytelność dla:
 - osób słabowidzących,
 - osób z dysleksją,
 - osób z trudnościami poznawczymi,
-- osób czytających tekst przy dużym powiększeniu.
+- osób korzystających z dużych powiększeń,
+- osób stosujących własne arkusze stylów.
 
 Użytkownik powinien mieć możliwość dostosowania sposobu prezentacji tekstu do własnych potrzeb bez utraty dostępu do treści i funkcji.
 
----
+## 9. Kogo to dotyczy
 
-## Kogo dotyczy
-
-Test jest szczególnie istotny dla:
+Szczególnie:
 
 - osób słabowidzących,
 - osób z dysleksją,
 - osób z trudnościami w czytaniu,
+- osób z niepełnosprawnościami poznawczymi,
 - użytkowników korzystających z własnych arkuszy stylów,
 - osób powiększających treść strony.
 
----
-
-## Zakres stosowania
-
-Test należy wykonywać dla:
-
-- stron internetowych,
-- aplikacji webowych,
-- formularzy,
-- artykułów,
-- dokumentacji online,
-- paneli administracyjnych,
-- innych rozwiązań zawierających tekst.
-
----
-
-## Metoda badania
+## 10. Sposób testowania
 
 ### Krok 1. Wybór stron i ekranów
 
@@ -93,50 +100,39 @@ Wybierz strony zawierające:
 
 ### Krok 2. Zastosowanie wymaganych odstępów
 
-Przy użyciu narzędzi deweloperskich przeglądarki, własnego arkusza stylów lub rozszerzenia przeglądarki zastosuj następujące wartości:
+Przy użyciu własnego arkusza stylów, rozszerzenia przeglądarki lub narzędzi deweloperskich zastosuj następujące wartości:
 
 - wysokość wiersza (line-height): co najmniej 1,5,
 - odstęp po akapicie: co najmniej 2 × wielkość czcionki,
 - odstęp między literami (letter-spacing): co najmniej 0,12 em,
 - odstęp między wyrazami (word-spacing): co najmniej 0,16 em.
 
-### Krok 3. Ocena efektu
+### Krok 3. Ocena prezentacji treści
 
 Sprawdź, czy po zastosowaniu odstępów:
 
 - wszystkie treści pozostają dostępne,
 - tekst nie jest obcinany,
 - tekst nie nakłada się na inne elementy,
-- nie pojawiają się poziome paski przewijania wynikające wyłącznie z zastosowania odstępów,
-- formularze i elementy interfejsu pozostają używalne.
+- nie pojawiają się dodatkowe problemy z nawigacją.
 
----
+### Krok 4. Ocena funkcjonalności
 
-## Kryteria oceny
+Sprawdź, czy formularze, przyciski i pozostałe elementy interfejsu pozostają używalne po zastosowaniu zwiększonych odstępów.
 
-### Spełnia
+## 11. Kryteria oceny wyniku
 
-Po zastosowaniu wymaganych odstępów:
+### Spełnione
 
-- treść pozostaje dostępna,
-- funkcjonalność rozwiązania nie ulega pogorszeniu,
-- tekst nie jest obcinany ani ukrywany.
+Po zastosowaniu wymaganych odstępów treść pozostaje dostępna, czytelna i funkcjonalna.
 
-### Częściowo spełnia
+### Częściowo spełnione
 
-Większość treści pozostaje dostępna, ale występują pojedyncze problemy, np.:
+Większość treści pozostaje dostępna, jednak występują pojedyncze problemy prezentacyjne lub funkcjonalne.
 
-- obcinanie tekstu w niektórych komponentach,
-- nakładanie się tekstu na elementy interfejsu.
+### Niespełnione
 
-### Nie spełnia
-
-Po zwiększeniu odstępów:
-
-- część treści staje się niedostępna,
-- tekst jest obcinany,
-- tekst nakłada się na inne elementy,
-- korzystanie z funkcjonalności staje się niemożliwe lub istotnie utrudnione.
+Po zwiększeniu odstępów część treści lub funkcjonalności staje się niedostępna.
 
 ### Nie dotyczy
 
@@ -144,74 +140,52 @@ Nie stosuje się.
 
 Kryterium dotyczy wszystkich rozwiązań zawierających tekst.
 
----
-
-## Typowe niezgodności
+## 12. Typowe niezgodności
 
 - obcinanie tekstu w przyciskach,
 - nakładanie się etykiet formularzy,
 - ukrywanie części tekstu w kartach lub panelach,
 - stałe wysokości kontenerów uniemożliwiające rozszerzenie treści,
-- przycinanie tekstu przez właściwość CSS `overflow:hidden`.
+- przycinanie tekstu przez właściwość CSS `overflow:hidden`,
+- nachodzenie elementów interfejsu na tekst.
 
----
-
-## Dobre praktyki
+## 13. Dobre praktyki
 
 - projektowanie komponentów umożliwiających naturalne zwiększanie wysokości,
 - unikanie sztywnych wysokości elementów zawierających tekst,
-- stosowanie układów elastycznych (responsive),
-- testowanie interfejsu przy zwiększonych odstępach i powiększeniu tekstu.
+- stosowanie elastycznych układów interfejsu,
+- testowanie interfejsu przy zwiększonych odstępach i powiększeniu tekstu,
+- stosowanie responsywnych komponentów.
 
----
+## 14. Wynik testu
 
-## Klasyfikacja problemów
+- Spełnione
+- Częściowo spełnione
+- Niespełnione
+- Nie dotyczy
 
-### Krytyczne
+## 15. Ustalenia
 
-- utrata dostępu do istotnych treści lub funkcji po zwiększeniu odstępów.
+Miejsce na opis wyników testu, wskazanie problematycznych komponentów oraz opis zaobserwowanych niezgodności.
 
-### Istotne
+## 16. Przykładowy opis niezgodności do raportu lub deklaracji
 
-- obcinanie tekstu uniemożliwiające zrozumienie informacji,
-- niedostępne formularze lub komunikaty.
+> Po zastosowaniu zwiększonych odstępów pomiędzy znakami, wyrazami, wierszami i akapitami część treści jest obcinana lub nakłada się na inne elementy interfejsu. Powoduje to utrudnienia w odczycie informacji oraz korzystaniu z funkcjonalności serwisu przez użytkowników dostosowujących sposób prezentacji tekstu do własnych potrzeb.
 
-### Umiarkowane
+## 17. Rekomendacje naprawcze
 
-- lokalne problemy prezentacyjne utrudniające czytanie.
+- usunąć sztywne wysokości elementów zawierających tekst,
+- dostosować komponenty do zwiększonych odstępów,
+- wyeliminować przycinanie treści przez właściwości CSS,
+- stosować elastyczne układy interfejsu,
+- przeprowadzić testy przy zwiększonych odstępach i powiększeniu tekstu.
 
-### Drobne
+## 18. Powiązane testy
 
-- pojedyncze błędy wizualne bez istotnego wpływu na użytkowanie.
-
----
-
-## Profil stosowania testu
-
-| Profil                                       | Stosowanie |
-| -------------------------------------------- | ---------- |
-| Okresowa ocena stanu zgodności — minimum     | Nie        |
-| Okresowa ocena stanu zgodności — rozszerzona | Tak        |
-| Ocena przed odbiorem rozwiązania             | Tak        |
-| Audyt zgodności                              | Tak        |
-| ACR-MIN                                      | Nie        |
-| ACR-EXT                                      | Tak        |
-| ACR-AUDIT                                    | Tak        |
-
----
-
-## Powiązane testy
-
-- Zmiana rozmiaru tekstu
-- Dopasowanie do szerokości ekranu
-- Wystarczający kontrast
-- Obrazy tekstu
-- Użycie koloru
-- Tabela
-- Formularz
-
----
-
-## Uwagi
-
-Test nie wymaga udostępnienia użytkownikowi mechanizmu zmiany odstępów. Wymaga jedynie, aby rozwiązanie działało poprawnie w sytuacji, gdy użytkownik sam zastosuje zwiększone odstępy przy użyciu funkcji przeglądarki, własnych ustawień lub technologii wspomagających. Najczęstszą przyczyną niezgodności są sztywne układy interfejsu oraz elementy o stałej wysokości, które nie dostosowują się do większej ilości miejsca potrzebnej na wyświetlenie tekstu.
+- testID-037 Zmiana rozmiaru tekstu
+- testID-038 Dopasowanie do szerokości ekranu
+- testID-032 Wystarczający kontrast
+- testID-072 Obrazy tekstu
+- testID-075 Użycie koloru
+- testID-062 Tabela danych
+- testID-120 Formularz

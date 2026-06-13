@@ -12,25 +12,56 @@ ostatnia_aktualizacja: 12 czerwca 2026 r.
 wersja_robocza: true
 ---
 
-
-
-## Identyfikator testu
+## 1. Identyfikator testu
 
 **testID-094**
 
-## Nazwa testu
+## 2. Nazwa testu
 
-Dostępne uwierzytelnianie (ulepszone)
+**Dostępne uwierzytelnianie (ulepszone)**
 
-## Cel testu
+## 3. Profil stosowania testu
 
-Sprawdzenie, czy proces uwierzytelniania nie wymaga od użytkownika wykonywania testów poznawczych oraz nie wymaga odtwarzania informacji z pamięci, chyba że użytkownik korzysta z menedżera haseł, funkcji autouzupełniania lub innego mechanizmu wspomagającego.
+**ACR-AUDIT**
 
-## Powiązane wymagania
+## 4. Opis testu
 
-### WCAG 2.2
+Test sprawdza, czy proces uwierzytelniania nie wymaga od użytkownika odtwarzania informacji z pamięci ani wykonywania testów poznawczych, nawet wtedy, gdy dostępne są mechanizmy wspomagające, takie jak menedżery haseł lub funkcje autouzupełniania.
 
-- 3.3.9 Dostępne uwierzytelnianie (ulepszone) (Accessible Authentication (Enhanced)) – poziom AAA
+### Co oznacza „uwierzytelnianie”?
+
+Uwierzytelnianie to proces potwierdzania tożsamości użytkownika przed uzyskaniem dostępu do systemu, usługi lub określonych funkcji.
+
+Przykładami uwierzytelniania są:
+
+- logowanie przy użyciu nazwy użytkownika i hasła,
+- logowanie przez profil zaufany,
+- logowanie biometryczne,
+- logowanie za pomocą passkey,
+- logowanie przy użyciu klucza bezpieczeństwa,
+- logowanie jednokrotne (SSO).
+
+### Co oznacza „test poznawczy”?
+
+Test poznawczy to zadanie wymagające od użytkownika:
+
+- zapamiętania informacji,
+- odtworzenia informacji z pamięci,
+- rozpoznania wzorca,
+- rozwiązania zadania wymagającego percepcji lub rozumowania,
+- odpowiedzi na pytanie wymagające przypomnienia sobie informacji.
+
+### Czym różni się wersja „ulepszona” od wersji „minimum”?
+
+Kryterium 3.3.8 (poziom AA) dopuszcza sytuację, w której użytkownik musi pamiętać określoną informację, jeżeli może korzystać z mechanizmów wspomagających, takich jak menedżer haseł.
+
+Kryterium 3.3.9 (poziom AAA) idzie krok dalej i wymaga, aby proces uwierzytelniania nie opierał się na konieczności odtwarzania informacji z pamięci przez użytkownika.
+
+## 5. Mapowanie do standardów
+
+### WCAG 2.1 / 2.2
+
+- 3.3.9 Dostępne uwierzytelnianie (ulepszone) (Poziom AAA)
 
 ### EN 301 549
 
@@ -39,69 +70,57 @@ Po publikacji aktualizacji normy uwzględniającej WCAG 2.2:
 - 9.3.3.9 Accessible Authentication (Enhanced)
 - 11.3.3.9 Accessible Authentication (Enhanced)
 
----
+## 6. Zastosowanie do treści
 
-## Dlaczego to jest ważne
+Test stosuje się do:
 
-Wymóg zapamiętywania i odtwarzania informacji stanowi istotną barierę dla wielu użytkowników.
+- formularzy logowania,
+- usług publicznych wymagających uwierzytelnienia,
+- aplikacji internetowych,
+- aplikacji mobilnych,
+- systemów administracyjnych,
+- systemów transakcyjnych,
+- procesów odzyskiwania dostępu do konta,
+- procesów potwierdzania tożsamości.
 
-Dotyczy to w szczególności:
+## 7. Oczekiwany wynik
+
+Proces uwierzytelniania:
+
+- nie wymaga od użytkownika odtwarzania informacji z pamięci,
+- nie wymaga wykonywania testów poznawczych,
+- wykorzystuje metody uwierzytelniania niewymagające pamiętania informacji.
+
+Użytkownik może skutecznie uwierzytelnić się bez konieczności przypominania sobie haseł, odpowiedzi bezpieczeństwa lub innych informacji przechowywanych w pamięci.
+
+## 8. Dlaczego to jest ważne
+
+Wymóg pamiętania informacji stanowi istotną barierę dla wielu użytkowników.
+
+Problem dotyczy szczególnie:
 
 - osób z niepełnosprawnościami poznawczymi,
 - osób z zaburzeniami pamięci,
 - osób z dysleksją,
 - osób starszych,
-- osób korzystających z wielu różnych systemów.
+- użytkowników korzystających z wielu różnych systemów,
+- osób korzystających z technologii wspomagających.
 
-Nawet jeśli użytkownik może korzystać z menedżera haseł, konieczność samodzielnego odtworzenia informacji z pamięci w niektórych sytuacjach nadal może stanowić istotną przeszkodę.
+Nawet gdy dostępne są mechanizmy wspomagające, proces oparty na pamięci użytkownika może powodować trudności, błędy i rezygnację z korzystania z usługi.
 
-Kryterium 3.3.9 rozszerza wymagania kryterium 3.3.8 i promuje rozwiązania niewymagające pamiętania informacji przez użytkownika.
+## 9. Kogo to dotyczy
 
----
-
-## Kogo dotyczy
-
-Test jest szczególnie istotny dla:
+Szczególnie:
 
 - osób z niepełnosprawnościami poznawczymi,
 - osób z trudnościami w uczeniu się,
 - osób z dysleksją,
 - osób z zaburzeniami pamięci,
 - osób starszych,
-- użytkowników technologii wspomagających.
+- użytkowników technologii wspomagających,
+- wszystkich użytkowników korzystających z wielu usług wymagających logowania.
 
----
-
-## Zakres stosowania
-
-Test należy wykonywać dla:
-
-- formularzy logowania,
-- usług publicznych wymagających uwierzytelnienia,
-- aplikacji webowych,
-- aplikacji mobilnych,
-- systemów administracyjnych,
-- procesów odzyskiwania dostępu do konta.
-
----
-
-## Różnica między kryteriami 3.3.8 i 3.3.9
-
-### Kryterium 3.3.8 (AA)
-
-Dopuszcza konieczność odtwarzania informacji z pamięci, jeżeli użytkownik może korzystać z mechanizmów wspomagających, takich jak:
-
-- menedżery haseł,
-- autouzupełnianie,
-- wklejanie danych.
-
-### Kryterium 3.3.9 (AAA)
-
-Wymaga, aby proces uwierzytelniania nie wymagał od użytkownika wykonywania zadań opartych na pamięci, nawet jeśli dostępne są mechanizmy wspomagające.
-
----
-
-## Metoda badania
+## 10. Sposób testowania
 
 ### Krok 1. Identyfikacja procesu uwierzytelniania
 
@@ -111,120 +130,103 @@ Przejdź przez cały proces:
 - odzyskiwania dostępu,
 - potwierdzania tożsamości.
 
-### Krok 2. Identyfikacja wymagań poznawczych
+### Krok 2. Identyfikacja wymagań opartych na pamięci
 
 Sprawdź, czy użytkownik musi:
 
 - przypomnieć sobie hasło,
-- przypomnieć sobie odpowiedzi na pytania bezpieczeństwa,
-- odtworzyć informacje z pamięci,
+- przypomnieć sobie odpowiedź na pytanie bezpieczeństwa,
+- odtworzyć identyfikator,
 - rozpoznać wzorzec lub sekwencję,
-- rozwiązać zadanie poznawcze.
+- wykonać inne zadanie wymagające pamięci.
 
-### Krok 3. Ocena alternatywnych metod
+### Krok 3. Ocena metod uwierzytelniania
 
-Sprawdź, czy dostępne są metody niewymagające pamięci, np.:
+Sprawdź, czy dostępne są metody niewymagające pamięci, takie jak:
 
 - passkeys,
 - logowanie biometryczne,
 - logowanie przy użyciu urządzenia zaufanego,
-- jednorazowy link logujący,
-- uwierzytelnianie oparte na kluczu sprzętowym.
+- klucze bezpieczeństwa,
+- jednorazowe linki logujące,
+- uwierzytelnianie federacyjne.
 
 ### Krok 4. Ocena procesu odzyskiwania dostępu
 
 Sprawdź, czy odzyskiwanie dostępu również nie wymaga odtwarzania informacji z pamięci.
 
----
+### Krok 5. Ocena podstawowej ścieżki logowania
 
-## Kryteria oceny
+Sprawdź, czy podstawowy sposób logowania spełnia wymaganie, a nie jedynie dodatkowe lub opcjonalne metody.
 
-### Spełnia
+## 11. Kryteria oceny wyniku
 
-Proces uwierzytelniania nie wymaga od użytkownika:
+### Spełnione
 
-- odtwarzania informacji z pamięci,
-- przypominania sobie odpowiedzi,
-- wykonywania testów poznawczych.
+Proces uwierzytelniania nie wymaga od użytkownika odtwarzania informacji z pamięci ani wykonywania testów poznawczych.
 
-Użytkownik może uwierzytelnić się przy użyciu metod niewymagających pamięci.
+### Częściowo spełnione
 
-### Częściowo spełnia
+Dostępne są metody spełniające wymaganie, jednak część procesów lub podstawowa ścieżka logowania nadal wymaga odtwarzania informacji z pamięci.
 
-Dostępne są metody spełniające wymaganie, jednak część procesów nadal wymaga odtwarzania informacji z pamięci.
+### Niespełnione
 
-### Nie spełnia
-
-Podstawowy proces uwierzytelniania wymaga od użytkownika odtwarzania informacji z pamięci.
+Podstawowy proces uwierzytelniania wymaga od użytkownika odtwarzania informacji z pamięci lub wykonywania testów poznawczych.
 
 ### Nie dotyczy
 
 Rozwiązanie nie wymaga uwierzytelniania użytkownika.
 
----
-
-## Typowe niezgodności
+## 12. Typowe niezgodności
 
 - logowanie wyłącznie przy użyciu hasła pamiętanego przez użytkownika,
 - pytania bezpieczeństwa wymagające przypomnienia sobie informacji,
 - odzyskiwanie konta wymagające podania zapamiętanych odpowiedzi,
-- systemy wykorzystujące tajne pytania lub frazy bezpieczeństwa,
-- obowiązek pamiętania wielu niezależnych identyfikatorów.
+- obowiązek pamiętania wielu identyfikatorów lub kodów,
+- brak metod uwierzytelniania niewymagających pamięci użytkownika,
+- procesy odzyskiwania dostępu oparte na odtwarzaniu informacji z pamięci.
 
----
-
-## Dobre praktyki
+## 13. Dobre praktyki
 
 - logowanie biometryczne,
-- passkeys (kryptograficzny klucz, który ma na celu zastępować hasła),
+- passkeys,
 - uwierzytelnianie FIDO2/WebAuthn,
+- klucze bezpieczeństwa,
 - jednorazowe linki logujące,
-- klucze sprzętowe,
-- logowanie za pomocą urządzeń zaufanych,
-- uwierzytelnianie federacyjne (SSO).
+- logowanie przy użyciu urządzeń zaufanych,
+- uwierzytelnianie federacyjne (SSO),
+- ograniczanie liczby informacji wymagających zapamiętania.
 
----
+## 14. Wynik testu
 
-## Klasyfikacja problemów
+- Spełnione
+- Częściowo spełnione
+- Niespełnione
+- Nie dotyczy
 
-### Istotne
+## 15. Ustalenia
 
-- podstawowy proces logowania oparty wyłącznie na pamięci użytkownika.
+Miejsce na opis wyników testu, ocenę metod uwierzytelniania oraz wskazanie elementów wymagających od użytkownika odtwarzania informacji z pamięci.
 
-### Umiarkowane
+## 16. Przykładowy opis niezgodności do raportu lub deklaracji
 
-- część funkcji uwierzytelniania wymaga odtwarzania informacji z pamięci.
+> Podstawowy proces uwierzytelniania wymaga od użytkownika odtwarzania informacji z pamięci, takich jak hasła, odpowiedzi na pytania bezpieczeństwa lub inne dane identyfikacyjne. Nie zapewniono równoważnej metody uwierzytelniania niewymagającej takich działań. Może to stanowić istotną barierę dla osób z niepełnosprawnościami poznawczymi, zaburzeniami pamięci oraz innych użytkowników mających trudności z zapamiętywaniem informacji.
 
-### Drobne
+## 17. Rekomendacje naprawcze
 
-- pojedyncze dodatkowe kroki wymagające zapamiętania informacji, przy dostępnych alternatywach.
+- wdrożyć metody uwierzytelniania niewymagające pamięci użytkownika,
+- umożliwić stosowanie passkeys,
+- wdrożyć uwierzytelnianie FIDO2/WebAuthn,
+- stosować logowanie biometryczne tam, gdzie jest to możliwe,
+- ograniczyć wykorzystanie pytań bezpieczeństwa,
+- przeprojektować proces odzyskiwania dostępu tak, aby nie wymagał odtwarzania informacji z pamięci.
 
----
+## 18. Powiązane testy
 
-## Profil stosowania testu
-
-| Profil                                       | Stosowanie  |
-| -------------------------------------------- | ----------- |
-| Okresowa ocena stanu zgodności — minimum     | Nie         |
-| Okresowa ocena stanu zgodności — rozszerzona | Opcjonalnie |
-| Ocena przed odbiorem rozwiązania             | Tak         |
-| Audyt zgodności                              | Tak         |
-| ACR-MIN                                      | Nie         |
-| ACR-EXT                                      | Opcjonalnie |
-| ACR-AUDIT                                    | Tak         |
-
----
-
-## Powiązane testy
-
-- Dostępne uwierzytelnianie (3.3.8)
-- Formularz elektroniczny
-- Identyfikacja błędów
-- Sugestie korekty błędów
-- Komunikaty o stanie
-
----
-
-## Uwagi
-
-Kryterium 3.3.9 jest rozszerzeniem kryterium 3.3.8 i należy do poziomu AAA. W praktyce oznacza przejście od modelu „użytkownik może skorzystać z pomocy przy odtwarzaniu informacji” do modelu „użytkownik nie musi niczego odtwarzać z pamięci”. Najłatwiejszym sposobem spełnienia tego kryterium jest zastosowanie nowoczesnych metod uwierzytelniania, takich jak passkeys, logowanie biometryczne lub klucze bezpieczeństwa. Kryterium ma szczególne znaczenie w usługach publicznych, bankowości elektronicznej oraz systemach wykorzystywanych regularnie przez szerokie grupy użytkowników.
+- testID-093 Dostępne uwierzytelnianie
+- testID-118 Rejestracja / Logowanie
+- testID-120 Formularz
+- testID-043 Sugestie korekty błędów
+- testID-044 Identyfikacja błędów
+- testID-069 Komunikaty o stanie
+- testID-070 Dostępna nazwa elementu interaktywnego

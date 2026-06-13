@@ -4,110 +4,122 @@ title: Obsługa czytnikiem ekranu (aplikacja mobilna)
 sidebar_label: Obsługa czytnikiem ekranu (aplikacja mobilna)
 sidebar_position: 95
 description: Scenariusz testu sprawdzającego, czy aplikacja mobilna może być skutecznie używana przy wykorzystaniu wbudowanego czytnika ekranu oraz czy użytkownik otrzymuje informacje niezbędne do orientacji, nawigacji i wykonania zadań.
-keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,dostępne uwierzytelnianie]
-tags: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,dostępne uwierzytelnianie]
+keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,czytnik ekranu,TalkBack,VoiceOver,aplikacja mobilna]
+tags: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,czytnik ekranu,TalkBack,VoiceOver,aplikacja mobilna]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2026 r.
 ostatnia_aktualizacja: 12 czerwca 2026 r.
 wersja_robocza: true
 ---
 
-
-
-## Identyfikator testu
+## 1. Identyfikator testu
 
 **testID-095**
 
-## Nazwa testu
+## 2. Nazwa testu
 
-Obsługa czytnikiem ekranu (aplikacja mobilna)
+**Obsługa czytnikiem ekranu (aplikacja mobilna)**
 
-## Cel testu
+## 3. Profil stosowania testu
 
-Sprawdzenie, czy aplikacja mobilna może być skutecznie używana przy wykorzystaniu wbudowanego czytnika ekranu oraz czy użytkownik otrzymuje informacje niezbędne do orientacji, nawigacji i wykonania zadań.
+**ACR-EXT**
 
-## Powiązane wymagania
+## 4. Opis testu
+
+Test sprawdza, czy aplikacja mobilna może być skutecznie używana przy wykorzystaniu czytnika ekranu oraz czy użytkownik otrzymuje informacje niezbędne do orientacji, nawigacji i wykonania zadań.
+
+### Co oznacza „czytnik ekranu”?
+
+Czytnik ekranu to technologia wspomagająca, która odczytuje użytkownikowi informacje prezentowane na ekranie urządzenia.
+
+Użytkownik nie widzi interfejsu lub korzysta z niego w ograniczonym zakresie, dlatego informacje są przekazywane za pomocą:
+
+- syntezy mowy,
+- komunikatów dźwiękowych,
+- monitora brajlowskiego.
+
+Najczęściej wykorzystywane czytniki ekranu w urządzeniach mobilnych to:
+
+- **TalkBack*- (Android),
+- **VoiceOver*- (iOS).
+
+Prawidłowa współpraca z czytnikiem ekranu wymaga między innymi poprawnego oznaczenia elementów interaktywnych, komunikatów, formularzy oraz zmian zachodzących w interfejsie.
+
+## 5. Mapowanie do standardów
 
 ### WCAG 2.1 / 2.2
 
 Test wspiera ocenę wielu kryteriów sukcesu, w szczególności:
 
-- 1.1.1 Treści nietekstowe
-- 1.3.1 Informacje i relacje
-- 2.4.3 Kolejność fokusu
-- 2.4.4 Cel łącza
-- 2.4.6 Nagłówki i etykiety
-- 3.3.2 Etykiety lub instrukcje
-- 4.1.2 Nazwa, rola, wartość
-- 4.1.3 Komunikaty o stanie
+- 1.1.1 Treści nietekstowe,
+- 1.3.1 Informacje i relacje,
+- 2.4.3 Kolejność fokusu,
+- 2.4.4 Cel łącza,
+- 2.4.6 Nagłówki i etykiety,
+- 3.3.2 Etykiety lub instrukcje,
+- 4.1.2 Nazwa, rola, wartość,
+- 4.1.3 Komunikaty o stanie.
 
 ### EN 301 549
 
 W szczególności:
 
-- 11.5.2.5 Object information
-- 11.5.2.6 Row, column and headers
-- 11.5.2.7 Values
-- 11.5.2.8 Label relationships
-- 11.5.2.9 Hierarchical relationships
-- 11.5.2.13 Modifications of states and properties
-- 11.5.2.17 Change notification
+- 11.5.2.5 Object Information,
+- 11.5.2.6 Row, Column and Headers,
+- 11.5.2.7 Values,
+- 11.5.2.8 Label Relationships,
+- 11.5.2.9 Hierarchical Relationships,
+- 11.5.2.13 Modifications of States and Properties,
+- 11.5.2.17 Change Notification.
 
----
+## 6. Zastosowanie do treści
 
-## Dlaczego to jest ważne
+Test stosuje się do:
+
+- aplikacji Android,
+- aplikacji iOS,
+- ekranów głównych aplikacji,
+- formularzy,
+- menu,
+- procesów użytkownika,
+- komponentów niestandardowych,
+- funkcji wymagających interakcji użytkownika.
+
+## 7. Oczekiwany wynik
+
+Użytkownik korzystający wyłącznie z czytnika ekranu może:
+
+- zrozumieć strukturę aplikacji,
+- odnaleźć potrzebne funkcje,
+- wykonać kluczowe zadania,
+- odczytać komunikaty i informacje zwrotne,
+- korzystać z aplikacji bez pomocy osoby trzeciej.
+
+## 8. Dlaczego to jest ważne
 
 Dla wielu osób niewidomych czytnik ekranu jest podstawowym sposobem korzystania z aplikacji mobilnych.
 
 Jeżeli aplikacja nie współpracuje prawidłowo z czytnikiem ekranu, użytkownik może:
 
 - nie wiedzieć, jakie elementy znajdują się na ekranie,
-- nie móc odnaleźć funkcji,
-- nie rozumieć komunikatów,
+- nie rozumieć struktury aplikacji,
+- nie odnaleźć potrzebnych funkcji,
+- nie otrzymywać informacji o wynikach działań,
 - nie być w stanie wykonać zadania.
 
-Prawidłowa współpraca z czytnikiem ekranu jest jednym z najważniejszych wymagań dostępności aplikacji mobilnych.
+Brak kompatybilności z czytnikiem ekranu może całkowicie uniemożliwić korzystanie z aplikacji.
 
----
+## 9. Kogo to dotyczy
 
-## Kogo dotyczy
-
-Test jest szczególnie istotny dla:
+Szczególnie:
 
 - osób niewidomych,
-- osób słabowidzących,
-- użytkowników korzystających z technologii wspomagających,
-- osób korzystających z obsługi głosowej urządzenia.
+- osób słabowidzących korzystających z czytników ekranu,
+- użytkowników monitorów brajlowskich,
+- osób korzystających z technologii wspomagających,
+- użytkowników obsługi głosowej urządzenia.
 
----
-
-## Zakres stosowania
-
-Test należy wykonywać dla:
-
-- aplikacji Android,
-- aplikacji iOS,
-- wszystkich głównych ekranów aplikacji,
-- kluczowych procesów użytkownika,
-- formularzy,
-- menu,
-- komponentów niestandardowych.
-
----
-
-## Narzędzia
-
-### Android
-
-- TalkBack
-
-### iOS
-
-- VoiceOver
-
----
-
-## Metoda badania
+## 10. Sposób testowania
 
 ### Krok 1. Uruchomienie czytnika ekranu
 
@@ -117,44 +129,37 @@ Włącz:
 
 lub
 
-- VoiceOver (iOS)
+- VoiceOver (iOS).
 
-### Krok 2. Nawigacja po ekranie
+### Krok 2. Nawigacja po ekranach
 
-Przejdź przez ekran wykorzystując standardowe gesty czytnika ekranu.
+Przemieszczaj się po aplikacji przy użyciu standardowych gestów czytnika ekranu.
 
 Sprawdź, czy użytkownik może:
 
 - odczytać wszystkie elementy,
 - zrozumieć strukturę ekranu,
-- odnaleźć funkcje.
+- zlokalizować funkcje.
 
 ### Krok 3. Ocena elementów interaktywnych
 
-Dla każdego elementu interaktywnego sprawdź:
+Dla każdego elementu interaktywnego sprawdź, czy:
 
-- czy posiada dostępną nazwę,
-- czy czytnik informuje o jego roli,
-- czy odczytywany jest jego stan.
+- posiada dostępną nazwę,
+- czytnik informuje o jego roli,
+- odczytywany jest jego stan,
+- możliwe jest wykonanie akcji.
 
-Przykłady:
+### Krok 4. Wykonanie zadań
 
-- przycisk,
-- przełącznik,
-- pole edycji,
-- karta,
-- zakładka.
-
-### Krok 4. Ocena wykonywania zadań
-
-Wykonaj kluczowe zadania użytkownika wyłącznie przy użyciu czytnika ekranu.
+Przeprowadź kluczowe procesy użytkownika wyłącznie przy użyciu czytnika ekranu.
 
 Przykładowo:
 
-- zalogowanie,
-- wyszukanie informacji,
+- logowanie,
+- wyszukiwanie informacji,
 - wysłanie formularza,
-- dokonanie operacji biznesowej.
+- wykonanie podstawowych operacji dostępnych w aplikacji.
 
 ### Krok 5. Ocena komunikatów
 
@@ -163,30 +168,24 @@ Sprawdź, czy czytnik odczytuje:
 - komunikaty o błędach,
 - komunikaty sukcesu,
 - zmiany stanu,
-- wyniki operacji.
+- wyniki operacji,
+- informacje o przejściu pomiędzy ekranami.
 
----
+## 11. Kryteria oceny wyniku
 
-## Kryteria oceny
+### Spełnione
 
-### Spełnia
+Użytkownik może skutecznie korzystać z aplikacji wyłącznie przy użyciu czytnika ekranu.
 
-Użytkownik może:
+Elementy są poprawnie identyfikowane, odczytywane i obsługiwane.
 
-- zrozumieć strukturę aplikacji,
-- odnaleźć elementy,
-- wykonać kluczowe zadania,
-- korzystać z funkcji aplikacji wyłącznie przy użyciu czytnika ekranu.
-
-Elementy są prawidłowo identyfikowane i odczytywane.
-
-### Częściowo spełnia
+### Częściowo spełnione
 
 Większość funkcji działa poprawnie, jednak występują problemy utrudniające korzystanie z aplikacji.
 
-### Nie spełnia
+### Niespełnione
 
-Istnieją istotne bariery uniemożliwiające lub znacząco utrudniające korzystanie z aplikacji przy użyciu czytnika ekranu.
+Występują bariery uniemożliwiające lub znacząco utrudniające korzystanie z aplikacji przy użyciu czytnika ekranu.
 
 ### Nie dotyczy
 
@@ -194,82 +193,57 @@ Nie stosuje się.
 
 Każda aplikacja mobilna powinna zostać oceniona pod kątem współpracy z czytnikiem ekranu.
 
----
-
-## Typowe niezgodności
+## 12. Typowe niezgodności
 
 - elementy bez dostępnej nazwy,
-- przyciski odczytywane jako „button” lub „nieoznaczony element”,
+- przyciski odczytywane jako „nieoznaczony element”,
 - brak informacji o stanie przełączników,
 - błędna kolejność nawigacji,
 - pomijanie elementów przez czytnik,
 - brak odczytu komunikatów o błędach,
-- nieodczytywanie zmian zawartości ekranu,
-- niestandardowe komponenty niewspółpracujące z API dostępności.
+- brak odczytu zmian zawartości ekranu,
+- komponenty niestandardowe niewspółpracujące z API dostępności.
 
----
-
-## Dobre praktyki
+## 13. Dobre praktyki
 
 - korzystanie z natywnych komponentów systemowych,
 - definiowanie nazw, ról i stanów elementów,
 - testowanie aplikacji z TalkBack i VoiceOver,
-- zapewnianie poprawnej kolejności nawigacji,
-- informowanie o zmianach stanu interfejsu.
+- zapewnianie logicznej kolejności nawigacji,
+- informowanie o zmianach stanu interfejsu,
+- przeprowadzanie testów z rzeczywistymi użytkownikami czytników ekranu.
 
----
+## 14. Wynik testu
 
-## Klasyfikacja problemów
+- Spełnione
+- Częściowo spełnione
+- Niespełnione
+- Nie dotyczy
 
-### Krytyczne
+## 15. Ustalenia
 
-- brak możliwości wykonania kluczowego zadania przy użyciu czytnika ekranu,
-- brak dostępu do podstawowych funkcji aplikacji.
+Miejsce na opis wyników testu, ocenę współpracy aplikacji z czytnikiem ekranu oraz wskazanie stwierdzonych problemów.
 
-### Istotne
+## 16. Przykładowy opis niezgodności do raportu lub deklaracji
 
-- błędnie oznaczone lub nieoznaczone elementy interaktywne,
-- brak informacji o stanie elementów.
+> Aplikacja nie współpracuje prawidłowo z czytnikiem ekranu. Część elementów nie posiada dostępnych nazw lub nie przekazuje informacji o swojej roli i stanie. Występują również problemy z odczytem komunikatów oraz wykonaniem kluczowych zadań użytkownika. Może to uniemożliwiać korzystanie z aplikacji osobom niewidomym i użytkownikom technologii wspomagających.
 
-### Umiarkowane
+## 17. Rekomendacje naprawcze
 
-- problemy z orientacją i nawigacją,
-- niepełne komunikaty.
+- zapewnić dostępne nazwy wszystkich elementów interaktywnych,
+- poprawnie definiować role i stany komponentów,
+- zapewnić odczyt komunikatów o stanie,
+- stosować natywne komponenty systemowe lub poprawnie implementować API dostępności,
+- testować aplikację z TalkBack i VoiceOver na każdym etapie rozwoju.
 
-### Drobne
+## 18. Powiązane testy
 
-- pojedyncze nieczytelne etykiety lub komunikaty.
-
----
-
-## Profil stosowania testu
-
-| Profil                                       | Stosowanie              |
-| -------------------------------------------- | ----------------------- |
-| Okresowa ocena stanu zgodności — minimum     | Tak (aplikacje mobilne) |
-| Okresowa ocena stanu zgodności — rozszerzona | Tak                     |
-| Ocena przed odbiorem rozwiązania             | Tak                     |
-| Audyt zgodności                              | Tak                     |
-| ACR-MIN                                      | Tak                     |
-| ACR-EXT                                      | Tak                     |
-| ACR-AUDIT                                    | Tak                     |
-
----
-
-## Powiązane testy
-
-- Dostępna nazwa elementu interaktywnego
-- Dostępna nazwa w widocznej etykiecie
-- Formularz elektroniczny
-- Komunikaty o stanie
-- Kolejność fokusu
-- Gesty wskaźnika
-- Aktywowanie ruchem
-- Obsługa klawiaturą (aplikacja mobilna)
-- Współpraca z technologiami wspomagającymi
-
----
-
-## Uwagi
-
-Jest to test scenariuszowy, obejmujący wiele wymagań dostępności jednocześnie. Nie zastępuje szczegółowych testów poszczególnych kryteriów sukcesu WCAG, lecz pozwala ocenić rzeczywistą możliwość korzystania z aplikacji przez osoby używające TalkBack lub VoiceOver. W przypadku okresowej oceny stanu zgodności aplikacji mobilnych test ten powinien być traktowany jako jeden z podstawowych testów minimalnego zakresu badania.
+- testID-070 Dostępna nazwa elementu interaktywnego
+- testID-071 Dostępna nazwa w widocznej etykiecie
+- testID-069 Komunikaty o stanie
+- testID-026 Kolejność fokusu
+- testID-120 Formularz
+- testID-080 Gesty wskaźnika
+- testID-082 Aktywowanie ruchem
+- testID-096 Obsługa klawiaturą (aplikacja mobilna)
+- testID-097 Współpraca z technologiami wspomagającymi (aplikacja mobilna)

@@ -38,6 +38,26 @@ wersja_robocza: true
 
 Test służy do sprawdzenia, czy etykiety, instrukcje i opisy pól formularzy są programowo powiązane z elementami, których dotyczą. 
 
+### Co oznacza „etykieta elementu”?
+
+Etykieta elementu to nazwa lub opis pozwalający użytkownikowi zrozumieć:
+
+- czym jest dany element,
+- do czego służy,
+- jakie działanie zostanie wykonane po jego aktywowaniu.
+
+Etykieta może być:
+
+- widocznym tekstem,
+- nazwą dostępną odczytywaną przez czytnik ekranu,
+- połączeniem obu tych form.
+
+Przykładowo:
+
+- przycisk „Wyślij” posiada etykietę „Wyślij”,
+- ikona kosza może posiadać etykietę „Usuń”,
+- pole formularza może posiadać etykietę „Adres e-mail”.
+
 ### Co oznacza „powiązanie programowe”?
 
 Powiązanie programowe to relacja zapisana w kodzie strony, dzięki której technologie wspomagające mogą ustalić:

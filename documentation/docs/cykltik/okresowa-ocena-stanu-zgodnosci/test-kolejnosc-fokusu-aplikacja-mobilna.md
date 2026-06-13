@@ -4,7 +4,7 @@ title: Kolejność fokusu (aplikacja mobilna)
 sidebar_label: Kolejność fokusu (aplikacja mobilna)
 sidebar_position: 98
 description: Scenariusz testu sprawdzającego, czy podczas nawigacji przy użyciu technologii wspomagających, klawiatury zewnętrznej lub funkcji dostępności systemu mobilnego fokus przemieszcza się w logicznej i przewidywalnej kolejności.
-keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,Kkolejność fokusu,aplikacja mobilna]
+keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,kolejność fokusu,aplikacja mobilna]
 tags: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,kolejność fokusu,aplikacja mobilna]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2026 r.
@@ -12,38 +12,90 @@ ostatnia_aktualizacja: 12 czerwca 2026 r.
 wersja_robocza: true
 ---
 
-
-
-## Identyfikator testu
+## 1. Identyfikator testu
 
 **testID-098**
 
-## Nazwa testu
+## 2. Nazwa testu
 
-Kolejność fokusu (aplikacja mobilna)
+**Kolejność fokusu (aplikacja mobilna)**
 
-## Cel testu
+## 3. Profil stosowania testu
 
-Sprawdzenie, czy podczas nawigacji przy użyciu technologii wspomagających, klawiatury zewnętrznej lub funkcji dostępności systemu mobilnego fokus przemieszcza się w logicznej i przewidywalnej kolejności, zgodnej ze strukturą interfejsu i przebiegiem zadania użytkownika.
+**ACR-EXT**
 
-## Powiązane wymagania
+## 4. Opis testu
+
+Test sprawdza, czy podczas nawigacji przy użyciu technologii wspomagających, klawiatury zewnętrznej lub funkcji dostępności systemu mobilnego fokus przemieszcza się w logicznej i przewidywalnej kolejności, zgodnej ze strukturą interfejsu oraz przebiegiem zadania użytkownika.
+
+### Co oznacza „fokus”?
+
+Fokus to element interfejsu, który jest aktualnie wybrany przez użytkownika i gotowy do interakcji.
+
+W aplikacjach mobilnych fokus może być przemieszczany między innymi przy użyciu:
+
+- TalkBack,
+- VoiceOver,
+- klawiatury zewnętrznej,
+- przełączników,
+- innych technologii wspomagających.
+
+Element posiadający fokus jest odczytywany przez czytnik ekranu lub może zostać aktywowany przez użytkownika.
+
+### Co oznacza „kolejność fokusu”?
+
+Kolejność fokusu określa, w jakiej kolejności użytkownik przechodzi pomiędzy elementami interfejsu.
+
+Prawidłowa kolejność:
+
+- odpowiada strukturze ekranu,
+- jest zgodna z logiką wykonywanego zadania,
+- pozwala zrozumieć relacje pomiędzy elementami,
+- nie powoduje utraty orientacji.
+
+## 5. Mapowanie do standardów
 
 ### WCAG 2.1 / 2.2
 
-- 1.3.2 Znacząca kolejność
-- 2.4.3 Kolejność fokusu
-- 2.4.11 Fokus niezakryty (minimum)
-- 4.1.2 Nazwa, rola, wartość
+- 1.3.2 Znacząca kolejność,
+- 2.4.3 Kolejność fokusu,
+- 2.4.11 Fokus niezakryty (minimum),
+- 4.1.2 Nazwa, rola, wartość.
 
 ### EN 301 549
 
-- 11.2.4.3 Focus Order
-- 11.2.4.11 Focus Not Obscured (Minimum)
-- 11.5.2.9 Hierarchical Relationships
+- 11.2.4.3 Focus Order,
+- 11.2.4.11 Focus Not Obscured (Minimum),
+- 11.5.2.9 Hierarchical Relationships,
+- 11.4.1.2 Name, Role, Value.
 
----
+## 6. Zastosowanie do treści
 
-## Dlaczego to jest ważne
+Test stosuje się do:
+
+- aplikacji Android,
+- aplikacji iOS,
+- ekranów głównych,
+- formularzy,
+- menu,
+- okien dialogowych,
+- list wyników,
+- ekranów ustawień,
+- procesów wieloetapowych,
+- komponentów niestandardowych.
+
+## 7. Oczekiwany wynik
+
+Fokus przemieszcza się w logicznej i przewidywalnej kolejności.
+
+Użytkownik może:
+
+- zrozumieć strukturę ekranu,
+- przewidzieć kolejny element,
+- zachować orientację podczas wykonywania zadania,
+- skutecznie przejść przez cały proces.
+
+## 8. Dlaczego to jest ważne
 
 Użytkownicy korzystający z:
 
@@ -53,75 +105,45 @@ Użytkownicy korzystający z:
 - przełączników,
 - sterowania głosowego,
 
-poznają interfejs aplikacji w kolejności wyznaczanej przez fokus dostępności.
+poznają aplikację w kolejności wyznaczonej przez fokus.
 
-Jeżeli kolejność fokusu jest nielogiczna, użytkownik może:
+Jeżeli kolejność fokusu jest nieprawidłowa, użytkownik może:
 
-- tracić orientację w interfejsie,
+- tracić orientację,
 - pomijać ważne informacje,
-- nie rozumieć relacji między elementami,
-- mieć trudności z wykonywaniem zadań.
+- błędnie rozumieć strukturę interfejsu,
+- mieć trudności z wykonaniem zadania.
 
-Problem ten szczególnie silnie wpływa na osoby niewidome, które nie mogą wykorzystać układu wizualnego ekranu do zrozumienia struktury aplikacji.
+Problem szczególnie silnie wpływa na osoby niewidome, które nie mogą wykorzystać wizualnego układu ekranu do zrozumienia organizacji treści.
 
----
+## 9. Kogo to dotyczy
 
-## Kogo dotyczy
-
-Test jest szczególnie istotny dla:
+Szczególnie:
 
 - osób niewidomych,
 - osób słabowidzących korzystających z czytników ekranu,
+- użytkowników monitorów brajlowskich,
 - osób korzystających z klawiatur zewnętrznych,
 - użytkowników przełączników,
-- osób korzystających z funkcji dostępności systemu operacyjnego.
+- osób korzystających z technologii wspomagających.
 
----
-
-## Zakres stosowania
-
-Test należy wykonywać dla:
-
-- ekranów głównych,
-- formularzy,
-- menu,
-- okien dialogowych,
-- list wyników,
-- ekranów ustawień,
-- procesów wieloetapowych,
-- niestandardowych komponentów interfejsu.
-
----
-
-## Narzędzia
-
-### Android
-
-- TalkBack
-- klawiatura zewnętrzna (opcjonalnie)
-
-### iOS
-
-- VoiceOver
-- klawiatura zewnętrzna (opcjonalnie)
-
----
-
-## Metoda badania
+## 10. Sposób testowania
 
 ### Krok 1. Uruchomienie technologii wspomagającej
 
 Włącz:
 
-- TalkBack
+- TalkBack (Android)
 
 lub
 
-- VoiceOver.
+- VoiceOver (iOS).
+
+Opcjonalnie podłącz klawiaturę zewnętrzną.
 
 ### Krok 2. Nawigacja po ekranie
 
-Przemieszczaj fokus przy użyciu standardowych gestów czytnika ekranu lub klawisza Tab na klawiaturze zewnętrznej.
+Przemieszczaj fokus pomiędzy elementami przy użyciu standardowych gestów czytnika ekranu lub klawisza Tab.
 
 ### Krok 3. Ocena logiczności kolejności
 
@@ -129,7 +151,7 @@ Sprawdź, czy kolejność fokusu odpowiada:
 
 - kolejności wizualnej,
 - kolejności odczytu treści,
-- logice wykonywania zadania.
+- logice wykonywanego zadania.
 
 ### Krok 4. Ocena grup elementów
 
@@ -150,33 +172,23 @@ Sprawdź, czy po:
 - zamknięciu okna dialogowego,
 - przejściu do kolejnego kroku procesu,
 
-fokus trafia w logiczne miejsce.
+fokus trafia do logicznego miejsca.
 
----
+### Krok 6. Wykonanie zadania
 
-## Pytania kontrolne
+Przeprowadź wybrane procesy użytkownika i oceń, czy można je wykonać bez utraty orientacji.
 
-1. Czy fokus przemieszcza się w logicznej kolejności?
-2. Czy kolejność odzwierciedla strukturę ekranu?
-3. Czy użytkownik może przewidzieć, który element zostanie odczytany jako następny?
-4. Czy po zmianie ekranu fokus trafia do odpowiedniego miejsca?
-5. Czy fokus nie przeskakuje losowo pomiędzy odległymi elementami?
-6. Czy elementy powiązane są odczytywane obok siebie?
-7. Czy użytkownik może wykonać zadanie bez utraty orientacji?
+## 11. Kryteria oceny wyniku
 
----
+### Spełnione
 
-## Kryteria oceny
+Fokus przemieszcza się w logicznej i przewidywalnej kolejności zgodnej ze strukturą interfejsu i przebiegiem zadania użytkownika.
 
-### Spełnia
+### Częściowo spełnione
 
-Fokus przemieszcza się w logicznej, przewidywalnej kolejności zgodnej ze strukturą ekranu i przebiegiem zadania użytkownika.
+Występują pojedyncze problemy z kolejnością fokusu, które utrudniają korzystanie z aplikacji, ale nie uniemożliwiają wykonania zadania.
 
-### Częściowo spełnia
-
-Występują pojedyncze problemy z kolejnością fokusu, które utrudniają korzystanie z aplikacji, ale nie uniemożliwiają realizacji zadań.
-
-### Nie spełnia
+### Niespełnione
 
 Kolejność fokusu jest nielogiczna lub chaotyczna i utrudnia albo uniemożliwia korzystanie z aplikacji.
 
@@ -186,9 +198,7 @@ Nie stosuje się.
 
 Każda aplikacja mobilna posiada kolejność fokusu i może zostać oceniona.
 
----
-
-## Typowe niezgodności
+## 12. Typowe niezgodności
 
 - fokus przeskakuje pomiędzy odległymi elementami,
 - kolejność odczytu nie odpowiada kolejności wizualnej,
@@ -196,69 +206,48 @@ Każda aplikacja mobilna posiada kolejność fokusu i może zostać oceniona.
 - pola formularza odczytywane w niewłaściwej kolejności,
 - fokus przechodzi do ukrytych elementów,
 - po zamknięciu okna dialogowego fokus trafia w losowe miejsce,
-- po zmianie ekranu fokus pozostaje na nieistotnym elemencie.
+- po zmianie ekranu fokus ustawiany jest na nieistotnym elemencie.
 
----
-
-## Dobre praktyki
+## 13. Dobre praktyki
 
 - stosowanie natywnych komponentów systemowych,
 - zachowanie zgodności kolejności logicznej i wizualnej,
 - grupowanie powiązanych elementów,
 - testowanie aplikacji z TalkBack i VoiceOver,
-- kontrolowanie miejsca ustawienia fokusu po zmianach stanu interfejsu.
+- kontrolowanie miejsca ustawienia fokusu po zmianach stanu interfejsu,
+- testowanie rzeczywistych procesów użytkownika.
 
----
+## 14. Wynik testu
 
-## Klasyfikacja problemów
+- Spełnione
+- Częściowo spełnione
+- Niespełnione
+- Nie dotyczy
 
-### Krytyczne
+## 15. Ustalenia
 
-- użytkownik nie może ukończyć kluczowego procesu z powodu błędnej kolejności fokusu,
-- fokus uniemożliwia odnalezienie istotnych funkcji.
+Miejsce na opis wyników testu, ocenę kolejności fokusu oraz wskazanie stwierdzonych problemów.
 
-### Istotne
+## 16. Przykładowy opis niezgodności do raportu lub deklaracji
 
-- fokus powoduje utratę orientacji podczas wykonywania zadania,
-- formularze odczytywane są w niewłaściwej kolejności.
+> W aplikacji występują problemy z kolejnością fokusu podczas korzystania z technologii wspomagających. Fokus przemieszcza się w sposób niezgodny ze strukturą interfejsu lub przebiegiem zadania użytkownika, co może powodować utratę orientacji i utrudniać korzystanie z aplikacji osobom niewidomym oraz użytkownikom technologii wspomagających.
 
-### Umiarkowane
+## 17. Rekomendacje naprawcze
 
-- lokalne problemy dotyczące części ekranów lub komponentów.
+- uporządkować kolejność fokusu zgodnie ze strukturą interfejsu,
+- zapewnić zgodność kolejności logicznej i wizualnej,
+- poprawić obsługę okien dialogowych oraz zmian ekranów,
+- grupować powiązane elementy,
+- testować aplikację z TalkBack i VoiceOver,
+- przeprowadzić testy z użytkownikami technologii wspomagających.
 
-### Drobne
+## 18. Powiązane testy
 
-- pojedyncze odstępstwa niewpływające znacząco na wykonanie zadania.
-
----
-
-## Profil stosowania testu
-
-| Profil                                       | Stosowanie              |
-| -------------------------------------------- | ----------------------- |
-| Okresowa ocena stanu zgodności — minimum     | Tak (aplikacje mobilne) |
-| Okresowa ocena stanu zgodności — rozszerzona | Tak                     |
-| Ocena przed odbiorem rozwiązania             | Tak                     |
-| Audyt zgodności                              | Tak                     |
-| ACR-MIN                                      | Tak                     |
-| ACR-EXT                                      | Tak                     |
-| ACR-AUDIT                                    | Tak                     |
-
----
-
-## Powiązane testy
-
-- Obsługa czytnikiem ekranu (aplikacja mobilna)
-- Obsługa klawiaturą zewnętrzną (aplikacja mobilna)
-- Fokus niezakryty (minimum)
-- Fokus niezakryty (ulepszone)
-- Widoczność fokusu
-- Dostępna nazwa elementu interaktywnego
-- Komunikaty o stanie
-- Formularz elektroniczny
-
----
-
-## Uwagi
-
-Jest to jeden z podstawowych testów dostępności aplikacji mobilnych. W praktyce wiele problemów wykrywanych podczas testów z TalkBack lub VoiceOver wynika nie z braku nazw elementów, lecz z nieprawidłowej kolejności fokusu. Test powinien być wykonywany zawsze razem z testem „Obsługa czytnikiem ekranu (aplikacja mobilna)”, ponieważ oba dotyczą rzeczywistej możliwości korzystania z aplikacji przez osoby niewidome. W okresowej ocenie stanu zgodności aplikacji mobilnych test ten powinien należeć do scenariusza minimum.
+- testID-095 Obsługa czytnikiem ekranu (aplikacja mobilna)
+- testID-096 Obsługa klawiaturą zewnętrzną (aplikacja mobilna)
+- testID-087 Fokus niezakryty
+- testID-027 Widoczność fokusu
+- testID-026 Kolejność fokusu
+- testID-069 Komunikaty o stanie
+- testID-070 Dostępna nazwa elementu interaktywnego
+- testID-120 Formularz

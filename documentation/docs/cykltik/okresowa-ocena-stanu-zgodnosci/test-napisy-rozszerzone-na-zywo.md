@@ -4,71 +4,67 @@ title: Napisy rozszerzone na żywo
 sidebar_label: Napisy na żywo
 sidebar_position: 84
 description: Scenariusz testu sprawdzającego, czy dla multimediów synchronizowanych transmitowanych na żywo zapewniono napisy umożliwiające osobom niesłyszącym i słabosłyszącym śledzenie przekazywanych treści dźwiękowych.
-keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,odstępy w tekście]
-tags: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,odstępy w tekście]
+keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,napisy rozszerzone]
+tags: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,napisy rozszerzone]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2026 r.
 ostatnia_aktualizacja: 12 czerwca 2026 r.
 wersja_robocza: true
 ---
 
-
-
-## Identyfikator testu
+## 1. Identyfikator testu
 
 **testID-084**
 
-## Nazwa testu
+## 2. Nazwa testu
 
-Napisy na żywo
+**Napisy rozszerzone na żywo**
 
-## Opis testu
+## 3. Profil stosowania testu
 
-Test służy do sprawdzenia, czy dla multimediów synchronizowanych transmitowanych na żywo zapewniono napisy umożliwiające osobom niesłyszącym i słabosłyszącym śledzenie przekazywanych treści dźwiękowych.
+**ACR-EXT**
 
-### Co oznaczają „napisy rozszerzone”?
+## 4. Opis testu
 
-Napisy rozszerzone (ang. *captions*) to napisy przeznaczone przede wszystkim dla osób niesłyszących i słabosłyszących.
+Test sprawdza, czy dla multimediów synchronizowanych transmitowanych na żywo zapewniono napisy rozszerzone umożliwiające osobom niesłyszącym i słabosłyszącym śledzenie treści przekazywanych dźwiękiem w czasie rzeczywistym.
 
-Oprócz wypowiadanych słów powinny przekazywać również informacje dźwiękowe niezbędne do zrozumienia materiału.
+Napisy rozszerzone powinny obejmować nie tylko wypowiadane słowa, ale również istotne informacje dźwiękowe niezbędne do zrozumienia przebiegu transmisji.
 
-Napisy rozszerzone mogą zawierać między innymi:
+## 5. Mapowanie do standardów
 
-- dialogi,
-- identyfikację osób mówiących,
-- informacje o zmianie rozmówcy,
-- opisy istotnych dźwięków,
-- informacje o muzyce,
-- informacje o efektach dźwiękowych.
+### WCAG 2.1 / 2.2
 
-### Czym różnią się napisy rozszerzone od zwykłych napisów?
-
-Zwykłe napisy często zawierają wyłącznie zapis dialogów.
-
-Napisy rozszerzone przekazują również informacje dostępne wyłącznie w ścieżce dźwiękowej.
-
-Przykłady:
-
-- [dzwonek telefonu]
-- [śmiech]
-- [muzyka dramatyczna]
-- [głos z oddali]
-- [oklaski]
-
-## Powiązane wymagania
-
-### WCAG 2.1
-
-- 1.2.4 Napisy rozszerzone (na żywo) – poziom AA
+- 1.2.4 Napisy rozszerzone (na żywo) (Poziom AA)
 
 ### EN 301 549
 
 - 9.1.2.4 Captions (Live)
 - 11.1.2.4 Captions (Live)
 
----
+## 6. Zastosowanie do treści
 
-## Dlaczego to jest ważne
+Test stosuje się do:
+
+- transmisji internetowych na żywo,
+- webinariów,
+- konferencji online,
+- relacji z wydarzeń publicznych,
+- sesji organów kolegialnych transmitowanych na żywo,
+- spotkań transmitowanych przez Internet,
+- innych materiałów synchronizowanych udostępnianych w czasie rzeczywistym.
+
+Test nie dotyczy nagrań wcześniej przygotowanych i opublikowanych jako materiały wideo.
+
+## 7. Oczekiwany wynik
+
+Podczas transmisji na żywo użytkownik ma dostęp do napisów rozszerzonych, które:
+
+- umożliwiają śledzenie wypowiedzi,
+- są prezentowane na bieżąco,
+- przekazują najważniejsze informacje dźwiękowe,
+- pozostają czytelne przez cały czas transmisji.
+
+## 8. Dlaczego to jest ważne
 
 Osoby niesłyszące i słabosłyszące nie mają dostępu do informacji przekazywanych wyłącznie dźwiękiem podczas transmisji na żywo.
 
@@ -77,40 +73,22 @@ Brak napisów może uniemożliwić:
 - udział w wydarzeniu,
 - śledzenie przebiegu spotkania,
 - zrozumienie prezentowanych informacji,
-- zadawanie pytań i aktywne uczestnictwo.
+- aktywne uczestnictwo w transmisji.
 
-Napisy na żywo pozwalają śledzić treść wypowiedzi w czasie rzeczywistym, nawet jeśli użytkownik nie słyszy dźwięku lub znajduje się w warunkach utrudniających jego odbiór.
+Napisy rozszerzone pozwalają śledzić treść przekazu w czasie rzeczywistym nawet wtedy, gdy użytkownik nie słyszy dźwięku lub znajduje się w warunkach utrudniających jego odbiór.
 
----
+## 9. Kogo to dotyczy
 
-## Kogo dotyczy
-
-Test jest szczególnie istotny dla:
+Szczególnie:
 
 - osób niesłyszących,
 - osób słabosłyszących,
 - osób korzystających z aparatów słuchowych,
-- użytkowników oglądających transmisję w hałaśliwym otoczeniu,
-- użytkowników oglądających transmisję bez dźwięku.
+- użytkowników oglądających transmisję bez dźwięku,
+- użytkowników przebywających w hałaśliwym otoczeniu,
+- osób, dla których język transmisji nie jest językiem ojczystym.
 
----
-
-## Zakres stosowania
-
-Test należy wykonywać dla:
-
-- transmisji internetowych na żywo,
-- webinariów,
-- konferencji online,
-- relacji z wydarzeń publicznych,
-- sesji organów kolegialnych transmitowanych na żywo,
-- innych materiałów synchronizowanych udostępnianych w czasie rzeczywistym.
-
-Test nie dotyczy nagrań wcześniej przygotowanych i opublikowanych jako materiały wideo.
-
----
-
-## Metoda badania
+## 10. Sposób testowania
 
 ### Krok 1. Identyfikacja transmisji
 
@@ -126,106 +104,95 @@ Sprawdź, czy napisy:
 
 - odzwierciedlają treść wypowiedzi,
 - pojawiają się na bieżąco,
-- pozwalają śledzić przebieg transmisji,
+- umożliwiają śledzenie przebiegu transmisji,
 - obejmują najważniejsze informacje przekazywane głosem.
 
-### Krok 4. Ocena dostępności technicznej
+### Krok 4. Ocena kompletności informacji
+
+Sprawdź, czy napisy przekazują również istotne informacje dźwiękowe wpływające na zrozumienie wydarzenia, takie jak:
+
+- zmiana osoby mówiącej,
+- reakcje publiczności,
+- komunikaty głosowe,
+- inne istotne zdarzenia dźwiękowe.
+
+### Krok 5. Ocena dostępności technicznej
 
 Sprawdź, czy napisy:
 
-- są widoczne,
-- nie zasłaniają istotnych elementów obrazu,
-- pozostają czytelne przez cały czas transmisji.
+- są czytelne,
+- pozostają widoczne,
+- nie zasłaniają kluczowych elementów obrazu,
+- są dostępne przez cały czas transmisji.
 
----
+## 11. Kryteria oceny wyniku
 
-## Kryteria oceny
+### Spełnione
 
-### Spełnia
+Dla transmisji na żywo zapewniono napisy rozszerzone umożliwiające śledzenie treści dźwiękowych w czasie rzeczywistym.
 
-Dla transmisji na żywo zapewniono napisy umożliwiające śledzenie treści dźwiękowych w czasie rzeczywistym.
+### Częściowo spełnione
 
-### Częściowo spełnia
+Napisy są dostępne, ale występują istotne ograniczenia, takie jak:
 
-Napisy są dostępne, ale:
+- znaczące opóźnienia,
+- niepełne odwzorowanie treści,
+- pomijanie istotnych informacji.
 
-- występują znaczące opóźnienia,
-- obejmują jedynie część treści,
-- ich jakość utrudnia korzystanie z transmisji.
+### Niespełnione
 
-### Nie spełnia
-
-Dla transmisji na żywo nie zapewniono napisów lub ich jakość uniemożliwia korzystanie z przekazywanych informacji.
+Dla transmisji na żywo nie zapewniono napisów rozszerzonych lub ich jakość uniemożliwia skuteczne korzystanie z przekazywanych informacji.
 
 ### Nie dotyczy
 
 Rozwiązanie nie udostępnia multimediów transmitowanych na żywo.
 
----
-
-## Typowe niezgodności
+## 12. Typowe niezgodności
 
 - brak napisów podczas transmisji,
-- napisy uruchamiane dopiero po zakończeniu wydarzenia,
+- napisy publikowane dopiero po zakończeniu wydarzenia,
 - bardzo duże opóźnienie napisów,
 - pomijanie znacznej części wypowiedzi,
-- napisy nieczytelne lub niedostępne dla użytkownika.
+- brak informacji o zmianie osoby mówiącej,
+- brak informacji o istotnych zdarzeniach dźwiękowych,
+- nieczytelne lub niedostępne napisy.
 
----
-
-## Dobre praktyki
+## 13. Dobre praktyki
 
 - stosowanie profesjonalnej stenotypii lub usług napisów na żywo,
-- wykorzystanie automatycznego rozpoznawania mowy wspieranego przez korektę człowieka,
-- zapewnienie możliwości włączenia i wyłączenia napisów,
-- informowanie uczestników o dostępności napisów przed rozpoczęciem transmisji.
+- wykorzystywanie automatycznego rozpoznawania mowy wspieranego przez korektę człowieka,
+- umożliwienie użytkownikowi włączenia i wyłączenia napisów,
+- informowanie uczestników o dostępności napisów przed rozpoczęciem transmisji,
+- testowanie jakości napisów przed wydarzeniem.
 
----
+## 14. Wynik testu
 
-## Klasyfikacja problemów
+- Spełnione
+- Częściowo spełnione
+- Niespełnione
+- Nie dotyczy
 
-### Krytyczne
+## 15. Ustalenia
 
-- brak napisów podczas transmisji skierowanej do szerokiego grona odbiorców.
+Miejsce na opis wyników testu, ocenę jakości napisów oraz wskazanie stwierdzonych ograniczeń.
 
-### Istotne
+## 16. Przykładowy opis niezgodności do raportu lub deklaracji
 
-- napisy obecne, lecz niepozwalające na zrozumienie przebiegu wydarzenia.
+> W trakcie transmisji na żywo nie zapewniono napisów rozszerzonych lub jakość dostępnych napisów nie umożliwia skutecznego śledzenia treści przekazywanych dźwiękiem. Może to uniemożliwiać osobom niesłyszącym i słabosłyszącym pełny udział w wydarzeniu.
 
-### Umiarkowane
+## 17. Rekomendacje naprawcze
 
-- lokalne problemy z synchronizacją lub kompletnością napisów.
+- zapewnić napisy rozszerzone podczas transmisji na żywo,
+- poprawić jakość i kompletność napisów,
+- ograniczyć opóźnienia pomiędzy dźwiękiem a napisami,
+- uwzględniać istotne informacje dźwiękowe w treści napisów,
+- stosować rozwiązania wspierające tworzenie napisów w czasie rzeczywistym.
 
-### Drobne
+## 18. Powiązane testy
 
-- sporadyczne błędy redakcyjne nieutrudniające zrozumienia treści.
-
----
-
-## Profil stosowania testu
-
-| Profil                                       | Stosowanie |
-| -------------------------------------------- | ---------- |
-| Okresowa ocena stanu zgodności — minimum     | Nie        |
-| Okresowa ocena stanu zgodności — rozszerzona | Tak        |
-| Ocena przed odbiorem rozwiązania             | Tak        |
-| Audyt zgodności                              | Tak        |
-| ACR-MIN                                      | Nie        |
-| ACR-EXT                                      | Tak        |
-| ACR-AUDIT                                    | Tak        |
-
----
-
-## Powiązane testy
-
-- Napisy rozszerzone
-- Transkrypcja dla nagrań audio
-- Audiodeskrypcja
-- Alternatywa pełnotekstowa dla multimediów
-- Odtwarzacz multimedialny
-
----
-
-## Uwagi
-
-Kryterium dotyczy wyłącznie multimediów synchronizowanych transmitowanych na żywo. Nie wymaga dosłownego odwzorowania każdej wypowiedzi, lecz zapewnienia użytkownikowi możliwości śledzenia treści przekazywanych dźwiękiem w czasie rzeczywistym. W praktyce dopuszczalne jest wykorzystanie napisów tworzonych automatycznie, jeżeli ich jakość pozwala na zrozumienie przebiegu transmisji.
+- testID-051 Napisy rozszerzone
+- testID-050 Transkrypcja dla nagrań audio
+- testID-052 Audiodeskrypcja
+- testID-053 Alternatywa pełnotekstowa dla multimediów
+- testID-065 Odtwarzacz multimedialny
+- testID-078 Kontrola odtwarzania dźwięku

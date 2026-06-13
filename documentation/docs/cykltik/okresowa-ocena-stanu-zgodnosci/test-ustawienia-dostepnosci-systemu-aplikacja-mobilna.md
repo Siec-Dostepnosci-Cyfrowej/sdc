@@ -12,33 +12,54 @@ ostatnia_aktualizacja: 12 czerwca 2026 r.
 wersja_robocza: true
 ---
 
-## Identyfikator testu
+## 1. Identyfikator testu
 
 **testID-102**
 
+## 2. Nazwa testu
 
-## Nazwa testu
+**Ustawienia dostępności systemu (aplikacja mobilna)**
 
-Ustawienia dostępności systemu (aplikacja mobilna)
+## 3. Profil stosowania testu
 
-## Cel testu
+**ACR-EXT**
 
-Sprawdzenie, czy aplikacja mobilna prawidłowo współpracuje z ustawieniami dostępności systemu operacyjnego oraz czy respektuje preferencje użytkownika wpływające na sposób prezentacji i obsługi interfejsu.
+## 4. Opis testu
 
-## Powiązane wymagania
+Test sprawdza, czy aplikacja mobilna prawidłowo współpracuje z ustawieniami dostępności systemu operacyjnego oraz czy respektuje preferencje użytkownika wpływające na sposób prezentacji treści, działania interfejsu oraz obsługi aplikacji.
+
+### Co oznaczają „ustawienia dostępności systemu”?
+
+Systemy Android i iOS udostępniają funkcje pozwalające użytkownikowi dostosować urządzenie do własnych potrzeb.
+
+Przykładowe ustawienia obejmują:
+
+- zwiększenie rozmiaru tekstu,
+- pogrubienie tekstu,
+- zwiększenie kontrastu,
+- ograniczenie animacji,
+- czytnik ekranu,
+- przełączniki dostępności,
+- funkcje powiększania,
+- ustawienia kolorów,
+- alternatywne metody sterowania.
+
+Aplikacja powinna współpracować z tymi funkcjami oraz respektować ustawienia wybrane przez użytkownika.
+
+## 5. Mapowanie do standardów
 
 ### WCAG 2.1 / 2.2
 
 Test wspiera ocenę wielu kryteriów sukcesu, w szczególności:
 
-- 1.3.4 Orientacja
-- 1.4.3 Kontrast
-- 1.4.4 Zmiana rozmiaru tekstu
-- 1.4.10 Dopasowanie do szerokości ekranu
-- 2.2.2 Wstrzymywanie, zatrzymywanie, ukrywanie
-- 2.3.3 Animacje wywołane interakcją
-- 2.5.4 Aktywowanie ruchem
-- 4.1.2 Nazwa, rola, wartość
+- 1.3.4 Orientacja,
+- 1.4.3 Kontrast (minimum),
+- 1.4.4 Zmiana rozmiaru tekstu,
+- 1.4.10 Dopasowanie do szerokości ekranu,
+- 2.2.2 Wstrzymywanie, zatrzymywanie, ukrywanie,
+- 2.3.3 Animacje wywołane interakcją,
+- 2.5.4 Aktywowanie ruchem,
+- 4.1.2 Nazwa, rola, wartość.
 
 ### EN 301 549
 
@@ -46,241 +67,191 @@ W szczególności wymagania dotyczące:
 
 - współpracy z usługami dostępności,
 - współpracy z ustawieniami systemowymi,
-- obsługi technologii wspomagających.
+- współpracy z technologiami wspomagającymi,
+- dostępności aplikacji mobilnych.
 
----
+## 6. Zastosowanie do treści
 
-## Dlaczego to jest ważne
+Test stosuje się do:
 
-Systemy Android i iOS oferują wiele funkcji dostępności umożliwiających dostosowanie urządzenia do potrzeb użytkownika.
+- aplikacji Android,
+- aplikacji iOS,
+- ekranów głównych,
+- formularzy,
+- procesów użytkownika,
+- komponentów niestandardowych,
+- ekranów zawierających animacje,
+- ekranów zawierających multimedia,
+- ustawień aplikacji.
 
-Przykładowo użytkownik może:
+## 7. Oczekiwany wynik
 
-- zwiększyć rozmiar tekstu,
-- pogrubić tekst,
-- zwiększyć kontrast,
-- ograniczyć animacje,
-- korzystać z czytnika ekranu,
-- korzystać z przełączników,
-- zmienić sposób obsługi dotyku.
+Aplikacja:
 
-Jeżeli aplikacja ignoruje te ustawienia, użytkownik może utracić część funkcjonalności lub mieć trudności z korzystaniem z rozwiązania.
+- respektuje ustawienia dostępności systemu,
+- zachowuje funkcjonalność po ich włączeniu,
+- współpracuje z technologiami wspomagającymi,
+- nie wymaga wyłączania funkcji dostępności systemu,
+- nie ogranicza użytkownikowi możliwości korzystania z preferowanych ustawień.
 
----
+## 8. Dlaczego to jest ważne
 
-## Kogo dotyczy
+Użytkownicy często korzystają z funkcji dostępności systemu jako podstawowego sposobu dostosowania urządzenia do swoich potrzeb.
 
-Test jest szczególnie istotny dla:
+Jeżeli aplikacja ignoruje te ustawienia lub działa z nimi nieprawidłowo, użytkownik może:
+
+- utracić dostęp do części funkcji,
+- mieć trudności z odczytywaniem treści,
+- nie być w stanie obsługiwać aplikacji,
+- utracić możliwość korzystania z preferowanych technologii wspomagających.
+
+Problem może występować nawet wtedy, gdy aplikacja spełnia część wymagań WCAG ocenianych oddzielnie.
+
+## 9. Kogo to dotyczy
+
+Szczególnie:
 
 - osób niewidomych,
 - osób słabowidzących,
 - osób z niepełnosprawnościami ruchowymi,
 - osób z nadwrażliwością na ruch i animacje,
 - osób starszych,
-- użytkowników technologii wspomagających.
+- użytkowników technologii wspomagających,
+- osób korzystających z indywidualnych ustawień dostępności.
 
----
-
-## Zakres stosowania
-
-Test należy wykonywać dla:
-
-- aplikacji Android,
-- aplikacji iOS,
-- głównych ekranów aplikacji,
-- formularzy,
-- procesów użytkownika,
-- komponentów niestandardowych,
-- ekranów zawierających animacje i multimedia.
-
----
-
-## Zakres oceny
-
-### Android
-
-W zależności od wersji systemu:
-
-- rozmiar tekstu,
-- wielkość wyświetlania,
-- TalkBack,
-- przełączniki dostępności,
-- wysoki kontrast tekstu,
-- usuwanie animacji,
-- korekcja kolorów,
-- odwracanie kolorów.
-
-### iOS
-
-W zależności od wersji systemu:
-
-- Dynamic Type,
-- większe rozmiary dostępności,
-- VoiceOver,
-- Switch Control,
-- Bold Text,
-- Increase Contrast,
-- Reduce Motion,
-- Reduce Transparency,
-- Zoom.
-
----
-
-## Metoda badania
+## 10. Sposób testowania
 
 ### Krok 1. Ocena podstawowa
 
 Uruchom aplikację przy domyślnych ustawieniach systemu.
 
-### Krok 2. Zmiana ustawień dostępności
+### Krok 2. Włączenie funkcji dostępności
 
-Włącz kolejno wybrane ustawienia dostępności systemu.
+Włącz kolejno wybrane funkcje dostępności systemu.
+
+Przykładowo:
+
+#### Android
+
+- zwiększenie rozmiaru tekstu,
+- zwiększenie wielkości wyświetlania,
+- TalkBack,
+- przełączniki dostępności,
+- wysoki kontrast tekstu,
+- ograniczenie animacji,
+- korekcję kolorów,
+- odwracanie kolorów.
+
+#### iOS
+
+- Dynamic Type,
+- większe rozmiary dostępności,
+- VoiceOver,
+- Switch Control,
+- pogrubienie tekstu,
+- zwiększenie kontrastu,
+- ograniczenie ruchu,
+- ograniczenie przezroczystości,
+- powiększenie ekranu.
 
 ### Krok 3. Ocena reakcji aplikacji
 
 Po każdej zmianie sprawdź:
 
-- czy aplikacja nadal działa poprawnie,
+- czy aplikacja działa poprawnie,
 - czy treść pozostaje czytelna,
-- czy funkcje pozostają dostępne.
+- czy interfejs zachowuje spójność,
+- czy funkcjonalność pozostaje dostępna.
 
-### Krok 4. Ocena kluczowych procesów
+### Krok 4. Ocena procesów użytkownika
 
 Przeprowadź najważniejsze procesy użytkownika przy aktywnych ustawieniach dostępności.
 
 ### Krok 5. Ocena komponentów niestandardowych
 
-Sprawdź, czy niestandardowe elementy interfejsu prawidłowo reagują na ustawienia systemowe.
+Sprawdź, czy komponenty niestandardowe prawidłowo reagują na ustawienia systemowe.
 
----
+### Krok 6. Ocena technologii wspomagających
 
-## Pytania kontrolne
+Sprawdź współpracę aplikacji z:
 
-### Tekst
+- TalkBack,
+- VoiceOver,
+- przełącznikami dostępności,
+- innymi technologiami wspomagającymi dostępnymi na urządzeniu.
 
-1. Czy aplikacja respektuje systemowy rozmiar tekstu?
-2. Czy aplikacja poprawnie reaguje na pogrubienie tekstu?
+## 11. Kryteria oceny wyniku
 
-### Ruch i animacje
-
-3. Czy aplikacja respektuje ustawienie ograniczania animacji?
-4. Czy wyłączenie animacji nie powoduje utraty funkcjonalności?
-
-### Technologie wspomagające
-
-5. Czy aplikacja współpracuje z czytnikiem ekranu?
-6. Czy aplikacja współpracuje z przełącznikami dostępności?
-
-### Kontrast i prezentacja
-
-7. Czy aplikacja pozostaje czytelna przy zwiększonym kontraście?
-8. Czy zmiana ustawień prezentacji nie powoduje błędów interfejsu?
-
----
-
-## Kryteria oceny
-
-### Spełnia
+### Spełnione
 
 Aplikacja prawidłowo współpracuje z ustawieniami dostępności systemu i nie utrudnia korzystania z funkcji dostępności urządzenia.
 
-### Częściowo spełnia
+### Częściowo spełnione
 
-Większość ustawień działa poprawnie, jednak występują lokalne problemy lub ograniczenia.
+Większość ustawień działa poprawnie, jednak występują pojedyncze problemy lub ograniczenia.
 
-### Nie spełnia
+### Niespełnione
 
-Aplikacja ignoruje istotne ustawienia dostępności lub ich wykorzystanie powoduje utratę funkcjonalności.
+Aplikacja ignoruje istotne ustawienia dostępności lub ich wykorzystanie powoduje utratę funkcjonalności, informacji albo możliwości wykonania zadania.
 
 ### Nie dotyczy
 
 Nie stosuje się.
 
-Każda aplikacja mobilna funkcjonuje w środowisku systemowym wyposażonym w funkcje dostępności.
+Każda aplikacja mobilna funkcjonuje w środowisku wyposażonym w funkcje dostępności.
 
----
-
-## Typowe niezgodności
+## 12. Typowe niezgodności
 
 - ignorowanie systemowego rozmiaru tekstu,
 - nieprawidłowe działanie po włączeniu pogrubienia tekstu,
 - brak współpracy z VoiceOver lub TalkBack,
 - błędy interfejsu po zwiększeniu kontrastu,
-- animacje pozostające aktywne mimo ustawienia „Ogranicz ruch”,
+- animacje pozostające aktywne mimo ustawienia ograniczenia ruchu,
 - komponenty niestandardowe nieobsługujące technologii wspomagających,
-- utrata funkcjonalności po zmianie ustawień dostępności.
+- utrata funkcjonalności po zmianie ustawień dostępności,
+- nieprawidłowa współpraca z przełącznikami dostępności.
 
----
-
-## Dobre praktyki
+## 13. Dobre praktyki
 
 - korzystanie z natywnych komponentów systemowych,
-- testowanie aplikacji z wykorzystaniem funkcji dostępności systemu,
 - respektowanie ustawień użytkownika,
-- ograniczanie własnych mechanizmów zastępujących funkcje systemowe,
-- regularne testowanie nowych wersji aplikacji i systemów operacyjnych.
+- testowanie aplikacji z funkcjami dostępności systemu,
+- ograniczanie własnych mechanizmów zastępujących rozwiązania systemowe,
+- regularne testowanie nowych wersji aplikacji na aktualnych wersjach Androida i iOS,
+- uwzględnianie funkcji dostępności już na etapie projektowania.
 
----
+## 14. Wynik testu
 
-## Klasyfikacja problemów
+- Spełnione
+- Częściowo spełnione
+- Niespełnione
+- Nie dotyczy
 
-### Krytyczne
+## 15. Ustalenia
 
-- aplikacja nie współpracuje z podstawowymi technologiami wspomagającymi,
-- korzystanie z funkcji dostępności uniemożliwia wykonanie kluczowego zadania.
+Miejsce na opis wyników testu, ocenę współpracy aplikacji z ustawieniami dostępności systemu oraz wskazanie stwierdzonych problemów.
 
-### Istotne
+## 16. Przykładowy opis niezgodności do raportu lub deklaracji
 
-- ignorowanie ustawień mających znaczący wpływ na możliwość korzystania z aplikacji.
+> Aplikacja nie współpracuje prawidłowo z wybranymi funkcjami dostępności systemu operacyjnego. Włączenie niektórych ustawień powoduje utratę funkcjonalności, pogorszenie czytelności lub problemy z obsługą aplikacji. Może to utrudniać korzystanie z rozwiązania osobom korzystającym z technologii wspomagających i indywidualnych ustawień dostępności.
 
-### Umiarkowane
+## 17. Rekomendacje naprawcze
 
-- częściowa niezgodność z wybranymi ustawieniami dostępności.
+- zapewnić zgodność aplikacji z funkcjami dostępności Androida i iOS,
+- respektować ustawienia wybrane przez użytkownika,
+- dostosować komponenty niestandardowe do współpracy z technologiami wspomagającymi,
+- testować aplikację przy aktywnych funkcjach dostępności systemu,
+- zweryfikować wszystkie kluczowe procesy użytkownika przy różnych konfiguracjach dostępności,
+- regularnie testować aplikację po aktualizacjach systemów operacyjnych.
 
-### Drobne
+## 18. Powiązane testy
 
-- lokalne błędy niewpływające znacząco na realizację zadań.
-
----
-
-## Profil stosowania testu
-
-| Profil                                       | Stosowanie  |
-| -------------------------------------------- | ----------- |
-| Okresowa ocena stanu zgodności — minimum     | Nie         |
-| Okresowa ocena stanu zgodności — rozszerzona | Tak         |
-| Ocena przed odbiorem rozwiązania             | Tak         |
-| Audyt zgodności                              | Tak         |
-| ACR-MIN                                      | Opcjonalnie |
-| ACR-EXT                                      | Tak         |
-| ACR-AUDIT                                    | Tak         |
-
----
-
-## Powiązane testy
-
-- Skalowanie tekstu (aplikacja mobilna)
-- Obsługa czytnikiem ekranu (aplikacja mobilna)
-- Obsługa klawiaturą zewnętrzną (aplikacja mobilna)
-- Gesty systemowe i niestandardowe (aplikacja mobilna)
-- Orientacja ekranu (aplikacja mobilna)
-- Aktywowanie ruchem
-- Ruch i błyski
-- Dopasowanie do szerokości ekranu
-
----
-
-## Uwagi
-
-Test ma charakter przekrojowy i nie zastępuje szczegółowych testów dotyczących poszczególnych wymagań WCAG. Jego celem jest ocena rzeczywistej współpracy aplikacji z mechanizmami dostępności oferowanymi przez system operacyjny. W praktyce jest to jeden z najskuteczniejszych testów wykrywających problemy, które nie są widoczne podczas standardowej oceny interfejsu. Szczególnie wartościowe jest wykonywanie tego testu po aktualizacjach aplikacji oraz po zmianach wersji systemów Android i iOS.
-
-### Minimalny zakres testu
-
-Jeżeli pełna ocena wszystkich ustawień nie jest możliwa, zaleca się sprawdzenie co najmniej:
-
-- systemowego zwiększenia rozmiaru tekstu,
-- TalkBack lub VoiceOver,
-- ograniczenia animacji,
-- jednej technologii alternatywnego sterowania (jeżeli jest dostępna).
-
-Pozwala to wykryć większość najczęściej występujących problemów dostępności aplikacji mobilnych.
+- testID-101 Skalowanie tekstu (aplikacja mobilna)
+- testID-100 Orientacja ekranu (aplikacja mobilna)
+- testID-095 Obsługa czytnikiem ekranu (aplikacja mobilna)
+- testID-096 Obsługa klawiaturą zewnętrzną (aplikacja mobilna)
+- testID-097 Gesty systemowe i niestandardowe (aplikacja mobilna)
+- testID-098 Kolejność fokusu (aplikacja mobilna)
+- testID-099 Etykiety elementów interaktywnych (aplikacja mobilna)
+- testID-082 Aktywowanie ruchem
+- testID-078 Kontrola odtwarzania dźwięku

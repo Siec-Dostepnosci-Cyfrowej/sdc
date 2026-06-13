@@ -12,34 +12,100 @@ ostatnia_aktualizacja: 12 czerwca 2026 r.
 wersja_robocza: true
 ---
 
-
-
-## Identyfikator testu
+## 1. Identyfikator testu
 
 **testID-082**
 
-## Nazwa testu
+## 2. Nazwa testu
 
-Aktywowanie ruchem
+**Aktywowanie ruchem**
 
-## Cel testu
+## 3. Profil stosowania testu
 
-Sprawdzenie, czy funkcjonalności uruchamiane przez ruch urządzenia lub gest wykonywany kamerą mogą być realizowane również w inny sposób oraz czy użytkownik może wyłączyć aktywowanie ruchem, gdy nie jest ono niezbędne.
+**ACR-EXT**
 
-## Powiązane wymagania
+## 4. Opis testu
 
-### WCAG 2.1
+Test sprawdza, czy funkcjonalności uruchamiane przez ruch urządzenia lub gest wykonywany przez użytkownika mogą zostać wykonane również w inny sposób oraz czy użytkownik może wyłączyć aktywowanie ruchem, jeżeli nie jest ono niezbędne dla charakteru funkcjonalności.
 
-- 2.5.4 Aktywowanie ruchem (Motion Actuation) – poziom A
+### Co oznacza „aktywowanie ruchem”?
+
+Aktywowanie ruchem oznacza wykonywanie określonej funkcji urządzenia lub aplikacji poprzez wykrycie ruchu urządzenia albo ruchu wykonywanego przez użytkownika.
+
+Przykładami aktywowania ruchem są:
+
+- potrząśnięcie telefonem w celu wykonania określonej operacji,
+- obrócenie urządzenia powodujące uruchomienie funkcji,
+- przechylenie urządzenia wywołujące zmianę widoku,
+- sterowanie aplikacją za pomocą ruchów urządzenia wykrywanych przez akcelerometr lub żyroskop,
+- wykonywanie poleceń poprzez ruch głowy lub ciała rejestrowany przez czujniki urządzenia.
+
+Funkcje aktywowane ruchem mogą być wygodne dla części użytkowników, jednak dla innych mogą być trudne lub niemożliwe do wykonania.
+
+Dlatego użytkownik powinien mieć możliwość:
+
+- wykonania tej samej czynności w inny sposób, na przykład za pomocą przycisku lub elementu interfejsu,
+- wyłączenia funkcji aktywowanych ruchem, jeżeli mogą być uruchamiane przypadkowo.
+
+### Czym aktywowanie ruchem różni się od gestów wskaźnika?
+
+Aktywowanie ruchem dotyczy ruchu urządzenia lub ruchu użytkownika wykrywanego przez czujniki urządzenia.
+
+Gesty wskaźnika dotyczą natomiast ruchów wykonywanych na ekranie dotykowym, takich jak:
+
+- przesunięcie palcem,
+- przeciągnięcie elementu,
+- szczypanie w celu powiększenia,
+- gest wielopunktowy.
+
+Są to dwa odrębne wymagania WCAG i powinny być oceniane niezależnie.
+
+## 5. Mapowanie do standardów
+
+### WCAG 2.1 / 2.2
+
+- 2.5.4 Aktywowanie ruchem (Poziom A)
 
 ### EN 301 549
 
 - 9.2.5.4 Motion Actuation
 - 11.2.5.4 Motion Actuation
 
----
+## 6. Zastosowanie do treści
 
-## Dlaczego to jest ważne
+Test stosuje się do rozwiązań wykorzystujących:
+
+- akcelerometr,
+- żyroskop,
+- czujniki ruchu,
+- wykrywanie potrząśnięcia urządzeniem,
+- wykrywanie przechylenia urządzenia,
+- sterowanie ruchem głowy,
+- sterowanie gestami rozpoznawanymi przez kamerę,
+- inne mechanizmy aktywowane ruchem.
+
+W szczególności do:
+
+- aplikacji mobilnych,
+- aplikacji wykorzystujących czujniki urządzenia,
+- rozwiązań sterowanych kamerą,
+- interfejsów wykorzystujących sterowanie ruchem.
+
+## 7. Oczekiwany wynik
+
+Dla każdej funkcji aktywowanej ruchem użytkownik może:
+
+- wykonać tę samą czynność przy użyciu standardowych elementów interfejsu,
+
+lub
+
+- wyłączyć aktywowanie ruchem,
+
+lub
+
+- wykorzystanie ruchu jest niezbędne dla charakteru funkcjonalności.
+
+## 8. Dlaczego to jest ważne
 
 Nie wszyscy użytkownicy mogą wykonywać ruchy wymagane przez urządzenie lub aplikację.
 
@@ -52,35 +118,18 @@ Problemy mogą dotyczyć między innymi:
 
 Jeżeli funkcja jest dostępna wyłącznie poprzez potrząśnięcie urządzeniem, przechylenie telefonu lub wykonanie określonego ruchu przed kamerą, część użytkowników może zostać całkowicie pozbawiona możliwości skorzystania z tej funkcji.
 
----
+## 9. Kogo to dotyczy
 
-## Kogo dotyczy
-
-Test jest szczególnie istotny dla:
+Szczególnie:
 
 - osób z niepełnosprawnościami ruchowymi,
-- użytkowników urządzeń mobilnych,
 - osób korzystających z technologii wspomagających,
-- osób używających urządzeń w nietypowych warunkach.
+- osób starszych,
+- użytkowników urządzeń mobilnych,
+- osób korzystających z urządzeń zamocowanych w uchwytach,
+- osób korzystających z urządzeń w nietypowych warunkach.
 
----
-
-## Zakres stosowania
-
-Test należy wykonywać dla rozwiązań wykorzystujących:
-
-- akcelerometr,
-- żyroskop,
-- czujniki ruchu,
-- wykrywanie potrząśnięcia urządzeniem,
-- wykrywanie przechylenia urządzenia,
-- sterowanie ruchem głowy,
-- sterowanie gestami rozpoznawanymi przez kamerę,
-- inne mechanizmy aktywowane ruchem.
-
----
-
-## Metoda badania
+## 10. Sposób testowania
 
 ### Krok 1. Identyfikacja funkcji wykorzystujących ruch
 
@@ -100,7 +149,7 @@ Dla każdej funkcji sprawdź, czy można ją wykonać również przy użyciu:
 - przycisku,
 - elementu interfejsu,
 - klawiatury,
-- innej standardowej metody sterowania.
+- standardowych mechanizmów sterowania.
 
 ### Krok 3. Sprawdzenie możliwości wyłączenia
 
@@ -112,31 +161,19 @@ Sprawdź, czy użytkownik może:
 
 ### Krok 4. Ocena wyjątków
 
-Jeżeli aktywowanie ruchem jest niezbędne dla charakteru funkcjonalności, oceń, czy rzeczywiście nie istnieje rozsądna alternatywa.
+Jeżeli aktywowanie ruchem jest wykorzystywane jako jedyna metoda wykonania funkcji, oceń, czy rzeczywiście jest ono niezbędne dla charakteru funkcjonalności.
 
----
+## 11. Kryteria oceny wyniku
 
-## Kryteria oceny
+### Spełnione
 
-### Spełnia
+Dla wszystkich funkcji aktywowanych ruchem istnieje alternatywna metoda wykonania działania, możliwość wyłączenia funkcji lub wykorzystanie ruchu jest niezbędne dla charakteru funkcjonalności.
 
-Dla wszystkich funkcji aktywowanych ruchem:
+### Częściowo spełnione
 
-- istnieje alternatywny sposób wykonania działania niezależny od ruchu
+Alternatywne metody lub możliwość wyłączenia zapewniono jedynie dla części funkcji.
 
-lub
-
-- funkcja może zostać wyłączona
-
-lub
-
-- wykorzystanie ruchu jest niezbędne dla charakteru funkcjonalności.
-
-### Częściowo spełnia
-
-Alternatywne metody lub możliwość wyłączenia zapewniono tylko dla części funkcji.
-
-### Nie spełnia
+### Niespełnione
 
 Istnieją funkcje:
 
@@ -148,9 +185,7 @@ Istnieją funkcje:
 
 Rozwiązanie nie wykorzystuje aktywowania ruchem.
 
----
-
-## Typowe niezgodności
+## 12. Typowe niezgodności
 
 - funkcja „cofnij” dostępna wyłącznie przez potrząśnięcie urządzeniem,
 - sterowanie aplikacją wyłącznie przez przechylenie telefonu,
@@ -158,57 +193,42 @@ Rozwiązanie nie wykorzystuje aktywowania ruchem.
 - brak możliwości wyłączenia sterowania ruchem,
 - brak alternatywnych kontrolek interfejsu.
 
----
+## 13. Dobre praktyki
 
-## Dobre praktyki
-
-- zapewnienie przycisków wykonujących te same funkcje,
+- zapewnienie przycisków realizujących te same funkcje,
 - możliwość wyłączenia sterowania ruchem,
 - możliwość korzystania z aplikacji bez używania czujników ruchu,
-- traktowanie sterowania ruchem jako funkcji dodatkowej, a nie jedynej metody obsługi.
+- traktowanie sterowania ruchem jako funkcji dodatkowej,
+- dokumentowanie funkcji wykorzystujących ruch.
 
----
+## 14. Wynik testu
 
-## Klasyfikacja problemów
+- Spełnione
+- Częściowo spełnione
+- Niespełnione
+- Nie dotyczy
 
-### Krytyczne
+## 15. Ustalenia
 
-- kluczowa funkcjonalność dostępna wyłącznie przez aktywowanie ruchem.
+Miejsce na opis wyników testu, wskazanie funkcji wykorzystujących ruch oraz opis stwierdzonych ograniczeń.
 
-### Istotne
+## 16. Przykładowy opis niezgodności do raportu lub deklaracji
 
-- brak alternatywnej metody wykonania ważnych działań.
+> W badanym rozwiązaniu część funkcjonalności dostępna jest wyłącznie poprzez aktywowanie ruchem urządzenia lub użytkownika. Nie zapewniono alternatywnej metody wykonania tych działań ani możliwości wyłączenia funkcji wykorzystujących ruch. Może to utrudniać lub uniemożliwiać korzystanie z rozwiązania osobom z ograniczoną sprawnością ruchową.
 
-### Systemowe
+## 17. Rekomendacje naprawcze
 
-- projekt interfejsu oparty na założeniu, że wszyscy użytkownicy mogą wykonywać wymagane ruchy.
+- zapewnić alternatywne przyciski lub kontrolki realizujące te same funkcje,
+- umożliwić wyłączenie funkcji aktywowanych ruchem,
+- zapewnić obsługę funkcji przy użyciu standardowych elementów interfejsu,
+- przeanalizować zasadność wykorzystania aktywowania ruchem jako podstawowego mechanizmu sterowania,
+- przetestować rozwiązanie z użytkownikami korzystającymi z technologii wspomagających.
 
----
+## 18. Powiązane testy
 
-## Profil stosowania testu
-
-| Profil                                       | Stosowanie |
-| -------------------------------------------- | ---------- |
-| Okresowa ocena stanu zgodności — minimum     | Nie        |
-| Okresowa ocena stanu zgodności — rozszerzona | Tak        |
-| Ocena przed odbiorem rozwiązania             | Tak        |
-| Audyt zgodności                              | Tak        |
-| ACR-MIN                                      | Nie        |
-| ACR-EXT                                      | Tak        |
-| ACR-AUDIT                                    | Tak        |
-
----
-
-## Powiązane testy
-
-- Gesty wskaźnika
-- Rezygnacja ze wskazania
-- Dostęp z klawiatury
-- Odczyt przez czytnik ekranu
-- Dostępna nazwa elementu interaktywnego
-
----
-
-## Uwagi
-
-Kryterium nie zabrania stosowania aktywowania ruchem. Wymaga jedynie, aby użytkownik miał możliwość wykonania tej samej czynności w inny sposób lub wyłączenia sterowania ruchem, chyba że wykorzystanie ruchu jest niezbędne dla charakteru funkcjonalności. Przykładem dopuszczalnego wyjątku może być aplikacja, której podstawowym celem jest analiza lub trening ruchu użytkownika.
+- testID-080 Gesty wskaźnika
+- testID-081 Rezygnacja ze wskazania
+- testID-088 Przeciąganie
+- testID-095 Obsługa czytnikiem ekranu (aplikacja mobilna)
+- testID-097 Gesty systemowe i niestandardowe (aplikacja mobilna)
+- testID-070 Dostępna nazwa elementu interaktywnego

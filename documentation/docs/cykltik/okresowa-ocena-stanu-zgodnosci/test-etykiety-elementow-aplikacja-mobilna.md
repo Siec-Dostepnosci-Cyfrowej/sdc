@@ -12,82 +12,73 @@ ostatnia_aktualizacja: 12 czerwca 2026 r.
 wersja_robocza: true
 ---
 
-
-
-## Identyfikator testu
+## 1. Identyfikator testu
 
 **testID-099**
 
-## Nazwa testu
+## 2. Nazwa testu
 
-Etykiety elementów (aplikacja mobilna)
+**Etykiety elementów interaktywnych (aplikacja mobilna)**
 
-## Cel testu
+## 3. Profil stosowania testu
 
-Sprawdzenie, czy elementy interaktywne aplikacji mobilnej posiadają jednoznaczne, zrozumiałe i programowo określone etykiety umożliwiające ich identyfikację przez użytkowników oraz technologie wspomagające.
+**ACR-MIN**
 
-## Powiązane wymagania
+## 4. Opis testu
+
+Test sprawdza, czy elementy interaktywne aplikacji mobilnej posiadają jednoznaczne, zrozumiałe i programowo określone etykiety umożliwiające ich identyfikację przez użytkowników oraz technologie wspomagające.
+
+### Co oznacza „etykieta elementu”?
+
+Etykieta elementu to nazwa lub opis pozwalający użytkownikowi zrozumieć:
+
+- czym jest dany element,
+- do czego służy,
+- jakie działanie zostanie wykonane po jego aktywowaniu.
+
+Etykieta może być:
+
+- widocznym tekstem,
+- nazwą dostępną odczytywaną przez czytnik ekranu,
+- połączeniem obu tych form.
+
+Przykładowo:
+
+- przycisk „Wyślij” posiada etykietę „Wyślij”,
+- ikona kosza może posiadać etykietę „Usuń”,
+- pole formularza może posiadać etykietę „Adres e-mail”.
+
+### Co oznacza „programowo określona etykieta”?
+
+Programowo określona etykieta to etykieta dostępna dla technologii wspomagających, takich jak TalkBack lub VoiceOver.
+
+Dzięki niej użytkownik niewidomy może zrozumieć funkcję elementu nawet wtedy, gdy element nie zawiera widocznego tekstu.
+
+## 5. Mapowanie do standardów
 
 ### WCAG 2.1 / 2.2
 
 W szczególności:
 
-- 1.3.1 Informacje i relacje
-- 2.4.4 Cel łącza (w kontekście)
-- 2.4.6 Nagłówki i etykiety
-- 2.5.3 Etykieta w nazwie
-- 3.3.2 Etykiety lub instrukcje
-- 4.1.2 Nazwa, rola, wartość
+- 1.3.1 Informacje i relacje,
+- 2.4.4 Cel łącza (w kontekście),
+- 2.4.6 Nagłówki i etykiety,
+- 2.5.3 Etykieta w nazwie,
+- 3.3.2 Etykiety lub instrukcje,
+- 4.1.2 Nazwa, rola, wartość.
 
 ### EN 301 549
 
 W szczególności:
 
-- 11.5.2.5 Object Information
-- 11.5.2.8 Label Relationships
-- 11.5.2.10 Text
-- 11.5.2.12 Name, Role, Value
+- 11.5.2.5 Object Information,
+- 11.5.2.8 Label Relationships,
+- 11.5.2.10 Text,
+- 11.5.2.12 Name, Role, Value.
 
----
+## 6. Zastosowanie do treści
 
-## Dlaczego to jest ważne
-
-Użytkownik powinien wiedzieć:
-
-- czym jest dany element,
-- do czego służy,
-- jaki jest jego aktualny stan.
-
-W aplikacjach mobilnych często występują:
-
-- przyciski przedstawione wyłącznie ikoną,
-- pola formularzy bez opisów,
-- niestandardowe komponenty,
-- elementy sterujące generowane dynamicznie.
-
-Brak prawidłowych etykiet może powodować, że użytkownik:
-
-- nie rozumie funkcji elementu,
-- nie może skutecznie korzystać z czytnika ekranu,
-- popełnia błędy podczas wykonywania zadań.
-
----
-
-## Kogo dotyczy
-
-Test jest szczególnie istotny dla:
-
-- osób niewidomych,
-- osób słabowidzących,
-- użytkowników czytników ekranu,
-- osób korzystających ze sterowania głosowego,
-- osób z trudnościami poznawczymi.
-
----
-
-## Zakres stosowania
-
-Test należy wykonywać dla:
+Test stosuje się do:
 
 - przycisków,
 - ikon pełniących funkcję przycisku,
@@ -95,57 +86,78 @@ Test należy wykonywać dla:
 - przełączników,
 - przycisków radiowych,
 - pól wyboru,
-- kart,
+- kart interaktywnych,
 - zakładek,
 - elementów menu,
-- niestandardowych komponentów interaktywnych.
+- komponentów niestandardowych.
 
----
+## 7. Oczekiwany wynik
 
-## Narzędzia
+Każdy element interaktywny:
 
-### Android
+- posiada etykietę,
+- posiada nazwę dostępną dla technologii wspomagających,
+- jest jednoznacznie identyfikowany przez użytkownika,
+- pozwala zrozumieć swoje przeznaczenie bez konieczności zgadywania.
 
-- TalkBack
-- Accessibility Scanner (opcjonalnie)
+## 8. Dlaczego to jest ważne
 
-### iOS
+Użytkownik powinien wiedzieć:
 
-- VoiceOver
-- Accessibility Inspector (opcjonalnie)
+- czym jest dany element,
+- do czego służy,
+- jaki jest jego aktualny stan.
 
----
+Brak prawidłowych etykiet może powodować, że użytkownik:
 
-## Metoda badania
+- nie rozumie funkcji elementu,
+- nie może skutecznie korzystać z czytnika ekranu,
+- popełnia błędy podczas wykonywania zadań,
+- nie potrafi ukończyć procesu.
+
+Problem szczególnie często występuje w przypadku ikon, niestandardowych komponentów i formularzy.
+
+## 9. Kogo to dotyczy
+
+Szczególnie:
+
+- osób niewidomych,
+- osób słabowidzących,
+- użytkowników czytników ekranu,
+- osób korzystających ze sterowania głosowego,
+- osób z niepełnosprawnościami poznawczymi,
+- osób uczących się korzystania z aplikacji.
+
+## 10. Sposób testowania
 
 ### Krok 1. Identyfikacja elementów
 
 Zidentyfikuj wszystkie elementy interaktywne dostępne na ekranie.
 
-### Krok 2. Odczyt przy użyciu czytnika ekranu
+### Krok 2. Test z czytnikiem ekranu
 
 Uruchom:
 
-- TalkBack
+- TalkBack (Android)
 
 lub
 
-- VoiceOver.
+- VoiceOver (iOS).
 
 Przejdź kolejno przez wszystkie elementy interaktywne.
 
-### Krok 3. Ocena etykiety
+### Krok 3. Ocena etykiet
 
 Dla każdego elementu sprawdź:
 
 - czy posiada etykietę,
 - czy etykieta jest zrozumiała,
 - czy etykieta opisuje funkcję elementu,
-- czy etykieta jest wystarczająco jednoznaczna.
+- czy etykieta jest jednoznaczna.
 
 ### Krok 4. Ocena elementów ikonowych
 
-Sprawdź, czy elementy reprezentowane wyłącznie przez ikonę posiadają prawidłową nazwę dostępną.
+Sprawdź, czy elementy reprezentowane wyłącznie przez ikonę posiadają nazwę dostępną.
 
 ### Krok 5. Ocena formularzy
 
@@ -155,30 +167,21 @@ Sprawdź, czy:
 - etykieta jest powiązana z polem,
 - użytkownik rozumie oczekiwane działanie.
 
----
+### Krok 6. Ocena praktyczna
 
-## Pytania kontrolne
+Sprawdź, czy użytkownik korzystający z czytnika ekranu może zrozumieć funkcję każdego elementu bez dodatkowego kontekstu wizualnego.
 
-1. Czy każdy element interaktywny posiada etykietę?
-2. Czy etykieta pozwala zrozumieć funkcję elementu?
-3. Czy etykieta jest jednoznaczna?
-4. Czy elementy ikonowe posiadają dostępną nazwę?
-5. Czy pola formularzy posiadają prawidłowe etykiety?
-6. Czy użytkownik korzystający z czytnika ekranu rozumie znaczenie elementu bez dodatkowego kontekstu?
+## 11. Kryteria oceny wyniku
 
----
-
-## Kryteria oceny
-
-### Spełnia
+### Spełnione
 
 Wszystkie oceniane elementy posiadają jednoznaczne, zrozumiałe i programowo określone etykiety.
 
-### Częściowo spełnia
+### Częściowo spełnione
 
 Występują pojedyncze elementy z brakującymi lub niejednoznacznymi etykietami.
 
-### Nie spełnia
+### Niespełnione
 
 Znaczna liczba elementów nie posiada etykiet lub etykiety nie pozwalają zrozumieć funkcji elementu.
 
@@ -188,77 +191,55 @@ Nie stosuje się.
 
 Każda aplikacja mobilna zawiera elementy wymagające identyfikacji.
 
----
-
-## Typowe niezgodności
+## 12. Typowe niezgodności
 
 - przyciski odczytywane jako „przycisk” bez nazwy,
 - elementy odczytywane jako „nieoznaczone”,
-- ikony bez dostępnej nazwy,
+- ikony bez nazwy dostępnej,
 - pola formularzy bez etykiet,
-- etykiety techniczne niezrozumiałe dla użytkownika,
+- techniczne lub niezrozumiałe nazwy elementów,
 - wiele elementów posiadających identyczną nazwę mimo różnych funkcji,
 - etykiety nieopisujące rzeczywistego działania elementu.
 
----
+## 13. Dobre praktyki
 
-## Dobre praktyki
-
-- stosowanie jednoznacznych nazw opisujących funkcję,
+- stosowanie nazw opisujących funkcję elementu,
 - nadawanie nazw wszystkim przyciskom ikonowym,
 - korzystanie z natywnych mechanizmów etykietowania systemu,
 - testowanie aplikacji przy użyciu TalkBack i VoiceOver,
-- projektowanie etykiet z perspektywy użytkownika, a nie programisty.
+- projektowanie etykiet z perspektywy użytkownika,
+- stosowanie spójnego nazewnictwa w całej aplikacji.
 
----
+## 14. Wynik testu
 
-## Klasyfikacja problemów
+- Spełnione
+- Częściowo spełnione
+- Niespełnione
+- Nie dotyczy
 
-### Krytyczne
+## 15. Ustalenia
 
-- brak możliwości zidentyfikowania funkcji kluczowych elementów procesu.
+Miejsce na opis wyników testu, wskazanie elementów z nieprawidłowymi etykietami oraz ocenę wpływu problemów na użytkowników.
 
-### Istotne
+## 16. Przykładowy opis niezgodności do raportu lub deklaracji
 
-- brak etykiet formularzy,
-- brak nazw istotnych przycisków lub przełączników.
+> W aplikacji występują elementy interaktywne pozbawione etykiet lub posiadające etykiety niepozwalające jednoznacznie określić ich funkcji. Problem utrudnia korzystanie z aplikacji użytkownikom czytników ekranu oraz może prowadzić do błędów podczas wykonywania zadań.
 
-### Umiarkowane
+## 17. Rekomendacje naprawcze
 
-- niejednoznaczne lub mylące etykiety.
+- zapewnić etykiety wszystkim elementom interaktywnym,
+- nadać nazwy dostępne elementom ikonowym,
+- stosować nazwy opisujące funkcję elementu,
+- zweryfikować poprawność etykiet formularzy,
+- testować aplikację przy użyciu TalkBack i VoiceOver,
+- przeprowadzić przegląd wszystkich komponentów niestandardowych.
 
-### Drobne
+## 18. Powiązane testy
 
-- pojedyncze elementy o nazwach wymagających dopracowania.
-
----
-
-## Profil stosowania testu
-
-| Profil                                       | Stosowanie              |
-| -------------------------------------------- | ----------------------- |
-| Okresowa ocena stanu zgodności — minimum     | Tak (aplikacje mobilne) |
-| Okresowa ocena stanu zgodności — rozszerzona | Tak                     |
-| Ocena przed odbiorem rozwiązania             | Tak                     |
-| Audyt zgodności                              | Tak                     |
-| ACR-MIN                                      | Tak                     |
-| ACR-EXT                                      | Tak                     |
-| ACR-AUDIT                                    | Tak                     |
-
----
-
-## Powiązane testy
-
-- Obsługa czytnikiem ekranu (aplikacja mobilna)
-- Kolejność fokusu (aplikacja mobilna)
-- Dostępna nazwa elementu interaktywnego
-- Dostępna nazwa w widocznej etykiecie
-- Widoczne etykiety lub instrukcje
-- Formularz elektroniczny
-- Komunikaty o stanie
-
----
-
-## Uwagi
-
-Test ten jest mobilnym odpowiednikiem testów „Dostępna nazwa elementu interaktywnego”, „Dostępna nazwa w widocznej etykiecie” oraz częściowo „Widoczne etykiety lub instrukcje”. W praktyce aplikacji mobilnych szczególnie często wykrywa problemy związane z ikonami pozbawionymi nazw dostępnych, niestandardowymi komponentami oraz formularzami projektowanymi wyłącznie z myślą o użytkownikach widzących. W scenariuszu minimum dla aplikacji mobilnych test ten powinien być traktowany jako jeden z podstawowych testów dostępności.
+- testID-095 Obsługa czytnikiem ekranu (aplikacja mobilna)
+- testID-098 Kolejność fokusu (aplikacja mobilna)
+- testID-070 Dostępna nazwa elementu interaktywnego
+- testID-071 Dostępna nazwa w widocznej etykiecie
+- testID-039 Widoczne etykiety lub instrukcje
+- testID-120 Formularz
+- testID-069 Komunikaty o stanie

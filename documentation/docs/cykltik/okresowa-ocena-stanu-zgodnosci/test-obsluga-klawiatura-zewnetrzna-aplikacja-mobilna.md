@@ -4,186 +4,186 @@ title: Obsługa klawiaturą zewnętrzną (aplikacja mobilna)
 sidebar_label: Obsługa klawiaturą zewnętrzną
 sidebar_position: 96
 description: Scenariusz testu sprawdzającego, czy aplikacja mobilna może być skutecznie obsługiwana przy użyciu zewnętrznej klawiatury oraz czy użytkownik może wykonywać kluczowe zadania bez konieczności korzystania z ekranu dotykowego.
-keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,dostępne uwierzytelnianie]
-tags: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,dostępne uwierzytelnianie]
+keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,aplikacja mobilna]
+tags: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,aplikacja mobilna]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2026 r.
 ostatnia_aktualizacja: 12 czerwca 2026 r.
 wersja_robocza: true
 ---
 
-
-
-## Identyfikator testu
+## 1. Identyfikator testu
 
 **testID-096**
 
-## Nazwa testu
+## 2. Nazwa testu
 
-Obsługa klawiaturą zewnętrzną (aplikacja mobilna)
+**Obsługa klawiaturą zewnętrzną (aplikacja mobilna)**
 
-## Cel testu
+## 3. Profil stosowania testu
 
-Sprawdzenie, czy aplikacja mobilna może być skutecznie obsługiwana przy użyciu zewnętrznej klawiatury oraz czy użytkownik może wykonywać kluczowe zadania bez konieczności korzystania z ekranu dotykowego.
+**ACR-EXT**
 
-## Powiązane wymagania
+## 4. Opis testu
+
+Test sprawdza, czy aplikacja mobilna może być skutecznie obsługiwana przy użyciu klawiatury zewnętrznej oraz czy użytkownik może wykonywać kluczowe zadania bez konieczności korzystania z dotyku.
+
+### Co oznacza „klawiatura zewnętrzna”?
+
+Klawiatura zewnętrzna to klawiatura podłączona do urządzenia mobilnego, na przykład:
+
+- klawiatura Bluetooth,
+- klawiatura podłączona przez USB,
+- klawiatura stanowiąca część stacji dokującej,
+- urządzenie wspomagające wykorzystujące interfejs klawiatury.
+
+Z punktu widzenia dostępności test obejmuje również technologie wspomagające, które sterują aplikacją za pomocą poleceń klawiaturowych lub wykorzystują mechanizmy nawigacji klawiaturowej systemu operacyjnego.
+
+### Co oznacza „obsługa klawiaturą”?
+
+Obsługa klawiaturą oznacza możliwość:
+
+- przemieszczania się pomiędzy elementami,
+- aktywowania funkcji,
+- wprowadzania danych,
+- wykonywania zadań,
+
+bez konieczności korzystania z dotyku lub gestów wskaźnika.
+
+## 5. Mapowanie do standardów
 
 ### WCAG 2.1 / 2.2
 
 W szczególności:
 
-* 2.1.1 Klawiatura
-* 2.1.2 Bez pułapki na klawiaturę
-* 2.4.3 Kolejność fokusu
-* 2.4.7 Widoczny fokus
-* 2.4.11 Fokus niezakryty (minimum)
-* 2.4.12 Fokus niezakryty (ulepszone)
-* 2.5.1 Gesty wskaźnika
-* 4.1.2 Nazwa, rola, wartość
+- 2.1.1 Klawiatura,
+- 2.1.2 Bez pułapki na klawiaturę,
+- 2.4.3 Kolejność fokusu,
+- 2.4.7 Widoczny fokus,
+- 2.4.11 Fokus niezakryty (minimum),
+- 2.4.12 Fokus niezakryty (ulepszone),
+- 2.5.1 Gesty wskaźnika,
+- 4.1.2 Nazwa, rola, wartość.
 
 ### EN 301 549
 
 W szczególności:
 
-* 11.2.1.1 Keyboard
-* 11.2.1.2 No Keyboard Trap
-* 11.2.4.3 Focus Order
-* 11.2.4.7 Focus Visible
-* 11.2.4.11 Focus Not Obscured (Minimum)
-* 11.2.4.12 Focus Not Obscured (Enhanced)
+- 11.2.1.1 Keyboard,
+- 11.2.1.2 No Keyboard Trap,
+- 11.2.4.3 Focus Order,
+- 11.2.4.7 Focus Visible,
+- 11.2.4.11 Focus Not Obscured (Minimum),
+- 11.2.4.12 Focus Not Obscured (Enhanced).
 
----
+## 6. Zastosowanie do treści
 
-## Dlaczego to jest ważne
+Test stosuje się do:
 
-Wielu użytkowników aplikacji mobilnych korzysta z:
+- aplikacji Android,
+- aplikacji iOS,
+- ekranów głównych aplikacji,
+- formularzy,
+- menu,
+- okien dialogowych,
+- procesów użytkownika,
+- komponentów niestandardowych,
+- elementów interaktywnych.
 
-* klawiatur Bluetooth,
-* klawiatur podłączonych przez USB,
-* klawiatur ekranowych sterowanych przełącznikami,
-* technologii wspomagających wykorzystujących interfejs klawiatury.
+## 7. Oczekiwany wynik
 
-Dla części osób z niepełnosprawnościami ruchowymi klawiatura może być podstawowym lub jedynym sposobem obsługi urządzenia mobilnego.
+Użytkownik może przy użyciu klawiatury:
 
-Jeżeli aplikacja nie obsługuje poprawnie klawiatury, użytkownik może nie być w stanie:
+- dotrzeć do wszystkich istotnych elementów,
+- zrozumieć położenie fokusu,
+- aktywować funkcje,
+- wykonywać zadania,
+- korzystać z aplikacji bez konieczności używania dotyku.
 
-* przejść do wszystkich elementów,
-* aktywować funkcji,
-* wypełnić formularza,
-* ukończyć procesu.
+## 8. Dlaczego to jest ważne
 
----
+Dla wielu użytkowników klawiatura jest podstawowym lub jedynym sposobem obsługi urządzenia mobilnego.
 
-## Kogo dotyczy
+Dotyczy to między innymi:
 
-Test jest szczególnie istotny dla:
+- osób z niepełnosprawnościami ruchowymi,
+- użytkowników przełączników,
+- użytkowników alternatywnych metod sterowania,
+- osób korzystających z tabletów z klawiaturą,
+- części użytkowników technologii wspomagających.
 
-* osób z niepełnosprawnościami ruchowymi,
-* użytkowników przełączników i technologii alternatywnego sterowania,
-* użytkowników tabletów i urządzeń hybrydowych,
-* osób korzystających z klawiatur Bluetooth,
-* użytkowników technologii wspomagających.
+Jeżeli aplikacja nie obsługuje klawiatury, użytkownik może nie być w stanie wykonać podstawowych czynności lub ukończyć procesu.
 
----
+## 9. Kogo to dotyczy
 
-## Zakres stosowania
+Szczególnie:
 
-Test należy wykonywać dla:
+- osób z niepełnosprawnościami ruchowymi,
+- użytkowników przełączników,
+- osób korzystających z alternatywnych urządzeń sterujących,
+- użytkowników tabletów i urządzeń hybrydowych,
+- osób korzystających z klawiatur Bluetooth,
+- użytkowników technologii wspomagających.
 
-* aplikacji Android,
-* aplikacji iOS,
-* głównych ekranów aplikacji,
-* formularzy,
-* menu,
-* okien dialogowych,
-* kluczowych procesów użytkownika,
-* komponentów niestandardowych.
-
----
-
-## Narzędzia
-
-### Android
-
-* fizyczna klawiatura Bluetooth lub USB,
-* opcjonalnie TalkBack.
-
-### iOS
-
-* klawiatura Bluetooth,
-* opcjonalnie VoiceOver.
-
----
-
-## Metoda badania
+## 10. Sposób testowania
 
 ### Krok 1. Podłączenie klawiatury
 
-Podłącz zewnętrzną klawiaturę do urządzenia mobilnego.
+Podłącz klawiaturę zewnętrzną do urządzenia mobilnego.
 
-### Krok 2. Nawigacja po interfejsie
+### Krok 2. Nawigacja po aplikacji
 
 Sprawdź możliwość przemieszczania się pomiędzy elementami przy użyciu:
 
-* Tab,
-* Shift + Tab,
-* klawiszy strzałek,
-* Enter,
-* Spacji,
-* skrótów systemowych.
+- Tab,
+- Shift + Tab,
+- klawiszy strzałek,
+- Enter,
+- Spacji,
+- innych standardowych mechanizmów systemowych.
 
 ### Krok 3. Ocena fokusu
 
 Sprawdź, czy:
 
-* fokus jest widoczny,
-* kolejność nawigacji jest logiczna,
-* fokus nie jest gubiony podczas zmiany ekranów,
-* fokus nie zostaje ukryty przez inne elementy.
+- fokus jest widoczny,
+- kolejność fokusu jest logiczna,
+- fokus nie jest gubiony podczas zmiany ekranów,
+- fokus nie zostaje zasłonięty.
 
-### Krok 4. Wykonanie kluczowych zadań
+### Krok 4. Wykonanie zadań
 
 Przeprowadź najważniejsze procesy użytkownika wyłącznie przy użyciu klawiatury.
 
 Przykładowo:
 
-* logowanie,
-* wyszukiwanie informacji,
-* wypełnienie formularza,
-* wykonanie operacji biznesowej.
+- logowanie,
+- wyszukiwanie informacji,
+- wypełnienie formularza,
+- wykonanie głównych funkcji aplikacji.
 
 ### Krok 5. Ocena komponentów niestandardowych
 
 Sprawdź działanie:
 
-* zakładek,
-* akordeonów,
-* karuzel,
-* menu,
-* okien dialogowych,
-* komponentów tworzonych indywidualnie przez producenta aplikacji.
+- menu,
+- zakładek,
+- akordeonów,
+- karuzel,
+- okien dialogowych,
+- komponentów tworzonych indywidualnie.
 
----
+## 11. Kryteria oceny wyniku
 
-## Kryteria oceny
+### Spełnione
 
-### Spełnia
+Użytkownik może wykonać wszystkie kluczowe zadania przy użyciu klawiatury.
 
-Użytkownik może:
+### Częściowo spełnione
 
-* dotrzeć do wszystkich istotnych elementów,
-* obsługiwać funkcje aplikacji,
-* wykonać kluczowe zadania,
-* zamykać okna dialogowe,
-* opuszczać wszystkie komponenty,
+Większość funkcji działa poprawnie, jednak część elementów lub procesów nie jest w pełni dostępna.
 
-wyłącznie przy użyciu klawiatury.
-
-### Częściowo spełnia
-
-Większość funkcji działa poprawnie, jednak część elementów nie jest dostępna lub działa nieprawidłowo podczas obsługi klawiaturą.
-
-### Nie spełnia
+### Niespełnione
 
 Istnieją istotne bariery uniemożliwiające korzystanie z aplikacji przy użyciu klawiatury.
 
@@ -191,80 +191,59 @@ Istnieją istotne bariery uniemożliwiające korzystanie z aplikacji przy użyci
 
 Nie stosuje się.
 
-Każda aplikacja mobilna powinna umożliwiać obsługę przy użyciu standardowych mechanizmów dostępności systemu operacyjnego.
+Każda aplikacja mobilna powinna współpracować z mechanizmami nawigacji klawiaturowej systemu operacyjnego.
 
----
+## 12. Typowe niezgodności
 
-## Typowe niezgodności
+- brak możliwości przejścia do części elementów,
+- nieprawidłowa kolejność fokusu,
+- niewidoczny fokus,
+- brak możliwości aktywacji przycisków,
+- pułapka klawiaturowa,
+- utrata fokusu po zmianie ekranu,
+- komponenty niestandardowe nieobsługujące klawiatury,
+- konieczność użycia dotyku do wykonania części operacji.
 
-* brak możliwości przejścia do części elementów,
-* nieprawidłowa kolejność fokusu,
-* niewidoczny fokus,
-* brak możliwości aktywacji przycisków klawiszem Enter lub Spacją,
-* pułapka klawiaturowa,
-* utrata fokusu po zmianie ekranu,
-* komponenty niestandardowe nieobsługujące klawiatury.
+## 13. Dobre praktyki
 
----
+- testowanie aplikacji z klawiaturą zewnętrzną,
+- stosowanie natywnych komponentów systemowych,
+- zapewnianie widocznego fokusu,
+- zachowanie logicznej kolejności nawigacji,
+- obsługa standardowych zachowań systemowych,
+- testowanie aplikacji z użytkownikami technologii wspomagających.
 
-## Dobre praktyki
+## 14. Wynik testu
 
-* testowanie aplikacji z fizyczną klawiaturą,
-* korzystanie z natywnych komponentów systemowych,
-* zapewnianie widocznego fokusu,
-* zachowanie logicznej kolejności nawigacji,
-* obsługa standardowych skrótów i zachowań systemowych.
+- Spełnione
+- Częściowo spełnione
+- Niespełnione
+- Nie dotyczy
 
----
+## 15. Ustalenia
 
-## Klasyfikacja problemów
+Miejsce na opis wyników testu, ocenę obsługi klawiaturą oraz wskazanie stwierdzonych problemów.
 
-### Krytyczne
+## 16. Przykładowy opis niezgodności do raportu lub deklaracji
 
-* brak możliwości ukończenia kluczowego procesu przy użyciu klawiatury,
-* pułapka klawiaturowa uniemożliwiająca dalszą pracę.
+> Aplikacja nie zapewnia pełnej obsługi przy użyciu klawiatury zewnętrznej. Część elementów nie jest dostępna w nawigacji klawiaturowej lub nie może zostać aktywowana bez użycia dotyku. Problem może uniemożliwiać korzystanie z aplikacji osobom z niepełnosprawnościami ruchowymi oraz użytkownikom technologii wspomagających.
 
-### Istotne
+## 17. Rekomendacje naprawcze
 
-* niedostępność istotnych funkcji lub komponentów.
+- zapewnić dostępność wszystkich funkcji przy użyciu klawiatury,
+- poprawić kolejność i widoczność fokusu,
+- usunąć pułapki klawiaturowe,
+- dostosować komponenty niestandardowe do obsługi klawiatury,
+- testować aplikację z klawiaturami Bluetooth oraz technologiami wspomagającymi.
 
-### Umiarkowane
+## 18. Powiązane testy
 
-* problemy z kolejnością fokusu lub aktywacją elementów.
-
-### Drobne
-
-* lokalne problemy niewpływające znacząco na realizację zadania.
-
----
-
-## Profil stosowania testu
-
-| Profil                                       | Stosowanie              |
-| -------------------------------------------- | ----------------------- |
-| Okresowa ocena stanu zgodności — minimum     | Tak (aplikacje mobilne) |
-| Okresowa ocena stanu zgodności — rozszerzona | Tak                     |
-| Ocena przed odbiorem rozwiązania             | Tak                     |
-| Audyt zgodności                              | Tak                     |
-| ACR-MIN                                      | Tak                     |
-| ACR-EXT                                      | Tak                     |
-| ACR-AUDIT                                    | Tak                     |
-
----
-
-## Powiązane testy
-
-* Obsługa czytnikiem ekranu (aplikacja mobilna)
-* Dostęp z klawiatury
-* Pułapka klawiaturowa
-* Kolejność fokusu
-* Widoczność fokusu
-* Fokus niezakryty
-* Gesty wskaźnika
-* Aktywowanie ruchem
-
----
-
-## Uwagi
-
-Choć większość użytkowników aplikacji mobilnych korzysta z ekranu dotykowego, obsługa klawiatury jest istotnym wymaganiem dostępności. W praktyce wiele problemów ujawnianych podczas tego testu dotyczy niestandardowych komponentów, które nie korzystają z mechanizmów dostępności oferowanych przez system Android lub iOS. Test warto wykonywać równolegle z testem „Obsługa czytnikiem ekranu (aplikacja mobilna)”, ponieważ oba testy często wykrywają te same błędy związane z fokusem, strukturą interfejsu i dostępnością komponentów.
+- testID-095 Obsługa czytnikiem ekranu (aplikacja mobilna)
+- testID-023 Dostęp z klawiatury
+- testID-024 Obsługa klawiaturą
+- testID-025 Bez pułapki klawiaturowej
+- testID-026 Kolejność fokusu
+- testID-027 Widoczność fokusu
+- testID-087 Fokus niezakryty
+- testID-080 Gesty wskaźnika
+- testID-082 Aktywowanie ruchem

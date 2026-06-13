@@ -12,73 +12,100 @@ ostatnia_aktualizacja: 12 czerwca 2026 r.
 wersja_robocza: true
 ---
 
-
-
-## Identyfikator testu
+## 1. Identyfikator testu
 
 **testID-081**
 
-## Nazwa testu
+## 2. Nazwa testu
 
-Rezygnacja ze wskazania
+**Rezygnacja ze wskazania**
 
-## Cel testu
+## 3. Profil stosowania testu
 
-Sprawdzenie, czy funkcjonalności uruchamiane za pomocą pojedynczego wskaźnika (np. kliknięcia myszą, dotknięcia ekranu) nie są wykonywane natychmiast po zdarzeniu „w dół” (naciśnięciu), chyba że użytkownik może przerwać działanie, cofnąć jego skutki lub wykorzystanie zdarzenia „w dół” jest niezbędne dla charakteru funkcjonalności.
+**ACR-EXT**
 
-## Powiązane wymagania
+## 4. Opis testu
 
-### WCAG 2.1
+Test sprawdza, czy funkcjonalności uruchamiane za pomocą pojedynczego wskaźnika (np. kliknięcia myszą, dotknięcia ekranu lub użycia pióra cyfrowego) nie są wykonywane natychmiast po zdarzeniu „w dół” (naciśnięciu), chyba że użytkownik może anulować działanie, cofnąć jego skutki lub wykorzystanie zdarzenia „w dół” jest niezbędne dla charakteru funkcjonalności.
 
-- 2.5.2 Rezygnacja ze wskazania (Pointer Cancellation) – poziom A
+### Co oznacza „rezygnacja ze wskazania”?
+
+Rezygnacja ze wskazania oznacza możliwość przerwania lub wycofania działania wykonywanego za pomocą wskaźnika przed jego ostatecznym zakończeniem.
+
+W praktyce użytkownik powinien mieć możliwość zmiany decyzji, jeżeli przypadkowo dotknął ekranu, kliknął element lub rozpoczął wykonywanie gestu.
+
+Przykładowo:
+
+- użytkownik naciska przycisk, ale może zrezygnować z jego aktywacji przed zwolnieniem palca lub przycisku myszy,
+- użytkownik rozpoczyna przeciąganie elementu, ale może przerwać operację bez wykonania działania,
+- użytkownik przypadkowo dotyka elementu interfejsu, ale nie powoduje to natychmiastowego wykonania nieodwracalnej operacji.
+
+W większości przypadków aktywacja funkcji powinna następować po zakończeniu działania użytkownika (na przykład po zwolnieniu przycisku myszy lub oderwaniu palca od ekranu), a nie w chwili jego rozpoczęcia.
+
+### Dlaczego jest to ważne?
+
+Wielu użytkowników może przypadkowo:
+
+- dotknąć ekranu,
+- kliknąć niewłaściwy element,
+- wykonać niezamierzony ruch ręką,
+- utracić kontrolę nad wskaźnikiem.
+
+Jeżeli działanie zostaje wykonane natychmiast po dotknięciu lub naciśnięciu, użytkownik nie ma możliwości poprawienia błędu.
+
+Może to prowadzić do:
+
+- przypadkowego wysłania formularza,
+- uruchomienia niepożądanej funkcji,
+- usunięcia danych,
+- wykonania operacji finansowej lub administracyjnej bez zamiaru użytkownika.
+
+### Przykłady prawidłowych rozwiązań
+
+- aktywacja przycisku następuje po zwolnieniu przycisku myszy lub oderwaniu palca od ekranu,
+- użytkownik może anulować działanie przez odsunięcie wskaźnika od elementu przed zakończeniem gestu,
+- system umożliwia cofnięcie lub anulowanie skutków działania,
+- dla działań o istotnych konsekwencjach wyświetlane jest okno potwierdzenia.
+
+### Czym „rezygnacja ze wskazania” różni się od „aktywowania ruchem”?
+
+Rezygnacja ze wskazania dotyczy działań wykonywanych za pomocą wskaźnika, takich jak:
+
+- kliknięcie myszą,
+- dotknięcie ekranu,
+- przeciąganie,
+- inne gesty wykonywane na ekranie.
+
+Aktywowanie ruchem dotyczy natomiast funkcji uruchamianych przez:
+
+- ruch urządzenia,
+- przechylenie urządzenia,
+- potrząśnięcie urządzeniem,
+- ruch użytkownika wykrywany przez czujniki urządzenia.
+
+Są to odrębne wymagania WCAG i powinny być oceniane niezależnie.
+
+## 5. Mapowanie do standardów
+
+### WCAG 2.1 / 2.2
+
+- 2.5.2 Rezygnacja ze wskazania (Poziom A)
 
 ### EN 301 549
 
 - 9.2.5.2 Pointer Cancellation
 - 11.2.5.2 Pointer Cancellation
 
----
+## 6. Zastosowanie do treści
 
-## Dlaczego to jest ważne
-
-Użytkownicy mogą przypadkowo dotknąć ekranu, kliknąć niewłaściwy element lub rozpocząć działanie, którego nie zamierzali wykonać.
-
-Jeżeli funkcja zostaje wykonana natychmiast po naciśnięciu przycisku lub dotknięciu ekranu, użytkownik może nie mieć możliwości:
-
-- przerwania działania,
-- poprawienia pomyłki,
-- cofnięcia skutków przypadkowej aktywacji.
-
-Problem ten szczególnie dotyczy:
-
-- osób z niepełnosprawnościami ruchowymi,
-- osób z drżeniem rąk,
-- użytkowników ekranów dotykowych,
-- osób korzystających z alternatywnych urządzeń wskazujących.
-
----
-
-## Kogo dotyczy
-
-Test jest szczególnie istotny dla:
-
-- użytkowników urządzeń mobilnych,
-- osób z ograniczoną precyzją ruchów,
-- osób korzystających z technologii wspomagających,
-- wszystkich użytkowników wykonujących działania mogące powodować istotne skutki.
-
----
-
-## Zakres stosowania
-
-Test należy wykonywać dla wszystkich funkcji uruchamianych za pomocą:
+Test stosuje się do wszystkich funkcji uruchamianych za pomocą:
 
 - kliknięcia myszą,
 - dotknięcia ekranu,
 - pióra cyfrowego,
 - innych pojedynczych wskaźników.
 
-W szczególności dla:
+W szczególności do:
 
 - przycisków akcji,
 - formularzy,
@@ -88,9 +115,39 @@ W szczególności dla:
 - operacji finansowych,
 - działań powodujących zmianę stanu systemu.
 
----
+## 7. Oczekiwany wynik
 
-## Metoda badania
+Funkcje uruchamiane za pomocą pojedynczego wskaźnika nie wykonują działania już w chwili naciśnięcia, chyba że:
+
+- użytkownik może anulować działanie,
+- użytkownik może cofnąć skutki działania,
+- zdarzenie „w górę” anuluje efekt zdarzenia „w dół”,
+- wykorzystanie zdarzenia „w dół” jest niezbędne dla charakteru funkcjonalności.
+
+## 8. Dlaczego to jest ważne
+
+Użytkownicy mogą przypadkowo dotknąć ekranu, kliknąć niewłaściwy element lub rozpocząć działanie, którego nie zamierzali wykonać.
+
+Jeżeli funkcja zostaje wykonana natychmiast po naciśnięciu przycisku lub dotknięciu ekranu, użytkownik może nie mieć możliwości:
+
+- przerwania działania,
+- poprawienia pomyłki,
+- cofnięcia skutków przypadkowej aktywacji.
+
+Problem ten szczególnie dotyczy osób korzystających z ekranów dotykowych oraz osób z ograniczoną precyzją ruchów.
+
+## 9. Kogo to dotyczy
+
+Szczególnie:
+
+- osób z niepełnosprawnościami ruchowymi,
+- osób z drżeniem rąk,
+- osób korzystających z alternatywnych urządzeń wskazujących,
+- użytkowników ekranów dotykowych,
+- osób starszych,
+- użytkowników technologii wspomagających.
+
+## 10. Sposób testowania
 
 ### Krok 1. Identyfikacja funkcji aktywowanych wskaźnikiem
 
@@ -109,7 +166,7 @@ Dla każdej funkcjonalności ustal:
 
 ### Krok 3. Ocena możliwości anulowania
 
-Jeżeli funkcjonalność wykorzystuje zdarzenie „w dół”, sprawdź czy:
+Jeżeli funkcjonalność wykorzystuje zdarzenie „w dół”, sprawdź, czy:
 
 - użytkownik może przerwać działanie przed jego wykonaniem,
 - użytkownik może cofnąć skutki działania,
@@ -117,50 +174,39 @@ Jeżeli funkcjonalność wykorzystuje zdarzenie „w dół”, sprawdź czy:
 
 ### Krok 4. Ocena wyjątków
 
-Jeżeli działanie wykonywane jest przy zdarzeniu „w dół”, oceń czy jest to niezbędne dla charakteru funkcjonalności.
+Jeżeli działanie wykonywane jest przy zdarzeniu „w dół”, oceń, czy jest to niezbędne dla charakteru funkcjonalności.
 
-Przykłady funkcji, dla których wykorzystanie zdarzenia „w dół” może być uzasadnione:
+Przykłady dopuszczalnych wyjątków:
 
 - rysowanie,
-- odręczne podpisywanie dokumentów,
+- podpis odręczny,
 - przeciąganie elementów,
-- inne funkcje wymagające ciągłego śledzenia ruchu wskaźnika.
+- funkcje wymagające ciągłego śledzenia ruchu wskaźnika.
 
----
+## 11. Kryteria oceny wyniku
 
-## Kryteria oceny
+### Spełnione
 
-### Spełnia
+Dla każdej funkcjonalności uruchamianej pojedynczym wskaźnikiem spełniony jest co najmniej jeden z warunków określonych w kryterium sukcesu.
 
-Dla każdej funkcjonalności uruchamianej pojedynczym wskaźnikiem spełnione jest co najmniej jedno z poniższych warunków:
+### Częściowo spełnione
 
-- zdarzenie „w dół” nie wykonuje funkcji,
-- funkcja wykonywana jest przy zdarzeniu „w górę”,
-- użytkownik może anulować działanie przed jego wykonaniem,
-- użytkownik może cofnąć skutki działania,
-- zdarzenie „w górę” anuluje efekt zdarzenia „w dół”,
-- wykorzystanie zdarzenia „w dół” jest niezbędne dla charakteru funkcjonalności.
+Większość funkcji spełnia wymaganie, jednak stwierdzono pojedyncze przypadki niezgodne z wymaganiem.
 
-### Częściowo spełnia
+### Niespełnione
 
-Większość funkcji spełnia wymaganie, ale stwierdzono pojedyncze przypadki niezgodne z wymaganiem.
-
-### Nie spełnia
-
-Istnieją funkcjonalności uruchamiane przez pojedynczy wskaźnik, które:
+Istnieją funkcjonalności uruchamiane pojedynczym wskaźnikiem, które:
 
 - wykonują działanie już przy zdarzeniu „w dół”,
 - nie mogą zostać anulowane,
 - nie mogą zostać cofnięte,
-- nie należą do wyjątków przewidzianych przez WCAG.
+- nie należą do dopuszczalnych wyjątków.
 
 ### Nie dotyczy
 
 Brak funkcjonalności uruchamianych pojedynczym wskaźnikiem.
 
----
-
-## Typowe niezgodności
+## 12. Typowe niezgodności
 
 - usuwanie elementu natychmiast po naciśnięciu przycisku,
 - wysyłanie formularza przy samym dotknięciu przycisku,
@@ -168,9 +214,7 @@ Brak funkcjonalności uruchamianych pojedynczym wskaźnikiem.
 - brak możliwości cofnięcia przypadkowo wykonanej operacji,
 - interfejs oparty na natychmiastowej aktywacji elementów.
 
----
-
-## Dobre praktyki
+## 13. Dobre praktyki
 
 - wykonywanie funkcji dopiero przy zdarzeniu „w górę”,
 - stosowanie przycisków potwierdzenia dla operacji istotnych,
@@ -178,51 +222,34 @@ Brak funkcjonalności uruchamianych pojedynczym wskaźnikiem.
 - stosowanie mechanizmów „Anuluj” lub „Cofnij”,
 - projektowanie interakcji odpornych na przypadkowe aktywacje.
 
----
+## 14. Wynik testu
 
-## Klasyfikacja problemów
+- Spełnione
+- Częściowo spełnione
+- Niespełnione
+- Nie dotyczy
 
-### Krytyczne
+## 15. Ustalenia
 
-- nieodwracalne działania uruchamiane przy zdarzeniu „w dół”,
-- usuwanie danych bez możliwości anulowania lub cofnięcia.
+Miejsce na opis wyników testu, wskazanie badanych funkcjonalności oraz opis stwierdzonych ograniczeń.
 
-### Istotne
+## 16. Przykładowy opis niezgodności do raportu lub deklaracji
 
-- brak możliwości cofnięcia działań mających wpływ na użytkownika,
-- wysyłanie formularzy bez możliwości przerwania działania.
+> W badanym rozwiązaniu część funkcjonalności wykonywana jest natychmiast po zdarzeniu „w dół” (naciśnięciu) i nie zapewnia możliwości anulowania lub cofnięcia skutków działania. Może to prowadzić do przypadkowej aktywacji funkcji oraz utrudniać korzystanie z rozwiązania osobom z ograniczoną sprawnością ruchową.
 
-### Systemowe
+## 17. Rekomendacje naprawcze
 
-- projekt interfejsu oparty na natychmiastowej aktywacji elementów bez mechanizmów ochronnych.
+- wykonywać działania dopiero po zdarzeniu „w górę”,
+- umożliwić anulowanie operacji przed jej wykonaniem,
+- zapewnić możliwość cofnięcia skutków działania,
+- stosować mechanizmy potwierdzania dla operacji istotnych,
+- przeanalizować wszystkie funkcje uruchamiane pojedynczym wskaźnikiem pod kątem przypadkowej aktywacji.
 
----
+## 18. Powiązane testy
 
-## Profil stosowania testu
-
-| Profil                                       | Stosowanie |
-| -------------------------------------------- | ---------- |
-| Okresowa ocena stanu zgodności — minimum     | Nie        |
-| Okresowa ocena stanu zgodności — rozszerzona | Tak        |
-| Ocena przed odbiorem rozwiązania             | Tak        |
-| Audyt zgodności                              | Tak        |
-| ACR-MIN                                      | Nie        |
-| ACR-EXT                                      | Tak        |
-| ACR-AUDIT                                    | Tak        |
-
----
-
-## Powiązane testy
-
-- Gesty wskaźnika
-- Dostęp z klawiatury
-- Formularz
-- Identyfikacja błędów
-- Sugestie korekty błędów
-- Komunikaty o stanie
-
----
-
-## Uwagi
-
-Pojęcie „istotne dla charakteru funkcjonalności” należy interpretować wąsko. Nie oznacza ono rozwiązania wygodniejszego dla projektanta lub łatwiejszego do zaimplementowania. Oznacza sytuację, w której funkcjonalność nie może być zrealizowana bez wykorzystania zdarzenia „w dół”, np. podczas rysowania lub składania podpisu odręcznego.
+- testID-080 Gesty wskaźnika
+- testID-088 Przeciąganie
+- testID-120 Formularz
+- testID-044 Identyfikacja błędów
+- testID-043 Sugestie korekty błędów
+- testID-069 Komunikaty o stanie

@@ -4,27 +4,52 @@ title: Komunikaty o stanie (aplikacja mobilna)
 sidebar_label: Komunikaty o stanie (aplikacja mobilna)
 sidebar_position: 103
 description: Scenariusz testu sprawdzającego, czy komunikaty o stanie pojawiające się w aplikacji mobilnej są przekazywane użytkownikom, w tym użytkownikom technologii wspomagających, bez konieczności przenoszenia fokusu.
-keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,komunikaty o stanie,aplikacja mobilna]
-tags: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,komunikaty o stanie,aplikacja mobilna]
+keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,komunikaty o stanie,powiadomienia,aplikacja mobilna]
+tags: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,komunikaty o stanie,powiadomienia,aplikacja mobilna]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2026 r.
 ostatnia_aktualizacja: 12 czerwca 2026 r.
 wersja_robocza: true
 ---
 
-## Identyfikator testu
+## 1. Identyfikator testu
 
 **testID-103**
 
-## Nazwa testu
+## 2. Nazwa testu
 
-Komunikaty o stanie (aplikacja mobilna)
+**Komunikaty o stanie (aplikacja mobilna)**
 
-## Cel testu
+## 3. Profil stosowania testu
 
-Sprawdzenie, czy komunikaty o stanie pojawiające się w aplikacji mobilnej są przekazywane użytkownikom, w tym użytkownikom technologii wspomagających, bez konieczności przenoszenia fokusu oraz czy informują o zmianach mających znaczenie dla wykonania zadania.
+**ACR-MIN**
 
-## Powiązane wymagania
+## 4. Opis testu
+
+Test sprawdza, czy komunikaty o stanie pojawiające się w aplikacji mobilnej są przekazywane wszystkim użytkownikom, w tym użytkownikom technologii wspomagających, bez konieczności przenoszenia fokusu oraz czy informują o zmianach mających znaczenie dla wykonania zadania.
+
+### Co oznacza „komunikat o stanie”?
+
+Komunikat o stanie to informacja przekazywana użytkownikowi o zmianie stanu aplikacji, wyniku wykonanej operacji lub wystąpieniu zdarzenia wymagającego uwagi użytkownika.
+
+Przykładami komunikatów o stanie są:
+
+- informacja o zapisaniu danych,
+- komunikat o błędzie,
+- potwierdzenie wysłania formularza,
+- informacja o liczbie wyników wyszukiwania,
+- komunikat o utracie połączenia,
+- ostrzeżenie o wygasającej sesji.
+
+Komunikat o stanie powinien zostać przekazany użytkownikowi bez konieczności ręcznego wyszukiwania tej informacji.
+
+### Co oznacza „bez konieczności przenoszenia fokusu”?
+
+Pojawienie się komunikatu nie powinno powodować nieoczekiwanej zmiany miejsca pracy użytkownika.
+
+Użytkownik powinien otrzymać informację o komunikacie bez utraty orientacji w wykonywanym zadaniu.
+
+## 5. Mapowanie do standardów
 
 ### WCAG 2.1 / 2.2
 
@@ -34,48 +59,9 @@ Sprawdzenie, czy komunikaty o stanie pojawiające się w aplikacji mobilnej są 
 
 - 11.4.1.3 Status Messages
 
----
+## 6. Zastosowanie do treści
 
-## Dlaczego to jest ważne
-
-Podczas korzystania z aplikacji mobilnej użytkownik otrzymuje wiele komunikatów informujących o zmianach stanu interfejsu.
-
-Przykładowo:
-
-- formularz został wysłany,
-- wystąpił błąd,
-- dane zostały zapisane,
-- trwa pobieranie danych,
-- zakończono operację,
-- liczba wyników została zaktualizowana.
-
-Użytkownicy widzący często zauważają takie komunikaty automatycznie.
-
-Osoby korzystające z:
-
-- TalkBack,
-- VoiceOver,
-- innych technologii wspomagających,
-
-mogą nie otrzymać tych informacji, jeżeli komunikaty nie zostały prawidłowo udostępnione przez aplikację.
-
----
-
-## Kogo dotyczy
-
-Test jest szczególnie istotny dla:
-
-- osób niewidomych,
-- osób słabowidzących,
-- użytkowników czytników ekranu,
-- osób z trudnościami poznawczymi,
-- użytkowników korzystających z technologii wspomagających.
-
----
-
-## Zakres stosowania
-
-Test należy wykonywać dla:
+Test stosuje się do:
 
 - formularzy,
 - wyszukiwarek,
@@ -85,57 +71,65 @@ Test należy wykonywać dla:
 - operacji usuwania danych,
 - zakupów i płatności,
 - aktualizacji treści bez przeładowania ekranu,
-- wszystkich funkcji generujących komunikaty systemowe.
+- komunikatów systemowych,
+- wszystkich funkcji generujących komunikaty o stanie.
 
----
+## 7. Oczekiwany wynik
 
-## Przykłady komunikatów objętych oceną
+Wszystkie istotne komunikaty o stanie:
 
-### Komunikaty sukcesu
+- są przekazywane użytkownikowi,
+- są dostępne dla TalkBack i VoiceOver,
+- są odczytywane automatycznie,
+- są zrozumiałe,
+- nie powodują nieoczekiwanej utraty fokusu,
+- pozwalają użytkownikowi zrozumieć rezultat wykonanej operacji.
 
-- „Dane zostały zapisane”
-- „Profil został zaktualizowany”
+## 8. Dlaczego to jest ważne
 
-### Komunikaty błędów
+Użytkownik powinien wiedzieć:
 
-- „Nieprawidłowe hasło”
-- „Pole jest wymagane”
+- czy operacja zakończyła się sukcesem,
+- czy wystąpił błąd,
+- czy dane zostały zapisane,
+- czy proces nadal trwa,
+- czy wymagane jest podjęcie dodatkowego działania.
 
-### Komunikaty informacyjne
+Użytkownicy widzący często zauważają komunikaty automatycznie.
 
-- „Trwa pobieranie danych”
-- „Brak wyników wyszukiwania”
+Osoby korzystające z:
 
-### Komunikaty ostrzegawcze
+- TalkBack,
+- VoiceOver,
+- monitorów brajlowskich,
+- innych technologii wspomagających,
 
-- „Połączenie internetowe zostało utracone”
-- „Sesja wygasa za 2 minuty”
+mogą nie otrzymać tych informacji, jeżeli komunikaty nie zostały prawidłowo udostępnione.
 
----
+Brak komunikatów o stanie może uniemożliwiać samodzielne wykonanie zadania.
 
-## Narzędzia
+## 9. Kogo to dotyczy
 
-### Android
+Szczególnie:
 
-- TalkBack
+- osób niewidomych,
+- osób słabowidzących,
+- użytkowników czytników ekranu,
+- użytkowników monitorów brajlowskich,
+- osób z niepełnosprawnościami poznawczymi,
+- osób korzystających z technologii wspomagających.
 
-### iOS
+## 10. Sposób testowania
 
-- VoiceOver
-
----
-
-## Metoda badania
-
-### Krok 1. Uruchomienie czytnika ekranu
+### Krok 1. Uruchomienie technologii wspomagającej
 
 Włącz:
 
-- TalkBack
+- TalkBack (Android)
 
 lub
 
-- VoiceOver.
+- VoiceOver (iOS).
 
 ### Krok 2. Wywołanie komunikatów
 
@@ -146,136 +140,105 @@ Przykładowo:
 - wysłanie formularza,
 - zapisanie danych,
 - błędne wypełnienie pola,
-- wyszukiwanie informacji.
+- wyszukiwanie informacji,
+- usunięcie elementu,
+- wykonanie operacji wymagającej potwierdzenia.
 
 ### Krok 3. Ocena odczytu komunikatu
 
 Sprawdź, czy:
 
 - komunikat jest odczytywany automatycznie,
-- użytkownik nie musi szukać komunikatu ręcznie,
-- komunikat jest zrozumiały.
+- użytkownik nie musi wyszukiwać komunikatu ręcznie,
+- komunikat jest zrozumiały,
+- komunikat pojawia się we właściwym momencie.
 
 ### Krok 4. Ocena wpływu na fokus
 
 Sprawdź, czy:
 
-- komunikat jest przekazywany bez nieoczekiwanej zmiany fokusu,
-- użytkownik nie traci miejsca pracy.
+- komunikat nie powoduje nieoczekiwanej zmiany fokusu,
+- użytkownik nie traci orientacji w interfejsie,
+- po odczytaniu komunikatu może kontynuować wykonywane zadanie.
 
-### Krok 5. Ocena wszystkich typów komunikatów
+### Krok 5. Ocena różnych typów komunikatów
 
 Sprawdź komunikaty:
 
 - sukcesu,
 - błędów,
 - ostrzeżeń,
-- informacji.
+- informacji,
+- komunikaty dotyczące postępu operacji.
 
----
+## 11. Kryteria oceny wyniku
 
-## Pytania kontrolne
+### Spełnione
 
-1. Czy komunikat jest przekazywany użytkownikowi czytnika ekranu?
-2. Czy komunikat jest odczytywany automatycznie?
-3. Czy użytkownik nie musi samodzielnie wyszukiwać komunikatu?
-4. Czy komunikat jest zrozumiały?
-5. Czy komunikat pojawia się we właściwym momencie?
-6. Czy odczyt komunikatu nie powoduje utraty orientacji w interfejsie?
-7. Czy użytkownik rozumie skutek wykonanej operacji?
+Wszystkie istotne komunikaty o stanie są przekazywane użytkownikom technologii wspomagających automatycznie, w sposób zrozumiały i bez utraty orientacji.
 
----
+### Częściowo spełnione
 
-## Kryteria oceny
+Większość komunikatów działa poprawnie, jednak część nie jest przekazywana lub przekazywana jest nieprawidłowo.
 
-### Spełnia
+### Niespełnione
 
-Wszystkie istotne komunikaty o stanie są przekazywane użytkownikom technologii wspomagających w sposób automatyczny i zrozumiały.
-
-### Częściowo spełnia
-
-Większość komunikatów działa poprawnie, jednak część z nich nie jest przekazywana lub jest przekazywana nieprawidłowo.
-
-### Nie spełnia
-
-Istotne komunikaty o stanie nie są przekazywane użytkownikom technologii wspomagających.
+Istotne komunikaty o stanie nie są przekazywane użytkownikom technologii wspomagających lub nie pozwalają zrozumieć rezultatu operacji.
 
 ### Nie dotyczy
 
 W ocenianym zakresie nie występują komunikaty o stanie.
 
----
-
-## Typowe niezgodności
+## 12. Typowe niezgodności
 
 - komunikat widoczny wyłącznie wizualnie,
 - brak odczytu komunikatu przez TalkBack,
 - brak odczytu komunikatu przez VoiceOver,
 - komunikat pojawia się i znika przed odczytaniem,
-- komunikat nie jest związany z wykonywaną operacją,
 - użytkownik nie otrzymuje informacji o powodzeniu operacji,
-- użytkownik nie otrzymuje informacji o błędach.
+- użytkownik nie otrzymuje informacji o błędach,
+- komunikat nie jest powiązany z wykonywaną operacją,
+- komunikat powoduje nieoczekiwaną zmianę fokusu.
 
----
-
-## Dobre praktyki
+## 13. Dobre praktyki
 
 - wykorzystywanie natywnych mechanizmów dostępności systemu,
 - automatyczne ogłaszanie zmian stanu,
 - stosowanie krótkich i jednoznacznych komunikatów,
-- przekazywanie informacji o sukcesie i błędach,
-- testowanie komunikatów z TalkBack i VoiceOver.
+- przekazywanie informacji zarówno o sukcesie, jak i błędach,
+- testowanie komunikatów z TalkBack i VoiceOver,
+- projektowanie komunikatów z perspektywy użytkownika wykonującego zadanie.
 
----
+## 14. Wynik testu
 
-## Klasyfikacja problemów
+- Spełnione
+- Częściowo spełnione
+- Niespełnione
+- Nie dotyczy
 
-### Krytyczne
+## 15. Ustalenia
 
-- użytkownik nie otrzymuje informacji o błędach uniemożliwiających wykonanie zadania,
-- użytkownik nie wie, czy operacja zakończyła się sukcesem.
+Miejsce na opis wyników testu, ocenę działania komunikatów o stanie oraz wskazanie stwierdzonych problemów.
 
-### Istotne
+## 16. Przykładowy opis niezgodności do raportu lub deklaracji
 
-- brak odczytu ważnych komunikatów procesowych,
-- brak informacji o zmianie stanu aplikacji.
+> Aplikacja nie przekazuje wszystkich istotnych komunikatów o stanie użytkownikom technologii wspomagających. Część komunikatów nie jest odczytywana automatycznie przez TalkBack lub VoiceOver albo nie pozwala użytkownikowi zrozumieć rezultatu wykonanej operacji. Problem może utrudniać lub uniemożliwiać samodzielne wykonanie zadania.
 
-### Umiarkowane
+## 17. Rekomendacje naprawcze
 
-- komunikaty są przekazywane niekonsekwentnie lub częściowo.
+- zapewnić automatyczne przekazywanie komunikatów o stanie technologiom wspomagającym,
+- wykorzystać natywne mechanizmy dostępności systemu,
+- poprawić treść komunikatów tak, aby były jednoznaczne i zrozumiałe,
+- zapewnić przekazywanie informacji o sukcesach, błędach i ostrzeżeniach,
+- testować komunikaty z TalkBack i VoiceOver,
+- zweryfikować wszystkie kluczowe procesy użytkownika pod kątem dostępności komunikatów.
 
-### Drobne
+## 18. Powiązane testy
 
-- problemy redakcyjne lub pojedyncze nieczytelne komunikaty.
-
----
-
-## Profil stosowania testu
-
-| Profil                                       | Stosowanie              |
-| -------------------------------------------- | ----------------------- |
-| Okresowa ocena stanu zgodności — minimum     | Tak (aplikacje mobilne) |
-| Okresowa ocena stanu zgodności — rozszerzona | Tak                     |
-| Ocena przed odbiorem rozwiązania             | Tak                     |
-| Audyt zgodności                              | Tak                     |
-| ACR-MIN                                      | Tak                     |
-| ACR-EXT                                      | Tak                     |
-| ACR-AUDIT                                    | Tak                     |
-
----
-
-## Powiązane testy
-
-- Obsługa czytnikiem ekranu (aplikacja mobilna)
-- Etykiety elementów (aplikacja mobilna)
-- Kolejność fokusu (aplikacja mobilna)
-- Identyfikacja błędów
-- Sugestie korekty błędów
-- Formularz elektroniczny
-- Komunikaty o stanie (WWW)
-
----
-
-## Uwagi
-
-Test jest mobilnym odpowiednikiem testu „Komunikaty o stanie” stosowanego dla stron internetowych. W aplikacjach mobilnych ma szczególne znaczenie, ponieważ wiele operacji wykonywanych jest dynamicznie, bez przeładowania ekranu. Użytkownik korzystający z TalkBack lub VoiceOver powinien otrzymywać informacje o rezultatach swoich działań równie szybko i skutecznie jak użytkownik obserwujący ekran. W praktyce jest to jeden z najczęściej pomijanych obszarów podczas tworzenia aplikacji mobilnych, mimo że ma bezpośredni wpływ na możliwość samodzielnego wykonania zadania.
+- testID-095 Obsługa czytnikiem ekranu (aplikacja mobilna)
+- testID-098 Kolejność fokusu (aplikacja mobilna)
+- testID-099 Etykiety elementów interaktywnych (aplikacja mobilna)
+- testID-044 Identyfikacja błędów
+- testID-043 Sugestie korekty błędów
+- testID-120 Formularz
+- testID-069 Komunikaty o stanie (WWW)

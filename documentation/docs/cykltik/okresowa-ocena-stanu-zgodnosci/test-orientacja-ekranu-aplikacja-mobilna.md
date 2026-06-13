@@ -12,21 +12,34 @@ ostatnia_aktualizacja: 12 czerwca 2026 r.
 wersja_robocza: true
 ---
 
-
-
-## Identyfikator testu
+## 1. Identyfikator testu
 
 **testID-100**
 
-## Nazwa testu
+## 2. Nazwa testu
 
-Orientacja ekranu (aplikacja mobilna)
+**Orientacja ekranu (aplikacja mobilna)**
 
-## Cel testu
+## 3. Profil stosowania testu
 
-Sprawdzenie, czy aplikacja mobilna może być używana zarówno w orientacji pionowej, jak i poziomej oraz czy użytkownik nie jest zmuszany do korzystania wyłącznie z jednej orientacji ekranu, chyba że jest to niezbędne dla charakteru funkcji.
+**ACR-MIN**
 
-## Powiązane wymagania
+## 4. Opis testu
+
+Test sprawdza, czy aplikacja mobilna może być używana zarówno w orientacji pionowej, jak i poziomej oraz czy użytkownik nie jest zmuszany do korzystania wyłącznie z jednej orientacji ekranu, chyba że wynika to z charakteru funkcjonalności.
+
+### Co oznacza „orientacja ekranu”?
+
+Orientacja ekranu określa sposób ustawienia urządzenia podczas korzystania z aplikacji.
+
+Najczęściej spotykane są:
+
+- **orientacja pionowa*- (portretowa),
+- **orientacja pozioma*- (krajobrazowa).
+
+Użytkownik powinien mieć możliwość korzystania z aplikacji w orientacji najlepiej odpowiadającej jego potrzebom, chyba że określona orientacja jest niezbędna do działania danej funkcji.
+
+## 5. Mapowanie do standardów
 
 ### WCAG 2.1 / 2.2
 
@@ -36,44 +49,9 @@ Sprawdzenie, czy aplikacja mobilna może być używana zarówno w orientacji pio
 
 - 11.1.3.4 Orientation
 
----
+## 6. Zastosowanie do treści
 
-## Dlaczego to jest ważne
-
-Nie wszyscy użytkownicy mogą swobodnie obracać urządzenie.
-
-Dotyczy to w szczególności:
-
-- osób korzystających z uchwytów lub statywów,
-- osób poruszających się na wózkach,
-- osób z ograniczoną sprawnością ruchową,
-- użytkowników mocujących urządzenia do wózków, łóżek lub stanowisk pracy,
-- osób korzystających z urządzeń w określonym położeniu.
-
-Niektórzy użytkownicy preferują również określoną orientację ze względu na:
-
-- wielkość tekstu,
-- sposób korzystania z czytnika ekranu,
-- obsługę klawiatury zewnętrznej,
-- indywidualne potrzeby.
-
----
-
-## Kogo dotyczy
-
-Test jest szczególnie istotny dla:
-
-- osób z niepełnosprawnościami ruchowymi,
-- osób słabowidzących,
-- użytkowników urządzeń mocowanych na stałe,
-- użytkowników tabletów,
-- osób korzystających z klawiatur zewnętrznych.
-
----
-
-## Zakres stosowania
-
-Test należy wykonywać dla:
+Test stosuje się do:
 
 - aplikacji Android,
 - aplikacji iOS,
@@ -84,26 +62,50 @@ Test należy wykonywać dla:
 - ekranów prezentujących dane,
 - komponentów niestandardowych.
 
----
+## 7. Oczekiwany wynik
 
-## Wyjątki przewidziane przez WCAG
+Aplikacja może być używana zarówno w orientacji pionowej, jak i poziomej.
 
-Wymaganie nie oznacza obowiązku dostosowania każdej funkcji do obu orientacji.
+Zmiana orientacji:
 
-Ograniczenie orientacji może być uzasadnione, gdy wynika z charakteru funkcjonalności.
+- nie powoduje utraty funkcjonalności,
+- nie powoduje utraty danych,
+- nie uniemożliwia wykonania zadania,
+- nie ukrywa istotnych informacji.
 
-Przykłady:
+Jeżeli aplikacja wymusza określoną orientację, ograniczenie jest uzasadnione charakterem funkcji.
 
-- aplikacje wykorzystujące instrumenty muzyczne,
-- aplikacje sterujące urządzeniami fizycznymi,
-- niektóre gry,
-- funkcje wymagające określonego układu przestrzennego.
+## 8. Dlaczego to jest ważne
 
-Wyjątek powinien wynikać z rzeczywistych potrzeb użytkowych, a nie z wygody projektowej.
+Nie wszyscy użytkownicy mogą swobodnie obracać urządzenie.
 
----
+Dotyczy to szczególnie:
 
-## Metoda badania
+- osób korzystających z uchwytów i statywów,
+- osób korzystających z urządzeń mocowanych do wózków lub łóżek,
+- osób z niepełnosprawnościami ruchowymi,
+- użytkowników klawiatur zewnętrznych,
+- osób korzystających z urządzeń w określonym położeniu.
+
+Niektórzy użytkownicy preferują również określoną orientację ze względu na:
+
+- wielkość tekstu,
+- sposób korzystania z technologii wspomagających,
+- organizację przestrzeni roboczej,
+- wygodę wykonywania zadań.
+
+## 9. Kogo to dotyczy
+
+Szczególnie:
+
+- osób z niepełnosprawnościami ruchowymi,
+- osób słabowidzących,
+- użytkowników urządzeń mocowanych na stałe,
+- użytkowników tabletów,
+- osób korzystających z klawiatur zewnętrznych,
+- użytkowników technologii wspomagających.
+
+## 10. Sposób testowania
 
 ### Krok 1. Uruchomienie aplikacji
 
@@ -123,7 +125,7 @@ Sprawdź, czy:
 
 Przeprowadź ocenę:
 
-- strony głównej,
+- ekranu głównego,
 - formularzy,
 - menu,
 - ekranów wyników,
@@ -133,10 +135,10 @@ Przeprowadź ocenę:
 
 Sprawdź, czy po zmianie orientacji:
 
-- treść pozostaje widoczna,
-- nie dochodzi do utraty funkcjonalności,
-- nie pojawiają się błędy interfejsu,
-- nie są ukrywane istotne elementy.
+- treść pozostaje dostępna,
+- nie dochodzi do utraty danych,
+- nie są ukrywane istotne informacje,
+- wszystkie funkcje pozostają dostępne.
 
 ### Krok 5. Ocena ograniczeń
 
@@ -145,40 +147,25 @@ Jeżeli aplikacja wymusza określoną orientację:
 - ustal przyczynę,
 - oceń, czy ograniczenie jest rzeczywiście niezbędne.
 
----
+## 11. Kryteria oceny wyniku
 
-## Pytania kontrolne
+### Spełnione
 
-1. Czy aplikacja działa zarówno w orientacji pionowej, jak i poziomej?
-2. Czy użytkownik może samodzielnie wybrać orientację?
-3. Czy zmiana orientacji nie powoduje utraty danych?
-4. Czy po zmianie orientacji wszystkie funkcje pozostają dostępne?
-5. Czy treść jest poprawnie prezentowana?
-6. Czy ograniczenie orientacji jest rzeczywiście uzasadnione?
+Aplikacja działa zarówno w orientacji pionowej, jak i poziomej albo ograniczenie orientacji jest uzasadnione charakterem funkcji.
 
----
+### Częściowo spełnione
 
-## Kryteria oceny
+Większość funkcji działa poprawnie, jednak występują pojedyncze problemy związane ze zmianą orientacji.
 
-### Spełnia
+### Niespełnione
 
-Aplikacja może być używana zarówno w orientacji pionowej, jak i poziomej albo ograniczenie orientacji jest uzasadnione charakterem funkcji.
-
-### Częściowo spełnia
-
-Większość funkcji działa poprawnie, jednak występują lokalne problemy związane ze zmianą orientacji.
-
-### Nie spełnia
-
-Aplikacja wymusza określoną orientację bez uzasadnienia lub zmiana orientacji powoduje utratę funkcjonalności.
+Aplikacja wymusza określoną orientację bez uzasadnienia lub zmiana orientacji powoduje utratę funkcjonalności albo uniemożliwia wykonanie zadania.
 
 ### Nie dotyczy
 
 Ograniczenie orientacji wynika z charakteru funkcjonalności i jest niezbędne do korzystania z aplikacji.
 
----
-
-## Typowe niezgodności
+## 12. Typowe niezgodności
 
 - blokowanie orientacji poziomej bez uzasadnienia,
 - blokowanie orientacji pionowej bez uzasadnienia,
@@ -186,66 +173,48 @@ Ograniczenie orientacji wynika z charakteru funkcjonalności i jest niezbędne d
 - przycinanie treści,
 - nakładanie się elementów interfejsu,
 - utrata możliwości wykonania zadania po zmianie orientacji,
-- błędne wyświetlanie formularzy.
+- błędne wyświetlanie formularzy,
+- utrata danych po obróceniu urządzenia.
 
----
+## 13. Dobre praktyki
 
-## Dobre praktyki
+- projektowanie interfejsów obsługujących obie orientacje,
+- testowanie aplikacji w orientacji pionowej i poziomej,
+- zachowanie pełnej funkcjonalności niezależnie od orientacji,
+- uwzględnianie użytkowników tabletów i urządzeń hybrydowych,
+- dokumentowanie przypadków uzasadnionego ograniczenia orientacji,
+- testowanie rzeczywistych procesów użytkownika.
 
-- projektowanie interfejsów responsywnych,
-- testowanie aplikacji w obu orientacjach,
-- zachowanie funkcjonalności niezależnie od orientacji,
-- uwzględnianie tabletów i urządzeń hybrydowych,
-- dokumentowanie uzasadnionych ograniczeń orientacji.
+## 14. Wynik testu
 
----
+- Spełnione
+- Częściowo spełnione
+- Niespełnione
+- Nie dotyczy
 
-## Klasyfikacja problemów
+## 15. Ustalenia
 
-### Krytyczne
+Miejsce na opis wyników testu, wskazanie problemów związanych ze zmianą orientacji oraz ocenę ich wpływu na użytkowników.
 
-- użytkownik nie może korzystać z aplikacji w wymaganej orientacji,
-- zmiana orientacji uniemożliwia wykonanie kluczowego zadania.
+## 16. Przykładowy opis niezgodności do raportu lub deklaracji
 
-### Istotne
+> Aplikacja nie zapewnia pełnej obsługi w obu orientacjach ekranu. Zmiana orientacji powoduje utratę części funkcjonalności, ukrycie informacji lub uniemożliwia wykonanie zadania. Ograniczenie nie wynika z charakteru funkcjonalności i może utrudniać korzystanie z aplikacji użytkownikom o różnych potrzebach i sposobach korzystania z urządzeń mobilnych.
 
-- utrata istotnych funkcji lub danych po zmianie orientacji.
+## 17. Rekomendacje naprawcze
 
-### Umiarkowane
+- dostosować interfejs do pracy w obu orientacjach,
+- usunąć nieuzasadnione blokowanie orientacji,
+- poprawić układ ekranów po zmianie orientacji,
+- zapewnić zachowanie danych podczas obracania urządzenia,
+- przetestować wszystkie kluczowe procesy użytkownika w obu orientacjach,
+- udokumentować przypadki uzasadnionego ograniczenia orientacji.
 
-- błędy układu utrudniające korzystanie z aplikacji.
+## 18. Powiązane testy
 
-### Drobne
-
-- lokalne problemy wizualne niewpływające na realizację zadania.
-
----
-
-## Profil stosowania testu
-
-| Profil                                       | Stosowanie              |
-| -------------------------------------------- | ----------------------- |
-| Okresowa ocena stanu zgodności — minimum     | Tak (aplikacje mobilne) |
-| Okresowa ocena stanu zgodności — rozszerzona | Tak                     |
-| Ocena przed odbiorem rozwiązania             | Tak                     |
-| Audyt zgodności                              | Tak                     |
-| ACR-MIN                                      | Tak                     |
-| ACR-EXT                                      | Tak                     |
-| ACR-AUDIT                                    | Tak                     |
-
----
-
-## Powiązane testy
-
-- Obsługa czytnikiem ekranu (aplikacja mobilna)
-- Obsługa klawiaturą zewnętrzną (aplikacja mobilna)
-- Kolejność fokusu (aplikacja mobilna)
-- Dopasowanie do szerokości ekranu
-- Zmiana rozmiaru tekstu
-- Reflow (dopasowanie treści)
-
----
-
-## Uwagi
-
-W przypadku aplikacji mobilnych jest to jeden z podstawowych testów dostępności. Kryterium 1.3.4 nie wymaga pełnej identyczności interfejsu w obu orientacjach. Dopuszczalne są różnice w układzie treści, o ile użytkownik zachowuje dostęp do tych samych informacji i funkcji. Podczas oceny należy zwrócić szczególną uwagę na formularze, procesy wieloetapowe oraz ekrany zawierające duże ilości danych, ponieważ właśnie tam najczęściej pojawiają się problemy związane ze zmianą orientacji urządzenia.
+- testID-095 Obsługa czytnikiem ekranu (aplikacja mobilna)
+- testID-096 Obsługa klawiaturą zewnętrzną (aplikacja mobilna)
+- testID-098 Kolejność fokusu (aplikacja mobilna)
+- testID-033 Zmiana rozmiaru tekstu
+- testID-034 Dopasowanie do szerokości ekranu
+- testID-035 Reflow (dopasowanie treści)
+- testID-120 Formularz

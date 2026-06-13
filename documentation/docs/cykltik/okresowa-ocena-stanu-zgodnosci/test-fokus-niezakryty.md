@@ -12,72 +12,66 @@ ostatnia_aktualizacja: 12 czerwca 2026 r.
 wersja_robocza: true
 ---
 
-
-
-## Identyfikator testu
+## 1. Identyfikator testu
 
 **testID-087**
 
-## Nazwa testu
+## 2. Nazwa testu
 
-Fokus niezakryty
+**Fokus niezakryty**
 
-## Cel testu
+## 3. Profil stosowania testu
 
-Sprawdzenie, czy element interfejsu posiadający fokus klawiatury pozostaje co najmniej częściowo widoczny i nie jest całkowicie zasłonięty przez inne elementy interfejsu.
+**ACR-MIN**
 
-## Powiązane wymagania
+## 4. Opis testu
 
-### WCAG 2.2
+Test sprawdza, czy element interfejsu posiadający fokus klawiatury pozostaje co najmniej częściowo widoczny i nie jest całkowicie zasłonięty przez inne elementy interfejsu.
 
-- 2.4.11 Fokus niezakryty (minimum) (Focus Not Obscured (Minimum)) – poziom AA
+### Co oznacza „fokus”?
+
+Fokus (ang. *focus*) oznacza element interfejsu, który jest aktualnie aktywny z punktu widzenia obsługi klawiaturą.
+
+To właśnie do tego elementu trafi działanie użytkownika po naciśnięciu klawisza, na przykład:
+
+- Enter,
+- Spacja,
+- klawisze strzałek.
+
+Podczas nawigacji klawiszem Tab fokus przemieszcza się pomiędzy kolejnymi elementami interaktywnymi strony lub aplikacji.
+
+### Co oznacza „wskaźnik fokusu”?
+
+Wskaźnik fokusu to wizualne oznaczenie elementu posiadającego fokus.
+
+Może mieć postać:
+
+- obramowania,
+- podświetlenia,
+- zmiany koloru,
+- cienia,
+- innego wyróżnienia wizualnego.
+
+Dzięki wskaźnikowi fokusu użytkownik wie, który element jest aktualnie aktywny i zostanie uruchomiony po naciśnięciu odpowiedniego klawisza.
+
+Test nie ocenia wyglądu wskaźnika fokusu. Sprawdza natomiast, czy element posiadający fokus pozostaje widoczny i nie jest zasłonięty przez inne elementy interfejsu.
+
+## 5. Mapowanie do standardów
+
+### WCAG 2.1 / 2.2
+
+- 2.4.11 Fokus niezakryty (minimum) (Poziom AA)
 
 ### EN 301 549
 
-Po publikacji aktualizacji normy uwzględniającej WCAG 2.2:
+Po publikacji wersji normy uwzględniającej WCAG 2.2:
 
 - 9.2.4.11 Focus Not Obscured (Minimum)
 - 11.2.4.11 Focus Not Obscured (Minimum)
 
----
+## 6. Zastosowanie do treści
 
-## Dlaczego to jest ważne
-
-Użytkownicy korzystający z klawiatury muszą widzieć element, który aktualnie posiada fokus.
-
-Jeżeli element z fokusem zostanie zasłonięty przez:
-
-- nagłówek przyklejony do górnej krawędzi,
-- baner cookies,
-- okno dialogowe,
-- panel boczny,
-- inne elementy nakładane na stronę,
-
-użytkownik może nie wiedzieć:
-
-- gdzie znajduje się fokus,
-- jaki element zostanie aktywowany,
-- jak kontynuować pracę.
-
-Problem ten szczególnie dotyczy osób korzystających wyłącznie z klawiatury oraz użytkowników powiększających widok strony.
-
----
-
-## Kogo dotyczy
-
-Test jest szczególnie istotny dla:
-
-- użytkowników klawiatury,
-- osób niewidomych korzystających z częściowego wzroku,
-- osób słabowidzących,
-- użytkowników korzystających z powiększenia ekranu,
-- osób z niepełnosprawnościami ruchowymi.
-
----
-
-## Zakres stosowania
-
-Test należy wykonywać dla:
+Test stosuje się do:
 
 - stron internetowych,
 - aplikacji webowych,
@@ -88,13 +82,55 @@ Test należy wykonywać dla:
 - paneli administracyjnych,
 - aplikacji mobilnych obsługujących klawiaturę.
 
----
+## 7. Oczekiwany wynik
 
-## Metoda badania
+Każdy element posiadający fokus pozostaje co najmniej częściowo widoczny.
+
+Użytkownik może:
+
+- zidentyfikować element posiadający fokus,
+- określić jego położenie,
+- świadomie podjąć dalszą interakcję.
+
+## 8. Dlaczego to jest ważne
+
+Użytkownicy korzystający z klawiatury muszą wiedzieć, który element aktualnie posiada fokus.
+
+Jeżeli element zostanie zasłonięty przez:
+
+- przyklejony nagłówek,
+- baner cookies,
+- wysuwany panel,
+- komunikat systemowy,
+- okno dialogowe,
+
+użytkownik może nie wiedzieć:
+
+- gdzie znajduje się fokus,
+- jaki element zostanie aktywowany,
+- jak kontynuować wykonywane zadanie.
+
+Problem szczególnie dotyczy użytkowników klawiatury oraz osób korzystających z powiększenia ekranu.
+
+## 9. Kogo to dotyczy
+
+Szczególnie:
+
+- osób korzystających wyłącznie z klawiatury,
+- osób niewidomych korzystających z resztek wzroku,
+- osób słabowidzących,
+- użytkowników korzystających z powiększenia ekranu,
+- osób z niepełnosprawnościami ruchowymi,
+- użytkowników technologii wspomagających.
+
+## 10. Sposób testowania
 
 ### Krok 1. Nawigacja klawiaturą
 
-Przemieszczaj fokus przy użyciu klawisza Tab oraz Shift+Tab.
+Przemieszczaj fokus przy użyciu klawiszy:
+
+- Tab,
+- Shift+Tab.
 
 ### Krok 2. Obserwacja elementu z fokusem
 
@@ -102,41 +138,37 @@ Dla każdego elementu sprawdź, czy:
 
 - pozostaje widoczny,
 - nie jest całkowicie zasłonięty,
-- użytkownik może go zidentyfikować.
+- może zostać jednoznacznie zidentyfikowany.
 
 ### Krok 3. Weryfikacja sytuacji problemowych
 
 Szczególną uwagę zwróć na:
 
-- przyklejone nagłówki (sticky headers),
+- przyklejone nagłówki,
 - przyklejone stopki,
 - banery cookies,
 - komunikaty o stanie,
 - okna dialogowe,
 - rozwijane menu,
-- obszary przewijane.
+- przewijane obszary.
 
 ### Krok 4. Ocena przewijania
 
 Sprawdź, czy automatyczne przewijanie strony lub kontenera nie powoduje ukrycia elementu posiadającego fokus.
 
----
+## 11. Kryteria oceny wyniku
 
-## Kryteria oceny
-
-### Spełnia
+### Spełnione
 
 Każdy element posiadający fokus pozostaje co najmniej częściowo widoczny.
 
-Użytkownik może zidentyfikować element posiadający fokus i podjąć świadomą decyzję dotyczącą dalszej interakcji.
+### Częściowo spełnione
 
-### Częściowo spełnia
+Większość elementów pozostaje widoczna, jednak występują pojedyncze przypadki zasłonięcia fokusu.
 
-Większość elementów z fokusem pozostaje widoczna, jednak występują pojedyncze sytuacje, w których fokus zostaje zasłonięty.
+### Niespełnione
 
-### Nie spełnia
-
-Istnieją sytuacje, w których element posiadający fokus jest całkowicie zasłonięty przez inny element interfejsu.
+Istnieją sytuacje, w których element posiadający fokus jest całkowicie zasłonięty przez inne elementy interfejsu.
 
 ### Nie dotyczy
 
@@ -144,73 +176,52 @@ Nie stosuje się.
 
 Każde rozwiązanie umożliwiające nawigację klawiaturą powinno spełniać to wymaganie.
 
----
-
-## Typowe niezgodności
+## 12. Typowe niezgodności
 
 - fokus ukryty pod przyklejonym nagłówkiem,
 - fokus ukryty pod banerem cookies,
 - fokus znajdujący się poza widocznym obszarem przewijania,
-- automatyczne przewinięcie strony powodujące ukrycie elementu,
-- fokus zasłonięty przez wysuwany panel.
+- automatyczne przewijanie ukrywające element z fokusem,
+- fokus zasłonięty przez wysuwany panel,
+- fokus ukryty pod komunikatem systemowym.
 
----
+## 13. Dobre praktyki
 
-## Dobre praktyki
-
-- pozostawianie marginesu bezpieczeństwa podczas przewijania do elementu,
-- testowanie interfejsu przy użyciu wyłącznie klawiatury,
+- pozostawianie marginesu bezpieczeństwa podczas przewijania,
+- testowanie interfejsu wyłącznie przy użyciu klawiatury,
 - uwzględnianie przyklejonych elementów podczas automatycznego przewijania,
-- zapewnienie wyraźnego i widocznego wskaźnika fokusu.
+- stosowanie wyraźnego wskaźnika fokusu,
+- regularne testowanie przy powiększeniu ekranu.
 
----
+## 14. Wynik testu
 
-## Klasyfikacja problemów
+- Spełnione
+- Częściowo spełnione
+- Niespełnione
+- Nie dotyczy
 
-### Krytyczne
+## 15. Ustalenia
 
-- ukrycie fokusu w kluczowym procesie uniemożliwiające ukończenie zadania.
+Miejsce na opis wyników testu oraz wskazanie sytuacji, w których fokus został zasłonięty.
 
-### Istotne
+## 16. Przykładowy opis niezgodności do raportu lub deklaracji
 
-- całkowite zasłonięcie elementów interaktywnych posiadających fokus.
+> W badanym rozwiązaniu występują sytuacje, w których element posiadający fokus klawiatury jest całkowicie zasłonięty przez inne elementy interfejsu. Użytkownik nie może ustalić położenia fokusu ani określić, który element zostanie aktywowany podczas dalszej interakcji.
 
-### Umiarkowane
+## 17. Rekomendacje naprawcze
 
-- sporadyczne przypadki utrudniające identyfikację fokusu.
+- dostosować mechanizmy automatycznego przewijania,
+- uwzględnić wysokość przyklejonych nagłówków i innych nakładek,
+- zapewnić widoczność elementu posiadającego fokus,
+- testować rozwiązanie przy użyciu klawiatury i powiększenia ekranu,
+- przeanalizować wszystkie komponenty wykorzystujące przewijanie.
 
-### Drobne
+## 18. Powiązane testy
 
-- lokalne problemy niewpływające istotnie na możliwość wykonania zadania.
-
----
-
-## Profil stosowania testu
-
-| Profil                                       | Stosowanie |
-| -------------------------------------------- | ---------- |
-| Okresowa ocena stanu zgodności — minimum     | Tak        |
-| Okresowa ocena stanu zgodności — rozszerzona | Tak        |
-| Ocena przed odbiorem rozwiązania             | Tak        |
-| Audyt zgodności                              | Tak        |
-| ACR-MIN                                      | Tak        |
-| ACR-EXT                                      | Tak        |
-| ACR-AUDIT                                    | Tak        |
-
----
-
-## Powiązane testy
-
-- Dostęp z klawiatury
-- Kolejność fokusu
-- Widoczność fokusu
-- Wygląd fokusu
-- Łącza pomijania
-- Modalne okno dialogowe
-- Menu nawigacyjne
-
----
-
-## Uwagi
-
-Kryterium 2.4.11 zostało wprowadzone w WCAG 2.2. Wymaga ono, aby element posiadający fokus nie był całkowicie zasłonięty przez treść stworzoną przez autora. Kryterium nie wymaga pełnej widoczności elementu — wystarczy, że użytkownik może zidentyfikować element posiadający fokus. Pełna widoczność elementu jest przedmiotem bardziej rygorystycznego kryterium 2.4.12 Fokus niezakryty (rozszerzony), które należy do poziomu AAA.
+- testID-023 Dostęp z klawiatury
+- testID-024 Obsługa klawiaturą
+- testID-026 Kolejność fokusu
+- testID-027 Widoczność fokusu
+- testID-091 Wygląd fokusu
+- testID-055 Modalne okno dialogowe
+- testID-061 Menu nawigacyjne

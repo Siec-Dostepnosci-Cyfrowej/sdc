@@ -12,63 +12,62 @@ ostatnia_aktualizacja: 12 czerwca 2026 r.
 wersja_robocza: true
 ---
 
-
-
-## Identyfikator testu
+## 1. Identyfikator testu
 
 **testID-085**
 
-## Nazwa testu
+## 2. Nazwa testu
 
-Nietypowe słowa
+**Nietypowe słowa**
 
-## Cel testu
+## 3. Profil stosowania testu
 
-Sprawdzenie, czy znaczenie nietypowych słów, terminów specjalistycznych, żargonu, skrótów używanych w nietypowym znaczeniu oraz wyrażeń obcojęzycznych jest wyjaśnione w sposób umożliwiający zrozumienie treści przez odbiorcę.
+**ACR-AUDIT**
 
-## Powiązane wymagania
+## 4. Opis testu
 
-### WCAG 2.1
+Test sprawdza, czy znaczenie nietypowych słów, terminów specjalistycznych, żargonu, skrótów używanych w nietypowym znaczeniu oraz wyrażeń obcojęzycznych zostało wyjaśnione w sposób umożliwiający zrozumienie treści przez odbiorcę.
 
-- 3.1.3 Nietypowe słowa (Unusual Words) – poziom AAA
+### Co oznaczają „nietypowe słowa”?
+
+Przez „nietypowe słowa” WCAG rozumie słowa lub wyrażenia, których znaczenie może być nieznane przeciętnemu odbiorcy albo które zostały użyte w specjalistycznym znaczeniu.
+
+Mogą to być między innymi:
+
+- terminy techniczne,
+- pojęcia prawne,
+- żargon zawodowy,
+- skróty używane w nietypowym znaczeniu,
+- wyrażenia obcojęzyczne,
+- słowa rzadko używane w języku ogólnym.
+
+Przykłady:
+
+- interoperacyjność,
+- federacja tożsamości,
+- remediacja,
+- deskrypcja,
+- tokenizacja,
+- backlog,
+- SLA,
+- API.
+
+Jeżeli znaczenie takich słów jest istotne dla zrozumienia treści, powinno zostać wyjaśnione.
+
+## 5. Mapowanie do standardów
+
+### WCAG 2.1 / 2.2
+
+- 3.1.3 Nietypowe słowa (Poziom AAA)
 
 ### EN 301 549
 
 - 9.3.1.3 Unusual Words
 - 11.3.1.3 Unusual Words
 
----
+## 6. Zastosowanie do treści
 
-## Dlaczego to jest ważne
-
-Nie wszyscy użytkownicy posiadają specjalistyczną wiedzę potrzebną do zrozumienia terminów technicznych, branżowych lub rzadko używanych wyrażeń.
-
-Brak wyjaśnienia znaczenia takich słów może utrudniać lub uniemożliwiać zrozumienie informacji osobom:
-
-- z niepełnosprawnościami poznawczymi,
-- uczącym się języka,
-- posiadającym ograniczoną wiedzę specjalistyczną,
-- korzystającym z technologii wspomagających.
-
-Dostępność informacji zależy nie tylko od jej technicznej prezentacji, ale również od możliwości jej zrozumienia.
-
----
-
-## Kogo dotyczy
-
-Test jest szczególnie istotny dla:
-
-- osób z trudnościami poznawczymi,
-- osób z niepełnosprawnością intelektualną,
-- osób z dysleksją,
-- użytkowników o ograniczonej wiedzy specjalistycznej,
-- osób uczących się języka.
-
----
-
-## Zakres stosowania
-
-Test należy wykonywać dla:
+Test stosuje się do:
 
 - artykułów,
 - informacji publicznych,
@@ -77,26 +76,54 @@ Test należy wykonywać dla:
 - dokumentów urzędowych,
 - materiałów edukacyjnych,
 - formularzy,
-- komunikatów i ogłoszeń.
+- komunikatów,
+- publikacji specjalistycznych.
 
----
+## 7. Oczekiwany wynik
 
-## Metoda badania
+Znaczenie nietypowych słów, terminów specjalistycznych oraz wyrażeń mogących być niezrozumiałymi dla odbiorcy zostało wyjaśnione lub jest dostępne poprzez łatwo dostępne objaśnienie.
+
+## 8. Dlaczego to jest ważne
+
+Dostępność informacji zależy nie tylko od jej technicznej prezentacji, ale również od możliwości jej zrozumienia.
+
+Brak wyjaśnienia znaczenia specjalistycznych pojęć może utrudniać lub uniemożliwiać korzystanie z informacji osobom:
+
+- z niepełnosprawnościami poznawczymi,
+- uczącym się języka,
+- posiadającym ograniczoną wiedzę specjalistyczną,
+- korzystającym z technologii wspomagających,
+- okazjonalnym użytkownikom danej usługi lub systemu.
+
+## 9. Kogo to dotyczy
+
+Szczególnie:
+
+- osób z trudnościami poznawczymi,
+- osób z niepełnosprawnością intelektualną,
+- osób z dysleksją,
+- osób starszych,
+- użytkowników o ograniczonej wiedzy specjalistycznej,
+- osób uczących się języka,
+- osób korzystających z tekstu łatwego do czytania i zrozumienia.
+
+## 10. Sposób testowania
 
 ### Krok 1. Identyfikacja nietypowych słów
 
 Przejrzyj treść i zidentyfikuj:
 
 - terminy specjalistyczne,
-- żargon zawodowy,
 - pojęcia techniczne,
+- żargon zawodowy,
+- pojęcia prawne,
 - wyrażenia obcojęzyczne,
-- słowa rzadko używane w języku ogólnym,
+- słowa rzadko używane,
 - skróty używane w nietypowym znaczeniu.
 
 ### Krok 2. Ocena wyjaśnień
 
-Sprawdź, czy znaczenie słów zostało wyjaśnione poprzez:
+Sprawdź, czy znaczenie tych słów zostało wyjaśnione poprzez:
 
 - definicję w tekście,
 - słownik pojęć,
@@ -108,89 +135,74 @@ Sprawdź, czy znaczenie słów zostało wyjaśnione poprzez:
 
 Sprawdź, czy użytkownik może łatwo odnaleźć wyjaśnienie bez konieczności poszukiwania informacji poza ocenianym materiałem.
 
----
+### Krok 4. Ocena kompletności
 
-## Kryteria oceny
+Sprawdź, czy wyjaśniono wszystkie pojęcia niezbędne do zrozumienia treści.
 
-### Spełnia
+## 11. Kryteria oceny wyniku
 
-Znaczenie nietypowych słów, terminów specjalistycznych i wyrażeń nieoczywistych zostało wyjaśnione lub jest dostępne w łatwo dostępnym słowniku pojęć.
+### Spełnione
 
-### Częściowo spełnia
+Znaczenie nietypowych słów zostało wyjaśnione lub użytkownik ma łatwy dostęp do ich objaśnień.
 
-Wyjaśniono jedynie część nietypowych słów lub wyjaśnienia są niepełne.
+### Częściowo spełnione
 
-### Nie spełnia
+Wyjaśniono jedynie część pojęć lub wyjaśnienia są niepełne.
+
+### Niespełnione
 
 Treść zawiera liczne nietypowe słowa lub terminy specjalistyczne, których znaczenie nie zostało wyjaśnione.
 
 ### Nie dotyczy
 
-Treść nie zawiera nietypowych słów wymagających wyjaśnienia.
+Treść nie zawiera słów wymagających dodatkowych objaśnień.
 
----
-
-## Typowe niezgodności
+## 12. Typowe niezgodności
 
 - używanie specjalistycznych terminów bez objaśnienia,
 - stosowanie skrótów bez rozwinięcia,
 - wykorzystywanie żargonu branżowego bez wyjaśnienia,
 - odwoływanie się do pojęć prawnych lub technicznych bez definicji,
-- używanie wyrażeń obcojęzycznych bez wyjaśnienia znaczenia.
+- używanie wyrażeń obcojęzycznych bez wyjaśnienia,
+- publikowanie instrukcji zawierających specjalistyczne pojęcia bez słownika.
 
----
+## 13. Dobre praktyki
 
-## Dobre praktyki
-
-- wyjaśnianie terminów przy pierwszym użyciu,
-- tworzenie słownika pojęć,
+- wyjaśnianie pojęć przy pierwszym użyciu,
 - rozwijanie skrótów przy pierwszym wystąpieniu,
-- stosowanie prostszego języka zamiast terminologii specjalistycznej, gdy jest to możliwe,
-- dodawanie przykładów ułatwiających zrozumienie pojęcia.
+- tworzenie słowników pojęć,
+- stosowanie prostszego języka tam, gdzie jest to możliwe,
+- uzupełnianie definicji przykładami,
+- stosowanie odnośników do objaśnień.
 
----
+## 14. Wynik testu
 
-## Klasyfikacja problemów
+- Spełnione
+- Częściowo spełnione
+- Niespełnione
+- Nie dotyczy
 
-### Istotne
+## 15. Ustalenia
 
-- brak wyjaśnienia terminów niezbędnych do zrozumienia treści.
+Miejsce na opis wyników testu, wskazanie niewyjaśnionych pojęć oraz ocenę ich wpływu na zrozumienie treści.
 
-### Umiarkowane
+## 16. Przykładowy opis niezgodności do raportu lub deklaracji
 
-- brak wyjaśnienia części pojęć specjalistycznych.
+> W ocenianej treści wykorzystano terminy specjalistyczne, pojęcia techniczne lub skróty, których znaczenie nie zostało wyjaśnione. Może to utrudniać zrozumienie informacji użytkownikom nieposiadającym specjalistycznej wiedzy w danym obszarze.
 
-### Drobne
+## 17. Rekomendacje naprawcze
 
-- pojedyncze niewyjaśnione terminy o niewielkim znaczeniu dla zrozumienia całości.
+- wyjaśnić znaczenie specjalistycznych terminów,
+- rozwinąć skróty przy pierwszym użyciu,
+- opracować słownik pojęć,
+- zastąpić żargon prostszym językiem tam, gdzie jest to możliwe,
+- uzupełnić treść o przykłady i objaśnienia.
 
----
+## 18. Powiązane testy
 
-## Profil stosowania testu
-
-| Profil                                       | Stosowanie  |
-| -------------------------------------------- | ----------- |
-| Okresowa ocena stanu zgodności — minimum     | Nie         |
-| Okresowa ocena stanu zgodności — rozszerzona | Opcjonalnie |
-| Ocena przed odbiorem rozwiązania             | Opcjonalnie |
-| Audyt zgodności                              | Tak         |
-| ACR-MIN                                      | Nie         |
-| ACR-EXT                                      | Opcjonalnie |
-| ACR-AUDIT                                    | Tak         |
-
----
-
-## Powiązane testy
-
-- Język strony
-- Język części strony
-- Skróty
-- Czytelność treści
-- Tekst łatwy do czytania i zrozumienia (ETR)
-- Prosty język
-
----
-
-## Uwagi
-
-Test odnosi się do zrozumiałości treści, a nie do jej poprawności językowej. Nie wymaga wyjaśniania wszystkich trudniejszych słów, lecz tych, których znaczenie może być nieznane przeciętnemu odbiorcy lub jest używane w znaczeniu specjalistycznym. Kryterium sukcesu 3.1.3 należy do poziomu AAA i zwykle jest stosowane podczas pogłębionych ocen jakości komunikacji oraz audytów eksperckich.
+- testID-021 Język strony
+- testID-022 Język części strony
+- testID-086 Skróty
+- testID-125 Informacja o podmiocie w ETR
+- testID-133 Usługa lub procedura w ETR
+- test dotyczący prostego języka (jeżeli występuje w bibliotece)

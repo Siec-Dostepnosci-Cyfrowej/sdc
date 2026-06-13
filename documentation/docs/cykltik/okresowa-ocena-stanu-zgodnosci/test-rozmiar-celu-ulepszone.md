@@ -1,7 +1,7 @@
 ---
 id: test-rozmiar-celu-ulepszone
-title: Rozmiar celu dotykowego (ulepszone)
-sidebar_label: Rozmiar celu dotykowego (ulepszone)
+title: Rozmiar celu dotyku(ulepszone)
+sidebar_label: Rozmiar celu dotyku (ulepszone)
 sidebar_position: 90
 description: Scenariusz testu sprawdzającego, czy elementy interaktywne posiadają obszar aktywny o rozmiarze co najmniej 44 × 44 piksele CSS, co ułatwia ich aktywowanie użytkownikom korzystającym z ekranów dotykowych i urządzeń wskazujących.
 keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,rozmiar celu]
@@ -12,43 +12,88 @@ ostatnia_aktualizacja: 12 czerwca 2026 r.
 wersja_robocza: true
 ---
 
-
-
-## Identyfikator testu
+## 1. Identyfikator testu
 
 **testID-090**
 
-## Nazwa testu
+## 2. Nazwa testu
 
-Rozmiar celu dotykowego (ulepszone)
+**Rozmiar celu (ulepszone)**
 
-## Cel testu
+## 3. Profil stosowania testu
 
-Sprawdzenie, czy elementy interaktywne posiadają obszar aktywny o rozmiarze co najmniej 44 × 44 piksele CSS, co ułatwia ich aktywowanie użytkownikom korzystającym z ekranów dotykowych i urządzeń wskazujących.
+**ACR-AUDIT**
 
-## Powiązane wymagania
+## 4. Opis testu
+
+Test sprawdza, czy elementy interaktywne posiadają obszar aktywny o rozmiarze co najmniej 44 × 44 piksele CSS, co ułatwia ich aktywowanie użytkownikom korzystającym z urządzeń wskazujących.
+
+### Co oznacza „cel dotyku”?
+
+Cel dotyku (ang. *target*) to obszar interfejsu, który użytkownik może aktywować za pomocą:
+
+- dotyku,
+- kliknięcia myszą,
+- pióra cyfrowego,
+- innego urządzenia wskazującego.
+
+Celami dotyku są między innymi:
+
+- przyciski,
+- łącza,
+- ikony pełniące funkcję przycisku,
+- przełączniki,
+- pola wyboru,
+- elementy sterujące formularzy.
+
+Wymaganie nie odnosi się wyłącznie do widocznego rozmiaru elementu. Istotny jest rozmiar rzeczywistego **obszaru aktywnego**, który reaguje na działanie użytkownika.
+
+## 5. Mapowanie do standardów
 
 ### WCAG 2.1 / 2.2
 
-- 2.5.5 Rozmiar celu (Target Size) – poziom AAA
+- 2.5.5 Rozmiar celu (Poziom AAA)
 
 ### EN 301 549
 
 - 9.2.5.5 Target Size
 - 11.2.5.5 Target Size
 
----
+## 6. Zastosowanie do treści
 
-## Dlaczego to jest ważne
+Test stosuje się do:
+
+- przycisków,
+- ikon pełniących funkcję przycisku,
+- łączy prezentowanych jako samodzielne elementy interfejsu,
+- elementów menu,
+- przełączników,
+- pól wyboru,
+- przycisków radiowych,
+- elementów sterujących formularzy,
+- elementów sterujących aplikacji mobilnych,
+- niestandardowych komponentów interaktywnych.
+
+## 7. Oczekiwany wynik
+
+Wszystkie oceniane elementy interaktywne posiadają obszar aktywny o rozmiarze co najmniej:
+
+**44 × 44 piksele CSS**
+
+lub spełniają jeden z wyjątków przewidzianych przez WCAG.
+
+Użytkownik może łatwo aktywować element bez ryzyka przypadkowego uruchomienia sąsiednich funkcji.
+
+## 8. Dlaczego to jest ważne
 
 Małe elementy interaktywne wymagają dużej precyzji ruchów.
 
 Problem ten szczególnie dotyczy:
 
-- użytkowników urządzeń mobilnych,
 - osób z niepełnosprawnościami ruchowymi,
 - osób starszych,
-- użytkowników z drżeniem rąk,
+- użytkowników korzystających z urządzeń mobilnych,
+- osób z drżeniem rąk,
 - osób korzystających z alternatywnych urządzeń wskazujących.
 
 Większy obszar aktywny:
@@ -58,43 +103,24 @@ Większy obszar aktywny:
 - poprawia komfort korzystania,
 - ogranicza frustrację użytkowników.
 
----
+## 9. Kogo to dotyczy
 
-## Kogo dotyczy
-
-Test jest szczególnie istotny dla:
+Szczególnie:
 
 - osób z ograniczoną sprawnością ruchową,
 - osób starszych,
 - użytkowników urządzeń mobilnych,
-- użytkowników ekranów dotykowych,
-- osób korzystających z technologii wspomagających sterowanie wskaźnikiem.
+- osób korzystających z dotyku,
+- osób korzystających z technologii wspomagających sterowanie wskaźnikiem,
+- użytkowników alternatywnych urządzeń wskazujących.
 
----
-
-## Zakres stosowania
-
-Test należy wykonywać dla:
-
-- przycisków,
-- ikon pełniących funkcję przycisku,
-- łączy prezentowanych jako samodzielne elementy interfejsu,
-- elementów menu,
-- przełączników,
-- pól wyboru,
-- przycisków radiowych,
-- elementów sterujących aplikacji mobilnych,
-- niestandardowych komponentów interaktywnych.
-
----
-
-## Metoda badania
+## 10. Sposób testowania
 
 ### Krok 1. Identyfikacja elementów interaktywnych
 
 Zidentyfikuj wszystkie elementy aktywowane za pomocą:
 
-- dotknięcia,
+- dotyku,
 - kliknięcia,
 - wskaźnika.
 
@@ -112,21 +138,23 @@ Sprawdź, czy sąsiednie elementy nie utrudniają aktywacji właściwego celu.
 
 ### Krok 4. Test praktyczny
 
-Na urządzeniu mobilnym lub przy użyciu wskaźnika sprawdź, czy element można łatwo aktywować bez ryzyka przypadkowego wybrania sąsiedniego elementu.
+Przy użyciu dotyku lub innego urządzenia wskazującego sprawdź, czy element można łatwo aktywować bez ryzyka przypadkowego uruchomienia sąsiedniego elementu.
 
----
+### Krok 5. Ocena wyjątków
 
-## Kryteria oceny
+Sprawdź, czy element należy do jednego z wyjątków przewidzianych przez WCAG.
 
-### Spełnia
+## 11. Kryteria oceny wyniku
+
+### Spełnione
 
 Wszystkie oceniane elementy interaktywne posiadają obszar aktywny o rozmiarze co najmniej 44 × 44 piksele CSS lub spełniają jeden z wyjątków przewidzianych przez WCAG.
 
-### Częściowo spełnia
+### Częściowo spełnione
 
 Większość elementów spełnia wymaganie, jednak występują pojedyncze elementy o mniejszym obszarze aktywnym.
 
-### Nie spełnia
+### Niespełnione
 
 Istnieją elementy interaktywne, których obszar aktywny jest mniejszy niż 44 × 44 piksele CSS i nie zachodzi żaden z wyjątków.
 
@@ -136,91 +164,55 @@ Nie stosuje się.
 
 Każde rozwiązanie zawierające elementy interaktywne może zostać ocenione pod kątem tego wymagania.
 
----
-
-## Typowe niezgodności
+## 12. Typowe niezgodności
 
 - małe ikony akcji bez powiększonego obszaru aktywnego,
 - przyciski sterujące o rozmiarze mniejszym niż 44 × 44 piksele CSS,
 - niewielkie przyciski zamykania okien dialogowych,
 - małe elementy menu w aplikacjach mobilnych,
-- ciasno rozmieszczone przyciski akcji.
+- ciasno rozmieszczone przyciski akcji,
+- niewielkie pola wyboru i przełączniki.
 
----
+## 13. Dobre praktyki
 
-## Dobre praktyki
-
-- projektowanie przycisków o rozmiarze większym niż wymagane minimum,
+- projektowanie przycisków większych niż wymagane minimum,
 - zwiększanie aktywnego obszaru ikon,
 - zapewnianie odpowiednich odstępów pomiędzy elementami,
-- testowanie interfejsu na urządzeniach mobilnych,
-- stosowanie zasad projektowania „mobile first”.
+- testowanie interfejsu przy użyciu dotyku,
+- projektowanie z uwzględnieniem potrzeb użytkowników urządzeń mobilnych,
+- stosowanie rozwiązań zgodnych z zasadą „mobile first”.
 
----
+## 14. Wynik testu
 
-## Wyjątki przewidziane przez WCAG
+- Spełnione
+- Częściowo spełnione
+- Niespełnione
+- Nie dotyczy
 
-Wymaganie nie ma zastosowania do:
+## 15. Ustalenia
 
-### Elementów równoważnych
+Miejsce na opis wyników testu, wskazanie elementów o niewystarczającym rozmiarze oraz ocenę wpływu problemu na użytkowników.
 
-Jeżeli istnieje inny sposób wykonania tej samej funkcji spełniający wymaganie.
+## 16. Przykładowy opis niezgodności do raportu lub deklaracji
 
-### Treści w tekście
+> W badanym rozwiązaniu występują elementy interaktywne o obszarze aktywnym mniejszym niż 44 × 44 piksele CSS. Może to utrudniać ich aktywowanie osobom korzystającym z dotyku, użytkownikom urządzeń mobilnych oraz osobom z ograniczoną precyzją ruchów.
 
-Łącza znajdujące się w zwykłym tekście nie muszą spełniać wymogu 44 × 44 piksele CSS.
+## 17. Rekomendacje naprawcze
 
-### Elementów niezbędnych
+- zwiększyć obszar aktywny elementów interaktywnych,
+- zapewnić większe odstępy pomiędzy sąsiadującymi elementami,
+- powiększyć aktywne obszary ikon i kontrolek,
+- przeprowadzić testy przy użyciu dotyku i urządzeń mobilnych,
+- uwzględnić wymagania WCAG 2.5.5 już na etapie projektowania interfejsu.
 
-Gdy określony rozmiar jest istotny dla charakteru prezentowanych informacji.
+## 18. Powiązane testy
 
-### Elementów określonych przez przepisy lub standardy zewnętrzne
-
-Jeżeli rozmiar wynika z wymagań niezależnych od autora rozwiązania.
-
----
-
-## Klasyfikacja problemów
-
-### Istotne
-
-- małe cele występujące w kluczowych procesach użytkownika.
-
-### Umiarkowane
-
-- elementy powodujące częste błędne aktywacje.
-
-### Drobne
-
-- pojedyncze elementy o niewielkim odstępstwie od wymaganego rozmiaru.
-
----
-
-## Profil stosowania testu
-
-| Profil                                       | Stosowanie  |
-| -------------------------------------------- | ----------- |
-| Okresowa ocena stanu zgodności — minimum     | Nie         |
-| Okresowa ocena stanu zgodności — rozszerzona | Opcjonalnie |
-| Ocena przed odbiorem rozwiązania             | Tak         |
-| Audyt zgodności                              | Tak         |
-| ACR-MIN                                      | Nie         |
-| ACR-EXT                                      | Opcjonalnie |
-| ACR-AUDIT                                    | Tak         |
-
----
-
-## Powiązane testy
-
-- Rozmiar celu (minimum) – 2.5.8
-- Gesty wskaźnika
-- Przeciąganie
-- Rezygnacja ze wskazania
-- Dostęp z klawiatury
-- Dostępna nazwa elementu interaktywnego
-
----
-
-## Uwagi
-
-Kryterium 2.5.5 pochodzi z WCAG 2.1 i należy do poziomu AAA. W przeciwieństwie do kryterium 2.5.8 (Rozmiar celu – minimum), które wymaga obszaru 24 × 24 piksele CSS i należy do poziomu AA, kryterium 2.5.5 wymaga obszaru co najmniej 44 × 44 piksele CSS. W praktyce oba kryteria warto analizować łącznie. Kryterium 2.5.8 określa minimalny akceptowalny poziom dostępności, natomiast 2.5.5 wskazuje poziom rekomendowany, zapewniający wyższy komfort i mniejsze ryzyko błędów podczas korzystania z interfejsu.
+- testID-089 Rozmiar celu (minimum)
+- testID-080 Gesty wskaźnika
+- testID-081 Rezygnacja ze wskazania
+- testID-088 Przeciąganie
+- testID-023 Dostęp z klawiatury
+- testID-024 Obsługa klawiaturą
+- testID-070 Dostępna nazwa elementu interaktywnego
+- testID-087 Fokus niezakryty
+- testID-091 Wygląd fokusu
