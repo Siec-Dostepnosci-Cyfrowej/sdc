@@ -137,7 +137,7 @@ Typowe objawy:
 
 ### Typowe rezultaty
 
-- programy onboardingu,
+- programy wdrażania nowych pracowników,
 - trenerzy wewnętrzni,
 - bazy wiedzy,
 - ścieżki rozwoju,
