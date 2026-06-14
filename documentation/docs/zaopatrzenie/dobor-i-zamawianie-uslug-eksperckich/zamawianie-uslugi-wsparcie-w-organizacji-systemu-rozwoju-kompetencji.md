@@ -54,9 +54,10 @@ W zależności od potrzeb organizacji system może obejmować:
 
 Przykładowo:
 
-- onboarding,
+- szkolenia wprowadzające,
 - materiały startowe,
 - instrukcje stanowiskowe,
+- mentoring lub opieka wdrożeniowa,
 - ścieżki wdrożeniowe.
 
 ---
