@@ -275,7 +275,7 @@ Zapewnienie organizacji zdolności do samodzielnego rozwijania i utrzymywania ko
 
 - system wsparcia kompetencyjnego,
 - ścieżki rozwoju kompetencji,
-- programy onboardingu,
+- programy wdrożenie nowych pracowników (onboardingu),
 - materiały i zasoby wiedzy,
 - społeczności praktyków,
 - mechanizmy organizacyjnego uczenia się.
