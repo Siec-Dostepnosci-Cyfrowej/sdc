@@ -1,6 +1,6 @@
 ---
 id: test-rozmiar-celu-ulepszone
-title: Rozmiar celu dotyku(ulepszone)
+title: Rozmiar celu dotyku (ulepszone)
 sidebar_label: Rozmiar celu dotyku (ulepszone)
 sidebar_position: 90
 description: Scenariusz testu sprawdzającego, czy elementy interaktywne posiadają obszar aktywny o rozmiarze co najmniej 44 × 44 piksele CSS, co ułatwia ich aktywowanie użytkownikom korzystającym z ekranów dotykowych i urządzeń wskazujących.

@@ -22,7 +22,7 @@ wersja_robocza: true
 
 ## 3. Profil stosowania testu
 
-- profil minimalny: ** nie**,
+- profil minimalny: **nie**,
 - profil rozszerzony: **nie**,
 - profil pogłębiony: **tak**.
 

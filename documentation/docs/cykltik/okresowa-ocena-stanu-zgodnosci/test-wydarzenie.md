@@ -1,6 +1,6 @@
 ---
 id: test-wydarzenie
-title: Karta testu — Wydarzenie
+title: Karta testu — Strona Wydarzenie
 sidebar_label: Wydarzenie
 sidebar_position: 131
 description: Scenariusz testu sprawdzającego, czy strona wydarzenia zawiera kompletne informacje o wydarzeniu, jego dostępności, lokalizacji i sposobie uczestnictwa oraz umożliwia skuteczne skorzystanie z tych informacji przez wszystkich użytkowników.

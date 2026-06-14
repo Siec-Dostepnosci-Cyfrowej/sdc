@@ -10,7 +10,7 @@ opracowanie: Stefan Wajda
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.
 wersja_robocza: true
---------------------
+---
 
 
 ## 1. Identyfikator testu
