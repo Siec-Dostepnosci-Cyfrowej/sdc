@@ -23,7 +23,9 @@ Załącznik obejmuje zarówno:
 - treści publikowane w serwisach internetowych,
 - treści publikowane w BIP,
 - komunikaty i informacje publikowane w kanałach cyfrowych,
-- materiały edukacyjne i informacyjne.
+- materiały edukacyjne i informacyjne,
+- formularze elektroniczne,
+- materiały wideo (napisy, audiodeskrypcja, transkrypcje).
 
 ---
 
