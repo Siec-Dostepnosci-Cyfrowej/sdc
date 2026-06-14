@@ -550,7 +550,7 @@ Ocena zgodności przed odbiorem koncentruje się przede wszystkim na ocenie ryzy
 
 ### Uwagi
 
-Ocena zgodności przed odbiorem nie zastępuje obowiązku przedstawienia przez wykonawcę dowodów zgodności, takich jak ACR, raporty testów lub dokumentacja potwierdzająca spełnienie wymagań.
+Ocena zgodności przed odbiorem nie zastępuje obowiązku przedstawienia przez wykonawcę dowodów zgodności, takich jak ACR  (Accessibility Conformance Report), raporty testów lub dokumentacja potwierdzająca spełnienie wymagań.
 
 ---
 
