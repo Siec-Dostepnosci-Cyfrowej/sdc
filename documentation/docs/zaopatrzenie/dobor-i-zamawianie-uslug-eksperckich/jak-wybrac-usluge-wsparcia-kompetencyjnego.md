@@ -181,7 +181,7 @@ Przykłady:
 
 - szkolenie specjalistyczne,
 - szkolenie stanowiskowe,
-- mentoring ekspercki.
+- opieka ekspercka.
 
 Takie działania mogą być uzasadnione, ale ich efekty są zwykle ograniczone do uczestników.
 
