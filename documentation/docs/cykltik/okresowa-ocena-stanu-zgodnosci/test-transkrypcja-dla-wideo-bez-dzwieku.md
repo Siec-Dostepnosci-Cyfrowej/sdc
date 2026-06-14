@@ -28,11 +28,9 @@ wersja_robocza: true
 
 ## 3. Profil stosowania testu
 
-| Profil          | Stosowanie |
-| --------------- | ---------- |
-| Podstawowy      | Tak        |
-| Rozszerzony     | Tak        |
-| Audyt zgodności | Tak        |
+- profil minimalny: **tak**,
+- profil rozszerzony: **tak**,
+- profil pogłębiony: **tak**.
 
 ---
 

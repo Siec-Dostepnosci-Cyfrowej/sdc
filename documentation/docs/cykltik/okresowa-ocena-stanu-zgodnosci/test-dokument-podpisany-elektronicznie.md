@@ -22,7 +22,9 @@ Dokument podpisany elektronicznie
 
 # 3. Profil stosowania testu
 
-ACR-EXT
+- profil minimalny: **nie**,
+- profil rozszerzony: **nie**,
+- profil pogłębiony: **tak**.
 
 # 4. Opis testu
 

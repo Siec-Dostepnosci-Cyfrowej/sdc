@@ -5,8 +5,8 @@ title: Karta testu — Zmiana po wprowadzeniu danych
 sidebar_label: Zmiana po wprowadzeniu danych
 sidebar_position: 30
 description: Scenariusz testu sprawdzającego, czy wprowadzenie lub zmiana danych w formularzu nie powoduje nieoczekiwanej zmiany kontekstu.
-keywords: [on input, zmiana po wprowadzeniu danych, formularz, zmiana kontekstu, WCAG]
-tags: [test dostępności, formularze, WCAG, okresowa ocena zgodności]
+keywords: [zmiana po wprowadzeniu danych, formularz, zmiana kontekstu, WCAG]
+tags: [zmiana po wprowadzeniu danych, formularz, zmiana kontekstu, WCAG]
 opracowanie: Stefan Wajda
 data_zgloszenia: 10 czerwca 2026 r.
 ostatnia_aktualizacja: 10 czerwca 2026 r.
@@ -27,11 +27,9 @@ wersja_robocza: true
 
 ## 3. Profil stosowania testu
 
-| Profil          | Stosowanie |
-| --------------- | ---------- |
-| Podstawowy      | Tak        |
-| Rozszerzony     | Tak        |
-| Audyt zgodności | Tak        |
+- profil minimalny: **tak**,
+- profil rozszerzony: **tak**,
+- profil pogłębiony: **tak**.
 
 ---
 

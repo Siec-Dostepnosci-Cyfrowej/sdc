@@ -26,7 +26,9 @@ wersja_robocza: true
 
 ## 3. Profil stosowania testu
 
-**ACR-MIN**
+- profil minimalny: **tak**,
+- profil rozszerzony: **tak**,
+- profil pogłębiony: **tak**.
 
 ---
 

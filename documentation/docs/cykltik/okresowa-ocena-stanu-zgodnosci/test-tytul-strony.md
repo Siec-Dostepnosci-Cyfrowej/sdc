@@ -23,9 +23,9 @@ Tytuł strony
 
 ## Profil stosowania testu
 
-- profil podstawowy,
-- profil rozszerzony,
-- audyt zgodności.
+- profil minimalny: **tak**,
+- profil rozszerzony: **tak**,
+- profil pogłębiony: **tak**.
 
 ## Opis testu
 

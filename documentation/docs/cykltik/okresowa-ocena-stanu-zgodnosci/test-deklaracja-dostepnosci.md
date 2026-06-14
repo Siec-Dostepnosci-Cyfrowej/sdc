@@ -22,7 +22,9 @@ Deklaracja dostępności
 
 ## 3. Profil stosowania testu
 
-ACR-MIN
+- profil minimalny: **tak**,
+- profil rozszerzony: **tak**,
+- profil pogłębiony: **tak**.
 
 ## 4. Opis testu
 

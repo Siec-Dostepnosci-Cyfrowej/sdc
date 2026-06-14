@@ -18,11 +18,13 @@ wersja_robocza: true
 
 # 2. Nazwa testu
 
-Skan dokumentu
+**Skan dokumentu**
 
 # 3. Profil stosowania testu
 
-ACR-MIN
+- profil minimalny: **tak**,
+- profil rozszerzony: **tak**,
+- profil pogłębiony: **tak**.
 
 # 4. Opis testu
 

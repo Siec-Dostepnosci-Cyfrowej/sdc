@@ -22,7 +22,9 @@ wersja_robocza: true
 
 ## 3. Profil stosowania testu
 
-**ACR-AUDIT**
+- profil minimalny: **nie**,
+- profil rozszerzony: **opcjonalnie**,
+- profil pogłębiony: **opcjonalnie**.
 
 ## 4. Opis testu
 
