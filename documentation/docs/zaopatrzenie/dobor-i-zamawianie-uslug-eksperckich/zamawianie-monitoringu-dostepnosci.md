@@ -52,6 +52,13 @@ Monitoring odpowiada na pytania:
 - Które obszary wymagają uwagi?
 - Jakie działania należy podjąć?
 
+Monitoring powinien również:
+
+- umożliwiać wykrywanie problemów w momencie ich powstania,
+- wspierać proces publikacji treści poprzez identyfikację błędów wprowadzanych przez redaktorów,
+- dostarczać danych trendów, które pozwalają ocenić, czy działania organizacji przynoszą trwałe efekty,
+- zapewniać historię zmian i problemów jako materiał dowodowy w przypadku kontroli lub skarg.
+
 ---
 
 # 2. Czym monitoring nie jest
