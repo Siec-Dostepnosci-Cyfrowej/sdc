@@ -21,7 +21,7 @@ Załącznik obejmuje zarówno:
 
 - dokumenty biurowe (Word, PDF, Excel, prezentacje),
 - treści publikowane w serwisach internetowych,
-- treści publikowane w BIP,
+- treści publikowane w Biuletynie Informacji Publicznej (BIP),
 - komunikaty i informacje publikowane w kanałach cyfrowych,
 - materiały edukacyjne i informacyjne,
 - formularze elektroniczne,
