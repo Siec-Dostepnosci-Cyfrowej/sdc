@@ -221,6 +221,12 @@ Może obejmować:
 - czas usuwania problemów,
 - realizację działań naprawczych.
 
+Monitoring może również wykorzystywać:
+
+- analizę zmian wprowadzanych w kodzie lub konfiguracji,
+- analizę jakości dokumentów publikowanych przez redaktorów,
+- analizę danych z wielu systemów jednocześnie,
+- analizę zgodności procesów publikacji z procedurami organizacji.
 ## Monitoring ciągły w środowisku użytkownika
 
 Monitoring może obejmować również ciągłą obserwację działania zasobów w rzeczywistych warunkach użytkowania, a nie tylko w środowisku testowym.
