@@ -99,7 +99,8 @@ W szczególności:
 - doświadczenie osób realizujących usługę,
 - znajomość standardów i wymagań dostępności,
 - doświadczenie praktyczne,
-- doświadczenie związane z przedmiotem zamówienia.
+- doświadczenie związane z przedmiotem zamówienia,
+- udział osób kluczowych w poprzednich projektach.
 
 #### Przykłady
 
@@ -127,11 +128,12 @@ Nie każda kompetencja jest równie wartościowa dla każdej usługi.
 Przykładowo:
 
 - doświadczony audytor nie musi posiadać kompetencji niezbędnych do budowania systemu rozwoju kompetencji,
-- trener nie musi posiadać kompetencji niezbędnych do przeprowadzania audytów zgodności.
+- trener nie musi posiadać kompetencji niezbędnych do przeprowadzania audytów zgodności,
+- analityk procesów nie musi posiadać kompetencji technicznych.
 
 #### Dlaczego jest to ważne
 
-Kompetencje należy oceniać w odniesieniu do celu zamówienia.
+Kompetencje ogólne nie gwarantują zdolności do realizacji konkretnej usługi.
 
 ---
 
@@ -144,11 +146,17 @@ Wykonawca powinien opisać:
 - sposób realizacji usługi,
 - metody pracy,
 - sposób osiągania rezultatów,
+- sposób weryfikacji rezultatów,
 - ograniczenia proponowanego podejścia.
 
 #### Dlaczego jest to ważne
 
-Opis metodologii pozwala ocenić, czy wykonawca rozumie cel zamówienia i potrafi dobrać odpowiednie działania.
+Opis metodologii pozwala ocenić, czy wykonawca:
+
+- rozumie cel zamówienia,
+- potrafi dobrać odpowiednie działania,
+- potrafi uzasadnić proponowane rozwiązania,
+- potrafi wskazać ryzyka i ograniczenia.
 
 ---
 
@@ -161,7 +169,8 @@ Wykonawca powinien przedstawić:
 - sposób dokumentowania wyników,
 - przykładowe raporty,
 - przykładowe materiały,
-- przykładowe rezultaty wcześniejszych usług.
+- przykładowe rezultaty wcześniejszych usług,
+- sposób prezentacji wyników.
 
 #### Dlaczego jest to ważne
 

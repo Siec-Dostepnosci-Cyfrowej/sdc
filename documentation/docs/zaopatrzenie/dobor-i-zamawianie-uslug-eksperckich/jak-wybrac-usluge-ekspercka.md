@@ -138,7 +138,7 @@ Organizacja nie wie:
 | Potrzeba | Usługa |
 |-----------|---------|
 | Zaprojektowanie systemu działania | Konsultacje systemowe |
-| Wsparcie wdrażania zmian | Mentoring systemowy |
+| Wsparcie wdrażania zmian | Mentoring wdrożeniowy |
 | Ocena procesów organizacyjnych | Ocena procesów zarządzania |
 
 Ocena dojrzałości organizacji została opisana w grupie usług formalnej oceny.
@@ -446,6 +446,14 @@ Audyt zgodności jest tylko jedną z wielu usług eksperckich wspierających zap
 Audyt zgodności odpowiada przede wszystkim na pytanie, czy rozwiązanie spełnia wymagania dostępności. Jeżeli organizacja potrzebuje przede wszystkim rozpoznać problemy, określić ich skalę lub zrozumieć ich przyczyny, bardziej odpowiednie mogą być inne rodzaje usług.
 
 Wybór właściwej usługi powinien wynikać z celu, jaki organizacja chce osiągnąć, a nie z popularności lub rozpoznawalności danej nazwy usługi.
+
+## Kiedy nie zamawiać określonych usług
+
+- Nie zamawiaj audytu, gdy nie wiesz, co zrobisz z wynikiem.
+- Nie zamawiaj szkolenia, gdy problemem jest brak procesów.
+- Nie zamawiaj działań naprawczych, gdy nie znasz przyczyn problemów.
+- Nie zamawiaj analizy, gdy nie masz danych wejściowych.
+- Nie zamawiaj konsultacji, gdy nie ma osoby odpowiedzialnej za wdrożenie zaleceń.
 
 
 ## Najważniejsza zasada
