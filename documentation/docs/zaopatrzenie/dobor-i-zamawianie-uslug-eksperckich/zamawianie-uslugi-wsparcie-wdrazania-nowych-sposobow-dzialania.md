@@ -36,15 +36,15 @@ Jej celem jest skuteczne wdrożenie nowych sposobów działania i doprowadzenie 
 
 Usługa jest szczególnie przydatna, gdy organizacja:
 
-- wdraża politykę dostępności,
-- wdraża system zarządzania dostępnością,
-- organizuje proces publikowania treści,
-- organizuje proces zarządzania dokumentami,
-- wdraża procedury kontroli jakości,
-- wdraża monitoring dostępności,
-- wdraża proces oceniania dostępności,
-- wdraża nowe role lub zakresy odpowiedzialności,
-- wdraża nowe standardy działania.
+• wdraża politykę dostępności,
+• wdraża system zarządzania dostępnością,
+• wdraża nowe standardy działania.
+• wdraża procedury kontroli jakości,
+• wdraża monitoring dostępności,
+• wdraża proces oceniania dostępności,
+• organizuje proces publikowania treści,
+• organizuje proces zarządzania dokumentami,
+• wdraża nowe role lub zakresy odpowiedzialności,
 
 ---
 
