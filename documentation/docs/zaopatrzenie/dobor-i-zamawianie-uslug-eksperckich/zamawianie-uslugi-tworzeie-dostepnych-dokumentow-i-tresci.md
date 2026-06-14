@@ -1,5 +1,5 @@
 ---
-id: zamawianie-uslugi-tworzeie-dostepnych-dokumentow-i-tresci
+id: zamawianie-uslugi-tworzenie-dostepnych-dokumentow-i-tresci
 title: Zamawianie usługi „Tworzenie dostępnych dokumentów i treści”
 description: Wskazówki dotyczące zamawiania usług wspierających tworzenie, publikowanie, weryfikowanie i utrzymywanie dostępnych dokumentów oraz treści.
 sidebar_label: Zamawianie usługi Tworzenie dostępnych...
