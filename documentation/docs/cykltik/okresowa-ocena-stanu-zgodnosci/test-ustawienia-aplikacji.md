@@ -1,6 +1,6 @@
 ---
-id: ustawienia-aplikacji
-title: Ustawienia aplikacji
+id: test-ustawienia-aplikacji
+title: Karta testu - Ustawienia aplikacji
 sidebar_label: Ustawienia aplikacji
 sidebar_position: 141
 description: Test sprawdza, czy ekran ustawień aplikacji jest dostępny, zrozumiały oraz umożliwia użytkownikowi przeglądanie i modyfikowanie ustawień bez napotykania barier.

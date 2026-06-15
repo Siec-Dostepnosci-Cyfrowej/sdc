@@ -1,8 +1,8 @@
 ---
-id: automatyczne-wykrywanie-bledow-dostepnosci-aplikacji-mobilnej
-title: Automatyczne wykrywanie błędów dostępności aplikacji mobilnej
+id: procedura-automatyczne-wykrywanie-bledow-dostepnosci-aplikacji-mobilnej
+title: Procedura Automatyczne wykrywanie błędów dostępności aplikacji mobilnej
 sidebar_label: Automatyczne wykrywanie (aplikacja mobilna)
-sidebar_position: 150
+sidebar_position: 18
 description: Test procesowy sprawdzający, czy organizacja wykorzystuje narzędzia automatyczne do identyfikowania problemów dostępności aplikacji mobilnych oraz czy wyniki analiz są wykorzystywane w procesie zapewniania jakości i dostępności.
 keywords: [aplikacja mobilna,testy automatyczne,automatyczne wykrywanie błędów,Accessibility Scanner,Accessibility Inspector,Accessibility Insights,CI/CD,dostępność aplikacji mobilnych,kontrola jakości,]
 tags: [aplikacja mobilna,testy automatyczne,automatyczne wykrywanie błędów,Accessibility Scanner,Accessibility Inspector,Accessibility Insights,CI/CD,dostępność aplikacji mobilnych,kontrola jakości,]

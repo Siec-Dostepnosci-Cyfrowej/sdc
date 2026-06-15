@@ -1,6 +1,6 @@
 ---
-id: widok-szczegolow-aplikacji
-title: Widok szczegółów
+id: test-widok-szczegolow-aplikacji
+title: Karta testu - Widok szczegółów w aplikacji
 sidebar_label: Widok szczegółów
 sidebar_position: 140
 description: Test sprawdza, czy ekran prezentujący szczegółowe informacje o wybranym obiekcie umożliwia użytkownikowi zapoznanie się z treścią, zrozumienie jej znaczenia oraz wykonanie dostępnych działań.
@@ -18,7 +18,7 @@ wersja_robocza: true
 
 ## 2. Nazwa testu
 
-**Widok szczegółów**
+**Widok szczegółów w aplikacji**
 
 ## 3. Profil stosowania testu
 

@@ -1,6 +1,6 @@
 ---
-id: ekranu-glowny-aplikacji
-title: Ekran główny aplikacji
+id: test-ekran-glowny-aplikacji
+title: Karta testu - Ekran główny aplikacji
 sidebar_label: Ekran główny aplikacji
 sidebar_position: 138
 description: Test sprawdza, czy ekran główny aplikacji mobilnej zapewnia użytkownikowi dostęp do najważniejszych funkcji, umożliwia orientację w strukturze rozwiązania oraz pozwala rozpocząć realizację podstawowych zadań.

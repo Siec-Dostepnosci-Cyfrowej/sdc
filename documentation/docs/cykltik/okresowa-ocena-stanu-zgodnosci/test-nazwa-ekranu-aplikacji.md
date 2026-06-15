@@ -1,6 +1,6 @@
 ---
-id: nazwa-ekranu-aplikacji
-title: Nazwa ekranu aplikacji
+id: test-nazwa-ekranu-aplikacji
+title: Karta testu - Nazwa ekranu aplikacji
 sidebar_label: Nazwa ekranu aplikacji
 sidebar_position: 143
 description: Test sprawdza, czy ekrany aplikacji mobilnej posiadają jednoznaczne nazwy pozwalające użytkownikowi zidentyfikować aktualny kontekst, orientować się w strukturze aplikacji oraz korzystać z niej przy użyciu technologii wspomagających.
@@ -22,7 +22,10 @@ wersja_robocza: true
 
 # 3. Profil stosowania testu
 
-**ACR-MIN**
+- profil minimalny: **tak**,
+- profil rozszerzony: **tak**,
+- profil pogłębiony: **tak**.
+
 
 ## 4. Opis testu
 

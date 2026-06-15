@@ -1,6 +1,6 @@
 ---
-id: lista-funkcji-aplikacji
-title: Lista funkcji aplikacji
+id: test-lista-funkcji-aplikacji
+title: Karta testu - Lista funkcji aplikacji
 sidebar_label: Lista funkcji aplikacji
 sidebar_position: 139
 description: Test sprawdza, ekran prezentujący listę funkcji aplikacji umożliwia użytkownikowi identyfikację dostępnych funkcji, zrozumienie ich przeznaczenia oraz rozpoczęcie realizacji wybranego zadania.

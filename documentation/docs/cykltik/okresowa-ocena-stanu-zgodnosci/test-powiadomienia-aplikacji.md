@@ -1,6 +1,6 @@
 ---
-id: powiadomienia-aplikacji
-title: Powiadomienia aplikacji
+id: test-powiadomienia-aplikacji
+title: Karta testu - Powiadomienia aplikacji
 sidebar_label: Powiadomienia aplikacji
 sidebar_position: 142
 description: Test sprawdza, czy powiadomienia generowane przez aplikację mobilną są dostępne, zrozumiałe, możliwe do obsłużenia oraz zgodne z ustawieniami użytkownika i systemu operacyjnego.

@@ -1,8 +1,8 @@
 ---
-id: procedura-diagnostyczna-automatyczne-wykrywanie-bledow
+id: procedura-automatyczne-wykrywanie-bledow
 title: Procedura diagnostyczna — Automatyczne wykrywanie błędów dostępności
 sidebar_label: Automatyczne wykrywanie błędów
-sidebar_position: 18
+sidebar_position: 17
 description: Procedura diagnostyczna wspierająca identyfikację problemów dostępności cyfrowej przy użyciu narzędzi automatycznych.
 keywords: [automatyczne testowanie, narzędzia dostępności, WAVE, Lighthouse, axe, SiteLint, diagnostyka dostępności]
 tags: [procedura diagnostyczna, dostępność cyfrowa, WCAG, okresowa ocena zgodności]
