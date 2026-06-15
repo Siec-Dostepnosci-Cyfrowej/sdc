@@ -1,17 +1,9 @@
+@import "tailwindcss";
+
 /* ===========================================================
    IZOLACJA TAILWIND
    Tailwind działa tylko w obrębie .tw, nie wpływa na Docusaurusa
    =========================================================== */
-
-@layer tailwind-base {
-  @tailwind base;
-}
-@layer tailwind-components {
-  @tailwind components;
-}
-@layer tailwind-utilities {
-  @tailwind utilities;
-}
 
 /* Kontener izolujący */
 .tw {
