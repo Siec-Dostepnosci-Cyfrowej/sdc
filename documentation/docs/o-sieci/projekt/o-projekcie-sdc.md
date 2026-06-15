@@ -23,7 +23,7 @@ Zasady działania Sieci określa **Regulamin Sieci dostępności cyfrowej** usta
    
    Zaplanowano 40 spotkań zdalnych i stacjonarnych.
    
-   <a href="harmonogram-spotkan-sieci" class="button button--secondary button--lg">Zobacz harmonogram spotkań Sieci</a>
+   <a href="harmonogram-spotkan-sieci" className="button button--secondary button--lg">Zobacz harmonogram spotkań Sieci</a>
    
    Spotkania mają umożliwić wymianę doświadczeń i dzielenie się dobrymi praktykami oraz rozwiązaniami w obszarze dostępności cyfrowej np. takich, które są już z powodzeniem wdrażane w podmiotach publicznych.  
 
@@ -34,7 +34,7 @@ Zasady działania Sieci określa **Regulamin Sieci dostępności cyfrowej** usta
    
    Zalecenia i rekomendacje wdrażania dostępności cyfrowej zostaną skonsultowane m.in. z Komisją Wspólną Rządu i&nbsp;Samorządu Terytorialnego, Radą Dostępności oraz środowiskiem osób z niepełnosprawnościami.
    
-   <a href="opracowanie-zalecen-i-rekomendacji" class="button button--secondary button--lg">Więcej o zaleceniach i rekomendacjach</a>
+   <a href="opracowanie-zalecen-i-rekomendacji" className="button button--secondary button--lg">Więcej o zaleceniach i rekomendacjach</a>
    
    
 3. **Opracowanie bazy dobrych praktyk dla podmiotów publicznych**
