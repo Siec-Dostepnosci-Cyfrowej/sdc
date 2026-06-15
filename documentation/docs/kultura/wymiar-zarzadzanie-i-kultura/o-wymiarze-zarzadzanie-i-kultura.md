@@ -276,7 +276,7 @@ Dojrzała organizacja publiczna rozumie dostępność jako element jakości dzia
 - Proces akceptacji wyjątków od wymagań dostępności z uzasadnieniem i nadzorem.
 
 #### 4.4. Kultura i komunikacja
-- Cycliczne działania podnoszące świadomość dostępności (kampanie, komunikaty).
+- Cykliczne działania podnoszące świadomość dostępności (kampanie, komunikaty).
 - Ujęcie dostępności w wartościach organizacyjnych lub kodeksie etycznym.
 - Współpraca z osobami z niepełnosprawnościami przy ocenie usług.
 
