@@ -113,27 +113,28 @@ Ocena stanu zgodności nie opiera się wyłącznie na wynikach wcześniejszych b
 
 ### 3.5. Minimalny zakres badania
 
-Z wyjątkiem sytuacji, gdy organizacja dysponuje aktualnymi i wiarygodnymi informacjami pozwalającymi na ocenę stanu zgodności rozwiązania, okresowa ocena stanu zgodności obejmuje przeprowadzenie badań lub sprawdzeń rozwiązania.
+Organizacja rozpoczyna gromadzenie wiedzy o stanie zgodności rozwiązania od przeprowadzenia oceny obejmującej minimalny zakres badania.
 
-Minimalny zakres takich działań obejmuje ocenę:
+Minimalny zakres badania obejmuje ocenę:
 
-- percepcji i struktury informacji,
-- podstawowej obsługi rozwiązania przy użyciu klawiatury,
-- formularzy i komunikatów,
-- podstawowej współpracy z technologiami asystującymi,
+- percepcji, struktury informacji i orientacji,
+- nawigacji i obsługi rozwiązania przy użyciu klawiatury,
+- formularzy, danych i komunikatów,
+- podstawowej współpracy z technologiami wspomagającymi,
 - problemów wykrywanych przy użyciu narzędzi automatycznych.
+
+Minimalny zakres badania stanowi punkt wyjścia do systematycznego rozszerzania wiedzy o stanie zgodności rozwiązania.
 
 Badanie obejmuje co najmniej:
 
 - stronę główną lub ekran główny,
-- kluczowe procesy użytkownika,
-- co najmniej pięć typowych stron, ekranów, funkcji lub procesów reprezentujących główne obszary funkcjonalne rozwiązania.
+- co najmniej pięć dodatkowych stron, ekranów, funkcji lub procesów reprezentujących główne obszary funkcjonalne rozwiązania, w tym – jeżeli występują – procesy realizacji usług lub załatwiania spraw.
 
-Dobór stron, ekranów, funkcji i procesów powinien uwzględniać główne obszary funkcjonalne rozwiązania oraz zmiany wprowadzone od poprzedniej oceny.
+Dobór stron, ekranów, funkcji i procesów powinien uwzględniać główne obszary funkcjonalne rozwiązania, a w przypadku kolejnych ocen także zmiany wprowadzone od poprzedniej oceny.
 
 Badanie może być realizowane samodzielnie przez organizację, przy wsparciu ekspertów lub jako usługa zewnętrzna.
 
-Zalecany zestaw testów określa załącznik [Scenariusz przeprowadzania okresowej oceny stanu zgodności](scenariusz-przeprowadzania-okresowej-oceny-stanu-zgodności).
+Zalecany zestaw testów odpowiadający minimalnemu zakresowi badania określa załącznik [Scenariusz przeprowadzania okresowej oceny stanu zgodności](scenariusz-przeprowadzania-okresowej-oceny-stanu-zgodności).
 
 ---
 
