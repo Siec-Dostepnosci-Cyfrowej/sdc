@@ -5,124 +5,93 @@ description: uzasadnienie
 sidebar_label: Integrator
 sidebar_position: 1 
 data_zgloszenia: 27 kwietnia 2026 r.
-ostatnia_aktualizacja: 27 kwietnia 2026 r.
+ostatnia_aktualizacja: 17 czerwca 2026 r.
 opracowanie: Angelika Sosnowska
 ---
 
 
 ## 1. Zalecenie
-Organizacja wdraża podejście systemowe polegające na uwzględnianiu wymagań dostępności cyfrowej na wszystkich etapach cyklu życia produktu cyfrowego – od analizy i projektowania, przez implementację, aż po testy i utrzymanie – w celu zapewnienia zgodności z wymaganiami, ograniczenia kosztów poprawek oraz podniesienia jakości usług cyfrowych.
+Organizacja wdraża podejście systemowe polegające na uwzględnianiu wymagań dostępności cyfrowej na wszystkich etapach cyklu życia usług publicznych i rozwiązań TIK – od planowania i projektowania, przez zakup, tworzenie i wdrożenie, aż po utrzymanie, monitorowanie i rozwój.
+
+Takie podejście wspiera zapewnienie zgodności z wymaganiami dostępności, ogranicza koszty późniejszych zmian i działań naprawczych, podnosi jakość oraz użyteczność usług cyfrowych, a także zmniejsza ryzyko powstawania barier dla użytkowników, w tym osób ze szczególnymi potrzebami.
+
+Sposób realizacji działań związanych z dostępnością powinien być dostosowany do rodzaju usługi, skali projektu oraz możliwości organizacyjnych podmiotu.
 
 ## 2. Rekomendacje
 
-1. Organizacja zapewnia integrację wymagań dostępności w następujących obszarach:
-  - Włączanie wymagań dostępności do dokumentów projektowych
-  - Wymagania dostępności są definiowane już na etapie analizy biznesowej i funkcjonalnej, jako integralna część wymagań dla produktu cyfrowego, a nie jako wymagania dodatkowe lub opcjonalne 
-  - Na etapie analizy określa się wymagania dostępności dla kluczowych procesów użytkownika (np. logowanie, wypełnienie formularza, wyszukiwanie informacji, odtwarzanie multimediów), z uwzględnieniem różnych sposobów korzystania z systemu (klawiatura, technologie asystujące, brak dźwięku, powiększenie) 
-  - Wymagania dostępności są uwzględniane w dokumentacji projektowej, w szczególności w: 
-    - wymaganiach biznesowych i funkcjonalnych (np. „użytkownik może wykonać cały proces bez użycia myszy”) 
-    - opisach przypadków użycia i scenariuszach użytkownika 
-    - lista wymagań (np. user stories) 
-    - opisach przedmiotu zamówienia (OPZ) i dokumentacji przetargowej 
-  - Dla każdej funkcjonalności określa się wymagania wynikające z odpowiednich kryteriów WCAG, w zakresie adekwatnym do jej charakteru (np. dla formularzy – etykiety, błędy, walidacja; dla multimediów – napisy, transkrypcje) 
-  - Wymagania dostępności obejmują wszystkie elementy produktu cyfrowego, w tym: 
-    - interfejs użytkownika (strony, widoki aplikacji) 
-    - dokumenty elektroniczne (np. PDF, DOCX) 
-    - multimedia (audio, wideo) 
-    - komponenty i integracje z systemami zewnętrznymi
-    - dokumentacja 
-  - Wymagania dostępności są formułowane w sposób jednoznaczny, mierzalny i możliwy do weryfikacji, tak aby mogły stanowić podstawę testów i odbioru (np. zamiast „strona powinna być dostępna” – „wszystkie elementy formularza są dostępne z klawiatury i posiadają etykiety”) 
-  - W dokumentacji projektowej unika się ogólnych zapisów typu „zgodność z WCAG”, bez wskazania zakresu i sposobu realizacji, ponieważ prowadzi to do niejednoznacznej interpretacji wymagań przez wykonawców 
-  - W przypadku zamówień publicznych wymagania dostępności są integralną częścią opisu przedmiotu zamówienia oraz warunków realizacji, co umożliwia ich egzekwowanie na etapie realizacji i odbioru projektu
-2. Obowiązkowe adnotacje dostępności w makietach i dokumentacji UX/UI
-  - Makiety, prototypy oraz dokumentacja UX/UI zawierają jednoznaczne informacje dotyczące wymagań dostępności, które stanowią podstawę implementacji przez zespół developerski.
-    W dokumentacji projektowej określa się co najmniej: 
-    - strukturę treści i hierarchię nagłówków 
-    - kolejność nawigacji (w tym kolejność tabowania) 
-    - sposób działania elementów interaktywnych (np. przyciski, formularze, komponenty dynamiczne) 
-    - zachowanie fokusu (widoczność, przechodzenie między elementami) 
-  - Dla formularzy i procesów użytkownika określa się: 
-    - sposób prezentacji etykiet i instrukcji 
-    - sposób komunikowania błędów i walidacji 
-    - wymagania dotyczące dostępności całego procesu (np. brak blokad dla użytkowników klawiatury) 
-  - Dokumentacja UX/UI zawiera wymagania dotyczące percepcji treści, w szczególności: 
-    - minimalne poziomy kontrastu 
-    - zakaz przekazywania informacji wyłącznie kolorem 
-    - czytelność i skalowalność tekstu 
-  - W projektach uwzględnia się działanie interfejsu w różnych warunkach: 
-    - przy powiększeniu (co najmniej 200%) 
-    - na różnych urządzeniach i orientacjach ekranu 
-    - przy ograniczonej precyzji interakcji (np. brak myszy, obsługa klawiaturą) 
-  -  W przypadku stosowania design systemu: 
-    - komponenty są opisane pod kątem dostępności 
-    - określa się zasady ich użycia (np. kiedy stosować dany komponent, jakie ma ograniczenia) 
-    - zapewnia się spójność dostępności w całym systemie 
-  - Dokumentacja projektowa nie ogranicza się do warstwy wizualnej — zawiera także informacje niezbędne do zapewnienia dostępności technicznej (np. sposób oznaczania elementów, wymagania dla komunikatów, struktury treści) 
-  - Brak adnotacji dostępności w dokumentacji projektowej traktowany jest jako brak kompletności projektu i stanowi podstawę do wstrzymania przekazania do implementacji
-3. Przeglądy dostępności na etapie projektowania
-  - Organizacja wprowadza obowiązkowe przeglądy dostępności projektów (makiet, prototypów, dokumentacji UX/UI) przed rozpoczęciem implementacji 
-  - Przeglądy dostępności obejmują: 
-    - weryfikację zgodności projektów z wymaganiami dostępności określonymi w dokumentacji 
-    - identyfikację ryzyk dostępności wynikających z przyjętych rozwiązań projektowych 
-    - ocenę kluczowych procesów użytkownika pod kątem ich dostępności 
-  - Przeglądy przeprowadza się w szczególności: 
-    - po przygotowaniu makiet lub prototypów 
-    - przed przekazaniem projektu do zespołu developerskiego 
-    - po wprowadzeniu istotnych zmian w projekcie 
-  - W przeglądach uczestniczy osoba posiadająca kompetencje w zakresie dostępności cyfrowej, która: 
-    - weryfikuje zgodność projektu z wymaganiami 
-    - wskazuje potencjalne problemy i ryzyka 
-    - rekomenduje zmiany projektowe 
-  - Przeglądy mogą być wspierane przez listy kontrolne dostępności oraz uproszczone metody oceny (np. checklisty zgodności), które umożliwiają systematyczną weryfikację projektu 
-  - Wyniki przeglądu są dokumentowane i zawierają: 
-    - listę zidentyfikowanych problemów 
-    - rekomendacje zmian 
-    - decyzję o dopuszczeniu projektu do kolejnego etapu 
-  - Projekty niespełniające minimalnych wymagań dostępności nie są przekazywane do implementacji do czasu wprowadzenia wymaganych poprawek 
-  - Przeglądy dostępności na etapie projektowania uzupełniają późniejsze testy i audyty, umożliwiając wykrycie problemów na wczesnym etapie, zanim zostaną utrwalone w implementacji
-4. Wymagania dostępności jako element kryteriów akceptacji oraz zasad uznawania zadań za zakończone.
-  - Dla każdej funkcjonalności definiuje się kryteria akceptacji uwzględniające wymagania dostępności 
-  - Kryteria akceptacji są powiązane z konkretnymi wymaganiami WCAG i opisują oczekiwane zachowanie funkcjonalności (np. obsługa klawiaturą, dostępność komunikatów, struktura treści) 
-  - Wymagania dostępności są formułowane w sposób mierzalny i możliwy do weryfikacji w testach 
-  - Dostępność stanowi obowiązkowy element uznania zadań za zakończone dla wszystkich zadań związanych z tworzeniem lub modyfikacją produktu cyfrowego 
-  - Zadanie uznaje się za zakończone wyłącznie wtedy, gdy spełnione są wymagania dostępności określone w kryteriach akceptacji 
-  - Minimalny zakres uznawania zadań za zakończone w obszarze dostępności obejmuje co najmniej: 
-    - brak błędów blokujących dostępność (uniemożliwiających wykonanie kluczowych funkcji) 
-    - możliwość obsługi funkcjonalności z klawiatury 
-    - logiczną kolejność nawigacji i poprawne działanie fokusu 
-    - poprawne oznaczenie elementów interfejsu (semantyka, etykiety, komunikaty) 
-    - dostępność treści (nagłówki, linki, alternatywy dla grafik) 
-    - zrozumiałe i dostępne komunikaty błędów 
-  - Weryfikacja spełnienia zadań obejmuje podstawowe testy dostępności, w szczególności: 
-    - test obsługi klawiaturą 
-    - test przy powiększeniu 
-    - wykorzystanie narzędzi automatycznych lub technologii asystujących 
-  - Odbiór prac (wewnętrzny oraz od wykonawców zewnętrznych) uwzględnia spełnienie wymagań dostępności jako warunek akceptacji 
-  - Brak spełnienia wymagań dostępności oznacza brak możliwości odbioru zadania lub produktu 
-  - Odstępstwa od wymagań dostępności muszą być: 
-    - uzasadnione (np. nadmierny koszt) 
-    - udokumentowane 
-    - zaakceptowane na odpowiednim poziomie decyzyjnym
+1. Uwzględnianie dostępności na etapie planowania i analizy
+   Organizacja uwzględnia wymagania dostępności cyfrowej już na etapie inicjowania działań związanych z usługą publiczną lub rozwiązaniem TIK.
+W szczególności:
+  - identyfikuje użytkowników oraz ich potrzeby, w tym potrzeby osób ze szczególnymi potrzebami,
+  - analizuje sposób korzystania z usługi lub rozwiązania cyfrowego, 
+  - identyfikuje potencjalne bariery mogące utrudniać dostęp do usługi,
+  - określa wymagania dostępności dla kluczowych procesów użytkownika,
+  - uwzględnia różne sposoby korzystania z usług cyfrowych, w szczególności obsługę klawiaturą, technologie asystujące, możliwość powiększania treści, korzystanie bez dźwięku lub obrazu oraz ograniczoną precyzję interakcji,
+  - uwzględnia wymagania dostępności przy planowaniu nowych usług, modernizacji istniejących rozwiązań oraz zmian organizacyjnych.
+    W przypadku mniejszych projektów lub zmian organizacja może stosować uproszczoną analizę opartą na checklistach, scenariuszach użytkownika lub standardowych wymaganiach dostępności.
+    
+2. Uwzględnianie dostępności w dokumentacji, zakupach i zamówieniach
+   Organizacja uwzględnia wymagania dostępności w dokumentacji związanej z planowaniem, zakupem, tworzeniem i rozwojem rozwiązań TIK.
+W szczególności:
+  - wymagania dostępności stanowią element dokumentacji projektowej, funkcjonalnej i zakupowej,
+  - wymagania dostępności są uwzględniane w opisach przedmiotu zamówienia oraz warunkach realizacji umów,
+  - określa się sposób weryfikacji spełnienia wymagań dostępności,
+  - definiuje się wymagania dotyczące interfejsów użytkownika, dokumentów elektronicznych, multimediów, komponentów zewnętrznych oraz publikowanych treści, 
+  -  unika się ogólnych zapisów odwołujących się wyłącznie do zgodności z WCAG bez wskazania zakresu i sposobu weryfikacji, 
+  - wymagania dostępności uwzględnia się jako element odbioru produktów i usług.
+    
+    Organizacja może stosować wzorcowe zapisy, szablony oraz checklisty wspierające przygotowanie dokumentacji.
+    
+3. Uwzględnianie dostępności w projektowaniu i rozwoju rozwiązań TIK
+   Organizacja zapewnia, aby dostępność była uwzględniana podczas projektowania, tworzenia i modernizacji usług publicznych oraz rozwiązań TIK.
+   W szczególności:
+  - wymagania dostępności są uwzględniane przy projektowaniu procesów użytkownika,
+  - rozwiązania projektowane są zgodnie z zasadami projektowania zorientowanego na użytkownika oraz projektowania uniwersalnego,
+  - dokumentacja projektowa zawiera informacje niezbędne do zapewnienia dostępności funkcjonalnej i technicznej,
+  - określa się wymagania dotyczące struktury treści, formularzy, komunikatów, nawigacji, dokumentów elektronicznych i multimediów,
+  - stosuje się checklisty i standardy wspierające zapewnianie dostępności,
+  - w przypadku większych projektów przeprowadza się przeglądy dostępności na etapie projektowania lub rozwoju.
+    
+  Zakres formalizacji działań powinien być dostosowany do charakteru projektu i skali organizacji.
 
-5. Projektowa lista kontrolna dla zespołów UX i IT
-  - Organizacja opracowuje i stosuje checklisty dostępności dopasowane do ról (UX, UI, developer, content) 
-  - Checklisty są wykorzystywane na każdym etapie projektu (analiza, projektowanie, development, testy) 
-  - Checklisty stanowią element procedur jakościowych i wspierają bieżące ocenianie dostępności 
-  - Checklisty są aktualizowane na podstawie wyników testów, audytów oraz zgłoszeń użytkowników 
-  - Wyniki weryfikacji checklist są dokumentowane 
+4. Uwzględnianie dostępności podczas odbioru i wdrażania
+   Organizacja uwzględnia wymagania dostępności jako element oceny jakości usług i rozwiązań TIK przed ich wdrożeniem.
+W szczególności:
+  - określa kryteria akceptacji związane z dostępnością, 
+  - przeprowadza podstawową weryfikację dostępności procesów użytkownika, 
+  - weryfikuje dostępność dokumentów elektronicznych i multimediów,
+  - wykorzystuje testy dostępności adekwatne do charakteru usługi lub rozwiązania,
+  - dokumentuje stwierdzone problemy oraz planowane działania naprawcze, 
+  - uwzględnia wyniki testów i przeglądów przy podejmowaniu decyzji o odbiorze.
+    
+  Brak spełnienia kluczowych wymagań dostępności powinien skutkować odmową odbioru lub koniecznością wdrożenia działań naprawczych.
 
+5. Uwzględnianie dostępności w utrzymaniu i rozwoju
+   Organizacja zapewnia ciągłość działań związanych z dostępnością po wdrożeniu usługi lub rozwiązania TIK.
+W szczególności:
+  - analizuje wpływ aktualizacji i zmian na dostępność,
+  - monitoruje zgłoszenia użytkowników dotyczące problemów z dostępnością,
+  - wykorzystuje wyniki audytów, przeglądów i badań do planowania działań rozwojowych, 
+  - aktualizuje procedury, checklisty i standardy organizacyjne,
+  - monitoruje powtarzające się problemy i podejmuje działania zapobiegawcze.
+    
+Dostępność powinna być traktowana jako proces ciągłego doskonalenia, a nie jednorazowe działanie realizowane przed publikacją lub wdrożeniem rozwiązania.
 
 ## 3. Uzasadnienie
-Uwzględnianie dostępności cyfrowej wyłącznie na etapie testów lub po wdrożeniu jest podejściem nieefektywnym i kosztownym. Kluczowe decyzje wpływające na dostępność zapadają na etapie analizy i projektowania – ich pominięcie prowadzi do powstawania błędów trudnych lub kosztownych do usunięcia w późniejszych fazach projektu.
-Brak integracji dostępności w procesie projektowym prowadzi do powstawania tzw. długu technologicznego, którego usunięcie wymaga dodatkowych nakładów czasu i środków finansowych . W praktyce oznacza to konieczność przebudowy interfejsów, logiki działania systemu lub nawet całych komponentów.
-Systemowe uwzględnienie dostępności w dokumentacji projektowej, makietach i kryteriach akceptacji zapewnia spójność działań zespołu projektowego. Pozwala uniknąć sytuacji, w której dostępność jest interpretowana dowolnie przez poszczególne role lub pomijana na etapie implementacji.
-Podejście „Accessibility by Design” wspiera także efektywne zarządzanie projektem:
--	umożliwia wcześniejsze wykrywanie problemów, 
--	ogranicza liczbę błędów na etapie testów, 
--	pozwala lepiej planować zasoby i koszty, 
--	zwiększa przewidywalność jakości końcowego produktu. 
-Integracja dostępności w całym cyklu życia produktu cyfrowego jest zgodna z zasadą projektowania uniwersalnego i stanowi podstawę tworzenia usług cyfrowych dostępnych dla wszystkich użytkowników, w tym osób ze szczególnymi potrzebami.
+Najważniejsze decyzje wpływające na dostępność cyfrową zapadają na długo przed etapem testów lub odbioru rozwiązania. Powstają one podczas planowania usług, definiowania wymagań, przygotowywania zamówień, projektowania procesów użytkownika oraz podejmowania decyzji dotyczących rozwoju i modernizacji rozwiązań TIK.
 
+Uwzględnianie dostępności dopiero po wdrożeniu prowadzi do powstawania kosztownych problemów, zwiększa ryzyko niespełnienia wymagań prawnych oraz utrudnia korzystanie z usług publicznych przez część użytkowników.
+
+Systemowe uwzględnianie dostępności w całym cyklu życia usług publicznych i rozwiązań TIK:
+
+  - wspiera równość dostępu do usług publicznych,
+  - umożliwia wcześniejsze identyfikowanie problemów,
+  - ogranicza koszty późniejszych zmian,
+  - zwiększa jakość i użyteczność usług,
+  - wspiera zarządzanie ryzykiem i zgodnością,
+  - buduje dojrzałość organizacyjną w zakresie dostępności cyfrowej.
+
+Podejście to jest zgodne z zasadami projektowania uniwersalnego, projektowania zorientowanego na użytkownika oraz zarządzania jakością usług publicznych.
 
 ## 4. Podstawy prawne
 -	Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych 
@@ -133,7 +102,14 @@ Integracja dostępności w całym cyklu życia produktu cyfrowego jest zgodna z 
 
 
 ## 5. Źródła i opracowania
-- 
+-	W3C WAI – Accessibility Maturity Model
+-	W3C WAI – Accessibility Principles
+-	W3C WAI – Developing a Web Accessibility Business Case for Your Organization
+-	W3C WAI – Making Content Usable for People with Cognitive and Learning Disabilities
+-	W3C WAI – Involving Users in Evaluating Web Accessibility
+-	ISO 9241-210 Ergonomics of human-system interaction – Human-centred design for interactive systems
+-	ISO 30071-1 Accessibility and usability of ICT products and services – Guidance on integrating accessibility within an organization
+-	ETSI TR 103 349 Human Factors (HF); Guidelines for ICT products and services design and development considering accessibility and usability
 
 ## 6. Historia wersji
 - 
