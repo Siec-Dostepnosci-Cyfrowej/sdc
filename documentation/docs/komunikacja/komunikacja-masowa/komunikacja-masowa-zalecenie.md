@@ -1,8 +1,8 @@
 ---
 id: komunikacja-masowa
-title: Zalecenie 5 – Standard publikacji dostępnych materiałów multimedialnych i treści cyfrowych
+title: Standard publikacji dostępnych materiałów multimedialnych i treści cyfrowych
 description: Standard organizacji publikacji dostępnych materiałów multimedialnych i treści cyfrowych
-sidebar_label: Zalecenie 5
+sidebar_label: Zalecenie
 sidebar_position: 5
 keywords: [dostępność cyfrowa, kontrola dostępności, publikacja, komunikacja, listy kontrolne]
 tags: [zalecenie, komunikacja, dostępność cyfrowa, kontrola]
