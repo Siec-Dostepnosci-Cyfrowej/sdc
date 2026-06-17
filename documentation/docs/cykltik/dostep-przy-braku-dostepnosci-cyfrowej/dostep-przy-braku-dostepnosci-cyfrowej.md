@@ -4,8 +4,8 @@ title: Zapewnianie dostępu do treści i usług w przypadku braku dostępności 
 description: Zalecenie określające zasady postępowania w przypadku treści, dokumentów, funkcjonalności i usług niespełniających wymagań dostępności cyfrowej.
 sidebar_label: Zalecenie
 sidebar_position: 0
-keywords: [dostęp alternatywny,niedostępne treści,niedostępne usługi,dostępność cyfrowa,deklaracja dostępności,nieproporcjonalne obciążenie,]
-tags: [dostęp alternatywny,niedostępne treści,niedostępne usługi,dostępność cyfrowa,deklaracja dostępności,nieproporcjonalne obciążenie,]
+keywords: [dostęp alternatywny,niedostępne treści,niedostępne usługi,dostępność cyfrowa,deklaracja dostępności,nieproporcjonalne obciążenie]
+tags: [dostęp alternatywny,niedostępne treści,niedostępne usługi,dostępność cyfrowa,deklaracja dostępności,nieproporcjonalne obciążenie]
 opracowanie: Stefan Wajda 
 data_zgloszenia: 6 czerwca 2026 r.
 ostatnia_aktualizacja: 6 czerwca 2026 r.

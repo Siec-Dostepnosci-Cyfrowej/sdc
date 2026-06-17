@@ -4,11 +4,12 @@ title: Karta oceny nieproporcjonalnego obciążenia i doboru sposobu zapewnienia
 description: Narzędzie wspierające wybór sposobu zapewnienia użytkownikom dostępu do informacji i usług w przypadku występowania problemów dostępności cyfrowej, w tym ocenę nieproporcjonalnego obciążenia oraz dokumentowanie podjętych decyzji.
 sidebar_label: Karta oceny nieproporcjonalnego obciążenia
 sidebar_position: 7
-keywords: [dostęp alternatywny,niedostępne treści,niedostępne usługi,nieproporcjonalne obciążenie,nadmierne koszty,]
-tags: [dostęp alternatywny,niedostępne treści,niedostępne usługi,nieproporcjonalne obciążenie,nadmierne koszty,]
+keywords: [dostęp alternatywny,niedostępne treści,niedostępne usługi,nieproporcjonalne obciążenie,nadmierne koszty]
+tags: [dostęp alternatywny,niedostępne treści,niedostępne usługi,nieproporcjonalne obciążenie,nadmierne koszty]
 opracowanie: Stefan Wajda 
+wspolpraca: Cezary Tomczyk 
 data_zgloszenia: 6 czerwca 2026 r.
-ostatnia_aktualizacja: 6 czerwca 2026 r.
+ostatnia_aktualizacja: 17 czerwca 2026 r.
 wersja_robocza: true
 ---
 
@@ -27,6 +28,26 @@ wersja_robocza: true
 ............................................................
 
 ### Komórka organizacyjna odpowiedzialna za zasób
+
+............................................................
+
+### Powód przeprowadzenia oceny
+
+☐ Planowana publikacja treści lub dokumentu
+
+☐ Zgłoszenie użytkownika
+
+☐ Audyt lub kontrola
+
+☐ Aktualizacja deklaracji dostępności
+
+☐ Modernizacja rozwiązania
+
+☐ Zakup lub wdrożenie rozwiązania
+
+☐ Inny
+
+Opis:
 
 ............................................................
 
@@ -134,6 +155,18 @@ Jeżeli tak, wskazać podstawę:
 
 ............................................................
 
+### Charakter problemu
+
+☐ Tymczasowy
+
+☐ Długotrwały
+
+☐ Trwały
+
+Opis:
+
+............................................................
+
 ### Czy oceniany jest wyjątek nieproporcjonalnego obciążenia?
 
 ☐ Tak
@@ -141,6 +174,7 @@ Jeżeli tak, wskazać podstawę:
 ☐ Nie
 
 ---
+
 
 ## 5. Analiza sposobów zapewnienia dostępu
 
@@ -210,9 +244,27 @@ Opis rozwiązania:
 
 ............................................................
 
+Sposób zgłoszenia potrzeby
+
+☐ Formularz
+
+☐ E-mail
+
+☐ Telefon
+
+☐ Inny
+
+Opis:
+
+............................................................
+
+Deklarowany termin realizacji
+
+............................................................
+
 ---
 
-## 6. Ocena kosztów pełnego dostosowania
+## 6. Ocena możliwości pełnego dostosowania
 
 ## Koszty finansowe
 
@@ -246,6 +298,7 @@ Opis rozwiązania:
 
 ............................................................
 
+
 ---
 
 ## 7. Ocena skutków braku dostępności
@@ -264,6 +317,7 @@ Opis rozwiązania:
 
 ............................................................
 
+
 ### Skutki dla osób ze szczególnymi potrzebami
 
 ............................................................
@@ -277,6 +331,57 @@ Opis rozwiązania:
 Opis:
 
 ............................................................
+
+### Czy wpłynęły zgłoszenia użytkowników dotyczące tego problemu?
+
+☐ Tak
+
+☐ Nie
+
+Jeżeli tak, opisać:
+
+............................................................
+
+### Czy brak dostępności może ograniczyć dostęp do:
+
+☐ informacji publicznej
+
+☐ usługi publicznej
+
+☐ procedury administracyjnej
+
+☐ świadczenia
+
+☐ edukacji
+
+☐ kultury
+
+☐ innego prawa lub uprawnienia
+
+Opis:
+
+............................................................
+
+### Pilność uzyskania dostępu
+
+☐ Natychmiastowa
+
+☐ Krótkoterminowa
+
+☐ Standardowa
+
+☐ Archiwalna
+
+Opis:
+
+............................................................
+
+Przykładowo:
+
+- formularz składany do jutra,
+- rekrutacja kończąca się za tydzień,
+- archiwalny materiał sprzed 10 lat.
+
 
 ---
 
@@ -302,15 +407,36 @@ Opis:
 
 ............................................................
 
----
+### Relacja kosztów dostosowania do kosztów rozwiązania
 
-## 9. Wynik oceny
+............................................................
 
-## Czy pełne dostosowanie stanowi nieproporcjonalne obciążenie?
+### Przewidywany okres dalszego wykorzystania zasobu
+
+............................................................
+
+### Możliwość etapowego wdrożenia dostosowań
 
 ☐ Tak
 
 ☐ Nie
+
+Opis:
+
+............................................................
+
+
+---
+
+## 9. Wynik oceny
+
+☐ Pełne dostosowanie jest możliwe
+
+☐ Pełne dostosowanie jest możliwe etapowo
+
+☐ Konieczne jest zastosowanie rozwiązania alternatywnego
+
+☐ Pełne dostosowanie stanowi nieproporcjonalne obciążenie
 
 ### Uzasadnienie
 
@@ -332,6 +458,10 @@ Opis rozwiązania:
 
 ............................................................
 
+Osoba lub komórka odpowiedzialna za realizację
+
+............................................................
+
 ---
 
 ## 11. Informacja dla użytkowników
@@ -350,16 +480,38 @@ Opis:
 
 ............................................................
 
+Sposób uzyskania dostępu przez użytkownika
+
+............................................................
+
+Deklarowany czas realizacji dostępu na żądanie
+
+............................................................
+
+###  Uwzględnienie decyzji w deklaracji dostępności
+
+Czy decyzja wymaga aktualizacji deklaracji dostępności?
+
+☐ Tak
+
+☐ Nie
+
+Opis zmian:
+
+............................................................
+
+
 ---
 
 ## 12. Plan działań
 
-| Działanie | Termin | Odpowiedzialny |
-| --------- | ------ | -------------- |
-|           |        |                |
-|           |        |                |
-|           |        |                |
+| Działanie | Termin | Odpowiedzialny | Status  |
+| --------- | ------ | -------------- | ------- |
+|           |        |                |         |
+|           |        |                |         |
+|           |        |                |         |
 
+Status: planowane, w realizacji, zakończone
 ---
 
 ## 13. Termin ponownej oceny
@@ -370,7 +522,7 @@ Data:
 
 Powód ponownej oceny:
 
-☐ Upływ czasu
+☐ Upływ 12 miesięcy
 
 ☐ Zmiana technologii
 
@@ -384,9 +536,28 @@ Powód ponownej oceny:
 
 ---
 
-## 14. Zatwierdzenie
+## 14. Zatwierdzenie wyniku oceny
 
-Osoba zatwierdzająca:
+### Podstawa zatwierdzenia
+
+☐ Decyzja kierownicza
+
+☐ Akceptacja elektroniczna
+
+☐ System obiegu dokumentów
+
+☐ Inna
+
+Opis:
+
+............................................................
+
+Data następnego przeglądu decyzji
+
+............................................................
+
+
+### Osoba zatwierdzająca:
 
 ............................................................
 
@@ -401,6 +572,8 @@ Data:
 Podpis:
 
 ............................................................
+
+
 
 ---
 
