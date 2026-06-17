@@ -8,8 +8,8 @@ keywords: [polityka dostępności,zamówienia publiczne,zaopatrzenie]
 tags: [polityka dostępności,zamówienia publiczne,zaopatrzenie]
 data_zgloszenia: 14 lipca 2025 r.
 ostatnia_aktualizacja: 12 czerwca 2026,
-opracowanie: [Anna Czekalska, Stefan Wajda]
-wspolpraca: [Jadwiga Kost, Joanna Nietupska]
+opracowanie: Anna Czekalska, Stefan Wajda
+wspolpraca: Jadwiga Kost, Joanna Nietupska
 wersja_robocza: true
 ---
 
