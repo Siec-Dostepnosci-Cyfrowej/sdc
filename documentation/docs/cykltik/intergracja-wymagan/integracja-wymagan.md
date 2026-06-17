@@ -28,7 +28,10 @@ W szczególności:
   - określa wymagania dostępności dla kluczowych procesów użytkownika,
   - uwzględnia różne sposoby korzystania z usług cyfrowych, w szczególności obsługę klawiaturą, technologie asystujące, możliwość powiększania treści, korzystanie bez dźwięku lub obrazu oraz ograniczoną precyzję interakcji,
   - uwzględnia wymagania dostępności przy planowaniu nowych usług, modernizacji istniejących rozwiązań oraz zmian organizacyjnych.
-    W przypadku mniejszych projektów lub zmian organizacja może stosować uproszczoną analizę opartą na checklistach, scenariuszach użytkownika lub standardowych wymaganiach dostępności.
+   
+    Na etapie planowania organizacja dąży do zrozumienia potrzeb użytkowników, sposobu korzystania z usług publicznych oraz kontekstu, w jakim usługi te są realizowane. Szczególną uwagę należy zwrócić na sytuacje, w których ograniczenia dostępności mogą utrudniać lub uniemożliwiać samodzielne korzystanie z usługi przez część użytkowników.
+Analiza powinna uwzględniać różnorodność użytkowników, ich umiejętności, wykorzystywane technologie oraz potencjalne bariery wynikające z cech usługi, środowiska użytkowania lub przyjętych rozwiązań organizacyjnych i technicznych. Celem jest identyfikacja ryzyk związanych z dostępnością na możliwie najwcześniejszym etapie cyklu życia usługi lub rozwiązania TIK.
+W przypadku mniejszych projektów lub zmian organizacja może stosować uproszczoną analizę opartą na checklistach, scenariuszach użytkownika lub standardowych wymaganiach dostępności.
     
 2. Uwzględnianie dostępności w dokumentacji, zakupach i zamówieniach
    Organizacja uwzględnia wymagania dostępności w dokumentacji związanej z planowaniem, zakupem, tworzeniem i rozwojem rozwiązań TIK.
@@ -75,12 +78,47 @@ W szczególności:
   - aktualizuje procedury, checklisty i standardy organizacyjne,
   - monitoruje powtarzające się problemy i podejmuje działania zapobiegawcze.
     
+  Organizacja wykorzystuje informacje pochodzące od użytkowników, wyniki badań dostępności, audytów, przeglądów oraz doświadczenia zdobyte podczas realizacji projektów do doskonalenia procesów, standardów i praktyk związanych z zapewnianiem dostępności cyfrowej. Wiedza pozyskana podczas eksploatacji usług i rozwiązań TIK powinna być wykorzystywana przy planowaniu kolejnych działań, modernizacji oraz nowych przedsięwzięć.  
 Dostępność powinna być traktowana jako proces ciągłego doskonalenia, a nie jednorazowe działanie realizowane przed publikacją lub wdrożeniem rozwiązania.
+
+6. Uwzględnianie dostępności w utrzymaniu i rozwoju
+   Organizacja traktuje dostępność cyfrową jako element zarządzania jakością usług publicznych oraz zarządzania rozwojem i utrzymaniem rozwiązań TIK.
+W szczególności:
+  - uwzględnia wymagania dostępności w procesach zarządczych związanych z planowaniem, zakupem, rozwojem i utrzymaniem usług publicznych,
+  - zapewnia spójność działań związanych z dostępnością na różnych etapach cyklu życia usług i rozwiązań TIK,
+  - uwzględnia dostępność jako jeden z elementów zarządzania ryzykiem organizacyjnym,
+  - zapewnia odpowiednie kompetencje pracowników i wykonawców uczestniczących w realizacji usług i projektów,
+  - wykorzystuje wyniki badań, audytów, przeglądów oraz zgłoszeń użytkowników do podejmowania decyzji dotyczących rozwoju usług,
+  - uwzględnia dostępność podczas planowania zmian organizacyjnych, technologicznych i funkcjonalnych.
+
+Zapewnianie dostępności powinno stanowić stały element procesów organizacyjnych, a nie działanie realizowane wyłącznie w odpowiedzi na stwierdzone problemy lub wymagania formalne.
+
+7. Odpowiedzialność i ocena skuteczności działań
+   Organizacja określa role, odpowiedzialności oraz sposób monitorowania skuteczności działań związanych z zapewnianiem dostępności cyfrowej.
+W szczególności:
+  - wskazuje osoby, zespoły lub komórki organizacyjne odpowiedzialne za realizację działań związanych z dostępnością,
+  - określa odpowiedzialności na poszczególnych etapach cyklu życia usług publicznych i rozwiązań TIK,
+  - zapewnia współpracę pomiędzy osobami odpowiedzialnymi za planowanie, zakupy, rozwój, utrzymanie,
+  - publikację treści oraz ocenę dostępności,
+  - określa sposób zgłaszania, analizowania i usuwania problemów związanych z dostępnością,
+  - dokumentuje działania podejmowane w celu zapewnienia dostępności.
+
+Organizacja okresowo ocenia skuteczność prowadzonych działań, wykorzystując między innymi:
+  - wyniki badań i audytów dostępności,
+  - wyniki monitoringu dostępności,
+  - zgłoszenia użytkowników,
+  - liczbę i rodzaj stwierdzanych problemów,
+  - czas reakcji na zgłoszenia dotyczące dostępności,
+  - stopień realizacji działań naprawczych.
+
+Wyniki ocen wykorzystywane są do doskonalenia procesów organizacyjnych, aktualizacji procedur oraz planowania dalszych działań związanych z zapewnianiem dostępności cyfrowej.
 
 ## 3. Uzasadnienie
 Najważniejsze decyzje wpływające na dostępność cyfrową zapadają na długo przed etapem testów lub odbioru rozwiązania. Powstają one podczas planowania usług, definiowania wymagań, przygotowywania zamówień, projektowania procesów użytkownika oraz podejmowania decyzji dotyczących rozwoju i modernizacji rozwiązań TIK.
 
-Uwzględnianie dostępności dopiero po wdrożeniu prowadzi do powstawania kosztownych problemów, zwiększa ryzyko niespełnienia wymagań prawnych oraz utrudnia korzystanie z usług publicznych przez część użytkowników.
+Uwzględnianie dostępności dopiero po wdrożeniu prowadzi do powstawania kosztownych problemów, zwiększa ryzyko niespełnienia wymagań prawnych oraz utrudnia korzystanie z usług publicznych przez część użytkowników. Im później zostaną wykryte bariery dostępności, tym większe są koszty ich usunięcia oraz wpływ na jakość świadczonych usług.
+
+Dostępność cyfrowa nie jest wyłącznie zagadnieniem technicznym ani wymaganiem wynikającym z przepisów prawa. Stanowi jeden z elementów jakości usług publicznych i wpływa na możliwość samodzielnego, skutecznego i bezpiecznego korzystania z nich przez obywateli. Usługi dostępne cyfrowo są zazwyczaj bardziej użyteczne, czytelne i przyjazne również dla osób, które nie identyfikują się jako osoby ze szczególnymi potrzebami.
 
 Systemowe uwzględnianie dostępności w całym cyklu życia usług publicznych i rozwiązań TIK:
 
@@ -89,6 +127,7 @@ Systemowe uwzględnianie dostępności w całym cyklu życia usług publicznych 
   - ogranicza koszty późniejszych zmian,
   - zwiększa jakość i użyteczność usług,
   - wspiera zarządzanie ryzykiem i zgodnością,
+  - wzmacnia zaufanie użytkowników do usług publicznych,
   - buduje dojrzałość organizacyjną w zakresie dostępności cyfrowej.
 
 Podejście to jest zgodne z zasadami projektowania uniwersalnego, projektowania zorientowanego na użytkownika oraz zarządzania jakością usług publicznych.
