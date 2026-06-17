@@ -9,47 +9,35 @@ ostatnia_aktualizacja: 7 czerwca 2026 r.
 wersja_robocza: true
 ---
 
-## Stosowanie tekstu łatwego do czytania i zrozumienia (ETR)
-  
-**Opracowanie**: Anna Dybiec. **Współpraca**: Anna Bizub-Jechna
+## Prosty język i ETR
+
+**Opracowanie**: Anna Dybiec. **Współpraca**: Anna Bizub-Jechna Edyta, Boratyńska-Karpiej
+
+Zalecenie pomaga rozwiązać problem niezrozumiałości informacji i usług cyfrowych publikowanych przez podmioty publiczne. W wielu organizacjach treści są przygotowywane językiem specjalistycznym, urzędowym lub zbyt złożonym dla części odbiorców, co utrudnia samodzielne załatwianie spraw i korzystanie z informacji publicznej. Zalecenie wprowadza systemowe podejście do tworzenia zrozumiałej komunikacji poprzez stosowanie prostego języka jako standardu oraz tekstu łatwego do czytania i zrozumienia (ETR) tam, gdzie potrzeby odbiorców wymagają dodatkowego wsparcia. Dzięki temu organizacja ogranicza bariery komunikacyjne, zwiększa dostępność informacyjno-komunikacyjną swoich usług i buduje kulturę komunikacji dostępnej dla wszystkich.
 
 **Zawiera**:
 
-- Zalecenie: Stosowanie tekstu łatwego do czytania i zrozumienia (ETR)
+- **Zalecenie**: Stosowanie prostego języka oraz tekstu łatwego do czytania i zrozumienia (ETR) w komunikacji organizacji
 
-  
-Projekt wymaga doprecyzowania zakresu zastosowania poprzez wskazanie kategorii podmiotów publicznych, dla których stosowanie ETR w komunikacji bezpośredniej ma szczególne znaczenie. Należy również jednoznacznie wskazać, że rekomendowane działania wykraczają poza obowiązki ustawowe wynikające z przepisów o dostępności, co ma znaczenie dla oceny proporcjonalności i wykonalności. Uzupełnić dokument o wskazanie typów podmiotów publicznych (np. świadczących usługi społeczne, zdrowotne, edukacyjne lub obsługujących osoby o szczególnych potrzebach), dla których stosowanie ETR w komunikacji bezpośredniej jest szczególnie zasadne. Dodać wyraźne zastrzeżenie, że zalecenie wykracza poza minimalne obowiązki ustawowe w zakresie Dostępności cyfrowej. 
-
-**Status**: przyjąć z uwagami
-
-- podkreślanie elementów nadmiarowych może mieć niepożądany wpływ na odbiór dokumentu, dlatego kwestia ta wymaga doprecyzowania, w szczególności w zakresie wskazania podmiotów odpowiedzialnych za wdrożenie danego zalecenia. 
-- Zgłoszono wątpliwości dotyczące konieczności konsultowania tekstów uznawanych za ETR z osobami z niepełnosprawnościami oraz zgłoszono sprzeciw wobec obecnego brzmienia zapisów. 
-- Jednocześnie wyrażono stanowisko popierające proponowane rozwiązanie, z zastrzeżeniem, że część zgłoszonych uwag pozostaje w sprzeczności z postanowieniami Konwencji ONZ o prawach osób z niepełnosprawnościami. 
+**Status**: Poprawione, włączone do projektu dokumentu końcowego 
 
 
 ## Dostępne dokumenty
+
+Zapewnianie dostępności dokumentów cyfrowych nie sprowadza się do sposobu formatowania pojedynczych dokumentów, lecz do organizacji procesu ich tworzenia, publikowania i utrzymania. Zalecenie wraz z załącznikami pomaga organizacjom ustanowić zasady, role, odpowiedzialności, procedury i działania rozwojowe niezbędne do systemowego zapewniania dostępności dokumentów cyfrowych. Pakiet wspiera budowę trwałych zdolności organizacyjnych w zakresie dostępnej komunikacji cyfrowej, tak aby dostępność była uwzględniana na wszystkich etapach cyklu życia dokumentów.
 
 **Opracowanie**: Stefan Wajda
 
 **Zawiera**:
 
-- Zalecenie: Zapewnianie dostępności cyfrowej dokumentów biurowych
+- Zalecenie: Zapewnianie dostępności cyfrowej dokumentów
 - Załącznik: Polityka dostępności dokumentów cyfrowych
 - Załącznik: Procedura zapewniania dostępności cyfrowej dokumentów
 - Załącznik: Plan wdrożenia procedury zapewniania dostępności cyfrowej dokumentów
-- Załącznik: Tworzenie dostępnych dokumentów w praktyce
-- Załącznik: Lista kontrolna dostępnego dokumentu
-- Załącznik: Polityka szkolenia i doskonalenia kompetencji w zakresie dostępności dokumentów cyfrowych
-- Załącznik: Raport z badania kompetencji w zakresie dostępności cyfrowej dokumentów
-- Załącznik: Mikropoświadczenie: Twórca dostępnych dokumentów Word i PowerPoint
-- Załącznik: Przykładowy test wiedzy – podstawy tworzenia dostępnych dokumentów cyfrowych  
- 
-Projekt jest zasadny i powinien zostać włączony do dokumentu końcowego, jednak wymaga korekty odniesień normatywnych. 
+- Załącznik: Wsparcie kompetencyjne w zakresie dostępności dokumentów cyfrowych
+- Załącznik: Minimalne kompetencje w zakresie dostępnej komunikacji cyfrowej
 
-**Status**: przyjąć z uwagami
-
-- W przypadku podmiotów publicznych obowiązującym zestawem wymagań dostępności jest załącznik do ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych oraz norma PL ETSI EN 301 549 V3.2.1, a nie WCAG jako samodzielny standard odniesienia. Zastąpić w dokumencie odwołania do WCAG jako podstawowego standardu wymaganiami określonymi w załączniku do ustawy o dostępności cyfrowej oraz w normie PL ETSI EN 301 549 V3.2.1. WCAG może być wskazywany pomocniczo jako źródło kryteriów, lecz nie jako samodzielna podstawa obowiązków. 
-- Kwestia dotycząca KRI zostanie poddana dalszej analizie i uwzględniona w kolejnych etapach prac. 
+**Status**: Poprawione, włączone do projektu dokumentu końcowego 
 
 
 ## Treści od innych podmiotów
