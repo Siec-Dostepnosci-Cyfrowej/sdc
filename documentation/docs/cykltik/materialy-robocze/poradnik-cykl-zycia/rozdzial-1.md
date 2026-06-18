@@ -1,6 +1,6 @@
 ---
 id: rozdzial-1
-title: "Poradnik: Cykl życia technologii informacyjno-komunikacyjnej"
+title: "Poradnik: Cykl życia TIK — Rozdział 1. Koncepcja i definiowanie wymagań"
 description: W fazie koncepcji i definiowania wymagań powstaje pomysł na nowy produkt. Tutaj określamy potrzeby przyszłych użytkowników, w tym osób ze szczególnymi potrzebami, ustalamy cele i wymagania techniczne, w tym związane z dostępnością.
 sidebar_label: Cykl życia TIK. R. 1
 sidebar_position: 1 

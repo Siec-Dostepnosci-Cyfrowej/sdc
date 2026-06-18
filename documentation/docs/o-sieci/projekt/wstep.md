@@ -1,5 +1,5 @@
 ---
-id: wstep
+id: wstep-projekt-sdc
 title: Jesteś tu pierwszy raz?
 sidebar_position: 0
 sidebar_label: Jesteś tu pierwszy raz?

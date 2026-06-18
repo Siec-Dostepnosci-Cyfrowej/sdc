@@ -1,5 +1,5 @@
 ---
-id: uaktualniona-lista-tematow
+id: uaktualniona-lista-tematow-pracownicy
 title: Propozycje tematów zaleceń – Wymiar Personel (Pracownicy)
 sidebar_label: Uaktualniona lista tematów
 sidebar_position: 3

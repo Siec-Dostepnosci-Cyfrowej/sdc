@@ -1,5 +1,5 @@
 ---
-id: zestawienie-opracowan
+id: zestawienie-opracowan-cykltik
 title: Zestawienie opracowań z zakresu wymiaru Cykl życia TIK
 sidebar_label: Zestawienie opracowań
 sidebar_position: 5

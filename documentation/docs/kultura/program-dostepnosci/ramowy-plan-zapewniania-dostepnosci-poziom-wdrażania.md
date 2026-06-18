@@ -1,6 +1,6 @@
 ---
 id: ramowy-plan-zapewniania-dostepnosci-poziom-wdrażania
-title: Ramowy plan działania na rzecz zapewniania dostępności cyfrowej   
+title: Ramowy plan działania na rzecz zapewniania dostępności cyfrowej (poziom wdrażania)
 description: Przedstawia propozycje planu działania
 sidebar_label: Ramowy plan - poziom wdrażania
 sidebar_position: 5

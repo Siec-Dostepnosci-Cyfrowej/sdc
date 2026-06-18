@@ -1,5 +1,5 @@
 ---
-id: zestawienie-opracowan
+id: zestawienie-opracowan-wsparcie
 title: Zestawienie opracowań z zakresu wymiaru Wsparcie
 sidebar_label: Zestawienie opracowań
 sidebar_position: 5

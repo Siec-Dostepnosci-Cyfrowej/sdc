@@ -1,5 +1,5 @@
 ---
-id: zestawienie-opracowan
+id: zestawienie-opracowan-pracownicy
 title: Zestawienie opracowań z zakresu wymiaru Pracownicy
 sidebar_label: Zestawienie opracowań
 sidebar_position: 5

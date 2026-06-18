@@ -1,5 +1,5 @@
 ---
-id: uaktualniona-lista-tematow
+id: uaktualniona-lista-tematow-wsparcie
 title: Propozycje tematów zaleceń – Wymiar Wsparcie
 sidebar_label: Uaktualniona lista tematów
 sidebar_position: 3

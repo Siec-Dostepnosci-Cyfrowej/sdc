@@ -120,7 +120,7 @@ Na początku pliku dodaj metadane:
 
 ```md
 ---
-id: zalecenie-prosty-jezyk
+id: dodaj-dokument-z-github-desktop
 title: Stosowanie prostego języka w komunikacji organizacji
 description: Projekt zalecenia dotyczącego prostego języka.
 ---

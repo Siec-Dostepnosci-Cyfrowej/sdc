@@ -1,5 +1,5 @@
 ---
-id: zestawienie-opracowan
+id: zestawienie-opracowan-zaopatrzenie
 title: Zestawienie opracowań z zakresu wymiaru Zaopatrzenie
 sidebar_label: Zestawienie opracowań
 sidebar_position: 5

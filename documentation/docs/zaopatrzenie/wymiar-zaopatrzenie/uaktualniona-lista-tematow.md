@@ -1,5 +1,5 @@
 ---
-id: uaktualniona-lista-tematow
+id: uaktualniona-lista-tematow-zaopatrzenie
 title: Propozycje tematów zaleceń – Wymiar Zaopatrzenie
 sidebar_label: Uaktualniona lista tematów
 sidebar_position: 3

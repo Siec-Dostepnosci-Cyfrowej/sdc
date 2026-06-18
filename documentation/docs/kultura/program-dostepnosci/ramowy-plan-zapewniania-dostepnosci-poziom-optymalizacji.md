@@ -1,6 +1,6 @@
 ---
 id: ramowy-plan-zapewniania-dostepnosci-poziom-optymalizacji
-title: Ramowy plan działania na rzecz zapewniania dostępności cyfrowej   
+title: Ramowy plan działania na rzecz zapewniania dostępności cyfrowej (poziom optymalizacji)
 description: Przedstawia propozycje planu działania
 sidebar_label: Ramowy plan - poziom optymalizacji
 sidebar_position: 6

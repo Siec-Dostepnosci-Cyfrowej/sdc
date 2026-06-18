@@ -1,6 +1,6 @@
 ---
 id: PL-ACC-005_Redaktor-dostępnych-treści-internetowych
-title: "Mikropoświadczenie: Redaktor dostępnych treści internetowych"
+title: "Mikropoświadczenie: Redaktor dostępnych treści internetowych (poziom podstawowy)"
 sidebar_label: Redaktor dostępnych treści internetowych
 sidebar_position: 14
 keywords: [dostępność cyfrowa, mikropoświadczenie]

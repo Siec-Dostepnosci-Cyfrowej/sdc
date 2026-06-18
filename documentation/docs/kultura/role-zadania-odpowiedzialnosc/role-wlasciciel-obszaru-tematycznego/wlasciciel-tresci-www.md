@@ -1,6 +1,6 @@
 ---
 id: wlasciciel-tresci-www
-title: Administrator systemów publikacyjnych
+title: Właściciel treści WWW
 sidebar_label: Administrator systemów publikacyjnych
 sidebar_position: 25
 description: Określa cel, zakres zadań, odpowiedzialności roli administrator systemów publikacyjnych w systemie zarządzania dostępnością cyfrową. 

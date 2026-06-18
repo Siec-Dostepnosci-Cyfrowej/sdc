@@ -1,6 +1,6 @@
 ---
 id: zapewnianie-dostosowan-procedura-projekt
-title: Projekt procedury zapewniania pracownikom dostosowań i racjonalnych usprawnień cyfrowych
+title: Projekt procedury zapewniania pracownikom dostosowań i racjonalnych usprawnień cyfrowych (wersja projektowa)
 description: Stworzenie procedury uzyskiwnia wsparcia prez pracowników i współpacowników organizacji.
 sidebar_label: Projekt procedury
 sidebar_position: 2 

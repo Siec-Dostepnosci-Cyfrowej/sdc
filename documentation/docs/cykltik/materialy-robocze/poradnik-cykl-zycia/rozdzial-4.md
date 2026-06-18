@@ -1,6 +1,6 @@
 ---
 id: rozdzial-4
-title: "Poradnik: Cykl życia technologii informacyjno-komunikacyjnej"
+title: "Poradnik: Cykl życia TIK — Rozdział 4. Wdrażanie i integracja"
 description: W fazie wdrażania i integracji produkt jest budowany lub programowany. Tworzy się kod i treści (w tym grafiki i dokumenty). Warto na bieżąco testować zgodność z zasadami dostępności cyfrowej.
 sidebar_label: Cykl życia TIK. R. 4
 sidebar_position: 4 

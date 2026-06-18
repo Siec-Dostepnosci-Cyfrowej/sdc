@@ -1,6 +1,6 @@
 ---
 id: rozdzial-5
-title: "Poradnik: Cykl życia technologii informacyjno-komunikacyjnej"
+title: "Poradnik: Cykl życia TIK — Rozdział 5. Utrzymanie i rozwój"
 description: W fazie utrzymania i rozwoju produkt jest używany i musi być utrzymywany w aktualnym stanie. To oznacza m.in. naprawianie błędów, aktualizowanie treści i dbanie o to, by kolejne zmiany nie pogarszały stanu dostępności, a nowe elementy (moduły, funkcjonalności) były dostępne cyfrowo.
 sidebar_label: Cykl życia TIK. R. 5
 sidebar_position: 5 

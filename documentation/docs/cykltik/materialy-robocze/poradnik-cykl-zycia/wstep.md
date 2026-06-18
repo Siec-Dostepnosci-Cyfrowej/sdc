@@ -1,6 +1,6 @@
 ---
-id: wstep
-title: "Poradnik: Cykl życia technologii informacyjno-komunikacyjnej"
+id: wstep-poradnik-cykl-zycia
+title: "Poradnik: Cykl życia TIK — Wstęp"
 sidebar_label: Cykl życia TIK. Wstęp
 sidebar_position: 0 
 keywords: [
