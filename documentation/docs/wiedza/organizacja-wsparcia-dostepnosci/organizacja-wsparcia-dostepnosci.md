@@ -3,7 +3,7 @@ id: organizacja-wsparcia-dostepnosci
 title: Organizacja wsparcia dostępności cyfrowej w dużych i bardzo dużych podmiotach publicznych
 description: Organizacja opracowuje i wdraża model organizacyjny wsparcia dostępności cyfrowej, oparty na sieci liderów dostępności, społeczności praktyków dostępności lub połączeniu obu rozwiązań, dostosowany do swojej struktury, kultury organizacyjnej i poziomu dojrzałości. 
 sidebar_position: 2
-sidebar_label: Alternatywny projekt zalecenia 
+sidebar_label: Organizacja wsparcia dostępności 
 keywords: [WCAG, dostepność cyfrowa, wiedza i umiejetności, wdrażanie dostępności, liderzy dostępności, sieć liderów dostępności, społeczności praktyków]
 tags: [WCAG, dostepność cyfrowa, wiedza i umiejętności, wdrażanie dostępności, liderzy dostępności, sieć liderów dostępności, społeczności praktyków]
 opracowanie: Anna Dybiec, Stefan Wajda
@@ -14,7 +14,6 @@ wersja_robocza: true
 
 
 ## 1. Cel zalecenia
-**Projekt alternatywny do projektu zalecenia: Liderzy dostępności**
 
 Celem zalecenia jest zapewnienie skutecznego, skalowalnego i trwałego wsparcia dostępności cyfrowej w dużych i bardzo dużych podmiotach publicznych poprzez wdrożenie odpowiedniego modelu organizacyjnego, który umożliwia rozwój kompetencji pracowników, bieżące wsparcie operacyjne oraz budowanie kultury dostępności w organizacji.
 
