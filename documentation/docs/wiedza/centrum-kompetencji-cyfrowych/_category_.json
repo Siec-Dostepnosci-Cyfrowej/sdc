@@ -2,6 +2,7 @@
   "label": "Centrum Kompetencji Dostępności Cyfrowej",
   "position": 5,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+	"description": "Dezyderat proponuje utworzenie Centrum Kompetencji Dostępności Cyfrowej (CKDC) jako krajowego ośrodka odpowiedzialnego za rozwój kompetencji, wsparcie eksperckie, opracowywanie wytycznych oraz koordynację działań związanych z dostępnością cyfrową. Projekt obejmuje koncepcję organizacji Centrum, zakres jego zadań oraz rolę w budowaniu i utrzymywaniu systemu wsparcia dla administracji publicznej."
   }
 }
