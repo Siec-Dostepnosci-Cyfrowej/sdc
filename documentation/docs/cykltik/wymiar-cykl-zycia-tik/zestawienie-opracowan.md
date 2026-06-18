@@ -5,7 +5,7 @@ sidebar_label: Zestawienie opracowań
 sidebar_position: 5
 opracowanie: Stefan Wajda
 data_zgloszenia: 7 czerwca 2026 r.
-ostatnia_aktualizacja: 18 czerwca 2026 r.
+ostatnia_aktualizacja: 7 czerwca 2026 r.
 wersja_robocza: true
 ---
 
@@ -18,7 +18,7 @@ Podstawy testowania zgodności stanowią fundament wiarygodnej i porównywalnej 
 
 **Zawiera**:
 
-- Dezyderat w sprawie opracowania państwowej „Podstawy testowania zgodności” produktów i usług cyfrowych
+- **Dezyderat w sprawie opracowania państwowej „Podstawy testowania zgodności” produktów i usług cyfrowych**
 - Załącznik: Podstawa testowania zgodności TIK z EN 301 549
 - Załącznik: Model dojrzałości monitoringu (W3C Accessibility Maturity Model – AMM)
 - Załącznik: Profil Fundamenty zgodności
@@ -48,11 +48,11 @@ Skuteczne zarządzanie dostępnością cyfrową wymaga wiedzy o zasobach cyfrowy
 
 **Opracowanie**: Stefan Wajda
 
-Podstawy testowania zgodności stanowią fundament wiarygodnej i porównywalnej oceny dostępności cyfrowej. Dezyderat wraz z załącznikami przedstawia koncepcję referencyjnej metodyki testowania zgodności produktów i usług cyfrowych z wymaganiami EN 301 549 i WCAG. Wspiera budowę wspólnego standardu prowadzenia przeglądów, monitoringu i audytów dostępności, a także jednolitych zasad dokumentowania wyników i interpretacji wymagań. Dzięki temu możliwe staje się bardziej spójne, przejrzyste i przewidywalne zarządzanie oceną dostępności cyfrowej w sektorze publicznym i na rynku usług audytorskich.
+Procedura oceniania dostępności określa zasady prowadzenia ocen zgodności w sposób zapewniający rzetelność, powtarzalność i porównywalność wyników. Zalecenie wraz z zestawem załączników pomaga organizacjom publicznym organizować i dokumentować proces oceny dostępności cyfrowej, obejmujący przygotowanie badania, dobór metod, przeprowadzanie testów, analizę wyników oraz opracowanie raportów. Wspiera zapewnienie jakości ocen i jednolitego sposobu postępowania niezależnie od rodzaju badanego zasobu oraz podmiotu wykonującego ocenę. Dzięki temu wyniki ocen mogą stanowić wiarygodną podstawę do podejmowania decyzji dotyczących działań naprawczych i doskonalenia dostępności cyfrowej.
 
 **Zawiera**:
 
-- Zalecenie w sprawie określenia procedury badania i oceniania dostępności cyfrowej stron internetowych i aplikacji mobilnych
+- Zalecenie: **Zalecenie w sprawie określenia procedury badania i oceniania dostępności cyfrowej stron internetowych i aplikacji mobilnych**
 - Załącznik: Procedura przeglądu diagnostycznego dostępności witryny
 - Załącznik: Instrukcja, cz. 1. Sprawdzenia automatyczne w przeglądzie diagnostycznym
 - Załącznik: Instrukcja, cz. 2. Sprawdzenia manualne w przeglądzie diagnostycznym
@@ -98,7 +98,7 @@ Przegląd i aktualizacja deklaracji dostępności stanowią ważny element syste
 
 **Zawiera**:
 
-- Zalecenie: Coroczny przegląd przed aktualizacją deklaracji dostępności cyfrowej
+- Zalecenie: **Coroczny przegląd przed aktualizacją deklaracji dostępności cyfrowej**
 - Załącznik: Procedura przeglądu dostępności cyfrowej przed aktualizacją deklaracji dostępności
 - Załącznik: Lista kontrolna przeglądu dostępności cyfrowej stron internetowych i aplikacji mobilnych
 - Załącznik: Instrukcja użytkownika szablonu przeglądu dostępności cyfrowej
@@ -115,7 +115,7 @@ Identyfikowanie problemów dostępności cyfrowej przynosi wartość tylko wtedy
 
 **Zawiera**:
 
-- Zalecenie: Systemowe rozwiązywanie problemów dostępności cyfrowej
+- Zalecenie: **Systemowe rozwiązywanie problemów dostępności cyfrowej**
 - Zalecenie: Organizacja i zadania zespołu odpowiedzialnego za naprawę problemów dostępności cyfrowej. Załącznik nr 1
 - Zalecenie nr 2 do Zalecenia w sprawie systemowego rozwiązywania problemów dostępności cyfrowej (Wzorcowe zapisy do umowy)
 - Zalecenie nr 3 do Zalecenia w sprawie systemowego rozwiązywania problemów dostępności cyfrowej (Zapisy do umowy)
@@ -146,9 +146,11 @@ Przetwarzanie zgłoszeń jest ważnym elementem systemowego zarządzania dostęp
 
 **Opracowanie**: Bartłomiej Wilk
 
+Zarządzanie archiwizacją i wycofywaniem zasobów cyfrowych jest elementem systemowego zapewniania dostępności cyfrowej w całym cyklu życia informacji i usług. Zalecenie wraz z zestawem załączników pomaga organizacjom publicznym uwzględniać dostępność cyfrową podczas archiwizacji, migracji, modernizacji i wycofywania zasobów cyfrowych. Wspiera zachowanie dostępu do informacji, planowanie działań związanych ze zmianami technologicznymi oraz ograniczanie ryzyka utraty dostępności treści i usług w wyniku zmian organizacyjnych lub technicznych.
+
 **Zawiera**:
 
-- Zalecenie: Zapewnianie dostępności cyfrowej zasobów archiwalnych, migrowanych i wycofywanych
+- Zalecenie: **Zapewnianie dostępności cyfrowej zasobów archiwalnych, migrowanych i wycofywanych**
 - Załącznik: Model organizacji procesu
 - Załącznik: Role i odpowiedzialności
 - Załącznik: Procedura standardowa
@@ -175,7 +177,7 @@ Zarządzanie archiwizacją i wycofywaniem zasobów cyfrowych jest elementem syst
 
 **Zawiera**:
 
-- Zalecenie: Zarządzanie archiwizacją i wycofywaniem zasobów cyfrowych
+- Zalecenie: **Zarządzanie archiwizacją i wycofywaniem zasobów cyfrowych**
 - Załącznik: Dostępność cyfrowa podczas migracji danych i wymiany systemów
 - Załącznik: Dostępność cyfrowa podczas wycofywania treści i usług cyfrowych
 - Załącznik: Dostępność cyfrowa zasobów archiwalnych i historycznych
@@ -194,7 +196,7 @@ Projekt porusza istotny problem związany ze stosowaniem wyjątku nieproporcjona
 
 **Zawiera**:
 
-- Zalecenie: Ocena nadmiernych kosztów dostępności cyfrowej
+- Zalecenie: **Ocena nadmiernych kosztów dostępności cyfrowej**
 - Załącznik 1: Szablon oceny kosztów dostosowania
 - Załącznik 2: Przykład wypełnionego szablonu: Napisy do filmów edukacyjnych w gminnej bibliotece publicznej.
 
@@ -211,7 +213,7 @@ Dostępność cyfrowa nie zawsze może zostać zapewniona natychmiast lub w peł
 
 **Zawiera**:
 
-- Zalecenie: Zapewnianie dostępu do treści i usług w przypadku braku dostępności cyfrowej
+- Zalecenie: **Zapewnianie dostępu do treści i usług w przypadku braku dostępności cyfrowej**
 - Załącznik: Katalog sposobów zapewniania dostępu alternatywnego
 - Załącznik: Wzory komunikatów informujących o dostępie alternatywnym
 - Załącznik: Rejestr niedostępnych treści i funkcjonalności
@@ -231,6 +233,6 @@ Wykorzystanie sztucznej inteligencji w audytowaniu i naprawie dostępności cyfr
 
 **Zawiera**:
 
-- Zalecenie: Zasady wykorzystania sztucznej inteligencji AI w procesach audytowania i napraw dostępności cyfrowej
+- Zalecenie: **Zasady wykorzystania sztucznej inteligencji AI w procesach audytowania i napraw dostępności cyfrowej**
 
-
+**Status**: Autor przygotował projekt, ale nie opublikował go jeszcze
