@@ -2,11 +2,12 @@
 id: dostepnosc-cyfrowa-kanalow-komunikacji-internetowej
 title: Dostępność cyfrowa kanalów komunikacji internetowej
 description: Zapewnienie dostępności cyfrowych kanałów komunikacji z klientami jest kluczowe dla realizacji zasad równości szans oraz zgodności z obowiązującymi przepisam...
-sidebar_label: Dostępność cyfrowa kanalów komunikacji internetowej
+sidebar_label: Zalecenie
 sidebar_position: 1
 opracowanie: Mateusz Ciborowski
 data_zgloszenia: 6 czerwca 2026 r.
 ostatnia_aktualizacja: 6 czerwca 2026 r.
+wersja_robocza: true
 ---
 
 ## 1. Zalecenie
