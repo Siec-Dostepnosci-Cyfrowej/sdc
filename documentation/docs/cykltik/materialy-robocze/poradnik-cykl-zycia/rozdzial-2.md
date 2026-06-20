@@ -1,6 +1,6 @@
 ---
 id: rozdzial-2
-title: "Poradnik: Cykl życia technologii informacyjno-komunikacyjnej"
+title: "Poradnik: Cykl życia TIK — Rozdział 2. Projektowanie"
 description: W fazie projektowania projektujemy interfejsy, architekturę informacji i procesy, dbając o ich dostępność cyfrową już na poziomie makiet czy prototypów.
 sidebar_label: Cykl życia TIK. R. 2
 sidebar_position: 2 

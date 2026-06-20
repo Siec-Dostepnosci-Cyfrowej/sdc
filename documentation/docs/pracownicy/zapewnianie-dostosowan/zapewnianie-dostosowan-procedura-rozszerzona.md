@@ -1,6 +1,6 @@
 ---
 id: zapewnianie-dostosowan-procedura-rozszerzona
-title: Projekt procedury zapewniania pracownikom dostosowań i racjonalnych usprawnień cyfrowych
+title: Projekt procedury zapewniania pracownikom dostosowań i racjonalnych usprawnień cyfrowych (wersja rozszerzona)
 description: Stworzenie procedury uzyskiwnia wsparcia prez pracowników i współpacowników organizacji.
 sidebar_label: Procedura rozszerzona
 sidebar_position: 5 

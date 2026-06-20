@@ -1,5 +1,5 @@
 ---
-id: uaktualniona-lista-tematow
+id: uaktualniona-lista-tematow-wiedza
 title: Propozycje tematów zaleceń – Wymiar Wiedza i umiejętności
 sidebar_label: Uaktualniona lista tematów
 sidebar_position: 2

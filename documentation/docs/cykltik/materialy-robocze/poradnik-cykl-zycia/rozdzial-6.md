@@ -1,6 +1,6 @@
 ---
 id: rozdzial-6
-title: "Poradnik: Cykl życia technologii informacyjno-komunikacyjnej"
+title: "Poradnik: Cykl życia TIK — Rozdział 6. Starzenie się i wycofanie"
 description: W fazie starzenia się i wycofania, gdy produkt nie będzie już używany (traci uzasadnienie dalszego utrzymania), trzeba zadbać o to, by użytkownicy mieli dostęp do informacji o zakończeniu wsparcia i - jeśli to potrzebne - do archiwalnych treści w formie dostępnej cyfrowo.
 sidebar_label: Cykl życia TIK. R. 6
 sidebar_position: 6 

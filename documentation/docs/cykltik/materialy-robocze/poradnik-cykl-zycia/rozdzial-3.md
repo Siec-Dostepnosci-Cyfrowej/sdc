@@ -1,6 +1,6 @@
 ---
 id: rozdzial-3
-title: "Poradnik: Cykl życia technologii informacyjno-komunikacyjnej"
+title: "Poradnik: Cykl życia TIK — Rozdział 3. Testowanie i walidacja"
 description: W fazie testowania i walidacji produkt w wersji testowej sprawdzamy pod kątem zapewnienia dostępności cyfrowej.
 sidebar_label: Cykl życia TIK. R. 3
 sidebar_position: 3 

@@ -1,5 +1,5 @@
 ---
-id: uaktualniona-lista-tematow
+id: uaktualniona-lista-tematow-kultura
 title: Propozycje tematów zaleceń – Wymiar Zarządzanie i kultura organizacyjna
 sidebar_label: Uaktualniona lista tematów
 sidebar_position: 3

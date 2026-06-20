@@ -152,7 +152,7 @@ Na początku pliku dodaj metadane, na przykład:
 
 ```Markdown
 ---
-id: zalecenie-prosty-jezyk
+id: dodaj-dokument-z-kopii-repo
 title: Stosowanie prostego języka w komunikacji organizacji
 description: Projekt zalecenia dotyczącego prostego języka.
 ---

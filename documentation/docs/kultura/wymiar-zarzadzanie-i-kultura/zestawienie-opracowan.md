@@ -1,5 +1,5 @@
 ---
-id: zestawienie-opracowan
+id: zestawienie-opracowan-kultura
 title: Zestawienie opracowań z zakresu wymiaru Zarządzanie i kultura organizacyjna
 sidebar_label: Zestawienie opracowań
 sidebar_position: 5

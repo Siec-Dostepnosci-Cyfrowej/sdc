@@ -1,6 +1,6 @@
 ---
 id: rozdzial-7
-title: "Poradnik: Cykl życia technologii informacyjno-komunikacyjnej"
+title: "Poradnik: Cykl życia TIK — Podsumowanie"
 description: Dostępność cyfrowa to nie jednorazowe działanie, ale proces ciągły - integralna część całego cyklu życia technologii informacyjno-komunikacyjnych.
 sidebar_label: Cykl życia TIK. Podsumowanie
 sidebar_position: 7 

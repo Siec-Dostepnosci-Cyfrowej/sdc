@@ -1,5 +1,5 @@
 ---
-id: zestawienie-opracowan
+id: zestawienie-opracowan-wiedza
 title: Zestawienie opracowań z zakresu wymiaru Wiedza i umiejętności
 sidebar_label: Zestawienie opracowań
 sidebar_position: 5

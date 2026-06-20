@@ -1,5 +1,5 @@
 ---
-id: uaktualniona-lista-tematow
+id: uaktualniona-lista-tematow-cykltik
 title: Propozycje tematów zaleceń – Wymiar Cykl życia TIK
 sidebar_label: Uaktualniona lista tematów
 sidebar_position: 3

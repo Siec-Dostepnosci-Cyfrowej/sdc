@@ -1,5 +1,5 @@
 ---
-id: zestawienie-opracowan
+id: zestawienie-opracowan-komunikacja
 title: Zestawienie opracowań z zakresu wymiaru Komunikacja
 sidebar_label: Zestawienie opracowań
 sidebar_position: 5
