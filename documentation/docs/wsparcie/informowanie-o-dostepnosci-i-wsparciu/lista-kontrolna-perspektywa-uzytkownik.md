@@ -8,7 +8,7 @@ keywords: [informacja o dostępności,dostępność cyfrowa,dostępność archit
 tags: [informacja o dostępności,dostępność cyfrowa,dostępność architektoniczna,koordynator dostępności,wsparcie użytkowników]
 opracowanie: Stefan Wajda
 data_zgloszenia: 20 czerwca 2026 r.
-ostatnia_aktualizacja: 20 czerwca 2026 r.
+ostatnia_aktualizacja: 22 czerwca 2026 r.
 wersja_robocza: true
 ---
 
