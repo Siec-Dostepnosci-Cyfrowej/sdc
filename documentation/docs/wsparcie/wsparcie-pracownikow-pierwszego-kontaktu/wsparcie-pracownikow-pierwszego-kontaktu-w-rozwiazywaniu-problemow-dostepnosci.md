@@ -3,7 +3,7 @@ id: wsparcie-pracownikow-pierwszego-kontaktu-w-rozwiazywaniu-problemow-dostepnos
 title: Wsparcie pracowników pierwszego kontaktu w rozwiązywaniu problemów dostępności
 description: Organizacja zapewnia pracownikom pierwszego kontaktu narzędzia i procedury umożliwiające skuteczne wspieranie użytkowników oraz obsługę problemów związanych z dostępnością.
 sidebar_label: Wsparcie pracowników pierwszego kontaktu
-sidebar_position: 8
+sidebar_position: 1
 keywords: [obsługa użytkowników,pracownicy pierwszego kontaktu,problemy dostępności,procedury wsparcia]
 tags: [obsługa użytkowników,pracownicy pierwszego kontaktu,problemy dostępności,procedury wsparcia]
 opracowanie: Stefan Wajda
