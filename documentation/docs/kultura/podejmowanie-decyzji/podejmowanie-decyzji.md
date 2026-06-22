@@ -3,7 +3,7 @@ id: podejmowanie-decyzji
 title: Podejmowanie decyzji
 description: Dostępność cyfrowa jest procesem organizacyjnym, nie technicznym — wymaga jasnych zasad i zakresów odpowiedzialności na równi z odpowiedzialnością merytorycz...
 sidebar_label: Podejmowanie decyzji
-sidebar_position: 1
+sidebar_position: 0
 keywords: [role i odpowiedzialności, zarządzanie, koordynacja, dostępność cyfrowa]
 tags: [role i odpowiedzialności, zarządzanie, koordynacja, dostępność cyfrowa]
 opracowanie: Joanna Nietupska, Stefan Wajda
