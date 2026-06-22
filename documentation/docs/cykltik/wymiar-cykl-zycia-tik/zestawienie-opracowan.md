@@ -273,7 +273,7 @@ Projekt poświęcony jest organizacji jednostki lub zespołu odpowiedzialnego za
 
 ---
 
-## Monitorowanie dostępności
+## ✅ Monitorowanie dostępności
 
 **Opracowanie**:Marcin Adamski
 
