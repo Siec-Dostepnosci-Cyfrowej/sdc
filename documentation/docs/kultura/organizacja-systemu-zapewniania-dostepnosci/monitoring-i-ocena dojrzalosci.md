@@ -2,7 +2,7 @@
 id: monitoring-i-ocena dojrzalosci
 title: Monitoring i ocena dojrzałości organizacji w zakresie zapewniania dostępności cyfrowej
 description: Monitoring i ocena dojrzałości
-sidebar_position: 3
+sidebar_position: 4
 sidebar_label: Monitoring i ocena dojrzałości
 keywords: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie, proces zapewniania dostępności,model dojrzałości dostępności, monitoring]
 tags: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie, proces zapewniania dostępności,model dojrzałości dostępności, monitoring]
