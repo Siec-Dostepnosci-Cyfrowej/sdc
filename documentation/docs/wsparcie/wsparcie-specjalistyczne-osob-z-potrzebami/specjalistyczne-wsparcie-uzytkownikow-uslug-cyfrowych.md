@@ -2,7 +2,7 @@
 id: specjalistyczne-wsparcie-uzytkownikow-uslug-cyfrowych
 title: Specjalistyczne wsparcie użytkowników usług cyfrowych
 sidebar_label: Zalecenie
-sidebar_position: 0
+sidebar_position: 1
 description: Organizacja zapewnia zdolność do udzielania osobom z niepełnosprawnościami specjalistycznego wsparcia w zakresie korzystania z usług cyfrowych udostępnianych przez organizację.
 keywords: [wsparcie, obsługa osób z niepełnosprawnością]
 tags: [wsparcie, obsługa osób z niepełnosprawnością]
