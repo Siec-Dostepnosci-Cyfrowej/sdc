@@ -1,7 +1,8 @@
 {
   "label": "Weryfikacja treści",
-  "position": 4,
+  "position": 12,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+	"description": "Opis dobrej praktyki przedstawia organizację procesu weryfikacji dostępności treści cyfrowych przed publikacją. Materiał obejmuje zasady przygotowywania i kontroli dokumentów, grafik oraz materiałów multimedialnych, określa role uczestników procesu oraz wskazuje narzędzia wspierające ocenę dostępności. Do opisu dołączono materiały pomocnicze i przykłady rozwiązań wykorzystywanych w praktyce, wspierające wdrożenie systemu kontroli jakości publikowanych treści pod kątem dostępności cyfrowej."
   }
 }
