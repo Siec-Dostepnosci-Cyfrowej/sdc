@@ -3,7 +3,7 @@ id: wsparcie-uzytkownikow-podczas-realizacji-zlozonych-spraw-cyfrowych
 title: Wsparcie użytkowników podczas realizacji złożonych spraw cyfrowych
 description: Organizacja zapewnia użytkownikom wsparcie podczas realizacji złożonych spraw wymagających korzystania z usług cyfrowych.
 sidebar_label: Wsparcie podczas realizacji spraw cyfrowych
-sidebar_position: 6
+sidebar_position: 0
 keywords: [usługi cyfrowe,e-usługi,wsparcie użytkowników,obsługa spraw cyfrowych,procesy cyfrowe]
 tags: [usługi cyfrowe,e-usługi,wsparcie użytkowników,obsługa spraw cyfrowych,procesy cyfrowe]
 opracowanie: Stefan Wajda
