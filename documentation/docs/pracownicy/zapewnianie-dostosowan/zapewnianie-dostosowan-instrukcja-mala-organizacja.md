@@ -1,5 +1,5 @@
 ---
-id: zapewnianie-dostosowan-instrukcja-mala-jednostka
+id: zapewnianie-dostosowan-instrukcja-mala-organizacja
 title: Wzór instrukcji dla pracowników (mała organizacja)
 description: Przykładowa instrukcja dla użytkownika 
 sidebar_label: Wzór instrukcji  (mała organizacja)

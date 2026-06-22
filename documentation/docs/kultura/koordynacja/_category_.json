@@ -2,6 +2,7 @@
   "label": "Koordynacja",
   "position": 4,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+	"description": "Zapewnienie dostępności cyfrowej wymaga skutecznej koordynacji działań realizowanych przez wiele ról, procesów i jednostek organizacyjnych. Zalecenie wraz z zestawem załączników pomaga organizacjom publicznym określić sposób organizacji funkcji koordynacyjnej, zakres odpowiedzialności koordynatora dostępności oraz zasady współpracy pomiędzy uczestnikami systemu zapewniania dostępności. Wspiera monitorowanie realizacji działań, rozwiązywanie problemów organizacyjnych oraz zapewnienie spójności działań prowadzonych w różnych obszarach organizacji. Dzięki temu dostępność cyfrowa może być zarządzana jako wspólne zadanie całej organizacji."
   }
 }

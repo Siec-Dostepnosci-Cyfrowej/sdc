@@ -1,7 +1,8 @@
 {
   "label": "Programy szkoleniowe",
-  "position": 4,
+  "position": 13,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+	"description": "Projekt dotyczy organizacji szkoleń dla pracowników odpowiedzialnych za wsparcie osób z niepełnosprawnościami. Obejmuje zagadnienia związane z rozwijaniem świadomości niepełnosprawności, zasad komunikacji i obsługi osób z niepełnosprawnościami, wykorzystaniem technologii wspomagających oraz stosowaniem strategii adaptacyjnych. Projekt zawiera propozycje dotyczące planowania, realizacji, monitorowania i doskonalenia działań szkoleniowych wspierających rozwój kompetencji pracowników realizujących zadania związane ze wsparciem użytkowników."
   }
 }

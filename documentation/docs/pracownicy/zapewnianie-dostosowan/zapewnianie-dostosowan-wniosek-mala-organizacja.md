@@ -1,6 +1,6 @@
 ---
-id: zapewnianie-dostosowan-formularz-mala-jednostka
-title: Wzór wniosku o zapewnienie dostosowań lub usprawnień w środowisku pracy cyfrowej 
+id: zapewnianie-dostosowan-wniosek-mala-organizacja
+title: Wzór wniosku o dostosowanie lub racjonalne usprawnienie cyfrowe (mała organizacja)
 description: Przykład struktury i treści wniosku o dostosowanie / racjonalne usprawnienie cyfrowe
 sidebar_label: Wzór wniosku (mała organizacja)
 sidebar_position: 8 
@@ -13,8 +13,6 @@ wersja_robocza: true
 ---
 
 
-
-*(dla małych jednostek sektora publicznego)*
 
 :::warning Uwaga
 

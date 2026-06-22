@@ -1,6 +1,6 @@
 ---
 id: zapewnianie-dostosowan-lista-kontrolna
-title: Lista kontrolna  o dostosowanie / racjonalne usprawnienie cyfrowe
+title: Lista kontrolna realizacji wniosku o dostosowanie / racjonalne usprawnienie cyfrowe
 description: Lista kontrolna dla oceniających proces zapewniania pracownikom dostosowań i racjonalnych usprawnień cyfrowych
 sidebar_label: Lista kontrolna
 sidebar_position: 11 

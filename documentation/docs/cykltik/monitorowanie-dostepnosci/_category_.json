@@ -3,5 +3,6 @@
   "position": 20,
   "link": {
     "type": "generated-index"
+	"description": "Opis dobrej praktyki przedstawia wykorzystanie narzędzi analitycznych do monitorowania korzystania przez użytkowników z wybranych funkcji ułatwień dostępu dostępnych na stronach internetowych i w aplikacjach. Materiał obejmuje organizację projektu analitycznego, dobór monitorowanych wskaźników, konfigurację narzędzi pomiarowych oraz wykorzystanie wyników do raportowania i wspierania decyzji dotyczących rozwoju dostępności cyfrowej. Rozwiązanie umożliwia pozyskiwanie danych o sposobach korzystania z wybranych funkcji dostępności oraz ich wykorzystanie w procesach zarządczych i doskonalących."
   }
 }

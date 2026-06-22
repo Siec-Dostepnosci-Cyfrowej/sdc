@@ -1,6 +1,6 @@
 ---
-id: zapewnianie-dostosowan-formularz-duza-jednostka
-title: Wzór wniosku o zapewnienie dostosowań lub usprawnień w środowisku pracy cyfrowej 
+id: zapewnianie-dostosowan-wniosek-duza-organizacja
+title: Wzór wniosku o dostosowanie lub racjonalne usprawnienie cyfrowe (duża organizacja)
 description: Przykład struktury i treści wniosku o dostosowanie / racjonalne usprawnienie cyfrowe
 sidebar_label: Wzór wniosku (duża organizacja)
 sidebar_position: 7 
@@ -14,7 +14,13 @@ wersja_robocza: true
 
 
 
-*(wersja dla dużej organizacji publicznej)*
+
+:::warning Uwaga
+
+Poniższy wzór przedstawia przykładową treść wniosku. Do użytku praktycznego należy przygotować wniosek w dostępnym formacie cyfrowym.
+
+::: 
+
 
 ## A. Dane osoby składającej wniosek
 

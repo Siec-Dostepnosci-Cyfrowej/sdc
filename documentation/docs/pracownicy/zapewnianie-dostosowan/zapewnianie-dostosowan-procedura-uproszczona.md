@@ -1,6 +1,6 @@
 ---
 id: zapewnianie-dostosowan-procedura-uproszczona
-title: Projekt procedury zapewniania pracownikom dostosowań i racjonalnych usprawnień cyfrowych
+title: Uproszczona procedura zapewniania pracownikom dostosowań i usprawnień cyfrowych
 description: Uproszczona procedura zapewniania pracownikom dostosowań i usprawnień cyfrowych
 sidebar_label: Uproszczona procedura
 sidebar_position: 4 
@@ -12,7 +12,7 @@ opracowanie: Stefan Wajda
 wersja_robocza: true
 ---
 
-*Uproszczona procedura zapewniania pracownikom dostosowań i usprawnień cyfrowych*
+
 *(wersja dla małych jednostek sektora publicznego)*
 
 ## 1. Cel i zakres

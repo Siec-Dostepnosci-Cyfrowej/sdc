@@ -1,5 +1,5 @@
 ---
-id: zapewnianie-dostosowan-instrukcja-duza-jednostka
+id: zapewnianie-dostosowan-instrukcja-duza-organizacja
 title: Wzór instrukcji dla pracowników (duża organizacja)
 description: Przykładowa instrukcja dla użytkownika 
 sidebar_label: Wzór instrukcji  (duża organizacja)
