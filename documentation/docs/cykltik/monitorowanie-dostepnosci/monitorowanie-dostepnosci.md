@@ -1,8 +1,8 @@
 ---
 id: monitorowanie-dostepnosci
-title: Monitorowanie użycia funkcji ułatwień dostępu na stronie internetowej
+title: Monitorowanie użycia funkcji dostępności na stronie internetowej
 description: Dobra praktyka monitorowania wykorzystania wybranych funkcji ułatwień dostępu przez użytkowników.
-sidebar_label: Monitorowanie ułatwień dostępu
+sidebar_label: Monitorowanie dostępności
 sidebar_position: 1 
 keywords: [dostepność cyfrowa, cykl życia TiK, ułatwienia dostępności]
 tags: [dostepność cyfrowa, cykl życia TiK, ułatwienia dostępności]

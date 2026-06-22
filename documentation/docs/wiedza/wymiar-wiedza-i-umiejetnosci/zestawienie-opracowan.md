@@ -5,12 +5,11 @@ sidebar_label: Zestawienie opracowań
 sidebar_position: 5
 opracowanie: Stefan Wajda
 data_zgloszenia: 7 czerwca 2026 r.
-ostatnia_aktualizacja: 7 czerwca 2026 r.
+ostatnia_aktualizacja: 20 czerwca 2026 r.
 wersja_robocza: true
 ---
 
-
-## Zarządzanie kompetencjami
+## 🟠❓ Zarządzanie kompetencjami
 
 **Opracowanie**: Stefan Wajda 
 
@@ -18,17 +17,19 @@ Projekt obejmuje zalecenie oraz zestaw dokumentów poświęconych rozwojowi komp
 
 **Zawiera**
 
-- Zalecenie: Zarządzanie kwalifikacjami pracowników i kompetencjami organizacji w zakresie dostępności cyfrowej
-- Załącznik: Organizacja systemu wsparcia kompetencyjnego
-- Załącznik: Biblioteka dostępności
-- Załącznik: Organizacja onboardingu pracowników w zakresie dostępności cyfrowej
-- Załącznik: Analiza luk kwalifikacyjnych i organizacyjnych
-- Załącznik: Matryca ról, kwalifikacji i wsparcia kompetencyjnego
-- Załącznik: Wykorzystanie mikropoświadczeń w systemie wsparcia kompetencyjnego
+1. Zalecenie: **Zarządzanie kwalifikacjami pracowników i kompetencjami organizacji w zakresie dostępności cyfrowej**
+2. Załącznik: Organizacja systemu wsparcia kompetencyjnego
+3. Załącznik: Biblioteka dostępności
+4. Załącznik: Organizacja onboardingu pracowników w zakresie dostępności cyfrowej
+5. Załącznik: Analiza luk kwalifikacyjnych i organizacyjnych
+6. Załącznik: Matryca ról, kwalifikacji i wsparcia kompetencyjnego
+7. Załącznik: Wykorzystanie mikropoświadczeń w systemie wsparcia kompetencyjnego
 
 **Status**: do decyzji
 
-## Centrum Kompetencji Dostępności Cyfrowej
+---
+
+## ✅ Centrum Kompetencji Dostępności Cyfrowej
 
 **Opracowanie**: Stefan Wajda 
 
@@ -36,40 +37,40 @@ Dezyderat proponuje utworzenie Centrum Kompetencji Dostępności Cyfrowej (CKDC)
 
 **Zawiera**
 
-- **Dezyderat Sieci Dostępności Cyfrowej w sprawie powołania Centrum Kompetencji Dostępności Cyfrowej**
-- Koncepcja Centrum Kompetencji Dostępności Cyfrowej
-- Polityka certyfikacji Centrum Kompetencji Dostępności Cyfrowej (CKDC)
-- Procedura akredytacji ośrodków szkoleniowych Centrum Kompetencji Dostępności Cyfrowej (CKDC)
-- Projekt mikropoświadczenia: Twórca dostępnych dokumentów Word i PowerPoint
-- Projekt mikropoświadczenia: Projektant / Twórca dostępnych formularzy PDF
-- Projekt mikropoświadczenia: Tester / Audytor dostępności dokumentów PDF
-- Projekt mikropoświadczenia: Redaktor dostępnych treści internetowych
-- Projekt mikropoświadczenia: Redaktor dostępnych treści internetowych (poziom średniozaawansowany)
-- Projekt mikropoświadczenia: Administrator lub redaktor serwisu zapewniający dostępność techniczną
-- Projekt mikropoświadczenia: Specjalista ds. zakupów dostępnych produktów i usług cyfrowych
-- Projekt mikropoświadczenia: Koordynator ds. dostępności cyfrowej
-- Projekt mikropoświadczenia: Twórca dostępnych treści WWW
-- Projekt mikropoświadczenia: Redaktor dostępnych treści WWW do opracowania
-- Projekt mikropoświadczenia: Redaktor dostępnych treści e-learningowych
-- Projekt mikropoświadczenia: Projektant publikacji cyfrowych w InDesign / ePUB
-- Projekt mikropoświadczenia: Składacz dostępnych publikacji w InDesign	
-- Projekt mikropoświadczenia: Tester treści internetowych
-- Projekt mikropoświadczenia: Tester funkcjonalności i nawigacji serwisów WWW
-- Projekt mikropoświadczenia: Operator automatycznych testów dostępności
-- Projekt mikropoświadczenia: Analityk błędów dostępności
-- Projekt mikropoświadczenia: Audytor techniczny dostępności serwisów WWW
-- Projekt mikropoświadczenia: Audytor dostępności aplikacji internetowych
-- Projekt mikropoświadczenia: Tester obsługi strony WWW za pomocą czytnika ekranu
-- Projekt mikropoświadczenia: Tester obsługi złożonych komponentów strony	
-- Projekt mikropoświadczenia: Osoba przeprowadzająca proste wstępne testy dostępności (Easy Check)
-- Projekt mikropoświadczenia: Specjalista ds. zapewniania dostępności dokumentów cyfrowych
-- Projekt mikropoświadczenia: Ekspert / Konsultant ds. dostępnych dokumentów cyfrowych
-- Wzory formularzy walidacyjnych i raportów oceny
-- Wzory dokumentów dla kandydatów
-- Instrukcja rejestracji i publikacji mikropoświadczeń CKDC w systemie Europass Digital Credentials (EDC)
-- Instrukcja stosowania identyfikatorów i metadanych CKDC
-- Procedura aktualizacji i przeglądu mikropoświadczeń CKDC
-- Wykaz mikropoświadczeń CKDC – tabela bazowa (wersja robocza)
+1. **Dezyderat Sieci Dostępności Cyfrowej w sprawie powołania Centrum Kompetencji Dostępności Cyfrowej**
+2. Koncepcja Centrum Kompetencji Dostępności Cyfrowej
+3. Polityka certyfikacji Centrum Kompetencji Dostępności Cyfrowej (CKDC)
+4. Procedura akredytacji ośrodków szkoleniowych Centrum Kompetencji Dostępności Cyfrowej (CKDC)
+5. Projekt mikropoświadczenia: Twórca dostępnych dokumentów Word i PowerPoint
+6. Projekt mikropoświadczenia: Projektant / Twórca dostępnych formularzy PDF
+7. Projekt mikropoświadczenia: Tester / Audytor dostępności dokumentów PDF
+8. Projekt mikropoświadczenia: Redaktor dostępnych treści internetowych
+9. Projekt mikropoświadczenia: Redaktor dostępnych treści internetowych (poziom średniozaawansowany)
+10. Projekt mikropoświadczenia: Administrator lub redaktor serwisu zapewniający dostępność techniczną
+11. Projekt mikropoświadczenia: Specjalista ds. zakupów dostępnych produktów i usług cyfrowych
+12. Projekt mikropoświadczenia: Koordynator ds. dostępności cyfrowej
+13. Projekt mikropoświadczenia: Twórca dostępnych treści WWW
+14. Projekt mikropoświadczenia: Redaktor dostępnych treści WWW do opracowania
+15. Projekt mikropoświadczenia: Redaktor dostępnych treści e-learningowych
+16. Projekt mikropoświadczenia: Projektant publikacji cyfrowych w InDesign / ePUB
+17. Projekt mikropoświadczenia: Składacz dostępnych publikacji w InDesign	
+18. Projekt mikropoświadczenia: Tester treści internetowych
+19. Projekt mikropoświadczenia: Tester funkcjonalności i nawigacji serwisów WWW
+20. Projekt mikropoświadczenia: Operator automatycznych testów dostępności
+21. Projekt mikropoświadczenia: Analityk błędów dostępności
+22. Projekt mikropoświadczenia: Audytor techniczny dostępności serwisów WWW
+23. Projekt mikropoświadczenia: Audytor dostępności aplikacji internetowych
+24. Projekt mikropoświadczenia: Tester obsługi strony WWW za pomocą czytnika ekranu
+25. Projekt mikropoświadczenia: Tester obsługi złożonych komponentów strony	
+26. Projekt mikropoświadczenia: Osoba przeprowadzająca proste wstępne testy dostępności (Easy Check)
+27. Projekt mikropoświadczenia: Specjalista ds. zapewniania dostępności dokumentów cyfrowych
+28. Projekt mikropoświadczenia: Ekspert / Konsultant ds. dostępnych dokumentów cyfrowych
+29. Wzory formularzy walidacyjnych i raportów oceny
+30. Wzory dokumentów dla kandydatów
+31. Instrukcja rejestracji i publikacji mikropoświadczeń CKDC w systemie Europass Digital Credentials (EDC)
+32. Instrukcja stosowania identyfikatorów i metadanych CKDC
+33. Procedura aktualizacji i przeglądu mikropoświadczeń CKDC
+34. Wykaz mikropoświadczeń CKDC – tabela bazowa (wersja robocza)
 
 **Status**: przyjąć z uwagami:
 
@@ -84,7 +85,9 @@ Usunąć z projektu projekty mikropoświadczeń, nowsza pełniejsza wersja zosta
 
 :::
 
-## Repozytorium wiedzy
+---
+
+## ✅ Repozytorium wiedzy
 
 **Opracowanie**: Marek Pietras, Stefan Wajda, Jacek Zadrożny 
 
@@ -92,14 +95,16 @@ Projekt dezyderatu proponuje utworzenie oficjalnego portalu wiedzy o dostępnoś
 
 **Zawiera**:
 
-- Dezyderat: **Utworzenie oficjalnego, otwartego portalu wiedzy o dostępności cyfrowej wraz z repozytorium źródeł i interpretacji**
+1. Dezyderat: **Utworzenie oficjalnego, otwartego portalu wiedzy o dostępności cyfrowej wraz z repozytorium źródeł i interpretacji**
 
 **Status**: przyjąć z uwagami:
 
 - Istnieje już serwis Ministerstwa Cyfryzacji poświęcony dostępności cyfrowej (https://www.gov.pl/web/dostepnosc-cyfrowa), dlatego tworzenie odrębnej strony nie jest zasadne.
 - przeredagować,  zamiast tworzenia nowej strony postulować przegląd i uzupełnienie istniejącego serwisu MC (https://www.gov.pl/web/dostepnosc-cyfrowa) o brakujące treści (repozytorium wiedzy), wskazać zakres braków oraz mechanizm współpracy z MC.
 
-### Publiczny katalog mikropoświadczeń
+---
+
+## ✅ Publiczny katalog mikropoświadczeń
 
 **Opracowanie**: Stefan Wajda
 
@@ -107,45 +112,47 @@ Dezyderat proponuje utworzenie Publicznego Katalogu Mikropoświadczeń Kompetenc
 
 **Zawiera**:
 
-- **Dezyderat w sprawie Utworzenia Publicznego Katalogu Mikropoświadczeń Kompetencji w zakresie dostępności cyfrowej**
-- Załącznik: Struktura pojedynczego mikropoświadczenia (wzór)
-- Załącznik: Zasady przyznawania mikropoświadczeń kompetencji w zakresie dostępności cyfrowej
-- Załącznik: Minimalny model kompetencji organizacji w zakresie dostępności cyfrowej (wersja rozszerzona)
-- Załącznik: Mapa RACI dla systemu zapewniania dostępności cyfrowej
-- Projekt mikropoświadczenia: Osoba przeprowadzająca proste wstępne testy dostępności
-- Projekt mikropoświadczenia: Twórca dostępnych dokumentów tekstowych
-- Projekt mikropoświadczenia: Weryfikator dostępności dokumentów tekstowych
-- Projekt mikropoświadczenia: Tester dostępnych dokumentów tekstowych
-- Projekt mikropoświadczenia: Twórca dostępnych treści internetowych
-- Projekt mikropoświadczenia: Weryfikator dostępności treści internetowych
-- Projekt mikropoświadczenia: Tester dostępności treści internetowych
-- Projekt mikropoświadczenia: Redaktor dostępnych treści internetowych
-- Projekt mikropoświadczenia: Twórca dostępnych dokumentów PDF
-- Projekt mikropoświadczenia: Tester dostępności dokumentów PDF
-- Projekt mikropoświadczenia: Twórca dostępnych multimediów
-- Projekt mikropoświadczenia: Weryfikator dostępności multimediów
-- Projekt mikropoświadczenia: Redaktor dostępnych treści multimedialnych
-- Projekt mikropoświadczenia: Projektant dostępnych publikacji cyfrowych (PDF / ePUB)
-- Projekt mikropoświadczenia: Składacz dostępnych publikacji cyfrowych (PDF / ePUB)
-- Projekt mikropoświadczenia: Redaktor dostępnych treści e-learningowych
-- Projekt mikropoświadczenia: Projektodawca lub właściciel produktu zapewniający dostępność cyfrową
-- Projekt mikropoświadczenia: Osoba prowadząca inwentaryzację zasobów cyfrowych
-- Projekt mikropoświadczenia: Specjalista ds. naprawy dostępności (remediacji)
-- Projekt mikropoświadczenia: Administrator serwisu zapewniający dostępność techniczną
-- Projekt mikropoświadczenia: Operator automatycznych testów dostępności
-- Projekt mikropoświadczenia: Analityk błędów dostępności
-- Projekt mikropoświadczenia: Audytor dostępności serwisów WWW
-- Projekt mikropoświadczenia: Specjalista ds. dostępnych zakupów produktów i usług cyfrowych
-- Projekt mikropoświadczenia: Specjalista ds. zgodności dostępności cyfrowej
-- Projekt mikropoświadczenia: Specjalista ds. kadr wspierający dostępność cyfrową
-- Projekt mikropoświadczenia: Koordynator dostępności cyfrowej
-- Projekt mikropoświadczenia: Kierownictwo zapewniające dostępność cyfrową
-- Projekt mikropoświadczenia: Tester dostępności multimediów
+1. **Dezyderat w sprawie Utworzenia Publicznego Katalogu Mikropoświadczeń Kompetencji w zakresie dostępności cyfrowej**
+2. Załącznik: Struktura pojedynczego mikropoświadczenia (wzór)
+3. Załącznik: Zasady przyznawania mikropoświadczeń kompetencji w zakresie dostępności cyfrowej
+4. Załącznik: Minimalny model kompetencji organizacji w zakresie dostępności cyfrowej (wersja rozszerzona)
+5. Załącznik: Mapa RACI dla systemu zapewniania dostępności cyfrowej
+6. Projekt mikropoświadczenia: Osoba przeprowadzająca proste wstępne testy dostępności
+7. Projekt mikropoświadczenia: Twórca dostępnych dokumentów tekstowych
+8. Projekt mikropoświadczenia: Weryfikator dostępności dokumentów tekstowych
+9. Projekt mikropoświadczenia: Tester dostępnych dokumentów tekstowych
+10. Projekt mikropoświadczenia: Twórca dostępnych treści internetowych
+11. Projekt mikropoświadczenia: Weryfikator dostępności treści internetowych
+12. Projekt mikropoświadczenia: Tester dostępności treści internetowych
+13. Projekt mikropoświadczenia: Redaktor dostępnych treści internetowych
+14. Projekt mikropoświadczenia: Twórca dostępnych dokumentów PDF
+15. Projekt mikropoświadczenia: Tester dostępności dokumentów PDF
+16. Projekt mikropoświadczenia: Twórca dostępnych multimediów
+17. Projekt mikropoświadczenia: Weryfikator dostępności multimediów
+18. Projekt mikropoświadczenia: Redaktor dostępnych treści multimedialnych
+19. Projekt mikropoświadczenia: Projektant dostępnych publikacji cyfrowych (PDF / ePUB)
+20. Projekt mikropoświadczenia: Składacz dostępnych publikacji cyfrowych (PDF / ePUB)
+21. Projekt mikropoświadczenia: Redaktor dostępnych treści e-learningowych
+22. Projekt mikropoświadczenia: Projektodawca lub właściciel produktu zapewniający dostępność cyfrową
+23. Projekt mikropoświadczenia: Osoba prowadząca inwentaryzację zasobów cyfrowych
+24. Projekt mikropoświadczenia: Specjalista ds. naprawy dostępności (remediacji)
+25. Projekt mikropoświadczenia: Administrator serwisu zapewniający dostępność techniczną
+26. Projekt mikropoświadczenia: Operator automatycznych testów dostępności
+27. Projekt mikropoświadczenia: Analityk błędów dostępności
+28. Projekt mikropoświadczenia: Audytor dostępności serwisów WWW
+29. Projekt mikropoświadczenia: Specjalista ds. dostępnych zakupów produktów i usług cyfrowych
+30. Projekt mikropoświadczenia: Specjalista ds. zgodności dostępności cyfrowej
+31. Projekt mikropoświadczenia: Specjalista ds. kadr wspierający dostępność cyfrową
+32. Projekt mikropoświadczenia: Koordynator dostępności cyfrowej
+33. Projekt mikropoświadczenia: Kierownictwo zapewniające dostępność cyfrową
+34. Projekt mikropoświadczenia: Tester dostępności multimediów
 
 
 **Status**: Do decyzji
 
-## Organizacja wsparcia dostępności
+---
+
+## ✅ Organizacja wsparcia dostępności
 
 Rozwój kompetencji i zapewnienie bieżącego wsparcia w zakresie dostępności cyfrowej wymaga w dużych organizacjach odpowiednich mechanizmów współpracy i wymiany wiedzy. Zalecenie pomaga dużym i bardzo dużym podmiotom publicznym organizować system wsparcia oparty na liderach dostępności, społecznościach praktyków lub modelach mieszanych dostosowanych do struktury i potrzeb organizacji. Wspiera rozwój kompetencji pracowników, upowszechnianie wiedzy, rozwiązywanie problemów oraz budowanie trwałej kultury organizacyjnej wspierającej dostępność cyfrową.
 
@@ -153,37 +160,41 @@ Rozwój kompetencji i zapewnienie bieżącego wsparcia w zakresie dostępności 
 
 **Zawiera**:
 
-- zalecenie: **Organizacja wsparcia dostępności cyfrowej w dużych i bardzo dużych podmiotach publicznych**
+1. Zalecenie: **Organizacja wsparcia dostępności cyfrowej w dużych i bardzo dużych podmiotach publicznych**
 
 **Status**: Włączyć do dokumentu końcowego. Rozważyć przeredagowanie na załącznik do zalecenia „Zarządzanie kompetencjami”.
 
+---
 
-## Liderzy dostępności
+## 🔴❌ Liderzy dostępności
 
 **Opracowanie**: Anna Dybiec
 
 Projekt zalecenia poprawnie przygotowany, spełnia kryteria jakościowe. Jednak jego zakres tematyczny jest objęty  szerszym zaleceniem, które kompleksowo reguluje tę problematykę. W celu zachowania spójności dokumentu końcowego oraz uniknięcia powielania treści rekomenduje się odrzucenie projektu jako odrębnego zalecenia.
 
-- zalecenie: **„Liderzy dostępności”**
+1. zalecenie: **„Liderzy dostępności”**
 
 **Status**: Zamknięty, zastąpiony projektem „Organizacja wsparcia dostępności”.
 
-## Okresowa ocena wiedzy
+---
+
+## ✅ Okresowa ocena wiedzy
 
 **Opracowanie**: Stefan Wajda
 
 Projekt opisuje dobrą praktykę okresowej oceny wiedzy i umiejętności pracowników w zakresie dostępności cyfrowej oraz zawiera materiały umożliwiające jej zastosowanie. Rozwiązanie wspiera planowanie działań rozwojowych, ocenę skuteczności szkoleń oraz monitorowanie poziomu kompetencji związanych z zapewnianiem dostępności cyfrowej w organizacji.
 
-
 **Zawiera**:
 
-- Opis praktyki: Praktyka realizowana na Uniwersytecie Stanowym w Waszyngtonie,
-- Baza pytań: Czym jest dostępność cyfrowa?
-- Zestaw materiałów: Nagłówki, Łącza, Listy, Obrazy, Kolor i kontrast kolorów, Tabele, Audio i wideo, Słowniczek
+1. Opis praktyki: Praktyka realizowana na Uniwersytecie Stanowym w Waszyngtonie,
+2. Baza pytań: Czym jest dostępność cyfrowa?
+3. Zestaw materiałów: Nagłówki, Łącza, Listy, Obrazy, Kolor i kontrast kolorów, Tabele, Audio i wideo, Słowniczek
 
-**Status**: Do decyzji
+**Status**: Do decyzji. Projekt należy przpisać do wymiaru „Pracownicy” („Personel”)
 
-## Alert dostępności
+---
+
+## 🔴❌ Alert dostępności
 
 **Opracowanie**: Artur Marcinkowski
 
@@ -191,12 +202,13 @@ Projekt proponuje wprowadzenie przycisku „Alert dostępności” jako jednolit
 
 **Zawiera**:
 
-- Zalecenie: **Przycisk „Alert dostępności”**,
+1. Zalecenie: **Przycisk „Alert dostępności”**,
 
 **Status**: Projekt został wykorzystany w projekcie zalecenia: [Pozyskiwanie opinii](https://siec-dostepnosci-cyfrowej.github.io/sdc/docs/category/pozyskiwanie-opinii)
 
+---
 
-## Adaptacja nowych pracowników
+## ✅ Adaptacja nowych pracowników
 
 **Opracowanie**: Katarzyna Granda. Współpraca: Stefan Wajda 
 
@@ -204,16 +216,11 @@ Zapewnienie ciągłości kompetencji w zakresie dostępności cyfrowej wymaga uw
 
 **Zawiera**:
 
-- Zalecenie: **„Dostępność cyfrowa” w adaptacji nowo zatrudnionych pracowników**
-- Dobra praktyka: Procedura przyjęcia nowego pracownika (Starostwo Pszczyna)
-- Dobra praktyka: Adaptacja zawodowa nowych pracowników (UMWM)
+1. Zalecenie: **„Dostępność cyfrowa” w adaptacji nowo zatrudnionych pracowników**
+2. Dobra praktyka: Procedura przyjęcia nowego pracownika (Starostwo Pszczyna)
+3. Dobra praktyka: Adaptacja zawodowa nowych pracowników (UMWM)
 
 **Status**: przyjąć z uwagami:
 
 - uzupełnić ostatnie zdanie Uzasadnienia wskazaniem, w jaki sposób opisana kwestia wpływa na prawidłową realizację obowiązków podmiotu publicznego w zakresie zapewniania dostępności cyfrowej.
-
-:::danger Uwaga
-
-Projekt należy przpisać do wymiaru „Pracownicy” („Personel”)
-
-:::
+- przenieść do dokumentów dotyczących wymaiaru Pracownicy (np. jako załącznik zalecenia dot. wdrażania do pracy)
