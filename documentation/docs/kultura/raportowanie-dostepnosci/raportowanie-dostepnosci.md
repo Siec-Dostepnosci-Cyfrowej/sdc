@@ -1,22 +1,25 @@
 ---
 id: raportowanie-dostepnosci 
 title: Informowanie i raportowanie w zakresie dostępności cyfrowej do celów decyzji zarządczych
-description: (...)
+description: Dobra praktyka raportowania informacji o dostępności cyfrowej na potrzeby decyzji zarządczych.
 sidebar_label: Raportowanie dostępności
 sidebar_position: 1 
 keywords: [dostepność cyfrowa, kultura i zarządzanie, raportowanie, dobra praktyka]
 tags: [dostepność cyfrowa, kultura i zarządzanie, raportowanie, dobra praktyka]
 data_zgloszenia: 27 lutego 2026 r.
-ostatnia_aktualizacja: 27 lutego 2026 r.
+ostatnia_aktualizacja: 22 czerwca 2026 r.
 opracowanie: Marcin Adamski
 wersja_robocza: true
 ---
 ## Metryczka
+
 - **Podmiot realizujący:** Urząd m.st. Warszawy
 - **Zgłaszający:** Marcin Adamski 
 - **Wymiar:** Zarządzanie i kultura
 - **Kontakt:** madamski@um.warszawa.pl
+
 ---
+
 ## Cel
 Zapewnienie zarządowi operacyjnemu oraz kadrze kierowniczej rzetelnych, terminowych i zrozumiałych informacji niezbędnych do podejmowania decyzji w czterech kluczowych obszarach:
 
