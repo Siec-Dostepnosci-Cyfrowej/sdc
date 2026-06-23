@@ -12,7 +12,7 @@ data_aktualizacji: 23 czerwca 2026
 wersja_robocza: true
 ---
 
-# Załącznik nr 3 do Zalecenia w sprawie systemowego rozwiązywania problemów dostępności cyfrowej
+**Załącznik nr 4 do Zalecenia w sprawie systemowego rozwiązywania problemów dostępności cyfrowej**
 
 ## 1. Cel
 
