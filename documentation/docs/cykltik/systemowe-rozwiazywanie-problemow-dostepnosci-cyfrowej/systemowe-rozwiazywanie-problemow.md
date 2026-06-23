@@ -8,7 +8,7 @@ keywords: [rozwiązanie systemowe, cykl życia TIK]
 tags: [rozwiązanie systemowe, cykl życia TIK]
 opracowanie: Cezary Tomczyk
 data_zgloszenia: 30 marca 2026
-data_aktualizacji: 30 marca 2026
+data_aktualizacji: 23 czerwca 2026
 wersja_robocza: true
 ---
 
@@ -16,7 +16,9 @@ wersja_robocza: true
 
 Zapewnienie, że każda wykryta lub zgłoszona niezgodność z wymaganiami dostępności cyfrowej skutkuje jej terminową naprawą w ramach systemowego procesu zarządzania jakością.
 
-Celem jest eliminacja "długu dostępności" poprzez integrację testów i napraw z cyklem życia produktów i usług cyfrowych - zarówno realizowanych wewnętrznie, jak i przez podmioty zewnętrzne.
+Celem jest ograniczanie "długu dostępności" poprzez integrację testów i napraw z cyklem życia produktów i usług cyfrowych, zarówno realizowanych wewnętrznie, jak i przez podmioty zewnętrzne.
+
+"Dług dostępności" to nagromadzone, odłożone na później błędy i niezgodności w dostępności cyfrowej, które wymagają usunięcia w przyszłości, a których odwlekanie zwiększa ryzyko prawne, wizerunkowe oraz koszty utrzymania i rozwoju usług cyfrowych.
 
 ## Zalecenie
 
@@ -27,16 +29,17 @@ Organizacja zapewnia ciągłą zdolność realizacji procesu naprawczego poprzez
 ## Rekomendacje
 
 ### 1. Uruchamianie procesu naprawczego
-**10. Nadzór kierownictwa**
 
 Kierownictwo organizacji zapewnia nadzór nad funkcjonowaniem systemu zarządzania problemami dostępności poprzez:
+
 - okresowe przeglądy danych o problemach i czasie ich naprawy,  
 - podejmowanie decyzji dotyczących działań usprawniających.
+
 Każdy problem dostępności:
 
-- wykryta w wyniku monitoringu automatycznego, testów manualnych lub audytu,
-- zgłoszona przez użytkownika (w trybie żądania zapewnienia dostępności lub opinii),
-- zgłoszona przez pracownika organizacji,
+- wykryty w wyniku monitoringu automatycznego, testów manualnych lub audytu,
+- zgłoszony przez użytkownika (w trybie żądania zapewnienia dostępności lub opinii),
+- zgłoszony przez pracownika organizacji,
 
 skutkuje automatycznym uruchomieniem procesu naprawczego poprzez rejestrację zgłoszenia w rejestrze problemów (np. w systemie zgłoszeń lub innym narzędziu do planowania pracy).
 
@@ -50,15 +53,17 @@ Organizacja zapewnia, że błędy dostępności:
 
 ### 3. Priorytety i czasy naprawy (SLA)
 
-Podmiot stosuje następującą klasyfikację niezgodności:
+Organizacja stosuje **jednolity model klasyfikacji, priorytetyzacji i obsługi błędów dostępności**, określony w **Załączniku nr 4**.
 
-| Priorytet | Opis | Przykład |
-| :--- | :--- | :--- |
-| **Krytyczny** | Uniemożliwia skorzystanie z usługi. | Brak obsługi klawiaturą, pułapka klawiaturowa, brak etykiet w formularzu logowania. |
-| **Istotny** | Znacznie utrudnia korzystanie z usługi, ale istnieje alternatywna (trudniejsza) droga. | Błędy wpływające na nawigację, interakcję lub zrozumienie treści, zbędne komunikaty. |
-| **Niski** | Błędy, które nie wpływają na możliwość skorzystania z usługi ani na zrozumienie treści. | Drobne błędy w kodzie niedostrzegalne dla użytkownika. |
+Model ten:
 
-Podmiot określa maksymalne czasy naprawy, uwzględniając wpływ na użytkownika końcowego, a nie wyłącznie złożoność techniczną naprawy.
+- definiuje poziomy krytyczności,
+- określa zasady nadawania terminów naprawy,
+- opisuje sposób prowadzenia rejestru błędów,
+- określa cykl statusów i zasady eskalacji,
+- zapewnia powiązanie błędów z deklaracją dostępności.
+
+Podmiot określa maksymalne czasy naprawy w oparciu o poziom krytyczności i ryzyko użytkowe, a nie wyłącznie złożoność techniczną naprawy. Jeżeli naprawy są realizowane przez wykonawców zewnętrznych, czasy te stanowią element umów serwisowych (SLA).
 
 ### 4. Źródła identyfikacji problemów
 
@@ -66,7 +71,7 @@ Podmiot obejmuje procesem następujące źródła:
 
 - monitoring automatyczny,
 - testy manualne,
-- przeglądy,
+- przeglądy i audyty,
 - zgłoszenia użytkowników,
 - dane z deklaracji dostępności.  
 
@@ -142,9 +147,10 @@ Dostępność cyfrowa jest procesem ciągłym, zależnym od zmian w systemach in
 Brak dostępności kluczowych funkcji (np. formularzy, logowania, procesów wnioskowych) lub treści (np. niedostępne dokumenty PDF) może uniemożliwiać korzystanie z usług publicznych, co oznacza zarówno ryzyko naruszenia prawa, jak i realne wykluczenie części użytkowników.
 
 To zalecenie wprowadza mechanizm, w którym każde wykrycie lub zgłoszenie problemu stanowi jednoznaczny impuls do działania – uruchamiając proces naprawczy realizowany w ramach standardowych procesów wytwarzania i utrzymania systemów. Dzięki temu dostępność przestaje być wyłącznie przedmiotem diagnozy, a staje się elementem bieżącego zarządzania jakością usług cyfrowych.
-- PN-EN 301 549 Wymagania dotyczące dostępności produktów i usług ICT 
+
 ## Podstawy prawne
 
+- PN-EN 301 549 Wymagania dotyczące dostępności produktów i usług ICT 
 - [Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000848) (Dz.U. 2019 poz. 848 z późn. zm.).
 - [Norma EN 301 549 (wersja w języku angielskim)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf) – Wymagania dotyczące dostępności produktów i usług ICT.
 
@@ -157,3 +163,4 @@ To zalecenie wprowadza mechanizm, w którym każde wykrycie lub zgłoszenie prob
 1. [Organizacja i zadania zespołu odpowiedzialnego za naprawę problemów dostępności cyfrowej](organizacja-i-zadania-zespolu-naprawczego)
 2. [Wzorcowe zapisy dotyczące w umowie serwisowej](zapisy-w-umowie-serwisowej)
 3. [Zapisy dotyczące dostępności cyfrowej w umowie serwisowej (wariant dla małych jednostek)](zapisy-w-umowie-serwisowej-male-jst)
+4. [System klasyfikacji, priorytetyzacji i obsługi błędów dostępności](klasyfikacja-priorytetyzacja-i-obsluga-bledow)
