@@ -2,7 +2,7 @@
 id: systemowe-rozwiazywanie-problemow-dostepnosci-cyfrowej
 title: Systemowe rozwiązywanie problemów dostępności cyfrowej
 description: Uzasadnienie
-sidebar_label: Rozwiązywanie problemów
+sidebar_label: Zalecenie
 sidebar_position: 0
 keywords: [rozwiązanie systemowe, cykl życia TIK]
 tags: [rozwiązanie systemowe, cykl życia TIK]
@@ -150,9 +150,8 @@ To zalecenie wprowadza mechanizm, w którym każde wykrycie lub zgłoszenie prob
 
 ## Podstawy prawne
 
-- PN-EN 301 549 Wymagania dotyczące dostępności produktów i usług ICT 
+- [PN-ETSI EN 301 549 V3.2.1:2021-09 Wymagania dotyczące dostępności produktów i usług ICT](https://sklep.pkn.pl/pn-etsi-en-301-549-v3-2-1-2021-09p.html); wydanie w języku angielskim: [Norma EN 301 549](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf) – Wymagania dotyczące dostępności produktów i usług ICT.
 - [Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000848) (Dz.U. 2019 poz. 848 z późn. zm.).
-- [Norma EN 301 549 (wersja w języku angielskim)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf) – Wymagania dotyczące dostępności produktów i usług ICT.
 
 ## Źródła
 
