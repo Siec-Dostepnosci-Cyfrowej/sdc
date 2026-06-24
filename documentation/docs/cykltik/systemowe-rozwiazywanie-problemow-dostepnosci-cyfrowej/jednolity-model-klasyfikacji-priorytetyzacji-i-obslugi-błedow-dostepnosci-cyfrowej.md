@@ -65,25 +65,42 @@ Rejestr obejmuje błędy pochodzące z:
 - zgłoszeń pracowników,
 - deklaracji dostępności.
 
-Każdy wpis zawiera co najmniej:
+### Zawartość zgłoszenia
 
-- identyfikator,
-- datę wykrycia,
-- źródło,
-- lokalizację błędu,
-- opis i kroki reprodukcji,
-- środowisko testowe,
-- powiązane wymaganie dostępności,
-- poziom krytyczności,
-- zasięg,
-- odpowiedzialność,
-- termin naprawy (SLA i faktyczny),
-- status,
-- sposób weryfikacji,
-- datę udostępnienia naprawy,
-- powiązanie z deklaracją dostępności.
+#### Identyfikacja i kontekst
 
-Statusy obejmują m.in.: nowe, w analizie, zakwalifikowane do naprawy, w naprawie, w weryfikacji, zamknięte, odrzucone, oczekujące.
+- **unikalny identyfikator wpisu**,  
+- **data wykrycia lub otrzymania zgłoszenia**,  
+- **pochodzenie zgłoszenia** (monitoring automatyczny, test manualny, audyt, zgłoszenie użytkownika, zgłoszenie pracownika, deklaracja dostępności),  
+
+#### Lokalizacja i opis
+
+- **lokalizacja błędu** (adres URL oraz obszar interfejsu, którego dotyczy błąd, np. komponent, szablon),
+- **opis błędu**,  
+- **kroki reprodukcji** — opis czynności potrzebnych do powtórzenia błędu, zapisany w kolejności wykonywania (np. działania użytkownika, ustawienia),
+- **środowisko, w którym błąd został zaobserwowany** (przeglądarka, system operacyjny, urządzenie, technologia asystująca),  
+- **powiązane wymaganie lub zasada dostępności (jeśli dotyczy)** — wskazanie konkretnego kryterium sukcesu WCAG, wymagania EN 301 549 lub innej zasady/dobrej praktyki, której dotyczy błąd,
+- **powiązanie z deklaracją dostępności (jeśli dotyczy)**,
+
+#### Klasyfikacja i odpowiedzialność
+
+- **poziom krytyczności**,  
+- **zasięg** (pojedynczy widok, komponent wielokrotnego użytku, usługa kluczowa),  
+- **osoba lub zespół odpowiedzialny za naprawę**,  
+
+#### Terminy i status
+
+- **termin naprawy** (wynikający z zasad lub SLA, jeśli dotyczy),  
+- **termin faktyczny**,  
+- **status obsługi błędu**,  
+
+#### Weryfikacja i zamknięcie
+
+- **sposób weryfikacji naprawy** (test manualny, test automatyczny, inna metoda),  
+- **data udostępnienia naprawy użytkownikom**,  
+- **data zamknięcia wpisu**.
+
+Statusy obejmują m.in.: **nowe**, **w analizie**, **zakwalifikowane do naprawy**, **w naprawie**, **w weryfikacji**, **zamknięte**, **odrzucone**.
 
 ---
 
