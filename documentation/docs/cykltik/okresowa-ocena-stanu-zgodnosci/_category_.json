@@ -1,0 +1,8 @@
+{
+  "label": "Okresowa ocena stanu zgodności",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+	"description": "Zestaw dokumentów wspierający systematyczne budowanie i aktualizowanie wiedzy o stanie zgodności stron internetowych, aplikacji mobilnych i innych rozwiązań cyfrowych. Obejmuje zasady prowadzenia okresowych ocen, scenariusze badań, raportowanie wyników, raporty zgodności (ACR) oraz wykorzystanie zgromadzonych informacji do aktualizacji deklaracji dostępności, planowania działań naprawczych i zarządzania dostępnością cyfrową."
+  }
+}
