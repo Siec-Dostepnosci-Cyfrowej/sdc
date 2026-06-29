@@ -19,8 +19,8 @@ wersja_robocza: true
     - raporty z testów, w tym zastosowane metody badania, wykaz użytych narzędzi testowych oraz przebieg procesu audytu lub procesu audytu podwykonawcy, którego zaangażował do testów zewnętrznych.
     - szczegółowy raport z audytu zgodności z WCAG, VPAT, ACR (raport zgodności produktu), dowody testów z użyciem technologii wspomagających lub testów z grupami użytkowników z niepełnosprawnościami.\
     **Gdy produkt jest częściowo zgodny**, dostawca przedstawi również swój plan naprawienia niezgodności oraz w jaki sposób planuje testować i utrzymywać zgodność w przyszłości.
-2. **W-02. Wymagania dodatkowe. Dodatkowe wymagania mogą obejmować w szczególności wybrane kryteria sukcesu WCAG na poziomie AAA oraz inne wymagania określone przez nabywcę.**\
-   Dostawca opisze sposób spełnienia dodatkowych wymagań dostępności określonych w dokumentacji zamówienia oraz przedstawi informacje lub dowody potwierdzające możliwość ich spełnienia.\
+2. **W-02. Wymagania dodatkowe. Dostawca opisze sposób spełnienia dodatkowych wymagań dostępności określonych w dokumentacji zamówienia oraz przedstawi informacje lub dowody potwierdzające możliwość ich spełnienia..**\
+Dodatkowe wymagania mogą obejmować w szczególności wybrane kryteria sukcesu WCAG na poziomie AAA oraz inne wymagania określone przez nabywcę.\   
    Na przykład może to dotyczyć wybranych kryteriów sukcesu WCAG na poziomie AAA, dodatkowych wymagań dotyczących personalizacji interfejsu użytkownika, rozszerzonego wsparcia technologii wspomagających, wymagań wynikających ze specyfiki usługi lub szczególnych potrzeb użytkowników.
 3. **W-03. Dostosowanie. Dostawca opisze możliwości dostosowania przez nabywcę motywów, graficznego interfejsu użytkownika i funkcjonalności.**\
    Dostawca określi, jaki wpływ na zgodność z wymogami dostępności mogą mieć dostosowania oraz w jaki sposób dostawca wspiera nabywcę w sprawdzaniu i łagodzeniu zagrożeń związanych z dostępnością dostosowań wprowadzanych podczas procesu wdrażania.\
