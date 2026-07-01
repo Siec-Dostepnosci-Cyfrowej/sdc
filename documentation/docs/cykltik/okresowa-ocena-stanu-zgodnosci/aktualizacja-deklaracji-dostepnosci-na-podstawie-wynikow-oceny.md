@@ -153,7 +153,7 @@ Aktualizacja deklaracji jest szczególnie zalecana po:
 - zakończeniu istotnych działań naprawczych,
 - przeprowadzeniu audytu zgodności,
 - wdrożeniu nowej wersji rozwiązania,
-- istotnej zmianie funkcjonalności rozwiązania,
+- zmianie funkcjonalności,
 - identyfikacji nowych problemów dostępności,
 - zmianie sposobu zapewniania dostępu alternatywnego,
 - zmianie technologii (CMS, hosting, moduły osadzone),
