@@ -137,6 +137,7 @@ Jeżeli raport zgodności wskazuje na brak wystarczających informacji pozwalaj�
 Organizacja dokumentuje:
 
 - datę przeglądu deklaracji,
+- osoby odpowiedzialne,
 - źródła informacji wykorzystane podczas przeglądu,
 - zakres zmian,
 - uzasadnienie pozostawienia deklaracji bez zmian, jeżeli taka decyzja została podjęta.
