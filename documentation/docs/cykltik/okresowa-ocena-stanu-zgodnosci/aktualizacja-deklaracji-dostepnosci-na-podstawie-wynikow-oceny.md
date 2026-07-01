@@ -148,7 +148,7 @@ Dokumentacja ta może stanowić część raportu zgodności.
 
 ## 8. Typowe sytuacje wymagające aktualizacji
 
-Aktualizacja deklaracji jest szczególnie zalecana po:
+Aktualizacja deklaracji jest obowiązkowa po:
 
 - przeprowadzeniu pierwszej okresowej oceny stanu zgodności,
 - zakończeniu działań naprawczych,
