@@ -143,7 +143,7 @@ Organizacja dokumentuje:
 - uzasadnienie pozostawienia deklaracji bez zmian,
 - powiązanie zmian z wynikami oceny.
 
-Dokumentacja ta może stanowić część raportu zgodności.
+Dokumentacja aktualizacji jest częścią ACR lub załącznikiem do ACR.
 
 ---
 
