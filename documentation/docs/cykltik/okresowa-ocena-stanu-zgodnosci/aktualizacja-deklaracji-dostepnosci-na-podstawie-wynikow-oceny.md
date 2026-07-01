@@ -169,7 +169,7 @@ Aktualizacja deklaracji jest szczególnie zalecana po:
 - Nie deklaruj zgodności wyłącznie na podstawie wyników pojedynczego testu lub badania automatycznego.
 - Dokumentuj powody wprowadzonych zmian.
 - Dokumentuj również przypadki pozostawienia deklaracji bez zmian.
-- Regularnie porównuj treść deklaracji z informacjami zawartymi w raporcie zgodności.
+- Zapewnij spójność deklaracji z wynikami oceny i monitoringiem.
 
 ---
 
