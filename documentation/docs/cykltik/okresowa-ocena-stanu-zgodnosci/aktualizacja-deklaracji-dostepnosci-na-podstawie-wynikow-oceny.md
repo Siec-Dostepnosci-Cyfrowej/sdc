@@ -150,7 +150,7 @@ Dokumentacja ta może stanowić część raportu zgodności.
 Aktualizacja deklaracji jest szczególnie zalecana po:
 
 - przeprowadzeniu pierwszej okresowej oceny stanu zgodności,
-- zakończeniu istotnych działań naprawczych,
+- zakończeniu działań naprawczych,
 - przeprowadzeniu audytu zgodności,
 - wdrożeniu nowej wersji rozwiązania,
 - zmianie funkcjonalności,
