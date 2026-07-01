@@ -138,7 +138,7 @@ Organizacja dokumentuje:
 
 - datę przeglądu deklaracji,
 - źródła informacji wykorzystane podczas przeglądu,
-- zakres wprowadzonych zmian,
+- zakres zmian,
 - uzasadnienie pozostawienia deklaracji bez zmian, jeżeli taka decyzja została podjęta.
 
 Dokumentacja ta może stanowić część raportu zgodności.
