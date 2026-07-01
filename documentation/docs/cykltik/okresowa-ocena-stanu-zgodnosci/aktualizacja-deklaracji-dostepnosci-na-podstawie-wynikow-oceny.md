@@ -21,7 +21,7 @@ Celem jest zapewnienie, aby deklaracje dostępności:
 - były aktualne (zgodne z art. 11 ustawy o dostępności cyfrowej),
 - odzwierciedlały rzeczywisty stan zgodności rozwiązania,
 - były oparte na udokumentowanych informacjach,
-- stanowiły wiarygodne źródło informacji dla użytkowników.
+- stanowiły wiarygodne i kompletne źródło informacji dla użytkowników.
 
 ---
 
