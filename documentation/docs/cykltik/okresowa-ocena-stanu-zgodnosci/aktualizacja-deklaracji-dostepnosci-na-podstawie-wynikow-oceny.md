@@ -140,7 +140,8 @@ Organizacja dokumentuje:
 - osoby odpowiedzialne,
 - źródła informacji wykorzystane podczas przeglądu,
 - zakres zmian,
-- uzasadnienie pozostawienia deklaracji bez zmian, jeżeli taka decyzja została podjęta.
+- uzasadnienie pozostawienia deklaracji bez zmian,
+- powiązanie zmian z wynikami oceny.
 
 Dokumentacja ta może stanowić część raportu zgodności.
 
