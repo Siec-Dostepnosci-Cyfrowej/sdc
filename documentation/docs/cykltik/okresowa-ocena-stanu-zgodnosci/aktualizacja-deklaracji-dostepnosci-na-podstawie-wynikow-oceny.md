@@ -30,7 +30,7 @@ Celem jest zapewnienie, aby deklaracje dostępności:
 Zgodnie z zaleceniem dotyczącym okresowej oceny stanu zgodności rozwiązań cyfrowych i aktualizacji deklaracji dostępności:
 
 - okresowa ocena stanu zgodności dostarcza informacji o aktualnym stanie zgodności rozwiązania,
-- raport zgodności gromadzi, porządkuje i aktualizuje informacje o stanie zgodności rozwiązania,
+- raport zgodności (ACR) porządkuje, weryfikuje i dokumentuje wyniki oceny oraz stan zgodności w odniesieniu do EN 301 549,
 - deklaracja dostępności wykorzystuje informacje zawarte w raporcie zgodności do przedstawienia użytkownikom informacji o dostępności rozwiązania.
 
 Relacje pomiędzy tymi elementami można przedstawić w następujący sposób: **Okresowa ocena stanu zgodności → Raport zgodności → Deklaracja dostępności**
