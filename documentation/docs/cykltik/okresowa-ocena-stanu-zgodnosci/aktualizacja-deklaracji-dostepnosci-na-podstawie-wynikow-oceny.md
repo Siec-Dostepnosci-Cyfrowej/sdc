@@ -118,7 +118,7 @@ Fakt przeprowadzenia przeglądu powinien jednak zostać odnotowany w dokumentacj
 
 ## 6. Wykorzystanie raportu zgodności
 
-Raport zgodności stanowi podstawowe źródło informacji wykorzystywanych podczas aktualizacji deklaracji.
+Raport zgodności jest jedynym źródłem informacji wykorzystywanym do aktualizacji deklaracji.
 
 W szczególności raport zgodności może dostarczać informacji o:
 
