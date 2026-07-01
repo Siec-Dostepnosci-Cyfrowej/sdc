@@ -164,7 +164,7 @@ Aktualizacja deklaracji jest szczególnie zalecana po:
 
 ## 9. Dobre praktyki
 
-- Aktualizuj deklarację na podstawie udokumentowanych informacji.
+- Aktualizuj deklarację niezwłocznie po zmianach (art. 11 ustawy).
 - Wykorzystuj raport zgodności jako jedyne źródło danych.
 - Nie deklaruj zgodności wyłącznie na podstawie wyników pojedynczego testu lub badania automatycznego.
 - Dokumentuj powody wprowadzonych zmian.
