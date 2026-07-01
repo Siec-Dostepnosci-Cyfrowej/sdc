@@ -1,12 +1,14 @@
----
-id: zalecenie
+id: procedura-uzyskiwania-zgody-na-zastosowanie-odstepstwa-na-zastosowanie-odstepstwa
 title: Procedura uzyskiwania zgody na zastosowanie odstępstwa (wyjątku) od obowiązku zapewniania dostępności cyfrowej
-description: Zalecenie dotyczące procedury uzyskania zgody na zastosowanie odstępstwa od obowiązku zapewnienia dostępności cyfrowej
 sidebar_label: 
 sidebar_position: 999
-typ: zalecenie
-wymiar: 
-opracowanie: 
+description: Zalecenie dotyczące procedury uzyskania zgody na zastosowanie odstępstwa od obowiązku zapewnienia dostępności cyfrowej
+keywords: [cykl życia TIK, dostępność cyfrowa, deklaracja dostępności, odstępstwa, procedury odstępstw, zgoda na odstępstwa]
+tags: [cykl życia TIK, dostępność cyfrowa, deklaracja dostępności, procedury odstępstw, zgoda na odstępstwa]
+opracowanie: Tomasz Kałużyński 
+data_zgloszenia: 1 lipca 2026 r.
+ostatnia_aktualizacja: 1 lipca 2026 r.
+wersja_robocza: true
 ---
 
 # ZALECENIE
@@ -24,7 +26,7 @@ opracowanie:
 
 ## 1. Cel opracowania
 
-Niniejsze zalecenie określa sposób postępowania podmiotu publicznego w sytuacji, gdy zapewnienie pełnej dostępności cyfrowej określonego elementu strony internetowej, aplikacji mobilnej lub treści nie jest możliwe albo wiąże się z nadmiernym obciążeniem organizacyjnym, technicznym bądź finansowym. Celem dokumentu jest wskazanie kroków niezbędnych do prawidłowego, udokumentowanego i zgodnego z przepisami zastosowania odstępstwa od obowiązku zapewniania dostępności.
+Zalecenie określa sposób postępowania podmiotu publicznego w sytuacji, gdy zapewnienie pełnej dostępności cyfrowej określonego elementu strony internetowej, aplikacji mobilnej lub treści nie jest możliwe albo wiąże się z nadmiernym obciążeniem organizacyjnym, technicznym bądź finansowym. Celem dokumentu jest wskazanie kroków niezbędnych do prawidłowego, udokumentowanego i zgodnego z przepisami zastosowania odstępstwa od obowiązku zapewniania dostępności.
 
 ## 2. Rodzaje odstępstw przewidziane w przepisach
 
