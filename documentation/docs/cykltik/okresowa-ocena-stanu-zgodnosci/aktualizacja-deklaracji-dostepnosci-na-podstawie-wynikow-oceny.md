@@ -178,6 +178,6 @@ Aktualizacja deklaracji jest szczególnie zalecana po:
 - Zalecenie: Okresowa ocena stanu zgodności rozwiązań cyfrowych i aktualizacja deklaracji dostępności
 - Scenariusz badania okresowej oceny stanu zgodności
 - Raport zgodności – zasady prowadzenia, aktualizacji i wykorzystywania
-- Wzór raportu zgodności (ACR)
+- Wzór Accessibility Conformance Report (ACR)
 
 ---
