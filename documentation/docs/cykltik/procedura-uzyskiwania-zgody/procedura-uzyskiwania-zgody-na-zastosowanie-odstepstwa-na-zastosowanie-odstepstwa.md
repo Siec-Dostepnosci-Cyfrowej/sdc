@@ -1,8 +1,8 @@
 ---
 id: procedura-uzyskiwania-zgody-na-zastosowanie-odstepstwa-na-zastosowanie-odstepstwa
 title: Procedura uzyskiwania zgody na zastosowanie odstępstwa (wyjątku) od obowiązku zapewniania dostępności cyfrowej
-sidebar_label: 
-sidebar_position: 999
+sidebar_label: Zalecenie
+sidebar_position: 1
 description: Zalecenie dotyczące procedury uzyskania zgody na zastosowanie odstępstwa od obowiązku zapewnienia dostępności cyfrowej
 keywords: [cykl życia TIK, dostępność cyfrowa, deklaracja dostępności, odstępstwa, procedury odstępstw, zgoda na odstępstwa]
 tags: [cykl życia TIK, dostępność cyfrowa, deklaracja dostępności, procedury odstępstw, zgoda na odstępstwa]
@@ -12,18 +12,6 @@ ostatnia_aktualizacja: 1 lipca 2026 r.
 wersja_robocza: true
 ---
 
-# ZALECENIE
-
-## Procedura uzyskiwania zgody na zastosowanie odstępstwa (wyjątku) od obowiązku zapewniania dostępności cyfrowej
-
----
-
-### Podstawa prawna
-
-- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (t.j. z uwzględnieniem nowelizacji z marca 2023 r.)
-- Dyrektywa Parlamentu Europejskiego i Rady (UE) 2016/2102 z dnia 26 października 2016 r. w sprawie dostępności stron internetowych i mobilnych aplikacji organów sektora publicznego
-
----
 
 ## 1. Cel opracowania
 
@@ -111,6 +99,15 @@ Podmiot publiczny powinien przechowywać i być gotowy do udostępnienia na żą
 - dokumentu potwierdzającego zgodę kierownika jednostki,
 - historii aktualizacji deklaracji dostępności,
 - ewentualnej korespondencji z użytkownikami w sprawie zgłoszonych problemów z dostępnością danego elementu.
+
+---
+
+## 6. Podstawa prawna
+
+- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (t.j. z uwzględnieniem nowelizacji z marca 2023 r.)
+- Dyrektywa Parlamentu Europejskiego i Rady (UE) 2016/2102 z dnia 26 października 2016 r. w sprawie dostępności stron internetowych i mobilnych aplikacji organów sektora publicznego
+
+---
 
 ## 6. Uwagi końcowe
 
