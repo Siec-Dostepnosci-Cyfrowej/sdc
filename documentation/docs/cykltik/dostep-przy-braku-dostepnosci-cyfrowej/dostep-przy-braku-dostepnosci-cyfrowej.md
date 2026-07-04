@@ -4,168 +4,122 @@ title: Zapewnianie dostępu do treści i usług w przypadku braku dostępności 
 description: Zalecenie określające zasady postępowania w przypadku treści, dokumentów, funkcjonalności i usług niespełniających wymagań dostępności cyfrowej.
 sidebar_label: Zalecenie
 sidebar_position: 0
-keywords: [dostęp alternatywny,niedostępne treści,niedostępne usługi,dostępność cyfrowa,deklaracja dostępności,nieproporcjonalne obciążenie]
-tags: [dostęp alternatywny,niedostępne treści,niedostępne usługi,dostępność cyfrowa,deklaracja dostępności,nieproporcjonalne obciążenie]
-opracowanie: Stefan Wajda 
+keywords: [zapewnienie dostępu,niedostępność,dostępność cyfrowa,deklaracja dostępności,nieproporcjonalne obciążenie,]
+tags: [zapewnienie dostępu,niedostępność,dostępność cyfrowa,deklaracja dostępności,nieproporcjonalne obciążenie,]
+opracowanie: Stefan Wajda
+wspolpraca: Bartłomiej Wilk
 data_zgloszenia: 6 czerwca 2026 r.
-ostatnia_aktualizacja: 6 czerwca 2026 r.
+ostatnia_aktualizacja: 4 lipca 2026 r.
 wersja_robocza: true
 ---
 
 ## Cel zalecenia
 
-Zapewnienie, że użytkownik nie zostanie pozbawiony dostępu do informacji, dokumentów, funkcjonalności lub usług publicznych wyłącznie z powodu braku dostępności cyfrowej.
+Celem zalecenia jest określenie sposobu postępowania z treściami, dokumentami, funkcjonalnościami i usługami niespełniającymi wymagań dostępności cyfrowej, tak aby użytkownik nie został pozbawiony dostępu do informacji lub możliwości skorzystania z usługi publicznej wyłącznie z powodu występowania problemów z dostępnością cyfrową.
 
-Celem zalecenia jest określenie sposobu postępowania z treściami i usługami niespełniającymi wymagań dostępności cyfrowej oraz zapewnienie użytkownikowi skutecznego dostępu do informacji i usług do czasu usunięcia problemu lub w przypadkach przewidzianych przepisami prawa.
+Na potrzeby niniejszego zalecenia przez zapewnienie dostępu rozumie się wszystkie działania umożliwiające użytkownikowi uzyskanie informacji lub skorzystanie z usługi pomimo występowania problemów z dostępnością cyfrową. Dostęp alternatywny na żądanie użytkownika stanowi jeden z możliwych sposobów zapewnienia dostępu i jest stosowany wtedy, gdy wcześniejsze rozwiązania nie są możliwe lub niewystarczające.
 
 ## Zalecenie
 
-Organizacja zapewnia użytkownikom możliwość uzyskania informacji oraz skorzystania z usług publicznych także w przypadku występowania treści, dokumentów, funkcjonalności lub usług niespełniających wymagań dostępności cyfrowej.
-
-Stwierdzenie braku dostępności cyfrowej nie kończy procesu zapewniania dostępności. Każdy przypadek niedostępności skutkuje podjęciem działań mających na celu:
-
-1. usunięcie problemu,
-2. zapewnienie dostępu alternatywnego do czasu usunięcia problemu,
-3. udokumentowanie sposobu postępowania,
-4. poinformowanie użytkowników o dostępnych rozwiązaniach.
+Jeżeli organizacja stwierdzi, że treść, dokument, funkcjonalność lub usługa nie spełnia wymagań dostępności cyfrowej, zapewnia użytkownikowi skuteczny sposób uzyskania tej samej informacji lub skorzystania z tej samej usługi oraz podejmuje działania zmierzające do usunięcia problemu.
 
 Samo wskazanie niedostępnej treści lub funkcjonalności w deklaracji dostępności nie stanowi realizacji obowiązku zapewnienia dostępu.
 
-## Rekomendacje
+# Rekomendacje
 
-### 1. Klasyfikacja przypadków niedostępności
+## 1. Postępowanie w przypadku stwierdzenia niedostępności
 
-Organizacja klasyfikuje każdy przypadek niedostępności do jednej z następujących kategorii:
+Jeżeli organizacja stwierdzi, że treść, dokument, formularz, usługa, multimedia, grafika, mapa lub inny element objęty wymaganiami dostępności cyfrowej nie spełnia tych wymagań, podejmuje działania zgodnie z następującą kolejnością:
 
-#### A. Treści wyłączone spod stosowania ustawy
+1. usuwa problem dostępności, jeżeli jest to możliwe;
+2. udostępnia istniejącą dostępną wersję tej samej informacji lub usługi;
+3. przygotowuje równoważną dostępną formę informacji lub sposób realizacji usługi;
+4. zapewnia dostęp na żądanie użytkownika, jeżeli wcześniejsze rozwiązania nie są możliwe lub niewystarczające;
+5. informuje użytkowników o sposobie uzyskania dostępu;
+6. rejestruje problem oraz planuje jego usunięcie albo okresową weryfikację przyjętego rozwiązania.
+
+Każdy sposób zapewnienia dostępu powinien umożliwiać użytkownikowi osiągnięcie tego samego celu, uzyskanie tej samej informacji lub skorzystanie z tej samej usługi pomimo występowania problemów z dostępnością cyfrową.
+
+Dostęp alternatywny powinien umożliwiać użytkownikowi osiągnięcie tego samego celu, uzyskanie tej samej informacji lub skorzystanie z tej samej usługi pomimo występowania problemów z dostępnością cyfrową.
+
+Jeżeli organizacja wie o występowaniu niedostępności, zapewnia dostęp z własnej inicjatywy, bez oczekiwania na zgłoszenie użytkownika, chyba że przepisy prawa przewidują inny sposób postępowania.
+
+## 2. Informowanie użytkowników
+
+Informacja o sposobie uzyskania dostępu powinna być dostępna bezpośrednio przy niedostępnej treści, dokumencie, funkcjonalności lub usłudze.
+
+Jeżeli organizacja udostępnia istniejącą dostępną wersję lub równoważną dostępną formę informacji albo usługi, odnośnik do niej powinien znajdować się przy niedostępnym elemencie.
+
+Jeżeli zapewnienie dostępu wymaga kontaktu z organizacją, komunikat powinien jednoznacznie wskazywać sposób uzyskania pomocy.
+
+Nie należy ograniczać informacji wyłącznie do deklaracji dostępności.
+
+## 3. Klasyfikacja przypadków niedostępności
+
+Organizacja klasyfikuje każdy przypadek niedostępności do jednej z następujących kategorii.
+
+### A. Treści wyłączone spod stosowania ustawy
 
 Treści objęte ustawowymi wyłączeniami.
 
-W takim przypadku organizacja:
+Organizacja:
 
-- informuje użytkownika o charakterze treści,
-- może zapewnić alternatywną formę dostępu, jeżeli jest to uzasadnione potrzebami użytkowników lub charakterem informacji.
+- informuje użytkowników o charakterze treści,
+- zapewnia dostęp na żądanie użytkownika zgodnie z obowiązującymi przepisami,
+- rozważa zastosowanie wyższych poziomów zapewnienia dostępu, jeżeli jest to uzasadnione potrzebami użytkowników.
 
-#### B. Nieproporcjonalne obciążenie
+### B. Nieproporcjonalne obciążenie
 
-Treści lub funkcjonalności objęte oceną nieproporcjonalnego obciążenia.
+Treści lub funkcjonalności, dla których pełne zapewnienie dostępności cyfrowej zostałoby uznane za nieproporcjonalne obciążenie.
 
 Organizacja:
 
 - przeprowadza i dokumentuje ocenę nieproporcjonalnego obciążenia,
-- publikuje jej wynik zgodnie z wymaganiami prawa,
-- zapewnia dostęp alternatywny umożliwiający uzyskanie informacji lub skorzystanie z usługi.
+- analizuje możliwość zapewnienia dostępu poprzez zastosowanie rozwiązań określonych w pkt 1,
+- zapewnia najwyższy możliwy poziom dostępu do informacji lub usługi,
+- publikuje wymagane informacje zgodnie z przepisami prawa.
 
-#### C. Zwykła niezgodność
+### C. Zwykła niezgodność
 
 Treści lub funkcjonalności objęte wymaganiami dostępności cyfrowej, które nie spełniają tych wymagań.
 
 Organizacja:
 
-- uruchamia proces naprawczy,
-- zapewnia dostęp alternatywny od momentu stwierdzenia problemu do czasu jego usunięcia.
+- uruchamia działania naprawcze,
+- zapewnia dostęp do czasu usunięcia problemu zgodnie z zasadami określonymi w pkt 1.
 
-### 2. Zasada pierwszeństwa naprawy
+## 4. Rejestracja i nadzór
 
-Podstawowym sposobem zapewnienia dostępności jest usunięcie przyczyny problemu.
+Każdy przypadek niedostępności nieobjęty ustawowym wyłączeniem powinien zostać odnotowany w narzędziu wykorzystywanym przez organizację do zarządzania dostępnością, zadaniami, incydentami lub innymi działaniami organizacyjnymi.
 
-Dostęp alternatywny nie zastępuje działań naprawczych i nie powinien prowadzić do trwałego utrzymywania niedostępnych treści lub funkcjonalności.
+Organizacja nie ma obowiązku prowadzenia odrębnego rejestru, jeżeli informacje te są gromadzone w innym wykorzystywanym systemie.
 
-### 3. Zapewnienie dostępu alternatywnego
+Dla każdego przypadku należy określić:
 
-Dostęp alternatywny powinien umożliwiać użytkownikowi osiągnięcie tego samego celu, uzyskanie tej samej informacji lub skorzystanie z tej samej usługi pomimo występowania problemów z dostępnością cyfrową.
+- sposób zapewnienia dostępu,
+- osobę odpowiedzialną,
+- termin usunięcia problemu lub termin ponownej oceny,
+- sposób poinformowania użytkowników.
 
-Jeżeli organizacja wie, że treść lub funkcjonalność objęta wymaganiami dostępności cyfrowej nie spełnia tych wymagań, zapewnia dostęp alternatywny z własnej inicjatywy, bez konieczności składania przez użytkownika żądania lub zgłoszenia.
-
-Dostęp alternatywny powinien być zapewniony od momentu stwierdzenia niedostępności do czasu usunięcia problemu lub wdrożenia rozwiązania zapewniającego równoważny dostęp do informacji albo usługi.
-
-W przypadku treści lub funkcjonalności niespełniających wymagań dostępności cyfrowej organizacja powinna w pierwszej kolejności:
-
-- usunąć problem dostępności;
-- zapewnić dostęp alternatywny umożliwiający uzyskanie tej samej informacji lub skorzystanie z tej samej usługi.
-
-Jeżeli działania te nie są możliwe lub niewystarczające, organizacja zapewnia dostęp alternatywny odpowiedni do potrzeb użytkowników.
-
-Dostęp alternatywny może obejmować w szczególności:
-
-- udostępnienie dokumentu w dostępnej formie,
-- udostępnienie treści w postaci strony internetowej,
-- udostępnienie dostępnej wersji tego samego materiału w innym formacie,
-- przygotowanie alternatywnej wersji treści,
-- przygotowanie transkrypcji, napisów lub opisu treści wizualnych,
-- przekazanie informacji pocztą elektroniczną,
-- przekazanie informacji telefonicznie,
-- pomoc pracownika,
-- realizację sprawy innym kanałem komunikacji,
-- zapewnienie zastępczego sposobu wykonania czynności.
-
-Jeżeli niedostępność dotyczy treści wyłączonych spod stosowania przepisów ustawy o dostępności cyfrowej, organizacja zapewnia dostęp alternatywny na żądanie użytkownika, zgodnie z obowiązującymi przepisami oraz z uwzględnieniem charakteru treści i możliwości organizacyjnych.
-
-Informacja o sposobie uzyskania dostępu alternatywnego powinna być dostępna bezpośrednio przy niedostępnej treści lub funkcjonalności, a nie wyłącznie w deklaracji dostępności.
-
-
-### 4. Informowanie użytkowników
-
-Informacja o sposobie uzyskania dostępu alternatywnego powinna być dostępna bezpośrednio przy niedostępnej treści lub funkcjonalności.
-
-Jeżeli organizacja udostępnia równoważną dostępną formę informacji lub usługi, odnośnik lub sposób dostępu do tej formy powinien być dostępny bezpośrednio przy niedostępnym elemencie.
-
-Nie należy ograniczać informacji wyłącznie do deklaracji dostępności.
-
-Użytkownik powinien mieć możliwość uzyskania informacji o dostępnym rozwiązaniu w miejscu występowania problemu.
-
-### 5. Niedostępne dokumenty
-
-Jeżeli dokument nie spełnia wymagań dostępności cyfrowej, organizacja:
-
-- ocenia możliwość jego naprawy,
-- określa sposób zapewnienia dostępu do czasu naprawy,
-- zapewnia dostęp do istniejącej dostępnej wersji dokumentu lub przygotowuje taką wersję albo zapewnia inną równoważną formę dostępu do informacji zawartych w dokumencie,
-- informuje użytkownika o sposobie uzyskania dostępu.
-
-### 6. Niedostępne multimedia
-
-W przypadku materiałów multimedialnych niespełniających wymagań dostępności organizacja zapewnia odpowiednie rozwiązania alternatywne, w szczególności:
-
-- transkrypcje,
-- napisy rozszerzone,
-- audiodeskrypcję,
-- alternatywną formę przekazania informacji,
-- dostępną publikację przedstawiającą równoważną treść.
-
-### 7. Niedostępne formularze i usługi
-
-Jeżeli formularz elektroniczny lub usługa cyfrowa nie są dostępne, organizacja zapewnia możliwość załatwienia sprawy innym skutecznym kanałem do czasu usunięcia problemu.
-
-Informacja o alternatywnym sposobie załatwienia sprawy powinna być dostępna bezpośrednio przy niedostępnej usłudze lub formularzu.
-
-### 8. Powiązanie z deklaracją dostępności
+## 5. Powiązanie z deklaracją dostępności
 
 Deklaracja dostępności:
 
 - odzwierciedla rzeczywisty stan dostępności,
-- wskazuje niedostępne elementy,
-- opisuje dostęp alternatywny,
-- nie zastępuje informacji przekazywanej użytkownikowi przy konkretnym problemie,
-- nie stanowi samodzielnego sposobu zapewnienia dostępu do informacji lub usługi.
+- wskazuje niedostępne elementy zgodnie z obowiązującymi przepisami,
+- opisuje zastosowany sposób zapewnienia dostępu,
+- nie zastępuje informacji przekazywanej użytkownikowi bezpośrednio przy niedostępnym elemencie,
+- nie stanowi samodzielnego sposobu zapewnienia dostępu do informacji ani usługi.
 
-### 9. Rejestracja i nadzór
-
-Każdy przypadek niedostępności nieobjęty wyłączeniem ustawowym podlega:
-
-- rejestracji,
-- analizie,
-- określeniu sposobu zapewnienia dostępu,
-- określeniu terminu usunięcia problemu lub zasad okresowej weryfikacji przyjętego rozwiązania,
-- monitorowaniu do czasu usunięcia problemu.
-
-### 10. Odpowiedzialność kierownictwa
+## 6. Odpowiedzialność kierownictwa
 
 Kierownictwo organizacji zapewnia, że:
 
-- użytkownicy mają możliwość uzyskania dostępu do informacji i usług niezależnie od występowania problemów dostępności,
-- istnieją procedury zapewniania dostępu alternatywnego,
+- organizacja posiada zasady postępowania w przypadku stwierdzenia niedostępności,
+- użytkownicy mogą uzyskać dostęp do informacji i usług niezależnie od występowania problemów dostępności,
+- każdy znany przypadek niedostępności jest analizowany pod kątem możliwości usunięcia problemu oraz zapewnienia dostępu,
 - problemy dostępności nie są rozwiązywane wyłącznie poprzez ich opisanie w deklaracji dostępności.
+
 
 ## Uzasadnienie
 
@@ -175,7 +129,7 @@ W praktyce deklaracja dostępności bywa błędnie traktowana jako wystarczając
 
 Jeżeli organizacja wie o występowaniu niedostępnej treści lub funkcjonalności objętej wymaganiami dostępności cyfrowej, powinna równocześnie zapewnić użytkownikowi możliwość uzyskania tej samej informacji lub skorzystania z tej samej usługi w sposób alternatywny. Obowiązek ten nie powinien być uzależniony od wcześniejszego zgłoszenia problemu przez użytkownika.
 
-Dostęp alternatywny realizowany na żądanie użytkownika stanowi mechanizm uzupełniający, służący przede wszystkim obsłudze przypadków nieujawnionych wcześniej, indywidualnych potrzeb użytkowników oraz treści wyłączonych spod stosowania przepisów ustawy.
+Dostęp alternatywny na żądanie użytkownika stanowi mechanizm uzupełniający, służący przede wszystkim obsłudze przypadków nieujawnionych wcześniej, indywidualnych potrzeb użytkowników oraz treści wyłączonych spod stosowania przepisów ustawy.
 
 Samo wskazanie niedostępnej treści lub funkcjonalności w deklaracji dostępności nie zapewnia użytkownikowi dostępu do informacji ani usługi i nie powinno być traktowane jako wystarczający sposób realizacji obowiązków organizacji.
 

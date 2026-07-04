@@ -1,14 +1,14 @@
 ---
-id: katalog-sposobow-zapewniania-dostepu-alternatywnego
-title: Katalog sposobów zapewniania dostępu alternatywnego
+id: katalog-sposobow-zapewniania-dostepu
+title: Katalog sposobów zapewniania dostępu
 description: Zestaw przykładowych sposobów zapewniania dostępu do informacji i usług publicznych w przypadku braku dostępności cyfrowej.
-sidebar_label: Katalog dostępu alternatywnego
+sidebar_label: Katalog dostępu
 sidebar_position: 1
-keywords: [dostęp alternatywny,niedostępne treści,niedostępne usługi,dostępność cyfrowa,deklaracja dostępności,nieproporcjonalne obciążenie,]
-tags: [dostęp alternatywny,niedostępne treści,niedostępne usługi,dostępność cyfrowa,deklaracja dostępności,nieproporcjonalne obciążenie,]
+keywords: [zapewnienie dostępu,niedostępność,dostępność cyfrowa,deklaracja dostępności,nieproporcjonalne obciążenie,]
+tags: [zapewnienie dostępu,niedostępność,dostępność cyfrowa,deklaracja dostępności,nieproporcjonalne obciążenie,]
 opracowanie: Stefan Wajda 
 data_zgloszenia: 6 czerwca 2026 r.
-ostatnia_aktualizacja: 6 czerwca 2026 r.
+ostatnia_aktualizacja: 4 lipca 2026 r.
 wersja_robocza: true
 ---
 
@@ -18,7 +18,7 @@ Celem dostępu alternatywnego jest zapewnienie użytkownikowi możliwości uzysk
 
 Organizacja powinna stosować rozwiązania zapewniające dostęp użytkownikowi przy możliwie najmniejszym nakładzie działań po stronie użytkownika.
 
-Dostęp alternatywny realizowany na żądanie użytkownika powinien być stosowany przede wszystkim wtedy, gdy wcześniejsze rozwiązania nie są możliwe lub okazują się niewystarczające.
+Dostęp alternatywny na żądanie użytkownika powinien być stosowany przede wszystkim wtedy, gdy wcześniejsze rozwiązania nie są możliwe lub okazują się niewystarczające.
 
 ## Hierarchia sposobów zapewniania dostępu
 
@@ -172,9 +172,9 @@ Jeżeli jest to uzasadnione potrzebami użytkowników lub znaczeniem informacji,
 
 ---
 
-## Czego nie należy uznawać za dostęp alternatywny
+## Rozwiązania, które nie zapewniają użytkownikowi dostępu
 
-Nie stanowi zapewnienia dostępu alternatywnego:
+Nie stanowi zapewnienia dostępu:
 
 - samo wskazanie problemu w deklaracji dostępności,
 - samo wskazanie adresu e-mail lub numeru telefonu bez określenia sposobu uzyskania pomocy,

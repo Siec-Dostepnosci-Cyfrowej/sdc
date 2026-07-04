@@ -1,14 +1,14 @@
 ---
-id: wzory-komunikatow-o-dostepie-alternatywnym
-title: Wzory komunikatów informujących o dostępie alternatywnym
+id: wzory-komunikatow-o-sposobie-zapewnienia-dostepu
+title: Wzory komunikatów o sposobie zapewnienia dostępu
 description: Przykładowe komunikaty dla użytkowników dotyczące niedostępnych treści, dokumentów i usług oraz sposobów uzyskania dostępu alternatywnego.
 sidebar_label: Wzory komunikatów
 sidebar_position: 2
-keywords: [dostęp alternatywny,niedostępne treści,niedostępne usługi,dostępność cyfrowa,deklaracja dostępności,nieproporcjonalne obciążenie,]
-tags: [dostęp alternatywny,niedostępne treści,niedostępne usługi,dostępność cyfrowa,deklaracja dostępności,nieproporcjonalne obciążenie,]
+keywords: [zapewnienie dostępu,niedostępne treści,niedostępne usługi,dostępność cyfrowa,deklaracja dostępności,nieproporcjonalne obciążenie,]
+tags: [zapewnienie dostępu,niedostępne treści,niedostępne usługi,dostępność cyfrowa,deklaracja dostępności,nieproporcjonalne obciążenie,]
 opracowanie: Stefan Wajda 
 data_zgloszenia: 6 czerwca 2026 r.
-ostatnia_aktualizacja: 6 czerwca 2026 r.
+ostatnia_aktualizacja: 4 lipca 2026 r.
 wersja_robocza: true
 ---
 

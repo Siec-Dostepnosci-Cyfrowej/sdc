@@ -1,14 +1,14 @@
 ---
-id: przyklady-zapewniania-dostepu-alternatywnego
-title: Przykłady zapewniania dostępu alternatywnego do dokumentów, multimediów i usług cyfrowych
+id: przyklady-zapewniania-dostepu
+title: Przykłady zapewniania dostępu do informacji i usług
 description: Przykłady praktycznego stosowania zasad zapewniania dostępu do informacji i usług w przypadku występowania problemów z dostępnością cyfrową.
 sidebar_label: Przykłady zapewniania dostępu
 sidebar_position: 5
-keywords: [dostęp alternatywny,niedostępne treści,niedostępne usługi,dostępność cyfrowa,deklaracja dostępności,nieproporcjonalne obciążenie]
-tags: [dostęp alternatywny,niedostępne treści,niedostępne usługi,dostępność cyfrowa,deklaracja dostępności,nieproporcjonalne obciążenie]
+keywords: [zapewnienie dostępu,niedostępność,dostępność cyfrowa,deklaracja dostępności,nieproporcjonalne obciążenie]
+tags: [zapewnienie dostępu,niedostępność,dostępność cyfrowa,deklaracja dostępności,nieproporcjonalne obciążenie]
 opracowanie: Stefan Wajda 
 data_zgloszenia: 6 czerwca 2026 r.
-ostatnia_aktualizacja: 6 czerwca 2026 r.
+ostatnia_aktualizacja: 4 lipca 2026 r.
 wersja_robocza: true
 ---
 
@@ -239,12 +239,12 @@ Materiały nie spełniają współczesnych wymagań dostępności cyfrowej.
 ### Rozwiązanie zalecane
 
 - informacja o charakterze materiału,
-- zapewnienie dostępu na żądanie użytkownika,
+- zapewnienie dostępu alternatywnego na żądanie użytkownika,
 - przygotowanie opracowania wybranych materiałów, jeśli jest to uzasadnione.
 
 ### Poziom rozwiązania
 
-Dostęp na żądanie.
+Dostęp alternatywny na żądanie użytkownika.
 
 ---
 
@@ -266,7 +266,7 @@ Użytkownicy nie mogą załatwić sprawy.
 
 ### Poziom rozwiązania
 
-Dostęp alternatywny do czasu naprawy.
+Zapewnienie dostępu do czasu usunięcia problemu.
 
 ---
 
