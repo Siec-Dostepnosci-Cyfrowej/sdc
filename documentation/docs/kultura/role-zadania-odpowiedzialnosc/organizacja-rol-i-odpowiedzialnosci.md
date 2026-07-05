@@ -183,7 +183,7 @@ Systemowe organizowanie odpowiedzialności:
 
 ---
 
-## Podstawy prawne
+## Podstawa prawna
 
 - Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
 - Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami.

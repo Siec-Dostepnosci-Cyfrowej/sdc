@@ -17,9 +17,11 @@ wersja_robocza: true
 Organizacja opracowuje i wdraża zasady oraz tryb przyjmowania, rozpatrywania i załatwiania skarg w sprawie zapewnienia dostępności cyfrowej 
 
 ## 1. Zalecenie
+
 Organizacja powinna wdrożyć formalny system przyjmowania, rozpatrywania i załatwiania skarg dotyczących dostępności cyfrowej.
 
 ## 2. Rekomendacje
+
 1. Dostępność kanałów skargowych
 - Organizacja powinna zapewnić dostępne i zróżnicowane kanały zgłaszania skarg dotyczących dostępności cyfrowej, takie jak: formularz online, poczta elektroniczna, wniosek, telefon oraz adres korespondencyjny.
 - Informacje o sposobie składania skarg powinny być łatwo odnajdywalne i zamieszczone w kluczowych miejscach serwisu, w szczególności w Deklaracji Dostępności.
@@ -57,11 +59,14 @@ Organizacja powinna wdrożyć formalny system przyjmowania, rozpatrywania i zał
 - Regularne raporty dotyczące skarg powinny być publikowane w formie dostępnej cyfrowo.
 - Informacje pozyskane poprzez skargi powinny być systematycznie wykorzystywane do usprawniania procesów wytwarzania i utrzymania usług cyfrowych.
 
-## 3. Podstawy prawne
-- Ustawa o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych z dnia 4 kwietnia 2019 r. z późn. zmianami (Dz. U. 2019, poz. 848)
-- Ustawa o zapewnianiu dostępności osobom ze szczególnymi potrzebami z dnia 19 lipca 2019 r. (Dz. U. 2019, poz. 1696)
+## 3. Podstawa prawna
+
+- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz. U. 2019 poz. 848)
+- Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. 2019 poz. 1696)
+
 
 ## 4. Uzasadnienie
+
 Wdrożenie zasad oraz trybu przyjmowania, rozpatrywania i załatwiania skarg w sprawie zapewnienia dostępności cyfrowej:
 - umożliwia użytkownikom skuteczne zgłaszanie problemów z dostępnością;
 - gwarantuje, że skargi będą analizowane i rozpatrywane w sposób rzetelny, terminowy i transparentny;

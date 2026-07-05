@@ -192,7 +192,7 @@ Celem jest:
 - Raz lub dwa razy w roku przegląda stronę www i wybrane dokumenty.
 
 ####  4.4. Postawy i świadomość pracowników
-- Pracownicy znają podstawowe obowiązki wynikające z ustawy o dostępności.
+- Pracownicy znają podstawowe obowiązki wynikające z ustawy o dostępności cyfrowej.
 - Osoba ds. dostępności ma dostęp do materiałów informacyjnych lub prostych szkoleń.
 
 ####  4.5. Współpraca i komunikacja

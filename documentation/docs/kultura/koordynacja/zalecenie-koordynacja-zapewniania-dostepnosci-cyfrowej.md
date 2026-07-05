@@ -72,7 +72,7 @@ Zalecenie ma na celu wzmocnienie roli koordynacji dostępności cyfrowej poprzez
   posiada rzeczywisty wpływ na zmiany organizacyjne, a dostępność staje się elementem 
   jakości zarządzania, a nie wyłącznie obowiązkiem formalnym.	 
 	 
-## Podstawy prawne
+## Podstawa prawna
 
 - Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami.
 - Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.

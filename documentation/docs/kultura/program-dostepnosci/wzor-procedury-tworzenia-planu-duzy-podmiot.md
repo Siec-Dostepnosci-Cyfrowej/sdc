@@ -17,7 +17,7 @@ Celem procedury jest zapewnienie jednolitego, przejrzystego i powtarzalnego proc
 
 Procedura gwarantuje, że plan:
 - wynika z realnych potrzeb organizacji,
-- uwzględnia wymagania prawne i standardy (WCAG, EN 301 549, ustawa o dostępności),
+- uwzględnia wymagania prawne i standardy (WCAG, EN 301 549, ustawa o dostępności cyfrowej),
 - jest spójny z dokumentami strategicznymi,
 - posiada określone priorytety, harmonogram, odpowiedzialności i mierniki,
 - może być monitorowany oraz oceniany.

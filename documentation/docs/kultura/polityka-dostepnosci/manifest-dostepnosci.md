@@ -104,13 +104,9 @@ W preambule należy uwzględnić poniżesz aspekty:
 
 ## Podstawa prawna {#podstawa-prawna}
 
-- Art. 3 Konwencji o prawach osób niepełnosprawnych (Dz.U. 2012 poz.
-  1169)
-- Art. 5 Ustawy o dostępności cyfrowej stron internetowych i aplikacji
-  mobilnych podmiotów publicznych z dnia 4 kwietnia 2019 r. z późn.
-  zmianami (Dz. U. 2019, poz. 848)
-- Art. 4 pkt. 3 Ustawy o zapewnianiu dostępności osobom ze szczególnymi
-  potrzebami z dnia 19 lipca 2019 r. (Dz. U. 2019, poz. 1696)
+- Art. 3 Konwencji o prawach osób niepełnosprawnych (Dz. U. 2012 poz. 1169)
+- Art. 5 ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz. U. 2019 poz. 848)
+- Art. 4 pkt 3 ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. 2019 poz. 1696)
 
 ## Uzasadnienie {#uzasadnienie}
 
