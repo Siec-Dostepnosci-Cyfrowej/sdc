@@ -46,7 +46,7 @@ Jeżeli organizacja wie o występowaniu niedostępności, zapewnia dostęp z wł
 
 ## 2. Informowanie użytkowników
 
-Informacja o sposobie uzyskania dostępu powinna być dostępna bezpośrednio przy niedostępnej treści, dokumencie, funkcjonalności lub usłudze.
+Informacja o sposobie uzyskania dostępu powinna być dostępna bezpośrednio przy niedostępnej treści, dokumencie, funkcjonalności lub usłudze i nie wymagać od użytkownika dodatkowego wyszukiwania.
 
 Jeżeli organizacja udostępnia istniejącą dostępną wersję lub równoważną dostępną formę informacji albo usługi, odnośnik do niej powinien znajdować się przy niedostępnym elemencie.
 
