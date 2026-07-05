@@ -17,7 +17,7 @@ wersja_robocza: true
 
 Celem zalecenia jest określenie sposobu postępowania z treściami, dokumentami, funkcjonalnościami i usługami niespełniającymi wymagań dostępności cyfrowej, tak aby użytkownik nie został pozbawiony dostępu do informacji lub możliwości skorzystania z usługi publicznej wyłącznie z powodu występowania problemów z dostępnością cyfrową.
 
-Na potrzeby niniejszego zalecenia przez zapewnienie dostępu rozumie się wszystkie działania umożliwiające użytkownikowi uzyskanie informacji lub skorzystanie z usługi pomimo występowania problemów z dostępnością cyfrową. Dostęp alternatywny na żądanie użytkownika stanowi jeden z możliwych sposobów zapewnienia dostępu i jest stosowany wtedy, gdy wcześniejsze rozwiązania nie są możliwe lub niewystarczające.
+Na potrzeby niniejszego zalecenia przez zapewnienie dostępu rozumie się wszystkie skuteczne działania umożliwiające użytkownikowi uzyskanie tej samej informacji lub skorzystanie z tej samej usługi pomimo występowania problemów z dostępnością cyfrową. Dostęp alternatywny na żądanie użytkownika stanowi jeden z możliwych sposobów zapewnienia dostępu i jest stosowany wtedy, gdy wcześniejsze rozwiązania nie są możliwe lub niewystarczające.
 
 ## Zalecenie
 
