@@ -34,7 +34,7 @@ wersja_robocza: true
 
 ---
 
-## § 3. Powołanie Zespołu ds. Dostępności
+## § 3. Powołanie zespołu ds. dostępności
 
 1. Powołuje się **Zespół ds. Dostępności**, zwany dalej „Zespołem”.
 2. **Celem Zespołu jest projektowanie, wprowadzanie i utrwalanie w funkcjonowaniu [nazwa podmiotu] zmian, które zapewnią możliwie najpełniejszą dostępność architektoniczną, cyfrową oraz informacyjno-komunikacyjną wszystkich realizowanych w [nazwa podmiotu] procesów i usług.**

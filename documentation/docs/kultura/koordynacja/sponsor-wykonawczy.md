@@ -39,7 +39,7 @@ Sponsor wykonawczy odpowiada za to, aby dostępność była traktowana jako **el
 1. Funkcję sponsora wykonawczego ds. dostępności pełni:
    - kierownik podmiotu lub
    - członek kierownictwa posiadający realny wpływ na decyzje strategiczne i organizacyjne.
-2. Sponsor wykonawczy działa w bezpośredniej relacji z Koordynatorem ds. dostępności oraz Zespołem ds. Dostępności.
+2. Sponsor wykonawczy działa w bezpośredniej relacji z Koordynatorem ds. dostępności oraz zespołem ds. dostępności.
 3. Rola sponsora wykonawczego powinna być jasno określona i komunikowana w organizacji.
 
 ---
@@ -107,7 +107,7 @@ Rola sponsora wykonawczego ds. dostępności ma kluczowe znaczenie dla skuteczno
 
 Bez aktywnego i świadomego wsparcia sponsora wykonawczego:
 - wpływ Koordynatora na zmiany organizacyjne może być ograniczony,
-- działania Zespołu ds. Dostępności mogą mieć charakter wyłącznie opiniodawczy,
+- działania zespołu ds. dostępności mogą mieć charakter wyłącznie opiniodawczy,
 - dostępność może pozostać na poziomie deklaratywnym.
 
 Obecność sponsora wykonawczego zapewnia, że dostępność staje się **rzeczywistym elementem zarządzania organizacją**.
