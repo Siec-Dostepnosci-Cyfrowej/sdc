@@ -7,13 +7,13 @@ description:  Wskazówki do skonstruowania preambuły (cześć wstępna polityki
 keywords: [
         polityka dostępności,
         dostępność cyfrowa,
-        kultura organziacyjna,
+        kultura organizacyjna,
 		zarządzanie,
 ]
 tags: [
         polityka dostępności,
         dostępność cyfrowa,
-        kultura organziacyjna,
+        kultura organizacyjna,
 		zarządzanie,
 ]
 opracowanie: Anna Czekalska

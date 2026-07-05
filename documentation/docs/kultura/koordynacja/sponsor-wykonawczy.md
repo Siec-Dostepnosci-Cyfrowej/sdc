@@ -4,8 +4,8 @@ title: Sponsor wykonawczy ds. dostępności
 sidebar_label: Sponsor wykonawczy
 sidebar_position: 3
 description: O roli sponsora wykonawczego w zapewnianiu dostępności cyfrowej
-keywords: [kultura organziacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępności cyfrowej, koordynacja dostępnością cyfrową]
-tags: [kultura organziacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępności cyfrowej, koordynacja dostępnością cyfrową]
+keywords: [kultura organizacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępności cyfrowej, koordynacja dostępnością cyfrową]
+tags: [kultura organizacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępności cyfrowej, koordynacja dostępnością cyfrową]
 opracowanie: Stefan Wajda
 data_zgloszenia: 21 grudnia 2025 r.
 ostatnia_aktualizacja: 21 grudnia 2025 r.

@@ -1,5 +1,5 @@
 ---
-id: monitoring-i-ocena dojrzalosci
+id: monitoring-i-ocena-dojrzalosci
 title: Monitoring i ocena dojrzałości organizacji w zakresie zapewniania dostępności cyfrowej
 description: Monitoring i ocena dojrzałości
 sidebar_position: 4

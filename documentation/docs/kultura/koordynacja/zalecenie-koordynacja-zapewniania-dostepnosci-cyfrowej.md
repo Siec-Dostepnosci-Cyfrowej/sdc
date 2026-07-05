@@ -4,8 +4,8 @@ title: Projekt zalecenia w sprawie koordynacji zapewniania dostępności cyfrowe
 sidebar_label: Projekt zalecenia
 sidebar_position: 0
 description: Propozycja zalecenia
-keywords: [kultura organziacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępnośi cyfrowej, koordynacja dostępnością cyfrową]
-tags: [kultura organziacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępnośi cyfrowej, koordynacja dostępnością cyfrową]
+keywords: [kultura organizacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępnośi cyfrowej, koordynacja dostępnością cyfrową]
+tags: [kultura organizacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępnośi cyfrowej, koordynacja dostępnością cyfrową]
 opracowanie: Stefan Wajda
 data_zgloszenia: 21 grudnia 2025 r.
 ostatnia_aktualizacja: 21 stycznia 2026 r.

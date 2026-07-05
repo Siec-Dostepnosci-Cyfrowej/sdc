@@ -1,5 +1,5 @@
 ---
-id: zapewnianie-zasobow-dla-systemu-dostepnosci cyfrowej
+id: zapewnianie-zasobow-dla-systemu-dostepnosci-cyfrowej
 title: Zapewnianie zasobów dla systemu dostępności cyfrowej
 description: Wsparcie organizacji w identyfikowaniu, planowaniu, pozyskiwaniu i utrzymywaniu zasobów niezbędnych do skutecznego funkcjonowania systemu zapewniania dostępności cyfrowej
 sidebar_label: Zapewnianie zasobów
