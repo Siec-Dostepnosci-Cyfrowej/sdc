@@ -133,7 +133,7 @@ Wsparcie obejmuje w szczególności:
 - wspieranie działań koordynacyjnych,
 - zapewnienie ciągłości działań.
 
-Organizacja może wyznaczyć sponsora wykonawczego dostępności odpowiedzialnego za wspieranie działań związanych z dostępnością na poziomie kierowniczym.
+Organizacja może wyznaczyć sponsora wykonawczego ds. dostępności odpowiedzialnego za wspieranie działań związanych z dostępnością na poziomie kierowniczym.
 
 ---
 

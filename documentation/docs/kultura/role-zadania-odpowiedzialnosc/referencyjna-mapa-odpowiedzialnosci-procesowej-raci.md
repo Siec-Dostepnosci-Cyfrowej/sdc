@@ -99,7 +99,7 @@ Istotne jest zapewnienie realizacji funkcji organizacyjnych.
 | Skrót | Rola |
 |---|---|
 | KIER | Kierownictwo organizacji |
-| SPON | Sponsor wykonawczy dostępności |
+| SPON | Sponsor wykonawczy ds. dostępności |
 | KOOR | Koordynator ds. dostępności cyfrowej |
 | WPR | Właściciel procesu |
 | KKO | Kierownik komórki organizacyjnej |

@@ -23,7 +23,7 @@ wersja_robocza: true
 | Kategoria roli | organizacyjna |
 | Poziom odpowiedzialności | organizacyjny / koordynacyjny |
 | Powiązane procesy | wszystkie główne procesy systemu zapewniania dostępności cyfrowej |
-| Powiązane role | kierownictwo organizacji, sponsor wykonawczy dostępności, właściciele procesów, kierownicy komórek organizacyjnych, specjaliści wsparcia kompetencyjnego, analitycy, testerzy |
+| Powiązane role | kierownictwo organizacji, sponsor wykonawczy ds. dostępności, właściciele procesów, kierownicy komórek organizacyjnych, specjaliści wsparcia kompetencyjnego, analitycy, testerzy |
 | Wersja karty | 1.0 |
 | Data opracowania | 12 maja 2026 r. |
 
@@ -77,7 +77,7 @@ Rola funkcjonuje na styku:
 
 #### Rola współpracuje z:
 - kierownictwem organizacji,
-- sponsorem wykonawczym dostępności,
+- sponsorem wykonawczym ds. dostępności,
 - właścicielami procesów,
 - kierownikami komórek organizacyjnych,
 - osobami realizującymi działania operacyjne,
@@ -93,14 +93,14 @@ Rola funkcjonuje na styku:
 - rozwiązywanie problemów systemowych.
 
 #### Rola otrzymuje wsparcie od:
-- sponsora wykonawczego dostępności,
+- sponsora wykonawczego ds. dostępności,
 - kierownictwa organizacji,
 - ekspertów,
 - analityków,
 - specjalistów technicznych.
 
 #### Rola raportuje do:
-- kierownictwa organizacji lub sponsora wykonawczego dostępności.
+- kierownictwa organizacji lub sponsora wykonawczego ds. dostępności.
 
 ---
 

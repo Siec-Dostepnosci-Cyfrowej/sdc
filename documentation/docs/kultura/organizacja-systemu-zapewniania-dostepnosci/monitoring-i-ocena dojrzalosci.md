@@ -266,9 +266,9 @@ Kierownictwo organizacji odpowiada za:
 
 ---
 
-### 6.2. Sponsor wykonawczy dostępności
+### 6.2. Sponsor wykonawczy ds. dostępności
 
-Sponsor wykonawczy dostępności odpowiada za:
+Sponsor wykonawczy ds. dostępności odpowiada za:
 
 - wspieranie działań doskonalących,
 - usuwanie barier organizacyjnych,
@@ -682,7 +682,7 @@ Raportowanie wspiera:
 Raporty mogą być przygotowywane dla:
 
 - kierownictwa organizacji,
-- sponsora wykonawczego dostępności,
+- sponsora wykonawczego ds. dostępności,
 - właścicieli procesów,
 - właścicieli usług publicznych,
 - koordynatora ds. dostępności cyfrowej,

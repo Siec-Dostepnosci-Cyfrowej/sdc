@@ -22,7 +22,7 @@ wersja_robocza: true
 | Kategoria roli | kompetencyjna / organizacyjna |
 | Poziom odpowiedzialności | ekspercki / organizacyjny |
 | Powiązane procesy | zarządzanie kompetencjami i wsparciem organizacyjnym, monitoring i ocena dojrzałości, doskonalenie systemu |
-| Powiązane role | kierownictwo organizacji, sponsor wykonawczy dostępności, koordynator ds. dostępności cyfrowej, właściciele procesów, kierownicy komórek organizacyjnych, role operacyjne |
+| Powiązane role | kierownictwo organizacji, sponsor wykonawczy ds. dostępności, koordynator ds. dostępności cyfrowej, właściciele procesów, kierownicy komórek organizacyjnych, role operacyjne |
 | Wersja karty | 1.0 |
 | Data opracowania | 12 maja 2026 r. |
 
@@ -68,7 +68,7 @@ Rola funkcjonuje na styku:
 
 #### Rola współpracuje z:
 - kierownictwem organizacji,
-- sponsorem wykonawczym dostępności,
+- sponsorem wykonawczym ds. dostępności,
 - koordynatorem ds. dostępności cyfrowej,
 - właścicielami procesów,
 - kierownikami komórek organizacyjnych,

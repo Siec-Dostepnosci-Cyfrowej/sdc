@@ -88,7 +88,7 @@ Rola:
 - właścicieli procesów i obszarów merytorycznych.
 
 #### Rola raportuje do:
-- właściciela procesu zarządzania systemem dostępności, sponsora wykonawczego dostępności lub kierownictwa organizacji.
+- właściciela procesu zarządzania systemem dostępności, sponsora wykonawczego ds. dostępności lub kierownictwa organizacji.
 
 ---
 

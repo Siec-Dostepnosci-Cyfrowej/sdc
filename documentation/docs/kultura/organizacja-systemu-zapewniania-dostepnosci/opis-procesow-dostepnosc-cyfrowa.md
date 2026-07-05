@@ -206,7 +206,7 @@ Proces obejmuje w szczególności:
 W procesie uczestniczą w szczególności:
 
 - kierownictwo organizacji,
-- sponsor wykonawczy dostępności,
+- sponsor wykonawczy ds. dostępności,
 - koordynator ds. dostępności cyfrowej,
 - właściciele procesów,
 - kierownicy komórek organizacyjnych,
@@ -632,7 +632,7 @@ Proces obejmuje w szczególności:
 W procesie uczestniczą w szczególności:
 
 - kierownictwo organizacji,
-- sponsor wykonawczy dostępności,
+- sponsor wykonawczy ds. dostępności,
 - koordynator ds. dostępności cyfrowej,
 - właściciele procesów,
 - analitycy,

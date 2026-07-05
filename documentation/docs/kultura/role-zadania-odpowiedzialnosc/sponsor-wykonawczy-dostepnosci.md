@@ -1,9 +1,9 @@
 ---
 id: sponsor-wykonawczy-dostepnosci
-title: Sponsor wykonawczy dostępności
+title: Sponsor wykonawczy ds. dostępności
 sidebar_label: Sponsor wykonawczy
 sidebar_position: 11
-description: Określa cel, zakres zadań, odpowiedzialności roli Sponsor wykonawczy dostępności w systemie zarządzania dostępnością cyfrową. 
+description: Określa cel, zakres zadań, odpowiedzialności roli Sponsor wykonawczy ds. dostępności w systemie zarządzania dostępnością cyfrową. 
 keywords: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie, role, odpowiedzialności,kwalifikacje,kompetencje]
 tags:  [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie, role, odpowiedzialności,kwalifikacje,kompetencje]
 opracowanie: Stefan Wajda 
@@ -19,7 +19,7 @@ wersja_robocza: true
 
 | Pole | Opis |
 |---|---|
-| Nazwa roli | Sponsor wykonawczy dostępności |
+| Nazwa roli | Sponsor wykonawczy ds. dostępności |
 | Kategoria roli | organizacyjna |
 | Poziom odpowiedzialności | strategiczny / organizacyjny |
 | Powiązane procesy | zarządzanie systemem dostępności cyfrowej, monitoring i ocena, doskonalenie systemu |
@@ -300,7 +300,7 @@ Sponsor:
 
 ## 15. Uwagi końcowe
 
-Sponsor wykonawczy dostępności pełni rolę organizacyjnego łącznika pomiędzy:
+Sponsor wykonawczy ds. dostępności pełni rolę organizacyjnego łącznika pomiędzy:
 - kierownictwem organizacji,
 - koordynacją dostępności,
 - właścicielami procesów,

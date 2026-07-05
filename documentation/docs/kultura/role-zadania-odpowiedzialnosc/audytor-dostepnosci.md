@@ -90,7 +90,7 @@ Rola:
 - analityków i testerów.
 
 #### Rola raportuje do:
-- kierownictwa organizacji, sponsora wykonawczego dostępności lub właściciela procesu monitoringu i oceny.
+- kierownictwa organizacji, sponsora wykonawczego ds. dostępności lub właściciela procesu monitoringu i oceny.
 
 ---
 

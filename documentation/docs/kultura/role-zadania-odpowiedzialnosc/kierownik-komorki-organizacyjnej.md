@@ -21,7 +21,7 @@ wersja_robocza: true
 | Kategoria roli | organizacyjna |
 | Poziom odpowiedzialności | organizacyjny / operacyjny |
 | Powiązane procesy | wszystkie procesy realizowane przez komórkę organizacyjną |
-| Powiązane role | kierownictwo organizacji, sponsor wykonawczy dostępności, koordynator ds. dostępności cyfrowej, właściciele procesów, role wykonawcze, role kontrolne |
+| Powiązane role | kierownictwo organizacji, sponsor wykonawczy ds. dostępności, koordynator ds. dostępności cyfrowej, właściciele procesów, role wykonawcze, role kontrolne |
 | Wersja karty | 1.0 |
 | Data opracowania | 12 maja 2026 r. |
 
@@ -65,7 +65,7 @@ Rola stanowi istotne ogniwo pomiędzy:
 
 #### Rola współpracuje z:
 - kierownictwem organizacji,
-- sponsorem wykonawczym dostępności,
+- sponsorem wykonawczym ds. dostępności,
 - koordynatorem ds. dostępności cyfrowej,
 - właścicielami procesów,
 - innymi kierownikami komórek organizacyjnych,

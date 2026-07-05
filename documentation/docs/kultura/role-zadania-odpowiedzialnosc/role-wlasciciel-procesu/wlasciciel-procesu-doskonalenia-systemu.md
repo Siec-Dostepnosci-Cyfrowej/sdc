@@ -22,7 +22,7 @@ wersja_robocza: true
 | Kategoria roli | procesowa / strategiczna / organizacyjna |
 | Poziom odpowiedzialności | strategiczny / zarządczy |
 | Powiązane procesy | doskonalenie systemu zapewniania dostępności cyfrowej, monitoring i ocena dojrzałości, działania naprawcze, zarządzanie zmianą organizacyjną |
-| Powiązane role | właściciele procesów, koordynator ds. dostępności cyfrowej, sponsor wykonawczy dostępności, analitycy dostępności, audytorzy dostępności, specjaliści ds. wsparcia kompetencyjnego |
+| Powiązane role | właściciele procesów, koordynator ds. dostępności cyfrowej, sponsor wykonawczy ds. dostępności, analitycy dostępności, audytorzy dostępności, specjaliści ds. wsparcia kompetencyjnego |
 | Wersja karty | 1.0 |
 | Data opracowania | 13 maja 2026 r. |
 
@@ -69,7 +69,7 @@ Rola:
 #### Rola współpracuje z:
 - właścicielami procesów,
 - koordynatorem ds. dostępności cyfrowej,
-- sponsorem wykonawczym dostępności,
+- sponsorem wykonawczym ds. dostępności,
 - analitykami i audytorami dostępności,
 - specjalistami ds. wsparcia kompetencyjnego,
 - kierownikami komórek organizacyjnych,
@@ -90,7 +90,7 @@ Rola:
 - specjalistów technicznych i organizacyjnych.
 
 #### Rola raportuje do:
-- sponsora wykonawczego dostępności lub kierownictwa organizacji.
+- sponsora wykonawczego ds. dostępności lub kierownictwa organizacji.
 
 ---
 

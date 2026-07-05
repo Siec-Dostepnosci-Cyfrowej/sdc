@@ -116,7 +116,7 @@ Role i odpowiedzialności stanowią jeden z podstawowych elementów systemu zarz
 1. Załącznik: Organizacja systemu odpowiedzialności za dostępność cyfrową
 1. Załącznik: Wzór karty roli
 1. Załącznik: Karta roli - Kierownik organizacji lub członek zarządu
-1. Załącznik: Karta roli - Sponsor wykonawczy dostępności
+1. Załącznik: Karta roli - Sponsor wykonawczy ds. dostępności
 1. Załącznik: Karta roli - Koordynator ds. dostępności cyfrowej
 1. Załącznik: Karta roli - Kierownik komórki organizacyjnej
 1. Załącznik: Karta roli - Właściciel procesu
