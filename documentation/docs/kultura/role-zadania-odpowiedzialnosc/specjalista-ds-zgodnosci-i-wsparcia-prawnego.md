@@ -20,7 +20,7 @@ wersja_robocza: true
 | Kategoria roli | organizacyjna / kontrolna / wspierająca |
 | Poziom odpowiedzialności | ekspercki |
 | Powiązane procesy | zarządzanie zgodnością, organizacja systemu dostępności cyfrowej, zamówienia dostępne, publikacja i utrzymanie treści, działania naprawcze, monitoring i audyt |
-| Powiązane role | kierownictwo organizacji, sponsor wykonawczy dostępności, koordynator dostępności, właściciele procesów, specjaliści ds. zamówień dostępnych, audytorzy dostępności |
+| Powiązane role | kierownictwo organizacji, sponsor wykonawczy dostępności, koordynator ds. dostępności cyfrowej, właściciele procesów, specjaliści ds. zamówień dostępnych, audytorzy dostępności |
 | Wersja karty | 1.0 |
 | Data opracowania | 12 maja 2026 r. |
 
@@ -67,7 +67,7 @@ Rola:
 #### Rola współpracuje z:
 - kierownictwem organizacji,
 - sponsorem wykonawczym dostępności,
-- koordynatorem dostępności,
+- koordynatorem ds. dostępności cyfrowej,
 - właścicielami procesów,
 - specjalistami ds. zamówień dostępnych,
 - audytorami i analitykami dostępności,

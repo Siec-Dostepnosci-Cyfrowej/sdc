@@ -277,9 +277,9 @@ Sponsor wykonawczy dostępności odpowiada za:
 
 ---
 
-### 6.3. Koordynator dostępności
+### 6.3. Koordynator ds. dostępności cyfrowej
 
-Koordynator dostępności odpowiada za:
+Koordynator ds. dostępności cyfrowej odpowiada za:
 
 - organizację monitorowania,
 - analizę problemów systemowych,
@@ -685,7 +685,7 @@ Raporty mogą być przygotowywane dla:
 - sponsora wykonawczego dostępności,
 - właścicieli procesów,
 - właścicieli usług publicznych,
-- koordynatora dostępności,
+- koordynatora ds. dostępności cyfrowej,
 - zespołów realizujących działania.
 
 ---

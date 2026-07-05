@@ -21,7 +21,7 @@ wersja_robocza: true
 | Kategoria roli | procesowa / operacyjna |
 | Poziom odpowiedzialności | operacyjny / organizacyjny |
 | Powiązane procesy | obsługa zgłoszeń dotyczących dostępności cyfrowej, monitoring jakości, działania naprawcze, doskonalenie systemu |
-| Powiązane role | koordynator dostępności, właściciele procesów, kierownicy komórek organizacyjnych, autorzy treści, administratorzy systemów, testerzy i analitycy |
+| Powiązane role | koordynator ds. dostępności cyfrowej, właściciele procesów, kierownicy komórek organizacyjnych, autorzy treści, administratorzy systemów, testerzy i analitycy |
 | Wersja karty | 1.0 |
 | Data opracowania | 12 maja 2026 r. |
 
@@ -66,7 +66,7 @@ Rola:
 ### 3.2. Relacje organizacyjne
 
 #### Rola współpracuje z:
-- koordynatorem dostępności,
+- koordynatorem ds. dostępności cyfrowej,
 - właścicielami procesów,
 - kierownikami komórek organizacyjnych,
 - autorami i redaktorami treści,
@@ -82,14 +82,14 @@ Rola:
 - organizację komunikacji związanej ze zgłoszeniami.
 
 #### Rola otrzymuje wsparcie od:
-- koordynatora dostępności,
+- koordynatora ds. dostępności cyfrowej,
 - specjalistów dostępności,
 - administratorów systemów,
 - ekspertów technicznych i organizacyjnych,
 - specjalistów wsparcia kompetencyjnego.
 
 #### Rola raportuje do:
-- koordynatora dostępności lub kierownika odpowiedzialnego za organizację obsługi zgłoszeń.
+- koordynatora ds. dostępności cyfrowej lub kierownika odpowiedzialnego za organizację obsługi zgłoszeń.
 
 ---
 
@@ -199,7 +199,7 @@ Rola zwykle:
 - procedury obsługi zgłoszeń,
 - instrukcje klasyfikacji problemów,
 - konsultacje specjalistów dostępności,
-- wsparcie koordynatora dostępności,
+- wsparcie koordynatora ds. dostępności cyfrowej,
 - wzory odpowiedzi i komunikacji,
 - narzędzia do monitorowania zgłoszeń.
 

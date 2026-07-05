@@ -21,7 +21,7 @@ wersja_robocza: true
 | Kategoria roli | kompetencyjna / jakościowa |
 | Poziom odpowiedzialności | ekspercki / operacyjny |
 | Powiązane procesy | organizacja komunikacji cyfrowej, zarządzanie treściami i dokumentami, projektowanie usług cyfrowych, wsparcie kompetencyjne |
-| Powiązane role | autorzy treści, redaktorzy, osoby przygotowujące elementy dostępności, właściciele obszarów merytorycznych, koordynator dostępności |
+| Powiązane role | autorzy treści, redaktorzy, osoby przygotowujące elementy dostępności, właściciele obszarów merytorycznych, koordynator ds. dostępności cyfrowej |
 | Wersja karty | 1.0 |
 | Data opracowania | 12 maja 2026 r. |
 
@@ -72,7 +72,7 @@ Rola:
 - osobami przygotowującymi elementy dostępności,
 - właścicielami obszarów merytorycznych,
 - osobami publikującymi,
-- koordynatorem dostępności,
+- koordynatorem ds. dostępności cyfrowej,
 - specjalistami wsparcia kompetencyjnego.
 
 #### Rola wspiera:
@@ -90,7 +90,7 @@ Rola:
 - kierowników komórek organizacyjnych.
 
 #### Rola raportuje do:
-- właściciela procesu komunikacji cyfrowej, koordynatora dostępności lub kierownika odpowiedzialnego za komunikację.
+- właściciela procesu komunikacji cyfrowej, koordynatora ds. dostępności cyfrowej lub kierownika odpowiedzialnego za komunikację.
 
 ---
 

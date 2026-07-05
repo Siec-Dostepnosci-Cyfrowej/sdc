@@ -68,7 +68,7 @@ Zalecenie ma na celu wzmocnienie roli koordynacji dostępności cyfrowej poprzez
    - realnego wsparcia kierownictwa,
    - umocowanej funkcji koordynacyjnej,
    - współpracy międzyobszarowej.
-- Zalecenie ma na celu stworzenie warunków, w których koordynator dostępności cyfrowej 
+- Zalecenie ma na celu stworzenie warunków, w których koordynator ds. dostępności cyfrowej 
   posiada rzeczywisty wpływ na zmiany organizacyjne, a dostępność staje się elementem 
   jakości zarządzania, a nie wyłącznie obowiązkiem formalnym.	 
 	 

@@ -63,7 +63,7 @@ Organizacja określa role związane w szczególności z:
 W organizacji powinny zostać jednoznacznie określone w szczególności:
 - kierownictwo organizacji,
 - sponsor wykonawczy dostępności,
-- koordynator dostępności,
+- koordynator ds. dostępności cyfrowej,
 - właściciele procesów,
 - właściciele obszarów merytorycznych,
 - kierownicy komórek organizacyjnych,
@@ -217,7 +217,7 @@ Systemowe organizowanie odpowiedzialności:
 
 1. [Kierownictwo organizacji](kierownictwo-organizacji)
 2. [Sponsor wykonawczy dostępności](sponsor-wykonawczy-dostepnosci)
-3. [Koordynator dostępności](koordynator-dostepnosci)
+3. [Koordynator ds. dostępności cyfrowej](koordynator-dostepnosci)
 4. [Kierownik komórki organizacyjnej](kierownik-komorki-organizacyjnej)
 5. [Właściciel procesu](wlasciciel-procesu-organizacyjnego)
 6. [Właściciel obszaru merytorycznego](wlasciciel-obszaru)

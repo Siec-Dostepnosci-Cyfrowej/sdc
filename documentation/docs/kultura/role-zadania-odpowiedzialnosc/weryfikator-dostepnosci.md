@@ -87,7 +87,7 @@ Rola:
 - właścicieli procesów.
 
 #### Rola raportuje do:
-- właściciela procesu monitoringu i oceny, właściciela procesu zarządzania treściami lub koordynatora dostępności.
+- właściciela procesu monitoringu i oceny, właściciela procesu zarządzania treściami lub koordynatora ds. dostępności cyfrowej.
 
 ---
 

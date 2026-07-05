@@ -22,7 +22,7 @@ wersja_robocza: true
 | Kategoria roli | organizacyjna / procesowa |
 | Poziom odpowiedzialności | organizacyjny / operacyjny |
 | Powiązane procesy | Zarządzanie systemem dostępności cyfrowej; Projektowanie, rozwój i utrzymanie dostępnych usług publicznych; Monitoring, kontrola i ocena dostępności; Doskonalenie systemu zapewniania dostępności cyfrowej |
-| Powiązane role | Kierownictwo organizacji; Koordynator dostępności; Właściciel procesu; Projektant usług publicznych; Kierownik komórki organizacyjnej; Analityk dostępności; Tester dostępności; Właściciel systemu IT; Autor treści; Redaktor treści |
+| Powiązane role | Kierownictwo organizacji; Koordynator ds. dostępności cyfrowej; Właściciel procesu; Projektant usług publicznych; Kierownik komórki organizacyjnej; Analityk dostępności; Tester dostępności; Właściciel systemu IT; Autor treści; Redaktor treści |
 | Wersja karty | 1.0 |
 | Data opracowania | 2026-05-15 |
 
@@ -63,7 +63,7 @@ Rola łączy:
 ### 3.2. Relacje organizacyjne
 
 #### Rola współpracuje z:
-- koordynatorem dostępności,
+- koordynatorem ds. dostępności cyfrowej,
 - właścicielami procesów,
 - kierownikami komórek organizacyjnych,
 - projektantami usług publicznych,
@@ -80,7 +80,7 @@ Rola łączy:
 - zespoły utrzymaniowe i techniczne.
 
 #### Rola otrzymuje wsparcie od:
-- koordynatora dostępności,
+- koordynatora ds. dostępności cyfrowej,
 - ekspertów dostępności,
 - analityków dostępności,
 - specjalistów ds. komunikacji dostępnej,

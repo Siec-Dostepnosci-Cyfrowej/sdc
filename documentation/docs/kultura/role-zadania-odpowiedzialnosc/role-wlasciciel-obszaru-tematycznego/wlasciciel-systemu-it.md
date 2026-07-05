@@ -75,7 +75,7 @@ Rola:
 - testerami dostępności,
 - właścicielami usług cyfrowych,
 - właścicielami formularzy elektronicznych,
-- koordynatorem dostępności.
+- koordynatorem ds. dostępności cyfrowej.
 
 #### Rola wspiera:
 - organizację rozwoju i utrzymania systemów,

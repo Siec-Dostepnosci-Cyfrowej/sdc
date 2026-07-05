@@ -71,7 +71,7 @@ Rola:
 - autorami i redaktorami treści,
 - osobami publikującymi,
 - redaktorami jakości,
-- koordynatorem dostępności,
+- koordynatorem ds. dostępności cyfrowej,
 - administratorami systemów publikacyjnych.
 
 #### Rola wspiera:

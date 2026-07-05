@@ -77,7 +77,7 @@ Rola:
 - specjalistami ds. remediacji,
 - właścicielami usług cyfrowych,
 - specjalistami ds. zamówień dostępnych,
-- koordynatorem dostępności.
+- koordynatorem ds. dostępności cyfrowej.
 
 #### Rola wspiera:
 - organizację dostępności systemów IT,

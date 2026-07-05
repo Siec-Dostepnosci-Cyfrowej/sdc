@@ -71,7 +71,7 @@ Rola:
 - osobami przygotowującymi elementy dostępności,
 - osobami publikującymi,
 - redaktorami jakości,
-- koordynatorem dostępności.
+- koordynatorem ds. dostępności cyfrowej.
 
 #### Rola wspiera:
 - organizację tworzenia treści edukacyjnych,

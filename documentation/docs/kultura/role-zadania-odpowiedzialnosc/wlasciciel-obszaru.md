@@ -78,7 +78,7 @@ Rola:
 - specjalistami ds. komunikacji dostępnej.
 
 #### Rola otrzymuje wsparcie od:
-- koordynatora dostępności,
+- koordynatora ds. dostępności cyfrowej,
 - specjalistów wsparcia kompetencyjnego,
 - ekspertów merytorycznych,
 - specjalistów ds. komunikacji dostępnej,

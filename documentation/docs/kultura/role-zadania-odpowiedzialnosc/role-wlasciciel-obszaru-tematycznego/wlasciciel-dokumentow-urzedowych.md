@@ -71,7 +71,7 @@ Rola:
 - osobami publikującymi,
 - redaktorami jakości,
 - kierownikami komórek organizacyjnych,
-- koordynatorem dostępności.
+- koordynatorem ds. dostępności cyfrowej.
 
 #### Rola wspiera:
 - organizację przygotowania dokumentów,

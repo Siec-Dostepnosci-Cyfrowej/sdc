@@ -71,7 +71,7 @@ Rola:
 - testerami technicznymi,
 - analitykami i audytorami dostępności,
 - właścicielami procesów,
-- koordynatorem dostępności.
+- koordynatorem ds. dostępności cyfrowej.
 
 #### Rola wspiera:
 - organizację monitoringu i oceny,

@@ -72,7 +72,7 @@ Rola:
 - specjalistami ds. zgodności i wsparcia prawnego,
 - osobami publikującymi,
 - redaktorami jakości,
-- koordynatorem dostępności.
+- koordynatorem ds. dostępności cyfrowej.
 
 #### Rola wspiera:
 - organizację publikacji informacji prawnej,

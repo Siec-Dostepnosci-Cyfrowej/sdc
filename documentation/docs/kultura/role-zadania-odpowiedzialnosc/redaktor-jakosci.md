@@ -74,7 +74,7 @@ Rola:
 - weryfikatorami dostępności,
 - analitykami dostępności,
 - właścicielami procesów,
-- koordynatorem dostępności.
+- koordynatorem ds. dostępności cyfrowej.
 
 #### Rola wspiera:
 - rozwój jakości komunikacji,
@@ -91,7 +91,7 @@ Rola:
 - właścicieli procesów.
 
 #### Rola raportuje do:
-- właściciela procesu zarządzania treściami, właściciela procesu monitoringu i oceny lub koordynatora dostępności.
+- właściciela procesu zarządzania treściami, właściciela procesu monitoringu i oceny lub koordynatora ds. dostępności cyfrowej.
 
 ---
 

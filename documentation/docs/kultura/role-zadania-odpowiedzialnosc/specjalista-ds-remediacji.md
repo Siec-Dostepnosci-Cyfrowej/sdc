@@ -21,7 +21,7 @@ wersja_robocza: true
 | Kategoria roli | techniczna / naprawcza |
 | Poziom odpowiedzialności | operacyjny / ekspercki |
 | Powiązane procesy | działania naprawcze, utrzymanie dostępności cyfrowej, monitoring i doskonalenie systemu |
-| Powiązane role | koordynator dostępności, właściciele procesów, administratorzy systemów, autorzy i redaktorzy treści, testerzy, analitycy dostępności |
+| Powiązane role | koordynator ds. dostępności cyfrowej, właściciele procesów, administratorzy systemów, autorzy i redaktorzy treści, testerzy, analitycy dostępności |
 | Wersja karty | 1.0 |
 | Data opracowania | 12 maja 2026 r. |
 
@@ -65,7 +65,7 @@ Rola:
 ### 3.2. Relacje organizacyjne
 
 #### Rola współpracuje z:
-- koordynatorem dostępności,
+- koordynatorem ds. dostępności cyfrowej,
 - właścicielami procesów,
 - administratorami systemów,
 - autorami i redaktorami treści,
@@ -89,7 +89,7 @@ Rola:
 - kierowników komórek organizacyjnych.
 
 #### Rola raportuje do:
-- właściciela procesu działań naprawczych, kierownika zespołu lub koordynatora dostępności.
+- właściciela procesu działań naprawczych, kierownika zespołu lub koordynatora ds. dostępności cyfrowej.
 
 ---
 

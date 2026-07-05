@@ -72,7 +72,7 @@ Rola:
 - programistami i administratorami systemów,
 - testerami i audytorami dostępności,
 - właścicielami usług cyfrowych,
-- koordynatorem dostępności.
+- koordynatorem ds. dostępności cyfrowej.
 
 #### Rola wspiera:
 - organizację wymagań dostępnościowych w zamówieniach,

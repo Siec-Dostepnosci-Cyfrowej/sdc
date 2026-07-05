@@ -89,7 +89,7 @@ Rola:
 - specjalistów wsparcia kompetencyjnego.
 
 #### Rola raportuje do:
-- właściciela procesu monitoringu i oceny, koordynatora dostępności lub kierownika odpowiedzialnego za jakość i monitoring.
+- właściciela procesu monitoringu i oceny, koordynatora ds. dostępności cyfrowej lub kierownika odpowiedzialnego za jakość i monitoring.
 
 ---
 

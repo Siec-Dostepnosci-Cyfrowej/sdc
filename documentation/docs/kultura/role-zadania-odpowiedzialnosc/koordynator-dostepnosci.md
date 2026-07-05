@@ -1,7 +1,7 @@
 ---
 id: koordynator-dostepnosci
-title: Koordynator dostępności cyfrowej
-sidebar_label: Koordynator dostępności
+title: Koordynator ds. dostępności cyfrowej
+sidebar_label: Koordynator ds. dostępności cyfrowej
 sidebar_position: 12
 description: Określa cel roli koordynatora ds. dostępności cyfrowej w systemie zarządzania dostępnością cyfrową, zakres zadań, odpowiedzialności 
 keywords: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie, role, odpowiedzialności,kwalifikacje,kompetencje]
@@ -19,7 +19,7 @@ wersja_robocza: true
 
 | Pole | Opis |
 |---|---|
-| Nazwa roli | Koordynator dostępności |
+| Nazwa roli | Koordynator ds. dostępności cyfrowej |
 | Kategoria roli | organizacyjna |
 | Poziom odpowiedzialności | organizacyjny / koordynacyjny |
 | Powiązane procesy | wszystkie główne procesy systemu zapewniania dostępności cyfrowej |
@@ -33,7 +33,7 @@ wersja_robocza: true
 
 Wspieranie organizacji w zapewnianiu spójnego, skutecznego i trwałego systemu działań związanych z dostępnością cyfrową.
 
-Koordynator dostępności:
+Koordynator ds. dostępności cyfrowej:
 - organizuje współpracę,
 - wspiera realizację procesów,
 - identyfikuje problemy systemowe,
@@ -108,7 +108,7 @@ Rola funkcjonuje na styku:
 
 ### 4.1. Odpowiedzialność główna
 
-Koordynator dostępności odpowiada za:
+Koordynator ds. dostępności cyfrowej odpowiada za:
 - wspieranie organizacji systemu zapewniania dostępności cyfrowej,
 - koordynację współpracy między rolami i procesami,
 - wspieranie wdrażania działań organizacyjnych,
@@ -336,7 +336,7 @@ Koordynator:
 
 ## 15. Uwagi końcowe
 
-Koordynator dostępności pełni przede wszystkim rolę:
+Koordynator ds. dostępności cyfrowej pełni przede wszystkim rolę:
 - organizacyjną,
 - koordynacyjną,
 - wspierającą,

@@ -21,7 +21,7 @@ wersja_robocza: true
 | Kategoria roli | kontrolna / techniczna |
 | Poziom odpowiedzialności | operacyjny / specjalistyczny |
 | Powiązane procesy | monitoring dostępności cyfrowej, kontrola jakości, działania naprawcze, utrzymanie dostępności cyfrowej |
-| Powiązane role | analityk dostępności, tester dostępności, specjalista ds. remediacji, administrator systemów publikacyjnych, koordynator dostępności |
+| Powiązane role | analityk dostępności, tester dostępności, specjalista ds. remediacji, administrator systemów publikacyjnych, koordynator ds. dostępności cyfrowej |
 | Wersja karty | 1.0 |
 | Data opracowania | 12 maja 2026 r. |
 
@@ -71,7 +71,7 @@ Rola:
 - specjalistami ds. remediacji,
 - administratorami systemów publikacyjnych,
 - właścicielami procesów,
-- koordynatorem dostępności.
+- koordynatorem ds. dostępności cyfrowej.
 
 #### Rola wspiera:
 - monitoring dostępności cyfrowej,
@@ -88,7 +88,7 @@ Rola:
 - analityków i testerów.
 
 #### Rola raportuje do:
-- właściciela procesu monitoringu i oceny, analityka dostępności lub koordynatora dostępności.
+- właściciela procesu monitoringu i oceny, analityka dostępności lub koordynatora ds. dostępności cyfrowej.
 
 ---
 

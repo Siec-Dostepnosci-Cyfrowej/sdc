@@ -71,7 +71,7 @@ Rola:
 - testerami dostępności i testerami technicznymi,
 - administratorami systemów,
 - specjalistami ds. zamówień dostępnych,
-- koordynatorem dostępności.
+- koordynatorem ds. dostępności cyfrowej.
 
 #### Rola wspiera:
 - organizację projektowania usług cyfrowych,

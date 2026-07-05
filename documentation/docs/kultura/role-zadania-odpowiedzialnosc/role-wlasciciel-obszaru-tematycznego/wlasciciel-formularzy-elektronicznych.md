@@ -72,7 +72,7 @@ Rola:
 - testerami dostępności i testerami technicznymi,
 - właścicielami obszarów merytorycznych,
 - specjalistami ds. komunikacji dostępnej,
-- koordynatorem dostępności.
+- koordynatorem ds. dostępności cyfrowej.
 
 #### Rola wspiera:
 - organizację projektowania formularzy elektronicznych,

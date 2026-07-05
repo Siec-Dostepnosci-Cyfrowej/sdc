@@ -20,7 +20,7 @@ wersja_robocza: true
 | Kategoria roli | organizacyjna / procesowa |
 | Poziom odpowiedzialności | organizacyjny / zarządczy |
 | Powiązane procesy | wszystkie główne procesy systemu zapewniania dostępności cyfrowej |
-| Powiązane role | kierownictwo organizacji, sponsor wykonawczy dostępności, koordynator dostępności, kierownicy komórek organizacyjnych, role wykonawcze, role kontrolne |
+| Powiązane role | kierownictwo organizacji, sponsor wykonawczy dostępności, koordynator ds. dostępności cyfrowej, kierownicy komórek organizacyjnych, role wykonawcze, role kontrolne |
 | Wersja karty | 1.1 |
 | Data opracowania | 17 maja 2026 r. |
 
@@ -73,7 +73,7 @@ Rola:
 #### Rola współpracuje z:
 - kierownictwem organizacji,
 - sponsorem wykonawczym dostępności,
-- koordynatorem dostępności,
+- koordynatorem ds. dostępności cyfrowej,
 - kierownikami komórek organizacyjnych,
 - rolami wykonawczymi,
 - rolami kontrolnymi i audytowymi,
@@ -90,7 +90,7 @@ Rola:
 #### Rola otrzymuje wsparcie od:
 - kierownictwa organizacji,
 - sponsora wykonawczego,
-- koordynatora dostępności,
+- koordynatora ds. dostępności cyfrowej,
 - ekspertów,
 - analityków,
 - audytorów.
@@ -281,7 +281,7 @@ Właściciel procesu odpowiada przede wszystkim za:
 Rola:
 - nie oznacza samodzielnego wykonywania wszystkich działań,
 - nie zastępuje ról wykonawczych,
-- nie zastępuje koordynatora dostępności.
+- nie zastępuje koordynatora ds. dostępności cyfrowej.
 
 Skuteczność roli zależy od:
 - jakości organizacji odpowiedzialności,

@@ -173,7 +173,7 @@ Zapewnienie organizacyjnych warunków funkcjonowania systemu zapewniania dostęp
 
 ---
 
-### 4.2. Koordynator dostępności
+### 4.2. Koordynator ds. dostępności cyfrowej
 
 #### Cel roli
 
