@@ -1,10 +1,10 @@
 ---
 id: filozofia-szdc-dokument-roboczy
-title: Filozofia Systemu Zarządzania Dostępnością Cyfrową
+title: Filozofia systemu zapewniania dostępności cyfrowej
 sidebar_position: 0
 sidebar_label: Filozofia SZDC
-keywords: [System Zarządzania Dostępnością Cyfrową]
-tags: [System Zarządzania Dostępnością Cyfrową]  
+keywords: [System zapewniania dostępności cyfrowej]
+tags: [System zapewniania dostępności cyfrowej]  
 opracowanie: Stefan Wajda
 data_zgłoszenia: 5 lipca 2026 r.
 data_aktualizacji: 5 lipca 2026 r.
@@ -20,7 +20,7 @@ data_aktualizacji: 5 lipca 2026 r.
 
 ## Cel dokumentu
 
-Ten dokument przedstawia podstawowe założenia przyjęte podczas projektowania Systemu Zarządzania Dostępnością Cyfrową (SZDC).
+Ten dokument przedstawia podstawowe założenia przyjęte podczas projektowania systemu zapewniania dostępności cyfrowej (SZDC).
 
 Nie stanowi części dokumentacji przeznaczonej do publikacji. Jego celem jest zapewnienie spójności opracowywanych metadokumentów, zaleceń, załączników i dobrych praktyk oraz ułatwienie podejmowania decyzji redakcyjnych.
 
@@ -30,15 +30,15 @@ Nie stanowi części dokumentacji przeznaczonej do publikacji. Jego celem jest z
 
 Dostępność cyfrowa nie jest odrębnym obszarem działalności organizacji. Nie jest również rezultatem pojedynczych działań podejmowanych w celu zapewnienia dostępności.
 
-Jest właściwością systemu zarządzania organizacją, który kształtuje sposób projektowania, wytwarzania, publikowania, utrzymywania i rozwijania informacji, usług oraz technologii wykorzystywanych przez organizację.
+Jest właściwością systemu zarządzania organizacją, który określa sposób projektowania, wytwarzania, publikowania, utrzymywania i rozwijania informacji, usług oraz technologii wykorzystywanych przez organizację.
 
-Dlatego przedmiotem projektowania Systemu Zarządzania Dostępnością Cyfrową jest sposób funkcjonowania organizacji, a nie zbiór wymagań technicznych dotyczących jej produktów i usług cyfrowych.
+Dlatego przedmiotem projektowania systemu zapewniania dostępności cyfrowej jest sposób funkcjonowania organizacji, a nie zbiór wymagań technicznych dotyczących jej rozwiązań wykorzystujących technologie informacyjno-komunikacyjne.
 
 ---
 
-## 2. Celem SZDC jest podejmowanie właściwych decyzji
+## 2. SZDC wspiera podejmowanie właściwych decyzji
 
-System Zarządzania Dostępnością Cyfrową istnieje po to, aby osoby odpowiedzialne za organizację mogły podejmować trafne decyzje dotyczące dostępności cyfrowej.
+System zapewniania dostępności cyfrowej tworzy warunki do podejmowania właściwych decyzji, dzięki którym organizacja zapewnia dostępność cyfrową.
 
 Każdy element SZDC powinien wspierać proces podejmowania decyzji.
 
@@ -48,7 +48,7 @@ Każdy element SZDC powinien wspierać proces podejmowania decyzji.
 
 Decyzje dotyczące dostępności cyfrowej powinny być podejmowane na podstawie aktualnej i wiarygodnej wiedzy.
 
-Dlatego podstawowym zadaniem SZDC jest utrzymywanie informacji niezbędnych do zarządzania dostępnością cyfrową.
+Dlatego podstawowym zadaniem SZDC jest utrzymywanie aktualnej wiedzy niezbędnej do zapewniania dostępności cyfrowej. 
 
 ---
 
@@ -66,15 +66,15 @@ Informacja powinna być tworzona raz i wielokrotnie wykorzystywana przez różne
 
 Procesy nie istnieją dla samych siebie.
 
-Ich zadaniem jest pozyskiwanie, aktualizowanie, wykorzystywanie oraz udostępnianie informacji niezbędnych do zarządzania dostępnością cyfrową.
+Ich zadaniem jest pozyskiwanie, aktualizowanie, wykorzystywanie oraz udostępnianie informacji niezbędnych do zapewniania dostępności cyfrowej.
 
 ---
 
 ## 6. Ocena jest procesem ciągłym
 
-Podstawą zarządzania dostępnością nie są okresowe audyty.
+Podstawą zapewniania dostępności cyfrowej nie są okresowe audyty.
 
-Organizacja utrzymuje stale aktualną wiedzę o stanie dostępności i zgodności swoich zasobów oraz o stanie własnego Systemu Zarządzania Dostępnością Cyfrową.
+Organizacja utrzymuje stale aktualną wiedzę o stanie dostępności i zgodności swoich zasobów oraz o zdolności organizacji do zapewniania dostępności cyfrowej.
 
 Każde nowe ustalenie powinno aktualizować tę wiedzę.
 
@@ -94,7 +94,7 @@ Wiarygodność deklaracji zależy od jakości informacji, na których została o
 
 Ocena zgodności, odbiory, monitorowanie, zgłoszenia użytkowników, działania naprawcze, przeglądy kierownictwa oraz ocena dojrzałości nie są odrębnymi systemami.
 
-Są elementami jednego Systemu Zarządzania Dostępnością Cyfrową.
+Wspólnie tworzą system zapewniania dostępności cyfrowej organizacji.
 
 ---
 
@@ -102,7 +102,7 @@ Są elementami jednego Systemu Zarządzania Dostępnością Cyfrową.
 
 Model Dojrzałości Dostępności Cyfrowej służy ocenie organizacji.
 
-Nie opisuje budowy Systemu Zarządzania Dostępnością Cyfrową.
+Nie opisuje budowy systemu zapewniania dostępności cyfrowej.
 
 Architektura SZDC i Model Dojrzałości przedstawiają ten sam system z różnych perspektyw i pełnią odmienne funkcje.
 
@@ -128,7 +128,7 @@ Repozytorium powinno umożliwiać dalszy rozwój oraz aktualizację opracowań b
 
 ---
 
-## 12. SZDC jest systemem uczącym się
+## 12. Organizacja uczy się zapewniać dostępność cyfrową
 
 Każda ocena, każde zgłoszenie użytkownika, każda naprawa oraz każde wdrożenie nowego rozwiązania zwiększają wiedzę organizacji.
 

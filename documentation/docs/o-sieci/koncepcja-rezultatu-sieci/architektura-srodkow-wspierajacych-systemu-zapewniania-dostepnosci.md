@@ -1,24 +1,24 @@
 ---
-id: architektura-srodkow-wspierajacych-systemu-zarzadzania-dostepnoscia
-title: Architektura środków wspierających System Zarządzania Dostępnością Cyfrową
+id: architektura-srodkow-wspierajacych-systemu-zapewniania-dostepnosci
+title: Architektura środków wspierających systemu zapewniania dostępności cyfrowej
 sidebar_position: 5
 sidebar_label: Architektura środków wspierających
-keywords: [System Zarządzania Dostępnością Cyfrową, architektura środków wspierających]
-tags: [System Zarządzania Dostępnością Cyfrową, architektura środków wspierających]  
+keywords: [System zapewniania dostępności cyfrowej, architektura środków wspierających]
+tags: [System zapewniania dostępności cyfrowej, architektura środków wspierających]  
 opracowanie: Stefan Wajda
 data_zgłoszenia: 5 lipca 2026 r.
 data_aktualizacji: 5 lipca 2026 r.
 ---
 
-**Projekt, wersja 0.2**
+**Projekt, wersja 0.3**
 
 ## 1. Przeznaczenie dokumentu
 
-Ten dokument określa architekturę środków wspierających Systemu Zarządzania Dostępnością Cyfrową (SZDC).
+Ten dokument określa architekturę środków wspierających systemu zapewniania dostępności cyfrowej (SZDC).
 
 Architektura środków wspierających opisuje środki wykorzystywane przez organizację do realizacji procesów SZDC, utrzymywania informacji oraz podejmowania decyzji dotyczących dostępności cyfrowej.
 
-Dokument rozwija zasady przedstawione w **Podstawach Systemu Zarządzania Dostępnością Cyfrową**, **Architekturze informacji SZDC** oraz **Architekturze procesów SZDC**.
+Dokument rozwija zasady przedstawione w **Podstawach systemu zapewniania dostępności cyfrowej**, **Architekturze informacji SZDC** oraz **Architekturze procesów SZDC**.
 
 ---
 
@@ -150,7 +150,7 @@ Dobór środków powinien wynikać z potrzeb procesu, a nie odwrotnie.
 
 ## 6. Powiązanie środków wspierających z informacjami
 
-Środki wspierające korzystają z informacji utrzymywanych przez SZDC.
+Środki wspierające pozyskują, wykorzystują i prezentują informacje utrzymywane przez SZDC.
 
 Nie tworzą odrębnych źródeł informacji.
 
@@ -167,7 +167,7 @@ Informacje są utrzymywane zgodnie z zasadami określonymi w **Architekturze inf
 
 ## 7. Powiązanie środków wspierających z zaleceniami
 
-Zalecenia opisują sposób wykorzystania środków wspierających podczas realizacji poszczególnych procesów.
+Zalecenia określają sposób wykorzystania środków wspierających do realizacji wymagań SZDC.
 
 Każdy środek wspierający może być wykorzystywany przez wiele zaleceń.
 

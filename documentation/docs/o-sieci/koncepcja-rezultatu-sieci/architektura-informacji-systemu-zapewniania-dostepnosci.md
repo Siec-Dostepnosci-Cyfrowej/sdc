@@ -1,24 +1,24 @@
 ---
-id: architektura-informacji-systemu-zarzadzania-dostepnoscia
-title: Architektura informacji Systemu Zarządzania Dostępnością Cyfrową
+id: architektura-informacji-systemu-zapewniania-dostepnosci
+title: Architektura informacji systemu zapewniania dostępności cyfrowej
 sidebar_position: 3
 sidebar_label: Architektura informacji
-keywords: [System Zarządzania Dostępnością Cyfrową,SZDC,architektura informacji]
-tags: [System Zarządzania Dostępnością Cyfrową,SZDC,architektura informacji] 
+keywords: [System zapewniania dostępności cyfrowej,SZDC,architektura informacji]
+tags: [System zapewniania dostępności cyfrowej,SZDC,architektura informacji] 
 opracowanie: Stefan Wajda
 data_zgłoszenia: 5 lipca 2026 r.
 data_aktualizacji: 5 lipca 2026 r.
 ---
 
-**Projekt, wersja 0.2**
+**Projekt, wersja 0.3**
 
 ## 1. Przeznaczenie dokumentu
 
-Ten dokument określa architekturę informacji Systemu Zarządzania Dostępnością Cyfrową (SZDC).
+Ten dokument określa architekturę informacji systemu zapewniania dostępności cyfrowej (SZDC).
 
 Architektura informacji definiuje rodzaje informacji utrzymywanych przez organizację, relacje pomiędzy nimi oraz zasady ich tworzenia, aktualizacji i wykorzystywania.
 
-Stanowi podstawę projektowania procesów, środków wspierających oraz dokumentów wykorzystujących informacje utrzymywane przez SZDC.
+Stanowi podstawę projektowania procesów, środków wspierających oraz dokumentów wykorzystujących informacje SZDC.
 
 ---
 
@@ -27,7 +27,7 @@ Stanowi podstawę projektowania procesów, środków wspierających oraz dokumen
 Celem architektury informacji jest zapewnienie, aby decyzje dotyczące dostępności cyfrowej były podejmowane na podstawie aktualnej, wiarygodnej i spójnej wiedzy.
 
 Architektura informacji:
-- określa informacje utrzymywane przez organizację;
+- określa informacje utrzymywane przez SZDC;
 - eliminuje powielanie informacji;
 - wskazuje źródła informacji;
 - określa sposób ich wykorzystania;
@@ -36,11 +36,11 @@ Architektura informacji:
 ![Architektura informacji SZDC](/o-sieci/koncepcja-rezultatu-sieci/diag-02-architektura-informacji.png)
 
 <details>
-<summary>Architektura dokumentacji SZDC</summary>
+<summary>Architektura informacji SZDC</summary>
 
-<strong>Cel diagramu</strong>. Diagram przedstawia sposób organizacji informacji wykorzystywanych przez System Zarządzania Dostępnością Cyfrową.
+<strong>Cel diagramu</strong>. Diagram przedstawia sposób organizacji informacji wykorzystywanych przez system zapewniania dostępności cyfrowej.
 
-<strong>Opis diagramu</strong>. Architektura informacji opiera się na dwóch centralnych rejestrach. Pierwszy gromadzi informacje o stanie dostępności i zgodności zasobów cyfrowych. Drugi zawiera informacje opisujące stan Systemu Zarządzania Dostępnością Cyfrową oraz zdolność organizacji do zapewniania dostępności cyfrowej.
+<strong>Opis diagramu</strong>. Centralnym elementem architektury informacji są dwa rejestry. Pierwszy gromadzi informacje o stanie dostępności i zgodności zasobów cyfrowych. Drugi zawiera informacje opisujące stan systemu zapewniania dostępności cyfrowej oraz zdolność organizacji do zapewniania dostępności cyfrowej.
 
 Informacje pozyskiwane podczas realizacji procesów są aktualizowane w odpowiednich rejestrach. Rejestry stanowią jedyne źródło informacji wykorzystywane przez procesy, raporty, deklarację dostępności oraz pozostałe dokumenty.
 
@@ -57,7 +57,7 @@ Architektura informacji opiera się na następujących zasadach.
 
 ### Wiedza jest utrzymywana w sposób ciągły
 
-Organizacja utrzymuje aktualną wiedzę o dostępności swoich zasobów oraz o stanie Systemu Zarządzania Dostępnością Cyfrową.
+Organizacja utrzymuje aktualną wiedzę o dostępności swoich zasobów oraz o stanie systemu zapewniania dostępności cyfrowej dzięki ciągłej aktualizacji informacji.
 
 Informacje są aktualizowane wraz ze zmianami zachodzącymi w organizacji i jej zasobach.
 
@@ -93,12 +93,12 @@ Dokumenty nie stanowią źródła informacji, lecz wykorzystują informacje utrz
 
 ---
 
-## 4. Dwa centralne rejestry informacji SZDC
+## 4. Dwa centralne rejestry SZDC
 
 Architektura informacji SZDC opiera się na dwóch centralnych rejestrach:
 
 - **Rejestrze stanu dostępności i zgodności**;
-- **Rejestrze stanu Systemu Zarządzania Dostępnością Cyfrową**.
+- **Rejestrze stanu systemu zapewniania dostępności cyfrowej**.
 
 Pozostałe procesy, dokumenty i środki wspierające służą pozyskiwaniu, aktualizowaniu, wykorzystywaniu lub prezentowaniu informacji zgromadzonych w tych rejestrach.
 
@@ -108,7 +108,7 @@ Jest centralnym rejestrem informacji o stanie dostępności i zgodności zasobó
 
 Odpowiada między innymi na pytania:
 
-- jaki jest aktualny stan  dostępności i zgodności;
+- jaki jest aktualny stan dostępności i zgodności;
 - jakie problemy występują;
 - jakie działania naprawcze są prowadzone;
 - jakie są materiały dowodowe;
@@ -116,9 +116,9 @@ Odpowiada między innymi na pytania:
 
 ---
 
-### 4.2. Rejestr stanu Systemu Zarządzania Dostępnością Cyfrową
+### 4.2. Rejestr stanu systemu zapewniania dostępności cyfrowej
 
-Jest centralnym rejestrem informacji opisujących stan Systemu Zarządzania Dostępnością Cyfrową oraz zdolność organizacji do zapewniania dostępności cyfrowej.
+Jest centralnym rejestrem informacji opisujących stan systemu zapewniania dostępności cyfrowej oraz zdolność organizacji do zapewniania dostępności cyfrowej.
 
 Dotyczy między innymi:
 
@@ -162,7 +162,7 @@ Powstają w wyniku analizy informacji pierwotnych.
 Obejmują między innymi:
 
 - Rejestr stanu dostępności i zgodności,
-- Rejestr stanu Systemu Zarządzania Dostępnością Cyfrową,
+- Rejestr stanu systemu zapewniania dostępności cyfrowej,
 - rejestr problemów,
 - wskaźniki,
 - plany działań,
@@ -192,23 +192,24 @@ Obejmują między innymi:
 <details>
 <summary>Diagram 4. Przepływ informacji w SZDC</summary>
 
-<strong>Cel diagramu</strong>. Diagram przedstawia sposób przepływu informacji przez System Zarządzania Dostępnością Cyfrową.
+<strong>Cel diagramu</strong>. Diagram przedstawia sposób przepływu informacji przez system zapewniania dostępności cyfrowej.
 
 <strong>Opis diagramu</strong>. Proces rozpoczyna się od pozyskania obserwacji oraz materiałów dowodowych. Na ich podstawie powstają informacje aktualizujące odpowiedni rejestr. Informacje zgromadzone w rejestrach są następnie wykorzystywane do analizy sytuacji, podejmowania decyzji oraz planowania działań.
 
-Realizacja działań prowadzi do zmiany stanu dostępności zasobów lub stanu Systemu Zarządzania Dostępnością Cyfrową. Zmiana ta jest ponownie obserwowana i dokumentowana, co powoduje kolejną aktualizację rejestrów.
+Realizacja działań prowadzi do zmiany stanu dostępności zasobów lub stanu systemu zapewniania dostępności cyfrowej. Zmiana ta jest ponownie obserwowana i dokumentowana, co powoduje kolejną aktualizację rejestrów.
 
-<strong>Najważniejszy wniosek</strong>. Diagram pokazuje, że SZDC działa jako system ciągłego uczenia się. Informacje nie są tworzone jednorazowo ani okresowo, lecz są stale aktualizowane i wielokrotnie wykorzystywane do zarządzania dostępnością cyfrową.
+<strong>Najważniejszy wniosek</strong>. Diagram pokazuje, że SZDC działa jako system ciągłego uczenia się. Informacje nie są tworzone jednorazowo ani okresowo, lecz są stale aktualizowane i wielokrotnie wykorzystywane do zapewniania dostępności cyfrowej.
 
 </details>
 
-Procesy SZDC nie utrzymują własnych zbiorów informacji. Ich zadaniem jest pozyskiwanie, aktualizowanie, wykorzystywanie oraz publikowanie informacji utrzymywanych w centralnych rejestrach SZDC.
+Procesy SZDC nie powinny utrzymywać własnych zbiorów informacji. Ich zadaniem jest pozyskiwanie, aktualizowanie, wykorzystywanie oraz publikowanie informacji utrzymywanych w centralnych rejestrach SZDC.
 
 Każda nowa informacja powinna zostać oceniona pod kątem wpływu na:
 
 - Rejestr stanu dostępności i zgodności,
-- Rejestr stanu Systemu Zarządzania Dostępnością Cyfrową,
+- Rejestr stanu systemu zapewniania dostępności cyfrowej,
 - plan działań,
+- decyzje kierownictwa,
 - deklarację dostępności,
 - raportowanie kierownictwu.
 
@@ -221,7 +222,7 @@ Architektura informacji stanowi podstawę dla:
 - Architektury procesów SZDC;
 - Architektury środków wspierających SZDC.
 
-Procesy tworzą i wykorzystują informacje opisane w tym dokumencie.
+Procesy tworzą, aktualizują i wykorzystują informacje opisane w tym dokumencie.
 
 ---
 
@@ -234,4 +235,4 @@ Architektura informacji stanowi podstawę:
 - projektowania dokumentów wykorzystujących informacje SZDC;
 - projektowania wskaźników;
 - projektowania narzędzi informatycznych;
-- utrzymywania spójności informacji w całym Systemie Zarządzania Dostępnością Cyfrową.
+- utrzymywania spójności informacji w całym systemie zapewniania dostępności cyfrowej.

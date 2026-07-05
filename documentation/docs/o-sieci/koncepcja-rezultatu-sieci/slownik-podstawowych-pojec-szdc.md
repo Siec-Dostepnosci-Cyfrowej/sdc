@@ -1,10 +1,10 @@
 ---
 id: slownik-podstawowych-pojec-szdc
-title: Słownik podstawowych pojęć Systemu Zarządzania Dostępnością Cyfrową
+title: Słownik podstawowych pojęć systemu zapewniania dostępności cyfrowej
 sidebar_position: 6
 sidebar_label: Słownik podstawowych pojęć
-keywords: [System Zarządzania Dostępnością Cyfrową, słownik, pojęcia]
-tags: [System Zarządzania Dostępnością Cyfrową, słownik, pojęcia] 
+keywords: [System zapewniania dostępności cyfrowej, słownik, pojęcia]
+tags: [System zapewniania dostępności cyfrowej, słownik, pojęcia] 
 opracowanie: Stefan Wajda
 data_zgłoszenia: 5 lipca 2026 r.
 data_aktualizacji: 5 lipca 2026 r.
@@ -14,7 +14,7 @@ data_aktualizacji: 5 lipca 2026 r.
 
 ## 1. Przeznaczenie dokumentu
 
-Ten dokument definiuje podstawowe pojęcia wykorzystywane w Systemie Zarządzania Dostępnością Cyfrową (SZDC).
+Ten dokument definiuje podstawowe pojęcia wykorzystywane w systemie zapewniania dostępności cyfrowej (SZDC).
 
 Jego celem jest zapewnienie jednolitego rozumienia pojęć stosowanych w metadokumentach, zaleceniach, załącznikach oraz dobrych praktykach.
 
@@ -28,7 +28,7 @@ Definicje odnoszą się do sposobu wykorzystania pojęć w SZDC. Nie zastępują
 
 Właściwość rozwiązań wykorzystujących technologie informacyjno-komunikacyjne polegająca na możliwości korzystania z nich przez możliwie najszerszy krąg użytkowników, w tym osoby z niepełnosprawnościami, bez potrzeby stosowania szczególnych adaptacji lub przy wykorzystaniu technologii wspomagających.
 
-W SZDC dostępność cyfrowa jest traktowana jako rezultat sposobu funkcjonowania organizacji.
+W SZDC dostępność cyfrowa jest rezultatem sposobu funkcjonowania organizacji.
 
 ---
 
@@ -44,13 +44,13 @@ Ocena zgodności jest jednym ze źródeł informacji wykorzystywanych przez SZDC
 
 Aktualny, udokumentowany opis określonego obiektu w danym momencie.
 
-W SZDC pojęcie stanu odnosi się przede wszystkim do stanu dostępności i zgodności zasobów oraz stanu Systemu Zarządzania Dostępnością Cyfrową.
+W SZDC pojęcie stanu odnosi się przede wszystkim do stanu dostępności i zgodności zasobów oraz stanu systemu zapewniania dostępności cyfrowej.
 
 ---
 
 ### Rejestr
 
-Centralnie utrzymywany zbiór informacji wykorzystywany przez SZDC.
+Centralnie utrzymywany zbiór powiązanych informacji wykorzystywany przez SZDC.
 
 Rejestr jest stale aktualizowany i stanowi podstawowe źródło informacji wykorzystywane przez procesy, raporty oraz publikacje.
 
@@ -80,6 +80,14 @@ Wskaźniki służą monitorowaniu zmian, ocenie skuteczności działań oraz wsp
 
 ---
 
+### Ocena
+
+Wynik analizy informacji prowadzący do sformułowania wniosku stanowiącego podstawę podjęcia decyzji.
+
+Ocena może dotyczyć między innymi stanu dostępności i zgodności, skuteczności działań, dojrzałości organizacji, ryzyka lub możliwości zapewnienia dostępności.
+
+---
+
 ### Problem
 
 Udokumentowana sytuacja wymagająca podjęcia działań.
@@ -92,7 +100,7 @@ Problem może dotyczyć zarówno stanu dostępności i zgodności zasobów, jak 
 
 Rozstrzygnięcie podejmowane na podstawie informacji utrzymywanych przez SZDC.
 
-Decyzje prowadzą do działań wpływających na stan dostępności i zgodności lub na rozwój Systemu Zarządzania Dostępnością Cyfrową.
+Decyzje prowadzą do działań wpływających na stan dostępności i zgodności lub na rozwój systemu zapewniania dostępności cyfrowej.
 
 ---
 
@@ -108,7 +116,7 @@ Działania mogą prowadzić do usunięcia problemów, ograniczenia ryzyka, popra
 
 Możliwość trwałego zapewniania dostępności cyfrowej.
 
-Zdolność organizacji wynika ze stanu Systemu Zarządzania Dostępnością Cyfrową, a nie z pojedynczych działań lub pojedynczych osób.
+Zdolność organizacji wynika ze stanu systemu zapewniania dostępności cyfrowej, a nie z pojedynczych działań lub pojedynczych osób.
 
 ---
 
@@ -133,14 +141,14 @@ Element organizacyjny, metodyczny, techniczny lub kompetencyjny wspomagający re
 | Preferowane                       | Unikać                        |
 | -------------------------------- | ------------------------------- |
 | Rejestr stanu dostępności i zgodności   | raport zgodności                                                |
-| Rejestr stanu Systemu Zarządzania Dostępnością Cyfrową | rejestr zdolności organizacji |
+| Rejestr stanu systemu zapewniania dostępności cyfrowej | rejestr zdolności organizacji |
 | rozwiązanie wykorzystujące technologie informacyjno-komunikacyjne | produkt lub usługa cyfrowa (gdy chodzi o pojęcie ogólne)        |
 | środek wspierający   | narzędzie (jeżeli chodzi nie tylko o rozwiązania informatyczne) |
 | informacja     | wiedza (gdy chodzi o dane utrzymywane przez SZDC)               |
 
 ## 4. Zastosowanie słownika
 
-Pojęcia zdefiniowane w niniejszym dokumencie powinny być stosowane we wszystkich opracowaniach tworzących System Zarządzania Dostępnością Cyfrową.
+Pojęcia zdefiniowane w niniejszym dokumencie powinny być stosowane we wszystkich opracowaniach tworzących system zapewniania dostępności cyfrowej.
 
 Jeżeli w zaleceniu konieczne jest użycie pojęcia w znaczeniu odmiennym od przyjętego w SZDC, należy wyraźnie wskazać zakres i przyczynę takiego odstępstwa.
 

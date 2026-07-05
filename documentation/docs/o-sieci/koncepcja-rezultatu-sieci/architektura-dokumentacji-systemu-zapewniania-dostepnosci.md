@@ -1,10 +1,10 @@
 ---
-id: architektura-systemu-zarzadzania-dostepnoscia
-title: Architektura Systemu Zarządzania Dostępnością Cyfrową
+id: architektura-dokumentacji-systemu-zapewniania-dostepnosci
+title: Architektura dokumentacji systemu zapewniania dostępności cyfrowej
 sidebar_position: 2
-sidebar_label: Architektura SZDC
-keywords: [System Zarządzania Dostępnością Cyfrową,architektura SZDC]
-tags: [System Zarządzania Dostępnością Cyfrową,architektura SZDC]
+sidebar_label: Architektura dokumentacji
+keywords: [System zapewniania dostępności cyfrowej,architektura SZDC]
+tags: [System zapewniania dostępności cyfrowej,architektura SZDC]
 opracowanie: Stefan Wajda
 data_zgłoszenia: 5 lipca 2026 r.
 data_aktualizacji: 5 lipca 2026 r.
@@ -14,11 +14,11 @@ data_aktualizacji: 5 lipca 2026 r.
 
 ## 1. Przeznaczenie dokumentu
 
-Ten dokument określa architekturę dokumentacji Systemu Zarządzania Dostępnością Cyfrową (SZDC).
+Ten dokument określa architekturę dokumentacji systemu zapewniania dostępności cyfrowej (SZDC).
 
 Opisuje strukturę opracowań tworzących SZDC, relacje pomiędzy nimi oraz zasady organizacji repozytorium wiedzy rozwijanego przez Sieć Dostępności Cyfrowej.
 
-Stanowi rozwinięcie dokumentu **Podstawy Systemu Zarządzania Dostępnością Cyfrową**.
+Stanowi rozwinięcie dokumentu **Podstawy systemu zapewniania dostępności cyfrowej**.
 
 ---
 
@@ -32,7 +32,7 @@ Architektura:
 - definiuje rolę poszczególnych rodzajów dokumentów;
 - określa relacje pomiędzy dokumentami;
 - umożliwia rozwój repozytorium bez naruszania jego spójności;
-- ułatwia odnajdywanie powiązanych opracowań.
+- zapewnia jednoznaczne miejsce każdego rodzaju opracowania.
 
 ---
 
@@ -43,7 +43,7 @@ Architektura:
 <details>
 <summary>Architektura dokumentacji SZDC</summary>
 
-<strong>Cel diagramu</strong>. Diagram przedstawia strukturę dokumentacji Systemu Zarządzania Dostępnością Cyfrową.
+<strong>Cel diagramu</strong>. Diagram przedstawia strukturę dokumentacji systemu zapewniania dostępności cyfrowej.
 
 <strong>Opis diagramu</strong>. Najwyższy poziom tworzą Podstawy SZDC, które definiują wspólne zasady funkcjonowania całego systemu.
 
@@ -55,17 +55,15 @@ Na ich podstawie opracowywane są zalecenia. Każde zalecenie może być rozwija
 
 </details>
 
-Dokumentacja SZDC ma strukturę hierarchiczną.
+Dokumentację SZDC tworzą:
 
-Tworzą ją:
+- Podstawy SZDC;
+- metadokumenty;
+- zalecenia;
+- załączniki;
+- dobre praktyki.
 
-1. Podstawy SZDC;
-2. Metadokumenty;
-3. Zalecenia;
-4. Załączniki;
-5. Dobre praktyki.
-
-Każdy poziom pełni odrębną funkcję i rozwija dokumenty poziomu wyższego.
+Każdy rodzaj dokumentów pełni odrębną funkcję w dokumentacji SZDC.
 
 ---
 
@@ -75,10 +73,11 @@ Metadokumenty opisują ogólne zasady funkcjonowania SZDC.
 
 Tworzą je:
 
-- Architektura SZDC;
+- Architektura dokumentacji SZDC;
 - Architektura informacji SZDC;
 - Architektura procesów SZDC;
-- Architektura środków wspierających SZDC.
+- Architektura środków wspierających SZDC;
+- Słownik podstawowych pojęć SZDC.
 
 Metadokumenty nie opisują sposobu realizacji poszczególnych działań.
 
@@ -100,7 +99,7 @@ Wyróżnia się następujące obszary funkcjonowania:
 - Zaopatrzenie;
 - Wsparcie użytkowników.
 
-Obszary funkcjonowania nie stanowią elementów architektury SZDC.
+Obszary funkcjonowania nie stanowią elementów architektury dokumentacji SZDC.
 
 Przedstawiają system z perspektywy działalności organizacji.
 
@@ -114,7 +113,7 @@ Stanowi odrębny model służący ocenie stopnia rozwoju organizacji.
 
 Do oceny wykorzystuje obszary funkcjonowania SZDC.
 
-Model Dojrzałości i architektura SZDC opisują ten sam system z różnych perspektyw i pełnią odmienne funkcje.
+Model Dojrzałości i architektura dokumentacji SZDC opisują ten sam system z różnych perspektyw i pełnią odmienne funkcje.
 
 ---
 
@@ -122,12 +121,12 @@ Model Dojrzałości i architektura SZDC opisują ten sam system z różnych pers
 
 Zalecenia opisują sposób organizacji poszczególnych elementów SZDC.
 
-Każde zalecenie powinno:
+Każde zalecenie:
 
-- realizować założenia określone w Podstawach SZDC;
-- pozostawać zgodne z metadokumentami;
-- należeć do jednego obszaru funkcjonowania;
-- wskazywać powiązania z innymi zaleceniami.
+- realizuje założenia określone w Podstawach SZDC;
+- pozostaje zgodne z metadokumentami;
+- należy do jednego obszaru funkcjonowania;
+- wskazuje powiązania z innymi zaleceniami.
 
 ---
 
@@ -166,8 +165,8 @@ Poszczególne rodzaje dokumentów pełnią odmienne funkcje.
 
 | Dokument | Funkcja |
 |----------|---------|
-| Podstawy SZDC | Określają podstawowe założenia systemu |
-| Metadokumenty | Rozwijają poszczególne aspekty SZDC |
+| Podstawy SZDC | Definiują podstawowe założenia systemu |
+| Metadokumenty | Opisują poszczególne aspekty SZDC |
 | Zalecenia | Opisują sposób organizacji działań |
 | Załączniki | Wspierają wdrażanie zaleceń |
 | Dobre praktyki | Pokazują przykłady skutecznych rozwiązań |
