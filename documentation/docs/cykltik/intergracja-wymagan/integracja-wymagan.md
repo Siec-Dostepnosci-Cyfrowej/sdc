@@ -28,7 +28,7 @@ Dostępność nie powinna być traktowana jako odrębny etap projektu ani wyłą
 
 **1. Planowanie – tutaj zapadają najważniejsze decyzje**
 
-  Większość problemów związanych z dostępnością nie wynika z błędów programistycznych, lecz z decyzji podjętych na samym początku przedsięwzięcia. Jeżeli podczas planowania nie zostaną uwzględnione potrzeby użytkowników oraz wymagania dotyczące dostępności, ich późniejsze wdrożenie zwykle okazuje się znacznie trudniejsze i bardziej kosztowne.
+Większość problemów związanych z dostępnością nie wynika z błędów programistycznych, lecz z decyzji podjętych na samym początku przedsięwzięcia. Jeżeli podczas planowania nie zostaną uwzględnione potrzeby użytkowników oraz wymagania dotyczące dostępności, ich późniejsze wdrożenie zwykle okazuje się znacznie trudniejsze i bardziej kosztowne.
   
 Już na etapie planowaania warto odpowiedzieć sobie na kilka podstawowych pytań.
 
