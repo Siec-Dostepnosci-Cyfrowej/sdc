@@ -26,7 +26,7 @@ Nie opisuje sposobu wdrożenia SZDC w konkretnej organizacji. Określa elementy,
 
 System zapewniania dostępności cyfrowej jest częścią systemu zarządzania organizacją. Opisuje sposób, w jaki organizacja zapewnia dostępność cyfrową.
 
-![Mapa systemu zapewniania dostępności cyfrowej](/o-sieci/koncepcja-rezultatu-sieci/mapa-szdc.png)
+![Mapa systemu zapewniania dostępności cyfrowej](/o-sieci/koncepcja-rezultatu-sieci/mapa-szdc.svg)
 
 <details>
 <summary>Opis mapy systemu</summary>
@@ -35,7 +35,7 @@ System zapewniania dostępności cyfrowej jest częścią systemu zarządzania o
 
 <strong>Opis diagramu</strong>. U podstaw systemu znajdują się Podstawy systemu zapewniania dostępności cyfrowej, które definiują jego cele, zasady i strukturę. Na ich podstawie opracowano metadokumenty opisujące architekturę dokumentacji, informacji, procesów i środków wspierających oraz słownik podstawowych pojęć.
 
-Metadokumenty stanowią wspólną podstawę dla wszystkich zaleceń. Zalecenia są uporządkowane według siedmiu obszarów funkcjonowania organizacji i mogą być rozwijane za pomocą załączników oraz dobrych praktyk.
+Metadokumenty stanowią wspólną podstawę dla wszystkich zaleceń. Zalecenia są uporządkowane według siedmiu wymiarów zapewniania dostępności i mogą być rozwijane za pomocą załączników oraz dobrych praktyk.
 
 <strong>Najważniejszy wniosek</strong>. Model Dojrzałości wykorzystuje tę samą klasyfikację obszarów funkcjonowania do oceny zdolności organizacji do zapewniania dostępności cyfrowej.
 
@@ -136,21 +136,21 @@ Odpowiada na pytanie:
 
 ---
 
-## 7. Obszary funkcjonowania SZDC
+## 7. Wymiary systemu zapewniania dostępności cyfrowej
 
-System zapewniania dostępności cyfrowej obejmuje wszystkie obszary działalności organizacji mające wpływ na dostępność cyfrową.
+Wymiary SZDC wyznaczają podstawowe perspektywy opisu, organizacji i oceny sposobu, w jaki organizacja zapewnia dostępność cyfrową.
 
-W celu uporządkowania zaleceń oraz oceny dojrzałości organizacji wyróżnia się następujące obszary funkcjonowania:
+W celu uporządkowania zaleceń oraz oceny dojrzałości organizacji wyróżnia się następujące wymiary:
 
 - Przywództwo i kultura organizacyjna;
 - Personel;
 - Wiedza i umiejętności;
 - Komunikacja;
-- Cykl życia technologii informacyjno-komunikacyjnych;
+- Cykl życia technologii informacyjno-komunikacyjnych (TIK);
 - Zaopatrzenie;
 - Wsparcie użytkowników.
 
-Obszary funkcjonowania służą klasyfikowaniu zaleceń oraz ocenie dojrzałości organizacji. Nie opisują architektury SZDC, lecz przedstawiają ją z perspektywy działalności organizacji.
+Wymiary służą porządkowaniu zaleceń oraz ocenie zdolności organizacji do zapewniania dostępności cyfrowej za pomocą Modelu Dojrzałości Dostępności Cyfrowej. 
 
 ---
 

@@ -33,7 +33,7 @@ Architektura informacji:
 - określa sposób ich wykorzystania;
 - zapewnia spójność informacji wykorzystywanych przez SZDC.
 
-![Architektura informacji SZDC](/o-sieci/koncepcja-rezultatu-sieci/diag-02-architektura-informacji.png)
+![Architektura informacji SZDC](/o-sieci/koncepcja-rezultatu-sieci/diag-02-architektura-informacji.svg)
 
 <details>
 <summary>Architektura informacji SZDC</summary>
@@ -187,7 +187,7 @@ Obejmują między innymi:
 
 ## 6. Przepływ informacji
 
-![Przepływ informacji w SZDC](/o-sieci/koncepcja-rezultatu-sieci/diag-04-przeplyw-informacji.png)
+![Przepływ informacji w SZDC](/o-sieci/koncepcja-rezultatu-sieci/diag-04-przeplyw-informacji.svg)
 
 <details>
 <summary>Diagram 4. Przepływ informacji w SZDC</summary>

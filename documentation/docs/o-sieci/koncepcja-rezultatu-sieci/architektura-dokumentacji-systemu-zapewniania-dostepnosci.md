@@ -38,7 +38,7 @@ Architektura:
 
 ## 3. Architektura dokumentacji SZDC
 
-![Architektura dokumentacji SZDC](/o-sieci/koncepcja-rezultatu-sieci/diag-01-architektura-dokumentacji.png)
+![Architektura dokumentacji SZDC](/o-sieci/koncepcja-rezultatu-sieci/diag-01-architektura-dokumentacji.svg)
 
 <details>
 <summary>Architektura dokumentacji SZDC</summary>
@@ -85,11 +85,11 @@ Stanowią wspólną podstawę opracowywania zaleceń.
 
 ---
 
-## 5. Obszary funkcjonowania
+## 5. Wymiary systemu zapewniania dostępności cyfrowej
 
-Obszary funkcjonowania stanowią sposób organizacji zaleceń oraz dobrych praktyk.
+Wymiary służą porządkowaniu zaleceń i dobrych praktyk oraz ocenie dojrzałości organizacji.
 
-Wyróżnia się następujące obszary funkcjonowania:
+Wyróżnia się następujące wymiary:
 
 - Przywództwo i kultura organizacyjna;
 - Personel;
@@ -99,7 +99,7 @@ Wyróżnia się następujące obszary funkcjonowania:
 - Zaopatrzenie;
 - Wsparcie użytkowników.
 
-Obszary funkcjonowania nie stanowią elementów architektury dokumentacji SZDC.
+Wymiary nie stanowią elementów architektury dokumentacji SZDC.
 
 Przedstawiają system z perspektywy działalności organizacji.
 
