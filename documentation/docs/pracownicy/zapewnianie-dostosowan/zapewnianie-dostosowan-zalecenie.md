@@ -1,126 +1,148 @@
 ---
-id: zapewnianie-dostosowan-zalecenie
-title: Zalecenie w sprawie procedury zapewniania pracownikom dostosowań i racjonalnych usprawnień
-description: Projekt zalecenia Stworzenie procedury zapewniania pracownikom dostosowań i racjonalnych usprawnień cyfrowych
-sidebar_label: Projekt zalecenia
-sidebar_position: 0 
-keywords: [WCAG 2.1 AA, dostepność cyfrowa, dostosowania, racjonalne usprawnienia]
-tags: [WCAG 2.1 AA, dostepność cyfrowa, dostosowania, racjonalne usprawnienia]
-data_zgloszenia: 3 listopada 2025 r.
-ostatnia_aktualizacja: 20 lutego 2026 r.
+
+id: zapewnianie-dostosowan-i-racjonalnych-usprawnien-cyfrowych
+title: Zapewnianie pracownikom dostosowań i racjonalnych usprawnień cyfrowych
+description: Organizacja zapewnia pracownikom dostosowania i racjonalne usprawnienia związane z korzystaniem z technologii, treści i usług cyfrowych wykorzystywanych podczas wykonywania pracy.
+sidebar_label: Zalecenie
+sidebar_position: 0
+keywords: [dostępność cyfrowa, dostosowania, racjonalne usprawnienia, pracownicy]
+tags: [dostępność cyfrowa, dostosowania, racjonalne usprawnienia, pracownicy]
 opracowanie: Stefan Wajda
+data_zgloszenia: 3 listopada 2025 r.
+ostatnia_aktualizacja: 20 czerwca 2026 r.
 wersja_robocza: true
 ---
 
-## 1. Cel zalecenia
+##  1. Cel zalecenia
 
-Celem tego zalecenia jest wzmocnienie działań podejmowanych przez podmioty publiczne w zakresie zapewniania **dostosowań i racjonalnych usprawnień w środowisku pracy**, w szczególności w obszarze korzystania z technologii i treści cyfrowych.
-
----
+Celem zalecenia jest zapewnienie pracownikom możliwości efektywnego wykonywania obowiązków służbowych poprzez dostosowywanie środowiska pracy do ich potrzeb związanych z korzystaniem z technologii, treści i usług cyfrowych.
 
 ## 2. Zalecenie
 
-**Organizacja ustala i wdraża proces wnioskowania i zapewniania pracownikom dostosowań i racjonalnych usprawnień w środowisku pracy związanych z korzystaniem z technologii i treści cyfrowych.**
+Organizacja ustanawia i stosuje proces identyfikowania potrzeb, planowania, wdrażania oraz monitorowania dostosowań i racjonalnych usprawnień związanych z korzystaniem z technologii, treści i usług cyfrowych wykorzystywanych podczas wykonywania pracy.
 
----
+Proces powinien umożliwiać indywidualne rozpatrywanie potrzeb pracowników oraz dobór rozwiązań adekwatnych do charakteru wykonywanej pracy i możliwości organizacji.
 
 ## 3. Rekomendacje
 
-### 3.1. Zasady ogólne
-- Procedura powinna być opracowana przy współudziale osób odpowiedzialnych za dostępność w organizacji (np. Koordynator dostępności) oraz osób z niepełnosprawnościami lub ich przedstawicieli (np. organizacje pozarządowe, rady społeczne ds. osób z niepełnosprawnościami).  
-- Cały proces (formularze, komunikacja, publikacja) musi spełniać wymogi **dostępności cyfrowej**.  
-- Dokument procedury powinien być publicznie dostępny (np. w BIP, w sekcji *Oferty pracy*) oraz udostępniony wewnętrznie (np. w Intranecie – *niezbędnik pracownika*).  
-- Każda osoba współpracująca z organizacją (w tym stażyści, wolontariusze, zleceniobiorcy, eksperci) może korzystać z procedury na równych zasadach.  
+### 3.1. Organizacja procesu
+
+Organizacja powinna określić:
+
+- sposób zgłaszania potrzeb;
+- zasady rozpatrywania wniosków;
+- role i odpowiedzialności uczestników procesu;
+- sposób dokumentowania działań;
+- zasady monitorowania skuteczności zastosowanych rozwiązań.
+
+Proces powinien być dostępny cyfrowo i łatwo dostępny dla pracowników.
+
+### 3.2. Źródła informacji o potrzebach
+
+Podstawą planowania dostosowań mogą być w szczególności:
+
+- zgłoszenia pracowników;
+- wyniki rozmów dotyczących potrzeb pracowników;
+- wyniki ankiet;
+- wyniki ocen środowiska pracy;
+- wyniki analiz barier cyfrowych;
+- obserwacje przełożonych i osób wspierających pracownika.
+
+### 3.3. Rodzaje dostosowań i usprawnień
+
+Dostosowania i racjonalne usprawnienia mogą obejmować między innymi:
+
+- konfigurację systemów i aplikacji;
+- dostosowanie interfejsów użytkownika;
+- zapewnienie technologii wspomagających;
+- dostosowanie dokumentów i materiałów szkoleniowych;
+- zapewnienie alternatywnych sposobów dostępu do informacji;
+- dostosowanie sposobu komunikacji;
+- dostosowanie organizacji pracy związanej z wykorzystaniem technologii cyfrowych;
+- zapewnienie dodatkowego wsparcia technicznego lub organizacyjnego.
+
+### 3.4. Indywidualizacja rozwiązań
+
+Organizacja powinna dobierać rozwiązania indywidualnie, uwzględniając:
+
+- potrzeby pracownika;
+- charakter wykonywanej pracy;
+- dostępne rozwiązania techniczne;
+- skuteczność proponowanych działań;
+- możliwość zastosowania rozwiązań alternatywnych.
+
+### 3.5. Współpraca
+
+W proces zapewniania dostosowań powinny być zaangażowane odpowiednio:
+
+- osoby zgłaszające potrzeby;
+- przełożeni;
+- dział kadr;
+- dział IT;
+- koordynator dostępności;
+- inne osoby posiadające kompetencje niezbędne do oceny i realizacji zgłoszenia.
+
+### 3.6. Monitorowanie skuteczności
+
+Po wdrożeniu dostosowania organizacja powinna ocenić, czy zastosowane rozwiązanie:
+
+- umożliwia wykonywanie pracy zgodnie z założonym celem;
+- jest skuteczne i użyteczne;
+- wymaga modyfikacji;
+- wymaga działań uzupełniających.
+
+### 3.7. Doskonalenie systemowe
+
+Informacje pozyskane podczas realizacji indywidualnych dostosowań powinny być wykorzystywane do:
+
+- identyfikowania problemów systemowych;
+- doskonalenia środowiska pracy;
+- planowania zakupów technologii;
+- rozwoju standardów dostępności cyfrowej;
+- doskonalenia procesów organizacyjnych.
 
 ---
 
-### 3.2. Główne elementy procesu
-1. **Złożenie wniosku**  
-   - Formularz elektroniczny dostępny cyfrowo i formularz papierowy.  
-   - Możliwość złożenia wniosku: pisemnie, elektronicznie, ustnie do protokołu, zdalnie.  
-   - Wniosek powinien zawierać dane osoby wnioskującej, opis trudności, oczekiwane usprawnienie lub rezultat.  
+## 4. Uzasadnienie
 
-2. **Rozpatrzenie wniosku**  
-   - Analiza potrzeb we współpracy z wnioskodawcą.  
-   - Konsultacje z działem IT i Koordynatorem dostępności.  
-   - Ocena wykonalności technicznej i finansowej oraz uzgodnienie ewentualnych alternatywnych rozwiązań.  
-   - Wskazanie osoby lub jednostki rozpatrującej wniosek (zalecane włączenie osób z niepełnosprawnościami).  
+Nawet w organizacjach stosujących zasady dostępności cyfrowej mogą występować sytuacje wymagające zastosowania indywidualnych dostosowań lub racjonalnych usprawnień.
 
-3. **Decyzja i wdrożenie usprawnień**  
-   - Zatwierdzenie lub uzasadniona odmowa.  
-   - Zakup, instalacja lub konfiguracja sprzętu i oprogramowania wspomagającego.  
-   - Dostosowanie formatów plików, treści szkoleniowych, aplikacji lub interfejsów użytkownika.  
-   - Ustalenie zasad odpowiedzialności za powierzone mienie oraz zasad użyczenia prywatnego sprzętu (jeśli dotyczy).  
+Potrzeby pracowników mogą wynikać z niepełnosprawności, stanu zdrowia, wieku, sposobu korzystania z technologii lub innych okoliczności wpływających na możliwość wykonywania pracy.
 
-4. **Ewentualne odwołanie i alternatywne rozwiązania**  
-   - Procedura powinna przewidywać możliwość odwołania od decyzji lub ponownego rozpatrzenia wniosku.  
-   - Należy zachować zasadę proporcjonalności i indywidualizacji dostosowań.  
-
----
-
-### 3.3. Odpowiedzialność i organizacja procesu
-- **Koordynator dostępności** – nadzór nad prawidłowym przebiegiem procesu i jego dostępnością cyfrową.  
-- **Dział kadr / HR** – obsługa formalna wniosków, kontakt z wnioskodawcami.  
-- **Dział IT** – ocena techniczna i wdrożenie rozwiązań cyfrowych.  
-- **Kierownik jednostki** – zatwierdzenie procedury i zapewnienie środków finansowych.  
-- **Osoba odpowiedzialna za pozyskiwanie finansowania** – analiza możliwości uzyskania dofinansowań (PFRON, projekty UE, dotacje).  
-
----
-
-### 3.4. Monitorowanie i doskonalenie
-- Procedura powinna zawierać mechanizm monitorowania jej skuteczności.  
-- Zaleca się, by Koordynator dostępności przygotowywał **roczny raport** zawierający m.in. liczbę złożonych wniosków, czas rozpatrywania i ocenę satysfakcji pracowników.  
-- Raz w roku należy dokonać przeglądu i ewentualnej aktualizacji procedury, uwzględniając nowe technologie, przepisy i doświadczenia.  
-
----
-
-### 3.5. Dobre praktyki
-- Zasada **„Dostępność dzięki projektowaniu”** – planowanie dostępności od początku każdego projektu IT.  
-- Ustalanie minimalnych standardów zgodności z WCAG 2.1 AA dla systemów i aplikacji używanych w organizacji.  
-- Prowadzenie szkoleń z tworzenia i obsługi dostępnych treści cyfrowych dla wszystkich pracowników.  
-- Dokumentowanie i udostępnianie przykładów skutecznych dostosowań (wewnętrzny katalog dobrych praktyk).
-
----
-
-## 4. Podstawa prawna
-- Konwencja ONZ o prawach osób z niepełnosprawnościami – art. 27 i 9.
-- Kodeks pracy (art. 94 pkt 4, art. 207).  
-- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz.U. 2023 poz. 1440).  
-- Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz.U. 2019 poz. 1696).  
-- Ustawa o rehabilitacji zawodowej i społecznej osób z niepełnosprawnościami (t.j. Dz.U. z 2025 r. poz. 913).  
-
----
-
-## 5. Uzasadnienie
-
-Osoby z niepełnosprawnościami mają z mocy prawa zagwarantowane dostosowanie stanowiska pracy. Pomimo tego, przepisy nie określają szczegółowego trybu ubiegania się o takie dostosowania. Brak wewnętrznej procedury może prowadzić do arbitralności decyzji i nierównego traktowania pracowników.  
-
-Wprowadzenie procedury zapewniania dostosowań i racjonalnych usprawnień w środowisku pracy cyfrowej jest konieczne, aby efektywnie spełnić wymagania prawa krajowego i międzynarodowego, w tym Kodeksu pracy, Konwencji ONZ o prawach osób z niepełnosprawnościami oraz przepisów dotyczących dostępności cyfrowej.
-
-Procedura wspiera równe traktowanie i inkluzywność, umożliwiając pracownikom o zróżnicowanych potrzebach pełne i samodzielne wykonywanie obowiązków. Dzięki niej decyzje dotyczące dostosowań są przejrzyste, oparte na obiektywnych przesłankach i pozbawione arbitralności.
-
-Zapewnienie odpowiednich usprawnień zwiększa efektywność i komfort pracy, ogranicza błędy oraz redukuje stres i obciążenia zdrowotne wynikające z niedostosowanego środowiska cyfrowego.
-
-Dla organizacji procedura stanowi narzędzie porządkujące — umożliwia rejestrowanie zgłoszeń, kontrolę terminów i kosztów, planowanie budżetu oraz monitorowanie skuteczności wdrożonych rozwiązań.
-
+Zapewnianie dostosowań i racjonalnych usprawnień umożliwia pełniejsze wykorzystanie kompetencji pracowników, zwiększa efektywność wykonywania obowiązków oraz wspiera tworzenie środowiska pracy opartego na zasadach równego traktowania i włączenia.
 Realizacja wniosków o dostosowania wymaga od organizacji odpowiedniego planowania budżetu i zasobów. Ustanowienie procedury porządkuje proces, umożliwia ocenę potrzeb i proporcjonalnych możliwości, a jednocześnie stanowi dowód należytej staranności w zakresie zapewniania dostępności i inkluzywności cyfrowej.  
 
 Wdrożenie formalnych zasad dostępności wzmacnia kulturę organizacyjną, wspiera wizerunek pracodawcy odpowiedzialnego społecznie i pozwala dostosować się do współczesnego, cyfrowego środowiska pracy, w którym brak dostępności może prowadzić do wykluczenia części pracowników.
 
-<!--
-Wprowadzenie procedury zapewniania dostosowań w środowisku pracy cyfrowej jest wymagane przez prawo i stanowi realizację obowiązków pracodawcy w zakresie bezpieczeństwa, równego traktowania i dostępności. Dzięki niej organizacja zapewnia pracownikom zróżnicowanej potrzebami realne warunki do efektywnej pracy, zmniejsza ryzyko błędów i obciążeń zdrowotnych oraz eliminuje arbitralność decyzji. Procedura ułatwia zarządzanie zgłoszeniami, pozwala kontrolować koszty i terminy oraz wzmacnia kulturę organizacyjną opartą na inkluzywności. W efekcie podnosi jakość pracy, ogranicza ryzyka organizacyjne i wspiera wizerunek odpowiedzialnego pracodawcy.
--->
+---
+
+## 5. Powiązania z innymi zaleceniami
+
+- Systemowe rozpoznawanie i uwzględnianie potrzeb pracowników w zakresie dostępności cyfrowej.
+- Ocena barier cyfrowych ograniczających zatrudnianie osób z niepełnosprawnościami.
+- Dostępna rekrutacja i wdrażanie pracowników.
+- Aktywne pozyskiwanie i angażowanie osób z niepełnosprawnościami w działania związane z dostępnością cyfrową.
+- Organizacja zapewniania dostępności systemów IT.
 
 ---
 
-## Żródła i opracowania
+## 6. Podstawa prawna
 
-### Standardy i wytyczne techniczne
+- Konwencja ONZ o prawach osób z niepełnosprawnościami, w szczególności art. 9 i art. 27.
+- Kodeks pracy.
+- Ustawa o zapewnianiu dostępności osobom ze szczególnymi potrzebami.
+- Ustawa o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych.
+
+---
+
+## 7. Żródła i opracowania
+
+### 7.1. Standardy i wytyczne techniczne
 - WCAG 2.1 (Web Content Accessibility Guidelines) – standard dostępności cyfrowej treści i aplikacji (AA poziom zgodności rekomendowany dla większości organizacji).
 - ISO 9241-210:2019 – Ergonomia interakcji człowiek-system – zasady projektowania dostępnego i ergonomicznego środowiska pracy cyfrowej.
 - ISO 30071-1:2019 – wytyczne w zakresie dostępności cyfrowej w organizacjach.
 
-### Publikacje zwarte
+### 7.2. Publikacje zwarte
    - [CIOP–PIB, Osoba z niepełnosprawnością wzrokową w pracy. Poradnik dla pracodawców](https://m.ciop.pl/CIOPPortalWAR/file/97895/niepelnosprawnosc-wzrokowa-poradnik-dla-pracodawcy.pdf)
    - [CIOP–PIB, Osoba z niepełnosprawnością słuchową w pracy. Poradnik dla pracodawców](https://m.ciop.pl/CIOPPortalWAR/file/97893/niepelnosprawnosc-sluchowa-poradnik-dla-pracodawcy.pdf)
    - [CIOP–PIB, Osoba z niepełnosprawnością ruchową w pracy. Poradnik dla pracodawców](https://m.ciop.pl/CIOPPortalWAR/file/97894/niepelnosprawnosc-ruchowa-poradnik-dla-pracodawcy.pdf)
@@ -133,3 +155,27 @@ Wprowadzenie procedury zapewniania dostosowań w środowisku pracy cyfrowej jest
    - [Fundacja Aktywizacja, Osoba z niepełnosprawnością w Twojej firmie – Niezbędnik pracodawcy](https://aktywizacja.org.pl/wiedza/publikacje/osoba-z-niepelnosprawnoscia-w-twojej-firmie-niezbednik-pracodawcy/) 
 
 
+## 7. Załączniki
+
+1. Procedura zapewniania pracownikom dostosowań i racjonalnych usprawnień cyfrowych.
+2. Uproszczona procedura dla małych organizacji.
+3. Wzór wniosku o dostosowanie lub racjonalne usprawnienie cyfrowe.
+4. Instrukcja dla pracowników.
+5. Lista kontrolna realizacji wniosku.
+6. Przykłady dostosowań i racjonalnych usprawnień cyfrowych.
+
+---
+
+
+
+## Powiązane dokumenty
+
+- [Załącznik: Projekt procedury zapewniania pracownikom dostosowań i racjonalnych usprawnień cyfrowych](zapewnianie-dostosowan-procedura-projekt)
+- [Załącznik: Uproszczona procedura zapewniania pracownikom dostosowań i usprawnień cyfrowych)](zapewnianie-dostosowan-procedura-uproszczona)
+- [Załącznik: Rozszerzona procedura zapewniania pracownikom dostosowań i usprawnień cyfrowych](zapewnianie-dostosowan-procedura-rozszerzona)
+- [Załącznik: Wzór wniosku o dostosowanie lub racjonalne usprawnienie cyfrowe](zapewnianie-dostosowan-wniosek)
+- [Załącznik: Wzór wniosku o dostosowanie lub racjonalne usprawnienie cyfrowe (duża organizacja)](zapewnianie-dostosowan-wniosek-duza-organizacja)
+- [Załącznik: Wzór wniosku o dostosowanie lub racjonalne usprawnienie cyfrowe (mała organizacja)](zapewnianie-dostosowan-wniosek-mala-organizacja)
+- [Załącznik: Wzór instrukcji dla pracowników (duża organizacja)](zapewnianie-dostosowan-instrukcja-duza-organizacja)
+- [Załącznik: Wzór instrukcji dla pracowników (mała organizacja)](zapewnianie-dostosowan-instrukcja-mala-organizacja)
+- [Załącznik: Lista kontrolna realizacji wniosku o dostosowanie / racjonalne usprawnienie cyfrowe](zapewnianie-dostosowan-lista-kontrolna)

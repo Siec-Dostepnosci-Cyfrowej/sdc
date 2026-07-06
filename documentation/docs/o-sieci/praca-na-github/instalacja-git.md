@@ -3,6 +3,9 @@ id: instalacja-git
 title: Instalacja Gita — informacja techniczna
 sidebar_label: Instalacja Gita
 sidebar_position: 9
+data_zgloszenia: 18 października 2025 r.
+ostatnia_aktualizacja: 25 maja 2026 r.
+opracowanie: Stefan Wajda
 ---
 
 ## Kiedy instalować Git
@@ -16,3 +19,9 @@ Instalacja Gita może być potrzebna tylko wtedy, gdy:
 - pomaga Ci osoba techniczna.
 
 W większości przypadków uczestnicy Sieci nie muszą wykonywać tego kroku samodzielnie.
+
+## Dodatkowe informacje
+
+Jeśli potrzebujesz bardziej szczegółowych informacji o instalacji lub konfiguracji Gita, skorzystaj z oficjalnej dokumentacji:
+
+- https://git-scm.com/doc

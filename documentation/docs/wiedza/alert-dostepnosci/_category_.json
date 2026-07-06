@@ -2,6 +2,7 @@
   "label": "Alert dostępności",
   "position": 4,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+	"description": "Projekt proponuje wprowadzenie przycisku „Alert dostępności” jako jednolitego mechanizmu zgłaszania problemów z dostępnością cyfrową na stronach internetowych podmiotów publicznych. Obejmuje zasady zgłaszania i obsługi problemów oraz wykorzystania zgłoszeń użytkowników do identyfikacji barier i doskonalenia dostępności cyfrowej."
   }
 }

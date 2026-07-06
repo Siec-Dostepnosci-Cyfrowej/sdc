@@ -1,7 +1,8 @@
 {
-  "label": "Role, zadania, odpowiedzialność",
+  "label": "Role i odpowiedzialności",
   "position": 4,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+	"description": "Role i odpowiedzialności stanowią jeden z podstawowych elementów systemu zarządzania dostępnością cyfrową. Zalecenie wraz z zestawem załączników pomaga organizacjom publicznym określić, kto odpowiada za realizację polityki dostępności oraz poszczególnych procesów związanych z komunikacją cyfrową, usługami, technologiami informacyjnymi, zaopatrzeniem i wsparciem organizacyjnym. Wspiera budowę przejrzystego modelu odpowiedzialności, koordynacji i współpracy pomiędzy uczestnikami działań związanych z dostępnością cyfrową. Dzięki temu organizacja może skuteczniej planować, realizować i nadzorować działania prowadzące do zapewnienia dostępności cyfrowej."
   }
 }

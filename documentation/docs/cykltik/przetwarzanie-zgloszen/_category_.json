@@ -2,6 +2,7 @@
   "label": "Przetwarzanie zgłoszeń problemów",
   "position": 2,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+	"description": "Przetwarzanie zgłoszeń jest ważnym elementem systemowego zarządzania dostępnością cyfrową. Zalecenie pomaga organizacjom publicznym organizować proces identyfikacji, rejestrowania, analizowania i rozwiązywania problemów z dostępnością cyfrową oraz wykorzystywać informacje o wykrytych barierach do planowania działań naprawczych i doskonalenia usług. Dzięki temu zgłoszenia użytkowników oraz wyniki działań kontrolnych stają się źródłem wiedzy wspierającym rozwój dostępności cyfrowej w organizacji."
   }
 }

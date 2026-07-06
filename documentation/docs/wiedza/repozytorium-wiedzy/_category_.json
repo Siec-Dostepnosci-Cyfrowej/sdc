@@ -2,6 +2,7 @@
   "label": "Repozytorium wiedzy",
   "position": 1,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+	"description": "Projekt dezyderatu proponuje utworzenie oficjalnego portalu wiedzy o dostępności cyfrowej oraz otwartego repozytorium źródeł, interpretacji i materiałów edukacyjnych. Celem inicjatywy jest zapewnienie jednolitego, publicznie dostępnego źródła wiedzy wspierającego rozwój kompetencji oraz prawidłowe stosowanie wymagań dostępności cyfrowej."
   }
 }

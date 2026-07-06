@@ -2,6 +2,7 @@
   "label": "Rozpatrywanie skarg",
   "position": 5,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+	"description": "Rozpatrywanie skarg dotyczących dostępności cyfrowej wymaga stosowania przejrzystych i udokumentowanych zasad postępowania. Zalecenie pomaga organizacjom publicznym organizować proces przyjmowania, rozpatrywania i załatwiania skarg związanych z dostępnością cyfrową, zapewniając zgodność działań z obowiązującymi przepisami oraz zasadami dobrej administracji. Wspiera komunikację z użytkownikami, monitorowanie realizacji działań wynikających ze skarg oraz wykorzystywanie doświadczeń zdobytych podczas ich rozpatrywania do doskonalenia dostępności cyfrowej organizacji."
   }
 }

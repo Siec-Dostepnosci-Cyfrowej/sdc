@@ -5,7 +5,7 @@ description: Jak zainstalować GitHub Desktop i połączyć go ze swoim kontem G
 sidebar_label: Zainstaluj GitHub Desktop
 sidebar_position: 7
 data_zgloszenia: 18 października 2025 r.
-ostatnia_aktualizacja: 3 maja 2026 r.
+ostatnia_aktualizacja: 25 maja 2026 r.
 opracowanie: Stefan Wajda
 ---
 

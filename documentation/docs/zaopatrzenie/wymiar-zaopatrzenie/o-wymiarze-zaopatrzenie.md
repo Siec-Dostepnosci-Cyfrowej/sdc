@@ -11,7 +11,7 @@ wersja_robocza: true
 
 
 
-## 🟦 Wymiar Zaopatrzenie
+## ?? Wymiar Zaopatrzenie
 
 **(Zakupy, pozyskiwanie, zamówienia, umowy, odbiory - pod kątem zapewniania dostępności cyfrowej)**
 
@@ -149,7 +149,7 @@ Celem wymiaru **Zaopatrzenie** jest:
 - współpraca działów: zakupy, IT, prawnicy, komunikacja, merytoryczni.
 
 
-## 🟦 Zaopatrzenie - wersja uproszczona dla małych podmiotów publicznych
+## ?? Zaopatrzenie - wersja uproszczona dla małych podmiotów publicznych
 
 *(szkoły, biblioteki, domy kultury, OPS, OSiR, małe urzędy, jednostki organizacyjne gminy)*
 
@@ -246,7 +246,7 @@ W skrócie:
 <details>
 <summary>Wersja uproszczona dla dużych podmiotów publicznych</summary>
 
-## 🟦 Zaopatrzenie - wersja uproszczona dla dużych podmiotów publicznych
+## ?? Zaopatrzenie - wersja uproszczona dla dużych podmiotów publicznych
 
 **(Zakupy, pozyskiwanie, zamówienia, umowy, odbiory - pod kątem zapewniania dostępności cyfrowej)**
 
@@ -359,7 +359,7 @@ Cykl życia TIK dba o to, żeby pozostały dostępne podczas użytkowania.**
 
 [Wymiar](../../terms/wymiar-dostepnosci) **Zaopatrzenie** w [Modelu dojrzałości dostępności](../../o-sieci/projekt/mdd) obejmuje strategiczny proces skoncentrowany na znajdowaniu i&nbsp;nabywaniu przez organizację opłacalnych i&nbsp; potrzebnych organizacji produktów i&nbsp;usług z komponentem technologii i treści cyfrowych ([technologii informacyjno-komunikacyjnych](../../terms/technologia-informacyjno-komunikacyjna)). 
 
-Gdy do procesów i dokumentów dotyczących nabywania technologii i treści cyfrowych włączone są kryteria dostępności, organizacja może być bardziej zdolna do dostarczania dostępnych produktów, usług i miejsc pracy.​
+Gdy do procesów i dokumentów dotyczących nabywania technologii i treści cyfrowych włączone są kryteria dostępności, organizacja może być bardziej zdolna do dostarczania dostępnych produktów, usług i miejsc pracy.?
 
 :::info Definicja
 

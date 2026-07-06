@@ -6,7 +6,7 @@ sidebar_position: 4
 sidebar_label: Komentuj i sugeruj poprawki
 
 data_zgloszenia: 18 października 2025 r.
-ostatnia_aktualizacja: 3 maja 2026 r.
+ostatnia_aktualizacja: 25 maja 2026 r.
 opracowanie: Stefan Wajda
 ---
 
@@ -39,18 +39,18 @@ Możesz komentować na dwa sposoby:
 ### Dodanie nowego komentarza
 
 1. Otwórz repozytorium.
-2. Wybierz zakładkę „Issues”.
-3. Wybierz „New Issue”.
+2. Wybierz zakładkę **Issues**.
+3. Wybierz **New Issue**.
 4. Wpisz:
    - tytuł,
    - treść komentarza.
-5. Wybierz „Create”.
+5. Wybierz **Create**.
 
 ### Komentarz do istniejącego zgłoszenia
 
-1. Otwórz „Issues”.
+1. Otwórz **Issues**.
 2. Wybierz zgłoszenie.
-3. Przejdź do pola „Add a comment”.
+3. Przejdź do pola **Add a comment**.
 4. Wpisz komentarz i wyślij.
 
 👉 Ten sposób jest prosty, ale nie pozwala wskazać dokładnego miejsca w tekście.
@@ -61,12 +61,12 @@ Możesz komentować na dwa sposoby:
 
 ### 1. Otwórz projekt
 
-1. Przejdź do zakładki „Pull requests”.
+1. Przejdź do zakładki **Pull requests**.
 2. Wybierz projekt, który chcesz skomentować.
 
 ### 2. Przejdź do plików
 
-Wybierz zakładkę „Files changed”.
+Wybierz zakładkę **Files changed**.
 
 Zobaczysz dokument z zaznaczonymi zmianami.
 
@@ -80,7 +80,7 @@ Aby dodać komentarz:
 
 👉 W czytniku ekranu:
 - przechodź między wierszami klawiszem Tab,
-- szukaj przycisku „Add comment” lub podobnego.
+- szukaj przycisku **Add comment** lub podobnego.
 
 ### 4. Dodaj komentarz
 
@@ -95,14 +95,15 @@ Możesz:
 
 Jeśli chcesz zaproponować konkretną zmianę:
 
-1. wybierz opcję „Add suggestion”,
-2. zmień tekst w edytorze,
-3. zapisz sugestię.
+1. wybierz opcję **Add suggestion**.\
+   Jeśli nie widzisz opcji **Add suggestion**, sprawdź menu dodatkowych opcji („…”) przy komentarzu lub przy numerach wierszy.
+2. Zmień tekst w edytorze.
+3. Zapisz sugestię.
 
 ### 6. Wyślij recenzję
 
-1. Wybierz „Start review” (jeśli dodajesz kilka uwag),
-2. po zakończeniu wybierz „Submit review”.
+1. Wybierz **Start review** (jeśli dodajesz kilka uwag),
+2. po zakończeniu wybierz **Submit review**.
 
 Twoje komentarze zostaną zapisane przy dokumencie.
 
@@ -121,13 +122,13 @@ Twoje komentarze zostaną zapisane przy dokumencie.
 
 **Nie widzę miejsca do komentarza**
 
-Upewnij się, że jesteś w zakładce „Files changed”.
+Upewnij się, że jesteś w zakładce **Files changed**.
 
 **Nie mogę dodać komentarza do fragmentu**
 
 Możesz:
 - dodać komentarz ogólny,
-- albo użyć Issues.
+- albo użyć **Issues**.
 
 **Nie wiem, co poprawić**
 
@@ -138,12 +139,12 @@ Zadaj pytanie zamiast proponować zmianę.
 
 ## Wskazówki dla osób korzystających z czytnika ekranu
 
-- Pracuj w zakładce „Files changed”.
+- Pracuj w zakładce **Files changed**.
 - Szukaj przycisków:
-  - „Add comment”
-  - „Add suggestion”
-  - „Start review”
-  - „Submit review”
+  - **Add comment**
+  - **Add suggestion**
+  - **Start review**
+  - **Submit review**
 - Przemieszczaj się między elementami klawiszem Tab.
 - Jeśli trudno znaleźć konkretny fragment:
   - użyj wyszukiwania w tekście,

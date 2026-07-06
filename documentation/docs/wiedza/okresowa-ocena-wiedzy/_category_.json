@@ -2,6 +2,7 @@
   "label": "Okresowa ocena wiedzy",
   "position": 3,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+	"description": "Projekt opisuje dobrą praktykę okresowej oceny wiedzy i umiejętności pracowników w zakresie dostępności cyfrowej oraz zawiera materiały umożliwiające jej zastosowanie. Rozwiązanie wspiera planowanie działań rozwojowych, ocenę skuteczności szkoleń oraz monitorowanie poziomu kompetencji związanych z zapewnianiem dostępności cyfrowej w organizacji."
   }
 }

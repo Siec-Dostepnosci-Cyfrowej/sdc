@@ -6,7 +6,7 @@ sidebar_label: Utwórz konto na GitHubie
 sidebar_position: 1 
 
 data_zgloszenia: 18 października 2025 r.
-ostatnia_aktualizacja: 3 maja 2026 r.
+ostatnia_aktualizacja: 25 maja 2026 r.
 opracowanie: Stefan Wajda
 ---
 
@@ -25,12 +25,12 @@ Założysz konto na GitHubie i uzyskasz dostęp do pracy w Sieci.
 
 Otwórz stronę: https://github.com
 
-Na stronie głównej znajdziesz przycisk „Sign up” (Zarejestruj się).  
+Na stronie głównej znajdziesz przycisk **Sign up** (Zarejestruj się).  
 Jest to jeden z głównych przycisków na stronie.
 
 ### 2. Rozpocznij rejestrację
 
-Wybierz przycisk „Sign up”.
+Wybierz przycisk **Sign up**.
 
 ### 3. Wypełnij formularz
 
@@ -46,9 +46,12 @@ Wskazówki:
 - nazwa użytkownika powinna być prosta i czytelna,
 - będzie ona widoczna dla innych uczestników.
 
+GitHub może poprosić o wykonanie testu CAPTCHA potwierdzającego, że konto zakłada człowiek.  
+Dostępna jest także wersja dźwiękowa (audio CAPTCHA).
+
 ### 4. Utwórz konto
 
-Wybierz przycisk „Create account”.
+Wybierz przycisk **Create account**.
 
 ### 5. Potwierdź adres e-mail
 

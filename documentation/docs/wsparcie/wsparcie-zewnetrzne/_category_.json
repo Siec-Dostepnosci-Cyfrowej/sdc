@@ -1,7 +1,8 @@
 {
   "label": "Wsparcie zewnętrzne",
-  "position": 5,
+  "position": 14,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index", 
+	"description": "Projekt dotyczy informowania i edukowania użytkowników w zakresie praw związanych z dostępnością cyfrową. Obejmuje zagadnienia związane z publikowaniem informacji o prawach użytkowników, dostępnych sposobach zgłaszania problemów, procedurach składania wniosków i skarg oraz organizacją działań edukacyjnych i informacyjnych. Projekt porusza również kwestie wykorzystania różnych kanałów komunikacji, współpracy z organizacjami społecznymi oraz monitorowania informacji zwrotnych pochodzących od użytkowników."
   }
 }
