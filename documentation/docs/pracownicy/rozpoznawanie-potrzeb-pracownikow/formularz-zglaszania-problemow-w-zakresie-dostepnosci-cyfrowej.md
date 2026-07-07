@@ -53,29 +53,30 @@ Jaki?
 
 ## Część B. Dane osoby zgłaszającej
 
-### B1. Imię i nazwisko
-
-(pole opcjonalne)
-
-............................................................
-
-### B2. Komórka organizacyjna / dział
-
-(pole opcjonalne)
-
-............................................................
-
-### B3. Dane kontaktowe
-
-(pole opcjonalne)
-
-............................................................
-
-### B4. Czy zgłoszenie ma charakter anonimowy?
+### B1. Czy zgłoszenie ma charakter anonimowy?
 
 - ☐ tak
 - ☐ nie
 
+---
+
+### B2. Imię i nazwisko
+
+(pole opcjonalne)
+
+............................................................
+
+### B3. Komórka organizacyjna / dział
+
+(pole opcjonalne)
+
+............................................................
+
+### B4. Dane kontaktowe
+
+(pole opcjonalne)
+
+............................................................
 ---
 
 ## Część C. Rodzaj zgłoszenia
