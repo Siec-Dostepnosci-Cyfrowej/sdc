@@ -25,7 +25,16 @@ Takie podejście pozwala wcześniej identyfikować ryzyko powstawania barier, og
 
 ## 2. Zalecenie
 
-Organizacja uwzględnia wymagania dostępności cyfrowej na wszystkich etapach planowania, projektowania, zakupu, tworzenia, wdrażania, utrzymania i rozwóju usług publicznych posiadających komponent cyfrowy.
+Organizacja uwzględnia wymagania dostępności na wszystkich etapach cyklu życia usługi, w tym:
+
+- planowanie,
+- projektowanie,
+- zakup i zamówienia publiczne,
+- tworzenie i wdrażanie,
+- odbiór,
+- utrzymanie i rozwój.
+
+Dostępność jest kryterium decyzyjnym, a nie etapem projektu.
 
 Dostępność nie powinna być traktowana jako odrębny etap projektu ani wyłącznie jako element odbioru rozwiązania. Powinna stanowić jedno z kryteriów podejmowania decyzji na każdym etapie cyklu życia usługi oraz być uwzględniana wszędzie tam, gdzie podejmowane są decyzje mogące mieć wpływ na sposób korzystania z niej przez użytkowników.
 
