@@ -1,4 +1,16 @@
-**Wsparcie i nadzór nad dostępnością w jednostkach podległych i systemach rozproszonych**
+---
+id: wsparcie-i-nadzor-nad-jednostkami-podleglymi
+title: Wsparcie i nadzór nad dostępnością w jednostkach podległych i systemach rozproszonych
+description: Organizacja nadrzędna tworzy i utrzymuje system wsparcia oraz nadzoru nad zapewnianiem dostępności cyfrowej w jednostkach podległych i nadzorowanych
+sidebar_label: Zalecenie
+sidebar_position: 0
+keywords: [dostępność cyfrowa, jednostki podległe, jednostki nadzorowane,skuteczność wsparcia]
+tags: [dostępność cyfrowa, jednostki podległe, jednostki nadzorowane,skuteczność wsparcia]
+opracowanie: Angelika Sosnowska, Stefan Wajda
+data_zgloszenia: 7 lipca 2026 r.
+ostatnia_aktualizacja: 7 lipca 2026 r.
+wersja_robocza: true
+---
 
 **1. Cel zalecenia**
 
