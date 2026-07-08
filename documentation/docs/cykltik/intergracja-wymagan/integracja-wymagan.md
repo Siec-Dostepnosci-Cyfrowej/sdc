@@ -11,7 +11,13 @@ opracowanie: Angelika Sosnowska
 
 ## 1. Cel zalecenia
 
-Dostępność cyfrowa nie zaczyna się na etapie testów ani odbioru gotowego rozwiązania. O jej jakości decydują przede wszystkim wybory podejmowane znacznie wcześniej – podczas planowania usługi, definiowania wymagań, przygotowywania dokumentacji, wyboru technologii czy zakupu gotowych rozwiązań.
+Zalecenie definiuje systemowe podejście do dostępności, w którym wymagania dostępności są uwzględniane od pierwszej decyzji projektowej aż po utrzymanie i rozwój usługi.
+
+Celem jest:
+
+- usuwanie barier zanim powstaną,
+- redukcja kosztów późniejszych poprawek,
+- zapewnienie, że usługi publiczne są samodzielnie wykonalne dla wszystkich użytkowników.
 
 Celem niniejszego zalecenia jest pokazanie, w jaki sposób uwzględniać wymagania dostępności na kolejnych etapach cyklu życia usług publicznych posiadających komponent cyfrowy. Dzięki temu dostępność staje się naturalnym elementem projektowania, rozwoju i utrzymania usług, a nie działaniem podejmowanym dopiero po wykryciu problemów.
 
