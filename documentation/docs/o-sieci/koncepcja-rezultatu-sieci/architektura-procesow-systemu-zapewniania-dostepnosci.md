@@ -29,10 +29,10 @@ Celem architektury procesów jest określenie sposobu, w jaki procesy SZDC wspó
 
 Procesy pozyskują, aktualizują, wykorzystują i udostępniają informacje utrzymywane w centralnych rejestrach SZDC.
 
-![Architektura procesów SZDC](/o-sieci/koncepcja-rezultatu-sieci/diag-03-architektura-procesow.png)
+![Diagram 5. Skrócony opis poniżej. Architektura procesów SZDC](/o-sieci/koncepcja-rezultatu-sieci/diag-03-architektura-procesow.svg)
 
 <details>
-<summary>Architektura procesów SZDC</summary>
+<summary>Opis diagramu 5. Architektura procesów SZDC</summary>
 
 <strong>Cel diagramu</strong>. Diagram przedstawia trzy klasy procesów funkcjonujących w systemie zapewniania dostępności cyfrowej.
 

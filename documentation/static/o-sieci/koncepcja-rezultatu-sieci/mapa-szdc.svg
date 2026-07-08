@@ -60,9 +60,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.77159951"
-     inkscape:cx="625.9724"
-     inkscape:cy="554.04389"
+     inkscape:zoom="1.7576176"
+     inkscape:cx="715.17264"
+     inkscape:cy="905.48708"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
@@ -229,6 +229,14 @@
      x="229.85013"
      y="503.92758"
      ry="14.954062" />
+  <path
+     id="path1-60"
+     style="fill:#357734;fill-opacity:1;stroke-width:0.0873705"
+     d="m 589.15777,572.42437 c -0.92613,0 -1.83308,0.18323 -2.68933,0.53264 l -21.17808,8.71828 c -0.78634,0.32317 -1.29402,1.08378 -1.29402,1.93122 0,0.84727 0.50768,1.60806 1.29402,1.93122 l 21.17808,8.71827 c 0.85625,0.34834 1.7632,0.53264 2.68933,0.53264 0.92613,0 1.83635,-0.18323 2.69261,-0.53264 l 18.27636,-7.52228 v 19.25013 a 3.9912179,4.6052516 0 0 0 -1.78092,3.83631 3.9912179,4.6052516 0 0 0 3.98989,4.60421 3.9912179,4.6052516 0 0 0 3.99315,-4.60421 3.9912179,4.6052516 0 0 0 -2.00638,-3.99644 v -22.21721 c 0,-0.84744 -0.50766,-1.60805 -1.29402,-1.93122 l -21.17808,-8.71828 c -0.85626,-0.34832 -1.76648,-0.53264 -2.69261,-0.53264 z m -16.7732,20.56703 v 10.18547 c 0,4.63085 7.51189,8.38824 16.7732,8.38824 9.26131,0 16.77648,-3.75739 16.77648,-8.38824 v -10.17893 -0.007 l -12.48595,5.1434 c -1.36297,0.55934 -2.81396,0.8496 -4.29053,0.8496 -1.47657,0 -2.92428,-0.29026 -4.28725,-0.8496 z" />
+  <path
+     id="path7"
+     style="fill:#347236;stroke-width:0.691633;stroke-dasharray:2.07489, 0.691633"
+     d="m 1013.8964,570.59778 a 19.65296,19.65296 0 0 0 -19.65285,19.65299 19.65296,19.65296 0 0 0 19.65285,19.65301 19.65296,19.65296 0 0 0 19.6531,-19.65301 19.65296,19.65296 0 0 0 -19.6531,-19.65299 z m 0.4522,6.92623 v 0 0 c 3.2114,0 5.8709,2.50608 6.1364,5.67806 3.149,0.26929 5.6366,2.94639 5.6366,6.17787 0,0.46959 -0.053,0.92747 -0.1522,1.36795 h 1.5697 c 1.3007,0 2.3586,1.06374 2.3586,2.37118 0,1.30745 -1.0586,2.37119 -2.3594,2.37119 h -0.8377 c 0.2743,0.38738 0.436,0.86104 0.436,1.37155 0,1.30795 -1.0583,2.373 -2.3595,2.373 h -2.9592 c 0.2737,0.38719 0.434,0.86056 0.434,1.37065 0,1.30793 -1.0577,2.37118 -2.3576,2.37118 h -2.1064 -7.3973 -2.5622 c -5.4785,0 -9.93575,-4.48738 -9.93575,-10.00345 0,-5.54158 4.50545,-10.00436 8.23645,-10.00436 h 2.1046 c 0.3725,-3.06057 2.981,-5.44482 6.113,-5.44482 z m 0,1.00054 c -2.582,0 -4.7386,1.93611 -5.1035,4.44428 h 5.3592 v 0.57005 h 0.4647 c 0,2.66814 -2.1019,4.67933 -4.8891,4.67933 h -0.9889 v 6.36158 h 10.8194 c 0.2942,-0.002 0.5829,-0.0303 0.8636,-0.0811 v -0.008 h 0.044 c 2.3875,-0.45301 4.207,-2.57949 4.2065,-5.11159 0,-2.84493 -2.2961,-5.17697 -5.1188,-5.19897 l -0.4926,-0.004 v -0.49261 c -0.022,-2.84455 -2.3362,-5.15832 -5.1583,-5.15832 z m -8.2177,5.4448 c -3.2779,0 -7.23595,4.0161 -7.23595,9.00384 0,4.96448 4.00805,9.00383 8.93535,9.00383 h 2.5621 7.3973 2.1064 c 0.7485,0 1.358,-0.61521 1.358,-1.37156 0,-0.74439 -0.5909,-1.35239 -1.3239,-1.37065 h -0.034 -6.3175 v -1.00053 h 6.3175 0.014 4.8684 c 0.7494,0 1.3599,-0.61585 1.3599,-1.37247 0,-0.75586 -0.6102,-1.37066 -1.3599,-1.37066 h -3.7715 c -0.3234,0.0561 -0.6552,0.0864 -0.9933,0.0892 h -11.3237 v -7.3e-4 h -0.4999 v -7.3612 h -0.4295 v -0.99962 h 2.4189 c 2.0987,0 3.6623,-1.34229 3.867,-3.24924 z m 19.5233,7.77907 c -0.4604,1.1135 -1.2353,2.06546 -2.2118,2.74221 h 1.3365 2.762 c 0.7491,0 1.358,-0.61544 1.358,-1.37156 0,-0.7561 -0.6089,-1.37065 -1.358,-1.37065 z" />
   <rect
      style="fill:#fef6ef;fill-opacity:1;stroke:#eba10b;stroke-width:2.23941;stroke-dasharray:none;stroke-opacity:1"
      id="rect13907"
@@ -246,24 +254,24 @@
      y="691.41797"
      ry="11.895516" />
   <rect
-     style="fill:#fef6ef;fill-opacity:1;stroke:#eba10b;stroke-width:1.02073;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#fef6ef;fill-opacity:1;stroke:#eba10b;stroke-width:1.06724;stroke-dasharray:none;stroke-opacity:1"
      id="rect19761"
-     width="351.55804"
-     height="98.170853"
-     x="340.64594"
-     y="802.09668"
-     ry="11.584371" />
+     width="384.51074"
+     height="98.124336"
+     x="340.66919"
+     y="802.11993"
+     ry="11.578882" />
   <rect
-     style="fill:#fef6ef;fill-opacity:1;stroke:#e1590a;stroke-width:1.02073;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#fef6ef;fill-opacity:1;stroke:#e1590a;stroke-width:1.04985;stroke-dasharray:none;stroke-opacity:1"
      id="rect19763"
-     width="351.55804"
-     height="98.170853"
-     x="783.8512"
-     y="802.09668"
-     ry="12.570156" />
+     width="372.0112"
+     height="98.141739"
+     x="763.38348"
+     y="802.11127"
+     ry="12.566428" />
   <g
      id="g31658"
-     transform="translate(10.063049,-74.604703)">
+     transform="translate(-15.53979,-74.604703)">
     <circle
        style="fill:#f1630b;fill-opacity:1;stroke:none;stroke-width:1.06929;stroke-dasharray:none;stroke-opacity:1"
        id="path30133"
@@ -343,77 +351,6 @@
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:1.1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;direction:rtl;text-anchor:middle;fill:#3e4b6f;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
      x="116.092"
-     y="323.80322"
-     id="text114513"><tspan
-       sodipodi:role="line"
-       id="tspan114511"
-       x="116.092"
-       y="323.80322"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3e4b6f;fill-opacity:1">Trwałe zapewnianie</tspan><tspan
-       sodipodi:role="line"
-       x="116.092"
-       y="345.80322"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3e4b6f;fill-opacity:1"
-       id="tspan114515">dostępności cyfrowej</tspan><tspan
-       sodipodi:role="line"
-       x="116.092"
-       y="367.80322"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3e4b6f;fill-opacity:1"
-       id="tspan114517">rozwiazań</tspan><tspan
-       sodipodi:role="line"
-       x="116.092"
-       y="389.80322"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3e4b6f;fill-opacity:1"
-       id="tspan114519">wykorzystujących </tspan><tspan
-       sodipodi:role="line"
-       x="116.092"
-       y="411.80322"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3e4b6f;fill-opacity:1"
-       id="tspan114521">technologie</tspan><tspan
-       sodipodi:role="line"
-       x="116.092"
-       y="433.80322"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3e4b6f;fill-opacity:1"
-       id="tspan114523">informacyjno-</tspan><tspan
-       sodipodi:role="line"
-       x="116.092"
-       y="455.80322"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3e4b6f;fill-opacity:1"
-       id="tspan114525">komunikacyjne</tspan><tspan
-       sodipodi:role="line"
-       x="116.092"
-       y="477.80322"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3e4b6f;fill-opacity:1"
-       id="tspan114527">poprzez </tspan><tspan
-       sodipodi:role="line"
-       x="116.092"
-       y="499.80322"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3e4b6f;fill-opacity:1"
-       id="tspan114529">systemowe</tspan><tspan
-       sodipodi:role="line"
-       x="116.092"
-       y="521.80322"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3e4b6f;fill-opacity:1"
-       id="tspan114531">zarządzanie wiedzą,</tspan><tspan
-       sodipodi:role="line"
-       x="116.092"
-       y="543.80322"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3e4b6f;fill-opacity:1"
-       id="tspan114533">procesami, zasobami,</tspan><tspan
-       sodipodi:role="line"
-       x="116.092"
-       y="565.80322"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3e4b6f;fill-opacity:1"
-       id="tspan114535">i doskonaleniem</tspan><tspan
-       sodipodi:role="line"
-       x="116.092"
-       y="587.80322"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3e4b6f;fill-opacity:1"
-       id="tspan114537">organizacji</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:1.1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;direction:rtl;text-anchor:middle;fill:#3e4b6f;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
-     x="116.092"
      y="840.18506"
      id="text117029"><tspan
        sodipodi:role="line"
@@ -459,7 +396,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:0.8;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#102b34;fill-opacity:1">1. Przywództwo </tspan><tspan
        sodipodi:role="line"
        x="303.35715"
-       y="639.15466"
+       y="639.1546"
        id="tspan2"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:0.8;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#102b34;fill-opacity:1">    i kultura </tspan><tspan
        sodipodi:role="line"
@@ -548,7 +485,7 @@
        id="tspan14"
        x="1384.8784"
        y="142.50351"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">LEGENDA</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">LEGENDA</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:0.9;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#102b34;fill-opacity:1;stroke-dasharray:1, 3"
@@ -672,7 +609,8 @@
        sodipodi:role="line"
        id="tspan3"
        x="1391.8289"
-       y="459.88812">KLUCZOWE RELACJE</tspan></text>
+       y="459.88812"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">KLUCZOWE RELACJE</tspan></text>
   <text
      xml:space="preserve"
      style="font-weight:bold;font-size:14.6667px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#13152c;fill-opacity:1;stroke-dasharray:1, 3"
@@ -683,12 +621,12 @@
        id="tspan7"
        x="1336.3978"
        y="493.61819"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Definiuje i ustanawia</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Definiuje i ustanawia</tspan><tspan
        sodipodi:role="line"
        x="1336.3978"
-       y="508.41867"
+       y="508.28488"
        id="tspan10"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">(kierunek rozwoju)</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">(kierunek rozwoju)</tspan></text>
   <text
      xml:space="preserve"
      style="font-weight:bold;font-size:14.6667px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#13152c;fill-opacity:1;stroke-dasharray:1, 3"
@@ -699,12 +637,12 @@
        x="1334.7803"
        y="550.9455"
        id="tspan22"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Obszary porządkują</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Obszary porządkują</tspan><tspan
        sodipodi:role="line"
        x="1334.7803"
-       y="565.74597"
+       y="565.61218"
        id="tspan23"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">i grupują zalecenia</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">i grupują zalecenia</tspan></text>
   <text
      xml:space="preserve"
      style="font-weight:bold;font-size:14.6667px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#13152c;fill-opacity:1;stroke-dasharray:1, 3"
@@ -715,17 +653,17 @@
        id="tspan24"
        x="1337.7087"
        y="608.37115"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Zalecenie jest rozwijane </tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Zalecenie jest rozwijane </tspan><tspan
        sodipodi:role="line"
        x="1337.7087"
-       y="623.17163"
+       y="623.03784"
        id="tspan25"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">przez załączniki </tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">przez załączniki </tspan><tspan
        sodipodi:role="line"
        x="1337.7087"
-       y="637.97211"
+       y="637.70453"
        id="tspan26"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">i dobre praktyki</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">i dobre praktyki</tspan></text>
   <text
      xml:space="preserve"
      style="font-weight:bold;font-size:14.6667px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#13152c;fill-opacity:1;stroke-dasharray:1, 3"
@@ -736,17 +674,17 @@
        x="1335.4653"
        y="703.20544"
        id="tspan29"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Słownik pojęć wspiera</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Słownik pojęć wspiera</tspan><tspan
        sodipodi:role="line"
        x="1335.4653"
-       y="718.00592"
+       y="717.87213"
        id="tspan34"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">i spina wszystkie</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">i spina wszystkie</tspan><tspan
        sodipodi:role="line"
        x="1335.4653"
-       y="732.8064"
+       y="732.53882"
        id="tspan35"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">elementy systemu</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">elementy systemu</tspan></text>
   <text
      xml:space="preserve"
      style="font-weight:bold;font-size:14.6667px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#13152c;fill-opacity:1;stroke-dasharray:1, 3"
@@ -757,27 +695,27 @@
        x="1335.4653"
        y="770.36017"
        id="tspan32"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Model dojrzałości</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Model dojrzałości</tspan><tspan
        sodipodi:role="line"
        x="1335.4653"
-       y="785.16064"
+       y="785.02686"
        id="tspan37"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">ocenia, dostarcza</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">ocenia, dostarcza</tspan><tspan
        sodipodi:role="line"
        x="1335.4653"
-       y="799.96112"
+       y="799.69354"
        id="tspan38"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">informacji zwrotnej </tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">informacji zwrotnej </tspan><tspan
        sodipodi:role="line"
        x="1335.4653"
-       y="814.7616"
+       y="814.36029"
        id="tspan39"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">i wspiera doskonalenie</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">i wspiera doskonalenie</tspan><tspan
        sodipodi:role="line"
        x="1335.4653"
-       y="829.56207"
+       y="829.02698"
        id="tspan40"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">systemu</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">systemu</tspan></text>
   <text
      xml:space="preserve"
      style="font-weight:bold;font-size:14.6667px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#13152c;fill-opacity:1;stroke-dasharray:1, 3"
@@ -837,7 +775,7 @@
        id="tspan53"
        x="793.93176"
        y="954.49597"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#168d94;fill-opacity:1;stroke:none">6. MODEL DOJRZAŁOŚCI SZDC</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#168d94;fill-opacity:1;stroke:none">6. MODEL DOJRZAŁOŚCI SZDC</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#13152c;fill-opacity:1;stroke:none;stroke-width:3;stroke-dasharray:9, 3;stroke-dashoffset:0;stroke-opacity:1"
@@ -848,12 +786,12 @@
        id="tspan54"
        x="801.10565"
        y="972.9071"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#13152c;fill-opacity:1">Narzędzie do oceny zdolności organziacji do zapewniania dostępności cyfrowej.</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#13152c;fill-opacity:1">Narzędzie do oceny zdolności organizacji do zapewniania dostępności cyfrowej.</tspan><tspan
        sodipodi:role="line"
        x="801.10565"
        y="992.9071"
        id="tspan55"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#13152c;fill-opacity:1">Wspiera planowanie doskonalnienia i monitorowania postępów.</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#13152c;fill-opacity:1">Wspiera planowanie doskonalenia i monitorowania postępów.</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ca7e16;fill-opacity:1;stroke:none;stroke-width:3;stroke-dasharray:9, 3;stroke-dashoffset:0;stroke-opacity:1"
@@ -868,34 +806,34 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#e55c09;fill-opacity:1;stroke:none;stroke-width:3;stroke-dasharray:9, 3;stroke-dashoffset:0;stroke-opacity:1"
-     x="975.198"
+     x="949.59515"
      y="827.05908"
      id="text62"><tspan
        sodipodi:role="line"
        id="tspan62"
-       x="975.198"
+       x="949.59515"
        y="827.05908"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e55c09;fill-opacity:1">5.2 DOBRE PRAKTYKI</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#13152c;fill-opacity:1;stroke:none;stroke-width:3;stroke-dasharray:9, 3;stroke-dashoffset:0;stroke-opacity:1"
-     x="876.41589"
+     x="850.81305"
      y="849.61084"
      id="text64"><tspan
        sodipodi:role="line"
-       x="876.41589"
+       x="850.81305"
        y="849.61084"
        id="tspan64"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#13152c;fill-opacity:1">Sprawdzone sposoby realizacji zaleceń</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#13152c;fill-opacity:1">Sprawdzone sposoby realizacji zaleceń</tspan><tspan
        sodipodi:role="line"
-       x="876.41589"
+       x="850.81305"
        y="869.61084"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#13152c;fill-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#13152c;fill-opacity:1"
        id="tspan65">w różnych typach organizacji.</tspan><tspan
        sodipodi:role="line"
-       x="876.41589"
+       x="850.81305"
        y="889.61084"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#13152c;fill-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#13152c;fill-opacity:1"
        id="tspan66">Inspiracje i doświadczenia.</tspan></text>
   <text
      xml:space="preserve"
@@ -906,17 +844,17 @@
        sodipodi:role="line"
        x="442.05716"
        y="847.69324"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:0.9;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#13152c;fill-opacity:1"
-       id="tspan69">Materiały wspierajace wdrażanie zaleceń</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0.9;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#13152c;fill-opacity:1"
+       id="tspan69">Materiały wspierające wdrażanie zaleceń</tspan><tspan
        sodipodi:role="line"
        x="442.05716"
        y="865.69324"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:0.9;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#13152c;fill-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0.9;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#13152c;fill-opacity:1"
        id="tspan71">Szablony, formularze, listy kontrolne, </tspan><tspan
        sodipodi:role="line"
        x="442.05716"
        y="883.69324"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:0.9;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#13152c;fill-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:0.9;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#13152c;fill-opacity:1"
        id="tspan72">przykłady dokumentów, wzory.</tspan></text>
   <text
      xml:space="preserve"
@@ -931,9 +869,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#13152c;fill-opacity:1">Zalecenia opisują, co organizacja powinna robić w poszególnych </tspan><tspan
        sodipodi:role="line"
        x="756.26978"
-       y="767.03015"
+       y="767.03009"
        id="tspan75"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#13152c;fill-opacity:1">obszarach funkcjonowania. Stanowią podstawę działania SZDC.</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#13152c;fill-opacity:1">wymiarach dostępności. Stanowią podstawę działania SZDC.</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#e35b0b;fill-opacity:1;stroke:#7d5498;stroke-width:3;stroke-dasharray:9, 3;stroke-dashoffset:0;stroke-opacity:1"
@@ -1020,7 +958,7 @@
        x="664.64868"
        y="353.86728"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:0.9;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#13152c;fill-opacity:1"
-       id="tspan95">pozyskiwania , wykorzystania </tspan><tspan
+       id="tspan95">pozyskiwania, wykorzystania </tspan><tspan
        sodipodi:role="line"
        x="664.64868"
        y="371.86728"
@@ -1036,7 +974,7 @@
        x="988.17651"
        y="317.80728"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:0.9;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#13152c;fill-opacity:1"
-       id="tspan101">Za pomocą czego organziacja realizuje</tspan><tspan
+       id="tspan101">Za pomocą czego organizacja realizuje</tspan><tspan
        sodipodi:role="line"
        x="988.17651"
        y="335.80728"
@@ -1046,7 +984,7 @@
        x="988.17651"
        y="353.80728"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:0.9;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#13152c;fill-opacity:1"
-       id="tspan106">Pięć klas środków wspierajacych.</tspan></text>
+       id="tspan106">Pięć klas środków wspierających.</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#293b69;fill-opacity:1;stroke:none;stroke-width:3;stroke-dasharray:9, 3;stroke-dashoffset:0;stroke-opacity:1"
@@ -1089,9 +1027,7 @@
        id="tspan114"
        x="738.52417"
        y="223.40288"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">2. ARCHITEKTURA SZDC - <tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-   id="tspan8">JAK ZORGANIZOWANY JEST SYSTEM</tspan></tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">2. ARCHITEKTURA SZDC – JAK ZORGANIZOWANY JEST SYSTEM</tspan></text>
   <rect
      style="fill:#183465;fill-opacity:1;stroke:#183465;stroke-width:1.3684;stroke-dasharray:none;stroke-opacity:1"
      id="rect19817"
@@ -1194,7 +1130,7 @@
        x="804.75867"
        y="162.11554"
        id="tspan118"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Filozofia, zasady i cele systemu. Dlaczego organizacja zarządza dostepnością cyfrową</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Filozofia, zasady i cele systemu. Dlaczego organizacja zarządza dostępnością cyfrową</tspan></text>
   <rect
      style="fill:#7d5498;fill-opacity:1;stroke:#7d5498;stroke-width:0.953292;stroke-dasharray:none;stroke-opacity:1"
      id="rect24787"
@@ -1243,19 +1179,11 @@
        id="tspan119"
        x="774.59656"
        y="433.00107"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">3. SŁOWNIK PODSTAWOWYCH POJĘĆ</tspan></text>
-  <path
-     d="m 579.76057,598.23297 c 1.28155,5.1926 2.91072,7.4612 8.35031,9.8397 5.43958,2.3785 8.02371,4.9727 10.15744,4.9727 2.13372,0 4.55315,-2.2725 9.9933,-4.651 5.44014,-2.3786 3.98892,-3.1019 5.27047,-8.29459 l -15.26377,7.4192 z m 44.7883,-13.5489 -23.00344,-12.8819 c -1.80269,-1.0091 -4.75155,-1.0091 -6.55369,0 l -23.00399,12.8819 c -1.80214,1.0092 -1.80214,2.6603 0,3.67 l 23.00343,12.8809 c 1.8027,1.0096 4.75156,1.0096 6.55372,0 l 14.87029,-8.3265 -16.12535,-3.7774 c -0.62225,0.1542 -1.30532,0.2405 -2.02209,0.2405 -2.90464,0 -5.25997,-1.401 -5.25997,-3.129 0,-1.7281 2.35533,-3.1296 5.25997,-3.1296 2.25531,0 4.17351,0.8466 4.92067,2.0326 l 17.07974,5.6054 4.2796,-2.3969 c 1.80269,-1.009 1.80269,-2.6608 9.2e-4,-3.66999 z m -7.03063,24.4132 c -0.17573,1.0627 3.54626,2.8091 3.90106,-0.2995 1.59878,-14.0132 -1.15003,-18.0468 -1.15003,-18.0468 l -3.85353,2.1575 c 0,0 3.26717,3.1097 1.1025,16.1888 z"
-     id="path376"
-     style="fill:#357734;fill-opacity:1;stroke-width:0.552635" />
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">3. SŁOWNIK PODSTAWOWYCH POJĘĆ</tspan></text>
   <path
      style="fill:#337732;fill-opacity:1;stroke-width:0.137425"
      d="m 721.0179,600.38795 c 0,2.9461 -1.89793,5.4978 -4.66669,6.7459 v 1.0322 c 0.77487,0.094 1.5657,0.1439 2.3698,0.1439 4.95898,0 9.43167,-1.8472 12.59427,-4.8085 1.91202,0.452 3.9377,0.6961 6.03593,0.6961 11.59802,0 21,-7.4215 21,-16.5761 0,-9.1547 -9.40198,-16.5761 -21,-16.5761 -11.59791,0 -21,7.4214 -21,16.5761 0,3.5837 1.44109,6.9019 3.89054,9.6132 0.4976,0.9598 0.77615,2.0275 0.77615,3.1533 z"
      id="path6696" />
-  <path
-     id="path1-0"
-     style="fill:#357734;fill-opacity:1;stroke-width:2.09673"
-     d="m 1011.5165,571.04977 c -6.081,0.1612 -11.0468,5.5746 -11.0468,12.2659 0,9.2363 6.9156,14.5648 12.8033,19.101 0.6121,0.4715 1.2121,0.9345 1.793,1.3924 2.0619,1.6253 4.0514,3.1605 6.0377,3.3183 -2.5013,-2.4573 -4.909,-5.8476 -4.909,-10.681 0,-4.0444 2.1698,-7.7487 5.5985,-9.4041 2.879,-1.3898 6.1645,-1.1257 9.0767,0.8301 1.6665,-1.123 3.4858,-1.7095 5.352,-1.6986 2.0946,0.012 3.9851,0.7764 5.4926,1.9875 0.4414,-1.4892 0.6895,-3.0978 0.6895,-4.8456 0,-10.1963 -11.5323,-17.427 -20.9672,-7.6246 -3.2433,-3.3695 -6.7349,-4.7258 -9.9203,-4.6413 z m 24.7535,18.3344 c -1.7185,-0.01 -3.5906,0.7865 -5.3328,2.6982 -5.1891,-5.694 -11.5322,-1.4935 -11.5322,4.4295 0,5.3652 3.8029,8.4598 7.041,11.0951 l 0.091,0.073 c 0.3052,0.2483 0.6047,0.4937 0.8955,0.7357 1.1973,0.9968 2.3519,1.9355 3.5052,1.9355 1.1531,0 2.3059,-0.9387 3.5032,-1.9355 3.3931,-2.8249 8.0289,-5.9811 8.0289,-11.9039 0,-1.9457 -0.686,-3.7061 -1.789,-4.99 -1.1276,-1.3126 -2.6918,-2.1281 -4.4104,-2.1378 z" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.1;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#183465;fill-opacity:1;stroke:none;stroke-width:3;stroke-dasharray:9, 3;stroke-dashoffset:0;stroke-opacity:1"
@@ -1266,7 +1194,7 @@
        id="tspan121"
        x="766.93335"
        y="51.826786"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">MAPA SYSTEMU ZAPEWNIANIA DOSTĘPNOŚCI CYFROWEJ (SZDC)</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">MAPA SYSTEMU ZAPEWNIANIA DOSTĘPNOŚCI CYFROWEJ (SZDC)</tspan></text>
   <path
      style="fill:none;fill-opacity:1;stroke:#7d5498;stroke-width:3;stroke-dasharray:9, 3;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Triangle)"
      d="m 1143.1037,443.41032 -0.1089,-44.76188"
@@ -1328,7 +1256,7 @@
        sodipodi:role="line"
        x="470.82715"
        y="78.800011"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;line-height:0.9;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#13152c;fill-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;line-height:0.9;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#13152c;fill-opacity:1"
        id="tspan137">Całościowy obraz architektury, elementów i relacji SZDC</tspan></text>
   <text
      xml:space="preserve"
@@ -1338,9 +1266,9 @@
      id="text141"><tspan
        sodipodi:role="line"
        id="tspan141"
-       x="734.88208"
+       x="735.06036"
        y="528.60498"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#367933;fill-opacity:1;stroke:none">4. WYMIARY SYSTEMU ZAPEWNIANIA DOSTĘPNOŚCI </tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#367933;fill-opacity:1;stroke:none">4. WYMIARY SYSTEMU ZAPEWNIANIA DOSTĘPNOŚCI </tspan></text>
   <path
      id="path141"
      style="fill:#3f9141;fill-opacity:1;stroke-dasharray:1, 3"
@@ -1410,7 +1338,7 @@
        id="tspan27"
        x="726.76105"
        y="553.09473"
-       style="fill:#000000;stroke:none">Wymiary służą porządkowaniu zaleceń oraz ocenie zdolności organizacji do zapewniania dostępności cyfrowej</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none">Wymiary służą porządkowaniu zaleceń oraz ocenie zdolności organizacji do zapewniania dostępności cyfrowej</tspan></text>
   <path
      style="fill:#337732;fill-opacity:1;stroke-width:0.149512"
      d="m 1162.9393,612.91945 c 0.521,-0.17 1.2316,-0.6474 1.614,-1.0843 0.7262,-0.8296 1.0049,-2.2923 0.6405,-3.3617 -0.1071,-0.3141 -0.1947,-0.5885 -0.1947,-0.6097 0,-0.021 0.7731,-0.039 1.7181,-0.039 1.9786,0 2.7211,-0.1133 3.5849,-0.5472 1.2404,-0.623 2.1099,-1.5619 2.6397,-2.8504 0.2452,-0.5962 0.2519,-0.8122 0.3104,-9.9987 l 0.06,-9.3893 1.6365,-0.06 c 1.4094,-0.052 1.6833,-0.094 1.9736,-0.3075 1.073,-0.7888 0.9248,-2.411 -0.2722,-2.979 -0.3705,-0.1759 -0.7186,-0.1992 -2.3646,-0.1585 -2.2267,0.055 -2.6928,0.202 -3.5345,1.1152 -0.9688,1.051 -0.9002,0.2706 -0.9673,11.0015 -0.066,10.4944 -0.011,9.8044 -0.8137,10.3542 l -0.4246,0.291 -15.8782,0.06 c -15.8247,0.06 -15.8793,0.061 -16.2159,0.3075 -1.0618,0.7791 -0.9264,2.4105 0.2462,2.967 0.3295,0.1563 0.8201,0.1942 2.5173,0.1942 h 2.108 l -0.2073,0.3887 c -0.1477,0.2769 -0.2069,0.6641 -0.2056,1.3456 0,1.1592 0.2866,1.8417 1.0672,2.5612 0.7508,0.6921 1.2649,0.8844 2.3896,0.894 0.8432,0.01 1.0331,-0.034 1.5985,-0.3446 0.7088,-0.3896 1.3195,-1.0627 1.6286,-1.7949 0.2621,-0.6207 0.2679,-1.9985 0.011,-2.6015 l -0.1911,-0.4485 h 5.6831 c 3.1256,0 5.683,0.017 5.683,0.039 0,0.021 -0.088,0.2956 -0.1946,0.6097 -0.2516,0.7382 -0.1739,1.9803 0.165,2.641 0.3377,0.6585 1.062,1.3613 1.6968,1.6466 0.6752,0.3034 1.8247,0.3765 2.4926,0.1584 z m 3.5878,-10.595 c 0.2155,-0.1323 0.4449,-0.3802 0.5098,-0.551 0.076,-0.1996 0.1068,-5.6159 0.087,-15.1876 l -0.031,-14.8772 -0.3317,-0.3317 -0.3316,-0.3316 h -6.2866 -6.2866 l -0.349,0.3906 -0.349,0.3906 v 14.9474 14.9474 l 0.3489,0.3907 0.349,0.3906 6.1398,0.031 c 5.9709,0.03 6.1507,0.025 6.5316,-0.2094 z m -16.6964,0.034 c 0.6406,-0.4007 0.6359,-0.3537 0.6359,-6.3747 0,-6.0838 0,-6.0575 -0.6776,-6.4093 -0.2701,-0.1397 -1.4434,-0.1693 -6.7245,-0.1693 -3.8663,0 -6.5186,0.046 -6.704,0.1167 -0.1687,0.064 -0.415,0.2929 -0.5474,0.5083 -0.2337,0.3801 -0.2399,0.5604 -0.2094,6.1004 l 0.031,5.7087 0.3316,0.3316 0.3315,0.3316 6.6058,0.028 c 6.0074,0.026 6.6349,0.01 6.9267,-0.1724 z m -2.6419,-15.7814 c 0.6319,-0.3971 0.6436,-0.4644 0.6849,-3.9298 0.042,-3.493 -0.014,-3.9491 -0.5359,-4.3593 -0.3021,-0.2376 -0.4555,-0.2457 -4.6679,-0.2457 -4.7245,0 -4.8677,0.018 -5.1576,0.6546 -0.1003,0.22 -0.1429,1.346 -0.1429,3.7747 v 3.4612 l 0.3489,0.3906 0.3489,0.3906 4.4056,0.029 c 3.8996,0.026 4.4412,0.01 4.716,-0.166 z"
@@ -1440,4 +1368,83 @@
        d="m 374.56381,860.51695 c 0,-0.0489 0.30326,-1.05907 0.67391,-2.24423 0.37064,-1.18508 1.05882,-3.40222 1.52925,-4.9268 0.47043,-1.52457 1.06727,-3.45241 1.32631,-4.28399 0.25904,-0.83158 0.85575,-2.75942 1.32606,-4.28399 1.52307,-4.93743 1.76873,-5.69039 1.95689,-5.99759 0.23186,-0.37863 0.46414,-0.60097 0.92526,-0.88547 l 0.36201,-0.22335 14.66088,-0.027 c 10.01427,-0.0186 14.80428,0.008 15.11337,0.0793 1.02941,0.24157 1.76474,1.26926 1.76474,2.4664 0,0.51165 -0.13772,1.06016 -0.82395,3.28144 -0.45317,1.46679 -1.04039,3.37009 -1.30491,4.22941 -0.26452,0.85925 -1.0165,3.28608 -1.67105,5.39282 -0.65455,2.10666 -1.30809,4.21812 -1.45231,4.69206 -0.50894,1.67235 -0.70729,2.01759 -1.43164,2.49196 l -0.42034,0.27514 -16.26723,0.027 c -9.41346,0.0152 -16.26725,-0.011 -16.26725,-0.0624 z m 0.008,-16.80457 -0.008,-14.01832 0.24887,-0.54657 c 0.27734,-0.60915 0.82735,-1.13472 1.35977,-1.29937 0.21223,-0.0658 2.08156,-0.1045 5.04666,-0.10484 5.03414,0 5.25016,0.0177 6.13048,0.51781 0.21002,0.11935 1.07418,0.79033 1.92035,1.49109 2.01673,1.67015 2.28695,1.87267 2.86306,2.14545 l 0.48541,0.22984 6.87795,0.0506 c 6.84689,0.0498 6.8796,0.0515 7.24564,0.26966 0.52345,0.31209 1.00721,0.90462 1.16817,1.43078 0.0934,0.30525 0.13836,0.83883 0.13836,1.64123 v 1.18895 l -12.69251,0.0278 -12.69252,0.0278 -0.48015,0.21931 c -0.95244,0.43489 -1.52759,1.15471 -1.92542,2.40962 -0.31453,0.99218 -1.87751,6.02661 -2.43846,7.85432 -0.28926,0.9425 -1.06302,3.43732 -1.71949,5.54406 -0.65645,2.10665 -1.26693,4.07987 -1.35661,4.38478 -0.15875,0.53982 -0.16326,0.18464 -0.1713,-13.46399 z"
        id="path1-7" />
   </g>
+  <text
+     xml:space="preserve"
+     style="font-weight:bold;font-size:14.6667px;line-height:1.1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ea5601;stroke-width:2.5"
+     x="557.65662"
+     y="844.04028"
+     id="text9"><tspan
+       sodipodi:role="line"
+       id="tspan8"></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.4;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#3e4b6f;fill-opacity:1;stroke-width:2.5"
+     x="112.03333"
+     y="327.38165"
+     id="text30"><tspan
+       sodipodi:role="line"
+       id="tspan30"
+       x="112.03333"
+       y="327.38165"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.4;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3e4b6f;fill-opacity:1">Trwałe zapewnianie</tspan><tspan
+       sodipodi:role="line"
+       x="112.03333"
+       y="347.91504"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.4;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3e4b6f;fill-opacity:1"
+       id="tspan31">dostępności cyfrowej </tspan><tspan
+       sodipodi:role="line"
+       x="112.03333"
+       y="368.44843"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.4;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3e4b6f;fill-opacity:1"
+       id="tspan33">rozwiązań</tspan><tspan
+       sodipodi:role="line"
+       x="112.03333"
+       y="388.98178"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.4;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3e4b6f;fill-opacity:1"
+       id="tspan36">wykorzystujących</tspan><tspan
+       sodipodi:role="line"
+       x="112.03333"
+       y="409.51517"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.4;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3e4b6f;fill-opacity:1"
+       id="tspan41">technologie</tspan><tspan
+       sodipodi:role="line"
+       x="112.03333"
+       y="430.04855"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.4;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3e4b6f;fill-opacity:1"
+       id="tspan42">informacyjno-</tspan><tspan
+       sodipodi:role="line"
+       x="112.03333"
+       y="450.58194"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.4;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3e4b6f;fill-opacity:1"
+       id="tspan43">komunikacyjne</tspan><tspan
+       sodipodi:role="line"
+       x="112.03333"
+       y="471.11533"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.4;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3e4b6f;fill-opacity:1"
+       id="tspan44">poprzez</tspan><tspan
+       sodipodi:role="line"
+       x="112.03333"
+       y="491.64868"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.4;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3e4b6f;fill-opacity:1"
+       id="tspan46">systemowe</tspan><tspan
+       sodipodi:role="line"
+       x="112.03333"
+       y="512.18213"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.4;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3e4b6f;fill-opacity:1"
+       id="tspan47">zarządzanie wiedzą, </tspan><tspan
+       sodipodi:role="line"
+       x="112.03333"
+       y="532.71552"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.4;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3e4b6f;fill-opacity:1"
+       id="tspan48">procesami, zasobami</tspan><tspan
+       sodipodi:role="line"
+       x="112.03333"
+       y="553.24884"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.4;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3e4b6f;fill-opacity:1"
+       id="tspan51">i doskonaleniem</tspan><tspan
+       sodipodi:role="line"
+       x="112.03333"
+       y="573.78223"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;line-height:1.4;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3e4b6f;fill-opacity:1"
+       id="tspan52">organizacji</tspan></text>
 </svg>

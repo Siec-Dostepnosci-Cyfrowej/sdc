@@ -26,10 +26,10 @@ Nie opisuje sposobu wdrożenia SZDC w konkretnej organizacji. Określa elementy,
 
 System zapewniania dostępności cyfrowej jest częścią systemu zarządzania organizacją. Opisuje sposób, w jaki organizacja zapewnia dostępność cyfrową.
 
-![Mapa systemu zapewniania dostępności cyfrowej](/o-sieci/koncepcja-rezultatu-sieci/mapa-szdc.svg)
+![Diagram 1. Skrócony opis poniżej.](/o-sieci/koncepcja-rezultatu-sieci/mapa-szdc.svg)
 
 <details>
-<summary>Opis mapy systemu</summary>
+<summary>Diagram 1. Mapa systemu zapewniania dostępności cyfrowej</summary>
 
 <strong>Cel diagramu</strong>. Diagram przedstawia ogólną strukturę systemu zapewniania dostępności cyfrowej oraz relacje pomiędzy jego głównymi elementami.
 

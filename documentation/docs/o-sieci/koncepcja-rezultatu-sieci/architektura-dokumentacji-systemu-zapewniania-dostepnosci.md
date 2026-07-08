@@ -38,10 +38,10 @@ Architektura:
 
 ## 3. Architektura dokumentacji SZDC
 
-![Architektura dokumentacji SZDC](/o-sieci/koncepcja-rezultatu-sieci/diag-01-architektura-dokumentacji.svg)
+![Diagram 2. Skrócony opis poniżej.](/o-sieci/koncepcja-rezultatu-sieci/diag-01-architektura-dokumentacji.svg)
 
 <details>
-<summary>Architektura dokumentacji SZDC</summary>
+<summary>Opis diagramu 2. Architektura dokumentacji SZDC</summary>
 
 <strong>Cel diagramu</strong>. Diagram przedstawia strukturę dokumentacji systemu zapewniania dostępności cyfrowej.
 

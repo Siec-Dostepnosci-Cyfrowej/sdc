@@ -33,10 +33,10 @@ Architektura informacji:
 - określa sposób ich wykorzystania;
 - zapewnia spójność informacji wykorzystywanych przez SZDC.
 
-![Architektura informacji SZDC](/o-sieci/koncepcja-rezultatu-sieci/diag-02-architektura-informacji.svg)
+![Diagram 3. Skrócony opis poniżej.](/o-sieci/koncepcja-rezultatu-sieci/diag-02-architektura-informacji.svg)
 
 <details>
-<summary>Architektura informacji SZDC</summary>
+<summary>Opis diagramu 3. Architektura informacji SZDC</summary>
 
 <strong>Cel diagramu</strong>. Diagram przedstawia sposób organizacji informacji wykorzystywanych przez system zapewniania dostępności cyfrowej.
 
@@ -187,10 +187,10 @@ Obejmują między innymi:
 
 ## 6. Przepływ informacji
 
-![Przepływ informacji w SZDC](/o-sieci/koncepcja-rezultatu-sieci/diag-04-przeplyw-informacji.svg)
+![Diagram 4. Skrócony opis poniżej.](/o-sieci/koncepcja-rezultatu-sieci/diag-04-przeplyw-informacji.svg)
 
 <details>
-<summary>Diagram 4. Przepływ informacji w SZDC</summary>
+<summary>Opis diagramu 4. Przepływ informacji w SZDC</summary>
 
 <strong>Cel diagramu</strong>. Diagram przedstawia sposób przepływu informacji przez system zapewniania dostępności cyfrowej.
 
