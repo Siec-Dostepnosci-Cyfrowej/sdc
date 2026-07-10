@@ -122,7 +122,7 @@ Raport zgodności jest jedynym źródłem informacji wykorzystywanym do aktualiz
 
 W szczególności raport zgodności może dostarczać informacji o:
 
-- stwierdzonych niezgodnościach,
+- wykrytych niezgodnościach,
 - zakresie przeprowadzonych ocen,
 - zmianach stanu zgodności,
 - skuteczności działań naprawczych,
