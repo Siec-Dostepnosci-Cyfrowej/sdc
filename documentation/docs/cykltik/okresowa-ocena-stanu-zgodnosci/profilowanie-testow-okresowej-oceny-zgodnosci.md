@@ -37,7 +37,7 @@ Profil przeznaczony jest do:
 
 - pierwszej oceny stanu zgodności rozwiązania,
 - samooceny organizacji,
-- okresowej kontroli zgodności,
+- okresowej oceny stanu zgodności,
 - monitorowania podstawowych wymagań dostępności cyfrowej,
 - oceny wykonywanej przez pracowników organizacji.
 
