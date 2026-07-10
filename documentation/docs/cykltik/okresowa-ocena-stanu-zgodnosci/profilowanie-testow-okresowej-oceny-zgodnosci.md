@@ -309,7 +309,7 @@ Profil pogłębiany nie zastępuje audytu zgodności, jednak może prowadzić do
 | testID-090 | Rozmiar celu dotyku (ulepszone)   |
 | testID-094 | Dostępne uwierzytelnianie (ulepszone) |
 
-#### 6.3.5. Katalog testów stron, widoków, komponentów, procesów, dokumentów
+#### 6.3.5. Testy stron, procesów, komponentów i dokumentów
 
 Testy wymagań dostępności służą ocenie spełniania określonych wymagań dostępności.
 
