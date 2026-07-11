@@ -3,7 +3,7 @@ id: profilowanie-testow-okresowej-oceny-zgodnosci
 title: Profilowanie testów okresowej oceny zgodności
 sidebar_label: Profilowanie testów
 sidebar_position: 5
-description: Zestawienie testów przypisanych do profili ACR-MIN, ACR-EXT i ACR-AUDIT wykorzystywanych podczas okresowej oceny zgodności.
+description: Zestawienie testów przypisanych do profilu minimalnego, rozszerzonego i pogłębianego, wykorzystywanych podczas okresowej oceny stanu zgodności.
 keywords: [testy dostępności, profil testów, profil minimalny, profil rozszerzony, profil pogłębiany, ocena zgodności]
 tags: [testy dostępności, profil testów, profil minimalny, profil rozszerzony, profil pogłębiany, ocena zgodności]
 opracowanie: Stefan Wajda
