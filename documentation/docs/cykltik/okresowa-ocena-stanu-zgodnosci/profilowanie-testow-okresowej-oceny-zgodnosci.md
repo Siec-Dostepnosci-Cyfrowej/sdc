@@ -294,8 +294,8 @@ Profil pogłębiany nie zastępuje audytu zgodności, jednak może prowadzić do
 | testID-091 | Spójna pomoc                          |
 | testID-092 | Ponowne wpisy                         |
 | testID-093 | Dostępne uwierzytelnianie             |
-| testID-096 | Obsługa klawiaturą zewnętrzną         |
-| testID-097 | Gesty systemowe i niestandardowe      |
+| testID-096 | Obsługa klawiaturą zewnętrzną (aplikacja mobilna)        |
+| testID-097 | Gesty systemowe i niestandardowe (aplikacja mobilna)     |
 | testID-136 | Jednoznakowe skróty klawiaturowe      |
 
 #### 6.3.4 Katalog opcjonalnych testów wymagań dostępności dla aplikacji mobilnych
