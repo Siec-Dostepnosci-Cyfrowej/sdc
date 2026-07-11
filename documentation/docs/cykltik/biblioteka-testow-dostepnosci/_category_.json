@@ -1,0 +1,8 @@
+{
+  "label": "Biblioteka testów dostępności",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+	"description": "Biblioteka testów dostępności cyfrowej jest wspólnym, rozwijanym zbiorem scenariuszy służących do badania dostępności i zgodności rozwiązań cyfrowych. Wspiera standaryzację metodyki testowania, dobór testów do celu i zakresu badania oraz spójne dokumentowanie wyników w różnych procesach systemu zapewniania dostępności cyfrowej."
+  }
+}
