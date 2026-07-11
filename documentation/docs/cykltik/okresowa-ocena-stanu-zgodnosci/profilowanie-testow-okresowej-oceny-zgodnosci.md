@@ -318,32 +318,32 @@ Niezależnie od nich organizacja może wykorzystywać testy stron, procesów, ko
 Testy te mogą być wykorzystywane zarówno w profilu rozszerzonym, jak i pogłębianym.
 
 
-#### 6.3.6. Katalog testów typowych stron, sekcji witryny, widoków 
+#### 6.3.6. Katalog testów typowych stron, sekcji witryny, widoków
 
-| ID         | Nazwa testu                           |
-| ---------- | ------------------------------------- |
-| testID-127 | Strona główna                         |
-| testID-112 | BIP - Informacja publiczna            |
-| testID-113 | Lista aktualności                     |
-| testID-114 | Artykuł / komunikat / wpis            |
-| testID-115 | Katalog usług                         |
-| testID-116 | Karta usługi                          |
-| testID-123 | Strona kontaktowa                     |
-| testID-130 | Kalendarz wydarzeń                    |
-| testID-131 | Strona Wydarzenie                     |
-| testID-135 | Informacje o dostępności              |
-| testID-110 | Deklaracja dostępności                |
+| ID testu   | Nazwa testu                                                   |
+| ---------- | ------------------------------------------------------------- |
+| testID-110 | Deklaracja dostępności                                        |
 | testID-111 | Deklaracja dostępności (zgodność z warunkami technicznymi MC) |
-| testID-129 | Strona wielojęzyczna                  |
-| testID-126 | Polityka prywatności                  |
-| testID-124 | Informacja o podmiocie w PJM          |
-| testID-125 | Informacja o podmiocie w ETR          |
-| testID-128 | Pliki do pobrania                     |
-| testID-138 | Ekran główny aplikacji                |
-| testID-139 | Lista funkcji aplikacji               |
-| testID-140 | Widok szczegółów aplikacji            |
-| testID-141 | Ustawienia aplikacji                  |
-| testID-142 | Powiadomienia aplikacji               |
+| testID-112 | BIP - Informacja publiczna                                    |
+| testID-113 | Lista aktualności                                             |
+| testID-114 | Artykuł / komunikat / wpis                                    |
+| testID-115 | Katalog usług                                                 |
+| testID-116 | Karta usługi                                                  |
+| testID-123 | Strona kontaktowa                                             |
+| testID-124 | Informacja o podmiocie w PJM                                  |
+| testID-125 | Informacja o podmiocie w ETR                                  |
+| testID-126 | Polityka prywatności                                          |
+| testID-127 | Strona główna                                                 |
+| testID-128 | Pliki do pobrania                                             |
+| testID-129 | Strona wielojęzyczna                                          |
+| testID-130 | Komponent Kalendarz                                           |
+| testID-131 | Strona Wydarzenie                                             |
+| testID-135 | Informacje o dostępności                                      |
+| testID-138 | Ekran główny aplikacji                                        |
+| testID-139 | Lista funkcji aplikacji                                       |
+| testID-140 | Widok szczegółów w aplikacji                                  |
+| testID-141 | Ustawienia aplikacji                                          |
+| testID-142 | Powiadomienia aplikacji                                       |
 
 
 
