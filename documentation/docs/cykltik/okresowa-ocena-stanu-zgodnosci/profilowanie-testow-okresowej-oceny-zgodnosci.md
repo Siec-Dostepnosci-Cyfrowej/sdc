@@ -360,22 +360,22 @@ Testy te mogą być wykorzystywane zarówno w profilu rozszerzonym, jak i pogł�
 
 #### 6.3.8. Katalog testów złożonych komponentów i widżetów
 
-| ID         | Nazwa testu                           |
-| ---------- | ------------------------------------- |
-| testID-055 | Modalne okno dialogowe                |
-| testID-056 | Zakładki                              |
-| testID-059 | Akordeon                              |
-| testID-058 | Karuzela                              |
-| testID-062 | Tabela                                |
-| testID-063 | Wykres                                |
-| testID-064 | Wizualizacja danych                   |
-| testID-065 | Odtwarzacz multimedialny              |
-| testID-066 | Menu nawigacyjne                      |
-| testID-067 | Wyszukiwanie w witrynie               |
-| testID-068 | Galeria obrazów                       |
-| testID-122 | Mapa dojazdu / Lokalizacja            |
-| testID-132 | Selektor języka                       |
-| testID-095 | Obsługa czytnikiem ekranu             |
+| ID testu   | Nazwa testu                |
+| ---------- | -------------------------- |
+| testID-055 | Modalne okno dialogowe     |
+| testID-056 | Zakładki                   |
+| testID-058 | Karuzela                   |
+| testID-059 | Akordeon                   |
+| testID-062 | Tabela danych              |
+| testID-063 | Wykres                     |
+| testID-064 | Wizualizacja danych        |
+| testID-065 | Odtwarzacz multimedialny   |
+| testID-066 | Menu nawigacyjne           |
+| testID-067 | Wyszukiwanie w witrynie    |
+| testID-068 | Galeria obrazów            |
+| testID-095 | Obsługa czytnikiem ekranu  |
+| testID-122 | Mapa dojazdu / Lokalizacja |
+| testID-132 | Selektor języka            |
 
 #### 6.3.9. Katalog testów dokumentów
 
