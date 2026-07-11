@@ -253,7 +253,7 @@ Profil pogłębiany nie zastępuje audytu zgodności, jednak może prowadzić do
 
 #### 6.3.2 Katalog opcjonalnych testów wymagań dostępności dla stron internetowych
 
-| ID         | Nazwa testu                           |
+| ID testu        | Nazwa testu                           |
 | ---------- | ------------------------------------- |
 | testID-028 | Wygląd fokusu                         |
 | testID-036 | Cel łącza (samodzielnie)              |
