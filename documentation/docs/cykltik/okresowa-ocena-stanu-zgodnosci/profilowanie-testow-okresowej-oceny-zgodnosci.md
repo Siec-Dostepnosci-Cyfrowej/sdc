@@ -176,35 +176,35 @@ Profil pogłębiany nie zastępuje audytu zgodności, jednak może prowadzić do
 
 ---
 
- ### 6.2. Minimalny zestaw testów dla aplikacji mobilnych 
+### 6.2. Minimalny zestaw testów dla aplikacji mobilnych
 
-| ID testu   | Nazwa testu                                |
-| ---------- | ------------------------------------------ |
-| procID-001 | Automatyczne wykrywanie błędów dostępności |
-| testID-143 | Nazwa ekranu aplikacji                     |
-| testID-137 | Język rozwiązania (aplikacja mobilna)      |
-| testID-019 | Nagłówki                                   |
-| testID-096 | Obsługa klawiaturą zewnętrzną (aplikacja mobilna) |
-| testID-025 | Pułapka klawiaturowa |
-| testID-027 | Widoczność fokusu                          |
-| testID-032 | Wystarczający kontrast                     |
-| testID-033 | Tekst alternatywny                         |
-| testID-035 | Cel łącza (w kontekście)                   |
-| testID-039 | Widoczne etykiety lub instrukcje           |
-| testID-041 | Oznaczenie pól wymaganych                  |
-| testID-042 | Format danych                              |
-| testID-044 | Identyfikacja błędów                       |
-| testID-045 | Sugestie korekty błędów                    |
-| testID-047 | Odczyt struktury przez czytnik ekranu      |
-| testID-048 | Odczyt formularza przez czytnik ekranu     |
-| testID-070 | Dostępna nazwa elementu interaktywnego     | 
-| testID-071 | Dostępna nazwa w widocznej etykiecie       | 
-| testID-098 | Kolejność fokusu (aplikacja mobilna)  |
-| testID-099 | Etykiety elementów (aplikacja mobilna)     |
-| testID-100 | Orientacja ekranu (aplikacja mobilna)      |
-| testID-101 | Skalowanie tekstu (aplikacja mobilna)      |
-| testID-103 | Komunikaty o stanie (aplikacja mobilna)    |
-| testID-102 | Ustawienia dostępności systemu (aplikacja mobilna)|
+| ID testu   | Nazwa testu                                        |
+| ---------- | -------------------------------------------------- |
+| procID-001 | Automatyczne wykrywanie błędów dostępności         |
+| testID-019 | Nagłówki                                           |
+| testID-025 | Pułapka klawiaturowa                               |
+| testID-027 | Widoczność fokusu                                  |
+| testID-032 | Wystarczający kontrast                             |
+| testID-033 | Tekst alternatywny                                 |
+| testID-035 | Cel łącza (w kontekście)                           |
+| testID-039 | Widoczne etykiety lub instrukcje                   |
+| testID-041 | Oznaczenie pól wymaganych                          |
+| testID-042 | Format danych                                      |
+| testID-043 | Sugestie korekty błędów                            |
+| testID-044 | Identyfikacja błędów                               |
+| testID-047 | Odczyt struktury przez czytnik ekranu              |
+| testID-048 | Odczyt formularza przez czytnik ekranu             |
+| testID-070 | Dostępna nazwa elementu interaktywnego             |
+| testID-071 | Dostępna nazwa w widocznej etykiecie               |
+| testID-096 | Obsługa klawiaturą zewnętrzną (aplikacja mobilna)  |
+| testID-098 | Kolejność fokusu (aplikacja mobilna)               |
+| testID-099 | Etykiety elementów (aplikacja mobilna)             |
+| testID-100 | Orientacja ekranu (aplikacja mobilna)              |
+| testID-101 | Skalowanie tekstu (aplikacja mobilna)              |
+| testID-102 | Ustawienia dostępności systemu (aplikacja mobilna) |
+| testID-103 | Komunikaty o stanie (aplikacja mobilna)            |
+| testID-137 | Język rozwiązania (aplikacja mobilna)              |
+| testID-143 | Nazwa ekranu aplikacji                             |
 
 ---
 
