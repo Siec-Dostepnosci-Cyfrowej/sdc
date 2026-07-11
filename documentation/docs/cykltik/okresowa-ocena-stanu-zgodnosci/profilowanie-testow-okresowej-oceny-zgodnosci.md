@@ -264,7 +264,7 @@ Profil pogłębiany nie zastępuje audytu zgodności, jednak może prowadzić do
 
 #### 6.3.3 Katalog dodatkowych testów wymagań dostępności dla aplikacji mobilnych
 
-| ID         | Nazwa testu                           |
+| ID testu        | Nazwa testu                           |
 | ---------- | ------------------------------------- |
 | testID-029 | Zmiana po uzyskaniu fokusu            |
 | testID-030 | Zmiana po wprowadzeniu danych         |
