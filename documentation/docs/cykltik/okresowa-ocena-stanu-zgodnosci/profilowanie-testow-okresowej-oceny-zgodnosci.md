@@ -349,14 +349,14 @@ Testy te mogą być wykorzystywane zarówno w profilu rozszerzonym, jak i pogł�
 
 #### 6.3.7. Katalog testów typowych procesów
 
-| ID         | Nazwa testu                           |
-| ---------- | ------------------------------------- |
-| testID-117 | Złożenie wniosku                      |
-| testID-118 | Rejestracja / Logowanie               |
-| testID-119 | Rezerwacja terminu                    |
-| testID-121 | Zgłoszenie problemu dostępności       | 
-| testID-133 | Usługa lub procedura w ETR            |
-| testID-134 | Obsługa użytkownika w PJM             |
+| ID testu   | Nazwa testu                     |
+| ---------- | ------------------------------- |
+| testID-117 | Złożenie wniosku                |
+| testID-118 | Rejestracja / Logowanie         |
+| testID-119 | Rezerwacja terminu              |
+| testID-121 | Zgłoszenie problemu dostępności |
+| testID-133 | Usługa lub procedura w ETR      |
+| testID-134 | Obsługa użytkownika w PJM       |
 
 #### 6.3.8. Katalog testów złożonych komponentów i widżetów
 
