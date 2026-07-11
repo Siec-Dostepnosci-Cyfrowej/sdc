@@ -379,15 +379,15 @@ Testy te mogą być wykorzystywane zarówno w profilu rozszerzonym, jak i pogł�
 
 #### 6.3.9. Katalog testów dokumentów
 
-| ID         | Nazwa testu                           |
-| ---------- | ------------------------------------- |
-| testID-120 | Formularz                             |
-| testID-060 | Dokument PDF                          |
-| testID-061 | Dokument DOCX / ODT                   |
-| testID-104 | Skan dokumentu                        |
-| testID-107 | Formularz PDF                         |    
-| testID-108 | Dokument podpisany elektronicznie     |  
-| testID-109 | Arkusz kalkulacyjny (CSV/XLSX)        |  
+| ID testu   | Nazwa testu                       |
+| ---------- | --------------------------------- |
+| testID-060 | Dokument PDF                      |
+| testID-061 | Dokument DOCX (ODT)               |
+| testID-104 | Skan dokumentu                    |
+| testID-107 | Formularz PDF                     |
+| testID-108 | Dokument podpisany elektronicznie |
+| testID-109 | Arkusz kalkulacyjny (CSV/XLSX)    |
+| testID-120 | Formularz                         |
  
 ---
 
