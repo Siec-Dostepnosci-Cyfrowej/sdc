@@ -155,7 +155,7 @@ Profil pogłębiany nie zastępuje audytu zgodności, jednak może prowadzić do
 | testID-020 | Tytuł strony                               |
 | testID-021 | Język strony                               |
 | testID-023 | Dostęp z klawiatury                        |
-| testID-024 | Obsługa klawiaturą                         | 
+| testID-024 | Obsługa klawiaturą                         |
 | testID-025 | Pułapka klawiaturowa                       |
 | testID-027 | Widoczność fokusu                          |
 | testID-031 | Punkty orientacyjne                        |
@@ -166,13 +166,13 @@ Profil pogłębiany nie zastępuje audytu zgodności, jednak może prowadzić do
 | testID-039 | Widoczne etykiety lub instrukcje           |
 | testID-041 | Oznaczenie pól wymaganych                  |
 | testID-042 | Format danych                              |
+| testID-043 | Sugestie korekty błędów                    |
 | testID-044 | Identyfikacja błędów                       |
-| testID-045 | Sugestie korekty błędów                    |
 | testID-047 | Odczyt struktury przez czytnik ekranu      |
 | testID-048 | Odczyt formularza przez czytnik ekranu     |
 | testID-069 | Komunikaty o stanie                        |
-| testID-070 | Dostępna nazwa elementu interaktywnego     | 
-| testID-071 | Dostępna nazwa w widocznej etykiecie       | 
+| testID-070 | Dostępna nazwa elementu interaktywnego     |
+| testID-071 | Dostępna nazwa w widocznej etykiecie       |
 
 ---
 
