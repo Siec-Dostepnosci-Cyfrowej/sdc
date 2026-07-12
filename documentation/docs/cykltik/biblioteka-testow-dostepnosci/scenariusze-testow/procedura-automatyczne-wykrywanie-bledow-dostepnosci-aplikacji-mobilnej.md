@@ -12,7 +12,7 @@ ostatnia_aktualizacja: 15 czerwca 2026 r.
 wersja_robocza: true
 ---
 
-## 1. Identyfikator testu
+## 1. Identyfikator procedury
 
 **procID-002**
 
