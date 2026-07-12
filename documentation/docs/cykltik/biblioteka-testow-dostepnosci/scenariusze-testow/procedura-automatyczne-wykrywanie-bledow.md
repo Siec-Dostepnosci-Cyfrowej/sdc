@@ -13,7 +13,7 @@ wersja_robocza: true
 ---
 
 
-## 1. ID procedury
+## 1. Identyfikator procedury
 
 **procID-001**
 
