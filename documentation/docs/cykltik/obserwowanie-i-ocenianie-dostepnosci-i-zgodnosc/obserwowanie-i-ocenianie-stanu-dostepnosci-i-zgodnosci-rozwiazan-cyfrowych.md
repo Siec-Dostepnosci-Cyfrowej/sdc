@@ -15,21 +15,29 @@ wersja_robocza: true
 
 ## Cel zalecenia
 
-Zapewnienie organizacji aktualnej i udokumentowanej wiedzy o stanie dostępności i zgodności rozwiązań cyfrowych oraz zakresie rozpoznania tego stanu.
+Wspieranie skutecznego zapewniania dostępności cyfrowej przez systematyczne uzyskiwanie, aktualizowanie i wykorzystywanie wiedzy o stanie dostępności i zgodności rozwiązań cyfrowych.
 
 ## Zalecenie
 
 Organizacja systematycznie obserwuje i ocenia stan dostępności i zgodności rozwiązań cyfrowych w całym okresie ich użytkowania.
 
-Informacje uzyskiwane podczas bieżącej działalności oraz ocen planowych i doraźnych organizacja przetwarza i wykorzystuje do aktualizowania wiedzy o stanie, analizowania zakresu jego rozpoznania oraz planowania dalszych ocen.
+Informacje uzyskiwane podczas bieżącej działalności oraz ocen planowych i doraźnych organizacja przetwarza, dokumentuje i wykorzystuje do podejmowania decyzji i działań służących zapewnianiu dostępności cyfrowej, aktualizowania wiedzy o stanie rozwiązań oraz planowania dalszych ocen.
+
 
 ## Rekomendacje
 
 ### Systematyczne obserwowanie i ocenianie stanu
 
-Organizacja traktuje obserwowanie i ocenianie stanu jako ciągły i iteracyjny proces rozwijania oraz aktualizowania wiedzy o rozwiązaniu cyfrowym.
+Organizacja systematycznie obserwuje i ocenia stan dostępności i zgodności rozwiązań cyfrowych, aby uzyskiwać informacje potrzebne do podejmowania decyzji i działań służących zapewnianiu dostępności cyfrowej.
 
-W procesie wykorzystuje informacje uzyskiwane podczas bieżącej działalności oraz wyniki ocen planowych i doraźnych.
+W procesie wykorzystuje informacje uzyskiwane podczas bieżącej działalności oraz wyniki ocen planowych i doraźnych, zachowując i aktualizując wiedzę o stanie rozwiązań.
+
+### Wykorzystywanie wiedzy o stanie
+
+Organizacja wykorzystuje aktualną wiedzę o stanie dostępności i zgodności do podejmowania decyzji i działań służących zapewnianiu dostępności cyfrowej.
+
+Wiedzę wykorzystuje w szczególności do identyfikowania i usuwania problemów dostępności, planowania działań naprawczych i doskonalących, oceny zmian, obsługi zgłoszeń użytkowników, odbioru i utrzymania rozwiązań cyfrowych oraz przeglądu i aktualizacji deklaracji dostępności.
+
 
 ### Prowadzenie ocen planowych i doraźnych
 
@@ -87,17 +95,22 @@ Sposób podziału odpowiedzialności dostosowuje do swojej wielkości i struktur
 
 ## Uzasadnienie
 
-Stan dostępności i zgodności rozwiązania cyfrowego zmienia się w całym okresie jego użytkowania. Wpływają na niego między innymi zmiany funkcjonalności, technologii i treści, działania naprawcze, aktualizacje oraz informacje uzyskiwane od użytkowników.
+Skuteczne zapewnianie dostępności cyfrowej wymaga podejmowania decyzji i działań na podstawie aktualnych i wiarygodnych informacji o stanie rozwiązań cyfrowych. Organizacja powinna wiedzieć, gdzie występują problemy dostępności, jakie jest ich znaczenie dla użytkowników, które części rozwiązania wymagają działania oraz czy podjęte działania przyniosły oczekiwane rezultaty.
 
-Pojedyncza ocena lub audyt przedstawia stan rozpoznany w określonym czasie i zakresie. Kolejne niezależne oceny nie zapewniają same w sobie aktualnej wiedzy o stanie rozwiązania, nie pozwalają ustalić zakresu posiadanej wiedzy ani wykorzystać wszystkich informacji uzyskiwanych podczas bieżącej działalności organizacji.
+Stan dostępności i zgodności rozwiązania cyfrowego zmienia się w całym okresie jego użytkowania. Wpływają na niego między innymi zmiany funkcjonalności, technologii i treści, działania naprawcze, aktualizacje oraz informacje uzyskiwane od użytkowników. Wiedza o stanie rozwiązania wymaga dlatego systematycznego uzyskiwania, aktualizowania i weryfikowania.
 
-Zalecenie zastępuje model oparty na kolejnych niezależnych ocenach systematycznym procesem rozwijania i aktualizowania wiedzy. Informacje pochodzące z różnych źródeł są przetwarzane, odnoszone do wcześniejszych ustaleń i organizowane w rejestrze stanu dostępności i zgodności.
+Pojedyncza ocena lub audyt przedstawia stan rozpoznany w określonym czasie i zakresie. Kolejne niezależne oceny nie zapewniają same w sobie ciągłości wiedzy o stanie rozwiązania, nie pozwalają ustalić zakresu posiadanej wiedzy ani wykorzystać wszystkich informacji uzyskiwanych podczas bieżącej działalności organizacji.
 
-Rejestr umożliwia ustalenie nie tylko tego, co wiadomo o stanie rozwiązania, lecz również zakresu jego rozpoznania. Pozwala odróżnić brak stwierdzonych problemów od posiadania wystarczającej wiedzy o zgodności oraz identyfikować wymagania i części rozwiązania, które nie zostały jeszcze ocenione albo wymagają aktualizacji lub weryfikacji wiedzy.
+Zalecenie zastępuje model oparty na kolejnych niezależnych ocenach systematycznym procesem obserwowania i oceniania stanu. Informacje pochodzące z różnych źródeł są przetwarzane, odnoszone do wcześniejszych ustaleń i organizowane w rejestrze stanu dostępności i zgodności.
 
-Analizowanie zakresu rozpoznania pozwala planować kolejne oceny na podstawie dotychczasowej wiedzy i rzeczywistych potrzeb informacyjnych. Dzięki temu organizacja może stopniowo zwiększać i utrzymywać zakres aktualnej wiedzy, ograniczać niepotrzebne powtarzanie wcześniejszych badań oraz kierować zasoby na ocenę tych wymagań, procesów i części rozwiązania, których rozpoznanie jest najbardziej potrzebne.
+Rejestr umożliwia utrzymywanie aktualnej i udokumentowanej wiedzy o stanie rozwiązania oraz wykorzystywanie jej do podejmowania decyzji i działań służących zapewnianiu dostępności cyfrowej. Wiedza może być wykorzystywana między innymi do planowania i weryfikowania działań naprawczych i doskonalących, zarządzania zmianami, obsługi zgłoszeń użytkowników, odbioru i utrzymania rozwiązań oraz przeglądu i aktualizacji deklaracji dostępności.
 
-W rezultacie organizacja może ustalić, co wiadomo o obecnym stanie rozwiązania i na jakiej podstawie, zidentyfikować luki w wiedzy oraz planować dalsze oceny odpowiednio do rzeczywistych potrzeb informacyjnych.
+Organizacja powinna wiedzieć nie tylko, jaki stan rozwiązania został dotychczas ustalony, lecz również w jakim zakresie posiada podstawy do jego oceny. Analizowanie zakresu rozpoznania pozwala odróżnić brak stwierdzonych problemów od posiadania wystarczającej wiedzy o zgodności oraz identyfikować wymagania i części rozwiązania, które nie zostały jeszcze ocenione albo wymagają aktualizacji lub weryfikacji wiedzy.
+
+Na tej podstawie organizacja może planować kolejne oceny odpowiednio do rzeczywistych potrzeb informacyjnych. Pozwala to stopniowo zwiększać zakres rozpoznania stanu, ograniczać niepotrzebne powtarzanie wcześniejszych badań oraz kierować zasoby na ocenę tych wymagań, procesów i części rozwiązania, których rozpoznanie jest najbardziej potrzebne.
+
+Obserwowanie i ocenianie stanu nie jest zatem celem samym w sobie. Zapewnia organizacji wiedzę potrzebną do podejmowania uzasadnionych decyzji, skutecznego reagowania na problemy oraz planowego utrzymywania i doskonalenia dostępności cyfrowej.
+
 
 ## Powiązane dokumenty
 

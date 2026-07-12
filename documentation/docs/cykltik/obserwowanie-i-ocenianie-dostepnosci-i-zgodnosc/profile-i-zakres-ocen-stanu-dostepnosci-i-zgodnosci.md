@@ -41,7 +41,7 @@ Służą w szczególności:
 - planowemu zwiększaniu zakresu wiedzy;
 - obejmowaniu oceną kolejnych wymagań dostępności;
 - zwiększaniu zakresu funkcjonalnego ocen;
-- zwiększaniu liczby i reprezentatywności ocenianych obiektów;
+- zwiększaniu liczby i zróżnicowania ocenianych obiektów oraz reprezentatywności badanej próby;
 - aktualizowaniu lub weryfikowaniu wcześniejszej wiedzy;
 - pogłębianiu rozpoznania wybranych zagadnień;
 - ocenianiu wymagań dodatkowych.
@@ -224,9 +224,7 @@ W zależności od rodzaju rozwiązania powinna obejmować co najmniej:
 - główne obszary funkcjonalne;
 - kluczowe procesy użytkownika;
 - procesy realizacji usług lub załatwiania spraw, jeżeli występują;
-- reprezentatywny zestaw dodatkowych stron, ekranów, funkcji, dokumentów lub innych obiektów.
-
-Dla strony internetowej lub aplikacji próbę należy rozszerzyć co najmniej o pięć obiektów reprezentujących istotne i zróżnicowane części rozwiązania, o ile jego wielkość i charakter uzasadniają taki zakres.
+- co najmniej pięć dodatkowych stron, ekranów, funkcji, dokumentów lub innych obiektów.
 
 Dobór próby powinien uwzględniać:
 
@@ -237,6 +235,7 @@ Dobór próby powinien uwzględniać:
 - ryzyko występowania barier.
 
 Ocena w profilu wstępnym powinna zapewnić uporządkowany obraz stanu, a nie jedynie wykonanie określonej liczby testów.
+
 
 ## 6. Profil rozszerzony
 
@@ -299,9 +298,10 @@ Ocena w profilu rozszerzonym obejmuje obszary, procesy lub obiekty, które:
 - wiążą się z podwyższonym ryzykiem niedostępności;
 - wymagają aktualizacji lub weryfikacji wcześniejszej wiedzy.
 
-Dobór obiektów powinien zwiększać zakres albo reprezentatywność rozpoznania stanu.
+Do czasu uzyskania odpowiedniego zakresu rozpoznania rozwiązania każda kolejna planowa ocena w profilu rozszerzonym powinna zwiększać badaną próbę co najmniej o trzy dodatkowe strony, ekrany, funkcje, dokumenty lub inne obiekty.
 
-Nie ma potrzeby obejmowania każdą kolejną oceną określonej minimalnej liczby nowych obiektów, jeżeli cel oceny i analiza zakresu rozpoznania uzasadniają inny sposób zwiększenia wiedzy, na przykład objęcie oceną nowego procesu użytkownika lub grupy wymagań.
+Dobór dodatkowych obiektów powinien zwiększać zakres rozpoznania stanu albo reprezentatywność badanej próby. Uwzględnia się przy tym dotychczasową wiedzę o rozwiązaniu oraz wyniki analizy zakresu rozpoznania.
+
 
 ### 6.5. Dochodzenie do rozpoznania wszystkich obowiązkowych wymagań
 
@@ -310,7 +310,7 @@ Kolejne oceny w profilu rozszerzonym organizacja planuje w sposób umożliwiają
 - zgodności ze wszystkimi mającymi zastosowanie obowiązkowymi wymaganiami;
 - stanie głównych i istotnych obszarów funkcjonalnych;
 - dostępności kluczowych procesów użytkownika;
-- stanie reprezentatywnego zakresu stron, ekranów, dokumentów, komponentów i innych obiektów.
+- stanie reprezentatywnej próby stron, ekranów, dokumentów, komponentów i innych obiektów.
 
 Organizacja może uzyskać taką wiedzę w wyniku jednej szerokiej oceny, w tym audytu, albo przez planowe rozszerzanie zakresu kolejnych ocen.
 
@@ -400,9 +400,9 @@ Scenariusz o najniższym profilu stosowania „wstępny” może ujawnić proble
 
 Profil oceny planowej i najniższy profil stosowania scenariusza testu są pojęciami powiązanymi, ale nie są tożsame.
 
-**Profil oceny**określa funkcję i zasady planowania zakresu całej oceny planowej.
+**Profil oceny** określa funkcję i zasady planowania zakresu całej oceny planowej.
 
-**Najniższy profil stosowania scenariusza**określa miejsce danego scenariusza w systemie planowego rozszerzania zakresu ocen.
+**Najniższy profil stosowania scenariusza** określa miejsce danego scenariusza w systemie planowego rozszerzania zakresu ocen.
 
 W ocenie w profilu wstępnym stosuje się przede wszystkim scenariusze o najniższym profilu stosowania „wstępny”.
 
