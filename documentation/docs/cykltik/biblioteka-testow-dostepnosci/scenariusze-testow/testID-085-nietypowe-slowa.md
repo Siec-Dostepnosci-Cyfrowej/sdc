@@ -4,8 +4,8 @@ title: Nietypowe słowa
 sidebar_label: Nietypowe słowa
 sidebar_position: 85
 description: Scenariusz testu sprawdzającego, czy znaczenie nietypowych słów, terminów specjalistycznych, żargonu, skrótów używanych w nietypowym znaczeniu oraz wyrażeń obcojęzycznych jest wyjaśnione w sposób umożliwiający zrozumienie treści przez odbiorcę.
-keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,nietypowe słowa]
-tags: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,nietypowe słowa]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil pogłębiony,nietypowe słowa,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil pogłębiony,nietypowe słowa,kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2026 r.
 ostatnia_aktualizacja: 12 czerwca 2026 r.

@@ -4,8 +4,8 @@ title: Scenariusz testu - Opisowe etykiety
 sidebar_label: Opisowe etykiety
 sidebar_position: 40
 description: Scenariusz testu sprawdzającego, czy etykiety i instrukcje formularza w sposób jasny, jednoznaczny i wystarczająco szczegółowy opisują cel pól oraz wymagania dotyczące wprowadzanych danych.
-keywords: [cecha dostępności, profil rozszerzony,opisowe etykiety,kryterium sukcesu, ocena zgodności]
-tags: [cecha dostępności, profil rozszerzony,opisowe etykiety,kryterium sukcesu, ocena zgodności]
+keywords: [cecha dostępności,profil rozszerzony,opisowe etykiety,kryterium sukcesu, ocena zgodności]
+tags: [cecha dostępności,profil rozszerzony,opisowe etykiety,kryterium sukcesu, ocena zgodności]
 opracowanie: Sieć Dostępności Cyfrowej
 data_zgloszenia: 10 czerwca 2026 r.
 ostatnia_aktualizacja: 10 czerwca 2026 r.

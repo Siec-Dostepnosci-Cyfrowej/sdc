@@ -4,8 +4,8 @@ title: Scenariusz testu - Informacja o podmiocie w PJM
 sidebar_label: Informacja o podmiocie w PJM
 sidebar_position: 124
 description: Scenariusz testu sprawdzającego, czy podmiot publiczny udostępnia podstawowe informacje o swojej działalności w Polskim Języku Migowym oraz czy materiały PJM są dostępne i użyteczne dla osób głuchych.
-keywords: [PJM, Polski Język Migowy, język migowy, głusi, dostępność komunikacji, dostępność cyfrowa]
-tags: [test dostępności, PJM, komunikacja, osoby głuche, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,obiekt,profil rozszerzony,informacja o podmiocie w PJM]
+tags: [ocena zgodności,obiekt,profil rozszerzony,informacja o podmiocie w PJM]
 opracowanie: Stefan Wajda
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.

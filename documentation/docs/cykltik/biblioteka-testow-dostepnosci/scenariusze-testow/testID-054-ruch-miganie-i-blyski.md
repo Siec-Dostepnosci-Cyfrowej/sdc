@@ -4,8 +4,8 @@ title: Scenariusz testu - Ruch, miganie i błyski
 sidebar_label: Ruch, miganie i błyski
 sidebar_position: 54
 description: Scenariusz testu sprawdzającego, czy użytkownik może zatrzymać, wstrzymać lub ukryć poruszające się treści oraz czy na stronie nie występują niebezpieczne błyski mogące wywołać reakcje chorobowe.
-keywords: [ruch, miganie, błyski, karuzele, animacje, automatyczna aktualizacja, WCAG, dostępność cyfrowa]
-tags: [test dostępności, multimedia, ruch, błyski, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil wstępny,'ruch, miganie i błyski',kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil wstępny,'ruch, miganie i błyski',kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 11 czerwca 2026 r.
 ostatnia_aktualizacja: 11 czerwca 2026 r.

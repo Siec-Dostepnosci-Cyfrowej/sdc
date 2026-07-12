@@ -4,14 +4,13 @@ title: Scenariusz testu - Lista aktualności
 sidebar_label: Lista aktualności
 sidebar_position: 113
 description: Scenariusz testu sprawdzającego, czy użytkownik może odnaleźć, przeglądać i wybierać aktualności w sposób przewidywalny, zrozumiały i dostępny.
-keywords: [aktualności, lista aktualności, komunikacja cyfrowa, dostępność treści, WCAG, dostępność cyfrowa]
-tags: [test dostępności, aktualności, komunikacja, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,obiekt,profil rozszerzony,lista aktualności]
+tags: [ocena zgodności,obiekt,profil rozszerzony,lista aktualności]
 opracowanie: Stefan Wajda
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.
 wersja_robocza: true
 ---
-
 
 
 ## 1. Identyfikator testu

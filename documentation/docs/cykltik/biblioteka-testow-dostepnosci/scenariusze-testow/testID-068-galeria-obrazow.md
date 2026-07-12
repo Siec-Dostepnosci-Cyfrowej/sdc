@@ -4,8 +4,8 @@ title: Scenariusz testu - Galeria obrazów
 sidebar_label: Galeria obrazów
 sidebar_position: 68
 description: Scenariusz testu sprawdzającego, czy galeria obrazów umożliwia użytkownikom dostęp do zdjęć, opisów i funkcji nawigacyjnych niezależnie od sposobu korzystania z interfejsu.
-keywords: [galeria zdjęć, galeria obrazów, lightbox, zdjęcia, obrazy, dostępność cyfrowa]
-tags: [test dostępności, galeria, obrazy, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,strona internetowa,obiekt,profil rozszerzony,galeria obrazów,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,obiekt,profil rozszerzony,galeria obrazów,kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 11 czerwca 2026 r.
 ostatnia_aktualizacja: 11 czerwca 2026 r.

@@ -4,8 +4,8 @@ title: Scenariusz testu - Zgłoszenie problemu dostępności
 sidebar_label: Zgłoszenie problemu dostępności
 sidebar_position: 121
 description: Scenariusz testu sprawdzającego, czy użytkownik może samodzielnie zgłosić problem z dostępnością cyfrową oraz otrzymać potwierdzenie przyjęcia zgłoszenia.
-keywords: [zgłoszenie problemu dostępności, dostępność cyfrowa, formularz kontaktowy, żądanie zapewnienia dostępności, ustawa o dostępności cyfrowej]
-tags: [test dostępności, dostępność cyfrowa, zgłoszenia, formularz, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,proces,profil rozszerzony,zgłoszenie problemu dostępności]
+tags: [ocena zgodności,proces,profil rozszerzony,zgłoszenie problemu dostępności]
 opracowanie: Stefan Wajda
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.

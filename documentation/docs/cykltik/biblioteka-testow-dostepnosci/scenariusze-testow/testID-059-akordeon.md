@@ -4,8 +4,8 @@ title: Scenariusz testu - Akordeon
 sidebar_label: Akordeon
 sidebar_position: 59
 description: Scenariusz testu sprawdzającego, czy komponent akordeonu jest dostępny dla użytkowników klawiatury i technologii wspomagających oraz czy umożliwia przewidywalne rozwijanie i zwijanie treści.
-keywords: [test dostępności, komponenty, akordeon, rozwijane sekcje, ukryta treść, profil rozszerzony]
-tags: [test dostępności, komponenty, akordeon, rozwijane sekcje, ukryta treść, profil rozszerzony]
+keywords: [ocena zgodności,strona internetowa,obiekt,profil rozszerzony,akordeon,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,obiekt,profil rozszerzony,akordeon,kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 11 czerwca 2026 r.
 ostatnia_aktualizacja: 11 czerwca 2026 r.

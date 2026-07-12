@@ -4,8 +4,8 @@ title: Scenariusz testu - Transkrypcja dla nagrań audio
 sidebar_label: Transkrypcja dla nagrań audio
 sidebar_position: 50
 description: Scenariusz testu sprawdzającego, czy nagrania dźwiękowe posiadają równoważną transkrypcję tekstową przekazującą wszystkie istotne informacje zawarte w nagraniu.
-keywords: [transkrypcja, nagranie audio, podcast, alternatywa tekstowa, WCAG, dostępność cyfrowa]
-tags: [test dostępności, multimedia, audio, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil wstępny,transkrypcja dla nagrań audio,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil wstępny,transkrypcja dla nagrań audio,kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 11 czerwca 2026 r.
 ostatnia_aktualizacja: 11 czerwca 2026 r.

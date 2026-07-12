@@ -4,8 +4,8 @@ title: Scenariusz testu - Strona kontaktowa
 sidebar_label: Strona kontaktowa
 sidebar_position: 123
 description: Scenariusz testu sprawdzającego, czy strona kontaktowa umożliwia użytkownikowi skuteczne skontaktowanie się z organizacją, uzyskanie informacji o lokalizacji oraz zgłoszenie problemów związanych z dostępnością.
-keywords: [kontakt, strona kontaktowa, dane teleadresowe, dostępność, lokalizacja, formularz kontaktowy, WCAG]
-tags: [test dostępności, kontakt, komunikacja, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,obiekt,profil rozszerzony,strona kontaktowa]
+tags: [ocena zgodności,obiekt,profil rozszerzony,strona kontaktowa]
 opracowanie: Stefan Wajda
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.

@@ -4,8 +4,8 @@ title: Scenariusz testu - Zapobieganie błędom
 sidebar_label: Zapobieganie błędom
 sidebar_position: 45
 description: Scenariusz testu sprawdzającego, czy użytkownik może sprawdzić, poprawić, potwierdzić lub cofnąć operację przed wykonaniem działania powodującego skutki prawne, finansowe lub dotyczącego ważnych danych.
-keywords: [zapobieganie błędom, formularze, dane osobowe, transakcje finansowe, potwierdzenie danych, WCAG, dostępność cyfrowa]
-tags: [test dostępności, formularze, błędy, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,zapobieganie błędom,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,zapobieganie błędom,kryterium sukcesu]
 opracowanie: Sieć Dostępności Cyfrowej
 data_zgloszenia: 10 czerwca 2026 r.
 ostatnia_aktualizacja: 10 czerwca 2026 r.

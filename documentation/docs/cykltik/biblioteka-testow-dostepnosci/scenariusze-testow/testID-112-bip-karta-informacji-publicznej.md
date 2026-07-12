@@ -4,8 +4,8 @@ title: Karta testu BIP — Informacja publiczna
 sidebar_label: BIP — karta informacji publicznej
 sidebar_position: 112
 description: Scenariusz testu sprawdzającego, czy karta informacji publicznej opublikowana w Biuletynie Informacji Publicznej umożliwia użytkownikowi odnalezienie, zrozumienie i wykorzystanie informacji publicznej oraz spełnia wymagania dostępności cyfrowej.
-keywords: [BIP, informacja publiczna, karta informacji publicznej, dostępność BIP, WCAG, dostępność cyfrowa]
-tags: [test dostępności, BIP, informacja publiczna, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,obiekt,profil rozszerzony,BIP - karta informacji publicznej]
+tags: [ocena zgodności,obiekt,profil rozszerzony,BIP - karta informacji publicznej]
 opracowanie: Stefan Wajda
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.
@@ -18,11 +18,11 @@ wersja_robocza: true
 
 ## 2. Nazwa testu
 
-BIP — karta informacji publicznej
+BIP - karta informacji publicznej
 
 ## 3. Profil stosowania testu
 
-Najniższy profil stosowania: **profil pogłębiony**
+Najniższy profil stosowania: **profil rozszerzony**
 
 ## 4. Opis testu
 

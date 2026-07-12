@@ -4,8 +4,8 @@ title: Scenariusz testu - Treść spod kursora lub fokusu
 sidebar_label: Treść spod kursora lub fokusu
 sidebar_position: 77
 description: Scenariusz testu sprawdzającego, czy dodatkowa treść pojawiająca się po najechaniu kursorem lub uzyskaniu fokusu jest dostępna, możliwa do odczytania i nie znika niespodziewanie podczas korzystania z interfejsu.
-keywords: [tooltip, podpowiedź, fokus, hover, treść dodatkowa, WCAG 1.4.13, dostępność cyfrowa]
-tags: [test dostępności, interakcja, fokus, hover, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,treść spod kursora lub fokusu,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,treść spod kursora lub fokusu,kryterium sukcesu]
 opracowanie: Sieć Dostępności Cyfrowej
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.

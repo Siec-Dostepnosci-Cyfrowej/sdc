@@ -4,8 +4,8 @@ title: Scenariusz testu - Skan dokumentu
 sidebar_label: Skan dokumentu
 sidebar_position: 104
 description: Scenariusz testu sprawdzającego, czy dokument udostępniony w postaci skanu jest dostępny dla użytkowników technologii wspomagających lub czy zapewniono alternatywną formę dostępu do jego treści.
-keywords: [skan dokumentu, OCR, dostępność dokumentów, dokument zeskanowany, PDF, WCAG, dostępność cyfrowa]
-tags: [test dostępności, dokumenty, skan, OCR, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,obiekt,profil wstępny,skan dokumentu]
+tags: [ocena zgodności,obiekt,profil wstępny,skan dokumentu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.

@@ -4,8 +4,8 @@ title: Scenariusz testu - Rezerwacja terminu
 sidebar_label: Rezerwacja terminu
 sidebar_position: 119
 description: Scenariusz testu sprawdzającego, czy użytkownik może samodzielnie znaleźć dostępny termin, wybrać go, zarezerwować wizytę oraz otrzymać potwierdzenie rezerwacji.
-keywords: [rezerwacja terminu, kalendarz, umawianie wizyty, e-usługa, harmonogram, WCAG, dostępność cyfrowa]
-tags: [test dostępności, proces użytkownika, rezerwacja, kalendarz, usługi cyfrowe, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,proces,profil rozszerzony,rezerwacja terminu]
+tags: [ocena zgodności,proces,profil rozszerzony,rezerwacja terminu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.

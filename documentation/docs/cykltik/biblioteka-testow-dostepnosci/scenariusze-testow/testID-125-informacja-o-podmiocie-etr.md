@@ -4,8 +4,8 @@ title: Scenariusz testu - Informacja o podmiocie w ETR
 sidebar_label: Informacja o podmiocie w ETR
 sidebar_position: 125
 description: Scenariusz testu sprawdzającego, czy podmiot publiczny udostępnia podstawowe informacje o swojej działalności w tekście łatwym do czytania i zrozumienia (ETR).
-keywords: [ETR, tekst łatwy do czytania, easy-to-read, łatwy język, dostępność poznawcza, dostępność cyfrowa]
-tags: [test dostępności, ETR, komunikacja, dostępność poznawcza, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,obiekt,profil rozszerzony,informacja o podmiocie w ETR]
+tags: [ocena zgodności,obiekt,profil rozszerzony,informacja o podmiocie w ETR]
 opracowanie: Stefan Wajda
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.

@@ -4,8 +4,8 @@ title: Scenariusz testu - Selektor języka
 sidebar_label: Selektor języka
 sidebar_position: 132
 description: Scenariusz testu sprawdzającego, czy selektor języka jest łatwy do odnalezienia, zrozumiały, dostępny z klawiatury i poprawnie przełącza użytkownika do właściwej wersji językowej.
-keywords: [selektor języka, wybór języka, wersje językowe, wielojęzyczność, WCAG, dostępność cyfrowa]
-tags: [test dostępności, selektor języka, wielojęzyczność, komponent, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,obiekt,profil rozszerzony,selektor języka]
+tags: [ocena zgodności,obiekt,profil rozszerzony,selektor języka]
 opracowanie: Stefan Wajda
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.

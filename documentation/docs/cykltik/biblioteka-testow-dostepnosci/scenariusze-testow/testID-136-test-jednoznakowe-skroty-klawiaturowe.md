@@ -4,8 +4,8 @@ title: Scenariusz testu - Jednoznakowe skróty klawiaturowe
 sidebar_label: Jednoznakowe skróty klawiaturowe
 sidebar_position: 136
 description: Scenariusz testu sprawdzającego, czy skróty klawiaturowe wykorzystujące pojedyncze znaki mogą zostać wyłączone, zmienione lub są aktywne wyłącznie po uzyskaniu fokusu przez odpowiedni komponent.
-keywords: [skróty klawiaturowe, pojedynczy znak, klawiatura, rozpoznawanie mowy, WCAG 2.1.4, dostępność cyfrowa]
-tags: [test dostępności, klawiatura, skróty klawiaturowe, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,jednoznakowe skróty klawiaturowe,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,jednoznakowe skróty klawiaturowe,kryterium sukcesu]
 opracowanie: Sieć Dostępności Cyfrowej
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.

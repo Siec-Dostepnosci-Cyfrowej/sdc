@@ -4,8 +4,8 @@ title: Orientacja ekranu (aplikacja mobilna)
 sidebar_label: Orientacja ekranu (aplikacja mobilna)
 sidebar_position: 100
 description: Scenariusz testu sprawdzającego, czy aplikacja mobilna może być używana zarówno w orientacji pionowej, jak i poziomej oraz czy użytkownik nie jest zmuszany do korzystania wyłącznie z jednej orientacji ekranu, chyba że jest to niezbędne dla charakteru funkcji.
-keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,orientacja ekranu,aplikacja mobilna]
-tags: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,orientacja ekranu,aplikacja mobilna]
+keywords: [ocena zgodności,aplikacja mobilna,cecha dostępności,profil wstępny,orientacja ekranu (aplikacja mobilna),kryterium sukcesu]
+tags: [ocena zgodności,aplikacja mobilna,cecha dostępności,profil wstępny,orientacja ekranu (aplikacja mobilna),kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2026 r.
 ostatnia_aktualizacja: 12 czerwca 2026 r.

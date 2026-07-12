@@ -4,8 +4,8 @@ title: Scenariusz testu - Mapa dojazdu / Lokalizacja
 sidebar_label: Mapa dojazdu / Lokalizacja
 sidebar_position: 122
 description: Scenariusz testu sprawdzającego, czy informacja o lokalizacji jest dostępna dla wszystkich użytkowników oraz czy mapa nie stanowi jedynego źródła informacji o sposobie dotarcia do miejsca.
-keywords: [mapa, lokalizacja, dojazd, dojście, mapa interaktywna, WCAG, dostępność cyfrowa]
-tags: [test dostępności, mapa, lokalizacja, komponenty, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,obiekt,profil rozszerzony,mapa, lokalizacja]
+tags: [ocena zgodności,obiekt,profil rozszerzony,mapa, lokalizacja]
 opracowanie: Stefan Wajda
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.

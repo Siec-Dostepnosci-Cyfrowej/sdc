@@ -4,8 +4,8 @@ title: Fokus niezakryty
 sidebar_label: Fokus niezakryty
 sidebar_position: 87
 description: Scenariusz testu sprawdzającego, czy element interfejsu posiadający fokus klawiatury pozostaje co najmniej częściowo widoczny i nie jest całkowicie zasłonięty przez inne elementy interfejsu.
-keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,fokus niezakryty]
-tags: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,fokus niezakryty]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,fokus niezakryty,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,fokus niezakryty,kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2026 r.
 ostatnia_aktualizacja: 12 czerwca 2026 r.

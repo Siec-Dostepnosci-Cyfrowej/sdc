@@ -4,8 +4,8 @@ title: Scenariusz testu - Dokument podpisany elektronicznie
 sidebar_label: Dokument podpisany elektronicznie
 sidebar_position: 108
 description: Scenariusz testu sprawdzającego, czy zastosowanie podpisu elektronicznego nie ogranicza dostępności dokumentu oraz czy użytkownik może odczytać i wykorzystać jego treść przy użyciu technologii wspomagających.
-keywords: [podpis elektroniczny, podpis kwalifikowany, dokument elektroniczny, PDF, dostępność dokumentów, WCAG]
-tags: [test dostępności, dokumenty, podpis elektroniczny, PDF, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,obiekt,profil pogłębiony,dokument podpisany elektronicznie]
+tags: [ocena zgodności,obiekt,profil pogłębiony,dokument podpisany elektronicznie]
 opracowanie: Stefan Wajda
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.

@@ -4,8 +4,8 @@ title: Scenariusz testu - Język rozwiązania (aplikacja mobilna)
 sidebar_label: Język rozwiązania
 sidebar_position: 137
 description: Scenariusz testu sprawdzającego, główny język aplikacji mobilnej został poprawnie określony programowo oraz czy technologie wspomagające mogą prawidłowo rozpoznawać język interfejsu, treści i komunikatów prezentowanych użytkownikowi.
-keywords: [język, język strony, dostępność cyfrowa,interfejs użytkownika, okresowa ocena zgodności,aplikacja mobilna]
-tags: [język, język strony, dostępność cyfrowa,interfejs użytkownika, okresowa ocena zgodności,aplikacja mobilna]
+keywords: [ocena zgodności,aplikacja mobilna,cecha dostępności,profil wstępny,język rozwiązania (aplikacja mobilna,kryterium sukcesu]
+tags: [ocena zgodności,aplikacja mobilna,cecha dostępności,profil wstępny,język rozwiązania (aplikacja mobilna]
 opracowanie: Stefan Wajda
 data_zgloszenia: 15 czerwca 2026 r.
 ostatnia_aktualizacja: 15 czerwca 2026 r.

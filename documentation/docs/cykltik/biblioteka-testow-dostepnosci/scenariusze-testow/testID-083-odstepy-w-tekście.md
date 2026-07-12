@@ -4,8 +4,8 @@ title: Odstępy w tekście
 sidebar_label: Odstępy w tekście
 sidebar_position: 83
 description: Scenariusz testu sprawdzającego, czy użytkownik może zwiększyć odstępy pomiędzy znakami, wyrazami, wierszami i akapitami bez utraty treści lub funkcjonalności rozwiązania.
-keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,odstępy w tekście]
-tags: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,odstępy w tekście]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,odstępy w tekście,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,odstępy w tekście,kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2026 r.
 ostatnia_aktualizacja: 12 czerwca 2026 r.

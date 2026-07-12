@@ -4,8 +4,8 @@ title: Scenariusz testu - Zakładki
 sidebar_label: Zakładki
 sidebar_position: 56
 description: Scenariusz testu sprawdzającego, czy komponent zakładek jest dostępny dla użytkowników klawiatury i technologii wspomagających.
-keywords: [zakładki, tabs, tablist, tabpanel, klawiatura, fokus, dostępność cyfrowa]
-tags: [test dostępności, komponenty, zakładki, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,strona internetowa,obiekt,profil rozszerzony,zakładki,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,obiekt,profil rozszerzony,zakładki,kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 11 czerwca 2026 r.
 ostatnia_aktualizacja: 11 czerwca 2026 r.

@@ -4,8 +4,8 @@ title: Obsługa czytnikiem ekranu (aplikacja mobilna)
 sidebar_label: Obsługa czytnikiem ekranu (aplikacja mobilna)
 sidebar_position: 95
 description: Scenariusz testu sprawdzającego, czy aplikacja mobilna może być skutecznie używana przy wykorzystaniu wbudowanego czytnika ekranu oraz czy użytkownik otrzymuje informacje niezbędne do orientacji, nawigacji i wykonania zadań.
-keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,czytnik ekranu,TalkBack,VoiceOver,aplikacja mobilna]
-tags: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,czytnik ekranu,TalkBack,VoiceOver,aplikacja mobilna]
+keywords: [ocena zgodności,aplikacja mobilna,cecha dostępności,profil rozszerzony,obsługa czytnikiem ekranu (aplikacja mobilna),kryterium sukcesu]
+tags: [ocena zgodności,aplikacja mobilna,cecha dostępności,profil rozszerzony,obsługa czytnikiem ekranu (aplikacja mobilna),kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2026 r.
 ostatnia_aktualizacja: 12 czerwca 2026 r.

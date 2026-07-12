@@ -4,8 +4,8 @@ title: Scenariusz testu - Katalog usług
 sidebar_label: Katalog usług
 sidebar_position: 115
 description: Scenariusz testu sprawdzającego, czy użytkownik może odnaleźć, zidentyfikować i wybrać właściwą usługę za pomocą katalogu usług.
-keywords: [katalog usług, usługi publiczne, wyszukiwarka usług, dostępność usług, WCAG, dostępność cyfrowa]
-tags: [test dostępności, usługi publiczne, katalog usług, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,obiekt,profil rozszerzony,katalog usług]
+tags: [ocena zgodności,obiekt,profil rozszerzony,katalog usług]
 opracowanie: Stefan Wajda
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.

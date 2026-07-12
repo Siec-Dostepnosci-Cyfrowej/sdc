@@ -4,8 +4,8 @@ title: Ponowne wpisy
 sidebar_label: Ponowne wpisy
 sidebar_position: 92
 description: Scenariusz testu sprawdzającego, czy użytkownik nie musi ponownie wprowadzać informacji, które zostały już wcześniej podane w tym samym procesie, chyba że jest to niezbędne ze względów bezpieczeństwa, poprawności danych lub charakteru procesu.
-keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,ponowne wpisy]
-tags: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,ponowne wpisy]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,ponowne wpisy,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,ponowne wpisy,kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2026 r.
 ostatnia_aktualizacja: 12 czerwca 2026 r.

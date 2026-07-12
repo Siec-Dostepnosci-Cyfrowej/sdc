@@ -4,8 +4,8 @@ title: Scenariusz testu - Deklaracja dostępności (zgodność z warunkami techn
 sidebar_label: Deklaracja dostępności (MC)
 sidebar_position: 111
 description: Scenariusz testu sprawdzającego zgodność deklaracji dostępności z warunkami technicznymi publikacji deklaracji dostępności określonymi przez Ministerstwo Cyfryzacji.
-keywords: [deklaracja dostępności, warunki techniczne, Ministerstwo Cyfryzacji, dostępność cyfrowa, interoperacyjność]
-tags: [test dostępności, deklaracja dostępności, warunki techniczne, WCAG, zgodność]
+keywords: [ocena zgodności,obiekt,profil rozszerzony,deklaracja dostępności (zgodność z warunkami technicznymi MC)]
+tags: [ocena zgodności,obiekt,profil rozszerzony,deklaracja dostępności (zgodność z warunkami technicznymi MC)]
 opracowanie: Stefan Wajda
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.

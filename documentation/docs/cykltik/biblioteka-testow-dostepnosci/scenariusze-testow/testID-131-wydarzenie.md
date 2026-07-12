@@ -4,8 +4,8 @@ title: Scenariusz testu - Strona Wydarzenie
 sidebar_label: Wydarzenie
 sidebar_position: 131
 description: Scenariusz testu sprawdzającego, czy strona wydarzenia zawiera kompletne informacje o wydarzeniu, jego dostępności, lokalizacji i sposobie uczestnictwa oraz umożliwia skuteczne skorzystanie z tych informacji przez wszystkich użytkowników.
-keywords: [wydarzenie, wydarzenia, konferencja, warsztaty, spotkanie, wydarzenie publiczne, dostępność cyfrowa]
-tags: [test dostępności, wydarzenie, komunikacja, usługi publiczne, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,obiekt,profil rozszerzony,wydarzenie]
+tags: [ocena zgodności,obiekt,profil rozszerzony,wydarzenie]
 opracowanie: Stefan Wajda
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.

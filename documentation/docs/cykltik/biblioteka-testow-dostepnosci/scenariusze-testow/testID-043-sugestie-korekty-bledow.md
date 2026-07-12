@@ -4,8 +4,8 @@ title: Scenariusz testu - Sugestie korekty błędów
 sidebar_label: Sugestie korekty błędów
 sidebar_position: 43
 description: Scenariusz testu sprawdzającego, czy w przypadku automatycznego wykrycia błędu formularz podaje użytkownikowi wskazówki umożliwiające poprawienie błędnie wprowadzonych danych.
-keywords: [sugestie korekty błędów, błędy formularzy, walidacja, formularze, WCAG, dostępność cyfrowa]
-tags: [test dostępności, formularze, błędy, walidacja, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil wstępny,sugestie korekty błędów,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil wstępny,sugestie korekty błędów,kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 10 czerwca 2026 r.
 ostatnia_aktualizacja: 10 czerwca 2026 r.

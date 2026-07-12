@@ -1,11 +1,11 @@
 ---
-id: test-spojnosc-identyfikacji
-title: Scenariusz testu - Spójność identyfikacji
-sidebar_label: Spójność identyfikacji
+id: test-spojna-identyfikacja
+title: Scenariusz testu - Spójna identyfikacja
+sidebar_label: Spójna identyfikacja
 sidebar_position: 73
 description: Scenariusz testu sprawdzającego, czy elementy pełniące tę samą funkcję są identyfikowane w spójny sposób w obrębie serwisu lub aplikacji.
-keywords: [spójność identyfikacji, consistent identification, etykiety, nazwy, dostępność cyfrowa]
-tags: [test dostępności, nawigacja, interfejs użytkownika, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,spójna identyfikacja,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,spójna identyfikacja,kryterium sukcesu]
 opracowanie: Sieć Dostępności Cyfrowej
 data_zgloszenia: 11 czerwca 2026 r.
 ostatnia_aktualizacja: 11 czerwca 2026 r.
@@ -21,7 +21,7 @@ wersja_robocza: true
 
 ## 2. Nazwa testu
 
-**Spójność identyfikacji**
+**Spójna identyfikacja**
 
 ---
 

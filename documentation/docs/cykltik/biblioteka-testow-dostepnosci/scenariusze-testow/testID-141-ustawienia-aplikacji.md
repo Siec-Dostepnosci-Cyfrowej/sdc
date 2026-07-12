@@ -1,11 +1,11 @@
 ---
 id: test-ustawienia-aplikacji
-title: Karta testu - Ustawienia aplikacji
+title: Scenariusz testu - Ustawienia aplikacji
 sidebar_label: Ustawienia aplikacji
 sidebar_position: 141
 description: Test sprawdza, czy ekran ustawień aplikacji jest dostępny, zrozumiały oraz umożliwia użytkownikowi przeglądanie i modyfikowanie ustawień bez napotykania barier.
-keywords: [aplikacja mobilna,ustawienia aplikacji,konfiguracja aplikacji,preferencje użytkownika,dostępność aplikacji mobilnych,TalkBack,VoiceOver,nawigacja,WCAG,]
-tags: [aplikacja mobilna,ustawienia aplikacji,konfiguracja aplikacji,preferencje użytkownika,dostępność aplikacji mobilnych,TalkBack,VoiceOver,nawigacja,WCAG,]
+keywords: [ocena zgodności,aplikacja mobilna,obiekt,profil rozszerzony,ustawienia aplikacji]
+tags: [ocena zgodności,aplikacja mobilna,obiekt,profil rozszerzony,ustawienia aplikacji]
 opracowanie: Stefan Wajda
 data_zgloszenia: 15 czerwca 2026 r.
 ostatnia_aktualizacja: 15 czerwca 2026 r.

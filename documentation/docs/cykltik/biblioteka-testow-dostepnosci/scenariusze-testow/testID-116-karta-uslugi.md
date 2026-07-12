@@ -4,8 +4,8 @@ title: Scenariusz testu - Karta usługi
 sidebar_label: Karta usługi
 sidebar_position: 116
 description: Scenariusz testu sprawdzającego, czy strona usługi publicznej zawiera wszystkie informacje niezbędne do przygotowania i realizacji sprawy oraz czy umożliwia użytkownikowi skuteczne rozpoczęcie procesu.
-keywords: [usługa publiczna, karta usługi, opis usługi, usługi cyfrowe, WCAG, dostępność cyfrowa]
-tags: [test dostępności, usługi publiczne, karta usługi, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,obiekt,profil rozszerzony,karta usługi]
+tags: [ocena zgodności,obiekt,profil rozszerzony,karta usługi]
 opracowanie: Stefan Wajda
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.

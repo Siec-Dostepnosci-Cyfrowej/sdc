@@ -4,8 +4,8 @@ title: Scenariusz testu - Polityka prywatności
 sidebar_label: Polityka prywatności
 sidebar_position: 126
 description: Scenariusz testu sprawdzającego, czy strona Polityka prywatności jest kompletna, aktualna, zrozumiała, dostępna cyfrowo oraz zgodna ze stanem faktycznym serwisu. 
-keywords: [polityka prywatności, RODO, cookies, dane osobowe, prywatność, dostępność cyfrowa]
-tags: [test dostępności, prywatność, RODO, komunikacja, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,obiekt,profil rozszerzony,polityka prywatności]
+tags: [ocena zgodności,obiekt,profil rozszerzony,polityka prywatności]
 opracowanie: Stefan Wajda
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.

@@ -4,8 +4,8 @@ title: Scenariusz testu - Format danych
 sidebar_label: Format danych
 sidebar_position: 42
 description: Scenariusz testu sprawdzającego, czy użytkownik otrzymuje informację o wymaganym formacie, typie lub strukturze danych przed rozpoczęciem wypełniania formularza.
-keywords: [format danych, formularze, instrukcje formularzy, walidacja, WCAG, dostępność cyfrowa]
-tags: [test dostępności, formularze, format danych, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil wstępny,format danych,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil wstępny,format danych,kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 10 czerwca 2026 r.
 ostatnia_aktualizacja: 10 czerwca 2026 r.

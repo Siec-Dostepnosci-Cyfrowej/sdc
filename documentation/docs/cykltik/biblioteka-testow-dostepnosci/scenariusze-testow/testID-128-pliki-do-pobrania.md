@@ -4,8 +4,8 @@ title: Scenariusz testu - Pliki do pobrania
 sidebar_label: Pliki do pobrania
 sidebar_position: 128
 description: Scenariusz testu sprawdzającego, czy użytkownik może łatwo odnaleźć, zidentyfikować, ocenić i pobrać dokumenty oraz inne pliki udostępniane przez organizację. 
-keywords: [pliki do pobrania, dokumenty, załączniki, PDF, DOCX, XLSX, dostępność dokumentów]
-tags: [test dostępności, dokumenty, pliki, załączniki, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,proces,profil rozszerzony,pliki do pobrania]
+tags: [ocena zgodności,proces,profil rozszerzony,pliki do pobrania]
 opracowanie: Stefan Wajda
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.
@@ -27,7 +27,7 @@ wersja_robocza: true
 
 ## 3. Profil stosowania testu
 
-Najniższy profil stosowania: **profil wstępny**
+Najniższy profil stosowania: **profil rozszerzony**
 
 ---
 

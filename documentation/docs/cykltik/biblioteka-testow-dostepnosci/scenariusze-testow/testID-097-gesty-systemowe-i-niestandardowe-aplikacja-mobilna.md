@@ -4,8 +4,8 @@ title: Gesty systemowe i niestandardowe (aplikacja mobilna)
 sidebar_label: Gesty systemowe i niestandardowe
 sidebar_position: 97
 description: Scenariusz testu sprawdzającego, czy funkcje aplikacji mobilnej wykorzystujące gesty systemowe lub niestandardowe pozostają dostępne dla użytkowników korzystających z technologii wspomagających oraz czy dla gestów złożonych zapewniono alternatywne sposoby wykonania tych samych działań.
-keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,gest systemowy,gest niestandardowy]
-tags: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,gest systemowy,gest niestandardowy]
+keywords: [ocena zgodności,aplikacja mobilna,cecha dostępności,profil pogłębiony,gesty systemowe i niestandardowe (aplikacja mobilna),kryterium sukcesu]
+tags: [ocena zgodności,aplikacja mobilna,cecha dostępności,profil pogłębiony,gesty systemowe i niestandardowe (aplikacja mobilna),kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2026 r.
 ostatnia_aktualizacja: 12 czerwca 2026 r.

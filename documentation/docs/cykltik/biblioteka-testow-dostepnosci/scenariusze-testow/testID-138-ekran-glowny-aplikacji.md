@@ -1,11 +1,11 @@
 ---
 id: test-ekran-glowny-aplikacji
-title: Karta testu - Ekran główny aplikacji
+title: Scenariusz testu - Ekran główny aplikacji
 sidebar_label: Ekran główny aplikacji
 sidebar_position: 138
 description: Test sprawdza, czy ekran główny aplikacji mobilnej zapewnia użytkownikowi dostęp do najważniejszych funkcji, umożliwia orientację w strukturze rozwiązania oraz pozwala rozpocząć realizację podstawowych zadań.
-keywords: [aplikacja mobilna,ekran główny,orientacja użytkownika,TalkBack,VoiceOver,dostępność aplikacji mobilnych,WCAG 2.4.2,]
-tags: [aplikacja mobilna,ekran główny,orientacja użytkownika,TalkBack,VoiceOver,dostępność aplikacji mobilnych,WCAG 2.4.2,]
+keywords: [ocena zgodności,aplikacja mobilna,obiekt,profil wstępny,ekran główny aplikacji]
+tags: [ocena zgodności,aplikacja mobilna,obiekt,profil wstępny,ekran główny aplikacji]
 opracowanie: Stefan Wajda
 data_zgloszenia: 15 czerwca 2026 r.
 ostatnia_aktualizacja: 15 czerwca 2026 r.

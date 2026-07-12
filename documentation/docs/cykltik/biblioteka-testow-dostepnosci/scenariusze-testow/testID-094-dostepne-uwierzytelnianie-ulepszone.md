@@ -4,8 +4,8 @@ title: Dostępne uwierzytelnianie (ulepszone)
 sidebar_label: Dostępne uwierzytelnianie (ulepszone)
 sidebar_position: 94
 description: Scenariusz testu sprawdzającego, czy proces uwierzytelniania nie wymaga od użytkownika wykonywania testów poznawczych oraz nie wymaga odtwarzania informacji z pamięci, chyba że użytkownik korzysta z menedżera haseł, funkcji autouzupełniania lub innego mechanizmu wspomagającego.
-keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,dostępne uwierzytelnianie]
-tags: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,dostępne uwierzytelnianie]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil pogłębiony,dostępne uwierzytelnianie (ulepszone),kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil pogłębiony,dostępne uwierzytelnianie (ulepszone),kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2026 r.
 ostatnia_aktualizacja: 12 czerwca 2026 r.
@@ -22,7 +22,7 @@ wersja_robocza: true
 
 ## 3. Profil stosowania testu
 
-Najniższy profil stosowania: **profil rozszerzony**
+Najniższy profil stosowania: **profil pogłębiony**
 
 ## 4. Opis testu
 

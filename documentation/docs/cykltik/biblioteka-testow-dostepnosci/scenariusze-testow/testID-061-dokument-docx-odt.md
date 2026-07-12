@@ -4,8 +4,8 @@ title: Scenariusz testu - Dokument DOCX (ODT)
 sidebar_label: Dokument DOCX (ODT)
 sidebar_position: 61
 description: Scenariusz testu sprawdzającego, czy dokument edytowalny DOCX lub ODT został przygotowany z wykorzystaniem mechanizmów umożliwiających jego poprawny odczyt przez technologie wspomagające.
-keywords: [DOCX, ODT, dokument edytowalny, Word, LibreOffice, dostępność dokumentów, WCAG]
-tags: [test dostępności, dokumenty, DOCX, ODT, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,strona internetowa,obiekt,profil rozszerzony,dokument DOCX (ODT),kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,obiekt,profil rozszerzony,dokument DOCX (ODT),kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 11 czerwca 2026 r.
 ostatnia_aktualizacja: 11 czerwca 2026 r.

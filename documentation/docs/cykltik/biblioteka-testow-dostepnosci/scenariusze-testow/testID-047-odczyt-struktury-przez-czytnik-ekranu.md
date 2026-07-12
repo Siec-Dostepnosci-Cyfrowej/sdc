@@ -4,8 +4,8 @@ title: Scenariusz testu - Odczyt struktury przez czytnik ekranu
 sidebar_label: Odczyt struktury przez czytnik ekranu
 sidebar_position: 47
 description: Scenariusz testu sprawdzającego, czy użytkownik czytnika ekranu może rozpoznać strukturę strony oraz korzystać z mechanizmów nawigacyjnych opartych na nagłówkach, punktach orientacyjnych i innych elementach strukturalnych.
-keywords: [czytnik ekranu, struktura strony, nagłówki, punkty orientacyjne, NVDA, VoiceOver, dostępność cyfrowa]
-tags: [test dostępności, technologie wspomagające, czytnik ekranu, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil wstępny,odczyt struktury przez czytnik ekranu,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil wstępny,odczyt struktury przez czytnik ekranu,kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 11 czerwca 2026 r.
 ostatnia_aktualizacja: 11 czerwca 2026 r.

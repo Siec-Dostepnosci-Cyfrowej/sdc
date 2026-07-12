@@ -1,11 +1,11 @@
 ---
 id: test-widok-szczegolow-aplikacji
-title: Karta testu - Widok szczegółów w aplikacji
+title: Scenariusz testu - Widok szczegółów w aplikacji
 sidebar_label: Widok szczegółów
 sidebar_position: 140
 description: Test sprawdza, czy ekran prezentujący szczegółowe informacje o wybranym obiekcie umożliwia użytkownikowi zapoznanie się z treścią, zrozumienie jej znaczenia oraz wykonanie dostępnych działań.
-keywords: [aplikacja mobilna,widok szczegółów,ekran szczegółów,karta obiektu,dostępność aplikacji mobilnych,TalkBack,VoiceOver,nawigacja,WCAG,]
-tags: [aplikacja mobilna,widok szczegółów,ekran szczegółów,karta obiektu,dostępność aplikacji mobilnych,TalkBack,VoiceOver,nawigacja,WCAG,]
+keywords: [ocena zgodności,aplikacja mobilna,obiekt,profil rozszerzony,widok szczegółów w aplikacji]
+tags: [ocena zgodności,aplikacja mobilna,obiekt,profil rozszerzony,widok szczegółów w aplikacji]
 opracowanie: Stefan Wajda
 data_zgloszenia: 15 czerwca 2026 r.
 ostatnia_aktualizacja: 15 czerwca 2026 r.

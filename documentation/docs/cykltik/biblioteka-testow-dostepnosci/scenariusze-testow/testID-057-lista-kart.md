@@ -4,8 +4,8 @@ title: Scenariusz testu - Lista kart
 sidebar_label: Lista kart
 sidebar_position: 57
 description: Scenariusz testu sprawdzającego, czy lista kart jest prezentowana jako dostępny i przewidywalny zbiór elementów umożliwiający użytkownikom sprawną orientację, nawigację i przeglądanie treści.
-keywords: [lista kart, karty, card list, grid, lista wyników, dostępność cyfrowa]
-tags: [test dostępności, komponenty, lista kart, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,strona internetowa,obiekt,profil rozszerzony,lista kart,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,obiekt,profil rozszerzony,lista kart,kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 11 czerwca 2026 r.
 ostatnia_aktualizacja: 11 czerwca 2026 r.

@@ -4,8 +4,8 @@ title: Gesty wskaźnika
 sidebar_label: Gesty wskaźnika
 sidebar_position: 80
 description: Scenariusz testu sprawdzającego, czy funkcje rozwiązania wymagające wykonania gestów wielopunktowych lub gestów opartych na określonej ścieżce ruchu mogą zostać wykonane również przy użyciu prostego gestu wykonywanego jednym wskaźnikiem, bez konieczności wykonywania złożonych ruchów.
-keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,gesty wskaźnika]
-tags: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,gesty wskaźnika]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,gesty wskaźnika,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,gesty wskaźnika,kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2026 r.
 ostatnia_aktualizacja: 12 czerwca 2026 r.

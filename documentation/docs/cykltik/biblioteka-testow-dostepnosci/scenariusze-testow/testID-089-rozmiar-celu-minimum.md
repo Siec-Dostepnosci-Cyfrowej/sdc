@@ -4,8 +4,8 @@ title: Rozmiar celu (minimum)
 sidebar_label: Rozmiar celu (minimum)
 sidebar_position: 89
 description: Scenariusz testu sprawdzającego, czy elementy interaktywne posiadają wystarczająco duży obszar aktywny lub odpowiednie odstępy od sąsiednich elementów, tak aby mogły być łatwo aktywowane przez użytkowników korzystających z myszy, ekranu dotykowego lub innych urządzeń wskazujących.
-keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,rozmiar celu]
-tags: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,rozmiar celu]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,rozmiar celu (minimum),kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,rozmiar celu (minimum),kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2026 r.
 ostatnia_aktualizacja: 12 czerwca 2026 r.
@@ -22,7 +22,7 @@ wersja_robocza: true
 
 ## 3. Profil stosowania testu
 
-Najniższy profil stosowania: **profil pogłębiony**
+Najniższy profil stosowania: **profil rozszerzony**
 
 ## 4. Opis testu
 

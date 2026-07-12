@@ -4,8 +4,8 @@ title: Scenariusz testu - Wiele sposobów
 sidebar_label: Wiele sposobów
 sidebar_position: 76
 description: Scenariusz testu sprawdzającego, czy użytkownik może odnaleźć stronę lub treść za pomocą więcej niż jednego sposobu nawigacji lub wyszukiwania.
-keywords: [wiele sposobów, nawigacja, wyszukiwanie, mapa serwisu, WCAG 2.4.5, dostępność cyfrowa]
-tags: [test dostępności, nawigacja, wyszukiwanie, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,wiele sposobów,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,wiele sposobów,kryterium sukcesu]
 opracowanie: Sieć Dostępności Cyfrowej
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.
@@ -28,7 +28,7 @@ wersja_robocza: true
 
 ## 3. Profil stosowania testu
 
-Najniższy profil stosowania: **profil wstępny**
+Najniższy profil stosowania: **profil rozszerzony**
 
 ---
 

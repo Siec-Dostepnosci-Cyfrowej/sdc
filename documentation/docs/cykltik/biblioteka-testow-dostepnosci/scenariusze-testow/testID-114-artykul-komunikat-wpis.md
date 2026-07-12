@@ -4,8 +4,8 @@ title: Scenariusz testu - Artykuł / komunikat / wpis
 sidebar_label: Artykuł / komunikat / wpis
 sidebar_position: 114
 description: Scenariusz testu sprawdzającego, czy użytkownik może odczytać, zrozumieć i wykorzystać informacje opublikowane na stronie artykułu, komunikatu lub wpisu.
-keywords: [artykuł, komunikat, wpis, aktualność, treści internetowe, WCAG, dostępność cyfrowa]
-tags: [test dostępności, treści, komunikacja, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,obiekt,profil rozszerzony,Artykuł / komunikat / wpis]
+tags: [ocena zgodności,obiekt,profil rozszerzony,Artykuł / komunikat / wpis]
 opracowanie: Stefan Wajda
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.
@@ -26,7 +26,7 @@ wersja_robocza: true
 
 ## 3. Profil stosowania testu
 
-Najniższy profil stosowania: **profil pogłębiony**
+Najniższy profil stosowania: **profil rozszerzony**
 
 ---
 

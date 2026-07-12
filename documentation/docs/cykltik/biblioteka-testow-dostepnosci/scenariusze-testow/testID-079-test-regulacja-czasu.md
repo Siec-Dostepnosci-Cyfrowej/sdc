@@ -4,8 +4,8 @@ title: Scenariusz testu - Regulacja czasu
 sidebar_label: Regulacja czasu
 sidebar_position: 79
 description: Scenariusz testu sprawdzającego, czy użytkownik może wyłączyć, wydłużyć lub dostosować ograniczenia czasowe narzucone przez stronę, aplikację lub usługę cyfrową.
-keywords: [regulacja czasu, limit czasu, sesja, timeout, wygasanie sesji, WCAG 2.2.1, dostępność cyfrowa]
-tags: [test dostępności, formularze, usługi cyfrowe, czas, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,regulacja czasu,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,regulacja czasu,kryterium sukcesu]
 opracowanie: Sieć Dostępności Cyfrowej
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.
@@ -26,7 +26,7 @@ wersja_robocza: true
 
 ## 3. Profil stosowania testu
 
-**ACR-EXT**
+Najniższy profil stosowania: **profil rozszerzony**
 
 ---
 

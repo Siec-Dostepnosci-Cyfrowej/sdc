@@ -4,8 +4,8 @@ title: Kolejność fokusu (aplikacja mobilna)
 sidebar_label: Kolejność fokusu (aplikacja mobilna)
 sidebar_position: 98
 description: Scenariusz testu sprawdzającego, czy podczas nawigacji przy użyciu technologii wspomagających, klawiatury zewnętrznej lub funkcji dostępności systemu mobilnego fokus przemieszcza się w logicznej i przewidywalnej kolejności.
-keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,kolejność fokusu,aplikacja mobilna]
-tags: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,kolejność fokusu,aplikacja mobilna]
+keywords: [ocena zgodności,aplikacja mobilna,cecha dostępności,profil rozszerzony,kolejność fokusu,kryterium sukcesu]
+tags: [ocena zgodności,aplikacja mobilna,cecha dostępności,profil rozszerzony,kolejność fokusu,kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2026 r.
 ostatnia_aktualizacja: 12 czerwca 2026 r.

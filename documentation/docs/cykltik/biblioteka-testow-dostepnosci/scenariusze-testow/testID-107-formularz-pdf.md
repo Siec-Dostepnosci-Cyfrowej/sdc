@@ -4,8 +4,8 @@ title: Scenariusz testu - Formularz PDF
 sidebar_label: Formularz PDF
 sidebar_position: 107
 description: Scenariusz testu sprawdzającego, czy formularz PDF może być odczytany, wypełniony i przesłany przez użytkowników technologii wspomagających.
-keywords: [formularz PDF, PDF, PDF/UA, formularze elektroniczne, dostępność dokumentów, WCAG]
-tags: [test dostępności, dokumenty, PDF, formularze, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,obiekt,profil rozszerzony,formularz PDF]
+tags: [ocena zgodności,obiekt,profil rozszerzony,formularz PDF]
 opracowanie: Stefan Wajda
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.

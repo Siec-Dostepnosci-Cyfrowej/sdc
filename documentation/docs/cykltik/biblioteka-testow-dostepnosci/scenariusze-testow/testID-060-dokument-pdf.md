@@ -4,8 +4,8 @@ title: Scenariusz testu - Dokument PDF
 sidebar_label: Dokument PDF
 sidebar_position: 60
 description: Scenariusz testu sprawdzającego, czy dokument PDF jest dostępny dla użytkowników technologii wspomagających oraz umożliwia skuteczne odczytanie i wykorzystanie zawartych w nim informacji.
-keywords: [PDF, dokument PDF, PDF/UA, dostępność dokumentów, WCAG, dostępność cyfrowa]
-tags: [test dostępności, dokumenty, PDF, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,strona internetowa,obiekt,profil rozszerzony,dokument PDF,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,obiekt,profil rozszerzony,dokument PDF,kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 11 czerwca 2026 r.
 ostatnia_aktualizacja: 11 czerwca 2026 r.

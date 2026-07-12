@@ -4,8 +4,8 @@ title: Skalowanie tekstu (aplikacja mobilna)
 sidebar_label: Skalowanie tekstu (aplikacja mobilna)
 sidebar_position: 101
 description: Scenariusz testu sprawdzającego, czy aplikacja mobilna prawidłowo reaguje na zmianę rozmiaru tekstu ustawioną przez użytkownika w systemie operacyjnym oraz czy treść i funkcjonalność pozostają dostępne przy znacznym powiększeniu tekstu.
-keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,skalowanie tekstu,aplikacja mobilna]
-tags: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,skalowanie tekstu,aplikacja mobilna]
+keywords: [ocena zgodności,aplikacja mobilna,cecha dostępności,profil wstępny,skalowanie tekstu (aplikacja mobilna),kryterium sukcesu]
+tags: [ocena zgodności,aplikacja mobilna,cecha dostępności,profil wstępny,skalowanie tekstu (aplikacja mobilna),kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2026 r.
 ostatnia_aktualizacja: 12 czerwca 2026 r.

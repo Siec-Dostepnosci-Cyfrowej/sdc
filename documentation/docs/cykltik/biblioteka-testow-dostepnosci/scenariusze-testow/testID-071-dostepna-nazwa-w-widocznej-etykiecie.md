@@ -4,8 +4,8 @@ title: Scenariusz testu - Dostępna nazwa w widocznej etykiecie
 sidebar_label: Dostępna nazwa w widocznej etykiecie
 sidebar_position: 70
 description: Scenariusz testu sprawdzającego, czy dostępna nazwa elementu interaktywnego zawiera tekst widoczny dla użytkownika.
-keywords: [label in name, dostępna nazwa, widoczna etykieta, rozpoznawanie mowy, dostępność cyfrowa]
-tags: [test dostępności, dostępna nazwa, etykieta, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil wstępny,nazwa w widocznej etykiecie,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil wstępny,nazwa w widocznej etykiecie,kryterium sukcesu]
 opracowanie: Sieć Dostępności Cyfrowej
 data_zgloszenia: 11 czerwca 2026 r.
 ostatnia_aktualizacja: 11 czerwca 2026 r.

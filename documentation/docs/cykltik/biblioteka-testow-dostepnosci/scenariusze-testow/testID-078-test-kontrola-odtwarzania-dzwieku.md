@@ -4,8 +4,8 @@ title: Scenariusz testu - Kontrola odtwarzania dźwięku
 sidebar_label: Kontrola odtwarzania dźwięku
 sidebar_position: 78
 description: Scenariusz testu sprawdzającego, czy użytkownik może zatrzymać, wyciszyć lub regulować głośność dźwięku odtwarzanego automatycznie po załadowaniu strony lub ekranu.
-keywords: [dźwięk, audio, autoodtwarzanie, regulacja głośności, WCAG 1.4.2, dostępność cyfrowa]
-tags: [test dostępności, multimedia, audio, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,kontrola odtwarzania dźwięku,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,kontrola odtwarzania dźwięku,kryterium sukcesu]
 opracowanie: Sieć Dostępności Cyfrowej
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.
@@ -27,7 +27,7 @@ wersja_robocza: true
 
 ## 3. Profil stosowania testu
 
-Najniższy profil stosowania: **profil wstępny**
+Najniższy profil stosowania: **profil rozszerzony**
 
 ---
 

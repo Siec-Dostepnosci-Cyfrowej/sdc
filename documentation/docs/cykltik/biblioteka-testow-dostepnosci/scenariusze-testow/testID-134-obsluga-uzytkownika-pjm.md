@@ -4,8 +4,8 @@ title: Scenariusz testu - Obsługa użytkownika w PJM
 sidebar_label: Obsługa użytkownika w PJM
 sidebar_position: 134
 description: Scenariusz testu sprawdzającego, czy organizacja umożliwia osobom posługującym się Polskim Językiem Migowym skuteczne uzyskanie informacji, kontakt z organizacją oraz załatwienie sprawy przy wykorzystaniu komunikacji w PJM.
-keywords: [PJM, Polski Język Migowy, obsługa użytkownika, tłumacz PJM, komunikacja dostępna, dostępność cyfrowa]
-tags: [test dostępności, PJM, komunikacja, obsługa klienta, usługi publiczne, okresowa ocena zgodności]
+keywords: [ocena zgodności,proces,profil pogłębiony,obsługa użytkownika w PJM]
+tags: [ocena zgodności,proces,profil pogłębiony,obsługa użytkownika w PJM]
 opracowanie: Stefan Wajda
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.
@@ -26,7 +26,7 @@ wersja_robocza: true
 
 ## 3. Profil stosowania testu
 
-Najniższy profil stosowania: **profil rozszerzony**
+Najniższy profil stosowania: **profil pogłębiony**
 
 ---
 

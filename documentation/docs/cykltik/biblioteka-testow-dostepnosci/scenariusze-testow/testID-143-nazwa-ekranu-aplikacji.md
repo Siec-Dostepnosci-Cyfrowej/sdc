@@ -1,11 +1,11 @@
 ---
 id: test-nazwa-ekranu-aplikacji
-title: Karta testu - Nazwa ekranu aplikacji
+title: Scenariusz testu - Nazwa ekranu aplikacji
 sidebar_label: Nazwa ekranu aplikacji
 sidebar_position: 143
 description: Test sprawdza, czy ekrany aplikacji mobilnej posiadają jednoznaczne nazwy pozwalające użytkownikowi zidentyfikować aktualny kontekst, orientować się w strukturze aplikacji oraz korzystać z niej przy użyciu technologii wspomagających.
-keywords: [aplikacja mobilna,nazwa ekranu,tytuł ekranu,orientacja użytkownika,TalkBack,VoiceOver,dostępność aplikacji mobilnych,WCAG 2.4.2,]
-tags: [aplikacja mobilna,nazwa ekranu,tytuł ekranu,orientacja użytkownika,TalkBack,VoiceOver,dostępność aplikacji mobilnych,WCAG 2.4.2,]
+keywords: [ocena zgodności,aplikacja mobilna,cecha dostępności,profil wstępny,powiadomienia aplikacji]
+tags: [ocena zgodności,aplikacja mobilna,cecha dostępności,profil wstępny,powiadomienia aplikacji]
 opracowanie: Stefan Wajda
 data_zgloszenia: 15 czerwca 2026 r.
 ostatnia_aktualizacja: 15 czerwca 2026 r.

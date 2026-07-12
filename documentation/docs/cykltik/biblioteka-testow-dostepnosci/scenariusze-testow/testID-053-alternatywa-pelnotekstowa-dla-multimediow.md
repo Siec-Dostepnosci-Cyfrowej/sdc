@@ -4,8 +4,8 @@ title: Scenariusz testu - Alternatywa pełnotekstowa dla multimediów
 sidebar_label: Alternatywa pełnotekstowa dla multimediów
 sidebar_position: 53
 description: Scenariusz testu sprawdzającego, czy dla materiałów multimedialnych zapewniono pełnotekstową alternatywę umożliwiającą zapoznanie się z całą treścią bez korzystania z obrazu lub dźwięku.
-keywords: [test dostępności,alternatywa dla mediów, pełnotekstowa alternatywa,kryterium suckesu,WCAG, profil wstępny]
-tags: [test dostępności,alternatywa dla mediów, pełnotekstowa alternatywa,kryterium suckesu,WCAG, profil wstępny]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil wstępny,alternatywa pełnotekstowa dla mediów,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil wstępny,alternatywa pełnotekstowa dla mediów,kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 11 czerwca 2026 r.
 ostatnia_aktualizacja: 11 czerwca 2026 r.

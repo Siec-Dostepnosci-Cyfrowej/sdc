@@ -4,8 +4,8 @@ title: Scenariusz testu - Modalne okno dialogowe
 sidebar_label: Modalne okno dialogowe
 sidebar_position: 55
 description: Scenariusz testu sprawdzającego, czy modalne okno dialogowe jest dostępne dla użytkowników klawiatury i technologii wspomagających oraz nie zakłóca korzystania z pozostałej części interfejsu.
-keywords: [modal, okno dialogowe, dialog, klawiatura, fokus, aria-dialog, dostępność cyfrowa]
-tags: [test dostępności, komponenty, formularze, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,strona internetowa,obiekt,profil rozszerzony,modalne okno dialogowe,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,obiekt,profil rozszerzony,modalne okno dialogowe,kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 11 czerwca 2026 r.
 ostatnia_aktualizacja: 11 czerwca 2026 r.

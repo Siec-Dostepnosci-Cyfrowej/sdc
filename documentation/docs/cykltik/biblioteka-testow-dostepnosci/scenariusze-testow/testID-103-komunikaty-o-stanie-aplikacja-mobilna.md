@@ -4,8 +4,8 @@ title: Komunikaty o stanie (aplikacja mobilna)
 sidebar_label: Komunikaty o stanie (aplikacja mobilna)
 sidebar_position: 103
 description: Scenariusz testu sprawdzającego, czy komunikaty o stanie pojawiające się w aplikacji mobilnej są przekazywane użytkownikom, w tym użytkownikom technologii wspomagających, bez konieczności przenoszenia fokusu.
-keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,komunikaty o stanie,powiadomienia,aplikacja mobilna]
-tags: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,komunikaty o stanie,powiadomienia,aplikacja mobilna]
+keywords: [ocena zgodności,aplikacja mobilna,cecha dostępności,profil wstępny,komunikaty o stanie (aplikacja mobilna),kryterium sukcesu]
+tags: [ocena zgodności,aplikacja mobilna,cecha dostępności,profil wstępny,komunikaty o stanie (aplikacja mobilna),kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2026 r.
 ostatnia_aktualizacja: 12 czerwca 2026 r.

@@ -4,8 +4,8 @@ title: Scenariusz testu - Rejestracja / Logowanie
 sidebar_label: Rejestracja / Logowanie
 sidebar_position: 118
 description: Scenariusz testu sprawdzającego, czy użytkownik może samodzielnie zarejestrować konto, zalogować się, odzyskać dostęp do konta oraz korzystać z mechanizmów uwierzytelniania bez barier dostępności.
-keywords: [rejestracja, logowanie, uwierzytelnianie, konto użytkownika, formularz logowania, WCAG, dostępność cyfrowa]
-tags: [test dostępności, logowanie, rejestracja, uwierzytelnianie, formularze, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,proces,profil rozszerzony,rejestracja, logowanie]
+tags: [ocena zgodności,proces,profil rozszerzony,rejestracja, logowanie]
 opracowanie: Stefan Wajda
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.

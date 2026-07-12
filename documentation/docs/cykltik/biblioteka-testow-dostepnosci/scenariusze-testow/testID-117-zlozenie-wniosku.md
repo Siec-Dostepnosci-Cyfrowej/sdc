@@ -4,8 +4,8 @@ title: Scenariusz testu - Złożenie wniosku
 sidebar_label: Złożenie wniosku
 sidebar_position: 117
 description: Scenariusz testu sprawdzającego, czy użytkownik może samodzielnie przygotować, wypełnić, zweryfikować i złożyć wniosek oraz otrzymać potwierdzenie jego przekazania.
-keywords: [wniosek, formularz, proces użytkownika, usługa publiczna, WCAG, dostępność cyfrowa]
-tags: [test dostępności, proces użytkownika, formularze, usługi cyfrowe, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,proces,profil rozszerzony,złożenie wniosku]
+tags: [ocena zgodności,proces,profil rozszerzony,złożenie wniosku]
 opracowanie: Stefan Wajda
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.

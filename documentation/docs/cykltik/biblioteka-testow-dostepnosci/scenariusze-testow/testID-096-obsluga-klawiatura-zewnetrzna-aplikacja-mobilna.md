@@ -4,8 +4,8 @@ title: Obsługa klawiaturą zewnętrzną (aplikacja mobilna)
 sidebar_label: Obsługa klawiaturą zewnętrzną
 sidebar_position: 96
 description: Scenariusz testu sprawdzającego, czy aplikacja mobilna może być skutecznie obsługiwana przy użyciu zewnętrznej klawiatury oraz czy użytkownik może wykonywać kluczowe zadania bez konieczności korzystania z ekranu dotykowego.
-keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,aplikacja mobilna]
-tags: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,aplikacja mobilna]
+keywords: [ocena zgodności,aplikacja mobilna,cecha dostępności,profil pogłębiony,obsługa klawiaturą zewnętrzną(aplikacja mobilna),kryterium sukcesu]
+tags: [ocena zgodności,aplikacja mobilna,cecha dostępności,profil pogłębiony,obsługa klawiaturą zewnętrzną(aplikacja mobilna),kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2026 r.
 ostatnia_aktualizacja: 12 czerwca 2026 r.

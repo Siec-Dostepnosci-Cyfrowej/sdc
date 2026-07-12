@@ -1,11 +1,11 @@
 ---
-id: test-spojnosc-nawigacji
-title: Scenariusz testu - Spójność nawigacji
+id: test-spojna-nawigacja
+title: Scenariusz testu - Spójna nawigacja
 sidebar_label: Spójność nawigacji
 sidebar_position: 74
 description: Scenariusz testu sprawdzającego, czy mechanizmy nawigacyjne występujące na wielu stronach są prezentowane w spójnej kolejności i w przewidywalnych miejscach.
-keywords: [spójność nawigacji, consistent navigation, menu, nawigacja, dostępność cyfrowa]
-tags: [test dostępności, nawigacja, architektura informacji, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,spójna nawigacja,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,spójna nawigacja,kryterium sukcesu]
 opracowanie: Sieć Dostępności Cyfrowej
 data_zgloszenia: 11 czerwca 2026 r.
 ostatnia_aktualizacja: 11 czerwca 2026 r.
@@ -20,7 +20,7 @@ wersja_robocza: true
 
 ## 2. Nazwa testu
 
-**Spójność nawigacji**
+**Spójna nawigacja**
 
 ---
 

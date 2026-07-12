@@ -197,8 +197,8 @@ Poniższe zestawienie wskazuje najniższy profil przypisany scenariuszom Bibliot
 | testID-053 | Alternatywa pełnotekstowa dla multimediów          | rozszerzony      |
 | testID-054 | Ruch, miganie i błyski                             | rozszerzony      |
 | testID-072 | Obrazy tekstu                                      | rozszerzony      |
-| testID-073 | Spójność identyfikacji                             | rozszerzony      |
-| testID-074 | Spójność nawigacji                                 | rozszerzony      |
+| testID-073 | Spójna identyfikacja                             | rozszerzony      |
+| testID-074 | Spójna nawigacja                                 | rozszerzony      |
 | testID-075 | Użycie koloru                                      | rozszerzony      |
 | testID-076 | Wiele sposobów                                     | rozszerzony      |
 | testID-077 | Treść spod kursora lub fokusu                      | rozszerzony      |
@@ -277,7 +277,6 @@ Poniższe zestawienie wskazuje najniższy profil przypisany scenariuszom Bibliot
 | testID-125 | Informacja o podmiocie w ETR                                  | rozszerzony      |
 | testID-126 | Polityka prywatności                                          | rozszerzony      |
 | testID-127 | Strona główna                                                 | rozszerzony      |
-| testID-128 | Pliki do pobrania                                             | rozszerzony      |
 | testID-129 | Strona wielojęzyczna                                          | rozszerzony      |
 | testID-130 | Komponent Kalendarz                                           | rozszerzony      |
 | testID-131 | Strona Wydarzenie                                             | rozszerzony      |
@@ -306,5 +305,6 @@ Poniższe zestawienie wskazuje najniższy profil przypisany scenariuszom Bibliot
 | testID-118 | Rejestracja / Logowanie         | rozszerzony      |
 | testID-119 | Rezerwacja terminu              | rozszerzony      |
 | testID-121 | Zgłoszenie problemu dostępności | rozszerzony      |
+| testID-128 | Pliki do pobrania               | rozszerzony      |
 | testID-133 | Usługa lub procedura w ETR      | pogłębiony       |
 | testID-134 | Obsługa użytkownika w PJM       | pogłębiony       |

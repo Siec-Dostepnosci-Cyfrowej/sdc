@@ -4,8 +4,8 @@ title: Dostępne uwierzytelnianie
 sidebar_label: Dostępne uwierzytelnianie
 sidebar_position: 93
 description: Scenariusz testu sprawdzającego, czy proces uwierzytelniania nie wymaga od użytkownika wykonywania testów poznawczych, takich jak zapamiętywanie, odtwarzanie lub przepisywanie informacji, chyba że zapewniono alternatywny sposób uwierzytelnienia niewymagający takich działań.
-keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,dostępne uwierzytelnianie]
-tags: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,dostępne uwierzytelnianie]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,wiele sposobów,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,wiele sposobów,kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2026 r.
 ostatnia_aktualizacja: 12 czerwca 2026 r.
@@ -18,11 +18,11 @@ wersja_robocza: true
 
 ## 2. Nazwa testu
 
-**Dostępne uwierzytelnianie (ulepszone)**
+**Dostępne uwierzytelnianie**
 
 ## 3. Profil stosowania testu
 
-Najniższy profil stosowania: **profil pogłębiony**
+Najniższy profil stosowania: **profil rozszerzony**
 
 ## 4. Opis testu
 

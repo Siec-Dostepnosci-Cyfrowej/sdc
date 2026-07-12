@@ -4,8 +4,8 @@ title: Scenariusz testu - Dostępna nazwa elementu interaktywnego
 sidebar_label: Dostępna nazwa elementu interaktywnego
 sidebar_position: 70
 description: Scenariusz testu sprawdzającego, czy elementy interaktywne mają dostępną nazwę umożliwiającą rozpoznanie ich funkcji przez technologie wspomagające.
-keywords: [dostępna nazwa, element interaktywny, przycisk, łącze, aria-label, WCAG, dostępność cyfrowa]
-tags: [test dostępności, elementy interaktywne, dostępna nazwa, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil wstępny,dostępna nazwa,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil wstępny,dostępna nazwa,kryterium sukcesu]
 opracowanie: Sieć Dostępności Cyfrowej
 data_zgloszenia: 11 czerwca 2026 r.
 ostatnia_aktualizacja: 11 czerwca 2026 r.

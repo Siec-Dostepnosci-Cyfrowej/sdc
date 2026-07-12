@@ -4,8 +4,8 @@ title: Scenariusz testu - Wizualizacja danych
 sidebar_label: Wizualizacja danych
 sidebar_position: 64
 description: Scenariusz testu sprawdzającego, czy złożona wizualizacja danych umożliwia użytkownikom dostęp do prezentowanych informacji, danych i funkcji niezależnie od sposobu korzystania z interfejsu.
-keywords: [wizualizacja danych, dashboard, analityka, infografika, mapa danych, business intelligence, dostępność cyfrowa]
-tags: [test dostępności, wizualizacja danych, dashboard, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,strona internetowa,obiekt,profil pogłębiony,wizualizacja danych,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,obiekt,profil pogłębiony,zwizualizacja danych,kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 11 czerwca 2026 r.
 ostatnia_aktualizacja: 11 czerwca 2026 r.
@@ -26,7 +26,7 @@ wersja_robocza: true
 
 ## 3. Profil stosowania testu
 
-Najniższy profil stosowania: **profil rozszerzony**
+Najniższy profil stosowania: **profil pogłębiony**
 
 ---
 

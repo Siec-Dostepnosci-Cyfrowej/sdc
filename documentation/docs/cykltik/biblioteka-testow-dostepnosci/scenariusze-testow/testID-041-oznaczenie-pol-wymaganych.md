@@ -4,8 +4,8 @@ title: Scenariusz testu - Oznaczenie pól wymaganych
 sidebar_label: Oznaczenie pól wymaganych
 sidebar_position: 41
 description: Scenariusz testu sprawdzającego, czy użytkownik jest informowany, które pola formularza są obowiązkowe do wypełnienia.
-keywords: [pole wymagane, wymagane pola, formularze, etykiety formularzy, WCAG, dostępność cyfrowa]
-tags: [test dostępności, formularze, pola wymagane, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil wstępny,oznaczenie pól wymaganych,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil wstępny,oznaczenie pól wymaganych,kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 10 czerwca 2026 r.
 ostatnia_aktualizacja: 10 czerwca 2026 r.

@@ -4,8 +4,8 @@ title: Scenariusz testu - Obrazy tekstu
 sidebar_label: Obrazy tekstu
 sidebar_position: 72
 description: Scenariusz testu sprawdzającego, czy tekst nie jest prezentowany w postaci obrazu, jeżeli może zostać przedstawiony jako zwykły tekst dostępny dla użytkownika.
-keywords: [obrazy tekstu, tekst na obrazie, grafika z tekstem, WCAG, dostępność cyfrowa]
-tags: [test dostępności, obrazy, tekst, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,obrazy tekstu,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,obrazy tekstu,kryterium sukcesu]
 opracowanie: Sieć Dostępności Cyfrowej
 data_zgloszenia: 11 czerwca 2026 r.
 ostatnia_aktualizacja: 11 czerwca 2026 r.

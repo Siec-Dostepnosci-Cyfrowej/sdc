@@ -4,8 +4,8 @@ title: Ustawienia dostępności systemu (aplikacja mobilna)
 sidebar_label: Ustawienia dostępności systemu (aplikacja mobilna)
 sidebar_position: 102
 description: Scenariusz testu sprawdzającego, czy aplikacja mobilna prawidłowo współpracuje z ustawieniami dostępności systemu operacyjnego oraz czy respektuje preferencje użytkownika wpływające na sposób prezentacji i obsługi interfejsu.
-keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,ustawienia dostępności systemu,aplikacja mobilna]
-tags: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,ustawienia dostępności systemu,aplikacja mobilna]
+keywords: [ocena zgodności,aplikacja mobilna,cecha dostępności,profil wstępny,Ustawienia dostępności systemu (aplikacja mobilna),kryterium sukcesu]
+tags: [ocena zgodności,aplikacja mobilna,cecha dostępności,profil wstępny,Ustawienia dostępności systemu (aplikacja mobilna),kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2026 r.
 ostatnia_aktualizacja: 12 czerwca 2026 r.
@@ -22,7 +22,7 @@ wersja_robocza: true
 
 ## 3. Profil stosowania testu
 
-Najniższy profil stosowania: **profil rozszerzony**
+Najniższy profil stosowania: **profil wstępny**
 
 ## 4. Opis testu
 

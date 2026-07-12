@@ -4,8 +4,8 @@ title: Scenariusz testu - Deklaracja dostępności
 sidebar_label: Deklaracja dostępności
 sidebar_position: 110
 description: Scenariusz testu sprawdzającego, czy deklaracja dostępności została opublikowana, jest kompletna, aktualna, dostępna cyfrowo oraz umożliwia użytkownikowi uzyskanie informacji o stanie dostępności i zgłoszenie problemu.
-keywords: [deklaracja dostępności, dostępność cyfrowa, ustawa o dostępności cyfrowej, WCAG, informacja publiczna]
-tags: [test dostępności, deklaracja dostępności, WCAG, zgodność, okresowa ocena zgodności]
+keywords: [ocena zgodności,obiekt,profil rozszerzony,deklaracja dostępności]
+tags: [ocena zgodności,obiekt,profil rozszerzony,deklaracja dostępności]
 opracowanie: Stefan Wajda
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.
@@ -22,7 +22,7 @@ Deklaracja dostępności
 
 ## 3. Profil stosowania testu
 
-Najniższy profil stosowania: **profil wstępny**
+Najniższy profil stosowania: **profil rozszerzony**
 
 ## 4. Opis testu
 

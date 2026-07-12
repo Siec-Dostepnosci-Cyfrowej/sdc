@@ -4,8 +4,8 @@ title: Skróty
 sidebar_label: Skróty
 sidebar_position: 86
 description: Scenariusz testu sprawdzającego, czy znaczenie skrótów i akronimów występujących w treści zostało wyjaśnione przy pierwszym użyciu lub jest dostępne w sposób umożliwiający ich zrozumienie przez użytkownika.
-keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,skróty, skrótowce,akronimy]
-tags: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,skróty, skrótowce,akronimy]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil pogłębiony,skróty,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil pogłębiony,skróty,kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2026 r.
 ostatnia_aktualizacja: 12 czerwca 2026 r.
@@ -22,9 +22,8 @@ wersja_robocza: true
 
 ## 3. Profil stosowania testu
 
-Najniższy profil stosowania: **profil rozszerzony**
+Najniższy profil stosowania: **profil pogłębiony**
 
-Może być stosowany opcjonalnie w profilu **ACR-EXT*- podczas pogłębionej oceny jakości komunikacji.
 
 ## 4. Opis testu
 

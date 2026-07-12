@@ -4,8 +4,8 @@ title: Scenariusz testu - Formularz
 sidebar_label: Formularz
 sidebar_position: 120
 description: Scenariusz testu sprawdzającego, czy formularz umożliwia użytkownikowi samodzielne wprowadzenie danych, poprawienie błędów oraz skuteczne wykonanie zadania niezależnie od sposobu korzystania z technologii. 
-keywords: [formularz, formularz elektroniczny, pola formularza, walidacja, WCAG, dostępność cyfrowa]
-tags: [test dostępności, formularze, usługi cyfrowe, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,obiekt,profil rozszerzony,formularz]
+tags: [ocena zgodności,obiekt,profil rozszerzony,formularz]
 opracowanie: Stefan Wajda
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.
@@ -26,7 +26,7 @@ wersja_robocza: true
 
 ## 3. Profil stosowania testu
 
-Najniższy profil stosowania: **profil wstępny**
+Najniższy profil stosowania: **profil rozszerzony**
 
 ---
 

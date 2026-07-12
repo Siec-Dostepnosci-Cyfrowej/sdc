@@ -4,8 +4,8 @@ title: Scenariusz testu - Usługa lub procedura w ETR
 sidebar_label: Usługa lub procedura w ETR
 sidebar_position: 133
 description: Scenariusz testu sprawdzającego, czy opis usługi lub procedury przygotowany w tekście łatwym do czytania i zrozumienia (ETR) umożliwia samodzielne zrozumienie sposobu załatwienia sprawy przez osoby mające trudności z rozumieniem standardowych tekstów urzędowych.
-keywords: [ETR, tekst łatwy do czytania, usługa, procedura, dostępność poznawcza, komunikacja dostępna]
-tags: [test dostępności, ETR, usługa publiczna, procedura, dostępność poznawcza, okresowa ocena zgodności]
+keywords: [ocena zgodności,proces,profil pogłębiony,usługa lub procedura w ETR]
+tags: [ocena zgodności,proces,profil pogłębiony,usługa lub procedura w ETR]
 opracowanie: Stefan Wajda
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.
@@ -26,7 +26,7 @@ wersja_robocza: true
 
 ## 3. Profil stosowania testu
 
-Najniższy profil stosowania: **profil rozszerzony**
+Najniższy profil stosowania: **profil pogłębiony**
 
 ---
 

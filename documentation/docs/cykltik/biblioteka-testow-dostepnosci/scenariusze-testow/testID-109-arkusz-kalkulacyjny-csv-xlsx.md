@@ -4,8 +4,8 @@ title: Scenariusz testu - Arkusz kalkulacyjny (CSV/XLSX)
 sidebar_label: Arkusz kalkulacyjny (CSV/XLSX)
 sidebar_position: 109
 description: Scenariusz testu sprawdzającego, czy arkusz kalkulacyjny udostępnia dane w sposób umożliwiający ich odczytanie, zrozumienie i wykorzystanie przez użytkowników technologii wspomagających.
-keywords: [test dostępności,dokument,arkusz kalkulacyjny,profil pogłębiony]
-tags:: [test dostępności,dokument,arkusz kalkulacyjny,profil pogłębiony]
+keywords: [ocena zgodności,obiekt,profil rozszerzony,Arkusz kalkulacyjny (CSV/XLSX)]
+tags: [ocena zgodności,obiekt,profil rozszerzony,Arkusz kalkulacyjny (CSV/XLSX)]
 opracowanie: Stefan Wajda
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.
@@ -22,7 +22,7 @@ Arkusz kalkulacyjny (CSV/XLSX)
 
 ## 3. Profil stosowania testu
 
-Najniższy profil stosowania: **profil pogłębiony**
+Najniższy profil stosowania: **profil rozszerzony**
 
 ---
 

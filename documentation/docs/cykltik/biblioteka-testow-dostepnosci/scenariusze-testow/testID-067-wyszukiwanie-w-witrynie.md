@@ -4,8 +4,8 @@ title: Scenariusz testu - Wyszukiwanie w witrynie
 sidebar_label: Wyszukiwanie w witrynie
 sidebar_position: 67
 description: Scenariusz testu sprawdzającego, czy mechanizm wyszukiwania umożliwia użytkownikom skuteczne odnajdywanie treści i usług oraz zrozumienie wyników wyszukiwania.
-keywords: [wyszukiwarka, wyszukiwanie, wyniki wyszukiwania, formularz wyszukiwania, dostępność cyfrowa]
-tags: [test dostępności, wyszukiwarka, wyszukiwanie, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,strona internetowa,obiekt,profil rozszerzony,wyszukiwanie w witrynie,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,obiekt,profil rozszerzony,wyszukiwanie w witrynie,kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 11 czerwca 2026 r.
 ostatnia_aktualizacja: 11 czerwca 2026 r.

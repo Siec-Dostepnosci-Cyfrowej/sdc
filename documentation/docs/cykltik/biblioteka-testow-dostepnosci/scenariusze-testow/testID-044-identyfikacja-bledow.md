@@ -4,8 +4,8 @@ title: Scenariusz testu - Identyfikacja błędów
 sidebar_label: Identyfikacja błędów
 sidebar_position: 44
 description: Scenariusz testu sprawdzającego, czy formularz wskazuje błędnie wypełnione pola oraz przekazuje użytkownikowi tekstową informację o występującym błędzie.
-keywords: [identyfikacja błędów, błędy formularzy, komunikaty błędów, walidacja, WCAG, dostępność cyfrowa]
-tags: [test dostępności, formularze, błędy, walidacja, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil wstępny,identyfikacja błędów,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil wstępny,identyfikacja błędów,kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 10 czerwca 2026 r.
 ostatnia_aktualizacja: 10 czerwca 2026 r.

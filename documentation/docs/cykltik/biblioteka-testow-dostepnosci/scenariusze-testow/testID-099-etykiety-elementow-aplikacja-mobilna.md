@@ -4,8 +4,8 @@ title: Etykiety elementów (aplikacja mobilna)
 sidebar_label: Etykiety elementów (aplikacja mobilna)
 sidebar_position: 99
 description: Scenariusz testu sprawdzającego, czy elementy interaktywne aplikacji mobilnej posiadają jednoznaczne, zrozumiałe i programowo określone etykiety umożliwiające ich identyfikację przez użytkowników oraz technologie wspomagające.
-keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,etykiety,aplikacja mobilna]
-tags: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,etykiety,aplikacja mobilna]
+keywords: [ocena zgodności,aplikacja mobilna,cecha dostępności,profil wstępny,etykiety elementów interaktywnych (aplikacja mobilna),kryterium sukcesu]
+tags: [ocena zgodności,aplikacja mobilna,cecha dostępności,profil wstępny,etykiety elementów interaktywnych (aplikacja mobilna),kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2026 r.
 ostatnia_aktualizacja: 12 czerwca 2026 r.

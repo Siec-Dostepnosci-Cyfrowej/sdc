@@ -1,11 +1,11 @@
 ---
 id: test-lista-funkcji-aplikacji
-title: Karta testu - Lista funkcji aplikacji
+title: Scenariusz testu - Lista funkcji aplikacji
 sidebar_label: Lista funkcji aplikacji
 sidebar_position: 139
 description: Test sprawdza, ekran prezentujący listę funkcji aplikacji umożliwia użytkownikowi identyfikację dostępnych funkcji, zrozumienie ich przeznaczenia oraz rozpoczęcie realizacji wybranego zadania.
-keywords: [aplikacja mobilna,lista funkcji,orientacja użytkownika,TalkBack,VoiceOver,dostępność aplikacji mobilnych]
-tags: [aplikacja mobilna,lista funkcji,orientacja użytkownika,TalkBack,VoiceOver,dostępność aplikacji mobilnych]
+keywords: [ocena zgodności,aplikacja mobilna,obiekt,profil rozszerzony,lista funkcji aplikacji]
+tags: [ocena zgodności,aplikacja mobilna,obiekt,profil rozszerzony,lista funkcji aplikacji]
 opracowanie: Stefan Wajda
 data_zgloszenia: 15 czerwca 2026 r.
 ostatnia_aktualizacja: 15 czerwca 2026 r.

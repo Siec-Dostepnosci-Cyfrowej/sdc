@@ -4,8 +4,8 @@ title: Scenariusz testu - Wykres
 sidebar_label: Wykres
 sidebar_position: 63
 description: Scenariusz testu sprawdzającego, czy informacje prezentowane na wykresie są dostępne dla użytkowników technologii wspomagających oraz osób niemogących korzystać z wizualnej formy prezentacji danych.
-keywords: [wykres, dane, wizualizacja danych, infografika, dostępność cyfrowa]
-tags: [test dostępności, wykresy, wizualizacja danych, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,strona internetowa,obiekt,profil rozszerzony,wykres,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,obiekt,profil rozszerzony,wykres,kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 11 czerwca 2026 r.
 ostatnia_aktualizacja: 11 czerwca 2026 r.

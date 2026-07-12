@@ -4,8 +4,8 @@ title: Rezygnacja ze wskazania
 sidebar_label: Rezygnacja ze wskazania
 sidebar_position: 81
 description: Scenariusz testu sprawdzającego, czy funkcjonalności uruchamiane za pomocą pojedynczego wskaźnika nie są wykonywane natychmiast po zdarzeniu „w dół” (naciśnięciu).
-keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,rezygnacja ze wskazania]
-tags: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,rezygnacja ze wskazania]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,rezygnacja ze wskazania,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,rezygnacja ze wskazania,kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2026 r.
 ostatnia_aktualizacja: 12 czerwca 2026 r.

@@ -4,8 +4,8 @@ title: Scenariusz testu - Etykiety powiązane programowo
 sidebar_label: Etykiety powiązane programowo
 sidebar_position: 46
 description: Scenariusz testu sprawdzającego, czy etykiety, instrukcje i opisy formularzy są programowo powiązane z polami formularza oraz mogą zostać poprawnie odczytane przez technologie wspomagające.
-keywords: [etykiety formularzy, aria-label, aria-labelledby, aria-describedby, formularze, dostępna nazwa, dostępny opis, WCAG]
-tags: [test dostępności, formularze, WCAG, technologie wspomagające, okresowa ocena zgodności]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,etykiety formularzy,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,zetykiety formularzy,kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 10 czerwca 2026 r.
 ostatnia_aktualizacja: 10 czerwca 2026 r.

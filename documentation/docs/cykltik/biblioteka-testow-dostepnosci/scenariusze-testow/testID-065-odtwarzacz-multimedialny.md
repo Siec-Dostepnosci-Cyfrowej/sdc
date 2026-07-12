@@ -4,8 +4,8 @@ title: Scenariusz testu - Odtwarzacz multimedialny
 sidebar_label: Odtwarzacz multimedialny
 sidebar_position: 65
 description: Scenariusz testu sprawdzającego, czy odtwarzacz audio lub wideo jest dostępny dla użytkowników klawiatury i technologii wspomagających oraz umożliwia korzystanie z funkcji odtwarzania i materiałów alternatywnych.
-keywords: [odtwarzacz, multimedia, audio, wideo, player, napisy, audiodeskrypcja, dostępność cyfrowa]
-tags: [test dostępności, multimedia, odtwarzacz, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,strona internetowa,obiekt,profil rozszerzony,odtwarzacz multimedialny,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,obiekt,profil rozszerzony,odtwarzacz multimedialny,kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 11 czerwca 2026 r.
 ostatnia_aktualizacja: 11 czerwca 2026 r.

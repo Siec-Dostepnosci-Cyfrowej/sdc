@@ -4,8 +4,8 @@ title: Spójna pomoc
 sidebar_label: Spójna pomoc
 sidebar_position: 91
 description: Scenariusz testu sprawdzającego, czy mechanizmy pomocy dostępne na stronach, ekranach lub w procesach użytkownika są prezentowane w spójny sposób i występują w tej samej względnej kolejności w całym rozwiązaniu.
-keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,spójna pomoc]
-tags: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,spójna pomoc]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,spójna pomoc,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,spójna pomoc,kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2026 r.
 ostatnia_aktualizacja: 12 czerwca 2026 r.

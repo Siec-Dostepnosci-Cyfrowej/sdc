@@ -4,8 +4,8 @@ title: Scenariusz testu - Strona główna
 sidebar_label: Strona główna
 sidebar_position: 127
 description: Scenariusz testu sprawdzającego, czy strona główna umożliwia użytkownikowi szybkie rozpoznanie charakteru serwisu, odnalezienie najważniejszych informacji i usług oraz skuteczne rozpoczęcie korzystania z serwisu. 
-keywords: [strona główna, homepage, nawigacja, usługi publiczne, dostępność cyfrowa, WCAG]
-tags: [test dostępności, strona główna, nawigacja, serwis internetowy, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,obiekt,profil rozszerzony,strona główna]
+tags: [ocena zgodności,obiekt,profil rozszerzony,strona główna]
 opracowanie: Stefan Wajda
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.

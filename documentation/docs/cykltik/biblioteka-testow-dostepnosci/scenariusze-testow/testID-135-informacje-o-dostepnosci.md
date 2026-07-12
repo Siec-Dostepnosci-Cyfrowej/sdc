@@ -4,8 +4,8 @@ title: Scenariusz testu - Informacje o dostępności
 sidebar_label: Informacje o dostępności
 sidebar_position: 135
 description: Scenariusz testu sprawdzającego, czy użytkownik może łatwo odnaleźć komplet informacji o dostępności cyfrowej, architektonicznej i informacyjno-komunikacyjnej organizacji oraz uzyskać pomoc w sprawach związanych z dostępnością. 
-keywords: [dostępność, informacje o dostępności, sekcja dostępność, dostępność architektoniczna, dostępność komunikacyjna, dostępność cyfrowa]
-tags: [test dostępności, dostępność, komunikacja, usługi publiczne, okresowa ocena zgodności]
+keywords: [ocena zgodności,obiekt,profil rozszerzony,informacje o dostępności]
+tags: [ocena zgodności,obiekt,profil rozszerzony,informacje o dostępności]
 opracowanie: Stefan Wajda
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.

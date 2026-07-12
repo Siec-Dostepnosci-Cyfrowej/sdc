@@ -4,8 +4,8 @@ title: Scenariusz testu - Napisy rozszerzone
 sidebar_label: Napisy rozszerzone
 sidebar_position: 51
 description: Scenariusz testu sprawdzającego, czy materiały wideo zawierające dźwięk posiadają napisy przekazujące dialogi, identyfikację osób mówiących oraz istotne informacje dźwiękowe.
-keywords: [napisy rozszerzone, napisy dla niesłyszących, multimedia, wideo, WCAG, dostępność cyfrowa]
-tags: [test dostępności, multimedia, napisy, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,napisy rozszerzone,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,napisy rozszerzone,kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 11 czerwca 2026 r.
 ostatnia_aktualizacja: 11 czerwca 2026 r.

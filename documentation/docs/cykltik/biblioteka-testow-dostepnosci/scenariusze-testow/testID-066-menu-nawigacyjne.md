@@ -4,8 +4,8 @@ title: Scenariusz testu - Menu nawigacyjne
 sidebar_label: Menu nawigacyjne
 sidebar_position: 66
 description: Scenariusz testu sprawdzającego, czy główne menu nawigacyjne umożliwia użytkownikom skuteczne odnajdywanie i wybieranie ścieżek nawigacji niezależnie od sposobu korzystania z interfejsu.
-keywords: [menu nawigacyjne, nawigacja, menu główne, submenu, dostępność cyfrowa]
-tags: [test dostępności, menu, nawigacja, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,strona internetowa,obiekt,profil rozszerzony,menu nawigacyjne,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,obiekt,profil rozszerzony,menu nawigacyjne,kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 11 czerwca 2026 r.
 ostatnia_aktualizacja: 11 czerwca 2026 r.

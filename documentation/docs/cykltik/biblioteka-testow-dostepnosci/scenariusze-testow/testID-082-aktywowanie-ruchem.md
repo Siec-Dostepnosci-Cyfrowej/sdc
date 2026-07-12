@@ -4,8 +4,8 @@ title: Scenariusz testu - Aktywowanie ruchem
 sidebar_label: Aktywowanie ruchem
 sidebar_position: 82
 description: Scenariusz testu sprawdzającego, czy funkcjonalności uruchamiane przez ruch urządzenia lub gest wykonywany kamerą mogą być realizowane również w inny sposób oraz czy użytkownik może wyłączyć aktywowanie ruchem, gdy nie jest ono niezbędne.
-keywords: [test dostępności,kryterium suckesu,aktywowanie ruchem,profil pogłębiony]
-tags: [test dostępności,kryterium suckesu,aktywowanie ruchem,profil pogłębiony]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,aktywowanie ruchem,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,aktywowanie ruchem,kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2026 r.
 ostatnia_aktualizacja: 12 czerwca 2026 r.
@@ -22,7 +22,7 @@ wersja_robocza: true
 
 ## 3. Profil stosowania testu
 
-Najniższy profil stosowania: **profil pogłębiony**
+Najniższy profil stosowania: **profil rozszerzony**
 
 ---
 

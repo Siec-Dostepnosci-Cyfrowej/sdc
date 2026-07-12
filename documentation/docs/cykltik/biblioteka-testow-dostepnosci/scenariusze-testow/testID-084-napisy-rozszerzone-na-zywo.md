@@ -4,8 +4,8 @@ title: Napisy rozszerzone na żywo
 sidebar_label: Napisy na żywo
 sidebar_position: 84
 description: Scenariusz testu sprawdzającego, czy dla multimediów synchronizowanych transmitowanych na żywo zapewniono napisy umożliwiające osobom niesłyszącym i słabosłyszącym śledzenie przekazywanych treści dźwiękowych.
-keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,napisy rozszerzone]
-tags: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,napisy rozszerzone]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,napisy rozszerzone na żywo,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,napisy rozszerzone na żywo,kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2026 r.
 ostatnia_aktualizacja: 12 czerwca 2026 r.

@@ -4,8 +4,8 @@ title: Scenariusz testu - Komponent Kalendarz
 sidebar_label: Komponent Kalendarz
 sidebar_position: 130
 description: Scenariusz testu sprawdzającego, czy komponent kalendarza umożliwia wszystkim użytkownikom wyszukiwanie, przeglądanie i filtrowanie wydarzeń oraz przechodzenie do ich szczegółów. 
-keywords: [kalendarz, wydarzenia, terminarz, harmonogram, wydarzenia publiczne, dostępność cyfrowa]
-tags: [test dostępności, kalendarz, wydarzenia, komponent, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,obiekt,profil rozszerzony,komponent Kalendarz]
+tags: [ocena zgodności,obiekt,profil rozszerzony,komponent Kalendarz]
 opracowanie: Stefan Wajda
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.

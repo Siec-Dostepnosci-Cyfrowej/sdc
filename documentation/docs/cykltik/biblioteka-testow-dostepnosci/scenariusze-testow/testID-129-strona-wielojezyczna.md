@@ -4,8 +4,8 @@ title: Scenariusz testu - Strona wielojęzyczna
 sidebar_label: Strona wielojęzyczna
 sidebar_position: 129
 description: Scenariusz testu sprawdzającego, czy użytkownik może korzystać z wielojęzycznego serwisu w sposób przewidywalny, zrozumiały i dostępny, niezależnie od wybranego języka. 
-keywords: [wielojęzyczność, język strony, język fragmentu, lang, hreflang, tłumaczenia, dostępność cyfrowa]
-tags: [test dostępności, wielojęzyczność, WCAG, komunikacja, okresowa ocena zgodności]
+keywords: [ocena zgodności,obiekt,profil rozszerzony,strona wielojęzyczna]
+tags: [ocena zgodności,obiekt,profil rozszerzony,strona wielojęzyczna]
 opracowanie: Stefan Wajda
 data_zgloszenia: 13 czerwca 2026 r.
 ostatnia_aktualizacja: 13 czerwca 2026 r.

@@ -4,8 +4,8 @@ title: Scenariusz testu - Użycie koloru
 sidebar_label: Użycie koloru
 sidebar_position: 75
 description: Scenariusz testu sprawdzającego, czy kolor nie jest jedynym sposobem przekazywania informacji, wskazywania działania, identyfikowania elementu lub sygnalizowania stanu.
-keywords: [użycie koloru, kolor, color alone, formularze, wykresy, dostępność cyfrowa]
-tags: [test dostępności, kolor, WCAG, okresowa ocena zgodności]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,użycie koloru,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,użycie koloru,kryterium sukcesu]
 opracowanie: Sieć Dostępności Cyfrowej
 data_zgloszenia: 11 czerwca 2026 r.
 ostatnia_aktualizacja: 11 czerwca 2026 r.

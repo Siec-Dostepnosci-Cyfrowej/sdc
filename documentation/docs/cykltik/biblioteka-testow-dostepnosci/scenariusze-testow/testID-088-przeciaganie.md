@@ -4,8 +4,8 @@ title: Przeciąganie
 sidebar_label: Przeciąganie
 sidebar_position: 88
 description: Scenariusz testu sprawdzającego, czy funkcjonalności wymagające przeciągania elementów mogą zostać wykonane również przy użyciu alternatywnego sposobu niewymagającego operacji przeciągania.
-keywords: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,przeciąganie]
-tags: [dostępność cyfrowa,test dostępności,okresowa ocena zgodności,przeciąganie]
+keywords: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,przeciąganie,kryterium sukcesu]
+tags: [ocena zgodności,strona internetowa,cecha dostępności,profil rozszerzony,przeciąganie,kryterium sukcesu]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2026 r.
 ostatnia_aktualizacja: 12 czerwca 2026 r.
@@ -22,7 +22,7 @@ wersja_robocza: true
 
 ## 3. Profil stosowania testu
 
-Najniższy profil stosowania: **profil pogłębiony**
+Najniższy profil stosowania: **profil rozszerzony**
 
 ## 4. Opis testu
 

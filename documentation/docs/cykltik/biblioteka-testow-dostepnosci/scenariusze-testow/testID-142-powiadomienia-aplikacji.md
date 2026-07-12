@@ -1,11 +1,11 @@
 ---
 id: test-powiadomienia-aplikacji
-title: Karta testu - Powiadomienia aplikacji
+title: Scenariusz testu - Powiadomienia aplikacji
 sidebar_label: Powiadomienia aplikacji
 sidebar_position: 142
 description: Test sprawdza, czy powiadomienia generowane przez aplikację mobilną są dostępne, zrozumiałe, możliwe do obsłużenia oraz zgodne z ustawieniami użytkownika i systemu operacyjnego.
-keywords: [aplikacja mobilna,powiadomienia,alerty,komunikaty,komunikaty o stanie,dostępność aplikacji mobilnych,TalkBack,VoiceOver,nawigacja,WCAG,]
-tags: [aplikacja mobilna,powiadomienia,alerty,komunikaty,komunikaty o stanie,dostępność aplikacji mobilnych,TalkBack,VoiceOver,nawigacja,WCAG,]
+keywords: [ocena zgodności,aplikacja mobilna,cecha dostępności,profil rozszerzony,powiadomienia aplikacji]
+tags: [ocena zgodności,aplikacja mobilna,cecha dostępności,profil rozszerzony,powiadomienia aplikacji]
 opracowanie: Stefan Wajda
 data_zgloszenia: 15 czerwca 2026 r.
 ostatnia_aktualizacja: 15 czerwca 2026 r.
