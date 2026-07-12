@@ -16,7 +16,7 @@ wersja_robocza: true
 
 **procID-002**
 
-## 2. Nazwa testu
+## 2. Nazwa procedury
 
 **Automatyczne wykrywanie błędów dostępności aplikacji mobilnej**
 
