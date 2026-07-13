@@ -114,7 +114,7 @@ Automatyczne analizy mogą:
 
 Wynik wygenerowany przez narzędzie nie powinien być automatycznie utożsamiany z:
 
-- obserwacją zarejestrowaną w Rejestrze Stanu Zgodności i Dostępności;
+- obserwacją zarejestrowaną w rejestrze stanu zgodności i dostępności;
 - potwierdzoną niezgodnością;
 - wynikiem scenariusza testu;
 - oceną zgodności rozwiązania.
@@ -545,9 +545,9 @@ Mogą być wzbogacane o funkcje:
 - przypisywania odpowiedzialności;
 - weryfikowania skuteczności działań.
 
-Systemy takie mogą ewoluować w kierunku Monitorów Dostępności Cyfrowej.
+Systemy takie mogą ewoluować w kierunku monitorów dostępności cyfrowej.
 
-Możliwy jest również odwrotny kierunek rozwoju: Monitor Dostępności Cyfrowej może integrować się z zewnętrznymi narzędziami automatycznymi albo zostać wyposażony we własne funkcje automatycznej analizy.
+Możliwy jest również odwrotny kierunek rozwoju: monitor dostępności cyfrowej może integrować się z zewnętrznymi narzędziami automatycznymi albo zostać wyposażony we własne funkcje automatycznej analizy.
 
 Niezależnie od zastosowanego rozwiązania technicznego celem jest stworzenie mechanizmu, który wspiera organizację w:
 
