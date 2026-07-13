@@ -56,6 +56,7 @@ Narzędzia takie mogą wykrywać między innymi:
 - brak określenia języka strony,
 - zduplikowane identyfikatory.
 
+Lista nie jest wyczerpująca; zakres wykrywanych błędów zależy od zastosowanego narzędzia.
 ### Ograniczenia procedury
 
 Automatyczna analiza:
