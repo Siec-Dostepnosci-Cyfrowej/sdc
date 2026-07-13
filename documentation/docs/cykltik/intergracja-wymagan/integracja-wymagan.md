@@ -39,11 +39,9 @@ Większość problemów związanych z dostępnością nie wynika z błędów pro
   
 Już na etapie planowania warto odpowiedzieć sobie na kilka podstawowych pytań.
 
-Czy każdy użytkownik będzie mógł samodzielnie skorzystać z usługi?
-
-Czy sposób realizacji usługi nie wykluczy osób korzystających z klawiatury, technologii wspomagających lub urządzeń mobilnych?
-
-Czy planowane rozwiązanie nie będzie wymagało późniejszych, kosztownych zmian?
+ 1. Czy każdy użytkownik będzie mógł samodzielnie skorzystać z usługi?
+ 2. Czy sposób realizacji usługi nie wykluczy osób korzystających z klawiatury, technologii wspomagających lub urządzeń mobilnych?
+ 3. Czy planowane rozwiązanie nie będzie wymagało późniejszych, kosztownych zmian?
 
 Na tym etapie organizacja powinna przede wszystkim:
  - określić wymagania dostępności dla najważniejszych procesów użytkownika, 
