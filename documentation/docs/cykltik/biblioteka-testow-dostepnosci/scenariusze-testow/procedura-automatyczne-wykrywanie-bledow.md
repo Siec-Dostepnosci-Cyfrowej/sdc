@@ -222,19 +222,19 @@ Określ konieczne działania:
 
 ## 11. Kryteria oceny wyniku
 
-### Nie wykryto problemów automatycznie
+### Nie wykryto błędów automatycznie
 
-Narzędzie nie wykazało problemów wymagających dalszej analizy.
+Narzędzie nie wykazało błędów wymagających dalszej analizy.
 
-### Wykryto problemy wymagające analizy
+### Wykryto błędy wymagające weryfikacji
 
-Narzędzie wskazało potencjalne problemy wymagające weryfikacji.
+Narzędzie wskazało błędy wymagające weryfikacji manualnej.
 
-### Wykryto istotne problemy dostępności
+### Wykryto istotne błędy dostępności
 
 Narzędzie wykazało błędy wymagające działań naprawczych.
 
-### Nie wykonano procedury
+### Nie wykonano analizy
 
 Analiza nie została przeprowadzona.
 
