@@ -27,6 +27,7 @@ Automatyczne wykrywanie błędów dostępności cyfrowej stron internetowych
 
 ## 3. Profil stosowania
 
+Zgodnie z dokumentem Profilowanie scenariuszy testów dostępności cyfrowej
 | Profil | Stosowanie |
 |----------|----------|
 | Wstępny | Tak |
