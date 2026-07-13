@@ -8,7 +8,7 @@ keywords: [rozwiązanie systemowe, zaopatrzenie, zamówienia publiczne]
 tags: [rozwiązanie systemowe, zaopatrzenie, zamówienia publiczne]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2025 r.
-ostatnia_aktualizacja: 20 września 2025 r.
+ostatnia_aktualizacja: 24 czerwca 2026 r.
 wersja_robocza: true
 ---
 
