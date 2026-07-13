@@ -198,7 +198,7 @@ Oddziel:
 
 ### Krok 6
 
-Powiąż wykryte problemy z odpowiednimi kartami testów.
+Powiąż wykryte błędy z odpowiednimi kartami testów.
 
 Przykładowo:
 
