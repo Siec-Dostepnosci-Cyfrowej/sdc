@@ -165,7 +165,7 @@ Uwzględnij w szczególności:
 - kluczowe procesy realizowane w serwisie.
 ### Krok 2
 
-Uruchom analizę badanej strony lub aplikacji.
+Uruchom analizę badanej strony lub aplikacji webowej.
 
 ### Krok 3
 
