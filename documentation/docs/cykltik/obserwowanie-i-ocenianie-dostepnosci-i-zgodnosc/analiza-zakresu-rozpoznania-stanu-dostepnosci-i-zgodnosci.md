@@ -22,7 +22,7 @@ Analiza wspiera planowanie dalszych ocen na podstawie wiedzy zgromadzonej w reje
 
 Wiedza o stanie dostępności i zgodności rozwiązania jest uzyskiwana stopniowo podczas obserwacji i ocen prowadzonych w całym okresie jego użytkowania.
 
-Posiadanie informacji o stwierdzonych problemach lub wynikach ocen nie oznacza, że organizacja posiada wystarczającą wiedzę o całym rozwiązaniu.
+Posiadanie informacji o stwierdzonych problemach lub wynikach ocen nie oznacza, że organizacja ma wystarczającą wiedzę o całym rozwiązaniu.
 
 Analiza zakresu rozpoznania służy ustaleniu:
 
