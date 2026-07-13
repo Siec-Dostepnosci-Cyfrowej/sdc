@@ -3,7 +3,7 @@ id: uzasadnienie-rezygnacji-z-prac-nad-zaleceniem-okresowa-ocena-stanu
 title: Uzasadnienie rezygnacji z kontynuowania prac nad projektem zalecenia Okresowa ocena stanu dostępności i zgodności
 description: Materiał doboczy, wyjaśnia propozycję wycofania projektu Procedura oceny dostępności  
 sidebar_label: Uzasadnienie 2
-sidebar_position: 7
+sidebar_position: 8
 keywords: [dostępność cyfrowa, stan dostępności, stan zgodności, zakres rozpoznania stanu, luka informacyjna, plan ocen, rejestr stanu dostępności i zgodności]
 tags: [dostępność cyfrowa, stan dostępności, stan zgodności, zakres rozpoznania stanu, luka informacyjna, plan ocen, rejestr stanu dostępności i zgodności]
 opracowanie: Stefan Wajda

@@ -3,7 +3,7 @@ id: uzasadnienie-wycofania-projektu-procedura-oceny-dostepnosci
 title: Uzasadnienie wycofania projektu zalecenia Procedura oceny dostępności
 description: Materiał doboczy, wyjaśnia propozycję wycofania projektu Procedura oceny dostępności  
 sidebar_label: Uzasadnienie 1
-sidebar_position: 6
+sidebar_position: 7
 keywords: [dostępność cyfrowa, stan dostępności, stan zgodności, zakres rozpoznania stanu, luka informacyjna, plan ocen, rejestr stanu dostępności i zgodności]
 tags: [dostępność cyfrowa, stan dostępności, stan zgodności, zakres rozpoznania stanu, luka informacyjna, plan ocen, rejestr stanu dostępności i zgodności]
 opracowanie: Stefan Wajda
