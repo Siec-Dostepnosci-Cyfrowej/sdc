@@ -181,7 +181,7 @@ Odnotuj co najmniej:
 
 Przeanalizuj wykryte błędy.
 
-Dla każdego problemu określ:
+Dla każdego błędu określ:
 
 - rodzaj błędu,
 - miejsce występowania,
