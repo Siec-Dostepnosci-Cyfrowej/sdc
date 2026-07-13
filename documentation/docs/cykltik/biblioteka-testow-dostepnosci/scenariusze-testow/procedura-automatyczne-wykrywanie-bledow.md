@@ -242,7 +242,7 @@ Analiza nie została przeprowadzona.
 
 ## 12. Typowe niezgodności
 
-Najczęściej wykrywane problemy:
+Najczęściej wykrywane błędy wskazujące na niezgodności:
 
 - brak tekstów alternatywnych,
 - brak etykiet formularzy,
