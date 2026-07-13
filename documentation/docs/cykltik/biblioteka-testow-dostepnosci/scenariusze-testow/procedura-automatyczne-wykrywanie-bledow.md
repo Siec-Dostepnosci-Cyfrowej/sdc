@@ -70,7 +70,7 @@ Wyniki analizy należy zawsze interpretować krytycznie.
 
 ---
 
-## 5. Powiązanie ze standardami
+## 5. Mapowanie do standardów
 
 ### WCAG 2.1
 
