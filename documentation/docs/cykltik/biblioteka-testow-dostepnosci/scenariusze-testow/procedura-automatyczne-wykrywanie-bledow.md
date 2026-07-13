@@ -265,7 +265,7 @@ Miejsce na opis wyników analizy, wykrytych problemów oraz dalszych działań.
 
 lub
 
-> Automatyczna analiza nie wykazała problemów możliwych do wykrycia przez zastosowane narzędzie. Wynik nie stanowi potwierdzenia zgodności z wymaganiami dostępności cyfrowej.
+> Automatyczna analiza nie wykazała błędów możliwych do wykrycia przez zastosowane narzędzie.
 
 ---
 
