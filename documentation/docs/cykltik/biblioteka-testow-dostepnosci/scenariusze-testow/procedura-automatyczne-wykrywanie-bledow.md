@@ -88,7 +88,7 @@ Automatyczne wykrywanie błędów dostępności nie stanowi samodzielnego badani
 
 ---
 
-## 6. Zastosowanie
+## 6. Zastosowanie do treści
 
 Procedurę stosuje się do:
 
