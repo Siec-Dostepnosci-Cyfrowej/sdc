@@ -104,7 +104,7 @@ Automatyczną analizę stosuje się do:
 Procedurę uznaje się za prawidłowo przeprowadzoną, jeżeli:
 
 - wykonano analizę przy użyciu co najmniej jednego narzędzia automatycznego,
-- przeanalizowano wszystkie zgłoszone problemy,
+- zweryfikowano wszystkie zgłoszone przez narzędzie błędy,
 - oddzielono błędy rzeczywiste od ostrzeżeń i fałszywych alarmów,
 - określono dalsze działania diagnostyczne lub naprawcze.
 
