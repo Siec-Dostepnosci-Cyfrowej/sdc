@@ -48,11 +48,13 @@ Narzędzia takie mogą wykrywać między innymi:
 
 - brakujące teksty alternatywne,
 - błędy struktury nagłówków,
-- problemy kontrastu,
+- błędy kontrastu,
 - błędy formularzy,
-- nieprawidłowości ARIA,
+- błędy ARIA,
 - błędy nazw dostępnościowych,
-- problemy semantyczne.
+- błędy semantyczne,
+- brak określenia języka strony,
+- zduplikowane identyfikatory.
 
 ### Ograniczenia procedury
 
