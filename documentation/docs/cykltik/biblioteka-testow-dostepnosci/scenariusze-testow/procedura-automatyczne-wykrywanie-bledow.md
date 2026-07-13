@@ -1,7 +1,7 @@
 ---
 id: procedura-automatycznego-wykrywania-bledow-dostepnosci-cyfrowej-stron-internetowych
 title: Procedura automatycznego wykrywania błędów dostępności cyfrowej stron internetowych
-sidebar_label: Automatyczne wykrywanie błędów
+sidebar_label: Automatyczne wykrywanie błędów (strony internetowe)
 sidebar_position: 17
 description: Procedura diagnostyczna wspierająca identyfikację problemów dostępności cyfrowej przy użyciu narzędzi automatycznych.
 keywords: [automatyczne testowanie, narzędzia dostępności, WAVE, Lighthouse, axe, SiteLint, diagnostyka dostępności]
