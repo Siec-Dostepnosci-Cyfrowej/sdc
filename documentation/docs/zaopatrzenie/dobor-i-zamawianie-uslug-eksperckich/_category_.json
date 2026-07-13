@@ -2,6 +2,7 @@
   "label": "Dobór i zamawianie usług eksperckich",
   "position": 5,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+	"description": "Wybór odpowiednich usług eksperckich ma istotny wpływ na skuteczność działań związanych z zapewnianiem dostępności cyfrowej. Zalecenie wraz z zestawem załączników pomaga organizacjom publicznym przygotowywać i prowadzić procesy zamawiania usług eksperckich, określać wymagania wobec wykonawców, oceniać kompetencje oferentów oraz monitorować jakość i użyteczność uzyskiwanych rezultatów. Obejmuje usługi związane między innymi z audytowaniem, szkoleniami, doradztwem, badaniami oraz wsparciem wdrożeniowym. Dzięki temu organizacja może podejmować bardziej świadome decyzje zakupowe i skuteczniej wykorzystywać wsparcie ekspertów w realizacji celów związanych z dostępnością cyfrową."
   }
 }
