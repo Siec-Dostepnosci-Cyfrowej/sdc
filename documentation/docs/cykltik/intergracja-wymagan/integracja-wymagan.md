@@ -1,5 +1,5 @@
 ---
-id: integracja-wymagan
+id: integracja-wymagan-dostepnosci
 title: Integracja wymagań dostępności w całym cyklu projektowym (Accessibility by Design)
 description: Uwzględnianie wymagań dostępności na wszystkich etapach cyklu życia usługi
 sidebar_label: Integrator
