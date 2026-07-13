@@ -21,7 +21,7 @@ wersja_robocza: true
 
 ## 2. Nazwa procedury
 
-**Automatyczne wykrywanie błędów dostępności**
+Automatyczne wykrywanie błędów dostępności cyfrowej stron internetowych
 
 ---
 
