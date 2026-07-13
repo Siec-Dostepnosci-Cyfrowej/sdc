@@ -37,7 +37,7 @@ Kolejne rekomendacje pokazują, w jaki sposób uwzględniać wymagania dostępno
 
 Większość problemów związanych z dostępnością nie wynika z błędów programistycznych, lecz z decyzji podjętych na samym początku przedsięwzięcia. Jeżeli podczas planowania nie zostaną uwzględnione potrzeby użytkowników oraz wymagania dotyczące dostępności, ich późniejsze wdrożenie zwykle okazuje się znacznie trudniejsze i bardziej kosztowne.
   
-Już na etapie planowania warto odpowiedzieć sobie na kilka podstawowych pytań.
+Już na etapie planowania należy odpowiedzieć sobie na kilka podstawowych pytań.
 
  1. Czy każdy użytkownik będzie mógł samodzielnie skorzystać z usługi?
  2. Czy sposób realizacji usługi nie wykluczy osób korzystających z klawiatury, technologii wspomagających lub urządzeń mobilnych?
@@ -61,14 +61,14 @@ Ogólny zapis mówiący o „zgodności z WCAG” zwykle nie wystarcza. Nie wska
 
 Dlatego dokumentacja powinna jasno określać oczekiwania wobec rozwiązania.
 
-W praktyce oznacza to, że wymagania dotyczące dostępności warto uwzględniać w:
+W praktyce oznacza to, że wymagania dotyczące dostępności należy uwzględniać w:
  - wymaganiach biznesowych i funkcjonalnych, 
  - opisach procesów użytkownika, 
  - dokumentacji projektowej, 
  - opisach przedmiotu zamówienia, 
  - warunkach odbioru usług i produktów cyfrowych. 
 
-Szczególną uwagę warto zwrócić na wymagania dotyczące formularzy, dokumentów elektronicznych, multimediów, komunikatów oraz elementów pochodzących od zewnętrznych dostawców.
+Szczególną uwagę powinno się zwrócić na wymagania dotyczące formularzy, dokumentów elektronicznych, multimediów, komunikatów oraz elementów pochodzących od zewnętrznych dostawców.
 Dobrze przygotowana dokumentacja pozwala uniknąć wielu nieporozumień na późniejszych etapach projektu. Ułatwia również odbiór rozwiązania i egzekwowanie wymagań wobec wykonawców.
     
 **3. Projektowanie – decyzje, które trudno później odwrócić**
@@ -77,7 +77,7 @@ Dobrze przygotowana dokumentacja pozwala uniknąć wielu nieporozumień na póź
    
 Projektowanie z uwzględnieniem dostępności nie polega na odhaczaniu kolejnych kryteriów WCAG. Chodzi przede wszystkim o świadome podejmowanie decyzji, które ułatwią korzystanie z usługi wszystkim użytkownikom, niezależnie od ich sposobu korzystania z technologii.
 
-Projektując nowe rozwiązania lub rozwijając już istniejące, warto zwrócić uwagę przede wszystkim na:
+Projektując nowe rozwiązania lub rozwijając już istniejące, należy zwrócić uwagę przede wszystkim na:
  - przebieg najważniejszych procesów użytkownika, 
  - sposób poruszania się po usłudze, 
  - czytelność i strukturę prezentowanych informacji, 
@@ -85,20 +85,20 @@ Projektując nowe rozwiązania lub rozwijając już istniejące, warto zwrócić
  - wykorzystanie dokumentów elektronicznych oraz materiałów multimedialnych, 
  - spójność stosowanych komponentów i wzorców interfejsu. 
 
-W przypadku większych przedsięwzięć warto, aby dokumentacja projektowa zawierała również informacje dotyczące wymagań związanych z dostępnością. Nie chodzi o tworzenie dodatkowej dokumentacji, lecz o uzupełnienie tej, która już powstaje, o informacje istotne z punktu widzenia późniejszej realizacji i odbioru rozwiązania.
+W przypadku większych przedsięwzięć zaleca się, aby dokumentacja projektowa zawierała również informacje dotyczące wymagań związanych z dostępnością. Nie chodzi o tworzenie dodatkowej dokumentacji, lecz o uzupełnienie tej, która już powstaje, o informacje istotne z punktu widzenia późniejszej realizacji i odbioru rozwiązania.
 
-Jeżeli organizacja korzysta z gotowych komponentów, bibliotek lub systemów projektowych, warto określić zasady ich stosowania tak, aby zapewnić spójny poziom dostępności w całym rozwiązaniu.
+Jeżeli organizacja korzysta z gotowych komponentów, bibliotek lub systemów projektowych, konieczne jest aby określić zasady ich stosowania tak, aby zapewnić spójny poziom dostępności w całym rozwiązaniu.
 
 Dobrze przygotowany projekt ogranicza liczbę zmian na etapie implementacji i pozwala uniknąć wielu problemów, które później trudno usunąć bez przebudowy całego rozwiązania.
 
 
 **4. Realizacja prac i weryfikacja przed wdrożeniem pozwala uniknąć kosztownych poprawek**
 
-   Nawet najlepiej zaplanowane rozwiązanie warto sprawdzić jeszcze przed jego udostępnieniem użytkownikom. Celem takiej weryfikacji nie jest znalezienie wszystkich możliwych błędów, lecz upewnienie się, że najważniejsze funkcjonalności będą dostępne i pozwolą użytkownikowi samodzielnie zrealizować sprawę.
+   Nawet najlepiej zaplanowane rozwiązanie należy sprawdzić jeszcze przed jego udostępnieniem użytkownikom. Celem takiej weryfikacji nie jest znalezienie wszystkich możliwych błędów, lecz upewnienie się, że najważniejsze funkcjonalności będą dostępne i pozwolą użytkownikowi samodzielnie zrealizować sprawę.
    
 Zakres weryfikacji powinien być dostosowany do charakteru usługi oraz skali zmian. Innego podejścia wymaga przebudowa całego systemu, a innego aktualizacja pojedynczego formularza lub publikacja nowego dokumentu.
 
-Przed wdrożeniem warto zweryfikować w szczególności:
+Przed wdrożeniem zaleca się zweryfikować w szczególności:
  - możliwość wykonania najważniejszych czynności przez użytkownika, 
  - poprawność działania z wykorzystaniem klawiatury, 
  - sposób przekazywania komunikatów i informacji o błędach, 
@@ -143,9 +143,9 @@ W praktyce oznacza to, że organizacja:
  - aktualizuje standardy, checklisty i procedury w oparciu o zdobyte doświadczenia, 
  - dba o to, aby nowe funkcjonalności nie obniżały poziomu dostępności osiągniętego wcześniej. 
 
-Warto pamiętać, że wiele problemów pojawia się dopiero podczas codziennego korzystania z usługi. Dlatego informacje przekazywane przez użytkowników są cennym źródłem wiedzy o rzeczywistej jakości rozwiązania i powinny być uwzględniane przy planowaniu dalszego rozwoju.
+Wiele problemów pojawia się dopiero podczas codziennego korzystania z usługi, dlatego informacje przekazywane przez użytkowników są cennym źródłem wiedzy o rzeczywistej jakości rozwiązania i powinny być uwzględniane przy planowaniu dalszego rozwoju.
 
-W przypadku usług, które są często rozwijane lub aktualizowane, warto uzupełnić ten proces o rozwiązania umożliwiające bieżący nadzór nad dostępnością. Narzędzia wspierające automatyczne monitorowanie wybranych aspektów dostępności pozwalają szybko wykrywać problemy pojawiające się w wyniku zmian treści, aktualizacji oprogramowania lub rozwoju funkcjonalności. Nie zastępują one przeglądów ani audytów wykonywanych przez człowieka, ale stanowią ich cenne uzupełnienie i pomagają szybciej reagować na nowe bariery.
+W przypadku usług, które są często rozwijane lub aktualizowane, należy uzupełnić ten proces o rozwiązania umożliwiające bieżący nadzór nad dostępnością. Narzędzia wspierające automatyczne monitorowanie wybranych aspektów dostępności pozwalają szybko wykrywać problemy pojawiające się w wyniku zmian treści, aktualizacji oprogramowania lub rozwoju funkcjonalności. Nie zastępują one przeglądów ani audytów wykonywanych przez człowieka, ale stanowią ich cenne uzupełnienie i pomagają szybciej reagować na nowe bariery.
 
 Utrzymanie dostępności jest procesem ciągłym. Każda zmiana w usłudze powinna być okazją do sprawdzenia, czy nadal pozostaje ona dostępna dla wszystkich użytkowników.
 
@@ -153,7 +153,7 @@ Utrzymanie dostępności jest procesem ciągłym. Każda zmiana w usłudze powin
 
   Zapewnienie dostępności cyfrowej nie jest zadaniem jednej osoby ani jednego zespołu. Na ostateczną jakość usługi wpływają decyzje podejmowane przez wiele osób – od momentu zdefiniowania potrzeby biznesowej aż do utrzymania gotowego rozwiązania.
   
-Dlatego warto jasno określić role i odpowiedzialności wszystkich osób uczestniczących w realizacji usługi.
+Dlatego konieczne jest aby jasno określić role i odpowiedzialności wszystkich osób uczestniczących w realizacji usługi.
 
 W szczególności dotyczy to osób odpowiedzialnych za:
  - planowanie i analizę potrzeb, 
