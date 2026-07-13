@@ -246,10 +246,10 @@ Najczęściej wykrywane problemy:
 
 ## 14. Wynik procedury
 
-- Nie wykryto problemów automatycznie
-- Wykryto problemy wymagające analizy
-- Wykryto istotne problemy dostępności
-- Nie wykonano procedury
+- Nie wykryto błędów automatycznie
+- Wykryto błędy wymagające weryfikacji
+- Wykryto istotne błędy dostępności
+- Nie wykonano analizy
 
 ---
 
