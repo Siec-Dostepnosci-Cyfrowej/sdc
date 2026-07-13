@@ -42,7 +42,7 @@ Procedura służy do identyfikowania błędów dostępności cyfrowej możliwych
 
 ### Czym jest automatyczne wykrywanie błędów?
 
-Automatyczne wykrywanie błędów polega na analizie strony, aplikacji lub dokumentu przez specjalistyczne narzędzie, które sprawdza występowanie określonych wzorców niezgodności z wymaganiami dostępności.
+Automatyczne wykrywanie błędów polega na analizie kodu strony przez specjalistyczne narzędzie, które sprawdza występowanie wzorców wskazujących na możliwe niezgodności z wymaganiami dostępności.
 
 Narzędzia takie mogą wykrywać między innymi:
 
