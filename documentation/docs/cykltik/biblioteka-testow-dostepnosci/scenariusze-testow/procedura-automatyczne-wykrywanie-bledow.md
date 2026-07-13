@@ -112,16 +112,16 @@ Procedurę uznaje się za prawidłowo przeprowadzoną, jeżeli:
 
 ## 8. Dlaczego to jest ważne
 
-Automatyczne narzędzia pozwalają szybko wykryć wiele problemów dostępności.
+Narzędzia automatyczne pozwalają szybko wykryć wiele błędów dostępności.
 
 Umożliwiają:
 
 - identyfikację najczęstszych błędów,
 - monitorowanie jakości serwisu,
-- kontrolę zmian po wdrożeniach,
+- kontrolę zmian po aktualizacjach,
 - wspieranie okresowej oceny stanu zgodności.
 
-Stanowią użyteczne narzędzie wspomagające, ale nie zastępują oceny eksperckiej.
+Stanowią użyteczne wsparcie, ale nie zastępują oceny eksperckiej.
 
 ---
 
