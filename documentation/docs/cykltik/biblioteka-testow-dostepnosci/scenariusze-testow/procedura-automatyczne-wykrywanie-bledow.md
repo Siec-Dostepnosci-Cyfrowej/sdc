@@ -90,14 +90,12 @@ Automatyczne wykrywanie błędów dostępności nie stanowi samodzielnego badani
 
 ## 6. Zastosowanie do treści
 
-Procedurę stosuje się do:
+Automatyczną analizę stosuje się do:
 
-- stron internetowych,
-- podstron serwisów internetowych,
+- stron i podstron serwisów internetowych,
 - aplikacji webowych,
 - formularzy elektronicznych,
-- komponentów interfejsu,
-- dokumentów elektronicznych (jeżeli narzędzie wspiera ich analizę).
+- komponentów interfejsu.
 
 ---
 
