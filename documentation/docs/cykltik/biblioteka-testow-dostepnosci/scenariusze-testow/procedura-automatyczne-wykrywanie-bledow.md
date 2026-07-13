@@ -1,6 +1,6 @@
 ---
 id: procedura-automatyczne-wykrywanie-bledow
-title: Procedura diagnostyczna — Automatyczne wykrywanie błędów dostępności
+title: Procedura automatycznego wykrywania błędów dostępności cyfrowej stron internetowych
 sidebar_label: Automatyczne wykrywanie błędów
 sidebar_position: 17
 description: Procedura diagnostyczna wspierająca identyfikację problemów dostępności cyfrowej przy użyciu narzędzi automatycznych.
