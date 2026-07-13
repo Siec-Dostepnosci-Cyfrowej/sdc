@@ -202,13 +202,13 @@ Powiąż wykryte błędy z odpowiednimi kartami testów.
 
 Przykładowo:
 
-| Wykryty problem | Powiązana karta |
-|-----------------|----------------|
-| Brak tekstu alternatywnego | Tekst alternatywny |
-| Brak etykiety formularza | Etykiety powiązane programowo |
-| Błędy kontrastu | Wystarczający kontrast |
-| Błędy nagłówków | Nagłówki |
-| Błędy ARIA | Odczyt struktury przez czytnik ekranu |
+| Wykryty błąd | ID testu | Powiązana karta |
+|-----------------|----------|----------------|
+| Brak tekstu alternatywnego | testID-033 | Tekst alternatywny |
+| Brak etykiety formularza | testID-046 | Etykiety powiązane programowo |
+| Błędy kontrastu | testID-032 | Wystarczający kontrast |
+| Błędy nagłówków | testID-019 | Nagłówki |
+| Błędy ARIA | testID-047 | Odczyt struktury przez czytnik ekranu |
 
 ### Krok 7
 
