@@ -330,7 +330,7 @@ Jeżeli zamówienie jest niewielkie, zamawiający powinien zachować co najmniej
 4. CMS ostrzega przed brakiem tekstu alternatywnego dla obrazu informacyjnego.
 5. Wykonawca przekazuje instrukcję tworzenia dostępnych treści w CMS.
 6. Odbiór obejmuje co najmniej jeden scenariusz utworzenia, sprawdzenia i publikacji dostępnej strony.
-7. Wykonawca przekazuje listę znanych ograniczeń dostępności CMS.
+7. Wykonawca przekazuje listę znanych ograniczeń dostępności CMS. 
 
 ## 16. Źródła i opracowania
 
