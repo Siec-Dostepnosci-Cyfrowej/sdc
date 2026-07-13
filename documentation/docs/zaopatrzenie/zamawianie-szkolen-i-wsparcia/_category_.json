@@ -2,6 +2,7 @@
   "label": "Zamawianie szkoleń i wsparcia",
   "position": 4,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+	"description": "Projekt dotyczy planowania, zamawiania i wykorzystywania szkoleń oraz innych form wsparcia edukacyjnego w zakresie dostępności cyfrowej. Obejmuje zagadnienia związane z identyfikacją potrzeb rozwojowych organizacji, doborem odpowiednich usług szkoleniowych i doradczych, formułowaniem wymagań wobec wykonawców oraz oceną jakości i przydatności realizowanego wsparcia. Projekt zawiera również materiały pomocnicze wspierające przygotowanie i prowadzenie postępowań dotyczących usług edukacyjnych i eksperckich związanych z dostępnością cyfrową."
   }
 }

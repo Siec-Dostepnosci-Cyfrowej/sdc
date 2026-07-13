@@ -2,6 +2,7 @@
   "label": "Specjalista w procesie zakupowym",
   "position": 6,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+	"description": "Uwzględnianie wymagań dostępności cyfrowej w procesach zakupowych wymaga dostępu do odpowiednich kompetencji eksperckich. Zalecenie pomaga organizacjom publicznym organizować udział specjalistów ds. dostępności cyfrowej w działaniach związanych z nabywaniem technologii, usług i treści cyfrowych. Wspiera definiowanie wymagań, ocenę rozwiązań oferowanych przez dostawców, identyfikację ryzyk oraz weryfikację zgodności produktów i usług z wymaganiami dostępności. Dzięki temu dostępność cyfrowa może być uwzględniana w procesach zakupowych w sposób świadomy, spójny i oparty na wiedzy specjalistycznej."
   }
 }
