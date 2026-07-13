@@ -29,9 +29,9 @@ wersja_robocza: true
 
 | Profil | Stosowanie |
 |----------|----------|
-| Podstawowy | Tak |
+| Wstępny | Tak |
 | Rozszerzony | Tak |
-| Audyt zgodności | Opcjonalnie |
+| Pogłębiony | Opcjonalnie |
 
 ---
 
