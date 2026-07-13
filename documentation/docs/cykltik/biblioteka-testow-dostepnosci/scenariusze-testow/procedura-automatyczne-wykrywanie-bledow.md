@@ -261,7 +261,7 @@ Miejsce na opis wyników analizy, wykrytych problemów oraz dalszych działań.
 
 ## 16. Przykładowy opis ustaleń do raportu
 
-> Automatyczna analiza wykazała występowanie problemów związanych z tekstami alternatywnymi, etykietami formularzy oraz kontrastem. Wyniki zostały przekazane do dalszej weryfikacji i oceny przy użyciu odpowiednich testów szczegółowych.
+> Automatyczna analiza wykazała występowanie błędów związanych z tekstami alternatywnymi, etykietami formularzy oraz kontrastem. Wyniki zostały przekazane do dalszej weryfikacji i oceny przy użyciu odpowiednich testów szczegółowych.
 
 lub
 
