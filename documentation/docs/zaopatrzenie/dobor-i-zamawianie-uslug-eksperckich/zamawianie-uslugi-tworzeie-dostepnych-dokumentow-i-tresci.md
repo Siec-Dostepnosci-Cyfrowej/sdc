@@ -33,8 +33,6 @@ Załącznik obejmuje zarówno:
 
 Usługa „Tworzenie dostępnych dokumentów i treści” wspiera rozwój zdolności organizacji do przygotowywania i utrzymywania dostępnych zasobów cyfrowych.
 
-Jej celem nie jest wyłącznie przekazanie wiedzy pracownikom ani przeprowadzenie szkoleń.
-
 Jej celem jest stworzenie warunków umożliwiających organizacji samodzielne i trwałe zapewnianie jakości dokumentów i treści publikowanych przez organizację.
 
 W zależności od potrzeb organizacji usługa może obejmować:
@@ -192,7 +190,7 @@ Przed przygotowaniem zamówienia warto określić:
 - jakie kompetencje organizacja już posiada,
 - jakie zdolności organizacja chce uzyskać lub rozwinąć.
 
-W opisie zamówienia warto koncentrować się na oczekiwanych rezultatach organizacyjnych, a nie wyłącznie na liczbie uczestników szkoleń.
+W opisie zamówienia warto określić oczekiwane rezultaty organizacyjne i zdolności, które organizacja chce uzyskać lub rozwinąć.
 
 ---
 

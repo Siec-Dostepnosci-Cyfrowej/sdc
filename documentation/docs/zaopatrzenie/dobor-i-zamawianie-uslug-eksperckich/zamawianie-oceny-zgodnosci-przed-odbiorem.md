@@ -24,12 +24,12 @@ Usługa ta służy ocenie, czy istnieją wystarczające podstawy do uznania, że
 
 Ocena zgodności przed odbiorem jest usługą formalnej oceny realizowaną przed odbiorem rozwiązania dostarczanego przez wykonawcę.
 
-Jej celem nie jest przeprowadzenie pełnego audytu zgodności, lecz ocena:
+Jej celem jest ocena:
 
 - przedstawionych przez wykonawcę dowodów zgodności,
 - dokumentacji dostępności,
 - wyników przeprowadzonych testów,
-- oraz wybranych funkcjonalności i procesów użytkownika.
+- wybranych funkcjonalności i procesów użytkownika.
 
 Usługa odpowiada przede wszystkim na pytania:
 
@@ -37,6 +37,7 @@ Usługa odpowiada przede wszystkim na pytania:
 - czy przedstawione dowody są wiarygodne i wystarczające,
 - czy istnieją istotne ryzyka związane z dostępnością,
 - czy rozwiązanie może zostać odebrane.
+
 
 ---
 
@@ -53,7 +54,23 @@ Usługa jest szczególnie przydatna przy:
 
 ---
 
-## 4. Kiedy warto rozważyć audyt zgodności zamiast oceny odbiorowej
+
+## 4. Warunki skutecznego zastosowania usługi
+
+Skuteczność oceny zgodności przed odbiorem zależy od wcześniejszego określenia w dokumentacji zamówienia i umowie:
+
+- wymagań dostępności dotyczących zamawianego rozwiązania,
+- materiałów dowodowych, które wykonawca ma przedstawić,
+- zasad i zakresu weryfikacji spełnienia wymagań,
+- kryteriów odbioru rozwiązania,
+- sposobu postępowania w przypadku stwierdzenia niezgodności.
+
+Ocena zgodności przed odbiorem wykorzystuje wymagania, kryteria i materiały dowodowe określone w procesie przygotowania i realizacji zamówienia.
+
+
+
+
+## 5. Kiedy warto rozważyć audyt zgodności zamiast oceny odbiorowej
 
 Audyt zgodności może być bardziej odpowiedni, gdy:
 
@@ -64,7 +81,7 @@ Audyt zgodności może być bardziej odpowiedni, gdy:
 
 ---
 
-## 5. Podstawowa zasada
+## 6. Podstawowa zasada
 
 Ocena zgodności przed odbiorem nie powinna zastępować obowiązku wykazania zgodności przez wykonawcę.
 
@@ -74,7 +91,7 @@ Zadaniem oceny odbiorowej jest weryfikacja tych dowodów oraz identyfikacja isto
 
 ---
 
-## 6. Przedmiot zamówienia
+## 7. Przedmiot zamówienia
 
 Przedmiotem oceny mogą być w szczególności:
 
@@ -95,7 +112,7 @@ Opis przedmiotu zamówienia powinien określać:
 
 ---
 
-## 7. Dokumenty i dowody przekazywane przez wykonawcę
+## 8. Dokumenty i dowody przekazywane przez wykonawcę
 
 Organizacja powinna wymagać od wykonawcy przekazania dokumentów potwierdzających spełnienie wymagań dostępności.
 
@@ -115,7 +132,7 @@ Zakres wymaganych dokumentów powinien być określony już na etapie zamówieni
 
 ---
 
-## 8. Zakres oceny
+## 9. Zakres oceny
 
 Ocena może obejmować:
 
@@ -124,13 +141,14 @@ Ocena może obejmować:
 - ocenę wyników testów,
 - analizę kluczowych funkcjonalności,
 - ocenę reprezentatywnej próby procesów użytkownika,
-- identyfikację ryzyk związanych z dostępnością.
+- ocenę zidentyfikowanych ryzyk i ich znaczenia dla decyzji odbiorowej.
 
-Zakres oceny powinien być proporcjonalny do rodzaju rozwiązania oraz poziomu ryzyka.
+Zakres oceny i próbę do weryfikacji należy dobierać z uwzględnieniem ryzyka. Weryfikacja powinna obejmować przede wszystkim kluczowe procesy użytkownika, funkcjonalności i komponenty istotne dla korzystania z rozwiązania oraz obszary, w których niezgodność może powodować poważne konsekwencje dla użytkowników lub zamawiającego.
+
 
 ---
 
-## 9. Metody oceny
+## 10. Metody oceny
 
 Ocena może wykorzystywać:
 
@@ -141,11 +159,10 @@ Ocena może wykorzystywać:
 - demonstrację rozwiązania przez wykonawcę,
 - testy potwierdzające wybranych funkcji.
 
-Nie jest celem usługi ponowne przeprowadzanie wszystkich badań wykonanych przez wykonawcę.
 
 ---
 
-## 10. Oczekiwane rezultaty
+## 11. Oczekiwane rezultaty
 
 Rezultatem usługi powinien być raport zawierający co najmniej:
 
@@ -159,7 +176,7 @@ Rezultatem usługi powinien być raport zawierający co najmniej:
 
 ---
 
-## 11. Możliwe rekomendacje
+## 12. Możliwe rekomendacje
 
 Raport może zawierać między innymi następujące rekomendacje:
 
@@ -169,7 +186,9 @@ Przedstawione dowody są wystarczające, a nie stwierdzono istotnych problemów.
 
 ### Odbiór warunkowy
 
-Stwierdzono problemy niewpływające istotnie na możliwość użytkowania rozwiązania, które powinny zostać usunięte w określonym terminie.
+Stwierdzono niezgodności, które nie uniemożliwiają odbioru rozwiązania zgodnie z określonymi kryteriami odbioru i mogą zostać usunięte w ustalonym terminie.
+
+Rekomendacja odbioru warunkowego powinna określać niezgodności wymagające usunięcia, termin ich usunięcia, odpowiedzialność wykonawcy, sposób ponownej weryfikacji oraz materiały dowodowe wymagane do potwierdzenia usunięcia niezgodności.
 
 ### Odmowa odbioru
 
@@ -177,16 +196,16 @@ Stwierdzono istotne niezgodności lub brak wystarczających dowodów zgodności.
 
 ---
 
-## 12. Wymagania wobec wykonawcy usługi
+## 13. Wymagania wobec wykonawcy usługi
 
-Przy wyborze wykonawcy warto oceniać:
+Warto wymagać od wykonawcy:
 
-- znajomość WCAG,
-- znajomość EN 301 549,
-- doświadczenie w odbiorach rozwiązań cyfrowych,
-- doświadczenie w analizie ACR i VPAT,
-- doświadczenie w ocenie dokumentacji testowej,
-- jakość proponowanej metody realizacji usługi.
+- znajomości WCAG,
+- znajomości EN 301 549,
+- doświadczenia w odbiorach rozwiązań cyfrowych,
+- doświadczenia w ocenie materiałów dowodowych dotyczących dostępności cyfrowej, w tym raportów zgodności, wyników testów i dokumentacji projektowej,
+- braku konfliktu interesów i niezależności od wykonawcy ocenianego rozwiązania..
+
 
 Wykonawca powinien opisać w ofercie:
 
@@ -197,7 +216,7 @@ Wykonawca powinien opisać w ofercie:
 
 ---
 
-## 13. Ocena zgodności przed odbiorem a audyt zgodności
+## 14. Ocena zgodności przed odbiorem a audyt zgodności
 
 | Ocena zgodności przed odbiorem | Audyt zgodności |
 |--------------------------------|-----------------|
@@ -209,7 +228,7 @@ Wykonawca powinien opisać w ofercie:
 
 ---
 
-## 14. Najważniejsza zasada
+## 15. Najważniejsza zasada
 
 Najbardziej efektywny model odbioru polega na tym, że wykonawca wykazuje zgodność rozwiązania, a zamawiający weryfikuje przedstawione dowody.
 

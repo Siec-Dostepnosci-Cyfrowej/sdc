@@ -26,11 +26,11 @@ Usługi badania i oceniania dostępności cyfrowej są usługami eksperckimi.
 
 O ich wartości decydują przede wszystkim:
 
-* adekwatność proponowanego zakresu,
-* jakość podejścia metodologicznego,
-* wiarygodność i użyteczność wyników,
-* doświadczenie wykonawcy,
-* kompetencje zespołu realizującego usługę.
+- adekwatność proponowanego zakresu,
+- jakość podejścia metodologicznego,
+- wiarygodność i użyteczność wyników,
+- doświadczenie wykonawcy,
+- kompetencje zespołu realizującego usługę.
 
 Dlatego nie zaleca się oceny ofert wyłącznie na podstawie ceny ani stosowania kryteriów opartych wyłącznie na liczbie wykonanych usług lub liczbie posiadanych certyfikatów.
 
@@ -60,12 +60,12 @@ Ocena, czy wykonawca prawidłowo rozumie cel zamówienia oraz czy proponowany za
 
 W szczególności:
 
-* zrozumienie celu usługi,
-* dobór elementów objętych badaniem,
-* dobór próby badawczej,
-* uwzględnienie kluczowych funkcjonalności,
-* uwzględnienie najważniejszych procesów użytkownika,
-* proporcjonalność zakresu do celu usługi.
+- zrozumienie celu usługi,
+- dobór elementów objętych badaniem,
+- dobór próby badawczej,
+- uwzględnienie kluczowych funkcjonalności,
+- uwzględnienie najważniejszych procesów użytkownika,
+- proporcjonalność zakresu do celu usługi.
 
 ### Skala oceny
 
@@ -87,12 +87,12 @@ Ocena sposobu realizacji usługi zaproponowanego przez wykonawcę.
 
 W szczególności:
 
-* sposób rozumienia celu usługi,
-* proponowane metody badawcze,
-* sposób doboru próby,
-* sposób dokumentowania ustaleń,
-* sposób formułowania wniosków i rekomendacji,
-* spójność proponowanego podejścia.
+- sposób rozumienia celu usługi,
+- proponowane metody badawcze,
+- sposób doboru próby,
+- sposób dokumentowania ustaleń,
+- sposób formułowania wniosków i rekomendacji,
+- spójność proponowanego podejścia.
 
 ### Skala oceny
 
@@ -114,13 +114,13 @@ Ocena sposobu przedstawiania wyników badania oraz użyteczności rezultatów us
 
 W szczególności:
 
-* opis rezultatów usługi,
-* proponowana struktura raportu,
-* sposób prezentowania wyników,
-* sposób dokumentowania niezgodności,
-* sposób prezentowania materiału dowodowego,
-* sposób formułowania rekomendacji,
-* jakość przedstawionej próbki raportu.
+- opis rezultatów usługi,
+- proponowana struktura raportu,
+- sposób prezentowania wyników,
+- sposób dokumentowania niezgodności,
+- sposób prezentowania materiału dowodowego,
+- sposób formułowania rekomendacji,
+- jakość przedstawionej próbki raportu.
 
 ### Skala oceny
 
@@ -142,11 +142,11 @@ Ocena, czy wykonawca wykazał doświadczenie adekwatne do przedmiotu zamówienia
 
 W szczególności:
 
-* podobieństwo realizowanych usług do przedmiotu zamówienia,
-* zakres wykonywanych prac,
-* złożoność realizowanych projektów,
-* opis osiągniętych rezultatów,
-* możliwość oceny i ewentualnej weryfikacji przedstawionych informacji.
+- podobieństwo realizowanych usług do przedmiotu zamówienia,
+- zakres wykonywanych prac,
+- złożoność realizowanych projektów,
+- opis osiągniętych rezultatów,
+- możliwość oceny i ewentualnej weryfikacji przedstawionych informacji.
 
 ### Skala oceny
 
@@ -174,11 +174,11 @@ Ocena, czy osoby wskazane do realizacji usługi posiadają kompetencje niezbędn
 
 W szczególności:
 
-* doświadczenie osób realizujących usługę,
-* specjalizacje członków zespołu,
-* podział ról w zespole,
-* adekwatność kompetencji do przedmiotu zamówienia,
-* sposób przedstawienia kompetencji w ofercie.
+- doświadczenie osób realizujących usługę,
+- specjalizacje członków zespołu,
+- podział ról w zespole,
+- adekwatność kompetencji do przedmiotu zamówienia,
+- sposób przedstawienia kompetencji w ofercie.
 
 ### Skala oceny
 

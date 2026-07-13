@@ -42,29 +42,7 @@ Przedmiotem oceny jest organizacja, a nie pojedynczy produkt, dokument lub usłu
 
 ---
 
-# 2. Czym ocena dojrzałości nie jest
-
-Ocena dojrzałości nie jest:
-
-- audytem zgodności,
-- oceną strony internetowej,
-- oceną aplikacji mobilnej,
-- oceną pojedynczego procesu,
-- oceną kompetencji pojedynczych pracowników.
-
-Nie służy ustalaniu zgodności z wymaganiami WCAG lub EN 301 549.
-
-Nie odpowiada na pytanie:
-
-> Czy konkretna strona internetowa jest dostępna?
-
-Odpowiada natomiast na pytanie:
-
-> Czy organizacja potrafi systemowo zapewniać dostępność swoich stron, usług, dokumentów i systemów?
-
----
-
-# 3. Kiedy warto przeprowadzić ocenę dojrzałości
+# 2. Kiedy warto przeprowadzić ocenę dojrzałości
 
 Ocena dojrzałości jest szczególnie przydatna, gdy organizacja:
 
@@ -78,7 +56,7 @@ Ocena dojrzałości jest szczególnie przydatna, gdy organizacja:
 
 ---
 
-# 4. Co powinno być przedmiotem oceny
+# 3. Co powinno być przedmiotem oceny
 
 Ocena dojrzałości powinna obejmować przede wszystkim sposób działania organizacji.
 
@@ -129,7 +107,7 @@ Przykładowe obszary oceny:
 
 ---
 
-# 5. Jakie metody mogą być wykorzystywane
+# 4. Jakie metody mogą być wykorzystywane
 
 Ocena dojrzałości może wykorzystywać różne źródła informacji.
 
@@ -165,7 +143,7 @@ Przykładowo:
 
 ---
 
-# 6. Jak określić zakres zamówienia
+# 5. Jak określić zakres zamówienia
 
 Opis przedmiotu zamówienia powinien określać:
 
@@ -184,7 +162,7 @@ Organizacja powinna jednoznacznie określić, czy oczekuje:
 
 ---
 
-# 7. Jakich rezultatów oczekiwać
+# 6. Jakich rezultatów oczekiwać
 
 Ocena dojrzałości powinna dostarczać informacji umożliwiających podejmowanie decyzji zarządczych.
 
@@ -203,7 +181,7 @@ Powinien wyjaśniać przyczyny oceny oraz wskazywać możliwe kierunki rozwoju.
 
 ---
 
-# 8. Jak wykorzystywać wyniki oceny
+# 7. Jak wykorzystywać wyniki oceny
 
 Ocena dojrzałości powinna prowadzić do decyzji.
 
@@ -223,7 +201,7 @@ Pozwala to obserwować rozwój organizacji w czasie.
 
 ---
 
-# 9. Najczęstsze błędy
+# 8. Najczęstsze błędy
 
 ## Traktowanie oceny dojrzałości jak audytu
 
