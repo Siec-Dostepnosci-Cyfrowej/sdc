@@ -153,7 +153,16 @@ Przykładowe narzędzia:
 - Siteimprove,
 - ARC Toolkit,
 - inne równoważne narzędzia.
+### Krok 2
 
+Określ zakres analizy.
+
+Uwzględnij w szczególności:
+
+- stronę główną,
+- typowe szablony podstron,
+- strony z formularzami,
+- kluczowe procesy realizowane w serwisie.
 ### Krok 2
 
 Uruchom analizę badanej strony lub aplikacji.
