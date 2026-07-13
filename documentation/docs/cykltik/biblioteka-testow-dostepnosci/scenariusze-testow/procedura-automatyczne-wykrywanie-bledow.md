@@ -255,7 +255,7 @@ Najczęściej wykrywane problemy:
 
 ## 15. Ustalenia
 
-Miejsce na opis wyników analizy, wykrytych problemów oraz dalszych działań.
+Miejsce na opis wyników analizy, wykrytych błędów oraz dalszych działań.
 
 ---
 
