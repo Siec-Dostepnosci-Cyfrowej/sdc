@@ -38,7 +38,7 @@ Zgodnie z dokumentem Profilowanie scenariuszy testów dostępności cyfrowej
 
 ## 4. Opis procedury
 
-Procedura służy do identyfikowania problemów dostępności cyfrowej możliwych do wykrycia przy użyciu narzędzi automatycznych.
+Procedura służy do identyfikowania błędów dostępności cyfrowej możliwych do wykrycia przy użyciu narzędzi automatycznych.
 
 ### Czym jest automatyczne wykrywanie błędów?
 
