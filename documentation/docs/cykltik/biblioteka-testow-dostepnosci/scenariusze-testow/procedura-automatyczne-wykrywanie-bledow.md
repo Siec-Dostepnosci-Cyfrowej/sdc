@@ -74,15 +74,17 @@ Wyniki analizy należy zawsze interpretować krytycznie.
 
 ## 5. Mapowanie do standardów
 
-### WCAG 2.1
+Narzędzia automatyczne wykrywają błędy dotyczące wielu kryteriów sukcesu WCAG oraz odpowiadających im wymagań normy EN 301 549 dotyczących stron internetowych, w szczególności związane z:
+- brakującymi tekstami alternatywnymi,
+- błędami struktury nagłówków,
+- błędami kontrastu,
+- brakiem lub pustym tytułem strony,
+- brakiem określenia języka strony,
+- błędami formularzy,
+- błędami ARIA i nazw dostępnościowych,
+- błędami semantycznymi.
 
-Procedura może wspierać identyfikację problemów związanych z wieloma kryteriami sukcesu WCAG.
-
-Nie stanowi jednak samodzielnego badania zgodności z żadnym konkretnym kryterium sukcesu.
-
-### EN 301 549
-
-Procedura może wspierać identyfikację niezgodności dotyczących różnych wymagań normy EN 301 549.
+Automatyczne wykrywanie błędów dostępności nie stanowi samodzielnego badania zgodności z żadnym wymaganiem dostępności.
 
 ---
 
