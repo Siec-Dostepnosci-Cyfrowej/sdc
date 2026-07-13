@@ -5,7 +5,7 @@ sidebar_label: Automatyczne wykrywanie błędów (strony internetowe)
 sidebar_position: 17
 description: Procedura diagnostyczna wspierająca identyfikację problemów dostępności cyfrowej przy użyciu narzędzi automatycznych.
 keywords: [testowanie automatyczne, narzędzia dostępności, WAVE, Lighthouse, axe, SiteLint, diagnostyka dostępności]
-tags: [procedura diagnostyczna, dostępność cyfrowa, WCAG, okresowa ocena zgodności]
+tags: [procedura, dostępność cyfrowa, WCAG, okresowa ocena zgodności]
 opracowanie: Sieć Dostępności Cyfrowej
 data_zgloszenia: 11 czerwca 2026 r.
 ostatnia_aktualizacja: 11 czerwca 2026 r.
