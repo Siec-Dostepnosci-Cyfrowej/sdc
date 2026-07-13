@@ -240,7 +240,7 @@ Analiza nie została przeprowadzona.
 
 ---
 
-## 12. Typowe nieprawidłowości
+## 12. Typowe niezgodności
 
 Najczęściej wykrywane problemy:
 
