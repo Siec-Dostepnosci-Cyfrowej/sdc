@@ -20,14 +20,6 @@ wersja_robocza: true
 
 **Automatyczne wykrywanie błędów dostępności aplikacji mobilnej**
 
-## 3. Profil stosowania testu
-
-Najniższy profil stosowania: **profil wstępny**
-
-## 4. Opis testu
-
-Test sprawdza, czy organizacja wykorzystuje narzędzia automatyczne do identyfikowania problemów dostępności aplikacji mobilnych oraz czy wyniki analiz są wykorzystywane w procesie zapewniania jakości i dostępności.
-
 ### Co oznacza „automatyczne wykrywanie błędów dostępności”?
 
 Automatyczne wykrywanie błędów polega na wykorzystaniu narzędzi programowych analizujących aplikację pod kątem występowania znanych problemów dostępności.
