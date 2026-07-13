@@ -275,7 +275,7 @@ lub
 - Powiązać błędy z odpowiednimi kartami testów.
 - Usunąć potwierdzone niezgodności.
 - Powtórzyć analizę po wdrożeniu poprawek.
-- Wykonać testy ręczne dla obszarów nieweryfikowalnych automatycznie.
+- Wykonać testy manualne dla obszarów nieweryfikowalnych automatycznie.
 
 ---
 
