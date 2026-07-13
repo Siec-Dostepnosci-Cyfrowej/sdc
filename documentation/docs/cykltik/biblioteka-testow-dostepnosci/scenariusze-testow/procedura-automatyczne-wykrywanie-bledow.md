@@ -99,7 +99,7 @@ Automatyczną analizę stosuje się do:
 
 ---
 
-## 7. Oczekiwany rezultat
+## 7. Oczekiwany wynik
 
 Procedurę uznaje się za prawidłowo przeprowadzoną, jeżeli:
 
