@@ -61,10 +61,12 @@ Lista nie jest wyczerpująca; zakres wykrywanych błędów zależy od zastosowan
 
 Automatyczna analiza:
 
-- nie potwierdza zgodności z WCAG,
-- nie zastępuje testów ręcznych,
+- wykrywa tylko część błędów dostępności,
+- może zwracać wyniki fałszywie pozytywne i fałszywie negatywne, wynikające z ograniczeń samego narzędzia oraz jakości kodu weryfikowanego systemu,
+- nie potwierdza zgodności z wymaganiami dostępności,
+- nie zastępuje testów manualnych,
 - nie zastępuje audytu eksperckiego,
-- nie wykrywa wielu problemów związanych ze zrozumiałością, użytecznością i funkcjonalnością.
+- nie wykrywa wielu barier związanych ze zrozumiałością, użytecznością i funkcjonalnością.
 
 Wyniki analizy należy zawsze interpretować krytycznie.
 
