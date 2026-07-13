@@ -220,7 +220,7 @@ Określ konieczne działania:
 
 ---
 
-## 11. Kryteria oceny rezultatu
+## 11. Kryteria oceny wyniku
 
 ### Nie wykryto problemów automatycznie
 
