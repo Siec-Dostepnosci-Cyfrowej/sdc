@@ -1,5 +1,5 @@
 ---
-id: procedura-automatyczne-wykrywanie-bledow
+id: procedura-automatycznego-wykrywania-bledow-dostepnosci-cyfrowej-stron-internetowych
 title: Procedura automatycznego wykrywania błędów dostępności cyfrowej stron internetowych
 sidebar_label: Automatyczne wykrywanie błędów
 sidebar_position: 17
