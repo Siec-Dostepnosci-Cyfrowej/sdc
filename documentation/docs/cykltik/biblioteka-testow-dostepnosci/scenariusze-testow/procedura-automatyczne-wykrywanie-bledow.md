@@ -169,7 +169,13 @@ Uruchom analizę badanej strony lub aplikacji.
 
 ### Krok 3
 
-Zapisz wyniki badania.
+Zapisz wyniki analizy.
+
+Odnotuj co najmniej:
+
+- nazwę i wersję narzędzia,
+- datę wykonania analizy,
+- adresy badanych stron.
 
 ### Krok 4
 
