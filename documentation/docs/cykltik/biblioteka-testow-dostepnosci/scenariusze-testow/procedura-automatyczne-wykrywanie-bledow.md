@@ -172,7 +172,7 @@ Oddziel:
 
 - błędy rzeczywiste,
 - ostrzeżenia,
-- problemy wymagające weryfikacji ręcznej,
+- błędy wymagające weryfikacji manualnej,
 - fałszywe alarmy.
 
 ### Krok 6
