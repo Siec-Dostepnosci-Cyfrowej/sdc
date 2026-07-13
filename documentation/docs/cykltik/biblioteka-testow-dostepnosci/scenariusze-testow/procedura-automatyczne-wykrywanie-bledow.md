@@ -281,15 +281,17 @@ lub
 
 ## 18. Powiązane testy
 
-- Tekst alternatywny
-- Nagłówki
-- Punkty orientacyjne
-- Wystarczający kontrast
-- Etykiety powiązane programowo
-- Odczyt struktury przez czytnik ekranu
-- Odczyt formularza przez czytnik ekranu
-- Dostęp z klawiatury
-- Widoczność fokusu
-- Komunikaty o stanie
+| ID testu | Nazwa testu |
+|----------|-------------|
+| testID-019 | Nagłówki |
+| testID-023 | Dostęp z klawiatury |
+| testID-027 | Widoczność fokusu |
+| testID-031 | Punkty orientacyjne |
+| testID-032 | Wystarczający kontrast |
+| testID-033 | Tekst alternatywny |
+| testID-046 | Etykiety powiązane programowo |
+| testID-047 | Odczyt struktury przez czytnik ekranu |
+| testID-048 | Odczyt formularza przez czytnik ekranu |
+| testID-069 | Komunikaty o stanie |
 
 ---
