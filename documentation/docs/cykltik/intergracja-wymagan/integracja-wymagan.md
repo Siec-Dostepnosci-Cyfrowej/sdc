@@ -44,11 +44,13 @@ Już na etapie planowania warto odpowiedzieć sobie na kilka podstawowych pytań
  3. Czy planowane rozwiązanie nie będzie wymagało późniejszych, kosztownych zmian?
 
 Na tym etapie organizacja powinna przede wszystkim:
- - określić wymagania dostępności dla najważniejszych procesów użytkownika, 
- - przeanalizować, w których miejscach mogą pojawić się bariery utrudniające skorzystanie z usługi, 
- - uwzględnić różne sposoby korzystania z rozwiązania, w tym obsługę z klawiatury, korzystanie z technologii wspomagających, możliwość powiększania treści czy korzystania bez dźwięku, 
- - uwzględnić wymagania dostępności przy planowaniu modernizacji istniejących usług i systemów, 
- - potraktować dostępność jako jedno z wymagań jakościowych projektu, a nie dodatkowy element realizowany na końcu. 
+
+- określić wymagania dostępności dla najważniejszych procesów użytkownika,
+- przeanalizować, w których miejscach mogą pojawić się bariery utrudniające skorzystanie z usługi,
+- uwzględnić różne sposoby korzystania z rozwiązania, w tym obsługę z klawiatury, korzystanie z technologii wspomagających, możliwość powiększania treści czy korzystania bez dźwięku,
+- uwzględnić wymagania dostępności przy planowaniu modernizacji istniejących usług i systemów,
+- potraktować dostępność jako jedno z wymagań jakościowych projektu, a nie dodatkowy element realizowany na końcu.
+
 W przypadku niewielkich zmian nie zawsze jest konieczne przygotowywanie rozbudowanych analiz. Często wystarczy krótka lista pytań kontrolnych lub przeanalizowanie podstawowych scenariuszy korzystania z usługi. Ważne jest jednak, aby kwestia dostępności została świadomie uwzględniona przed rozpoczęciem prac.
     
 **2. Dokumentacja i zamówienia powinny jednoznacznie określać wymagania dostępności**
