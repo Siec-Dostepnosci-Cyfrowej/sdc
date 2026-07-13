@@ -1,7 +1,7 @@
 ---
 id: integracja-wymagan
 title: Integracja wymagań dostępności w całym cyklu projektowym (Accessibility by Design)
-description: uzasadnienie
+description: Uwzględnianie wymagań dostępności na wszystkich etapach cyklu życia usługi
 sidebar_label: Integrator
 sidebar_position: 1 
 data_zgloszenia: 27 kwietnia 2026 r.
