@@ -238,7 +238,7 @@ Najczęściej wykrywane problemy:
 
 - Korzystanie z więcej niż jednego narzędzia.
 - Powtarzanie analiz po każdej większej zmianie serwisu.
-- Łączenie wyników automatycznych z testami ręcznymi.
+- Łączenie wyników automatycznych z testami manualnymi.
 - Dokumentowanie wyników i działań naprawczych.
 - Regularne monitorowanie kluczowych podstron.
 
