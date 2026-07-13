@@ -194,7 +194,7 @@ Przykładowo:
 Określ konieczne działania:
 
 - naprawa,
-- dodatkowe testy ręczne,
+- dodatkowe testy manualne,
 - pełny audyt ekspercki.
 
 ---
