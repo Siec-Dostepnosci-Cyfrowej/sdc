@@ -244,14 +244,15 @@ Analiza nie została przeprowadzona.
 
 Najczęściej wykrywane błędy wskazujące na niezgodności:
 
-- brak tekstów alternatywnych,
-- brak etykiet formularzy,
+- brakujące teksty alternatywne,
+- błędy struktury nagłówków,
 - błędy kontrastu,
-- brak nagłówków,
-- błędy ARIA,
-- brak nazw dostępnościowych,
-- zduplikowane identyfikatory,
-- błędy struktury dokumentu.
+- brak lub pusty tytuł strony,
+- brak określenia języka strony,
+- błędy formularzy,
+- błędy ARIA i nazw dostępnościowych,
+- błędy semantyczne,
+- zduplikowane identyfikatory.
 
 ---
 
