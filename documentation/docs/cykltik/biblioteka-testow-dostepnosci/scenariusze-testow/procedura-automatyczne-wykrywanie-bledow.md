@@ -179,7 +179,7 @@ Odnotuj co najmniej:
 
 ### Krok 4
 
-Przeanalizuj wykryte problemy.
+Przeanalizuj wykryte błędy.
 
 Dla każdego problemu określ:
 
