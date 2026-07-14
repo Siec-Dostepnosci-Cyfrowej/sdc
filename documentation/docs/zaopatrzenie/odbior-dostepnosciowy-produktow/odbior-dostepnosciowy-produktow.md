@@ -2,12 +2,10 @@
 id: odbior-dostepnosciowy-produktow
 title: Odbiór dostępnosciowy produktów i usług
 description: Odbiór dostępnościowy jest elementem odbioru zamówienia oraz etapem, w którym weryfikuje się spełnienie wymagań określonych w zamówieniu.
-Jasne określenie dz...
 sidebar_label: Zalecenie
 sidebar_position: 0
 data_zgloszenia: 14 lipca 2026
 ostatnia_aktualizacja: 14 lipca 2026
-
 opracowanie: Joanna Nietupska
 wersja_robocza: true
 ---
