@@ -1,5 +1,5 @@
 ---
-id: monitoring-i-ocena dojrzalosci
+id: monitoring-i-ocena-dojrzalosci
 title: Monitoring i ocena dojrzałości organizacji w zakresie zapewniania dostępności cyfrowej
 description: Monitoring i ocena dojrzałości
 sidebar_position: 4
@@ -266,9 +266,9 @@ Kierownictwo organizacji odpowiada za:
 
 ---
 
-### 6.2. Sponsor wykonawczy dostępności
+### 6.2. Sponsor wykonawczy ds. dostępności
 
-Sponsor wykonawczy dostępności odpowiada za:
+Sponsor wykonawczy ds. dostępności odpowiada za:
 
 - wspieranie działań doskonalących,
 - usuwanie barier organizacyjnych,
@@ -277,9 +277,9 @@ Sponsor wykonawczy dostępności odpowiada za:
 
 ---
 
-### 6.3. Koordynator dostępności
+### 6.3. Koordynator ds. dostępności cyfrowej
 
-Koordynator dostępności odpowiada za:
+Koordynator ds. dostępności cyfrowej odpowiada za:
 
 - organizację monitorowania,
 - analizę problemów systemowych,
@@ -682,10 +682,10 @@ Raportowanie wspiera:
 Raporty mogą być przygotowywane dla:
 
 - kierownictwa organizacji,
-- sponsora wykonawczego dostępności,
+- sponsora wykonawczego ds. dostępności,
 - właścicieli procesów,
 - właścicieli usług publicznych,
-- koordynatora dostępności,
+- koordynatora ds. dostępności cyfrowej,
 - zespołów realizujących działania.
 
 ---

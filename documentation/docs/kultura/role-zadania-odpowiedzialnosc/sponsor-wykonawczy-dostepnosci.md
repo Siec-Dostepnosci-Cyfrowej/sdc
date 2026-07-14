@@ -1,9 +1,9 @@
 ---
 id: sponsor-wykonawczy-dostepnosci
-title: Sponsor wykonawczy dostępności
+title: Sponsor wykonawczy ds. dostępności
 sidebar_label: Sponsor wykonawczy
 sidebar_position: 11
-description: Określa cel, zakres zadań, odpowiedzialności roli Sponsor wykonawczy dostępności w systemie zarządzania dostępnością cyfrową. 
+description: Określa cel, zakres zadań, odpowiedzialności roli Sponsor wykonawczy ds. dostępności w systemie zarządzania dostępnością cyfrową. 
 keywords: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie, role, odpowiedzialności,kwalifikacje,kompetencje]
 tags:  [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie, role, odpowiedzialności,kwalifikacje,kompetencje]
 opracowanie: Stefan Wajda 
@@ -19,11 +19,11 @@ wersja_robocza: true
 
 | Pole | Opis |
 |---|---|
-| Nazwa roli | Sponsor wykonawczy dostępności |
+| Nazwa roli | Sponsor wykonawczy ds. dostępności |
 | Kategoria roli | organizacyjna |
 | Poziom odpowiedzialności | strategiczny / organizacyjny |
 | Powiązane procesy | zarządzanie systemem dostępności cyfrowej, monitoring i ocena, doskonalenie systemu |
-| Powiązane role | kierownictwo organizacji, koordynator dostępności, właściciele procesów, kierownicy komórek organizacyjnych |
+| Powiązane role | kierownictwo organizacji, koordynator ds. dostępności cyfrowej, właściciele procesów, kierownicy komórek organizacyjnych |
 | Wersja karty | 1.0 |
 | Data opracowania | 12 maja 2026 r. |
 
@@ -56,7 +56,7 @@ Sponsor wykonawczy:
 
 Rola:
 - nie zastępuje kierownictwa organizacji,
-- nie zastępuje koordynatora dostępności,
+- nie zastępuje koordynatora ds. dostępności cyfrowej,
 - nie przejmuje odpowiedzialności za działania operacyjne.
 
 ---
@@ -65,7 +65,7 @@ Rola:
 
 #### Rola współpracuje z:
 - kierownictwem organizacji,
-- koordynatorem dostępności,
+- koordynatorem ds. dostępności cyfrowej,
 - właścicielami procesów,
 - kierownikami komórek organizacyjnych,
 - osobami odpowiedzialnymi za monitoring i raportowanie.
@@ -78,7 +78,7 @@ Rola:
 
 #### Rola otrzymuje wsparcie od:
 - kierownictwa organizacji,
-- koordynatora dostępności,
+- koordynatora ds. dostępności cyfrowej,
 - analityków,
 - audytorów,
 - ekspertów.
@@ -250,14 +250,14 @@ Rola zwykle:
 - niejasne umocowanie organizacyjne roli,
 - utożsamienie roli z funkcją formalną bez realnego wpływu,
 - brak współpracy z kierownictwem,
-- brak współpracy z koordynatorem dostępności,
+- brak współpracy z koordynatorem ds. dostępności cyfrowej,
 - traktowanie roli wyłącznie reprezentacyjnie.
 
 ---
 
 ## 12. Typowe błędy organizacyjne
 
-- utożsamianie sponsora z koordynatorem dostępności,
+- utożsamianie sponsora z koordynatorem ds. dostępności cyfrowej,
 - brak rzeczywistego wsparcia kierowniczego,
 - ograniczenie roli do formalnego patronatu,
 - brak wpływu na decyzje organizacyjne,
@@ -300,7 +300,7 @@ Sponsor:
 
 ## 15. Uwagi końcowe
 
-Sponsor wykonawczy dostępności pełni rolę organizacyjnego łącznika pomiędzy:
+Sponsor wykonawczy ds. dostępności pełni rolę organizacyjnego łącznika pomiędzy:
 - kierownictwem organizacji,
 - koordynacją dostępności,
 - właścicielami procesów,

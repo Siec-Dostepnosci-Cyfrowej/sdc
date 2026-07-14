@@ -20,7 +20,7 @@ wersja_robocza: true
 | Kategoria roli | procesowa / kompetencyjna |
 | Poziom odpowiedzialności | operacyjny / ekspercki |
 | Powiązane procesy | Projektowanie, rozwój i utrzymanie dostępnych usług publicznych; Monitoring, kontrola i ocena dostępności; Doskonalenie systemu zapewniania dostępności cyfrowej; Zarządzanie systemem dostępności cyfrowej |
-| Powiązane role | Właściciel usługi publicznej; Projektant usługi publicznej; Koordynator dostępności; Analityk dostępności; Tester dostępności; Kierownik komórki organizacyjnej; Specjalista ds. komunikacji dostępnej; Właściciel procesu |
+| Powiązane role | Właściciel usługi publicznej; Projektant usługi publicznej; Koordynator ds. dostępności cyfrowej; Analityk dostępności; Tester dostępności; Kierownik komórki organizacyjnej; Specjalista ds. komunikacji dostępnej; Właściciel procesu |
 | Wersja karty | 1.0 |
 | Data opracowania | 2026-05-15 |
 
@@ -62,7 +62,7 @@ Rola wspiera:
 ##### Rola współpracuje z:
 - właścicielem usługi publicznej,
 - projektantem usługi publicznej,
-- koordynatorem dostępności,
+- koordynatorem ds. dostępności cyfrowej,
 - analitykiem dostępności,
 - testerami dostępności,
 - zespołami IT,
@@ -292,7 +292,7 @@ Rola wspiera:
 
 W małej organizacji rola może być realizowana przez:
 
-- koordynatora dostępności,
+- koordynatora ds. dostępności cyfrowej,
 - właściciela usługi,
 - kierownika komórki organizacyjnej,
 - osobę odpowiedzialną za monitoring i jakość.

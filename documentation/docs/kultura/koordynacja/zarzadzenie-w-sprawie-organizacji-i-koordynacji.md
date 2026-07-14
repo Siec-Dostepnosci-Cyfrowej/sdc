@@ -1,11 +1,11 @@
 ---
 id: zarzadzenie-w-sprawie-organizacji-i-koordynacji
 title: Szablon zarządzenie w sprawie organizacji i koordynacji zapewniania dostępności
-sidebar_label: Szabon zarządzenia  
+sidebar_label: Szablon zarządzenia  
 sidebar_position: 1
-description: Szabon zarządzenia w sprawie organizacji i koordynacji zapewniania dostępności
-keywords: [kultura organziacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępności cyfrowej, koordynacja dostępnością cyfrową]
-tags: [kultura organziacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępności cyfrowej, koordynacja dostępnością cyfrową]
+description: Szablon zarządzenia w sprawie organizacji i koordynacji zapewniania dostępności
+keywords: [kultura organizacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępności cyfrowej, koordynacja dostępnością cyfrową]
+tags: [kultura organizacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępności cyfrowej, koordynacja dostępnością cyfrową]
 opracowanie: Stefan Wajda
 data_zgloszenia: 21 grudnia 2025 r.
 ostatnia_aktualizacja: 20 lutego 2026 r.
@@ -34,7 +34,7 @@ wersja_robocza: true
 
 ---
 
-## § 3. Powołanie Zespołu ds. Dostępności
+## § 3. Powołanie zespołu ds. dostępności
 
 1. Powołuje się **Zespół ds. Dostępności**, zwany dalej „Zespołem”.
 2. **Celem Zespołu jest projektowanie, wprowadzanie i utrwalanie w funkcjonowaniu [nazwa podmiotu] zmian, które zapewnią możliwie najpełniejszą dostępność architektoniczną, cyfrową oraz informacyjno-komunikacyjną wszystkich realizowanych w [nazwa podmiotu] procesów i usług.**

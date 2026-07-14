@@ -22,7 +22,7 @@ wersja_robocza: true
 | Kategoria roli | techniczna / operacyjna |
 | Poziom odpowiedzialności | operacyjny / ekspercki |
 | Powiązane procesy | publikacja i utrzymanie treści cyfrowych, zarządzanie systemami IT, zapewnianie dostępności systemów publikacyjnych, działania naprawcze |
-| Powiązane role | osoby publikujące, administratorzy systemów IT, specjaliści ds. remediacji, koordynator dostępności, właściciele procesów, testerzy dostępności |
+| Powiązane role | osoby publikujące, administratorzy systemów IT, specjaliści ds. remediacji, koordynator ds. dostępności cyfrowej, właściciele procesów, testerzy dostępności |
 | Wersja karty | 1.0 |
 | Data opracowania | 12 maja 2026 r. |
 
@@ -70,7 +70,7 @@ Rola:
 - administratorami systemów IT,
 - specjalistami ds. remediacji,
 - testerami dostępności,
-- koordynatorem dostępności,
+- koordynatorem ds. dostępności cyfrowej,
 - właścicielami procesów,
 - dostawcami systemów i usług.
 

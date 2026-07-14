@@ -71,7 +71,7 @@ Rola:
 - administratorami systemów,
 - testerami dostępności i testerami technicznymi,
 - właścicielami obszarów merytorycznych,
-- koordynatorem dostępności.
+- koordynatorem ds. dostępności cyfrowej.
 
 #### Rola wspiera:
 - organizację projektowania usług cyfrowych,

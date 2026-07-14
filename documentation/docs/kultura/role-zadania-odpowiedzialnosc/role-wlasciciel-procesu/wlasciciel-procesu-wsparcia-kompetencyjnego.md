@@ -21,7 +21,7 @@ wersja_robocza: true
 | Kategoria roli | procesowa / organizacyjna / wspierająca |
 | Poziom odpowiedzialności | zarządczy / strategiczny |
 | Powiązane procesy | wsparcie kompetencyjne i rozwój zdolności organizacji, organizacja systemu dostępności cyfrowej, monitoring i ocena dojrzałości, działania naprawcze |
-| Powiązane role | specjaliści ds. wsparcia kompetencyjnego i rozwoju zdolności organizacji, kierownicy komórek organizacyjnych, właściciele procesów, koordynator dostępności, analitycy dostępności |
+| Powiązane role | specjaliści ds. wsparcia kompetencyjnego i rozwoju zdolności organizacji, kierownicy komórek organizacyjnych, właściciele procesów, koordynator ds. dostępności cyfrowej, analitycy dostępności |
 | Wersja karty | 1.0 |
 | Data opracowania | 13 maja 2026 r. |
 
@@ -69,7 +69,7 @@ Rola:
 - specjalistami ds. wsparcia kompetencyjnego i rozwoju zdolności organizacji,
 - kierownikami komórek organizacyjnych,
 - właścicielami procesów,
-- koordynatorem dostępności,
+- koordynatorem ds. dostępności cyfrowej,
 - analitykami i audytorami dostępności,
 - właścicielami obszarów merytorycznych.
 
@@ -88,7 +88,7 @@ Rola:
 - właścicieli procesów.
 
 #### Rola raportuje do:
-- właściciela procesu zarządzania systemem dostępności, sponsora wykonawczego dostępności lub kierownictwa organizacji.
+- właściciela procesu zarządzania systemem dostępności, sponsora wykonawczego ds. dostępności lub kierownictwa organizacji.
 
 ---
 

@@ -48,7 +48,7 @@ Brak jasno określonych ról i odpowiedzialności prowadzi w szczególności do:
 - rozproszenia odpowiedzialności,
 - działań incydentalnych,
 - problemów powtarzalnych,
-- przeciążenia koordynatora dostępności,
+- przeciążenia koordynatora ds. dostępności cyfrowej,
 - braku trwałości działań.
 
 Skuteczny system odpowiedzialności:
@@ -77,7 +77,7 @@ Role i odpowiedzialność powinny być powiązane w szczególności z:
 
 ### 3.2. Odpowiedzialność nie jest przypisana wyłącznie koordynatorowi
 
-Koordynator dostępności:
+Koordynator ds. dostępności cyfrowej:
 - wspiera organizację działania,
 - koordynuje działania,
 - wspiera rozwijanie systemu,
@@ -156,7 +156,7 @@ Dla każdego procesu organizacja określa:
 Właściciel procesu:
 - odpowiada za organizację działania,
 - nadzoruje realizację zadań,
-- współpracuje z koordynatorem dostępności,
+- współpracuje z koordynatorem ds. dostępności cyfrowej,
 - uczestniczy w doskonaleniu procesu.
 
 ---
@@ -175,7 +175,7 @@ Organizacja określa:
 Szczególne znaczenie ma współpraca między:
 - redaktorami i właścicielami treści,
 - zespołami IT i biznesowymi,
-- koordynatorem dostępności i kierownictwem,
+- koordynatorem ds. dostępności cyfrowej i kierownictwem,
 - osobami monitorującymi i realizującymi zadania.
 
 ---

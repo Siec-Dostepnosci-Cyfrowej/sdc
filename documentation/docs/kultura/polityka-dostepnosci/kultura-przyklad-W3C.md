@@ -7,14 +7,14 @@ description: Przykładowa polityka dostępności cyfrowej - opracowanie W3C
 keywords: [
         polityka dostępności,
         dostępność cyfrowa,
-        kultura organziacyjna,
+        kultura organizacyjna,
 		zarządzanie,
 		dobra praktyka
 ]
 tags: [
         polityka dostępności,
         dostępność cyfrowa,
-        kultura organziacyjna,
+        kultura organizacyjna,
 		zarządzanie,
 		dobra praktyka
 ]
@@ -57,7 +57,7 @@ W3C, [Example of a Comprehensive Organizational Policy](https://www.w3.org/WAI/p
 ## 2. Deklaracja polityki
 
 1. Wszystkie nowe i zmienione treści internetowe opublikowane przez firmę ACME Inc. po dacie wejścia w życie niniejszej polityki, zarówno w przypadku witryn i usług publicznych, jak i wewnętrznych, będą zgodne z kryteriami sukcesu WCAG 2.0 poziomu AA.
-2. Wszystkie istniejące treści internetowe opublikowane przed datą wejścia w życie niniejszej polityki zostaną zarchiwizowane lub zmodyfikowane zgodnie z kryteriami WCAG 2.0 Poziom AA. Treści internetowe hostowane na publicznych stronach internetowych firmy ACME Inc. zostaną zaktualizowane najpóźniej do sierpnia 20XX r. Treści internetowe hostowane na wewnętrznych stronach internetowych zostaną zaktualizowane najpóźniej do września 2016 r.
+2. Wszystkie istniejące treści internetowe opublikowane przed datą wejścia w życie niniejszej polityki zostaną zarchiwizowane lub zmodyfikowane zgodnie z kryteriami WCAG 2.0 poziomu AA. Treści internetowe hostowane na publicznych stronach internetowych firmy ACME Inc. zostaną zaktualizowane najpóźniej do sierpnia 20XX r. Treści internetowe hostowane na wewnętrznych stronach internetowych zostaną zaktualizowane najpóźniej do września 2016 r.
 3. Do stycznia 2016 r. wszystkie wewnętrzne systemy zarządzania treścią (CMS) i narzędzia do tworzenia treści internetowych będą zgodne z kryteriami sukcesu ATAG poziomu AA. W przypadku witryn internetowych, usług lub aplikacji, które dają użytkownikom możliwość generowania treści, udostępniane interfejsy będą zgodne z kryteriami ATAG poziomu AA.
 4. Do stycznia 2016 r. wszystkie wewnętrzne aplikacje użytkownika będą zgodne z kryteriami sukcesu UAAG poziomu AA. W przypadku gdy aplikacje użytkownika są wykorzystywane w ramach witryny internetowej, usługi lub aplikacji, np. odtwarzacza multimedialnego, będą zgodne z kryteriami sukcesu UAAG poziomu AA do października 20XX r.
 5. Niniejsza polityka nie określa żadnej konkretnej technologii ani podejścia projektowego. Celem jest maksymalizacja dostępu do stron internetowych ACME Inc. i możliwości korzystania z nich przez osoby niepełnosprawne.

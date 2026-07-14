@@ -71,7 +71,7 @@ Rola:
 - testerami dostępności i testerami technicznymi,
 - administratorami systemów,
 - specjalistami ds. zamówień dostępnych,
-- koordynatorem dostępności.
+- koordynatorem ds. dostępności cyfrowej.
 
 #### Rola wspiera:
 - organizację projektowania usług cyfrowych,
@@ -88,7 +88,7 @@ Rola:
 - specjalistów wsparcia kompetencyjnego.
 
 #### Rola raportuje do:
-- właściciela procesu zarządzania systemem dostępności, sponsora wykonawczego dostępności lub kierownictwa organizacji.
+- właściciela procesu zarządzania systemem dostępności, sponsora wykonawczego ds. dostępności lub kierownictwa organizacji.
 
 ---
 

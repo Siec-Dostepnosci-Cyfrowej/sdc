@@ -21,7 +21,7 @@ wersja_robocza: true
 | Kategoria roli | kontrolna / analityczna |
 | Poziom odpowiedzialności | ekspercki / analityczny |
 | Powiązane procesy | monitoring i ocena dostępności cyfrowej, analiza problemów systemowych, działania naprawcze, doskonalenie systemu |
-| Powiązane role | koordynator dostępności, właściciele procesów, testerzy dostępności, audytorzy, kierownicy komórek organizacyjnych, specjaliści wsparcia kompetencyjnego |
+| Powiązane role | koordynator ds. dostępności cyfrowej, właściciele procesów, testerzy dostępności, audytorzy, kierownicy komórek organizacyjnych, specjaliści wsparcia kompetencyjnego |
 | Wersja karty | 1.0 |
 | Data opracowania | 12 maja 2026 r. |
 
@@ -68,7 +68,7 @@ Rola:
 ### 3.2. Relacje organizacyjne
 
 #### Rola współpracuje z:
-- koordynatorem dostępności,
+- koordynatorem ds. dostępności cyfrowej,
 - właścicielami procesów,
 - testerami dostępności,
 - audytorami,
@@ -91,7 +91,7 @@ Rola:
 - kierownictwa organizacji.
 
 #### Rola raportuje do:
-- koordynatora dostępności, właściciela procesu monitoringu i oceny lub kierownictwa organizacji.
+- koordynatora ds. dostępności cyfrowej, właściciela procesu monitoringu i oceny lub kierownictwa organizacji.
 
 ---
 

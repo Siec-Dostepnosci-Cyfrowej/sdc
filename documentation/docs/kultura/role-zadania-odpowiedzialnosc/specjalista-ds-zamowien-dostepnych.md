@@ -20,7 +20,7 @@ wersja_robocza: true
 | Kategoria roli | organizacyjna / ekspercka |
 | Poziom odpowiedzialności | ekspercki / operacyjny |
 | Powiązane procesy | zamówienia i zakupy dostępne, projektowanie i rozwój usług cyfrowych, zarządzanie systemami IT, monitoring realizacji umów |
-| Powiązane role | właściciele procesów, koordynator dostępności, kierownicy komórek organizacyjnych, specjaliści techniczni, analitycy dostępności, osoby odbierające produkty i usługi |
+| Powiązane role | właściciele procesów, koordynator ds. dostępności cyfrowej, kierownicy komórek organizacyjnych, specjaliści techniczni, analitycy dostępności, osoby odbierające produkty i usługi |
 | Wersja karty | 1.0 |
 | Data opracowania | 12 maja 2026 r. |
 
@@ -65,7 +65,7 @@ Rola:
 
 #### Rola współpracuje z:
 - właścicielami procesów,
-- koordynatorem dostępności,
+- koordynatorem ds. dostępności cyfrowej,
 - komórkami zamówień publicznych,
 - specjalistami IT,
 - właścicielami obszarów merytorycznych,
@@ -87,7 +87,7 @@ Rola:
 - kierownictwa organizacji.
 
 #### Rola raportuje do:
-- właściciela procesu zamówień dostępnych, kierownika komórki organizacyjnej lub koordynatora dostępności.
+- właściciela procesu zamówień dostępnych, kierownika komórki organizacyjnej lub koordynatora ds. dostępności cyfrowej.
 
 ---
 

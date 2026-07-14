@@ -20,7 +20,7 @@ wersja_robocza: true
 | Kategoria roli | organizacyjna |
 | Poziom odpowiedzialności | strategiczny |
 | Powiązane procesy | wszystkie procesy systemu zapewniania dostępności cyfrowej |
-| Powiązane role | sponsor wykonawczy dostępności, koordynator dostępności, właściciele procesów, kierownicy komórek organizacyjnych |
+| Powiązane role | sponsor wykonawczy ds. dostępności, koordynator ds. dostępności cyfrowej, właściciele procesów, kierownicy komórek organizacyjnych |
 | Wersja karty | 1.0 |
 | Data opracowania | 12 maja 2026 r. |
 
@@ -54,8 +54,8 @@ Rola nie polega na wykonywaniu działań operacyjnych związanych z dostępnośc
 ### 3.2. Relacje organizacyjne
 
 #### Rola współpracuje z:
-- sponsorem wykonawczym dostępności,
-- koordynatorem dostępności,
+- sponsorem wykonawczym ds. dostępności,
+- koordynatorem ds. dostępności cyfrowej,
 - właścicielami procesów,
 - kierownikami komórek organizacyjnych,
 - osobami odpowiedzialnymi za monitoring i raportowanie.
@@ -67,8 +67,8 @@ Rola nie polega na wykonywaniu działań operacyjnych związanych z dostępnośc
 - rozwój kompetencji organizacji.
 
 #### Rola otrzymuje wsparcie od:
-- sponsora wykonawczego dostępności,
-- koordynatora dostępności,
+- sponsora wykonawczego ds. dostępności,
+- koordynatora ds. dostępności cyfrowej,
 - analityków,
 - audytorów,
 - ekspertów.
@@ -190,8 +190,8 @@ Kierownictwo podejmuje decyzje dotyczące:
 - interpretacja wyników monitorowania,
 - konsultacje eksperckie,
 - rekomendacje działań organizacyjnych,
-- wsparcie sponsora wykonawczego dostępności,
-- wsparcie koordynatora dostępności.
+- wsparcie sponsora wykonawczego ds. dostępności,
+- wsparcie koordynatora ds. dostępności cyfrowej.
 
 ---
 
@@ -246,7 +246,7 @@ Kierownictwo podejmuje decyzje dotyczące:
 - brak wsparcia kierowniczego,
 - brak zasobów,
 - brak jednoznacznej odpowiedzialności,
-- przeciążenie koordynatora dostępności,
+- przeciążenie koordynatora ds. dostępności cyfrowej,
 - brak integracji dostępności z zarządzaniem organizacją.
 
 ---

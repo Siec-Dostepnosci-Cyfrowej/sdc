@@ -206,8 +206,8 @@ Proces obejmuje w szczególności:
 W procesie uczestniczą w szczególności:
 
 - kierownictwo organizacji,
-- sponsor wykonawczy dostępności,
-- koordynator dostępności,
+- sponsor wykonawczy ds. dostępności,
+- koordynator ds. dostępności cyfrowej,
 - właściciele procesów,
 - kierownicy komórek organizacyjnych,
 - osoby odpowiedzialne za planowanie, kontrolę i sprawozdawczość.
@@ -267,7 +267,7 @@ W procesie uczestniczą w szczególności:
 - osoba publikująca,
 - redaktor jakości,
 - weryfikator dostępności,
-- koordynator dostępności.
+- koordynator ds. dostępności cyfrowej.
 
 #### Główne mechanizmy kontroli
 
@@ -330,7 +330,7 @@ W procesie uczestniczą w szczególności:
 - programiści i specjaliści IT,
 - autorzy i redaktorzy treści,
 - testerzy dostępności,
-- koordynator dostępności,
+- koordynator ds. dostępności cyfrowej,
 - przedstawiciele użytkowników i interesariuszy.
 
 #### Główne mechanizmy kontroli
@@ -413,7 +413,7 @@ W procesie uczestniczą w szczególności:
 - dostawcy systemów,
 - testerzy techniczni,
 - specjaliści ds. remediacji,
-- koordynator dostępności.
+- koordynator ds. dostępności cyfrowej.
 
 #### Główne mechanizmy kontroli
 
@@ -468,7 +468,7 @@ W procesie uczestniczą w szczególności:
 - analitycy dostępności,
 - audytorzy,
 - właściciele badanych zasobów, systemów i usług,
-- koordynator dostępności.
+- koordynator ds. dostępności cyfrowej.
 
 #### Główne mechanizmy kontroli
 
@@ -523,7 +523,7 @@ W procesie uczestniczą w szczególności:
 - obsługa prawna,
 - analitycy dostępności,
 - testerzy dostępności,
-- koordynator dostępności,
+- koordynator ds. dostępności cyfrowej,
 - kierownictwo organizacji.
 
 #### Główne mechanizmy kontroli
@@ -575,7 +575,7 @@ W procesie uczestniczą w szczególności:
 
 - właściciel procesu wsparcia kompetencyjnego,
 - specjaliści ds. kadr lub rozwoju pracowników,
-- koordynator dostępności,
+- koordynator ds. dostępności cyfrowej,
 - eksperci dostępności,
 - trenerzy i mentorzy,
 - kierownicy zespołów,
@@ -632,8 +632,8 @@ Proces obejmuje w szczególności:
 W procesie uczestniczą w szczególności:
 
 - kierownictwo organizacji,
-- sponsor wykonawczy dostępności,
-- koordynator dostępności,
+- sponsor wykonawczy ds. dostępności,
+- koordynator ds. dostępności cyfrowej,
 - właściciele procesów,
 - analitycy,
 - audytorzy,

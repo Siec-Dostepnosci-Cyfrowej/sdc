@@ -436,9 +436,9 @@ Organizacja:
 
 ---
 
-## 6.2. Koordynator dostępności
+## 6.2. Koordynator ds. dostępności cyfrowej
 
-Koordynator dostępności:
+Koordynator ds. dostępności cyfrowej:
 
 - wspiera organizację,
 - koordynuje działania,

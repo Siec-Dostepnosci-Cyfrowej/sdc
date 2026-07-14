@@ -71,7 +71,7 @@ Rola:
 - autorami i redaktorami treści,
 - osobami publikującymi,
 - redaktorami jakości,
-- koordynatorem dostępności,
+- koordynatorem ds. dostępności cyfrowej,
 - administratorami systemów publikacyjnych.
 
 #### Rola wspiera:
@@ -89,7 +89,7 @@ Rola:
 - administratorów systemów.
 
 #### Rola raportuje do:
-- właściciela procesu zarządzania systemem dostępności, sponsora wykonawczego dostępności lub kierownictwa organizacji.
+- właściciela procesu zarządzania systemem dostępności, sponsora wykonawczego ds. dostępności lub kierownictwa organizacji.
 
 ---
 

@@ -99,8 +99,8 @@ Istotne jest zapewnienie realizacji funkcji organizacyjnych.
 | Skrót | Rola |
 |---|---|
 | KIER | Kierownictwo organizacji |
-| SPON | Sponsor wykonawczy dostępności |
-| KOOR | Koordynator dostępności |
+| SPON | Sponsor wykonawczy ds. dostępności |
+| KOOR | Koordynator ds. dostępności cyfrowej |
 | WPR | Właściciel procesu |
 | KKO | Kierownik komórki organizacyjnej |
 | WMER | Właściciel obszaru merytorycznego |
@@ -547,7 +547,7 @@ Nawet w modelu uproszczonym organizacja powinna zapewnić:
 ## 14. Najważniejsze zasady interpretacji mapy
 
 1. Dostępność cyfrowa jest odpowiedzialnością rozproszoną.
-2. Koordynator dostępności nie odpowiada samodzielnie za wszystkie działania.
+2. Koordynator ds. dostępności cyfrowej nie odpowiada samodzielnie za wszystkie działania.
 3. Sponsor wykonawczy zapewnia wsparcie kierownicze i usuwa bariery organizacyjne.
 4. Role kontrolne powinny być — w miarę możliwości — oddzielone od wykonawczych.
 5. System wymaga zarówno działań operacyjnych, jak i wsparcia kompetencyjnego.

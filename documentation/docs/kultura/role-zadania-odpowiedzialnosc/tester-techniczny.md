@@ -87,7 +87,7 @@ Rola:
 - specjalistów bezpieczeństwa i jakości.
 
 #### Rola raportuje do:
-- właściciela procesu zapewniania dostępności systemów IT, kierownika technicznego lub koordynatora dostępności.
+- właściciela procesu zapewniania dostępności systemów IT, kierownika technicznego lub koordynatora ds. dostępności cyfrowej.
 
 ---
 

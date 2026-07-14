@@ -72,7 +72,7 @@ Rola:
 - redaktorami jakości,
 - kierownikami komórek organizacyjnych,
 - specjalistami ds. komunikacji dostępnej,
-- koordynatorem dostępności.
+- koordynatorem ds. dostępności cyfrowej.
 
 #### Rola wspiera:
 - organizację publikacji i utrzymania treści,

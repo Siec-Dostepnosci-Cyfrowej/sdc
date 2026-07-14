@@ -1,7 +1,7 @@
 ---
 id: koordynator-dostepnosci
-title: Koordynator dostępności cyfrowej
-sidebar_label: Koordynator dostępności
+title: Koordynator ds. dostępności cyfrowej
+sidebar_label: Koordynator ds. dostępności cyfrowej
 sidebar_position: 12
 description: Określa cel roli koordynatora ds. dostępności cyfrowej w systemie zarządzania dostępnością cyfrową, zakres zadań, odpowiedzialności 
 keywords: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie, role, odpowiedzialności,kwalifikacje,kompetencje]
@@ -19,11 +19,11 @@ wersja_robocza: true
 
 | Pole | Opis |
 |---|---|
-| Nazwa roli | Koordynator dostępności |
+| Nazwa roli | Koordynator ds. dostępności cyfrowej |
 | Kategoria roli | organizacyjna |
 | Poziom odpowiedzialności | organizacyjny / koordynacyjny |
 | Powiązane procesy | wszystkie główne procesy systemu zapewniania dostępności cyfrowej |
-| Powiązane role | kierownictwo organizacji, sponsor wykonawczy dostępności, właściciele procesów, kierownicy komórek organizacyjnych, specjaliści wsparcia kompetencyjnego, analitycy, testerzy |
+| Powiązane role | kierownictwo organizacji, sponsor wykonawczy ds. dostępności, właściciele procesów, kierownicy komórek organizacyjnych, specjaliści wsparcia kompetencyjnego, analitycy, testerzy |
 | Wersja karty | 1.0 |
 | Data opracowania | 12 maja 2026 r. |
 
@@ -33,7 +33,7 @@ wersja_robocza: true
 
 Wspieranie organizacji w zapewnianiu spójnego, skutecznego i trwałego systemu działań związanych z dostępnością cyfrową.
 
-Koordynator dostępności:
+Koordynator ds. dostępności cyfrowej:
 - organizuje współpracę,
 - wspiera realizację procesów,
 - identyfikuje problemy systemowe,
@@ -77,7 +77,7 @@ Rola funkcjonuje na styku:
 
 #### Rola współpracuje z:
 - kierownictwem organizacji,
-- sponsorem wykonawczym dostępności,
+- sponsorem wykonawczym ds. dostępności,
 - właścicielami procesów,
 - kierownikami komórek organizacyjnych,
 - osobami realizującymi działania operacyjne,
@@ -93,14 +93,14 @@ Rola funkcjonuje na styku:
 - rozwiązywanie problemów systemowych.
 
 #### Rola otrzymuje wsparcie od:
-- sponsora wykonawczego dostępności,
+- sponsora wykonawczego ds. dostępności,
 - kierownictwa organizacji,
 - ekspertów,
 - analityków,
 - specjalistów technicznych.
 
 #### Rola raportuje do:
-- kierownictwa organizacji lub sponsora wykonawczego dostępności.
+- kierownictwa organizacji lub sponsora wykonawczego ds. dostępności.
 
 ---
 
@@ -108,7 +108,7 @@ Rola funkcjonuje na styku:
 
 ### 4.1. Odpowiedzialność główna
 
-Koordynator dostępności odpowiada za:
+Koordynator ds. dostępności cyfrowej odpowiada za:
 - wspieranie organizacji systemu zapewniania dostępności cyfrowej,
 - koordynację współpracy między rolami i procesami,
 - wspieranie wdrażania działań organizacyjnych,
@@ -336,7 +336,7 @@ Koordynator:
 
 ## 15. Uwagi końcowe
 
-Koordynator dostępności pełni przede wszystkim rolę:
+Koordynator ds. dostępności cyfrowej pełni przede wszystkim rolę:
 - organizacyjną,
 - koordynacyjną,
 - wspierającą,

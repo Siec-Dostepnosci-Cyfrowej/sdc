@@ -77,7 +77,7 @@ Rola:
 - specjalistami ds. remediacji,
 - właścicielami usług cyfrowych,
 - specjalistami ds. zamówień dostępnych,
-- koordynatorem dostępności.
+- koordynatorem ds. dostępności cyfrowej.
 
 #### Rola wspiera:
 - organizację dostępności systemów IT,
@@ -94,7 +94,7 @@ Rola:
 - specjalistów wsparcia kompetencyjnego.
 
 #### Rola raportuje do:
-- właściciela procesu zarządzania systemem dostępności, sponsora wykonawczego dostępności lub kierownictwa organizacji.
+- właściciela procesu zarządzania systemem dostępności, sponsora wykonawczego ds. dostępności lub kierownictwa organizacji.
 
 ---
 

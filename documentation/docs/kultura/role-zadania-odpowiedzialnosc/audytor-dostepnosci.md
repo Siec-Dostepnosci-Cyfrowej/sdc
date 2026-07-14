@@ -21,7 +21,7 @@ wersja_robocza: true
 | Kategoria roli | audytowa / ekspercka |
 | Poziom odpowiedzialności | ekspercki / strategiczny |
 | Powiązane procesy | audyt dostępności cyfrowej, monitoring i ocena dojrzałości, działania naprawcze, doskonalenie systemu |
-| Powiązane role | testerzy dostępności, analitycy dostępności, koordynator dostępności, właściciele procesów, kierownictwo organizacji |
+| Powiązane role | testerzy dostępności, analitycy dostępności, koordynator ds. dostępności cyfrowej, właściciele procesów, kierownictwo organizacji |
 | Wersja karty | 1.0 |
 | Data opracowania | 12 maja 2026 r. |
 
@@ -69,7 +69,7 @@ Rola:
 #### Rola współpracuje z:
 - testerami dostępności,
 - analitykami dostępności,
-- koordynatorem dostępności,
+- koordynatorem ds. dostępności cyfrowej,
 - właścicielami procesów,
 - kierownikami komórek organizacyjnych,
 - specjalistami ds. remediacji,
@@ -90,7 +90,7 @@ Rola:
 - analityków i testerów.
 
 #### Rola raportuje do:
-- kierownictwa organizacji, sponsora wykonawczego dostępności lub właściciela procesu monitoringu i oceny.
+- kierownictwa organizacji, sponsora wykonawczego ds. dostępności lub właściciela procesu monitoringu i oceny.
 
 ---
 
