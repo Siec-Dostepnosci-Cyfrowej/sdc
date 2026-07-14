@@ -143,7 +143,6 @@ Poniższe zestawienie wskazuje najniższy profil przypisany scenariuszom Bibliot
 
 | ID testu   | Nazwa testu                                        | Najniższy profil |
 | ---------- | -------------------------------------------------- | ---------------- |
-| procID-001 | Automatyczne wykrywanie błędów dostępności         | wstępny          |
 | testID-019 | Nagłówki                                           | wstępny          |
 | testID-020 | Tytuł strony                                       | wstępny          |
 | testID-021 | Język strony                                       | wstępny          |
@@ -151,7 +150,7 @@ Poniższe zestawienie wskazuje najniższy profil przypisany scenariuszom Bibliot
 | testID-024 | Obsługa klawiaturą                                 | wstępny          |
 | testID-025 | Pułapka klawiaturowa                               | wstępny          |
 | testID-026 | Kolejność fokusu                                   | wstępny          |
-| testID-027 | Widoczny fokus                                  | wstępny          |
+| testID-027 | Widoczny fokus                                     | wstępny          |
 | testID-031 | Punkty orientacyjne                                | wstępny          |
 | testID-032 | Wystarczający kontrast                             | wstępny          |
 | testID-033 | Tekst alternatywny                                 | wstępny          |
