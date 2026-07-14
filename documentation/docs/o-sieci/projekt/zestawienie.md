@@ -1,9 +1,10 @@
 ---
 title: Zestawienie propozycji tematów
-sidebar_label: 'Zestawienie propozycji tematów'
+sidebar_label: Zestawienie tematów
 sidebar_position: 4
 opracowanie: Stefan Wajda
 ---
+
 # Zestawienie propozycji tematów
 
 :::tip Nie wahaj się!

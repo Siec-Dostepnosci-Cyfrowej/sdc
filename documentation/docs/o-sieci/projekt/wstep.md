@@ -3,14 +3,8 @@ id: wstep
 title: Jesteś tu pierwszy raz?
 sidebar_position: 0
 sidebar_label: Jesteś tu pierwszy raz?
-keywords: [ 
-  praca Sieci,
-  organizacja pracy,
-  zadania Sieci]
-tags: [ 
-  praca Sieci,
-  organizacja pracy,
-  zadania Sieci]  
+keywords: [praca Sieci,organizacja pracy,zadania Sieci]
+tags: [praca Sieci,organizacja pracy,zadania Sieci] 
 opracowanie: Stefan Wajda
 data_zgłoszenia: 22 lipca 2025 r.
 data_aktualizacji: 10 października 2025 r.
