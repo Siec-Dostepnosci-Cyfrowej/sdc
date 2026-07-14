@@ -19,7 +19,7 @@ Koordynator ds. dostępności cyfrowej pełni rolę **organizacyjną, integrują
 
 Rola ta nie polega na samodzielnym wykonywaniu wszystkich działań technicznych związanych z dostępnością, lecz na **organizowaniu, wspieraniu i nadzorowaniu** procesu zapewniania dostępności cyfrowej w całej organizacji.
 
-Koordynator działa w ścisłej współpracy z kierownictwem podmiotu, zespołem ds. dostępności, komórkami organizacyjnymi oraz – w razie potrzeby – biurem ds. dostępności.
+Koordynator współpracuje z jednostkami odpowiedzialnymi za zapewnienie dostępności cyfrowej.
 
 ---
 
