@@ -26,12 +26,12 @@ Organizacja traktuje dostępność cyfrową jako integralną cechę realizowanyc
  
 Pracownik podejmuje samodzielnie decyzje związane z dostępnością cyfrową wykonywanych przez siebie czynności, o ile mieszczą się one w obowiązujących procedurach, standardach i uprawnieniach.
  
-Przykładowo może samodzielnie:
+Przykładowo może:
  
 - przygotować dostępny dokument,
 - dodać tekst alternatywny do grafiki,
 - zastosować obowiązujący szablon publikacji,
-- poprawić wykryte błędy dostępności.
+- poprawić wykryte błędy dostępności w tworzonych przez siebie treściach.
  
 ### 3.2. Decyzje dotyczące sposobu działania zespołu
  
@@ -59,7 +59,7 @@ Mogą one obejmować:
  
 ### 3.4. Decyzje dotyczące wielu komórek organizacyjnych
  
-Decyzje wymagające jednolitego stosowania w różnych częściach organizacji powinny być podejmowane na poziomie obejmującym wszystkie zaangażowane jednostki.
+Decyzje wymagające jednolitego stosowania w różnych częściach organizacji powinny być podejmowane na poziomie obejmującym wszystkie zaangażowane komórki organizacyjne.
  
 Przykładowo mogą dotyczyć:
  
@@ -72,12 +72,12 @@ Przykładowo mogą dotyczyć:
  
 ### 3.5. Decyzje strategiczne
  
-Decyzje dotyczące polityki organizacji, alokacji zasobów lub kierunków rozwoju systemu zapewniania dostępności cyfrowej podejmuje kierownictwo organizacji.
+Decyzje dotyczące dostępności cyfrowej w zakresie polityki organizacji, alokacji zasobów lub kierunków rozwoju systemu zapewniania dostępności cyfrowej podejmuje kierownictwo organizacji.
  
 Dotyczy to w szczególności:
  
 - przyjęcia polityki dostępności,
-- ustanowienia systemu zarządzania dostępnością,
+- ustanowienia systemu zapewniania dostępności cyfrowej,
 - wyznaczenia ról i odpowiedzialności,
 - zapewnienia finansowania działań,
 - określenia celów i priorytetów organizacji.
@@ -86,7 +86,7 @@ Dotyczy to w szczególności:
  
 Koordynator dostępności wspiera osoby odpowiedzialne za procesy, usługi, informacje i systemy w podejmowaniu decyzji dotyczących dostępności cyfrowej.
  
-Do jego zadań może należeć w szczególności:
+Do zadań koordynatora może należeć w szczególności:
  
 - doradztwo i konsultowanie rozwiązań,
 - identyfikowanie problemów wymagających działań organizacyjnych,
