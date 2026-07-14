@@ -1,6 +1,6 @@
 ---
 id: podejmowanie-decyzji
-title: Podejmowanie decyzji
+title: Zasady podejmowania decyzji dotyczących dostępności cyfrowej 
 description: Dostępność cyfrowa jest procesem organizacyjnym, nie technicznym — wymaga jasnych zasad i zakresów odpowiedzialności na równi z odpowiedzialnością merytorycz...
 sidebar_label: Podejmowanie decyzji
 sidebar_position: 0
