@@ -43,7 +43,7 @@
     "@docusaurus/types": "3.10.2",
     "@types/imagemin": "9.0.1",
     "@types/imagemin-mozjpeg": "8.0.4",
-    "autoprefixer": "^10.5.3",
+    "autoprefixer": "^10.5.4",
     "imagemin": "9.0.1",
     "imagemin-cli": "8.0.0",
     "imagemin-mozjpeg": "10.0.0",
