@@ -1,5 +1,5 @@
 ---
-id: procedura-uzyskiwania-zgody-na-zastosowanie-odstepstwa-na-zastosowanie-odstepstwa
+id: zgoda-na-zastosowanie-odstepstwa
 title: [DRAFT] Procedura uzyskiwania zgody na zastosowanie odstępstwa (wyjątku) od obowiązku zapewniania dostępności cyfrowej 
 sidebar_label: Zalecenie
 sidebar_position: 1
