@@ -4,7 +4,7 @@ title: Wzór decyzji o odmowie publikacji
 description: Opisuje zasady podejmowania i dokumentowania decyzji o odmowie publikacji materiału wraz z uzasadnieniem wynikającym z niespełnienia wymagań lub przepisów.
 sidebar_label: Wzór decyzji o odmowie
 sidebar_position: 26
-keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG, wyłączenia ustawowe]
+keywords: [dostępność cyfrowa,publikacja treści,treści zewnętrzne,BIP,informacja publiczna,WCAG,wyłączenia ustawowe]
 tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 16 kwietnia 2026 r.
