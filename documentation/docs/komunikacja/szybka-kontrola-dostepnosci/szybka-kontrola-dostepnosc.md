@@ -11,7 +11,7 @@ data_zgloszenia: 2 lutego 2026 r.
 ostatnia_aktualizacja: 2 lutego 2026 r.
 wersja_robocza: true
 ---
-## Dobra Praktyka
+## Dobra praktyka
 Celem tego opracowania jest przedstawienie rekomendowanego systemu oraz procedur weryfikacji treści cyfrowych - tekstowych i nietekstowych (grafika, multimedia np. audio, wideo) - przed ich publikacją, aby zapewnić ich zgodność z zasadami dostępności cyfrowej. System obejmuje także przypadek korekty treści już opublikowanych (np. publikacje nietekstowe w mediach społecznościowych).
 
 ## Zakres
