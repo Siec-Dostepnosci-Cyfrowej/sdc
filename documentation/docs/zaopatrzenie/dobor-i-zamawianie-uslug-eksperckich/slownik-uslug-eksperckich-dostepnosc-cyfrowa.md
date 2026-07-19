@@ -2,716 +2,686 @@
 id: slownik-uslug-eksperckich-dostepnosc-cyfrowa
 title: Słownik usług eksperckich w zakresie dostępności cyfrowej
 description: Słownik definiujący rodzaje usług eksperckich związanych z dostępnością cyfrową oraz ich cele, rezultaty i typowe zastosowania.
-sidebar_position: 1
+sidebar_position: 5
 sidebar_label: Słownik usług eksperckich
 keywords: [dostępność cyfrowa,usługi eksperckie,audyt, monitoring,ocena dojrzałości,szkolenia,wsparcie kompetencyjne,konsultacje,]
 tags: [dostępność cyfrowa,usługi eksperckie,audyt, monitoring,ocena dojrzałości,szkolenia,wsparcie kompetencyjne,konsultacje,]
 opracowanie: Stefan Wajda 
 data_zgloszenia: 30 maja 2026 r.
-ostatnia_aktualizacja: 2 czerwca 2026 r.
+ostatnia_aktualizacja: 18 lipca 2026 r.
 wersja_robocza: true
 ---
 
 
-## 1. Cel dokumentu
+## 1. Wprowadzenie
 
-W procesie zapewniania dostępności cyfrowej organizacje korzystają z różnych usług eksperckich. Usługi te różnią się celem, zakresem, sposobem realizacji, oczekiwanym rezultatem, miejscem w procesie zarządzania dostępnością.
+### Rola słownika
 
-Nie istnieje jedna uniwersalna usługa odpowiadająca na wszystkie potrzeby organizacji. Każdy typ usługi służy realizacji innego celu i powinien być dobierany w zależności od sytuacji organizacji oraz problemu, który ma zostać rozwiązany.
+Organizacje zapewniające dostępność cyfrową korzystają z różnych rodzajów wsparcia eksperckiego. Usługi te różnią się celem, zakresem, sposobem realizacji oraz rezultatami. Często są jednak określane podobnymi nazwami lub odwrotnie – ta sama nazwa jest używana do oznaczania usług o odmiennym charakterze.
 
-Usługi eksperckie mogą wspierać organizację na różnych etapach działania, w szczególności:
+W praktyce organizacje rozpoczynają przygotowanie zamówienia od wyboru nazwy usługi, np. „audyt”, „szkolenie”, „konsultacje” lub „wsparcie wdrożeniowe”. Tymczasem nazwa usługi nie przesądza o tym, czy będzie ona właściwą odpowiedzią na rzeczywistą potrzebę organizacji.
 
-- budowania systemu zarządzania dostępnością,
-- rozwijania kompetencji,
-- rozpoznawania problemów,
-- analizowania przyczyn problemów,
-- podejmowania decyzji,
-- wdrażania zmian,
-- monitorowania jakości,
-- oceny zgodności.
+Słownik usług eksperckich w zakresie dostępności cyfrowej porządkuje pojęcia dotyczące usług eksperckich oraz definiuje ich znaczenie. Określa cele, rezultaty i zakres poszczególnych usług oraz wyjaśnia relacje między nimi. Dzięki temu ułatwia organizacjom dobór usług odpowiadających ich rzeczywistym potrzebom oraz przygotowanie jednoznacznych opisów przedmiotu zamówienia.
 
-Dobór usługi powinien wynikać z odpowiedzi na pytanie:
+Słownik nie opisuje ofert konkretnych wykonawców ani nie promuje określonych modeli świadczenia usług. Stanowi wspólny model pojęciowy, który może być wykorzystywany przez organizacje zamawiające usługi, wykonawców, autorów dokumentacji zamówień oraz osoby odpowiedzialne za ocenę i odbiór rezultatów prac.
 
-> **Czy organizacja potrzebuje zbudować zdolność działania, rozwinąć kompetencje, rozpoznać problem, zrozumieć jego przyczyny, usunąć go czy potwierdzić zgodność?**
+### Sposób korzystania ze słownika
 
-Potrzeby organizacji mają najczęściej charakter:
+Słownik nie służy do wyboru wykonawcy ani do przygotowania gotowego opisu przedmiotu zamówienia. Jego zadaniem jest ułatwienie określenia, jakiego rodzaju wsparcia organizacja rzeczywiście potrzebuje.
 
-- **informacyjny** (pozyskanie wiedzy, rozpoznanie problemów, uzyskanie oceny),
-- **rozwojowy** (rozwój kompetencji i zdolności organizacji do działania),
-- **wdrożeniowy** (wdrożenie zmian, usuwanie problemów, doskonalenie sposobu działania).
+Każde hasło opisuje jedną usługę ekspercką i zawiera informacje pozwalające zrozumieć:
 
-Poszczególne grupy usług eksperckich odpowiadają na różne rodzaje potrzeb.
+- na czym polega dana usługa,
+- w jakich sytuacjach warto ją rozważyć,
+- jaki jest jej cel,
+- jakie rezultaty może przynieść,
+- czego nie należy od niej oczekiwać,
+- jakie informacje warto przygotować przed jej zamówieniem,
+- z jakimi innymi usługami jest powiązana.
 
----
+Jedno przedsięwzięcie może wymagać wykorzystania kilku różnych usług. Przykładowo organizacja może równocześnie korzystać z usług wsparcia organizacyjnego, rozwijać kompetencje pracowników oraz zamówić usługę audytorską dostarczającą wiedzy potrzebnej do oceny rezultatów prowadzonych działań.
 
-# 2. Klasyfikacja usług eksperckich
+### Model usług eksperckich
 
-W tym słowniku wyróżniono **sześć podstawowych grup usług eksperckich**:
+Usługi eksperckie wspierają organizację w zapewnianiu dostępności cyfrowej poprzez dostarczanie specjalistycznej wiedzy, doświadczenia oraz metod postępowania niezbędnych do osiągnięcia określonych rezultatów organizacyjnych.
 
-1. Usługi organizacyjne.
-2. Usługi wsparcia kompetencyjnego.
-3. Usługi diagnostyczne.
-4. Usługi analityczne.
-5. Usługi formalnej oceny.
-6. Usługi wdrożeniowe.
+Rezultatem usługi eksperckiej może być w szczególności:
 
-Poszczególne grupy usług odpowiadają różnym potrzebom organizacji i różnym etapom zarządzania dostępnością.
+- przygotowanie organizacji do realizacji nowych zadań,
+- zwiększenie zdolności organizacji do samodzielnego działania,
+- wsparcie kierownictwa w podejmowaniu decyzji,
+- uzyskanie wiarygodnej wiedzy o stanie dostępności i zgodności,
+- identyfikacja problemów, ryzyk i możliwości doskonalenia.
+
+Usługi eksperckie nie polegają przede wszystkim na wykonywaniu prac technicznych lub wytwórczych, takich jak tworzenie oprogramowania, usuwanie błędów, opracowywanie dokumentów czy przygotowywanie materiałów cyfrowych. Mogą wspierać realizację takich prac, lecz ich podstawowym celem jest dostarczenie organizacji wiedzy, rozwiązań, kompetencji lub podstaw do podejmowania decyzji.
 
 ---
 
-## 3. Usługi organizacyjne
+## 2. Rodzaje usług
 
-### 3.1 Konsultacje systemowe
+W słowniku wyróżniono trzy podstawowe rodziny usług eksperckich. Każda z nich odpowiada innemu rodzajowi potrzeb organizacji i wspiera inny aspekt zapewniania dostępności cyfrowej.
 
-**Definicja**
+### 2.1. Usługi wsparcia organizacyjnego
 
-Usługa polegająca na wsparciu organizacji w projektowaniu, wdrażaniu lub doskonaleniu systemu zarządzania dostępnością.
+Usługi wsparcia organizacyjnego pomagają kierownictwu przygotować, wdrożyć i doskonalić sposób organizacji działań związanych z dostępnością cyfrową. Ich celem jest wspieranie zmian organizacyjnych prowadzących do trwałego włączenia dostępności do zarządzania organizacją, jej procesami i przedsięwzięciami.
 
-**Cel**
+Usługi te dotyczą przede wszystkim zasad działania organizacji, podziału odpowiedzialności, zarządzania procesami, planowania rozwoju oraz zapewnienia warunków umożliwiających skuteczną realizację obowiązków związanych z dostępnością cyfrową.
 
-Określenie sposobu organizacji działań związanych z dostępnością oraz rozwój zdolności organizacji do skutecznego działania.
+### 2.2. Usługi wsparcia kompetencyjnego
 
-**Rezultaty**
+Usługi wsparcia kompetencyjnego pomagają organizacji rozwijać zdolność do samodzielnego wykonywania zadań związanych z dostępnością cyfrową.
 
-- polityka dostępności,
-- standardy organizacyjne,
-- procedury,
-- modele działania,
-- rekomendacje organizacyjne,
-- mapy ról i odpowiedzialności,
-- modele zarządzania dostępnością.
+Ich celem nie jest samo przekazanie wiedzy lub przeprowadzenie szkolenia, lecz przygotowanie pracowników i zespołów do skutecznego wykonywania konkretnych zadań oraz stworzenie warunków do trwałego rozwoju kompetencji organizacji.
 
-**Typowe zastosowania**
+Usługi te obejmują zarówno rozwijanie kwalifikacji osób wykonujących określone zadania, jak i budowanie mechanizmów organizacyjnego uczenia się oraz wewnętrznego wsparcia kompetencyjnego.
 
-- budowa systemu zarządzania dostępnością,
-- reorganizacja działań,
-- przygotowanie planów wdrożeniowych.
+### 2.3. Usługi audytorskie
 
----
+Usługi audytorskie dostarczają organizacji wiarygodnej wiedzy potrzebnej do podejmowania decyzji dotyczących zapewniania dostępności cyfrowej.
 
-### 3.2 Mentoring wdrożeniowy (Wsparcie wdrażania systemu zarządzania dostępnością)
+Mogą służyć rozpoznaniu problemów, identyfikacji ich przyczyn, ocenie ryzyka, monitorowaniu zmian, potwierdzaniu zgodności z wymaganiami dostępności lub ocenie rezultatów podejmowanych działań.
 
-**Definicja**
+Usługi audytorskie różnią się zakresem, metodami oraz celem, jakiemu służy ocena. Mogą być realizowane jako samodzielne przedsięwzięcia lub jako element szerszego programu wsparcia organizacji.
 
-Długoterminowe wsparcie kierownictwa, koordynatorów oraz zespołów odpowiedzialnych za rozwój systemu zarządzania dostępnością.
+### Zależności pomiędzy rodzinami usług
 
-**Cel**
+Poszczególne rodziny usług nie konkurują ze sobą ani nie stanowią kolejnych poziomów zaawansowania. Odpowiadają na różne potrzeby organizacji i często są wykorzystywane łącznie.
 
-Wspieranie wdrażania zmian organizacyjnych i rozwijania kompetencji organizacyjnych.
+Usługi wsparcia organizacyjnego pomagają określić sposób działania organizacji i przygotować warunki do skutecznego zapewniania dostępności. Usługi wsparcia kompetencyjnego rozwijają zdolność pracowników i zespołów do realizacji powierzonych im zadań. Usługi audytorskie dostarczają wiedzy umożliwiającej ocenę stanu dostępności, podejmowanie decyzji oraz doskonalenie sposobu działania.
 
-**Rezultaty**
-
-- rozwój kompetencji organizacyjnych,
-- skuteczniejsze wdrażanie zmian,
-- ograniczenie ryzyk organizacyjnych.
-
-**Typowe zastosowania**
-
-- wdrażanie polityki dostępności,
-- rozwój systemu zarządzania,
-- wsparcie koordynatorów i właścicieli procesów.
+Dobór usług powinien wynikać z celów przedsięwzięcia oraz rzeczywistych potrzeb organizacji, a nie z przyzwyczajeń lub nazw usług funkcjonujących na rynku.
 
 ---
 
-### 3.3 Ocena procesów zarządzania dostępnością
+# 3. Usługi wsparcia organizacyjnego
 
-**Definicja**
+## 3.1. Jak rozumieć usługi wsparcia organizacyjnego
 
-Ocena procesów organizacyjnych wpływających na zapewnianie dostępności cyfrowej.
+Usługi wsparcia organizacyjnego wspierają kierownictwo oraz osoby odpowiedzialne za zarządzanie organizacją w przygotowaniu, wdrażaniu i doskonaleniu sposobu zapewniania dostępności cyfrowej.
 
-**Cel**
+Przedmiotem tych usług nie są pojedyncze rozwiązania cyfrowe ani kwalifikacje poszczególnych pracowników, lecz organizacja jako całość — jej sposób działania, procesy, role, odpowiedzialności, zasady zarządzania oraz warunki umożliwiające skuteczne zapewnianie dostępności cyfrowej.
 
-Ocena skuteczności procesów oraz identyfikacja obszarów wymagających doskonalenia.
+Usługi te pomagają organizacji przejść od działań doraźnych do systemowego zarządzania dostępnością. Ich rezultatem są rozwiązania organizacyjne umożliwiające trwałe uwzględnianie dostępności w planowaniu, realizacji i doskonaleniu działalności organizacji.
 
-**Rezultaty**
+W praktyce usługi wsparcia organizacyjnego są najczęściej wykorzystywane podczas:
 
-- ocena procesów,
-- identyfikacja słabych punktów,
-- rekomendacje zmian.
+- rozpoczynania działań związanych z zapewnianiem dostępności cyfrowej,
+- doskonalenia istniejącego systemu zarządzania,
+- wdrażania nowych polityk, standardów i procedur,
+- reorganizacji procesów mających wpływ na dostępność,
+- realizacji przedsięwzięć wymagających zmian organizacyjnych,
+- przygotowania organizacji do długofalowego zapewniania dostępności.
 
-**Typowe zastosowania**
-
-- proces publikacji,
-- proces tworzenia dokumentów,
-- proces rozwoju usług,
-- proces zamówień publicznych.
+Usługi wsparcia organizacyjnego nie polegają na przejmowaniu odpowiedzialności za zarządzanie organizacją ani na podejmowaniu decyzji w imieniu kierownictwa. Ich zadaniem jest dostarczenie wiedzy, metod oraz wsparcia niezbędnego do przygotowania i wdrożenia rozwiązań organizacyjnych odpowiadających potrzebom danej organizacji.
 
 ---
 
-## 4. Usługi wsparcia kompetencyjnego
+## 3.2. Usługi wsparcia organizacyjnego
 
-### Wprowadzenie
+W słowniku wyróżniono osiem podstawowych usług wsparcia organizacyjnego.
 
-Usługi wsparcia kompetencyjnego służą zwiększaniu zdolności organizacji do realizacji zadań związanych z dostępnością cyfrową.
+### 3.2.1. Ocena dojrzałości organizacyjnej i planowanie programu rozwoju
 
-Rozwój wiedzy i umiejętności pracowników jest ważnym rezultatem tych usług, jednak nie stanowi ich celu samego w sobie. Usługi te powinny być powiązane z rzeczywistymi zadaniami, procesami i problemami organizacji oraz prowadzić do trwałego rozwoju jej kompetencji organizacyjnych.
+Usługa polegająca na ocenie zdolności organizacji do skutecznego zapewniania dostępności cyfrowej oraz przygotowaniu programu działań prowadzących do zwiększenia tej zdolności.
 
-W praktyce usługi wsparcia kompetencyjnego mogą obejmować zarówno tradycyjne formy szkoleniowe, jak i działania realizowane podczas wykonywania rzeczywistych zadań, wdrażania nowych rozwiązań oraz budowania systemów rozwoju kompetencji.
-
----
-
-### 4.1 Budowanie świadomości organizacyjnej
-
-#### Definicja
-
-Usługa służąca budowaniu świadomości znaczenia dostępności cyfrowej, zrozumienia obowiązków organizacji oraz roli poszczególnych pracowników i kierowników w jej zapewnianiu.
-
-#### Cel
-
-Zwiększenie świadomości organizacyjnej oraz przygotowanie organizacji do podejmowania działań związanych z dostępnością.
-
-#### Rezultaty
-
-- wzrost świadomości znaczenia dostępności,
-- lepsze rozumienie obowiązków organizacji,
-- lepsze rozumienie ról i odpowiedzialności,
-- przygotowanie planów i działań komunikacyjnych,
-- przygotowanie materiałów wspierających budowanie świadomości.
-
-#### Typowe formy realizacji
-
-- szkolenia świadomościowe,
-- seminaria,
-- webinaria,
-- warsztaty planistyczne,
-- opracowanie programów komunikacji wewnętrznej,
-- przygotowanie materiałów informacyjnych.
-
-#### Typowe zastosowania
-
-- rozpoczęcie działań związanych z dostępnością,
-- budowanie poparcia kierownictwa,
-- przygotowanie organizacji do wdrażania zmian,
-- wdrażanie nowych pracowników.
+Rezultatem usługi jest określenie mocnych stron organizacji, zidentyfikowanie obszarów wymagających rozwoju oraz przygotowanie programu doskonalenia dostosowanego do jej potrzeb.
 
 ---
 
-### 4.2 Rozwijanie zdolności do realizacji zadań
+### 3.2.2. Włączenie dostępności do zarządzania organizacją
 
-#### Definicja
+Usługa wspierająca włączenie dostępności cyfrowej do systemu zarządzania organizacją poprzez przygotowanie zasad, polityk, mechanizmów nadzoru oraz sposobu podejmowania decyzji.
 
-Usługa polegająca na rozwijaniu zdolności pracowników i zespołów do wykonywania określonych zadań związanych z dostępnością cyfrową.
-
-#### Cel
-
-Zapewnienie zdolności do samodzielnego wykonywania zadań wymagających uwzględniania dostępności.
-
-#### Rezultaty
-
-- rozwój praktycznych umiejętności,
-- przygotowanie procedur i instrukcji działania,
-- opracowanie materiałów wspierających realizację zadań,
-- przygotowanie osób wspierających innych pracowników,
-- zwiększenie jakości realizowanych działań,
-- przygotowanie programów szkoleń wewnętrznych,
-- przygotowanie trenerów wewnętrznych,
-- przygotowanie materiałów szkoleniowych i ćwiczeń.
-
-#### Typowe formy realizacji
-
-- szkolenia stanowiskowe,
-- warsztaty praktyczne,
-- laboratoria zadaniowe,
-- realizacja zadań pod nadzorem ekspertów,
-- konsultacje eksperckie.
-
-#### Typowe zastosowania
-
-- tworzenie dostępnych dokumentów,
-- publikowanie treści,
-- prowadzenie ocen stanu zgodności,
-- testowanie dostępności,
-- przygotowywanie materiałów edukacyjnych.
+Rezultatem usługi jest trwałe uwzględnienie dostępności w zarządzaniu organizacją.
 
 ---
 
-### 4.3 Wsparcie wdrażania nowych sposobów działania
+### 3.2.3. Przypisanie odpowiedzialności oraz zapewnienie mandatu działania
 
-#### Definicja
+Usługa polegająca na uporządkowaniu odpowiedzialności za zapewnianie dostępności cyfrowej, określeniu ról organizacyjnych oraz stworzeniu warunków umożliwiających skuteczne wykonywanie powierzonych zadań.
 
-Usługa polegająca na wspieraniu organizacji podczas wdrażania nowych procesów, procedur, standardów lub rozwiązań związanych z dostępnością.
+Rezultatem usługi jest przejrzysty model odpowiedzialności oraz skuteczny mechanizm współpracy pomiędzy osobami i komórkami organizacyjnymi.
 
-#### Cel
+---
 
-Zapewnienie skutecznego wdrożenia nowych sposobów działania oraz ograniczenie ryzyka niepowodzenia zmian organizacyjnych.
+### 3.2.4. Zapewnienie zasobów dla działań na rzecz dostępności
 
-#### Rezultaty
+Usługa wspierająca planowanie oraz organizację zasobów niezbędnych do skutecznego zapewniania dostępności cyfrowej.
 
-- wdrożone procedury i standardy,
-- przygotowane materiały operacyjne,
-- rozwój kompetencji uczestników wdrożenia,
-- utrwalenie nowych praktyk organizacyjnych,
-- ograniczenie błędów i problemów wdrożeniowych.
+Może obejmować planowanie zasobów kadrowych, finansowych, technicznych, organizacyjnych i informacyjnych oraz przygotowanie zasad ich wykorzystywania.
 
-#### Typowe formy realizacji
+Rezultatem usługi jest stworzenie warunków umożliwiających trwałą realizację działań związanych z dostępnością.
 
+---
+
+### 3.2.5. Włączanie dostępności do zarządzania informacją i komunikacją
+
+Usługa polegająca na włączeniu wymagań dostępności do procesów tworzenia, publikowania, udostępniania oraz aktualizacji informacji i treści cyfrowych.
+
+Rezultatem usługi jest przygotowanie organizacji do systematycznego publikowania dostępnych informacji oraz ograniczenie ryzyka powstawania nowych barier.
+
+---
+
+### 3.2.6. Włączanie dostępności do zarządzania usługami publicznymi
+
+Usługa wspierająca uwzględnianie dostępności cyfrowej podczas projektowania, świadczenia, rozwijania oraz doskonalenia usług publicznych wykorzystujących technologie cyfrowe.
+
+Rezultatem usługi jest trwałe włączenie wymagań dostępności do procesów zarządzania usługami publicznymi.
+
+---
+
+### 3.2.7. Włączanie dostępności do zarządzania systemami informatycznymi
+
+Usługa polegająca na uwzględnieniu wymagań dostępności w procesach planowania, projektowania, nabywania, rozwoju, utrzymania i wycofywania systemów informatycznych.
+
+Rezultatem usługi jest ograniczenie ryzyka powstawania barier dostępności na wszystkich etapach cyklu życia rozwiązań cyfrowych.
+
+---
+
+### 3.2.8. Włączanie dostępności do zarządzania zaopatrzeniem
+
+Usługa wspierająca organizację w uwzględnianiu wymagań dostępności cyfrowej podczas planowania zakupów, przygotowywania postępowań, wyboru wykonawców, odbioru produktów i usług oraz nadzoru nad realizacją umów.
+
+Rezultatem usługi jest stworzenie organizacyjnych warunków umożliwiających skuteczne nabywanie produktów i usług spełniających wymagania dostępności cyfrowej.
+
+---
+
+Poszczególne usługi wsparcia organizacyjnego mogą być realizowane jako odrębne przedsięwzięcia lub jako element programu rozwoju organizacji. W praktyce często są łączone z usługami wsparcia kompetencyjnego oraz usługami audytorskimi, które dostarczają wiedzy niezbędnej do planowania i oceny skuteczności wprowadzanych zmian.
+
+
+# 4. Usługi wsparcia kompetencyjnego
+
+## 4.1. Jak rozumieć usługi wsparcia kompetencyjnego
+
+Usługi wsparcia kompetencyjnego pomagają organizacji zbudować kompetencje niezbędne do samodzielnego wykonywania zadań związanych z zapewnianiem dostępności cyfrowej.
+
+Ich celem nie jest przeprowadzenie szkolenia ani przekazanie wiedzy jako wartości samej w sobie. Celem jest przygotowanie organizacji do wykonywania konkretnych zadań oraz stworzenie rozwiązań, które umożliwią pracownikom wykonywanie tych zadań w sposób zgodny z wymaganiami dostępności.
+
+Rezultatem usług wsparcia kompetencyjnego są zatem nie tylko lepiej przygotowani pracownicy, ale również rozwiązania organizacyjne wspierające ich codzienną pracę, takie jak standardy, szablony, metody kontroli, materiały szkoleniowe, zasoby wiedzy czy mechanizmy udzielania wsparcia.
+
+Usługi te są skierowane przede wszystkim do organizacji, które chcą rozwijać własne kompetencje, ograniczać zależność od wsparcia zewnętrznego oraz zapewnić trwałość wypracowanych rozwiązań.
+
+Szkolenia, warsztaty, konsultacje, mentoring, coaching oraz inne formy pracy z ekspertami nie stanowią odrębnych usług. Są metodami wykorzystywanymi podczas realizacji usług opisanych w niniejszym rozdziale.
+
+---
+
+## 4.2. Usługi wsparcia kompetencyjnego
+
+W słowniku wyróżniono następujące usługi wsparcia kompetencyjnego.
+
+
+### 4.2.1. Budowanie świadomości organizacyjnej
+
+Usługa polegająca na budowaniu wspólnego rozumienia znaczenia dostępności cyfrowej, odpowiedzialności organizacji oraz roli poszczególnych osób w jej zapewnianiu.
+
+Usługa pomaga kierownictwu, menedżerom i pracownikom zrozumieć cele działań podejmowanych przez organizację, ich wpływ na użytkowników oraz znaczenie dostępności dla jakości realizowanych usług i wykonywanych zadań.
+
+Rezultatem usługi jest wzrost świadomości kierownictwa i pracowników, stworzenie sprzyjającej kultury organizacyjnej oraz zwiększenie gotowości organizacji do podejmowania działań na rzecz dostępności.
+
+### 4.2.2. Podstawy tworzenia dostępnych dokumentów i treści
+
+Usługa polegająca na przygotowaniu osób odpowiedzialnych za tworzenie dokumentów i treści cyfrowych do stosowania podstawowych zasad dostępności oraz wspólnym opracowaniu pierwszych materiałów wspierających ich codzienną pracę.
+
+Usługa odpowiada na jedną z najczęściej zgłaszanych potrzeb organizacji i stanowi dobry punkt rozpoczęcia budowania kompetencji w zakresie dostępności dokumentów i treści. Jej celem nie jest jednak wyłącznie przekazanie wiedzy uczestnikom, lecz również stworzenie podstaw do dalszego rozwoju kompetencji organizacji.
+
+Rezultatem usługi są osoby przygotowane do tworzenia dostępnych dokumentów i treści oraz pierwsze praktyczne materiały wspierające pozostałych pracowników, takie jak krótkie instrukcje, listy kontrolne, odpowiedzi na najczęściej zadawane pytania lub przykłady dobrych praktyk. Materiały te mogą stać się zalążkiem rozwijanych później standardów, szablonów i innych środków wspierających zapewnianie dostępności cyfrowej.
+
+
+
+### 4.2.3. Zbudowanie podstaw systemu wsparcia kompetencyjnego pracowników
+
+Usługa polegająca na zaprojektowaniu i uruchomieniu podstawowych rozwiązań służących przygotowywaniu oraz wspieraniu pracowników w wykonywaniu zadań związanych z dostępnością cyfrową.
+
+Rezultatem usługi jest zestaw podstawowych mechanizmów wspierających rozwój kompetencji pracowników oraz osoby przygotowane do ich utrzymywania i dalszego rozwijania.
+
+---
+
+### 4.2.4. Tworzenie wewnętrznych standardów dostępności
+
+Usługa polegająca na opracowaniu standardów określających sposób wykonywania wybranych zadań zgodnie z wymaganiami dostępności cyfrowej.
+
+Standardy powstają poprzez przełożenie wymagań prawnych, norm, wytycznych i dobrych praktyk na rozwiązania odpowiadające sposobowi działania konkretnej organizacji.
+
+Rezultatem usługi jest zestaw praktycznych standardów umożliwiających pracownikom wykonywanie zadań zgodnie z wymaganiami dostępności cyfrowej oraz jednolite stosowanie przyjętych zasad w całej organizacji. Dodatkowym rezultatem jest pogłębienie rozumienia wymagań dostępności przez osoby uczestniczące w opracowaniu standardów oraz stworzenie wspólnej interpretacji zasad obowiązujących w organizacji.
+
+---
+
+### 4.2.5. Tworzenie szablonów podstawowych dokumentów
+
+Usługa polegająca na przygotowaniu dostępnych szablonów najczęściej wykorzystywanych dokumentów oraz przygotowaniu pracowników do ich stosowania i rozwijania.
+
+Rezultatem usługi jest zestaw szablonów dostosowanych do potrzeb organizacji oraz zespół pracowników posiadających praktyczne umiejętności tworzenia dostępnych dokumentów, rozwijania istniejących szablonów i opracowywania nowych wzorców odpowiadających potrzebom organizacji.
+
+---
+
+### 4.2.6. Tworzenie wzorców treści internetowych
+
+Usługa polegająca na opracowaniu wzorcowych rozwiązań dla najczęściej publikowanych treści internetowych oraz przygotowaniu pracowników do ich stosowania.
+
+Rezultatem usługi są wzorce treści odpowiadające sposobowi komunikacji organizacji oraz osoby przygotowane do ich wykorzystywania i rozwijania.
+
+---
+
+### 4.2.7. Tworzenie zasad i metod kontroli dostępności dokumentów przed publikacją
+
+Usługa polegająca na opracowaniu sposobu sprawdzania dostępności dokumentów elektronicznych przed ich opublikowaniem lub udostępnieniem.
+
+Rezultatem usługi są zasady kontroli odpowiadające sposobowi przygotowywania dokumentów w organizacji, listy kontrolne i narzędzia wspierające ocenę oraz pracownicy, którzy podczas ich wspólnego opracowywania zdobyli praktyczne umiejętności oceniania dostępności dokumentów i są przygotowani do samodzielnego rozwijania oraz doskonalenia przyjętych metod kontroli.
+
+---
+
+### 4.2.8. Tworzenie zasad i metod kontroli dostępności treści internetowych przed publikacją
+
+Usługa polegająca na opracowaniu sposobu sprawdzania dostępności treści internetowych przed ich opublikowaniem.
+
+Rezultatem usługi są metody kontroli dostosowane do sposobu publikowania treści w organizacji, materiały pomocnicze wspierające wykonywanie ocen oraz pracownicy, którzy podczas ich wspólnego opracowywania zdobyli praktyczne umiejętności oceniania dostępności treści internetowych i są przygotowani do samodzielnego rozwijania oraz doskonalenia przyjętych metod kontroli.
+
+---
+
+### 4.2.9. Tworzenie programów szkoleń wewnętrznych i przygotowanie kadry trenerskiej
+
+Usługa polegająca na przygotowaniu organizacji do samodzielnego prowadzenia szkoleń dotyczących dostępności cyfrowej.
+
+Rezultatem usługi są programy szkoleń dostosowane do potrzeb organizacji, materiały dydaktyczne i scenariusze zajęć oraz pracownicy, którzy podczas ich wspólnego opracowywania zdobyli praktyczne umiejętności projektowania i prowadzenia szkoleń z zakresu dostępności cyfrowej oraz są przygotowani do samodzielnego rozwijania oferty szkoleniowej organizacji.
+
+---
+
+### 4.2.10. Tworzenie programu wdrażania nowych pracowników w zakresie dostępności cyfrowej
+
+Usługa polegająca na włączeniu przygotowania do wykonywania zadań zgodnie z wymaganiami dostępności do procesu wdrażania nowych pracowników.
+
+Rezultatem usługi jest program wdrażania nowych pracowników obejmujący przygotowanie do wykonywania zadań zgodnie z wymaganiami dostępności cyfrowej oraz osoby, które podczas jego wspólnego opracowywania zdobyły praktyczne umiejętności organizowania, prowadzenia i rozwijania procesu wdrażania nowych pracowników w tym obszarze.
+
+---
+
+### 4.2.11. Tworzenie „Biblioteczki dostępności”
+
+Usługa polegająca na przygotowaniu i uporządkowaniu wewnętrznych zasobów wiedzy wspierających pracowników w wykonywaniu codziennych zadań związanych z dostępnością cyfrową.
+
+Rezultatem usługi jest uporządkowany zbiór standardów, instrukcji, list kontrolnych, szablonów, przykładów, materiałów szkoleniowych i innych zasobów wiedzy dostosowanych do potrzeb organizacji oraz pracownicy, którzy podczas jego wspólnego tworzenia zdobyli praktyczne umiejętności gromadzenia, organizowania, udostępniania i rozwijania zasobów wiedzy wspierających zapewnianie dostępności cyfrowej.
+
+---
+
+### 4.2.12. Tworzenie pierwszej linii wsparcia dostępności
+
+Usługa polegająca na przygotowaniu osób, zasad działania oraz narzędzi umożliwiających udzielanie pracownikom bieżącej pomocy w rozwiązywaniu typowych problemów związanych z dostępnością cyfrową.
+
+Rezultatem usługi jest funkcjonująca pierwsza linia wsparcia wraz z zasadami obsługi zgłoszeń, materiałami wspierającymi pracę oraz pracownikami, którzy podczas wspólnego opracowywania tego rozwiązania zdobyli praktyczne umiejętności udzielania bieżącego wsparcia, rozwiązywania typowych problemów oraz przekazywania bardziej złożonych zagadnień właściwym specjalistom.
+
+---
+
+### 4.2.13. Tworzenie wspólnego wsparcia kompetencyjnego dla jednostek podległych
+
+Usługa polegająca na przygotowaniu wspólnych rozwiązań wspierających rozwój kompetencji pracowników wielu jednostek organizacyjnych.
+
+Rezultatem usługi jest wspólny system wsparcia kompetencyjnego obejmujący rozwiązania dostosowane do potrzeb jednostek organizacyjnych oraz osoby, które podczas jego wspólnego projektowania zdobyły praktyczne umiejętności organizowania, utrzymywania i rozwijania wspólnych mechanizmów wspierających rozwój kompetencji w całej strukturze organizacyjnej.
+
+
+
+---
+
+
+### 4.2.14. Przygotowanie zespołu do okresowego oceniania stanu dostępności i zgodności
+
+Usługa polegająca na przygotowaniu pracowników organizacji do samodzielnego planowania, wykonywania, dokumentowania i wykorzystywania okresowych ocen stanu dostępności i zgodności rozwiązań cyfrowych.
+
+Rezultatem usługi jest zespół pracowników, który podczas wspólnego przeprowadzania rzeczywistych ocen zdobył praktyczne umiejętności planowania, wykonywania, dokumentowania i wykorzystywania wyników ocen oraz jest przygotowany do samodzielnego prowadzenia kolejnych ocen zgodnie z przyjętymi w organizacji zasadami.
+
+---
+
+### 4.2.15. Przygotowanie do wykonywania zadań specjalistycznych
+
+Usługa polegająca na przygotowaniu pracowników do wykonywania specjalistycznych zadań wymagających kwalifikacji wykraczających poza kompetencje potrzebne większości pracowników organizacji.
+
+Usługa może obejmować przygotowanie do wykonywania takich zadań jak testowanie dostępności, tworzenie dostępnych publikacji elektronicznych, naprawianie dokumentów PDF, wykorzystanie technologii wspomagających, prowadzenie badań dostępności lub innych specjalistycznych działań wynikających z potrzeb organizacji.
+
+Rezultatem usługi są pracownicy, którzy podczas wykonywania rzeczywistych zadań specjalistycznych zdobyli praktyczne umiejętności samodzielnego wykonywania powierzonych im obowiązków oraz organizacja przygotowana do rozwijania i wykorzystywania tych kompetencji w swojej bieżącej działalności.
+
+---
+
+Poszczególne usługi wsparcia kompetencyjnego mogą być realizowane jako samodzielne przedsięwzięcia lub jako element szerszego programu rozwoju organizacji. W praktyce najczęściej uzupełniają usługi wsparcia organizacyjnego, przygotowując pracowników do stosowania nowych zasad i rozwiązań organizacyjnych, oraz usługi audytorskie, które dostarczają wiedzy o skuteczności stosowanych rozwiązań i wskazują obszary wymagające dalszego rozwoju.
+
+---
+
+# 5. Usługi audytorskie
+
+## 5.1. Jak rozumieć usługi audytorskie
+
+Usługi audytorskie dostarczają organizacji wiarygodnej wiedzy potrzebnej do podejmowania decyzji dotyczących zapewniania dostępności cyfrowej. Mogą służyć rozpoznaniu problemów, identyfikacji ich przyczyn, monitorowaniu zmian, ocenie rezultatów prowadzonych działań, potwierdzeniu zgodności z wymaganiami lub ocenie ryzyka związanego z podejmowanymi decyzjami.
+
+Wspólną cechą wszystkich usług audytorskich jest prowadzenie systematycznej obserwacji, analizy lub oceny określonego przedmiotu oraz przedstawienie rezultatów w formie umożliwiającej ich wykorzystanie przez organizację.
+
+Przedmiotem usług audytorskich mogą być między innymi:
+
+- strony internetowe,
+- aplikacje mobilne,
+- systemy informatyczne,
+- dokumenty elektroniczne,
+- procesy użytkownika,
+- usługi publiczne z komponentem cyfrowym,
+- projekty rozwiązań cyfrowych,
+- materiały dowodowe dotyczące dostępności,
+- działania podejmowane przez wykonawców,
+- stan dostępności i zgodności rozwiązań cyfrowych.
+
+Usługi audytorskie różnią się celem, zakresem, metodyką oraz sposobem wykorzystania ich rezultatów. Nie każda usługa prowadzi do formalnej oceny zgodności. W zależności od potrzeb organizacji usługa może służyć rozpoznaniu problemów, wsparciu realizacji przedsięwzięcia, monitorowaniu zmian, ocenie ryzyka lub potwierdzeniu spełnienia wymagań dostępności.
+
+Usługi audytorskie nie polegają na usuwaniu wykrytych problemów ani na przejmowaniu odpowiedzialności za decyzje podejmowane przez organizację. Ich zadaniem jest dostarczenie rzetelnych informacji stanowiących podstawę planowania działań, podejmowania decyzji oraz oceny ich rezultatów.
+
+---
+
+## 5.2. Usługi audytorskie
+
+W słowniku wyróżniono szesnaście podstawowych usług audytorskich.
+
+### 5.2.1. Testowanie dostępności
+
+Usługa polegająca na wykonaniu określonych testów dostępności wybranego rozwiązania cyfrowego, jego części lub procesu użytkownika.
+
+Rezultatem usługi jest wykonanie uzgodnionych testów oraz udokumentowanie ich wyników.
+
+---
+
+### 5.2.2. Skanowanie dostępności
+
+Usługa polegająca na automatycznym wykrywaniu problemów dostępności z wykorzystaniem narzędzi wspomagających ocenę dostępności cyfrowej.
+
+Rezultatem usługi jest identyfikacja problemów możliwych do wykrycia metodami automatycznymi oraz przygotowanie materiałów wspierających dalszą ocenę lub monitorowanie stanu dostępności.
+
+---
+
+### 5.2.3. Przegląd diagnostyczny
+
+Usługa polegająca na rozpoznaniu najważniejszych problemów dostępności oraz określeniu ich wpływu na możliwość korzystania z rozwiązania cyfrowego.
+
+Rezultatem usługi jest diagnoza sytuacji oraz wskazanie priorytetów dalszych działań.
+
+---
+
+### 5.2.4. Ocena dostępności projektu
+
+Usługa polegająca na ocenie projektu rozwiązania cyfrowego przed jego wdrożeniem pod kątem spełnienia wymagań dostępności oraz ryzyka powstania barier.
+
+Rezultatem usługi jest identyfikacja ryzyk oraz rekomendacje zmian umożliwiających uwzględnienie dostępności na etapie projektowania.
+
+---
+
+### 5.2.5. Ocena dostępności dokumentu elektronicznego
+
+Usługa polegająca na ocenie dostępności dokumentu elektronicznego oraz identyfikacji problemów wpływających na możliwość korzystania z jego treści.
+
+Rezultatem usługi jest ocena dostępności dokumentu oraz rekomendacje dotyczące usunięcia zidentyfikowanych problemów.
+
+---
+
+### 5.2.6. Ocena dostępności cyfrowej usługi
+
+Usługa polegająca na ocenie wpływu komponentów cyfrowych wykorzystywanych podczas realizacji usługi publicznej na możliwość skutecznego skorzystania z tej usługi przez użytkownika.
+
+Rezultatem usługi jest identyfikacja barier utrudniających realizację celu usługi oraz rekomendacje dotyczące ich usunięcia.
+
+---
+
+### 5.2.7. Badania z użytkownikami
+
+Usługa polegająca na obserwacji rzeczywistego korzystania z rozwiązania cyfrowego przez użytkowników reprezentujących określone grupy odbiorców.
+
+Rezultatem usługi jest identyfikacja problemów ujawniających się podczas rzeczywistego korzystania z rozwiązania oraz ich wpływu na użytkowników.
+
+---
+
+### 5.2.8. Wsparcie prac naprawczych
+
+Usługa polegająca na wspieraniu zespołów realizujących działania naprawcze poprzez wyjaśnianie problemów dostępności, konsultowanie proponowanych rozwiązań oraz weryfikowanie sposobu usuwania barier.
+
+Rezultatem usługi jest ograniczenie ryzyka niewłaściwego usunięcia problemów oraz zwiększenie skuteczności prowadzonych prac.
+
+---
+
+### 5.2.9. Nadzór audytorski nad realizacją zamówienia
+
+Usługa polegająca na bieżącej ocenie zgodności realizowanych prac z wymaganiami dostępności określonymi dla przedsięwzięcia oraz identyfikowaniu ryzyk mogących wpłynąć na końcowy rezultat.
+
+Rezultatem usługi jest wczesne wykrywanie problemów oraz ograniczenie ryzyka zakończenia przedsięwzięcia rozwiązaniem niespełniającym wymagań dostępności.
+
+---
+
+### 5.2.10. Monitoring dostępności
+
+Usługa polegająca na systematycznym obserwowaniu stanu dostępności rozwiązań cyfrowych oraz identyfikowaniu zmian zachodzących w czasie.
+
+Rezultatem usługi jest bieżąca wiedza o stanie dostępności oraz informacje wspierające planowanie dalszych działań.
+
+---
+
+### 5.2.11. Wdrożenie systemu obserwowania i oceniania stanu dostępności i zgodności
+
+Usługa polegająca na przygotowaniu organizacji do prowadzenia systematycznej obserwacji i oceny stanu dostępności oraz zgodności rozwiązań cyfrowych.
+
+Rezultatem usługi jest wdrożenie sposobu prowadzenia ocen oraz gromadzenia i wykorzystywania wiedzy o stanie dostępności w procesie zarządzania organizacją.
+
+---
+
+### 5.2.12. Weryfikacja prac naprawczych
+
+Usługa polegająca na sprawdzeniu skuteczności działań podjętych w celu usunięcia wcześniej zidentyfikowanych problemów dostępności.
+
+Rezultatem usługi jest potwierdzenie usunięcia problemów lub wskazanie niezgodności wymagających dalszych działań.
+
+---
+
+### 5.2.13. Wsparcie audytorskie odbioru
+
+Usługa polegająca na ocenie dostępności rozwiązania cyfrowego przed jego odbiorem oraz analizie materiałów dowodowych przedstawionych przez wykonawcę.
+
+Rezultatem usługi jest dostarczenie zamawiającemu informacji wspierających podjęcie decyzji dotyczącej odbioru rozwiązania.
+
+---
+
+### 5.2.14. Audyt zgodności
+
+Usługa polegająca na przeprowadzeniu kompleksowej oceny zgodności rozwiązania cyfrowego z wymaganiami dostępności według określonej metodyki oraz udokumentowaniu jej wyników.
+
+Rezultatem usługi jest formalna ocena zgodności wraz z materiałem dowodowym stanowiącym podstawę przedstawionych wniosków.
+
+---
+
+### 5.2.15. Ocena na potrzeby deklaracji dostępności
+
+Usługa polegająca na przeprowadzeniu oceny dostępności w zakresie niezbędnym do przygotowania, przeglądu lub aktualizacji deklaracji dostępności.
+
+Rezultatem usługi jest dostarczenie informacji umożliwiających sporządzenie lub aktualizację deklaracji dostępności zgodnie z obowiązującymi wymaganiami.
+
+---
+
+### 5.2.16. Wsparcie audytorskie oceny nieproporcjonalnego obciążenia
+
+Usługa polegająca na analizie okoliczności mogących uzasadniać zastosowanie nieproporcjonalnego obciążenia oraz ocenie materiałów stanowiących podstawę podejmowanych decyzji.
+
+Rezultatem usługi jest przygotowanie informacji wspierających organizację w przeprowadzeniu oceny nieproporcjonalnego obciążenia oraz udokumentowaniu jej wyników.
+
+---
+
+Poszczególne usługi audytorskie mogą być realizowane jako samodzielne przedsięwzięcia lub jako element szerszego programu wsparcia organizacji. Często towarzyszą usługom wsparcia organizacyjnego i kompetencyjnego, dostarczając wiedzy niezbędnej do planowania zmian, oceny ich skuteczności oraz podejmowania decyzji dotyczących dalszego doskonalenia systemu zapewniania dostępności cyfrowej.
+
+# 6. Łączenie usług eksperckich
+
+## 6.1. Usługi komplementarne
+
+Poszczególne usługi eksperckie odpowiadają na różne potrzeby organizacji. Nie konkurują ze sobą ani nie stanowią alternatywnych sposobów osiągania tego samego celu. Najczęściej wzajemnie się uzupełniają i są wykorzystywane jako elementy jednego przedsięwzięcia.
+
+Przykładowo organizacja może:
+
+- skorzystać z usługi wsparcia organizacyjnego w celu opracowania zasad zarządzania dostępnością,
+- równolegle rozwijać kompetencje pracowników odpowiedzialnych za realizację nowych zadań,
+- wykorzystać usługi audytorskie do oceny rezultatów wdrożonych zmian oraz planowania dalszych działań.
+
+Podobnie w ramach jednego przedsięwzięcia mogą być łączone różne usługi należące do tej samej rodziny. Na przykład program wsparcia organizacyjnego może obejmować zarówno ocenę dojrzałości organizacyjnej, jak i opracowanie zasad zarządzania dostępnością, przypisanie odpowiedzialności oraz przygotowanie organizacji do uwzględniania dostępności w procesach zaopatrzenia.
+
+Dobór usług powinien wynikać z celów przedsięwzięcia oraz potrzeb organizacji, a nie z przyzwyczajeń lub dostępności określonych usług na rynku.
+
+---
+
+## 6.2. Typowe ścieżki wykorzystania usług
+
+Choć każda organizacja ma własne potrzeby i uwarunkowania, w praktyce można wyróżnić kilka typowych sposobów łączenia usług eksperckich.
+
+### Rozpoczęcie systemowego zapewniania dostępności
+
+- Ocena dojrzałości organizacyjnej i planowanie programu rozwoju.
+- Włączenie dostępności do zarządzania organizacją.
+- Budowanie świadomości organizacyjnej.
+- Rozwijanie zdolności do realizacji zadań.
+- Wdrożenie systemu obserwowania i oceniania stanu dostępności i zgodności.
+
+---
+
+### Wdrażanie nowych zasad i procedur
+
+- Usługi wsparcia organizacyjnego związane z projektowaną zmianą.
+- Wsparcie wdrażania nowych sposobów działania.
+- Rozwijanie zdolności do realizacji zadań.
+- Monitoring dostępności lub weryfikacja rezultatów wdrożenia.
+
+---
+
+### Przygotowanie i realizacja przedsięwzięcia informatycznego
+
+- Włączanie dostępności do zarządzania systemami informatycznymi.
+- Ocena dostępności projektu.
+- Nadzór audytorski nad realizacją zamówienia.
+- Wsparcie prac naprawczych.
+- Wsparcie audytorskie odbioru.
+- Audyt zgodności lub ocena na potrzeby deklaracji dostępności.
+
+---
+
+### Doskonalenie istniejących rozwiązań
+
+- Przegląd diagnostyczny.
+- Badania z użytkownikami.
+- Wsparcie prac naprawczych.
+- Weryfikacja prac naprawczych.
+- Monitoring dostępności.
+
+---
+
+### Rozwijanie kompetencji organizacji
+
+- Budowanie świadomości organizacyjnej.
+- Rozwijanie zdolności do realizacji zadań.
+- Wsparcie wdrażania nowych sposobów działania.
+- Budowanie systemu rozwoju kompetencji.
+
+Przedstawione ścieżki mają charakter przykładowy. W zależności od rodzaju przedsięwzięcia organizacja może wykorzystywać tylko wybrane usługi lub łączyć je w inny sposób.
+
+---
+
+## 6.3. Usługi eksperckie a usługi wykonawcze
+
+Usługi opisane w niniejszym słowniku są usługami eksperckimi. Ich podstawowym rezultatem jest dostarczenie organizacji wiedzy, rozwiązań organizacyjnych, kompetencji lub materiałów stanowiących podstawę podejmowania decyzji.
+
+Nie należy utożsamiać ich z usługami wykonawczymi, których celem jest wytworzenie produktu lub wykonanie określonych prac.
+
+Przykładami usług wykonawczych są między innymi:
+
+- projektowanie i rozwój oprogramowania,
+- usuwanie błędów w kodzie źródłowym,
+- tworzenie stron internetowych i aplikacji,
+- przygotowywanie dokumentów elektronicznych,
+- konwersja dokumentów do postaci dostępnej,
+- opracowywanie materiałów multimedialnych,
+- wykonywanie tłumaczeń na Polski Język Migowy,
+- opracowywanie audiodeskrypcji,
+- wykonywanie transkrypcji.
+
+Usługi eksperckie mogą wspierać planowanie, realizację lub odbiór usług wykonawczych, jednak nie zastępują ich.
+
+Podobnie usługi wykonawcze nie zastępują usług eksperckich. Samo usunięcie błędów dostępności nie dostarcza organizacji wiedzy pozwalającej ocenić skuteczność wykonanych prac ani nie prowadzi do trwałego zwiększenia zdolności organizacji do zapewniania dostępności.
+
+---
+
+## 6.4. Metody i formy realizacji usług
+
+Usługa ekspercka określa **cel i oczekiwane rezultaty wsparcia**, natomiast sposób jej realizacji może być różny.
+
+Ta sama usługa może być realizowana z wykorzystaniem różnych metod oraz form współpracy, odpowiednio dobranych do potrzeb organizacji, charakteru przedsięwzięcia oraz oczekiwanych rezultatów.
+
+W praktyce mogą być wykorzystywane między innymi:
+
+- konsultacje eksperckie,
+- warsztaty,
+- szkolenia,
 - mentoring,
 - coaching zadaniowy,
-- konsultacje eksperckie,
-- wsparcie wdrożeniowe,
-- wspólna realizacja działań z zespołem organizacji.
-
-#### Typowe zastosowania
-
-- wdrażanie standardów publikowania treści,
-- wdrażanie procedur badania dostępności,
-- wdrażanie polityki dostępności,
-- organizacja systemu monitorowania,
-- wdrażanie nowych narzędzi i rozwiązań.
-
----
-
-### 4.4 Budowanie systemu rozwoju kompetencji
-
-#### Definicja
-
-Usługa polegająca na projektowaniu i wdrażaniu rozwiązań zapewniających trwały rozwój kompetencji związanych z dostępnością cyfrową.
-
-#### Cel
-
-Zapewnienie organizacji zdolności do samodzielnego rozwijania i utrzymywania kompetencji niezbędnych do realizacji zadań związanych z dostępnością.
-
-#### Rezultaty
-
-- system wsparcia kompetencyjnego,
-- ścieżki rozwoju kompetencji,
-- programy wdrożenie nowych pracowników (onboardingu),
-- materiały i zasoby wiedzy,
-- społeczności praktyków,
-- mechanizmy organizacyjnego uczenia się.
-
-#### Typowe formy realizacji
-
-- projektowanie systemów wsparcia kompetencyjnego,
-- opracowywanie ścieżek rozwoju,
-- projektowanie programów onboardingu,
-- tworzenie baz wiedzy,
-- rozwijanie społeczności praktyków.
-
-#### Typowe zastosowania
-
-- budowanie trwałych kompetencji organizacji,
-- rozwijanie zdolności do samodzielnego szkolenia pracowników,
-- organizowanie wsparcia dla ról związanych z dostępnością,
-- rozwijanie organizacyjnego uczenia się,
-- zwiększanie dojrzałości organizacji.
-
----
-
-## 5. Usługi diagnostyczne
-
-### 5.1 Monitoring dostępności
-
-**Definicja**
-
-Bieżące obserwowanie stanu dostępności oraz identyfikowanie zmian i problemów.
-
-Monitoring dostępności może obejmować zarówno obserwację stanu dostępności rozwiązań cyfrowych, jak i gromadzenie informacji o problemach zgłaszanych przez użytkowników oraz wynikach działań naprawczych.
-
-**Cel**
-
-Zapewnienie widoczności problemów oraz informacji o stanie dostępności.
-
-**Rezultaty**
-
-- regularne informacje o stanie dostępności,
-- wykrywanie problemów,
-- dane do podejmowania decyzji.
-
----
-
-### 5.2 Przegląd diagnostyczny
-
-**Definicja**
-
-Ocena stanu dostępności ukierunkowana na identyfikację najważniejszych problemów, ich wpływu oraz priorytetów działań.
-
-**Cel**
-
-Rozpoznanie sytuacji i określenie kierunków dalszego działania.
-
-**Rezultaty**
-
-- identyfikacja problemów,
-- ocena ich znaczenia,
-- priorytety działań,
-- rekomendacje dalszego postępowania.
-
-**Uwagi**
-
-Przegląd diagnostyczny nie jest oceną zgodności.
-
----
-
-### 5.3 Ocena dokumentów elektronicznych
-
-**Definicja**
-
-Diagnostyczna ocena dostępności dokumentów elektronicznych ukierunkowana na identyfikację problemów oraz ocenę ich wpływu na możliwość korzystania z dokumentów przez użytkowników.
-
-**Cel**
-
-Identyfikacja problemów występujących w dokumentach.
-
-**Rezultaty**
-
-- identyfikacja barier,
-- ocena ich znaczenia,
-- wskazanie typowych problemów,
-- rekomendacje działań naprawczych,
-- rekomendacje dotyczące sposobu tworzenia dokumentów.
-
-**Typowe zastosowania**
-
-- dokumenty publikowane w BIP,
-- formularze elektroniczne,
-- dokumenty urzędowe,
-- dokumentacja projektowa,
-- materiały edukacyjne.
-
----
-
-### 5.4 Ocena dostępności cyfrowej usługi publicznej
-
-**Definicja**
-
-Ocena wpływu komponentów cyfrowych wykorzystywanych w realizacji usługi publicznej na możliwość skutecznego uzyskania informacji, komunikowania się z podmiotem publicznym oraz realizacji celu usługi przez użytkownika.
-
-Ocena może obejmować strony internetowe, aplikacje mobilne, formularze elektroniczne, dokumenty elektroniczne, portale klienta, aplikacje internetowe, systemy informatyczne oraz inne rozwiązania cyfrowe wykorzystywane podczas realizacji usługi.
-
-Ocena dostępności cyfrowej usługi publicznej nie jest audytem zgodności poszczególnych komponentów cyfrowych ani kompleksową oceną dostępności usługi publicznej. Przedmiotem oceny jest wpływ komponentów cyfrowych na możliwość skutecznego skorzystania z usługi przez użytkownika.
-
-Ocena może być prowadzona zarówno dla całej usługi publicznej, jak i dla wybranych komponentów cyfrowych wykorzystywanych podczas jej realizacji.
-
-**Cel**
-
-Ocena, czy komponenty cyfrowe wykorzystywane w realizacji usługi publicznej umożliwiają użytkownikowi skuteczne i samodzielne wykonanie czynności niezbędnych do skorzystania z usługi oraz identyfikacja barier utrudniających realizację celu usługi.
-
-**Rezultaty**
-
-- identyfikacja barier występujących w cyfrowych elementach usługi,
-- ocena wpływu tych barier na możliwość realizacji celu usługi,
-- ocena przebiegu ścieżki użytkownika z wykorzystaniem komponentów cyfrowych,
-- identyfikacja problemów technicznych, funkcjonalnych i organizacyjnych wpływających na dostępność cyfrową usługi,
-- rekomendacje zmian zwiększających dostępność cyfrową usługi.
-
-**Typowe zastosowania**
-
-- ocena e-usług publicznych,
-- ocena usług realizowanych przy wykorzystaniu formularzy elektronicznych,
-- ocena procesów składania wniosków przez Internet,
-- ocena usług wykorzystujących portale klienta,
-- ocena usług wykorzystujących aplikacje mobilne,
-- ocena cyfrowych komponentów usług realizowanych wielokanałowo,
-- ocena usług przed ich uruchomieniem lub przebudową.
-
----
-
-## 6. Usługi analityczne
-
-### 6.1 Badania wycinkowe
-
-**Definicja**
-
-Pogłębiona analiza wybranego problemu, procesu lub funkcjonalności.
-
-**Cel**
-
-Zrozumienie przyczyn problemu.
-
-**Rezultaty**
-
-- analiza przyczyn,
-- ocena skutków,
-- rekomendacje działań.
-
----
-
-### 6.2 Badania z użytkownikami
-
-**Definicja**
-
-Badania polegające na obserwacji rzeczywistego korzystania z rozwiązania przez użytkowników.
-
-Badania mogą obejmować użytkowników z niepełnosprawnościami, osoby starsze oraz inne grupy użytkowników, dla których dostępność może mieć istotne znaczenie.
-
-**Cel**
-
-Ocena możliwości realizacji zadań przez użytkowników.
-
-**Rezultaty**
-
-- identyfikacja rzeczywistych barier,
-- ocena doświadczenia użytkownika,
-- rekomendacje zmian.
-
----
-
-### 6.3 Ekspertyza
-
-**Definicja**
-
-Usługa służąca rozstrzygnięciu konkretnego problemu lub wątpliwości.
-
-**Cel**
-
-Wsparcie procesu podejmowania decyzji.
-
-**Rezultaty**
-
-- opinia ekspercka,
-- rekomendacja rozwiązania,
-- uzasadnienie.
-
----
-
-### 6.4 Ocena dokumentacji projektowej
-
-**Definicja**
-
-Ocena dokumentacji projektowej przed wdrożeniem rozwiązania.
-
-**Cel**
-
-Identyfikacja ryzyk dostępności przed rozpoczęciem realizacji.
-
-**Rezultaty**
-
-- identyfikacja ryzyk,
-- rekomendacje zmian,
-- ocena jakości wymagań.
-
----
-
-# 7. Usługi formalnej oceny
-
-## Charakter usług
-
-Usługi formalnej oceny służą ocenie zgodności rozwiązań cyfrowych z wymaganiami dostępności oraz dokumentowaniu wyników tej oceny.
-
-Poszczególne usługi różnią się celem, zakresem badania oraz poziomem szczegółowości, jednak wszystkie prowadzą do sformułowania formalnej oceny zgodności.
-
----
-
-## 7.1 Okresowa ocena stanu zgodności
-
-### Definicja
-
-Ocena zgodności wykonywana w celu określenia aktualnego poziomu zgodności rozwiązania oraz wsparcia działań związanych z monitorowaniem jakości, aktualizacją deklaracji dostępności lub planowaniem dalszych działań.
-
-### Cel
-
-Określenie aktualnego stanu zgodności rozwiązania oraz identyfikacja najważniejszych problemów wpływających na poziom zgodności.
-
-### Rezultaty
-
-- określenie poziomu zgodności,
-- wskazanie najważniejszych niezgodności,
-- identyfikacja obszarów wymagających poprawy,
-- informacje wspierające aktualizację deklaracji dostępności,
-- rekomendacje dalszych działań.
-
-### Zastosowanie
-
-- aktualizacja deklaracji dostępności,
-- okresowe przeglądy jakości,
-- monitorowanie stanu dostępności,
-- planowanie działań naprawczych.
-
----
-
-## 7.2 Ocena zgodności przed odbiorem
-
-### Definicja
-
-Ocena zgodności wykonywana przed odbiorem produktu lub usługi cyfrowej. Obejmuje analizę dowodów dostępności przedstawionych przez wykonawcę oraz weryfikację wybranych funkcjonalności i wymagań dostępności.
-
-
-### Cel
-
-Ocena, czy istnieją wystarczające podstawy do uznania, że rozwiązanie spełnia wymagania dostępności oraz może zostać odebrane przez zamawiającego.
-
-Ocena zgodności przed odbiorem koncentruje się przede wszystkim na ocenie ryzyka odbioru rozwiązania niespełniającego wymagań dostępności.
-
-### Rezultaty
-
-- ocena stopnia spełnienia wymagań,
-- identyfikacja istotnych ryzyk,
-- weryfikacja przedstawionych dowodów zgodności,
-- rekomendacja odbioru, odbioru warunkowego lub odmowy odbioru.
-
-### Zastosowanie
-
-- odbiór stron internetowych,
-- odbiór aplikacji mobilnych,
-- odbiór systemów informatycznych,
-- odbiór dokumentacji elektronicznej,
-- odbiór usług rozwojowych i utrzymaniowych.
-
-### Uwagi
-
-Ocena zgodności przed odbiorem nie zastępuje obowiązku przedstawienia przez wykonawcę dowodów zgodności, takich jak ACR  (Accessibility Conformance Report), raporty testów lub dokumentacja potwierdzająca spełnienie wymagań.
-
----
-
-## 7.3 Audyt zgodności
-
-### Definicja
-
-Kompleksowa ocena zgodności rozwiązania z wymaganiami dostępności przeprowadzana według określonej metodyki oraz zakończona sporządzeniem szczegółowego raportu zawierającego ocenę zgodności i materiał dowodowy.
-
-### Cel
-
-Uzyskanie wiarygodnej, udokumentowanej i możliwej do zweryfikowania oceny zgodności rozwiązania z wymaganiami dostępności.
-
-Audyt zgodności służy ocenie zgodności rozwiązania oraz udokumentowaniu wykrytych niezgodności. Nie jest jego celem identyfikacja wszystkich występujących problemów ani przygotowanie kompletnej listy działań naprawczych.
-
-### Rezultaty
-
-- określenie poziomu zgodności,
-- identyfikacja niezgodności,
-- szczegółowy materiał dowodowy,
-- raport zgodności,
-- rekomendacje działań naprawczych i doskonalących.
-
-### Zastosowanie
-
-- niezależna ocena zgodności,
-- ocena po zakończeniu działań naprawczych,
-- ocena rozwiązań o wysokim znaczeniu,
-- sytuacje wymagające pełnego materiału dowodowego,
-- postępowania kontrolne i odbiorowe.
-
-### Uwagi
-
-Audyt zgodności nie zastępuje monitorowania, przeglądów diagnostycznych ani działań naprawczych. Jest najbardziej kompleksową formą oceny zgodności.
-
----
-
-## 7.4 Ocena dojrzałości organizacji
-
-### Definicja
-
-Ocena zdolności organizacji do skutecznego, powtarzalnego i trwałego zapewniania dostępności cyfrowej poprzez analizę decyzji kierowniczych, procesów, odpowiedzialności, kompetencji oraz mechanizmów doskonalenia.
-
-### Cel
-
-Ocena sposobu zarządzania dostępnością oraz zdolności organizacji do osiągania trwałych rezultatów.
-
-
-### Rezultaty
-
-- określenie poziomu dojrzałości,
-- identyfikacja luk organizacyjnych,
-- ocena realizacji decyzji kierowniczych,
-- identyfikacja obszarów ryzyka,
-- rekomendacje działań rozwojowych.
-
-### Zastosowanie
-
-- budowa systemu zarządzania dostępnością,
-- planowanie działań strategicznych,
-- monitorowanie rozwoju organizacji,
-- ocena skuteczności wdrażanych zmian.
-
-### Uwagi
-
-Przedmiotem oceny nie są strony internetowe, aplikacje lub dokumenty, lecz sposób działania organizacji.
-
----
-
-## 8. Usługi wdrożeniowe
-
-### 8.1 Usługi naprawcze
-
-**Definicja**
-
-Usługi polegające na usuwaniu barier dostępności.
-
-**Cel**
-
-Przywrócenie lub poprawa dostępności.
-
-**Rezultaty**
-
-- usunięcie niezgodności,
-- poprawa jakości rozwiązań.
-
----
-
-### 8.2 Dostosowanie dokumentów i treści
-
-**Definicja**
-
-Usługi polegające na dostosowaniu treści i dokumentów do wymagań dostępności.
-
-**Cel**
-
-Zapewnienie dostępności istniejących zasobów.
-
-**Rezultaty**
-
-- dostępne dokumenty,
-- dostępne publikacje,
-- poprawa jakości komunikacji.
-
----
-
-### 8.3 Wsparcie projektowe
-
-**Definicja**
-
-Wsparcie projektów realizowanych przez organizację.
-
-**Cel**
-
-Zapobieganie powstawaniu nowych barier.
-
-**Rezultaty**
-
-- ograniczenie ryzyk,
-- poprawa jakości rozwiązań,
-- uwzględnienie dostępności od początku projektu.
-
----
-
-### 8.4 Nadzór ekspercki
-
-**Definicja**
-
-Stałe wsparcie eksperta nadzorującego zgodność realizowanych działań z wymaganiami dostępności.
-
-**Cel**
-
-Zapewnienie jakości i zgodności realizowanych działań.
-
-**Rezultaty**
-
-- bieżące wsparcie,
-- ograniczenie ryzyk,
-- poprawa jakości wdrożeń.
-
----
-
-# 9. Podsumowanie
-
-Poszczególne usługi odpowiadają różnym potrzebom organizacji:
-
-| Potrzeba | Typ usługi |
-|-----------|------------|
-| Budowa systemu działania | usługi organizacyjne |
-| Rozwój kompetencji | wsparcie kompetencyjne |
-| Rozpoznanie problemów | usługi diagnostyczne |
-| Zrozumienie problemów | usługi analityczne |
-| Potwierdzenie zgodności | usługi formalnej oceny |
-| Wdrożenie zmian | usługi wdrożeniowe |
-
-Dobór usługi powinien wynikać z celu, jaki organizacja chce osiągnąć, oraz decyzji, które zamierza podjąć na podstawie wyników tej usługi.
-
-Ta sama potrzeba organizacji może być realizowana:
-
-- samodzielnie przez organizację,
-- przy wsparciu ekspertów,
-- poprzez zlecenie wykonania usługi podmiotowi zewnętrznemu.
-
-Dobór usługi nie powinien być utożsamiany z wyborem sposobu realizacji działania.
+- wspólna realizacja zadań,
+- analiza dokumentacji,
+- obserwacja procesów,
+- wywiady,
+- testowanie,
+- badania z udziałem użytkowników,
+- wykorzystanie narzędzi automatycznych,
+- przeglądy eksperckie,
+- opracowywanie dokumentów i materiałów roboczych.
+
+Dobór metod i form realizacji nie zmienia charakteru usługi. Ta sama usługa może być świadczona w różny sposób, pod warunkiem osiągnięcia uzgodnionych rezultatów.
+
+Przy zamawianiu usług eksperckich zaleca się określać przede wszystkim:
+
+- cele przedsięwzięcia,
+- oczekiwane rezultaty,
+- zakres wsparcia,
+- sposób wykorzystania rezultatów przez organizację,
+
+pozostawiając wykonawcy możliwość zaproponowania metod i form realizacji najlepiej odpowiadających charakterowi zadania.
+
+Takie podejście sprzyja uzyskaniu wsparcia odpowiadającego rzeczywistym potrzebom organizacji oraz ogranicza ryzyko utożsamiania usługi z jedną, z góry narzuconą metodyką jej realizacji.
+
+# 7. Indeks potrzeb organizacji
+
+Organizacje korzystające z usług eksperckich najczęściej rozpoczynają przygotowanie zamówienia od określenia problemu, który chcą rozwiązać, lub rezultatu, jaki chcą osiągnąć. Rzadziej potrafią od razu wskazać właściwy rodzaj usługi.
+
+Poniższe zestawienie ułatwia powiązanie najczęściej występujących potrzeb organizacji z usługami opisanymi w niniejszym słowniku. Ma ono charakter pomocniczy. W zależności od specyfiki organizacji oraz przedsięwzięcia właściwe może być wykorzystanie jednej lub kilku usług.
+
+| Potrzeba organizacji | Usługi, które warto rozważyć |
+|-----------------------|------------------------------|
+| Określenie kierunku rozwoju organizacji w zakresie dostępności cyfrowej | Ocena dojrzałości organizacyjnej i planowanie programu rozwoju |
+| Włączenie dostępności do systemu zarządzania organizacją | Włączenie dostępności do zarządzania organizacją |
+| Uporządkowanie ról i odpowiedzialności | Przypisanie odpowiedzialności oraz zapewnienie mandatu działania |
+| Zapewnienie odpowiednich zasobów do realizacji działań | Zapewnienie zasobów dla działań na rzecz dostępności |
+| Włączenie dostępności do procesów publikowania informacji i komunikacji | Włączanie dostępności do zarządzania informacją i komunikacją |
+| Włączenie dostępności do zarządzania usługami publicznymi | Włączanie dostępności do zarządzania usługami publicznymi |
+| Włączenie dostępności do zarządzania systemami informatycznymi | Włączanie dostępności do zarządzania systemami informatycznymi |
+| Włączenie dostępności do procesów zakupowych | Włączanie dostępności do zarządzania zaopatrzeniem |
+| Zwiększenie świadomości kierownictwa i pracowników | Budowanie świadomości organizacyjnej |
+| Przygotowanie pracowników do wykonywania nowych zadań | Rozwijanie zdolności do realizacji zadań |
+| Wdrożenie nowych procedur lub standardów | Wsparcie wdrażania nowych sposobów działania |
+| Zbudowanie trwałego systemu rozwoju kompetencji | Budowanie systemu rozwoju kompetencji |
+| Rozpoznanie najważniejszych problemów dostępności | Przegląd diagnostyczny |
+| Wykonanie określonych testów dostępności | Testowanie dostępności |
+| Automatyczne wykrywanie problemów dostępności | Skanowanie dostępności |
+| Ocena projektu przed rozpoczęciem wdrożenia | Ocena dostępności projektu |
+| Ocena dostępności dokumentu elektronicznego | Ocena dostępności dokumentu elektronicznego |
+| Ocena dostępności cyfrowej usługi publicznej | Ocena dostępności cyfrowej usługi |
+| Poznanie rzeczywistych doświadczeń użytkowników | Badania z użytkownikami |
+| Wsparcie zespołu podczas usuwania problemów dostępności | Wsparcie prac naprawczych |
+| Bieżąca kontrola jakości realizowanego przedsięwzięcia | Nadzór audytorski nad realizacją zamówienia |
+| Systematyczne obserwowanie zmian stanu dostępności | Monitoring dostępności |
+| Zorganizowanie systematycznego oceniania dostępności w organizacji | Wdrożenie systemu obserwowania i oceniania stanu dostępności i zgodności |
+| Sprawdzenie skuteczności wykonanych poprawek | Weryfikacja prac naprawczych |
+| Przygotowanie odbioru rozwiązania cyfrowego | Wsparcie audytorskie odbioru |
+| Uzyskanie formalnej oceny zgodności | Audyt zgodności |
+| Przygotowanie lub aktualizacja deklaracji dostępności | Ocena na potrzeby deklaracji dostępności |
+| Ocena możliwości zastosowania nieproporcjonalnego obciążenia | Wsparcie audytorskie oceny nieproporcjonalnego obciążenia |
+
+## Łączenie usług
+
+Wiele potrzeb organizacji wymaga wykorzystania kilku wzajemnie uzupełniających się usług.
+
+Przykładowo:
+
+- przygotowanie organizacji do trwałego zapewniania dostępności może wymagać połączenia usług wsparcia organizacyjnego, wsparcia kompetencyjnego oraz wdrożenia systemu obserwowania i oceniania stanu dostępności i zgodności;
+- realizacja przedsięwzięcia informatycznego może obejmować ocenę dostępności projektu, nadzór audytorski nad realizacją zamówienia, wsparcie prac naprawczych oraz wsparcie audytorskie odbioru;
+- rozwijanie kompetencji organizacji może wymagać połączenia budowania świadomości organizacyjnej, rozwijania zdolności do realizacji zadań oraz budowania systemu rozwoju kompetencji.
+
+Dobór usług powinien wynikać z celów przedsięwzięcia, aktualnych potrzeb organizacji oraz oczekiwanych rezultatów. W wielu przypadkach najbardziej efektywnym rozwiązaniem jest zaplanowanie programu wsparcia obejmującego kilka wzajemnie uzupełniających się usług, a nie zamawianie pojedynczej usługi traktowanej jako rozwiązanie wszystkich problemów.

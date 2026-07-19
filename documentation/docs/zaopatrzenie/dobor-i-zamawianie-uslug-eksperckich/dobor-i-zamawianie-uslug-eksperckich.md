@@ -1,197 +1,129 @@
 ---
 id: dobor-i-zamawianie-uslug-eksperckich
-title: Dobór i zamawianie usług eksperckich w zakresie dostępności cyfrowej
-description: Zalecenie wspierające podmioty publiczne w doborze, zamawianiu i wykorzystywaniu usług eksperckich związanych z dostępnością cyfrową.
+title: Dobór i zamawianie usług wsparcia eksperckiego w zakresie dostępności cyfrowej
+description: Zalecenie wspierające podmioty publiczne w doborze, zamawianiu i wykorzystywaniu usług wsparcia eksperckiego związanego z dostępnością cyfrową.
 sidebar_label: Zalecenie
 sidebar_position: 0
-keywords: [cykl życia TIK, dostępność cyfrowa, deklaracja dostępności, przegląd dostępności, przegląd diagnostyczny]
-tags: [cykl życia TIK, dostępność cyfrowa, deklaracja dostępności, przegląd dostępności, przegląd diagnostyczny]
-opracowanie: Stefan Wajda 
+keywords: [zaopatrzenie,dostępność cyfrowa,usługi eksperckie]
+tags: [zaopatrzenie,dostępność cyfrowa,zaopatrzenie]
+opracowanie: Stefan Wajda
 data_zgloszenia: 15 kwietnia 2026 r.
-ostatnia_aktualizacja: 2 czerwca 2026 r.
+ostatnia_aktualizacja: 19 lipca 2026 r.
 wersja_robocza: true
-
 ---
 
 ## Cel zalecenia
 
-Celem zalecenia jest wspieranie podmiotów publicznych w racjonalnym wykorzystywaniu wiedzy i usług eksperckich związanych z dostępnością cyfrową jako elementu systemu zapewniania dostępności.
+Celem zalecenia jest wspieranie podmiotów publicznych w racjonalnym doborze, zamawianiu i wykorzystywaniu usług wsparcia eksperckiego jako elementu systemu zapewniania dostępności cyfrowej.
 
 Zalecenie pomaga organizacjom:
 
-- określać potrzeby związane z dostępnością cyfrową,
-- dobierać odpowiednie formy wsparcia eksperckiego,
-- decydować, które działania realizować samodzielnie, a które przy wsparciu ekspertów lub wykonawców zewnętrznych,
-- skutecznie wykorzystywać usługi eksperckie wspierające realizację działań związanych z dostępnością cyfrową.
-
-Zalecenie ogranicza sytuacje, w których organizacje zamawiają usługi nieadekwatne do problemu, który próbują rozwiązać, lub traktują pojedyncze usługi (np. audyt, szkolenie) jako rozwiązanie uniwersalne.
+- rozpoznawać rzeczywiste potrzeby wymagające wsparcia eksperckiego,
+- dobierać rodzaj wsparcia odpowiedni do celu przedsięwzięcia,
+- przygotowywać zapytania ofertowe skoncentrowane na oczekiwanych rezultatach,
+- wykorzystywać rezultaty usług do rozwijania zdolności organizacji do samodzielnego zapewniania dostępności cyfrowej.
 
 ---
 
 ## Zalecenie
 
-Organizacja dobiera i zamawia usługi eksperckie odpowiednio do swoich potrzeb, tak aby pozyskiwać wiedzę, wsparcie lub niezależną ocenę niezbędną do realizacji zadań związanych z dostępnością cyfrową.
+Organizacja dobiera i zamawia usługi wsparcia eksperckiego odpowiednio do potrzeb przedsięwzięcia oraz oczekiwanych rezultatów.
 
-Dobór usług powinien wynikać z rzeczywistych potrzeb organizacji, celu planowanych działań oraz decyzji, które mają zostać podjęte na podstawie wyników tych usług.
+Przed podjęciem decyzji o zamówieniu usługi organizacja określa problem wymagający rozwiązania, cel planowanych działań, oczekiwane rezultaty oraz sposób ich wykorzystania po zakończeniu realizacji usługi.
 
-Usługi eksperckie stanowią element systemu zapewniania dostępności cyfrowej i są wykorzystywane odpowiednio do potrzeb organizacji oraz etapu rozwoju tego systemu.
+Przy przygotowywaniu zamówienia organizacja koncentruje się przede wszystkim na opisaniu oczekiwanych rezultatów i zmian, jakie mają nastąpić po zakończeniu współpracy, pozostawiając wykonawcom możliwość zaproponowania najbardziej odpowiedniego sposobu realizacji wsparcia.
+
+Usługi wsparcia eksperckiego stanowią element systemu zapewniania dostępności cyfrowej i służą wspieraniu decyzji, rozwojowi kompetencji oraz doskonaleniu sposobu działania organizacji.
 
 ---
 
 ## Rekomendacje
 
-### 1. Określanie potrzeb organizacji
+### 1. Rozpoczynanie od potrzeb organizacji
 
-Przed podjęciem decyzji o wykorzystaniu usługi eksperckiej organizacja określa:
+Dobór usługi powinien wynikać z rzeczywistych potrzeb organizacji, celu przedsięwzięcia oraz oczekiwanych rezultatów, a nie z nazwy usługi lub przyjętego sposobu realizacji.
 
-- problem wymagający rozwiązania,
-- cel planowanych działań,
-- oczekiwane rezultaty,
-- sposób wykorzystania wyników usługi.
+Przed wyborem usługi organizacja określa:
 
-W szczególności wskazane jest ustalenie, czy potrzeba organizacji ma charakter informacyjny, rozwojowy czy wdrożeniowy:
-
-- **Potrzeby informacyjne**
-  - pozyskanie wiedzy,
-  - uzyskanie niezależnej oceny;
-- **Potrzeby rozwojowe**
-  - rozwój kompetencji,
-  - rozwój zdolności do samodzielnego działania;
-- **Potrzeby wdrożeniowe**
-  - usprawnienie sposobu działania,
-  - wdrożenie zmian,
-  - realizacja działań przy wsparciu ekspertów.
-
-Potrzeby te powinny być rozpatrywane w kontekście realizowanych zadań, przyjętego sposobu zarządzania dostępnością oraz poziomu rozwoju organizacji.
+- problem wymagający rozwiązania;
+- cel planowanych działań;
+- oczekiwane rezultaty;
+- sposób wykorzystania rezultatów po zakończeniu realizacji usługi.
 
 ---
 
-### 2. Dobór rodzaju usługi
+### 2. Dobór rodzaju wsparcia
 
-Dobór usługi eksperckiej wynika z celu, jaki organizacja zamierza osiągnąć.
+Organizacja dobiera rodzaj wsparcia odpowiednio do charakteru problemu oraz oczekiwanych rezultatów.
 
-W zależności od potrzeb mogą być wykorzystywane między innymi:
+W zależności od potrzeb mogą być wykorzystywane usługi:
 
-- usługi organizacyjne,
-- usługi wsparcia kompetencyjnego,
-- usługi diagnostyczne,
-- usługi analityczne,
-- usługi formalnej oceny,
-- usługi wdrożeniowe.
+- organizacyjne,
+- wsparcia kompetencyjnego,
+- audytorskie,
+- oraz inne usługi eksperckie odpowiadające specyfice przedsięwzięcia.
 
-Poszczególne rodzaje usług odpowiadają różnym potrzebom organizacji i nie powinny być traktowane jako wzajemnie zastępowalne. Dobór usługi powinien wynikać z celu planowanych działań oraz oczekiwanych rezultatów. 
-
-Szczegółowy opis usług oraz wskazania dotyczące ich doboru przedstawiono w załącznikach do zalecenia.
+Poszczególne rodzaje usług nie są wzajemnie zastępowalne. Szczegółowe wskazówki dotyczące ich doboru przedstawiono w przewodnikach decyzyjnych oraz opisach usług.
 
 ---
 
-### 3. Wybór sposobu realizacji działań
+### 3. Dobór sposobu realizacji
 
-Działania związane z dostępnością cyfrową mogą być realizowane:
+Organizacja decyduje, które zadania wykonuje samodzielnie, a które realizuje przy wsparciu ekspertów lub zleca wykonawcom zewnętrznym.
 
-- samodzielnie przez organizację,
-- przy wsparciu ekspertów zewnętrznych,
-- poprzez zlecenie wykonania usługi podmiotowi zewnętrznemu.
+Przy podejmowaniu decyzji uwzględnia w szczególności:
 
-Wybór sposobu realizacji powinien uwzględniać:
-
-- charakter zadania,
+- znaczenie zadania,
 - dostępność kompetencji wewnętrznych,
-- potrzebę uzyskania niezależnej oceny,
-- koszty i efektywność realizacji,
-- długofalowe potrzeby organizacji.
-
-W wielu przypadkach najbardziej efektywne okazuje się łączenie własnych zasobów organizacji ze wsparciem eksperckim.
-
-Wybór sposobu realizacji nie powinien być ograniczany wyłącznie do decyzji o zamówieniu usługi zewnętrznej.
+- potrzebę niezależnej oceny,
+- oczekiwane rezultaty,
+- efektywność wykorzystania własnych i zewnętrznych zasobów.
 
 ---
 
-### 4. Wykorzystywanie usług eksperckich jako elementu systemu zapewniania dostępności
+### 4. Zamawianie rezultatów
 
-Usługi eksperckie stanowią narzędzie wspierające realizację zadań związanych z dostępnością cyfrową.
+Przy przygotowywaniu zapytania ofertowego organizacja opisuje przede wszystkim rezultaty, które mają zostać osiągnięte dzięki realizacji usługi.
 
-Nie zastępują one:
+Wymagania wobec wykonawcy powinny umożliwiać ocenę:
 
-- decyzji kierowniczych,
-- procesów organizacyjnych,
-- monitorowania dostępności,
-- rozwijania kompetencji,
-- działań naprawczych,
-- doskonalenia sposobu działania organizacji.
-
-Wyniki usług eksperckich powinny być wykorzystywane do podejmowania decyzji oraz planowania dalszych działań.
+- stopnia zrozumienia potrzeb organizacji,
+- trafności proponowanego sposobu realizacji,
+- jakości proponowanych rezultatów,
+- doświadczenia i kompetencji wykonawcy,
+- racjonalności proponowanej ceny.
 
 ---
 
-### 5. Wykorzystywanie usług wspierających rozwój organizacji
+### 5. Wykorzystywanie rezultatów usług
 
-Szczególne znaczenie dla rozwoju systemu zapewniania dostępności mogą mieć usługi wspierające:
+Rezultaty usług wsparcia eksperckiego powinny być wykorzystywane do:
 
-- budowanie świadomości dostępności,
-- rozwijanie kompetencji związanych z realizacją zadań,
-- wdrażanie nowych sposobów działania,
-- organizację monitorowania i oceniania dostępności,
-- budowę systemów rozwoju kompetencji.
+- podejmowania decyzji;
+- doskonalenia sposobu działania organizacji;
+- rozwijania kompetencji pracowników;
+- planowania kolejnych działań związanych z dostępnością cyfrową.
 
-Usługi te mogą wspierać rozwój zdolności organizacji do samodzielnego zapewniania dostępności cyfrowej.
-
----
-
-### 6. Łączenie usług w procesie doskonalenia
-
-Usługi eksperckie mogą być wykorzystywane na różnych etapach rozwoju organizacji oraz rozwoju rozwiązań cyfrowych.
-
-
-Poszczególne rodzaje usług nie powinny być traktowane jako rozwiązania uniwersalne. Ich wykorzystanie zależy od etapu rozwoju organizacji, rodzaju problemu oraz celu planowanych działań.
-
-Największą skuteczność osiąga się wtedy, gdy usługi wspierają kolejne etapy:
-
-- rozpoznawania problemów,
-- analizy przyczyn,
-- planowania działań,
-- wdrażania zmian,
-- oceny rezultatów.
-
-Dobór usług powinien uwzględniać zarówno aktualne potrzeby organizacji, jak i planowane działania doskonalące.
+Usługi eksperckie nie zastępują odpowiedzialności organizacji za zapewnianie dostępności cyfrowej ani nie zwalniają jej z obowiązku utrzymywania i rozwijania własnych kompetencji.
 
 ---
 
-### 7. Planowanie korzystania z usług eksperckich
 
-Korzystanie z usług eksperckich powinno być uwzględniane w planowaniu działań związanych z dostępnością cyfrową.
+## Podstawy prawne
 
-Organizacja przewiduje możliwość korzystania z różnych form wsparcia eksperckiego odpowiednio do:
-
-- realizowanych zadań,
-- poziomu rozwoju systemu zapewniania dostępności,
-- potrzeb kompetencyjnych,
-- planowanych zmian organizacyjnych i technicznych,
-- potrzeb związanych z monitorowaniem i ocenianiem dostępności.
-
-Planowanie korzystania z usług eksperckich sprzyja bardziej racjonalnemu wykorzystaniu zasobów oraz zwiększa skuteczność działań związanych z dostępnością cyfrową.
+- ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych;
+- ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami;
+- Dyrektywa Parlamentu Europejskiego i Rady (UE) 2016/2102;
+- EN 301 549 Accessibility requirements for ICT products and services.
 
 ---
 
 ## Uzasadnienie
 
-Dostępność cyfrowa nie jest rezultatem pojedynczego działania - audytu, szkolenia lub projektu dostosowawczego.
+W praktyce organizacje często rozpoczynają przygotowanie zamówienia od wyboru nazwy usługi, na przykład audytu lub szkolenia. Tymczasem ten sam problem można rozwiązać przy wykorzystaniu różnych form wsparcia eksperckiego, a podobne usługi mogą prowadzić do odmiennych rezultatów.
 
-Zapewnienie dostępności wymaga różnych typów działań wspierających organizację na różnych etapach rozwoju.
+Dlatego punktem wyjścia powinno być określenie celu przedsięwzięcia, problemu wymagającego rozwiązania oraz oczekiwanych rezultatów, a dopiero następnie wybór odpowiedniego rodzaju wsparcia.
 
-W praktyce wiele problemów wynika nie z braku usług eksperckich, lecz z ich niewłaściwego doboru.
-
-Problemy z doborem usług eksperckich często wynikają z braku uporządkowanego procesu monitorowania, badania, oceniania i doskonalenia dostępności cyfrowej. Organizacje posiadające jasno określone zasady prowadzenia tych działań rzadziej napotykają trudności w wyborze odpowiednich form wsparcia eksperckiego, ponieważ decyzje te wynikają z przyjętego sposobu działania, a nie z doraźnych potrzeb.
-
-Dobór usług odpowiednich do potrzeb organizacji sprzyja racjonalnemu wykorzystaniu środków publicznych, zwiększa skuteczność działań związanych z dostępnością cyfrową oraz wspiera rozwój zdolności organizacji do samodzielnego działania.
-
----
-
-## Podstawy prawne
-
-- ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych,
-- ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami,
-- Dyrektywa Parlamentu Europejskiego i Rady (UE) 2016/2102,
-- EN 301 549 Accessibility requirements for ICT products and services.
+Racjonalny dobór usług wsparcia eksperckiego zwiększa skuteczność działań związanych z dostępnością cyfrową, ogranicza ryzyko zamawiania usług nieadekwatnych do potrzeb oraz wspiera rozwój zdolności organizacji do samodzielnego zapewniania dostępności cyfrowej.
 
 ---

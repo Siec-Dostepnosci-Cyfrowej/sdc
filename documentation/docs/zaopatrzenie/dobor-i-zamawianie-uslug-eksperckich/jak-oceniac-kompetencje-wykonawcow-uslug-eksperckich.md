@@ -3,7 +3,7 @@ id: jak-oceniac-kompetencje-wykonawcow-uslug-eksperckich
 title: Jak oceniać kompetencje wykonawców usług eksperckich
 description: Wskazówki dotyczące oceny kompetencji wykonawców usług eksperckich związanych z dostępnością cyfrową.
 sidebar_label: Jak oceniać kompetencje wykonawców usług eksperckich
-sidebar_position: 7
+sidebar_position: 8
 keywords: [cykl życia TIK, dostępność cyfrowa, deklaracja dostępności, przegląd dostępności, przegląd diagnostyczny]
 tags: [cykl życia TIK, dostępność cyfrowa, deklaracja dostępności, przegląd dostępności, przegląd diagnostyczny]
 opracowanie: Stefan Wajda 
