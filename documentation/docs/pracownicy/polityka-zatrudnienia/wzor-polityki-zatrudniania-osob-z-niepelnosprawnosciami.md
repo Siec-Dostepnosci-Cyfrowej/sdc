@@ -143,7 +143,7 @@ Organizacja:
 - zapewnia warunki do jej realizacji;
 - monitoruje skuteczność działań.
 
-### Kierownicy komórek organizacyjnych
+### 6.2 Kierownicy komórek organizacyjnych
 
 - stosują zasady polityki w podległych zespołach;
 - wspierają zatrudnianie i rozwój pracowników;
