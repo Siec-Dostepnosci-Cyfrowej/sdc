@@ -54,7 +54,7 @@ Każdy nowy materiał powinien zawierać:
 
 ## Jak strukturyzować długie dokumenty
 
-Długie treści (powyżej 3 stron A4) wymagają szczególnej dbałości o strukturę:
+Dokumenty zawierające wiele sekcji (np. kilka rozdziałów H2 i liczne podsekcje H3) wymagają szczególnej dbałości o strukturę:
 
 - **Stosuj hierarchię nagłówków** — `#` dla tytułu, `##` dla rozdziałów, `###` dla podrozdziałów. Unikaj głębszego zagnieżdżania niż 4 poziomy.
 - **Rozpoczynaj od wprowadzenia** — 2–3 zdania o celu dokumentu.
