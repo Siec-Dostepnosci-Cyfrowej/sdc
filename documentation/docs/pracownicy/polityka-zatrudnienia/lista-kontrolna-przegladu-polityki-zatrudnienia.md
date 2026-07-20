@@ -35,7 +35,7 @@ Dla każdego pytania należy określić jeden z poniższych statusów:
 | TAK         | Wymaganie jest spełnione.                            |
 | CZĘŚCIOWO   | Działania są realizowane częściowo lub niesystemowo. |
 | NIE         | Wymaganie nie jest spełnione.                        |
-| NIE DOTYCZY | Pytanie nie ma zastosowania do organizacji.          |
+| NIE DOTYCZY (N/D) | Pytanie nie ma zastosowania do organizacji.          |
 
 W kolumnie „Uwagi i działania” można odnotować obserwacje, ryzyka lub planowane działania doskonalące.
 
