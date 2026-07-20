@@ -161,7 +161,7 @@ Organizacja:
 - uczestniczy w identyfikowaniu barier;
 - wspiera wdrażanie usprawnień.
 
-### Pracownicy
+### 6.5 Pracownicy
 
 - zgłaszają problemy i potrzeby związane z dostępnością;
 - uczestniczą w działaniach doskonalących środowisko pracy.
