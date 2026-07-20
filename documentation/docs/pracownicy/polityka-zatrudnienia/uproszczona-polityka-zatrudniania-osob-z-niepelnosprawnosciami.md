@@ -43,7 +43,7 @@ Organizacja dąży do zapewniania dostępności wykorzystywanych technologii, do
 
 ### 3.4. Indywidualne potrzeby
 
-Organizacja uwzględnia indywidualne potrzeby pracowników związane z wykonywaniem pracy i, w miarę możliwości, zapewnia odpowiednie dostosowania oraz racjonalne usprawnienia.
+Organizacja uwzględnia indywidualne potrzeby pracowników związane z wykonywaniem pracy i zapewnia niezbędne dostosowania oraz racjonalne usprawnienia, chyba że ich wprowadzenie stanowiłoby nieproporcjonalnie wysokie obciążenie.
 
 ### 3.5. Rozwój zawodowy
 
