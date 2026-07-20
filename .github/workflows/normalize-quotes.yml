@@ -1,0 +1,28 @@
+name: Normalize quotes in Markdown
+
+on:
+  push:
+    paths:
+      - '**/*.md'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  normalize:
+    runs-on: ubuntu-latest
+    name: Normalize quotation marks to Polish style „..."
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Normalize quotes
+        run: python3 .github/scripts/normalize_quotes.py
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "chore: normalize quotes to Polish style „..." [skip ci]"
+          file_pattern: '**/*.md'
