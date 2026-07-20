@@ -155,7 +155,7 @@ Organizacja:
 - zapewnia dostępność procesów kadrowych;
 - monitoruje realizację działań.
 
-### Koordynator dostępności
+### 6.4 Koordynator dostępności
 
 - wspiera działania związane z dostępnością środowiska pracy;
 - uczestniczy w identyfikowaniu barier;
