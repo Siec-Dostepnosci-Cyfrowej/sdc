@@ -16,7 +16,7 @@ Zapewnić, aby wszystkie treści tworzone w tym repozytorium były:
 
 - **Pisz zrozumiale** — używaj prostego języka, krótkich zdań, konkretów.
 - **Pisz rzeczowo** — każda sekcja musi wnosić wartość: definicję, przykład, rekomendację lub procedurę.
-- **Odwołuj się do aktów prawnych i standardów** — WCAG, EN 301 549, ustawa o dostępności, KRI, BIP. Linkuj do źródeł, jeśli to możliwe.
+- **Odwołuj się do aktów prawnych i standardów** — WCAG, EN 301 549, ustawa o dostępności cyfrowej, KRI, BIP. Linkuj do źródeł, jeśli to możliwe.
 
 ---
 
