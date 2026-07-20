@@ -106,11 +106,12 @@ Organizacja powinna rozważać możliwość wykorzystywania kompetencji i doświ
 
 Organizacja powinna okresowo oceniać:
 
-1. skuteczność działań związanych z zatrudnianiem osób z niepełnosprawnościami;
-2. bariery utrudniające zatrudnianie i utrzymanie zatrudnienia;
-3. skuteczność działań rekrutacyjnych;
-4. dostępność środowiska pracy;
-5. możliwości rozwoju zawodowego pracowników z niepełnosprawnościami.
+
+-  skuteczność działań związanych z zatrudnianiem osób z niepełnosprawnościami;
+- bariery utrudniające zatrudnianie i utrzymanie zatrudnienia;
+- skuteczność działań rekrutacyjnych;
+- dostępność środowiska pracy;
+- możliwości rozwoju zawodowego pracowników z niepełnosprawnościami.
 
 ---
 
