@@ -1,6 +1,4 @@
-# CONTRIBUTING.md
-
-Sieć Dostępności Cyfrowej — zasady tworzenia treści i komentarzy.
+# Sieć Dostępności Cyfrowej — zasady tworzenia treści i komentarzy
 
 ## Cel dokumentu
 
