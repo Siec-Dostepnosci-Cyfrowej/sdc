@@ -83,7 +83,7 @@ Długie treści (powyżej 3 stron A4) wymagają szczególnej dbałości o strukt
 - bez emocji,
 - bez marketingu,
 - bez przesady,
-- bez określeń typu "AI‑powered".
+- bez określeń typu „AI-powered”.
 
 ---
 
