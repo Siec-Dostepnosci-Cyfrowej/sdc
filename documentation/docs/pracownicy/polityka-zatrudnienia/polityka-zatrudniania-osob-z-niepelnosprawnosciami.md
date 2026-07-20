@@ -145,7 +145,7 @@ Skuteczne zatrudnianie osób z niepełnosprawnościami wymaga jednak nie tylko p
 
 ---
 
-## 8. Załączniki
+## 7. Załączniki
 
 1. Wzór polityki zatrudniania osób z niepełnosprawnościami.
 2. Wersja uproszczona polityki dla małych organizacji.
