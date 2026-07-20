@@ -117,7 +117,7 @@ Komentarze w tym repozytorium służą wymianie wiedzy, wyjaśnianiu wątpliwoś
 - **Nie wklejaj surowych odpowiedzi z AI** - jeśli korzystasz z AI do przygotowania odpowiedzi lub analizy:
   - zawsze przeredaguj treść, dostosowując ją do kontekstu dyskusji,
   - zweryfikuj fakty i standardy, zanim je przytoczysz,
-  - **dodaj coś od siebie** – własną opinię, przykład z praktyki, wątpliwość lub doświadczenie. Samodzielnie wygenerowana odpowiedź bez Twojego wkładu nie wnosi wartości i utrudnia konstruktywną dyskusję.
+- **dodaj coś od siebie** — własną opinię, przykład z praktyki, wątpliwość lub doświadczenie. Sama wygenerowana odpowiedź bez Twojego wkładu nie wnosi wartości i utrudnia konstruktywną dyskusję,
   - jeśli cytujesz AI, wyraźnie to zaznacz (np. "Po konsultacji z AI i przanalizowaniu..." lub "AI podpowiedziało mi następujące źródło, ale...").
 
 - **Buduj na odpowiedziach innych** – jeśli zgadzasz się z czyjąś opinią, rozwiń ją, dodaj własny przykład lub uzupełnij o dodatkowy kontekst. Samo "zgadzam się" nie wnosi nowej wartości.
