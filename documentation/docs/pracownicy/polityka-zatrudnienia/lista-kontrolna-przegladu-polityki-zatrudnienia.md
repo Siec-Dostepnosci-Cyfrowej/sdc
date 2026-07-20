@@ -170,7 +170,7 @@ Data planowanego kolejnego przeglądu:
 
 ---
 
-## Wskazówka
+## 13 Wskazówka
 
 Przegląd polityki zatrudnienia warto przeprowadzać łącznie z:
 
