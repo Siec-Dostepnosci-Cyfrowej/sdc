@@ -110,7 +110,7 @@ Komentarze w tym repozytorium służą wymianie wiedzy, wyjaśnianiu wątpliwoś
 
 ### Zasady komentowania
 
-- **Komentuj merytorycznie** - wskazuj konkretne problemy, odwołuj się do fragmentów tekstu, standardów lub własnego doświadczenia. Unikaj ogólnych opinii typu "to jest dobre" lub "to jest złe" bez uzasadnienia.
+- **Komentuj merytorycznie** — wskazuj konkretne problemy, odwołuj się do fragmentów tekstu, standardów lub własnego doświadczenia. Unikaj ogólnych opinii typu „to jest dobre” lub „to jest złe” bez uzasadnienia.
 
 - **Proponuj poprawki** – najlepiej w formie PR lub konkretnego fragmentu tekstu z propozycją zmiany. Jeśli nie masz pewności, jak sformułować poprawkę, zaproponuj kierunek zmiany i poproś o pomoc.
 
