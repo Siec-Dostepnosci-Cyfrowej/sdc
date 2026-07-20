@@ -48,7 +48,7 @@ Każdy nowy materiał powinien zawierać:
 - **Zakres** — co obejmuje, czego nie obejmuje.
 - **Rekomendacje** — konkretne, operacyjne, możliwe do wdrożenia.
 - **Przykłady** — najlepiej z sektora publicznego.
-- **Podstawy prawne / standardy** — linki do WCAG, EN 301 549, ustawy o dostępności itd.
+- **Podstawy prawne / standardy** — linki do WCAG, EN 301 549, ustawy o dostępności cyfrowej itd.
 
 ---
 
