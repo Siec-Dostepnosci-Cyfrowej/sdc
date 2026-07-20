@@ -90,7 +90,7 @@ Organizacja powinna tworzyć warunki umożliwiające długoterminowe wykonywanie
 
 ### 3.8. Stanowiska związane z dostępnością cyfrową
 
-Szczególną uwagę warto poświęcać stanowiskom związanym z:
+Szczególną uwagę należy poświęcać stanowiskom związanym z:
 
 - koordynacją dostępności;
 - testowaniem dostępności;
