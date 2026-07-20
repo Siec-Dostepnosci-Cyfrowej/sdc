@@ -137,7 +137,7 @@ Organizacja:
 
 ## 6. Role i odpowiedzialność
 
-### Kierownictwo organizacji
+### 6.1 Kierownictwo organizacji
 
 - ustanawia politykę;
 - zapewnia warunki do jej realizacji;
