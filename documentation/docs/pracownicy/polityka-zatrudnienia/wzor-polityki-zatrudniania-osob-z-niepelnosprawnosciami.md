@@ -149,7 +149,7 @@ Organizacja:
 - wspierają zatrudnianie i rozwój pracowników;
 - identyfikują bariery i potrzeby.
 
-### Dział kadr
+### 6.3 Dział kadr
 
 - wspiera realizację polityki;
 - zapewnia dostępność procesów kadrowych;
