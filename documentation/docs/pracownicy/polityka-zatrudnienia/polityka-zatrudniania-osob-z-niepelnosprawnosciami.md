@@ -22,7 +22,7 @@ Celem zalecenia jest wspieranie organizacji w tworzeniu warunków sprzyjających
 
 Organizacja uwzględnia zatrudnianie osób z niepełnosprawnościami w polityce zatrudnienia oraz podejmuje działania zwiększające możliwości ich zatrudniania, rozwoju zawodowego i utrzymania zatrudnienia, w szczególności na stanowiskach związanych z zapewnianiem dostępności cyfrowej.
 
-Polityka zatrudnienia powinna obejmować działania związane z identyfikowaniem barier ograniczających zatrudnianie osób z niepełnosprawnościami, zapewnianiem dostępności procesów rekrutacyjnych i środowiska pracy oraz wspieraniem rozwoju zawodowego pracowników.
+Polityka zatrudnienia obejmuje działania związane z identyfikowaniem barier ograniczających zatrudnianie osób z niepełnosprawnościami, zapewnianiem dostępności procesów rekrutacyjnych i środowiska pracy oraz wspieraniem rozwoju zawodowego pracowników.
 
 ---
 
