@@ -41,7 +41,7 @@ Polityka obejmuje wszystkich pracowników oraz kandydatów do pracy.
 
 Organizacja uznaje różnorodność pracowników za wartość wspierającą realizację jej zadań oraz rozwój kompetencji organizacji.
 
-Organizacja dąży do tworzenia środowiska pracy umożliwiającego osobom z niepełnosprawnościami podejmowanie pracy, rozwój zawodowy i wykonywanie obowiązków służbowych na zasadach możliwie najbardziej zbliżonych do zasad obowiązujących pozostałych pracowników.
+Organizacja dąży do tworzenia środowiska pracy umożliwiającego osobom z niepełnosprawnościami podejmowanie pracy, rozwój zawodowy i wykonywanie obowiązków służbowych na równych zasadach z pozostałymi pracownikami, z uwzględnieniem niezbędnych dostosowań i racjonalnych usprawnień.
 
 Organizacja uwzględnia potrzeby osób z niepełnosprawnościami podczas planowania zatrudnienia, organizowania procesów kadrowych oraz rozwijania środowiska pracy.
 
