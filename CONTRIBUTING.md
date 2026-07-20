@@ -22,7 +22,7 @@ Zapewnić, aby wszystkie treści tworzone w tym repozytorium były:
 
 ## Jak korzystać z AI
 
-- **AI jako narzędzie pomocnicze** — może pomóc w szkicu, strukturze, przykładach, ale nie w finalnej treści.
+- **AI jako narzędzie pomocnicze** — może pomóc w szkicu, strukturze i przykładach, ale finalna treść wymaga samodzielnej redakcji i weryfikacji autora.
 - **Zawsze redaguj** — nie wklejaj odpowiedzi AI bez przeredagowania.
 - **Sprawdzaj fakty** — AI może się mylić; weryfikuj standardy, definicje, wymagania prawne.
 - **Unikaj ogólników** — usuwaj puste frazy typu „ważne jest zapewnienie dostępności dla wszystkich”.
