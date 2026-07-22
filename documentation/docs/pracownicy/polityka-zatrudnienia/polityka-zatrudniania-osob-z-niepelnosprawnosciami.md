@@ -102,16 +102,18 @@ Szczególną uwagę należy poświęcać stanowiskom związanym z:
 
 Organizacja powinna rozważać możliwość wykorzystywania kompetencji i doświadczeń osób z niepełnosprawnościami podczas obsadzania takich stanowisk.
 
-### 3.9. Monitorowanie
+### 3.9. Ocena i doskonalenie polityki
 
-Organizacja powinna okresowo oceniać:
+Organizacja okresowo ocenia skuteczność polityki zatrudniania osób z niepełnosprawnościami, wykorzystując w szczególności informacje dotyczące:
 
+* zatrudniania osób z niepełnosprawnościami, w tym zmian liczby zatrudnionych pracowników;
+* dostępności i skuteczności procesów rekrutacji oraz wdrażania nowych pracowników;
+* możliwości rozwoju zawodowego pracowników z niepełnosprawnościami, w tym ich udziału w szkoleniach, projektach i awansach;
+* przypadków zakończenia zatrudnienia oraz przyczyn odejść pracowników, jeżeli mogą wskazywać na bariery w środowisku pracy;
+* barier utrudniających zatrudnianie, wykonywanie pracy i rozwój zawodowy osób z niepełnosprawnościami;
+* dostępności środowiska pracy oraz skuteczności działań podejmowanych w celu jego doskonalenia.
 
--  skuteczność działań związanych z zatrudnianiem osób z niepełnosprawnościami;
-- bariery utrudniające zatrudnianie i utrzymanie zatrudnienia;
-- skuteczność działań rekrutacyjnych;
-- dostępność środowiska pracy;
-- możliwości rozwoju zawodowego pracowników z niepełnosprawnościami.
+Wyniki oceny organizacja wykorzystuje do aktualizacji polityki zatrudniania, planowania działań doskonalących oraz określania priorytetów w zakresie zwiększania dostępności środowiska pracy.
 
 ---
 
