@@ -81,7 +81,7 @@ Organizacja zapewnia pracownikom z niepełnosprawnościami możliwość:
 
 ### 3.7. Utrzymanie zatrudnienia
 
-Organizacja powinna tworzyć warunki umożliwiające długoterminowe wykonywanie pracy przez osoby z niepełnosprawnościami, w szczególności poprzez:
+Organizacja tworzy warunki umożliwiające długoterminowe wykonywanie pracy przez osoby z niepełnosprawnościami, w szczególności poprzez:
 
 - rozpoznawanie potrzeb pracowników;
 - zapewnianie dostosowań i racjonalnych usprawnień;
