@@ -126,7 +126,7 @@ W kolumnie „Uwagi i działania” można odnotować obserwacje, ryzyka lub pla
 | Czy organizacja korzysta z doświadczeń pracowników z niepełnosprawnościami podczas rozwijania dostępności cyfrowej? |  ☐  |     ☐     |  ☐  |  ☐  |                   |
 | Czy pracownicy mogą uczestniczyć w konsultacjach, testach lub ocenach dostępności?                                  |  ☐  |     ☐     |  ☐  |  ☐  |                   |
 | Czy funkcjonują mechanizmy umożliwiające przekazywanie informacji zwrotnych dotyczących dostępności?                |  ☐  |     ☐     |  ☐  |  ☐  |                   |
-| Czy organizacja wspiera tworzenie Grup Zasobów Pracowniczych (ERG) lub innych form współpracy?                      |  ☐  |     ☐     |  ☐  |  ☐  |                   |
+| Czy organizacja wspiera tworzenie Grup Zasobów Pracowniczych lub innych form współpracy?                      |  ☐  |     ☐     |  ☐  |  ☐  |                   |
 
 ---
 
