@@ -69,7 +69,7 @@ W organizacjach, w których wyznaczono koordynatora dostępności lub inną osob
 
 ---
 
-## 6. Monitorowanie
+## 6. Ocena i doskonalenie polityki
 
 Organizacja nie rzadziej niż raz na dwa lata dokonuje przeglądu:
 
