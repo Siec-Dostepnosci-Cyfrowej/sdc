@@ -117,7 +117,7 @@ Organizacja powinna okresowo oceniać:
 
 ## 4. Podstawa prawna
 
-- Konwencja ONZ o prawach osób niepełnosprawnych, w szczególności art. 27.
+- Konwencja o prawach osób niepełnosprawnych, w szczególności art. 27.
 - Ustawa z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych.
 - Kodeks pracy.
 - Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami.
