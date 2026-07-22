@@ -11,8 +11,6 @@ data_zgloszenia: 20 czerwca 2026 r.
 ostatnia_aktualizacja: 20 czerwca 2026 r.
 wersja_robocza: true
 ---
-
-
 ## 1. Cel polityki
 
 Celem polityki jest tworzenie warunków sprzyjających zatrudnianiu, rozwojowi zawodowemu i utrzymaniu zatrudnienia osób z niepełnosprawnościami oraz zapewnianie im możliwości wykonywania pracy na zasadach równych z innymi pracownikami.
