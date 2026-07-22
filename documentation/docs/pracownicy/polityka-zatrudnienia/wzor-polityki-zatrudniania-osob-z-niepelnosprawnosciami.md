@@ -202,3 +202,11 @@ Za koordynację działań związanych z realizacją polityki odpowiada:
 ..................................................................
 
 Polityka podlega przeglądowi nie rzadziej niż raz na dwa lata lub w przypadku istotnych zmian organizacyjnych.
+
+Data przyjęcia polityki:
+
+..................................................................
+
+Data ostatniego przeglądu:
+
+..................................................................
