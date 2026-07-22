@@ -168,7 +168,7 @@ Organizacja:
 
 ---
 
-## 7. Monitorowanie i doskonalenie
+## 7. Ocena i doskonalenie polityki
 
 Organizacja okresowo ocenia:
 
