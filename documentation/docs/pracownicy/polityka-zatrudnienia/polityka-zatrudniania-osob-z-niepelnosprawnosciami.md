@@ -104,7 +104,7 @@ Organizacja powinna rozważać możliwość wykorzystywania kompetencji i doświ
 
 ### 3.9. Ocena i doskonalenie polityki
 
-Organizacja okresowo ocenia skuteczność polityki zatrudniania osób z niepełnosprawnościami, wykorzystując w szczególności informacje dotyczące:
+Organizacja uwzględnia ocenę skuteczności polityki zatrudniania osób z niepełnosprawnościami w okresowych przeglądach swojego systemu zarządzania oraz wykorzystuje wyniki tych ocen do planowania działań doskonalących.
 
 * zatrudniania osób z niepełnosprawnościami, w tym zmian liczby zatrudnionych pracowników;
 * dostępności i skuteczności procesów rekrutacji oraz wdrażania nowych pracowników;
