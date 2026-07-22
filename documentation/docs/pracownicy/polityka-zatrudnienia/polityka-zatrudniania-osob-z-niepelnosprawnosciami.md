@@ -65,7 +65,7 @@ Organizacja:
 
 ### 3.5. Rekrutacja i wdrażanie pracowników
 
-Organizacja powinna zapewniać dostępność procesów rekrutacyjnych i wdrożeniowych oraz uwzględniać potrzeby kandydatów i nowo zatrudnianych pracowników.
+Organizacja zapewnia dostępność procesów rekrutacyjnych i wdrożeniowych oraz uwzględnia potrzeby kandydatów i nowo zatrudnianych pracowników.
 
 Działania te powinny być realizowane zgodnie z zaleceniem „Dostępna rekrutacja i wdrażanie pracowników”.
 
