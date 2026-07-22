@@ -71,7 +71,7 @@ Działania te powinny być realizowane zgodnie z zaleceniem „Dostępna rekruta
 
 ### 3.6. Rozwój zawodowy
 
-Organizacja powinna zapewniać pracownikom z niepełnosprawnościami możliwość:
+Organizacja zapewnia pracownikom z niepełnosprawnościami możliwość:
 
 - udziału w szkoleniach;
 - podnoszenia kwalifikacji;
