@@ -14,7 +14,7 @@ wersja_robocza: true
 
 ## 1. Cel zalecenia
 
-Celem zalecenia jest wspieranie organizacji w tworzeniu warunków sprzyjających zatrudnianiu, rozwojowi zawodowemu i utrzymaniu zatrudnienia osób z niepełnosprawnościami, a także wykorzystywanie ich kompetencji i doświadczeń jako elementu budowania zdolności organizacji do zapewniania dostępności cyfrowej.
+Celem zalecenia jest wspieranie organizacji w tworzeniu warunków sprzyjających zatrudnianiu, rozwojowi zawodowemu i utrzymaniu zatrudnienia osób z niepełnosprawnościami, a także wykorzystywanie ich kompetencji i doświadczeń w budowaniu zdolności organizacji do zapewniania dostępności cyfrowej.
 
 ---
 
