@@ -56,12 +56,12 @@ Działania te powinny być realizowane zgodnie z zaleceniem „Ocena barier cyfr
 
 ### 3.4. Pozyskiwanie kandydatów
 
-Organizacja powinna:
+Organizacja:
 
-1. Docierać z informacjami o prowadzonych rekrutacjach do środowisk osób z niepełnosprawnościami.
-2. Współpracować z organizacjami społecznymi, uczelniami, instytucjami rynku pracy i innymi podmiotami wspierającymi aktywizację zawodową osób z niepełnosprawnościami.
-3. Promować możliwość zatrudnienia osób z niepełnosprawnościami na stanowiskach związanych z zapewnianiem dostępności cyfrowej.
-4. Zachęcać osoby z niepełnosprawnościami do udziału w procesach rekrutacyjnych.
+1. Dociera z informacjami o prowadzonych rekrutacjach do środowisk osób z niepełnosprawnościami.
+2. Współpracuje z organizacjami społecznymi, uczelniami, instytucjami rynku pracy i innymi podmiotami wspierającymi aktywizację zawodową osób z niepełnosprawnościami.
+3. Promuje możliwość zatrudnienia osób z niepełnosprawnościami na stanowiskach związanych z zapewnianiem dostępności cyfrowej.
+4. Zachęca osoby z niepełnosprawnościami do udziału w procesach rekrutacyjnych.
 
 ### 3.5. Rekrutacja i wdrażanie pracowników
 
