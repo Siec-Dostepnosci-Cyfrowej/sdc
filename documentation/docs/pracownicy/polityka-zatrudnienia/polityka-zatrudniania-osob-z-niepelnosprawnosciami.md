@@ -38,11 +38,11 @@ Organizacja:
 
 ### 3.2. Planowanie zatrudnienia
 
-Organizacja powinna:
+Organizacja:
 
-1. Analizować potrzeby kompetencyjne związane z realizacją zadań organizacji, w tym z zapewnianiem dostępności cyfrowej.
-2. Identyfikować stanowiska pracy, na których kompetencje i doświadczenia osób z niepełnosprawnościami mogą stanowić szczególną wartość dla organizacji.
-3. Uwzględniać możliwość zatrudniania osób z niepełnosprawnościami podczas planowania zasobów kadrowych.
+1. Analizuje potrzeby kompetencyjne związane z realizacją zadań organizacji, w tym z zapewnianiem dostępności cyfrowej.
+2. Identyfikuje stanowiska pracy, na których kompetencje i doświadczenia osób z niepełnosprawnościami mogą stanowić szczególną wartość dla organizacji.
+3. Uwzględnia możliwość zatrudniania osób z niepełnosprawnościami podczas planowania zasobów kadrowych.
 
 ### 3.3. Identyfikowanie i ograniczanie barier
 
