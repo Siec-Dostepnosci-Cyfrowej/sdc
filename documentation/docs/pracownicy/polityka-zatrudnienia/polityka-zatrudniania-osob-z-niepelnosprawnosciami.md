@@ -46,11 +46,11 @@ Organizacja:
 
 ### 3.3. Identyfikowanie i ograniczanie barier
 
-Organizacja powinna:
+Organizacja:
 
-1. Identyfikować bariery utrudniające zatrudnianie osób z niepełnosprawnościami.
-2. Analizować wpływ wykorzystywanych technologii, procesów i sposobów organizacji pracy na możliwość zatrudniania osób z niepełnosprawnościami.
-3. Wykorzystywać wyniki analiz do planowania działań zwiększających dostępność środowiska pracy.
+1. Identyfikuje bariery utrudniające zatrudnianie osób z niepełnosprawnościami.
+2. Analizuje wpływ wykorzystywanych technologii, procesów i sposobów organizacji pracy na możliwość zatrudniania osób z niepełnosprawnościami.
+3. Wykorzystuje wyniki analiz do planowania działań zwiększających dostępność środowiska pracy.
 
 Działania te powinny być realizowane zgodnie z zaleceniem „Ocena barier cyfrowych ograniczających zatrudnianie osób z niepełnosprawnościami”.
 
