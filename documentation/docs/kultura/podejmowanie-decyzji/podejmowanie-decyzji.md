@@ -68,7 +68,7 @@ Przykładowo mogą dotyczyć:
 - procedur zapewniania dostępności cyfrowej,
 - zasad przeprowadzania kontroli i ocen,
 - wymagań dotyczących systemów informatycznych,
-- organizacji szkoleń obowiązujących w całej organizacji.
+- szkoleń obowiązujących w całej organizacji.
  
 ### 3.5. Decyzje strategiczne
  
