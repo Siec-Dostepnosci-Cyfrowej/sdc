@@ -30,11 +30,11 @@ Polityka zatrudnienia obejmuje działania związane z identyfikowaniem barier og
 
 ### 3.1. Uwzględnianie zatrudniania osób z niepełnosprawnościami w polityce organizacji
 
-Organizacja powinna:
+Organizacja:
 
-1. Uwzględniać zatrudnianie osób z niepełnosprawnościami w polityce zatrudnienia, polityce różnorodności lub innych dokumentach określających zasady zarządzania personelem.
-2. Traktować zatrudnianie osób z niepełnosprawnościami jako element budowania kompetencji i potencjału organizacji.
-3. Określać cele oraz działania wspierające zwiększanie możliwości zatrudniania osób z niepełnosprawnościami.
+1. Uwzględnia zatrudnianie osób z niepełnosprawnościami w polityce zatrudnienia, polityce różnorodności lub innych dokumentach określających zasady zarządzania personelem.
+2. Traktuje zatrudnianie osób z niepełnosprawnościami jako element budowania kompetencji i potencjału organizacji.
+3. Określa cele oraz działania wspierające zwiększanie możliwości zatrudniania osób z niepełnosprawnościami.
 
 ### 3.2. Planowanie zatrudnienia
 
