@@ -1,0 +1,8 @@
+{
+  "label": "Wsparcie pracowników pierwszego kontaktu",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+	"description": "Pracownicy pierwszego kontaktu odgrywają istotną rolę w identyfikowaniu problemów dostępności oraz udzielaniu użytkownikom pomocy podczas korzystania z usług organizacji. Zalecenie pomaga organizacjom publicznym wyposażyć pracowników obsługujących użytkowników w procedury, informacje i narzędzia umożliwiające rozpoznawanie problemów związanych z dostępnością, udzielanie podstawowego wsparcia oraz przekazywanie spraw wymagających dalszych działań do właściwych osób lub komórek organizacyjnych. Wspiera organizację współpracy, ścieżek eskalacji oraz przepływu informacji niezbędnych do skutecznej obsługi użytkowników. Dzięki temu organizacja może szybciej reagować na problemy dostępności oraz zapewniać użytkownikom spójne i skuteczne wsparcie."
+  }
+}
