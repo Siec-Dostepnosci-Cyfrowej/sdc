@@ -1,0 +1,85 @@
+---
+id: zgoda-na-zastosowanie-odstepstwa
+title: Procedura uzyskiwania zgody na zastosowanie odstępstwa (wyjątku) od obowiązku zapewniania dostępności cyfrowej 
+sidebar_label: Zalecenie
+sidebar_position: 1
+description: Zalecenie dotyczące procedury uzyskania zgody na zastosowanie odstępstwa od obowiązku zapewnienia dostępności cyfrowej
+keywords: [cykl życia TIK, dostępność cyfrowa, deklaracja dostępności, odstępstwa, procedury odstępstw, zgoda na odstępstwa]
+tags: [cykl życia TIK, dostępność cyfrowa, deklaracja dostępności, procedury odstępstw, zgoda na odstępstwa]
+opracowanie: Tomasz Kałużyński 
+data_zgloszenia: 1 lipca 2026 r.
+ostatnia_aktualizacja: 17 lipca 2026 r.
+wersja_robocza: true
+---
+
+## 1. Cel opracowania
+
+Zdarza się, że zapewnienie pełnej dostępności cyfrowej jakiegoś elementu strony internetowej lub aplikacji mobilnej jest bardzo kosztowne. Ustawa dopuszcza w takiej sytuacji odstąpienie od tego obowiązku, ale tylko wtedy, gdy zostanie to prawidłowo uzasadnione i formalnie zatwierdzone. To zalecenie opisuje, krok po kroku, jak podmiot publiczny powinien postępować, aby taki wyjątek zastosować zgodnie z przepisami.
+
+## 2. Rodzaje odstępstw przewidziane w przepisach
+
+Ustawa przewiduje dwie odrębne podstawy do odstąpienia od zapewnienia pełnej dostępności cyfrowej:
+
+1. **Wyłączenia przedmiotowe** – treści enumeratywnie wskazane w ustawie jako niepodlegające obowiązkowi zapewnienia dostępności (np. multimedia nadawane na żywo, mapy nieprzeznaczone do zastosowań nawigacyjnych, treści archiwalne niewykorzystywane do realizacji bieżących zadań podmiotu, pliki będące materiałami osób trzecich, których podmiot publiczny nie finansował ani nie tworzył).
+2. **Nieproporcjonalne obciążenie** – wyjątek wymagający przeprowadzenia indywidualnej oceny i sporządzenia uzasadnienia, stosowany wtedy, gdy zapewnienie dostępności określonego elementu wymagałoby poniesienia kosztów lub nakładu pracy niewspółmiernych do korzyści, jakie odniosłyby osoby z niepełnosprawnościami.
+
+### Ważne zasady:
+* Wyjątek nigdy nie dotyczy całej strony lub aplikacji – tylko konkretnego, wskazanego elementu.
+* Sam wysoki koszt „w liczbach bezwzględnych” nie wystarcza – trzeba pokazać, że jest on nieproporcjonalny do możliwości podmiotu.
+* Odstępstwo nie jest decyzją na zawsze – trzeba je co jakiś ustalony przez organizację czas sprawdzać na nowo.
+
+## 3. Procedura dla wyłączeń przedmiotowych
+
+Tu nie potrzeba analizy kosztowej ani zgody kierownika — wystarczy rzetelne sprawdzenie i udokumentowanie.
+
+1. **Identyfikacja treści** — koordynator ds. dostępności lub redaktor strony sprawdza, czy dany element (plik, mapa, multimedium) faktycznie mieści się w ustawowym katalogu wyłączeń.
+2. **Krótka notatka kwalifikująca** — jedno-dwuzdaniowe uzasadnienie, które wyłączenie ma zastosowanie i dlaczego (np. *"plik z 2016 r., nie jest wykorzystywany do bieżących zadań urzędu"*).
+3. **Wpis do deklaracji dostępności** — z podaniem podstawy wyłączenia.
+4. **Okresowa weryfikacja** — raz w roku, przy aktualizacji deklaracji, sprawdzenie czy treść "archiwalna" faktycznie nadal nie jest używana do bieżących zadań (to się zmienia i bywa nadużywane).
+
+## 4. Jak przebiega procedura – krok po kroku
+
+### Krok 1: Zgłoszenie problemu przez osobę odpowiedzialną
+Koordynator ds. dostępności (lub redaktor strony) zgłasza konkretny niedostępny element — z dokładną lokalizacją i wskazaniem, które kryterium WCAG nie jest spełnione.
+
+### Krok 2: Wstępna analiza techniczna i kosztowa
+Sprawdza się, czy w ogóle istnieje rozwiązanie techniczne, ile kosztowałoby jego wdrożenie (najlepiej na podstawie realnej wyceny lub oferty) oraz ile kosztowałoby utrzymanie w kolejnych latach.
+
+### Krok 3: Sporządzenie pisemnej analizy nieproporcjonalnego obciążenia
+To kluczowy dokument, który musi trafić do decydenta. Zawiera:
+* Opis elementu i przyczynę niedostępności,
+* Konkretne kwoty (wdrożenie + utrzymanie),
+* Odniesienie kosztu do budżetu podmiotu,
+* Liczbę/charakter użytkowników, których dotyczy problem,
+* Wniosek: czy koszt jest rzeczywiście nieproporcjonalny.
+
+### Krok 4: Przedłożenie kierownikowi jednostki
+Analiza trafia do osoby zarządzającej podmiotem (np. burmistrza, dyrektora) lub osoby przez niego upoważnionej. To ona podejmuje decyzję — nie koordynator dostępności samodzielnie.
+
+### Krok 5: Wydanie zgody w formie pisemnej
+Zgoda nie może być ustna. Powinna mieć formę notatki służbowej, decyzji wewnętrznej albo adnotacji na samej analizie, i zawierać: datę, zakres odstępstwa, kwotę uznaną za nadmierną, ewentualny okres obowiązywania oraz podpis decydenta.
+
+### Krok 6: Wdrożenie skutków zgody
+* Aktualizacja deklaracji dostępności (element + przyczyna + link do alternatywnego dostępu),
+* Zapewnienie faktycznego alternatywnego sposobu dostępu (telefon, e-mail, tłumacz migowy, inny format pliku),
+* Wpis do wewnętrznego rejestru odstępstw.
+
+### Krok 7: Przechowywanie dokumentacji
+Analiza i zgoda muszą być gotowe do okazania na żądanie Ministerstwa Cyfryzacji podczas monitoringu.
+
+### Krok 8: Coroczna weryfikacja
+Przy okazji aktualizacji deklaracji (do końca marca) sprawdza się, czy koszt nadal jest nieproporcjonalny — np. czy nie pojawiło się tańsze rozwiązanie.
+
+## 5. Jakie dokumenty należy przechowywać
+
+Podmiot publiczny powinien mieć w dokumentacji, gotowe do okazania na żądanie Ministra Cyfryzacji:
+* Analizę kosztową uzasadniającą odstępstwo, wraz z wycenami,
+* Pisemną zgodę kierownika jednostki,
+* Historię zmian w deklaracji dostępności,
+* Ewentualną korespondencję z użytkownikami w sprawie tego elementu.
+
+## 6. Podstawa prawna
+
+* **Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych** (tekst jednolity, z uwzględnieniem nowelizacji z marca 2023 r.)
+* **Dyrektywa Parlamentu Europejskiego i Rady (UE) 2016/2102 z dnia 26 października 2016 r.** w sprawie dostępności stron internetowych i mobilnych aplikacji organów sektora publicznego.
+---
