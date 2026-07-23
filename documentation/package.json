@@ -25,7 +25,7 @@
     "@grnet/docusaurus-term-preview": "2.0.0-rc.2",
     "@grnet/docusaurus-terminology": "2.0.0-rc.2",
     "@mdx-js/react": "3.1.1",
-    "@radix-ui/react-slot": "1.3.0",
+    "@radix-ui/react-slot": "1.3.1",
     "class-variance-authority": "0.7.1",
     "clsx": "2.1.1",
     "dotenv": "17.4.2",
