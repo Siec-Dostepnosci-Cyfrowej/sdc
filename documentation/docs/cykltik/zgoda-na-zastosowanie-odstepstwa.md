@@ -18,7 +18,7 @@ Zdarza się, że zapewnienie pełnej dostępności cyfrowej jakiegoś elementu s
 
 ## 2. Rodzaje odstępstw przewidziane w przepisach
 
-Ustawa przewiduje dwie odrębne podstawy do odstąpienia od pełnej zgodności ze standardem WCAG:
+Ustawa przewiduje dwie odrębne podstawy do odstąpienia od zapewnienia pełnej dostępności cyfrowej:
 
 1. **Wyłączenia przedmiotowe** – treści enumeratywnie wskazane w ustawie jako niepodlegające obowiązkowi zapewnienia dostępności (np. multimedia nadawane na żywo, mapy nieprzeznaczone do zastosowań nawigacyjnych, treści archiwalne niewykorzystywane do realizacji bieżących zadań podmiotu, pliki będące materiałami osób trzecich, których podmiot publiczny nie finansował ani nie tworzył).
 2. **Nieproporcjonalne obciążenie** – wyjątek wymagający przeprowadzenia indywidualnej oceny i sporządzenia uzasadnienia, stosowany wtedy, gdy zapewnienie dostępności określonego elementu wymagałoby poniesienia kosztów lub nakładu pracy niewspółmiernych do korzyści, jakie odniosłyby osoby z niepełnosprawnościami.
