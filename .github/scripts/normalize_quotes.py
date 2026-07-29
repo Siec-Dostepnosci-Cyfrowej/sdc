@@ -5,7 +5,7 @@ Normalize ASCII double quotes to Polish-style quotation marks „...” in Markd
 Rules:
 - Only processes prose text (skips code blocks, inline code, HTML attributes, YAML frontmatter)
 - Converts "text" to „text" where text does not contain newlines
-- Does not touch already-correct „..." pairs
+- Does not touch already-correct „...” pairs
 - Does not touch quotes inside code fences (```...```), inline code (`...`),
   HTML tags, or JSON-LD blocks
 """
