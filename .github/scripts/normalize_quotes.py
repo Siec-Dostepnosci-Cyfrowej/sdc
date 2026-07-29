@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Normalize ASCII double quotes to Polish-style quotation marks „..." in Markdown files.
+Normalize ASCII double quotes to Polish-style quotation marks „...” in Markdown files.
 
 Rules:
 - Only processes prose text (skips code blocks, inline code, HTML attributes, YAML frontmatter)
