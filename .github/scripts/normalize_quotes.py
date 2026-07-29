@@ -17,7 +17,13 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]
 PATTERNS = ['documentation/**/*.md', '*.md']
 EXCLUDES = {'node_modules'}
-
+RE_INLINE_CODE = re.compile(r'`[^`]+`')                  # inline code: `...`
+RE_HTML_TAG = re.compile(r'<[^>]+>')                     # single-line HTML tags: <img alt="...">
+RE_LINK_TARGET = re.compile(r'\]\([^)]*\)')              # Markdown link targets incl. titles: ](url "Title")
+RE_BARE_URL = re.compile(r'https?://\S+')                # bare URLs outside Markdown link syntax
+RE_POLISH_PAIR = re.compile(r'„[^„”]*”')                 # already-correct Polish quote pairs
+RE_ASCII_PAIR = re.compile(r'(?<!\w)"([^"]*)"(?!\w)')    # ASCII pair to convert; lookarounds skip e.g. inch marks (15")
+RE_PLACEHOLDER = re.compile(r'\x00(\d+)\x00')            # placeholder markers for protected spans
 
 def normalize_quotes(text: str) -> str:
     """Replace ASCII double-quoted strings with Polish-style quotes in prose only."""
