@@ -48,7 +48,7 @@ Treść należy podzielić na logiczne fragmenty tematyczne, aby ułatwić szybk
 
 ## Jakość dźwięku
 
-Nagranie powinno mieć jakość umożliwiającą zrozumienie wypowiedzi. Różnica międzu dialogami a tłem powinna wynosić co najmniej 30dB
+Nagranie powinno mieć jakość umożliwiającą zrozumienie wypowiedzi. Różnica między dialogami a tłem powinna wynosić co najmniej 30dB
 
 Muzyka i efekty nie mogą zagłuszać wypowiedzi.
 
