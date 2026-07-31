@@ -54,12 +54,12 @@ Istnieje zalecenie ETR, ale brak operacyjnego standardu jego stosowania.
 
 ---
 
-## 4. Zalecenie: Procedura kontroli dostępności przed publikacją treści
+## 4. Zalecenie: Kontrola dostępności treści cyfrowych przed publikacją
 
 ### Zakres:
 - Obowiązkowy punkt kontroli przed publikacją
-- Lista kontrolna redakcyjna
-- Odpowiedzialność właściciela treści
+- Listy kontrolne, standardy publikacji lub inne narzędzia przyjęte przez podmiot
+- Role i odpowiedzialności w procesie publikacji
 - Dokumentowanie kontroli
 - Reakcja na wykryte błędy
 
