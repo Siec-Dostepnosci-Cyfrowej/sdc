@@ -4,7 +4,7 @@ title: Standard opisu alternatywnego i treści równoważnych
 description: Standard tworzenia opisów alternatywnych i treści równoważnych dla materiałów wizualnych i multimedialnych.
 sidebar_label: Standard opisu alternatywnego
 sidebar_position: 7
-keywords: [dostępność cyfrowa, opis alternatywny, treść równoważna, alt, multimedia]
+keywords: [dostępność cyfrowa,opis alternatywny,treść równoważna,alt,multimedia]
 tags: [opis alternatywny, multimedia, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
 wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
