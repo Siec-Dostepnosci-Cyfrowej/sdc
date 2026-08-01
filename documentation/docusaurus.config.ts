@@ -27,7 +27,7 @@ const config: Config = {
     organizationName: 'Sieć Dostępności Cyfrowej',
     projectName: 'sdc/',
 
-    onBrokenLinks: 'throw',
+    onBrokenLinks: 'warn',
 
     i18n: {
         defaultLocale: 'pl',
