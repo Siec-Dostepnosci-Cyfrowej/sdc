@@ -4,8 +4,8 @@ title: Dokumentowanie oceny dostępności na potrzeby deklaracji
 sidebar_position: 5
 sidebar_label: Dokumentowanie oceny
 description: Zasady dokumentowania metod, zakresu i wyników oceny stanowiącej podstawę deklaracji dostępności.
-keywords: [deklaracja dostępności, ocena dostępności, audyt, dowody, dokumentacja]
-tags: [deklaracja dostępności, dostępność cyfrowa, ocena dostępności]
+keywords: [deklaracja dostępności,ocena dostępności,audyt,dowody,dokumentacja]
+tags: [deklaracja dostępności,ocena dostępności,audyt,dowody,dokumentacja]
 opracowanie: Tomasz Szymczak
 wspolpraca: Damian Żłobicki
 data_zgloszenia: 9 czerwca 2026 r.
