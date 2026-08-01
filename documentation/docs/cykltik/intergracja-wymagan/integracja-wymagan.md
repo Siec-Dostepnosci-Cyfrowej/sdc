@@ -175,7 +175,7 @@ Jeżeli dostępność zostanie potraktowana jako zadanie realizowane dopiero po 
 
 Znacznie lepsze efekty przynosi uwzględnianie wymagań dostępności od początku realizacji usługi. Pozwala to podejmować świadome decyzje projektowe, ograniczać ryzyko powstawania barier oraz stopniowo budować rozwiązania bardziej przyjazne dla wszystkich użytkowników.
 
-Takie podejście nie oznacza tworzenia dodatkowych etapów projektu ani rozbudowy dokumentacji. W większości przypadków wystarczy uwzględnić wymagania dostepności w działaniach, które i tak są prowadzone: podczas analizy potrzeb, przygotowania dokumentacji, projektowania, odbioru czy późniejszego rozwoju usługi.
+Takie podejście nie oznacza tworzenia dodatkowych etapów projektu ani rozbudowy dokumentacji. W większości przypadków wystarczy uwzględnić wymagania dostępności w działaniach, które i tak są prowadzone: podczas analizy potrzeb, przygotowania dokumentacji, projektowania, odbioru czy późniejszego rozwoju usługi.
 
 Włączenie dostępności do codziennego sposobu pracy przynosi korzyści nie tylko użytkownikom. Ułatwia planowanie projektów, poprawia jakość tworzonych rozwiązań, ogranicza liczbę błędów wykrywanych na końcu projektu oraz zmniejsza ryzyko kosztownych zmian po wdrożeniu.
 
