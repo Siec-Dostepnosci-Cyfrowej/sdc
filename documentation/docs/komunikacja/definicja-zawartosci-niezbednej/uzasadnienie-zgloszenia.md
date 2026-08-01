@@ -4,8 +4,8 @@ title: Uzasadnienie zgłoszenia tematu pod obrady Sieci Dostępności Cyfrowej
 sidebar_label: Uzasadnienie zgłoszenia
 sidebar_position: 3
 description: Uzasadnienie skierowania pod obrady Sieci Dostępności Cyfrowej tematu dotyczącego definicji zawartości niezbędnej do realizacji bieżących zadań podmiotu publicznego
-keywords: [dostępność cyfrowa, dokumenty cyfrowe, Sieć Dostępności Cyfrowej, dezyderat, legislacja]
-tags: [dostępność cyfrowa, dokumenty cyfrowe, Sieć Dostępności Cyfrowej, dezyderat]
+keywords: [dostępność cyfrowa,dokumenty cyfrowe,Sieć Dostępności Cyfrowej,dezyderat,legislacja]
+tags: [dostępność cyfrowa,dokumenty cyfrowe,Sieć Dostępności Cyfrowej,dezyderat,legislacja]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 10 czerwca 2026 r.
 ostatnia_aktualizacja: 10 czerwca 2026 r.
