@@ -20,9 +20,6 @@
   "dependencies": {
     "@docusaurus/core": "3.10.0",
     "@docusaurus/preset-classic": "3.10.0",
-    "@grnet/docusaurus-glossary-view": "2.0.0-rc.2",
-    "@grnet/docusaurus-term-preview": "2.0.0-rc.2",
-    "@grnet/docusaurus-terminology": "2.0.0-rc.2",
     "@mdx-js/react": "3.1.1",
     "@radix-ui/react-slot": "^1.2.4",
     "class-variance-authority": "^0.7.1",
