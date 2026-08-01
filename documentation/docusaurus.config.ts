@@ -38,14 +38,7 @@ const config: Config = {
     //  PLUGINS
     // =====================================
     plugins: [
-        [
-            '@grnet/docusaurus-terminology',
-            {
-                termsDir: './docs/terms',
-                docsDir: './docs/',
-                glossaryFilepath: './docs/glossary.md',
-            },
-        ],
+
 
         // --- DODANY PLUGIN ALIASÓW @ ---
         path.resolve(__dirname, 'plugins/alias-plugin'),
