@@ -71,7 +71,9 @@ W praktyce oznacza to, że kod źródłowy, konfiguracje, logi oraz treści mog�
 
 ### 5. Kontekst organizacyjny i umiejscowienie w cyklu życia
 
-Niniejsze zalecenie odnosi się bezpośrednio do etapu cyklu życia systemów i serwisów internetowych, obejmującego fazę ich bieżącego utrzymania, cyklicznego monitoringu oraz systematycznej ewaluacji dostępności. Wdrożenie przejrzystych zasad korzystania z AI pozwala na zachowanie ciągłości kontroli i wysokiej jakości kodu bez ryzyka wprowadzenia automatycznych błędów semantycznych do działających systemów publicznych.
+Niniejsze zalecenie odnosi się do etapu cyklu życia systemów i serwisów internetowych obejmującego ich bieżące utrzymanie, monitorowanie oraz systematyczną ewaluację dostępności. W tej fazie szczególnie istotne jest stosowanie przejrzystych zasad korzystania z narzędzi sztucznej inteligencji, tak aby wspierały one procesy diagnostyczne i analityczne bez wprowadzania niezamierzonych zmian w strukturze lub znaczeniu kodu.
+
+Jasne reguły pracy z AI pozwalają zachować ciągłość kontroli jakości oraz spójność procesów utrzymaniowych, a jednocześnie zapewniają, że ostateczne decyzje dotyczące wdrażania zmian pozostają w gestii ekspertów odpowiedzialnych za utrzymanie systemu.
 
 ### 6. Porównanie podejścia narzędziowego i regułowego
 
