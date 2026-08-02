@@ -14,9 +14,11 @@ wersja_robocza: true
 
 
 ## 1. Cel zalecenia
+
 Celem niniejszego zalecenia jest określenie zasad bezpiecznego, kontrolowanego i przejrzystego wykorzystania sztucznej inteligencji w procesach audytowania oraz napraw dostępności cyfrowej. Zalecenie definiuje zakres dopuszczalnego użycia AI, minimalne standardy jakości i bezpieczeństwa, a także zasady odpowiedzialności człowieka za ostateczne decyzje dotyczące zgodności. Dokument ma wspierać organizacje w zwiększaniu efektywności procesów kontrolnych przy jednoczesnym zapewnieniu pełnej jawności metod badawczych, ochrony danych oraz rzetelności wyników prezentowanych odbiorcom końcowym.
 
 ## 2. Zalecenie
+
 Korzystanie ze sztucznej inteligencji (ang. Artificial Intelligence) podczas oceny zgodności ma charakter opcjonalny i nie może zastępować analizy eksperta. AI może wspierać wybrane etapy audytu lub napraw, jednak odpowiedzialność za ostateczną ocenę zgodności zawsze spoczywa na człowieku.
 
 Wykorzystanie AI musi być poprzedzone określeniem celów operacyjnych oraz wdrożeniem zasad bezpiecznego stosowania, obejmujących m.in. jawność metod badawczych, dokumentowanie wpływu AI na wynik audytu oraz zatwierdzanie wszystkich automatycznych analiz przez eksperta.
@@ -77,11 +79,25 @@ Jasne reguły pracy z AI pozwalają zachować ciągłość kontroli jakości ora
 
 ### 6. Porównanie podejścia narzędziowego i regułowego
 
-Właściwe usytuowanie AI jako narzędzia pomocniczego w procesie kontrolnym obrazuje poniższe zestawienie:
-Kryterium	Automatyczne walidatory regułowe	Narzędzia AI (Wspomagające)
-Charakter działania	Sztywna weryfikacja zero-jedynkowa składni.	Elastyczna analiza kontekstowa i semantyczna.
-Poziom zobowiązania	Standard rynkowy i techniczny.	Opcjonalne wsparcie, zależne od celów audytu.
-Wymóg jawności	Wskazanie nazwy programu w raporcie.	Obligatorna informacja dla odbiorcy o użyciu AI.
+W procesie oceny dostępności cyfrowej narzędzia automatyczne oraz rozwiązania oparte na sztucznej inteligencji pełnią odmienne funkcje i wymagają odmiennego podejścia metodologicznego. Poniższe zestawienie obrazuje kluczowe różnice między klasycznymi walidatorami regułowymi a narzędziami AI wykorzystywanymi jako wsparcie eksperckie.
+
+#### Charakter działania
+
+Walidatory regułowe sprawdzają zgodność na podstawie z góry ustalonych reguł i list kontrolnych.
+
+Narzędzia AI analizują kontekst, interpretują znaczenie elementów i potrafią wychwycić problemy, które nie wynikają bezpośrednio z prostych reguł.
+
+#### Poziom zobowiązania
+
+Walidatory regułowe stanowią standardowy element procesu audytowego i są powszechnie stosowane jako narzędzia bazowe.
+
+Narzędzia AI są naturalnym uzupełnieniem warsztatu audytora, a zakres ich użycia zależy od celów audytu, charakteru analizowanych treści oraz przyjętej metodologii.
+
+#### Wymóg jawności
+
+W przypadku walidatorów regułowych wystarczające jest wskazanie użytego narzędzia w dokumentacji technicznej lub metodologicznej.
+
+W przypadku narzędzi AI konieczne jest jednoznaczne poinformowanie odbiorcy raportu o zakresie ich użycia w elementach wpływających na wynik audytu.
 
 ### 7. Podstawy prawne i rekomendowane źródła
 
