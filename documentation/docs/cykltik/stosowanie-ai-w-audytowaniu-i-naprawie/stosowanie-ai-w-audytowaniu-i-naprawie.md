@@ -49,7 +49,11 @@ Każdy wynik uzyskany z wykorzystaniem AI, w szczególności sugestie dotyczące
 
 ### 3.4. Bezpieczeństwo i ochrona zasobów informacyjnych
 
-W procesie interakcji z zewnętrznymi modelami językowymi należy bezwzględnie przestrzegać zasad ochrony danych. Zabrania się wprowadzania do publicznych systemów AI kodów źródłowych zawierających dane wrażliwe, dane osobowe, klucze autoryzacyjne lub niepubliczne informacje o infrastrukturze teleinformatycznej podmiotów publicznych.
+Z powodów bezpieczeństwa, ochrony prywatności oraz zachowania poufności zasobów informacyjnych korzystanie z zewnętrznych systemów sztucznej inteligencji, w szczególności modeli językowych przetwarzających dane poza organizacją, musi odbywać się w sposób kontrolowany.
+
+Do takich systemów nie należy przekazywać żadnych zasobów, które mogą ujawniać dane wrażliwe, dane osobowe, klucze autoryzacyjne, poufne elementy infrastruktury teleinformatycznej ani inne informacje nieprzeznaczone do udostępniania poza podmiotem publicznym.
+
+W praktyce oznacza to, że kod źródłowy, konfiguracje, logi oraz treści mogące zawierać dane użytkowników lub informacje o systemach wewnętrznych mogą być analizowane wyłącznie w środowiskach pozostających pod pełną kontrolą organizacji. Odpowiedzialność za właściwą klasyfikację danych oraz dobór bezpiecznych kanałów przetwarzania ponosi wykonawca audytu.
 
 ### 4. Przykładowe narzędzia AI wspierające audyt
 
