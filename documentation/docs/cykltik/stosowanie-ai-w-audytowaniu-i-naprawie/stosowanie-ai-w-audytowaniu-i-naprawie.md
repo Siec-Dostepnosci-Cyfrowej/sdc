@@ -63,7 +63,7 @@ W praktyce oznacza to, że kod źródłowy, konfiguracje, logi oraz treści mog�
 
 ### 4. Przykładowe narzędzia AI wspierające audyt
 
-Zastrzeżenie: Poniższa lista ma charakter wyłącznie poglądowy i edukacyjny. Wskazane narzędzia są jedynie przykładami dostępnych na rynku rozwiązań wspomagających proces badania dostępności. Nie stanowią one oficjalnie preferowanych, rekomendowanych ani certyfikowanych przez Sieć Dostępności Cyfrowej technologii. Wybór odpowiedniego narzędzia leży w gestii audytora.
+**Zastrzeżenie**: Poniższa lista ma charakter poglądowy i edukacyjny. Wskazane narzędzia stanowią przykłady dostępnych na rynku rozwiązań wspierających proces badania dostępności cyfrowej. Nie są to technologie preferowane, rekomendowane ani certyfikowane przez Sieć Dostępności Cyfrowej. Wybór narzędzi pozostaje w gestii audytora.
 
 - SiteLint – potężne, dostępne również w języku polskim, narzędzie przeglądarkowe, a także jako platforma do ciągłego monitorowania jakości i dostępności cyfrowej. Posiada zintegrowane wsparcie sztucznej inteligencji, która potrafi nie tylko zidentyfikować błędy, ale również objaśnić je prostym językiem, przygotować odpowiednie prompty do dalszej analizy czy wygenerować propozycje poprawionego kodu HTML.
 - Rozwiązania rodziny axe (np. axe-linter / axe Developer Hub) – uznane w branży automatyczne walidatory kodu, które coraz częściej integrują asystentów AI do analizy kontekstowej i podpowiadania propozycji naprawy (remediation) złożonych problemów ze zgodnością z WAI-ARIA.
