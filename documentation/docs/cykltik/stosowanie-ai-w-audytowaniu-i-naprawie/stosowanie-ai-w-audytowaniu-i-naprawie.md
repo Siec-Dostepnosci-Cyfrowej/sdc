@@ -6,7 +6,7 @@ sidebar_label: Zalecenie
 sidebar_position: 3 
 keywords: [dostępność cyfrowa,cykl życia TIK, dostępność cyfrowa,deklaracja dostępności, monitoring dostępności, przegląd dostępności, przegląd diagnostyczny, audyt zgodności, ocena stanu zgodności] 
 tags: [dostępność cyfrowa,cykl życia TIK, dostępność cyfrowa,deklaracja dostępności, monitoring dostępności, przegląd dostępności, przegląd diagnostyczny, audyt zgodności, ocena stanu zgodności] 
-opracowanie: Maciej Budzisz 
+opracowanie: Maciej Budzisz , Cezary Tomczyk
 data_zgloszenia: 22 maja 2026 r. 
 ostatnia_aktualizacja: 22 maja 2026 r. 
 wersja_robocza: true
