@@ -39,7 +39,13 @@ AI nie może zastępować człowieka w ocenie zgodności z normami dostępności
 
 ### 3.2. Wymóg pełnej transparentności i jawności (Prawo odbiorcy do informacji)
 
-Podmiot wykonujący audyt z wykorzystaniem narzędzi sztucznej inteligencji ma obowiązek zapewnić pełną jawność tego faktu. Odbiorca raportu z audytu musi posiadać jednoznaczną świadomość oraz zostać wprost poinformowany, które elementy analizy, weryfikacji kodu lub generowania opisów alternatywnych były realizowane bądź wspomagane przez systemy AI. Brak takiej informacji narusza standardy rzetelności i transparentności procedur publicznych.
+Podmiot wykonujący audyt z wykorzystaniem narzędzi sztucznej inteligencji ma obowiązek zapewnić pełną jawność w zakresie tych zastosowań AI, które wpływają na treść raportu, ocenę zgodności lub mogą wiązać się z ryzykiem przetwarzania danych wrażliwych.
+
+Odbiorca raportu musi zostać wprost poinformowany o tym, które elementy analizy, klasyfikacji błędów, generowania treści (np. opisów alternatywnych) lub formułowania wniosków były realizowane lub wspomagane przez systemy AI.
+
+Jawność nie obejmuje technicznych zastosowań AI, które nie wpływają na treść raportu ani ocenę zgodności, takich jak generowanie lub modyfikacja kodu, automatyzacja implementacji czy tworzenie testów, o ile nie wiąże się to z przetwarzaniem danych użytkowników.
+
+Brak jednoznacznej informacji o zastosowaniach AI wpływających na wynik audytu narusza standardy rzetelności i transparentności procedur publicznych.
 
 ### 3.3. Nadzór ekspercki i odpowiedzialność
 
