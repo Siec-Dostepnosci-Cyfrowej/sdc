@@ -29,7 +29,13 @@ Dokument nie wprowadza obowiązku stosowania AI, lecz określa zasady jej bezpie
 
 ### 3.1. Rezygnacja z obligatoryjności na rzecz podejścia celowego
 
-Wykorzystanie AI w badaniu dostępności cyfrowej nie stanowi obowiązku prawnego ani proceduralnego. Decyzja o wdrożeniu narzędzi algorytmicznych powinna być każdorazowo motywowana konkretnymi celami operacyjnymi, takimi jak skrócenie czasu analizy masowej kodu, automatyzacja powtarzalnych testów składniowych czy generowanie wstępnych propozycji naprawczych, które zawsze podlegają suwerennej ocenie człowieka.
+Wykorzystanie technologii sztucznej inteligencji w procesach badania dostępności cyfrowej ma charakter dobrowolny i powinno wynikać wyłącznie z jasno określonych celów operacyjnych. Automatyzacja jest uzasadniona jedynie wtedy, gdy wspiera analizę błędów, identyfikację powtarzalnych problemów lub wyciąganie wniosków potrzebnych do planowania napraw.
+
+AI może wspierać audyt poprzez masową analizę kodu, generowanie wstępnych propozycji naprawczych, wspomaganie implementacji poprawek oraz automatyzację tworzenia testów.
+
+W sytuacjach, w których wprowadzone zmiany są objęte automatycznymi testami potwierdzającymi ich poprawne działanie, część procesu może być realizowana z mniejszym udziałem człowieka. Automatyczne testy ograniczają konieczność ręcznej weryfikacji poszczególnych poprawek, o ile ich wyniki są jednoznaczne, powtarzalne i zgodne z oczekiwanym efektem naprawy, natomiast ostateczna ocena zawsze należy do eksperta.
+
+AI nie może zastępować człowieka w ocenie zgodności z normami dostępności. Wykonawca dokumentuje zarówno cel wdrożenia AI, jak i zakres jej wpływu na proces badawczy.
 
 ### 3.2. Wymóg pełnej transparentności i jawności (Prawo odbiorcy do informacji)
 
