@@ -41,7 +41,7 @@ AI nie może zastępować człowieka w ocenie zgodności z normami dostępności
 
 Podmiot wykonujący audyt z wykorzystaniem narzędzi sztucznej inteligencji ma obowiązek zapewnić pełną jawność tego faktu. Odbiorca raportu z audytu musi posiadać jednoznaczną świadomość oraz zostać wprost poinformowany, które elementy analizy, weryfikacji kodu lub generowania opisów alternatywnych były realizowane bądź wspomagane przez systemy AI. Brak takiej informacji narusza standardy rzetelności i transparentności procedur publicznych.
 
-### 3.3. Nadzór ekspercki i odpowiedzialność (Human-in-the-loop)
+### 3.3. Nadzór ekspercki i odpowiedzialność
 
 Ponieważ AI funkcjonuje wyłącznie jako narzędzie pomocnicze, pełną odpowiedzialność za treść raportu oraz ostateczną ocenę zgodności z wytycznymi WCAG ponosi audytor będący człowiekiem. Narzędzia AI mogą generować błędy kontekstowe oraz halucynacje, stąd każda sugestia wyprodukowana przez model musi zostać poddana krytycznej weryfikacji eksperckiej przed wpisaniem jej do oficjalnej dokumentacji.
 
