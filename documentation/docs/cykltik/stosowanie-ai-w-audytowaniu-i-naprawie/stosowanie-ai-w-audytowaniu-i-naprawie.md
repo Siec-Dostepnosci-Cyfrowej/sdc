@@ -17,7 +17,13 @@ wersja_robocza: true
 Celem niniejszego zalecenia jest określenie zasad bezpiecznego, kontrolowanego i przejrzystego wykorzystania sztucznej inteligencji w procesach audytowania oraz napraw dostępności cyfrowej. Zalecenie definiuje zakres dopuszczalnego użycia AI, minimalne standardy jakości i bezpieczeństwa, a także zasady odpowiedzialności człowieka za ostateczne decyzje dotyczące zgodności. Dokument ma wspierać organizacje w zwiększaniu efektywności procesów kontrolnych przy jednoczesnym zapewnieniu pełnej jawności metod badawczych, ochrony danych oraz rzetelności wyników prezentowanych odbiorcom końcowym.
 
 ## 2. Zalecenie
-Zaleca się, aby podmioty publiczne oraz podmioty realizujące audyty na ich zlecenie traktowały technologie sztucznej inteligencji (AI) wyłącznie jako dobrowolne narzędzie wspomagające pracę eksperta. Wykorzystanie systemów AI w procesie badania dostępności powinno opierać się na jasnym zdefiniowaniu celów operacyjnych oraz wdrożeniu zasad bezpiecznego stosowania, ze szczególnym uwzględnieniem prawa odbiorcy raportu do pełnej informacji o metodologii badawczej. Dokument ten nie wprowadza twardego obowiązku technologicznego, lecz normuje procesy w obszarach, w których wykonawcy decydują się na automatyzację.
+Korzystanie ze sztucznej inteligencji (ang. Artificial Intelligence) podczas oceny zgodności ma charakter opcjonalny i nie może zastępować analizy eksperta. AI może wspierać wybrane etapy audytu lub napraw, jednak odpowiedzialność za ostateczną ocenę zgodności zawsze spoczywa na człowieku.
+
+Wykorzystanie AI musi być poprzedzone określeniem celów operacyjnych oraz wdrożeniem zasad bezpiecznego stosowania, obejmujących m.in. jawność metod badawczych, dokumentowanie wpływu AI na wynik audytu oraz zatwierdzanie wszystkich automatycznych analiz przez eksperta.
+
+Odbiorca raportu ma prawo do jednoznacznej informacji o zakresie użycia AI w tych elementach, które wpływają na treść raportu lub ocenę zgodności, w szczególności w obszarach automatycznej analizy, klasyfikacji błędów czy generowania treści. Jawność nie obejmuje technicznych zastosowań AI, które nie wpływają na wynik audytu ani nie wiążą się z ryzykiem przetwarzania danych użytkowników.
+
+Dokument nie wprowadza obowiązku stosowania AI, lecz określa zasady jej bezpiecznego wykorzystania w sytuacjach, gdy wykonawca decyduje się na automatyzację wybranych etapów audytu lub napraw.
 
 ## 3. Rekomendacje
 
