@@ -43,7 +43,9 @@ Podmiot wykonujący audyt z wykorzystaniem narzędzi sztucznej inteligencji ma o
 
 ### 3.3. Nadzór ekspercki i odpowiedzialność
 
-Ponieważ AI funkcjonuje wyłącznie jako narzędzie pomocnicze, pełną odpowiedzialność za treść raportu oraz ostateczną ocenę zgodności z wytycznymi WCAG ponosi audytor będący człowiekiem. Narzędzia AI mogą generować błędy kontekstowe oraz halucynacje, stąd każda sugestia wyprodukowana przez model musi zostać poddana krytycznej weryfikacji eksperckiej przed wpisaniem jej do oficjalnej dokumentacji.
+Pełną odpowiedzialność za treść raportu oraz ostateczną ocenę zgodności z normami dostępności ponosi audytor będący człowiekiem. Wyniki generowane przez systemy AI mogą zawierać błędy kontekstowe, nieścisłości lub halucynacje, dlatego nie mogą być traktowane jako samodzielne źródło prawdy.
+
+Każdy wynik uzyskany z wykorzystaniem AI, w szczególności sugestie dotyczące klasyfikacji błędów, opisów alternatywnych czy propozycji napraw, musi zostać poddany krytycznej weryfikacji eksperckiej przed uwzględnieniem go w oficjalnej dokumentacji lub raporcie.
 
 ### 3.4. Bezpieczeństwo i ochrona zasobów informacyjnych
 
