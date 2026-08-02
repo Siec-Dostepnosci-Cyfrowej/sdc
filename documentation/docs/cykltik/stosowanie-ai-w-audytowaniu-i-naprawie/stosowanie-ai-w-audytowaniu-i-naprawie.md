@@ -14,7 +14,7 @@ wersja_robocza: true
 
 
 ## 1. Cel zalecenia
-Celem niniejszego zalecenia jest określenie ramowych celów oraz zasad bezpiecznego, świadomego i przejrzystego wykorzystywania sztucznej inteligencji jako narzędzia wspomagającego audytowanie i naprawę dostępności cyfrowej. Zalecenie ma na celu wsparcie organizacji w optymalizacji procesów kontrolnych przy jednoczesnym zachowaniu najwyższych standardów rzetelności, ochrony danych oraz pełnej jawności procedur badawczych wobec odbiorców końcowych.
+Celem niniejszego zalecenia jest określenie zasad bezpiecznego, kontrolowanego i przejrzystego wykorzystania sztucznej inteligencji w procesach audytowania oraz napraw dostępności cyfrowej. Zalecenie definiuje zakres dopuszczalnego użycia AI, minimalne standardy jakości i bezpieczeństwa, a także zasady odpowiedzialności człowieka za ostateczne decyzje dotyczące zgodności. Dokument ma wspierać organizacje w zwiększaniu efektywności procesów kontrolnych przy jednoczesnym zapewnieniu pełnej jawności metod badawczych, ochrony danych oraz rzetelności wyników prezentowanych odbiorcom końcowym.
 
 ## 2. Zalecenie
 Zaleca się, aby podmioty publiczne oraz podmioty realizujące audyty na ich zlecenie traktowały technologie sztucznej inteligencji (AI) wyłącznie jako dobrowolne narzędzie wspomagające pracę eksperta. Wykorzystanie systemów AI w procesie badania dostępności powinno opierać się na jasnym zdefiniowaniu celów operacyjnych oraz wdrożeniu zasad bezpiecznego stosowania, ze szczególnym uwzględnieniem prawa odbiorcy raportu do pełnej informacji o metodologii badawczej. Dokument ten nie wprowadza twardego obowiązku technologicznego, lecz normuje procesy w obszarach, w których wykonawcy decydują się na automatyzację.
