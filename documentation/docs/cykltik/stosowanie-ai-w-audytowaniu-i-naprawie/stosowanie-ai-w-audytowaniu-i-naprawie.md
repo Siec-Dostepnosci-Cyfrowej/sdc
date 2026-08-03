@@ -20,9 +20,33 @@ Zalecenie określa zasady wykorzystywania systemów sztucznej inteligencji podcz
 
 Korzystanie ze sztucznej inteligencji (ang. Artificial Intelligence) podczas oceny zgodności ma charakter opcjonalny i nie może zastępować analizy eksperta. AI może wspierać wybrane etapy oceny lub napraw, jednak odpowiedzialność za ostateczną ocenę zgodności zawsze spoczywa na człowieku.
 
-Wykorzystanie AI musi być poprzedzone określeniem celów operacyjnych oraz wdrożeniem zasad bezpiecznego stosowania, obejmujących m.in. jawność metod badawczych, dokumentowanie wpływu AI na wynik oceny oraz zatwierdzanie wszystkich automatycznych analiz przez eksperta.
+Na potrzeby zalecenia należy odróżnić systemy AI od walidatorów regułowych i innych narzędzi automatycznych. Walidator regułowy wykonuje zdefiniowane testy i zwraca wyniki wynikające z określonych reguł. System AI generuje albo klasyfikuje wyniki na podstawie modelu, którego odpowiedzi mogą zależeć od kontekstu, konfiguracji i przekazanych instrukcji oraz mogą być niepełne, niepowtarzalne lub błędne. Zasady dotyczące AI stosuje się do funkcji, które rzeczywiście wykorzystują takie modele, a nie automatycznie do całego produktu, w którym funkcje te zostały umieszczone.
 
-Odbiorca raportu ma prawo do jednoznacznej informacji o zakresie użycia AI w tych elementach, które wpływają na treść raportu lub ocenę zgodności, w szczególności w obszarach automatycznej analizy, klasyfikacji błędów czy generowania treści. Jawność nie obejmuje technicznych zastosowań AI, które nie wpływają na wynik audytu ani nie wiążą się z ryzykiem przetwarzania danych użytkowników.
+Zakres nadzoru należy określić przed rozpoczęciem danego zadania, z uwzględnieniem wpływu wyniku na ocenę dostępności lub sposób wykonania poprawki.
+
+Zadania realizowane z wykorzystaniem AI dzielą się na:
+
+1. zadania pomocnicze – obejmujące porządkowanie materiału, grupowanie podobnych problemów, przygotowywanie zestawień i inne czynności, których wynik nie przesądza o ocenie zgodności ani odbiorze poprawki;
+2. zadania wymagające niezależnej weryfikacji eksperckiej – obejmujące w szczególności wykrywanie i klasyfikowanie problemów, przypisywanie wymagań dostępności, formułowanie wniosków oraz proponowanie lub generowanie poprawek;
+3. zadania, których nie można powierzyć AI jako samodzielnemu wykonawcy – obejmujące stwierdzenie zgodności albo niezgodności, zatwierdzenie wyniku badania oraz podjęcie decyzji o odbiorze wykonanej poprawki.
+
+Wyniki wygenerowane przez system AI nie mogą stanowić samodzielnej podstawy ustaleń, oceny zgodności ani decyzji o odbiorze wykonanej poprawki. Każdy wynik wykorzystany w procesie oceny albo naprawy wymaga niezależnej i krytycznej weryfikacji przez osobę posiadającą odpowiednie kompetencje.
+
+Wykorzystanie AI musi być poprzedzone określeniem celu operacyjnego oraz oceną ryzyka. Ocena obejmuje:
+
+1. wpływ wyniku AI na ocenę zgodności, treść raportu lub zakres naprawy;
+2. możliwość niezależnego potwierdzenia wyniku;
+3. konieczność wykonania testów manualnych i testów z technologiami asystującymi;
+4. rodzaj, poufność i zakres przekazywanych danych;
+5. poziom autonomii systemu oraz zakres jego uprawnień;
+6. możliwość wystąpienia regresji;
+7. skutki błędnego wyniku, błędnej poprawki albo nieuprawnionego działania systemu.
+
+Zakres zabezpieczeń i weryfikacji należy dostosować do wyniku tej oceny.
+
+Wykorzystanie AI wymaga zapewnienia transparentności w zakresie możliwym do udokumentowania przez wykonawcę. Dokumentacja obejmuje co najmniej cel wykorzystania AI, rodzaj powierzonych zadań, wpływ wyników AI na ocenę lub poprawkę, sposób ich niezależnej weryfikacji oraz nazwę i wersję zastosowanego modelu lub usługi. Brak dostępu do wewnętrznych mechanizmów działania zamkniętego modelu nie zwalnia z obowiązku opisania sposobu jego wykorzystania i kontroli wyników.
+
+Użycie AI uznaje się za wpływające na wynik prac, jeżeli rezultat działania systemu został wykorzystany do wskazania lub pominięcia problemu, przypisania wymagania albo poziomu zgodności, sformułowania wniosku, wygenerowania treści raportu, przygotowania poprawki lub opracowania testu stanowiącego podstawę odbioru zmiany. Takie użycie podlega dokumentowaniu i niezależnej weryfikacji niezależnie od tego, czy zostało określone jako techniczne, pomocnicze lub redakcyjne.
 
 Dokument nie wprowadza obowiązku stosowania AI, lecz określa zasady jej bezpiecznego wykorzystania w sytuacjach, gdy wykonawca decyduje się na automatyzację wybranych etapów oceny lub prac naprawczych.
 
