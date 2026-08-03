@@ -1,10 +1,10 @@
 ---
 id: problemy-i-bledy-wdrozeniowe
 title: Problemy i błędy wdrożeniowe w zakresie dostępności materiałów multimedialnych i treści cyfrowych
-description: Katalog najczęstszych błędów i ryzyk we wdrażaniu dostępności multimediów i komunikacji.
+description: Praktyczny katalog błędów, skutków i sposobów zapobiegania problemom we wdrażaniu standardu.
 sidebar_label: Problemy i błędy wdrożeniowe
 sidebar_position: 16
-keywords: [dostępność cyfrowa, multimedia, komunikacja, administracja publiczna]
+keywords: [dostępność cyfrowa, multimedia, błędy wdrożeniowe, komunikacja, administracja publiczna]
 tags: [komunikacja, multimedia, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
 wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
@@ -13,183 +13,141 @@ ostatnia_aktualizacja: 3 sierpnia 2026 r.
 wersja_robocza: true
 ---
 
+## Charakter dokumentu
 
+Ten dokument jest praktycznym katalogiem błędów wdrożeniowych. Nie powtarza diagnozy problemu ani opisu kontekstu. Ma pomagać podczas przeglądu procesu publikacji, kontroli jakości, szkoleń i działań korygujących.
 
-## Charakter problemów
+Każdy punkt opisuje:
 
-Dokument nie powtarza diagnozy z opisu problemu i kontekstu. Służy jako katalog błędów, który można wykorzystać podczas przeglądu procesu publikacji, szkoleń i działań korygujących.
+- błąd,
+- skutek,
+- sposób zapobiegania.
 
-Problemy związane z dostępnością materiałów multimedialnych i treści cyfrowych mają w większości charakter systemowy, a nie jednostkowy.
+## Katalog błędów
 
-Nie wynikają z braku dobrej woli pracowników, lecz z braku:
-- spójnych zasad działania,
-- jasno określonych odpowiedzialności,
-- powtarzalnych procesów,
-- narzędzi wspierających realizację wymagań.
+### Dostępność dodawana dopiero po publikacji
 
-W efekcie dostępność realizowana jest w sposób nierówny i nieprzewidywalny.
+**Błąd:** materiał jest przygotowywany i publikowany bez wymaganych elementów dostępności, a napisy, transkrypcja, opis alternatywny lub audiodeskrypcja są traktowane jako późniejsze uzupełnienie.
 
----
+**Skutek:** użytkownicy otrzymują materiał niedostępny, a zespół musi wykonywać poprawki po publikacji.
 
-## Dostępność jako działanie końcowe
+**Sposób zapobiegania:** uwzględnić wymagania dostępności już w briefie, scenariuszu, projekcie graficznym lub planie publikacji oraz sprawdzić materiał przed publikacją.
 
-Jednym z najczęstszych błędów jest traktowanie dostępności jako etapu końcowego.
+### Brak decyzji publikacyjnej
 
-W praktyce oznacza to, że:
-- materiał powstaje bez uwzględnienia dostępności,
-- elementy dostępności są dodawane po publikacji,
-- część materiałów pozostaje bez uzupełnienia.
+**Błąd:** materiał trafia do publikacji bez formalnego potwierdzenia, że spełnia wymagania obowiązkowe i właściwe wymagania warunkowe.
 
-Takie podejście prowadzi do:
-- zwiększenia nakładu pracy,
-- obniżenia jakości,
-- utrwalania błędów.
+**Skutek:** decyzja o publikacji zależy od bieżącej oceny osoby publikującej, a błędy są wykrywane dopiero po zgłoszeniu lub kontroli.
 
----
+**Sposób zapobiegania:** stosować listę kontrolną i zapisywać wynik: publikacja, poprawa przed publikacją albo procedura sytuacji wyjątkowej.
 
-## Brak przełożenia wymagań na praktykę
+### Nieustalone role w procesie
 
-Wymagania dostępności są często znane na poziomie ogólnym, ale nie są przełożone na konkretne działania.
+**Błąd:** nie wiadomo, kto odpowiada za przygotowanie elementów dostępności, ich redakcję, weryfikację i zatwierdzenie.
 
-Prowadzi to do:
-- uznaniowości decyzji,
-- niepewności pracowników,
-- różnego poziomu realizacji wymagań.
+**Skutek:** zadania są pomijane lub wykonywane zbyt późno.
 
-Brak operacyjnych zasad powoduje, że dostępność zależy od interpretacji, a nie od procesu.
+**Sposób zapobiegania:** przypisać role przed rozpoczęciem pracy nad materiałem: autora, redaktora, osobę techniczną, osobę weryfikującą i osobę podejmującą decyzję publikacyjną.
 
----
+### Automatyczne napisy bez redakcji
 
-## Niespójność komunikacji
+**Błąd:** automatycznie wygenerowane napisy są publikowane bez sprawdzenia treści, interpunkcji, podziału, synchronizacji i oznaczenia istotnych dźwięków.
 
-Komunikacja realizowana przez wiele zespołów bez wspólnych standardów prowadzi do:
+**Skutek:** użytkownik otrzymuje zapis niepełny, mylący albo trudny do śledzenia.
 
-- różnic w jakości materiałów,
-- niespójności przekazu,
-- powstawania barier dostępnościowych.
+**Sposób zapobiegania:** traktować automatyczne napisy jako materiał roboczy i przed publikacją wykonać redakcję oraz kontrolę synchronizacji.
 
-Problemy te mają charakter organizacyjny i powtarzają się niezależnie od osoby przygotowującej materiał.
+### Brak transkrypcji dla materiału audio
 
----
+**Błąd:** podcast, komunikat głosowy lub nagranie audio jest publikowane bez kompletnej transkrypcji.
 
-## Brak przypisanej odpowiedzialności
+**Skutek:** treść jest niedostępna dla osób, które nie mogą odtworzyć lub zrozumieć dźwięku.
 
-W wielu podmiotach odpowiedzialność za dostępność nie jest jasno określona.
+**Sposób zapobiegania:** przygotować transkrypcję obejmującą wypowiedzi, identyfikację mówców oraz istotne dźwięki i opublikować ją razem z nagraniem.
 
-Skutkuje to:
-- pomijaniem zadań,
-- rozproszeniem obowiązków,
-- brakiem kontroli nad jakością.
+### Tło audio utrudniające odbiór
 
-Często dostępność przypisywana jest jednej osobie, co nie odpowiada rzeczywistemu przebiegowi procesu.
+**Błąd:** muzyka, efekty lub dźwięki tła konkurują z wypowiedzią i utrudniają zrozumienie komunikatu.
 
----
+**Skutek:** materiał jest trudniejszy w odbiorze, szczególnie dla osób słabosłyszących, korzystających ze słabszego sprzętu albo odtwarzających nagranie w hałaśliwym otoczeniu.
 
-## Postrzeganie dostępności jako „zbędnego wymagania”
+**Sposób zapobiegania:** projektować dźwięk tak, aby wypowiedź była wyraźna, a tło można było wyciszyć, ograniczyć albo usunąć. Nie przedstawiać tego wymagania jako samodzielnej deklaracji zgodności z poziomem AA, jeżeli wynika ono z wewnętrznego standardu jakości lub z kryteriów wyższego poziomu.
 
-Dostępność bywa postrzegana jako działanie nadmiarowe lub utrudniające pracę.
+### Brak audiodeskrypcji, gdy obraz niesie kluczową informację
 
-Prowadzi to do sytuacji, w których:
-- uwagi dotyczące dostępności są ignorowane,
-- działania są odkładane,
-- pojawiają się konflikty między zespołami.
+**Błąd:** nagrany materiał wideo z dźwiękiem zawiera informacje istotne wizualnie, ale nie zapewniono audiodeskrypcji ani nie przekazano tych informacji w głównej ścieżce dźwiękowej.
 
-Problem ten wynika z braku powiązania dostępności z jakością komunikacji i procesem publikacji.
+**Skutek:** użytkownik, który nie widzi obrazu, nie otrzymuje pełnej treści materiału.
 
-W efekcie dostępność traktowana jest jako opinia, a nie jako obowiązujący standard.
+**Sposób zapobiegania:** na etapie scenariusza ustalić, czy obraz zawiera informacje potrzebne do zrozumienia materiału. Jeżeli tak, zapewnić audiodeskrypcję albo tak zaplanować główną ścieżkę dźwiękową, aby przekazywała wszystkie istotne informacje.
 
----
+### Publikacja nagrania transmisji bez planu dostosowania
 
-## Zależność od kompetencji jednostki
+**Błąd:** nagranie transmisji na żywo jest publikowane na stronie internetowej albo w aplikacji mobilnej bez dostosowania i bez informacji o terminie zapewnienia dostępności.
 
-Poziom dostępności materiałów zależy często od:
+**Skutek:** odbiorcy nie wiedzą, kiedy materiał będzie dostępny, a podmiot traci kontrolę nad terminami wynikającymi z ustawy.
 
-- wiedzy konkretnej osoby,
-- doświadczenia zespołu,
-- dostępnego czasu.
+**Sposób zapobiegania:** po zakończeniu transmisji zaplanować dostosowanie nagrania w terminie 14 dni. Jeżeli nie jest to możliwe, podać przy nagraniu termin zapewnienia dostępności, nie dłuższy niż 2 miesiące od zakończenia transmisji.
 
-Brak standardów powoduje, że dobre praktyki nie są powtarzalne, a podmiot nie buduje stabilnego poziomu jakości.
+### Informacja dostępna wyłącznie w obrazie
 
----
+**Błąd:** grafika, slajd, plansza, miniatura albo post zawiera kluczowe dane, których nie ma w tekście, opisie alternatywnym, transkrypcji lub opisie materiału.
 
-## Brak weryfikacji przed publikacją
+**Skutek:** część użytkowników nie otrzymuje pełnej informacji albo musi domyślać się znaczenia przekazu.
 
-Publikacja materiałów odbywa się często bez formalnej kontroli dostępności.
+**Sposób zapobiegania:** zapewnić treść równoważną poza obrazem i sprawdzić, czy po usunięciu grafiki komunikat nadal przekazuje najważniejsze informacje.
 
-W efekcie:
-- błędy są wykrywane po publikacji,
-- elementy dostępności są pomijane,
-- jakość materiałów jest nierówna.
+### Opis alternatywny nie odpowiada funkcji obrazu
 
-Brak weryfikacji powoduje utrwalanie nieprawidłowych praktyk.
+**Błąd:** opis alternatywny jest zbyt ogólny, powtarza podpis albo opisuje dekorację, zamiast przekazać funkcję i znaczenie obrazu.
 
----
+**Skutek:** użytkownik otrzymuje informację nieprzydatną lub nadmiarową.
 
-## Nadmierne poleganie na rozwiązaniach technicznych
+**Sposób zapobiegania:** opisywać obraz zgodnie z jego rolą w materiale: informacyjną, linkującą, instruktażową, dekoracyjną albo kontekstową.
 
-W niektórych przypadkach dostępność traktowana jest jako problem technologiczny.
+### Miganie i błyski bez kontroli
 
-Prowadzi to do:
-- nadmiernego polegania na narzędziach automatycznych, w tym na automatycznie generowanych napisach lub opisach,
-- braku redakcji i weryfikacji treści,
-- przekonania, że narzędzie samo rozwiązuje problem dostępności.
+**Błąd:** animacja, przejście, film lub grafika zawiera błyski albo miganie przekraczające próg bezpieczeństwa WCAG.
 
-Technologia może wspierać proces, ale nie zastępuje odpowiedzialności i kontroli jakości.
+**Skutek:** materiał może powodować dyskomfort albo ryzyko dla osób wrażliwych na bodźce świetlne.
 
----
+**Sposób zapobiegania:** sprawdzić materiał przed publikacją i usuwać sekwencje migające częściej niż trzy razy na sekundę lub niespełniające kryterium WCAG 2.3.1.
 
-## Brak standaryzacji narzędzi i wzorców
+### Zbyt kategoryczna deklaracja zgodności
 
-Pracownicy często nie mają dostępu do:
+**Błąd:** podmiot deklaruje pełną zgodność materiału, kanału albo procesu bez wykonania właściwej weryfikacji.
 
-- wzorców opisów alternatywnych,
-- przykładów poprawnych rozwiązań,
-- jednolitych zasad tworzenia materiałów.
+**Skutek:** deklaracja może być nieprecyzyjna i trudna do obrony podczas kontroli lub po zgłoszeniu użytkownika.
 
-Powoduje to:
-- wydłużenie czasu pracy,
-- powstawanie błędów,
-- brak spójności.
+**Sposób zapobiegania:** opisywać zakres weryfikacji konkretnie, na przykład wskazać sprawdzony materiał, zastosowaną listę kontrolną, wynik i ewentualne ograniczenia.
 
----
+### Brak dokumentowania wyjątków
 
-## Brak mechanizmu uczenia się podmiotu
+**Błąd:** materiał jest publikowany mimo niespełnienia wymagań, ale nie zapisano przyczyny, zakresu braku, osoby odpowiedzialnej i terminu poprawy.
 
-Błędy związane z dostępnością są często traktowane jako incydenty, a nie jako źródło wiedzy.
+**Skutek:** wyjątek staje się niekontrolowaną praktyką, a poprawa może nie zostać wykonana.
 
-W efekcie:
-- te same problemy powtarzają się,
-- brak działań systemowych,
-- podmiot nie rozwija swoich procesów.
+**Sposób zapobiegania:** stosować procedurę sytuacji wyjątkowej i zapisywać decyzję wraz z planem działań korygujących.
 
-Brakuje mechanizmu analizy przyczyn i wdrażania zmian.
+### Brak uczenia się na błędach
 
----
+**Błąd:** po poprawieniu pojedynczego materiału zespół nie aktualizuje list kontrolnych, szablonów, instrukcji ani sposobu pracy.
 
-## Konsekwencje błędów wdrożeniowych
+**Skutek:** te same błędy powtarzają się w kolejnych materiałach.
 
-Opisane problemy prowadzą do:
+**Sposób zapobiegania:** po każdym istotnym błędzie ustalić przyczynę, przypisać działanie korygujące i wprowadzić zmianę w procesie lub narzędziu.
 
-- publikacji materiałów niedostępnych,
-- konieczności wprowadzania poprawek po publikacji,
-- zwiększonego obciążenia zespołów,
-- nierównej jakości komunikacji,
-- ograniczonej dostępności usług publicznych.
+## Zastosowanie katalogu
 
-Problemy te mają charakter trwały, jeżeli nie zostaną rozwiązane na poziomie systemowym.
+Katalog można wykorzystać jako:
 
----
+- materiał szkoleniowy dla zespołów tworzących i publikujących treści,
+- punkt odniesienia podczas przeglądu procesu publikacji,
+- pomoc przy analizie zgłoszeń użytkowników,
+- źródło tematów do działań korygujących.
 
-## Kierunek rozwiązania
+## Powiązane dokumenty
 
-Rozwiązanie problemów wymaga podejścia systemowego.
-
-W szczególności:
-
-- dostępność powinna być elementem procesu publikacji,
-- spełnienie wymagań powinno być warunkiem publikacji,
-- odpowiedzialność powinna być przypisana do ról,
-- weryfikacja powinna mieć charakter obowiązkowy,
-- podmiot powinien wykorzystywać błędy do doskonalenia procesów.
-
-Takie podejście pozwala przejść od działań incydentalnych do powtarzalnego modelu zapewniania dostępności.
+- [Problem i kontekst](./problem-i-kontekst.md)
+- [Minimalne wymagania dostępności](./minimalne-wymagania.md)
+- [Standard publikacji dostępnych materiałów multimedialnych i treści cyfrowych](./komunikacja-masowa-zalecenie.md)

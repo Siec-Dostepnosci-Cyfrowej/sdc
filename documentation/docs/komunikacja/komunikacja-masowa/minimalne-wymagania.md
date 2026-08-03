@@ -53,7 +53,7 @@ Prosty język, hierarchia informacji i zasada jednego komunikatu są standardem 
 
 ## Wymagania według typu materiału
 
-- **Wideo:** napisy, alternatywa dla treści wizualnej (audiodeskrypcja, transkrypcja rozszerzona albo inna treść równoważna odpowiednia do celu materiału), brak błysków i migania przekraczających próg bezpieczeństwa.
+- **Wideo:** napisy, audiodeskrypcja dla nagranego materiału wideo z dźwiękiem, jeżeli istotne informacje wizualne nie wynikają z głównej ścieżki dźwiękowej, oraz brak błysków i migania przekraczających próg bezpieczeństwa.
 - **Audio:** transkrypcja pełnej treści, czytelny opis materiału.
 - **Grafika:** opis alternatywny oraz równoważna treść tekstowa poza grafiką.
 - **Posty w mediach społecznościowych:** równoważny poziom dostępności z wykorzystaniem funkcji platformy.
@@ -64,7 +64,7 @@ Materiały publikowane w mediach społecznościowych powinny zapewniać równowa
 
 Treści powinny być przygotowywane lub wprowadzane w sposób zachowujący strukturę, semantykę i elementy dostępności. Po przeniesieniu treści z zewnętrznych edytorów wymagana jest weryfikacja struktury, linków, opisów alternatywnych i formatowania.
 
-Dla zaplanowanych transmisji na żywo należy z wyprzedzeniem ocenić możliwość zapewnienia dostępności w czasie rzeczywistym, w szczególności napisów na żywo lub tłumaczenia. Nagranie z transmisji publikowane po wydarzeniu jest nowym materiałem do publikacji: powinno mieć napisy, transkrypcję oraz alternatywę dla istotnych informacji wizualnych, jeżeli są potrzebne do zrozumienia treści. Jeżeli elementów tych nie można przygotować od razu, należy udokumentować wyjątek, zapewnić minimalny dostęp do kluczowej informacji i wskazać termin uzupełnienia braków.
+Multimedia nadawane na żywo są wyłączone z obowiązku dostępności podczas transmisji. Jeżeli podmiot publiczny publikuje nagranie transmisji na stronie internetowej albo w aplikacji mobilnej, powinien dostosować nagranie w terminie 14 dni od zakończenia transmisji. Jeżeli dostosowanie w ciągu 14 dni nie jest możliwe, przy nagraniu należy podać termin zapewnienia dostępności. Termin ten nie może być dłuższy niż 2 miesiące od zakończenia transmisji.
 
 ## Kryteria weryfikacji
 

@@ -82,7 +82,7 @@ Wdrożenie standardów wprowadza jasny i powtarzalny sposób przygotowania mater
 Praca nad treścią:
 - opiera się na tych samych wymaganiach,
 - wykorzystuje wspólne listy kontrolne,
-- ogranicza przypadkowość i różnice interpretacyjne.
+- wspiera spójne decyzje redakcyjne i publikacyjne.
 
 Dzięki temu:
 - ograniczana jest przypadkowość,

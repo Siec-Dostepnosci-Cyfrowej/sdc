@@ -24,7 +24,7 @@ Wymagania:
 - definiują minimalny poziom zapewnienia dostępności,
 - porządkują kryteria przygotowania materiałów,
 - zapewniają jednolite kryteria oceny,
-- ograniczają uznaniowość w interpretowaniu wymagań.
+- ułatwiają spójną interpretację wymagań.
 
 Wymagania odpowiadają na pytanie:
 
@@ -56,8 +56,8 @@ Wymagania są podstawą całego systemu i są punktem odniesienia dla pozostały
 
 Wymagania mają charakter:
 
-- obowiązkowy – muszą być spełnione,
-- mierzalny – umożliwiają jednoznaczną ocenę,
-- powtarzalny – mogą być stosowane w każdej sytuacji.
+- obowiązkowy - muszą być spełnione,
+- mierzalny - umożliwiają ocenę według tych samych kryteriów,
+- powtarzalny - mogą być stosowane przy różnych typach materiałów.
 
 Stanowią podstawę oceny spełnienia przyjętego standardu dostępności dla konkretnego materiału.

@@ -1,10 +1,10 @@
 ---
 id: komunikacja-masowa
 title: Standard publikacji dostępnych materiałów multimedialnych i treści cyfrowych
-description: Samodzielne zalecenie organizacji publikacji dostępnych materiałów multimedialnych i treści cyfrowych.
+description: Samodzielny standard publikacji dostępnych materiałów multimedialnych i treści cyfrowych.
 sidebar_label: Zalecenie
 sidebar_position: 5
-keywords: [dostępność cyfrowa, kontrola dostępności, publikacja, komunikacja, listy kontrolne]
+keywords: [standard publikacji dostępnych materiałów multimedialnych i treści cyfrowych, dostępność cyfrowa, kontrola dostępności, publikacja, komunikacja, listy kontrolne]
 tags: [zalecenie, komunikacja, dostępność cyfrowa, kontrola]
 opracowanie: Bartłomiej Wilk
 wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
@@ -15,13 +15,13 @@ wersja_robocza: true
 
 ## Cel zalecenia
 
-Celem zalecenia jest ustanowienie samodzielnego standardu pracy nad dostępnymi materiałami multimedialnymi i treściami cyfrowymi publikowanymi przez podmiot. Dokument określa wymagania, role, kontrolę przed publikacją, decyzję publikacyjną, sytuacje wyjątkowe i listy kontrolne bez odsyłania do innych zaleceń.
+Celem zalecenia jest ustanowienie samodzielnego standardu pracy nad dostępnymi materiałami multimedialnymi i treściami cyfrowymi publikowanymi przez podmiot. Dokument określa wymagania, role, kontrolę przed publikacją, decyzję publikacyjną, sytuacje wyjątkowe, listy kontrolne i działania korygujące bez odsyłania do dokumentów spoza pakietu.
 
 ## Zalecenie
 
 Podmiot ustanawia i stosuje standard publikacji dostępnych materiałów multimedialnych i treści cyfrowych. Standard określa minimalne wymagania, role, model operacyjny, kontrolę jakości przed publikacją, decyzję publikacyjną oraz zasady zapewnienia zasobów, narzędzi i kompetencji.
 
-Zalecenie jest kompletne jako dokument wdrożeniowy. Można je stosować bez znajomości innych zaleceń lub pakietów tematycznych.
+Zalecenie jest kompletne jako dokument wdrożeniowy. Można je stosować bez dokumentów spoza pakietu.
 
 ## Rekomendacje
 
@@ -35,7 +35,7 @@ Wymagania obejmują w szczególności:
 
 - napisy i transkrypcje dla materiałów audio i wideo,
 - opisy alternatywne i treści równoważne dla grafik, infografik i materiałów wizualnych,
-- audiodeskrypcję albo inną równoważną formę dostępu do istotnych informacji wizualnych w materiałach wideo,
+- audiodeskrypcję dla nagranych materiałów wideo z dźwiękiem, jeżeli istotne informacje wizualne nie wynikają z głównej ścieżki dźwiękowej,
 - strukturę komunikatu, prosty język i logiczny układ treści,
 - dostępność postów publikowanych w mediach społecznościowych,
 - dostępność opisu, metadanych i sposobu osadzenia materiału w kanale publikacji,
@@ -83,6 +83,8 @@ Podmiot stosuje listy kontrolne jako narzędzie potwierdzania spełnienia wymaga
 - wskazują, czy materiał może zostać opublikowany, wymaga poprawy albo wymaga zastosowania procedury sytuacji wyjątkowej,
 - są aktualizowane razem ze zmianą standardów, przepisów albo narzędzi publikacyjnych.
 
+Listy kontrolne dla poszczególnych formatów znajdują się w części [Listy kontrolne](#listy-kontrolne). Obejmują co najmniej materiały wideo, materiały audio, grafiki i publikacje w mediach społecznościowych.
+
 Materiał, który nie spełnia wymagań obowiązkowych lub właściwych wymagań warunkowych, nie jest materiałem kompletnym. Nie powinien zostać opublikowany, chyba że zastosowano i udokumentowano procedurę sytuacji wyjątkowej.
 
 ### 5. Zasoby, narzędzia i kompetencje
@@ -120,7 +122,7 @@ Zastosowanie wyjątku wymaga udokumentowania:
 
 W przypadku materiałów pilnych należy zapewnić co najmniej te elementy dostępności, które umożliwiają odbiór podstawowej informacji w chwili publikacji, a brakujące elementy uzupełnić w wyznaczonym terminie.
 
-W przypadku transmisji na żywo należy rozróżnić dostępność w czasie rzeczywistym od dostępności materiału po transmisji. Jeżeli napisy na żywo, tłumaczenie albo inna forma dostępności w czasie rzeczywistym nie mogą zostać zapewnione, podmiot określa minimalny poziom dostępności transmisji oraz termin udostępnienia nagrania, transkrypcji, napisów lub równoważnej informacji po zakończeniu transmisji.
+Multimedia nadawane na żywo są wyłączone z obowiązku dostępności podczas transmisji. Jeżeli podmiot publiczny publikuje nagranie transmisji na stronie internetowej albo w aplikacji mobilnej, dostosowuje je w terminie 14 dni od zakończenia transmisji. Jeżeli dostosowanie nagrania w tym terminie nie jest możliwe, przy nagraniu należy podać termin zapewnienia dostępności. Termin ten nie może być dłuższy niż 2 miesiące od zakończenia transmisji.
 
 W przypadku treści lub materiałów pochodzących od podmiotów zewnętrznych podmiot publikujący kwalifikuje materiał przed udostępnieniem, sprawdza możliwość zapewnienia wymaganych elementów dostępności i określa, czy materiał może zostać opublikowany, wymaga dostosowania, wymaga alternatywy albo nie powinien zostać udostępniony w danym kanale.
 
@@ -146,16 +148,40 @@ Decyzja powinna wskazywać osobę zatwierdzającą, datę, wynik weryfikacji, ew
 - Sprawdzono, czy platforma publikacji pozwala dodać wymagane elementy dostępności.
 - Zaplanowano termin przygotowania elementów dostępności przed publikacją.
 
-### Lista kontrolna materiału
+### Lista kontrolna materiału wideo
 
 - Tytuł i opis materiału jednoznacznie wyjaśniają temat.
-- Materiał audio ma pełną transkrypcję.
-- Materiał wideo ma napisy dla ścieżki dźwiękowej.
-- Istotne informacje wizualne są dostępne w audiodeskrypcji, transkrypcji rozszerzonej, opisie albo widocznej treści tekstowej.
-- Grafiki informacyjne mają opis alternatywny i równoważną treść tekstową.
+- Materiał ma napisy obejmujące pełną ścieżkę dźwiękową.
+- Dla nagranego materiału wideo z dźwiękiem sprawdzono WCAG 1.2.3: na poziomie A zapewniono audiodeskrypcję albo pełną alternatywę tekstową dla medium.
+- Dla nagranego materiału wideo z dźwiękiem sprawdzono WCAG 1.2.5: na poziomie AA zapewniono audiodeskrypcję, jeżeli informacje potrzebne do zrozumienia materiału nie wynikają z głównej ścieżki dźwiękowej.
+- Jeżeli wszystkie istotne informacje wizualne wynikają z głównej ścieżki dźwiękowej, odnotowano, że dodatkowa audiodeskrypcja nie jest potrzebna.
+- Nagranie transmisji publikowane na stronie internetowej albo w aplikacji mobilnej jest dostosowane w terminie 14 dni od zakończenia transmisji albo ma przy nagraniu podany termin zapewnienia dostępności, nie dłuższy niż 2 miesiące od zakończenia transmisji.
 - Materiał nie zawiera błysków ani migania przekraczających próg bezpieczeństwa WCAG.
 - Odtwarzanie można zatrzymać, wstrzymać albo kontrolować, jeżeli materiał uruchamia się automatycznie lub trwa dłużej niż kilka sekund.
-- Linki, nagłówki, kolejność treści i metadane są zrozumiałe po publikacji w wybranym kanale.
+
+### Lista kontrolna materiału audio
+
+- Tytuł i opis materiału jednoznacznie wyjaśniają temat.
+- Materiał ma pełną transkrypcję dostępną przy nagraniu albo pod jednoznacznym linkiem.
+- Transkrypcja obejmuje wypowiedzi, istotne dźwięki kontekstowe i oznaczenia mówców, gdy występuje więcej niż jedna osoba.
+- Dźwięki tła, muzyka i efekty nie utrudniają zrozumienia wypowiedzi albo użytkownik może je wyłączyć.
+- Link do transkrypcji działa w docelowym kanale publikacji.
+
+### Lista kontrolna grafiki
+
+- Grafika informacyjna ma opis alternatywny.
+- Informacje z grafiki są dostępne także jako równoważna treść tekstowa poza obrazem.
+- Tekst umieszczony na obrazie nie jest jedynym miejscem przekazania istotnej informacji.
+- Kontrast, wielkość tekstu i układ umożliwiają odczytanie informacji.
+- Elementy dekoracyjne są oznaczone albo opublikowane tak, aby nie wprowadzały zbędnej informacji dla technologii wspomagających.
+
+### Lista kontrolna publikacji w mediach społecznościowych
+
+- Treść posta zawiera kluczową informację bez konieczności odczytywania samej grafiki, miniatury albo nagrania.
+- Dodano opisy alternatywne obrazów, jeżeli platforma to umożliwia.
+- Materiał wideo ma napisy, a nagranie wymagające audiodeskrypcji ma ją zapewnioną albo jest opublikowane wraz z dostępną wersją spełniającą wymagania.
+- Materiał audio ma transkrypcję podaną w poście, komentarzu, opisie albo pod jednoznacznym linkiem.
+- Hashtagi, linki i oznaczenia są czytelne, a link prowadzący do dostępnej wersji materiału działa.
 
 ### Lista kontrolna decyzji
 
@@ -165,11 +191,21 @@ Decyzja powinna wskazywać osobę zatwierdzającą, datę, wynik weryfikacji, ew
 - Osoba zatwierdzająca podjęła decyzję: publikuj, popraw przed publikacją albo publikuj warunkowo.
 - Po publikacji sprawdzono, czy elementy dostępności działają w docelowym kanale.
 
+## Działania korygujące
+
+Jeżeli po publikacji zostanie wykryty błąd dostępności, podmiot:
+
+- ocenia, czy błąd uniemożliwia odbiór kluczowej informacji;
+- wprowadza poprawkę albo zapewnia dostęp alternatywny;
+- wskazuje osobę odpowiedzialną i termin usunięcia błędu;
+- odnotowuje przyczynę błędu, jeżeli może się powtarzać;
+- aktualizuje listę kontrolną, instrukcję albo standard tworzenia materiału, gdy błąd wynika z niejasnych zasad pracy.
+
 ## Uzasadnienie
 
 Spójne wymagania, standardy i listy kontrolne ograniczają ryzyko przygotowania materiałów niedostępnych oraz zapewniają jednolite kryteria tworzenia treści w różnych kanałach publikacji.
 
-Rozdzielenie wymagań obowiązkowych, standardów wykonawczych i dobrych praktyk ogranicza uznaniowość decyzji publikacyjnych. Jasny podział odpowiedzialności pozwala traktować dostępność jako element jakości i kompletności materiału, a nie jako działanie dodatkowe wykonywane po publikacji.
+Rozdzielenie wymagań obowiązkowych, standardów wykonawczych i dobrych praktyk wspiera spójność decyzji publikacyjnych. Jasny podział odpowiedzialności pozwala traktować dostępność jako element jakości i kompletności materiału, a nie jako działanie dodatkowe wykonywane po publikacji.
 
 ## Podstawy prawne
 
@@ -183,7 +219,8 @@ Standardy:
 
 - Norma EN 301 549 Accessibility requirements for ICT products and services, w szczególności wymagania dotyczące treści internetowych, multimediów i dokumentów elektronicznych.
 - Web Content Accessibility Guidelines (WCAG) 2.2, poziom AA, z uwzględnieniem odpowiednich kryteriów dotyczących multimediów, kontroli odtwarzania, migania i struktury treści.
-- Europejski Akt o Dostępności oraz przepisy wdrażające, o ile publikowany materiał jest częścią produktu lub usługi objętej tym reżimem.
+
+Europejski Akt o Dostępności oraz przepisy krajowe wdrażające jego wymagania mogą mieć zastosowanie do określonych produktów i usług objętych ich zakresem. Nie stanowią jednak ogólnej podstawy prawnej dostępności wszystkich materiałów publikowanych przez podmioty publiczne. W tym standardzie podstawowym punktem odniesienia dla stron internetowych i aplikacji mobilnych podmiotów publicznych jest ustawa o dostępności cyfrowej oraz wymagania wskazanej w niej normy.
 
 ## Źródła i opracowania
 
@@ -192,12 +229,12 @@ Standardy:
 3. ETSI, EN 301 549 - Accessibility requirements for ICT products and services, https://www.etsi.org/deliver/etsi_en/301500_301599/301549/, dostęp: 30 kwietnia 2026 r.
 4. Dziennik Ustaw, Ustawa o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych, https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000848, dostęp: 30 kwietnia 2026 r.
 5. EUR-Lex, Dyrektywa Parlamentu Europejskiego i Rady (UE) 2016/2102, https://eur-lex.europa.eu/eli/dir/2016/2102/oj, dostęp: 30 kwietnia 2026 r.
-6. EUR-Lex, Dyrektywa Parlamentu Europejskiego i Rady (UE) 2019/882, https://eur-lex.europa.eu/eli/dir/2019/882/oj, dostęp: 3 sierpnia 2026 r.
 
 ## Historia wersji
 
 | Wersja | Data | Etap | Opis zmian |
 |---|---|---|---|
+| 1.6 | 2026-08-03 | Projekt roboczy | Uporządkowanie wymagań, podstaw prawnych, struktury dokumentów i samodzielności standardu; doprecyzowanie audiodeskrypcji, nagrań transmisji, EAA, list kontrolnych i działań korygujących. |
 | 1.5 | 2026-08-03 | Projekt roboczy | Usamodzielnienie zalecenia, dodanie list kontrolnych i decyzji publikacyjnej, doprecyzowanie wymagań dla multimediów, transmisji, EAA i deklarowania zgodności. |
 | 1.4 | 2026-05-23 | Projekt roboczy | Doprecyzowanie decyzji organizacyjnej, ról, modelu operacyjnego, kontroli przed publikacją i procedury sytuacji wyjątkowych; ujednolicenie tytułu i zakresu dokumentu. |
 | 1.3 | 2026-04-30 | Projekt roboczy | Uporządkowanie dokumentu zgodnie ze wzorcem zaleceń, doprecyzowanie celu, rekomendacji, podstaw prawnych i źródeł. |

@@ -4,12 +4,12 @@ title: Standard struktury komunikatu i tworzenia treści
 description: Standard określający zasady budowania zrozumiałych i dostępnych komunikatów.
 sidebar_label: Standard treści
 sidebar_position: 8
-keywords: [dostępność cyfrowa, struktura komunikatu, prosty język, hierarchia informacji, komunikacja]
+keywords: [dostępność cyfrowa, struktura komunikatu, prosty język, hierarchia informacji, komunikacja, standard publikacji dostępnych materiałów multimedialnych i treści cyfrowych]
 tags: [treści, komunikacja, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
 wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 27 kwietnia 2026 r.
+ostatnia_aktualizacja: 3 sierpnia 2026 r.
 wersja_robocza: true
 ---
 

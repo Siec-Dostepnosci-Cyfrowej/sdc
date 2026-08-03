@@ -53,7 +53,7 @@ W wielu podmiotach brakuje ich przełożenia na:
 
 W efekcie:
 - pracownicy nie wiedzą, jakie wymagania powinni spełnić,
-- decyzje podejmowane są uznaniowo,
+- decyzje podejmowane są niespójnie,
 - poziom dostępności jest nierówny.
 
 ---

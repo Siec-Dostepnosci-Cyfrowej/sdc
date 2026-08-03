@@ -23,7 +23,6 @@ Jego celem jest wykazanie, że przyjęte wymagania operacyjne pozostają osadzon
 Wymagania odwołują się do obowiązków wynikających z:
 - ustawy o dostępności cyfrowej,
 - normy EN 301 549,
-- Europejskiego Aktu o Dostępności,
 - wytycznych WCAG jako podstawy oceny dostępności.
 
 ## Problem regulacyjny i operacyjny
@@ -32,7 +31,7 @@ Wymagania dostępności mają charakter ogólny i wymagają przełożenia na kon
 
 Brak takiego przełożenia prowadzi do:
 - trudności w stosowaniu wymagań w codziennej pracy,
-- uznaniowości interpretacyjnej,
+- rozbieżnych interpretacji,
 - nierównego stosowania standardów,
 - traktowania dostępności jako działania dodatkowego.
 
@@ -53,14 +52,14 @@ Minimalne wymagania obejmują kluczowe obszary dostępności:
 
 ## Powiązanie wymagań ze standardami i przepisami
 
-| Obszar | Wymagania | WCAG | EN 301 549 | EAA |
-|--------|----------|------|------------|-----|
-| Alternatywy tekstowe | opisy alternatywne, równoważność informacji | 1.1.1 | 9.1.1.1 | dostępność informacji |
-| Multimedia | napisy, transkrypcje, audiodeskrypcja lub alternatywy tekstowe | 1.2.x | 9.1.2.x | dostępność informacji w usługach objętych EAA |
-| Czytelność wizualna | kontrast, typografia | 1.4.x | 9.1.4.x | dostępność percepcyjna |
-| Struktura komunikatu | logika, język, hierarchia | 3.x | 9.3.x | zrozumiałość |
-| Sterowanie | kontrola odtwarzania, brak błysków przekraczających próg bezpieczeństwa | 2.2, 2.3 | 9.2.x | bezpieczne korzystanie |
-| Kompletność komunikatu | pełna informacja, spójność | 1.3, 2.4, 3.2 | 9.1.3.x, 9.2.4.x | dostęp do informacji |
+| Obszar | Wymagania | WCAG | EN 301 549 |
+|--------|----------|------|------------|
+| Alternatywy tekstowe | opisy alternatywne, równoważność informacji | 1.1.1 | 9.1.1.1 |
+| Multimedia | napisy, transkrypcje, audiodeskrypcja zgodnie z poziomem A i AA | 1.2.3, 1.2.5 | 9.1.2.x |
+| Czytelność wizualna | kontrast, typografia | 1.4.x | 9.1.4.x |
+| Struktura komunikatu | logika, język, hierarchia | 3.x | 9.3.x |
+| Sterowanie | kontrola odtwarzania, brak błysków przekraczających próg bezpieczeństwa | 2.2, 2.3 | 9.2.x |
+| Kompletność komunikatu | pełna informacja, spójność | 1.3, 2.4, 3.2 | 9.1.3.x, 9.2.4.x |
 
 ## Zgodność w pracy nad materiałem
 
@@ -85,18 +84,11 @@ Ich stosowanie wspiera wykazywanie spełnienia właściwych wymagań stosowanych
 
 ## Odniesienie do Europejskiego Aktu o Dostępności
 
-Europejski Akt o Dostępności dotyczy określonych produktów i usług. Wymagania z tego zalecenia mogą wspierać podmiot wtedy, gdy materiał jest częścią usługi objętej EAA, ale same nie przesądzają o zgodności całej usługi z EAA.
+Europejski Akt o Dostępności oraz przepisy krajowe wdrażające jego wymagania mogą mieć zastosowanie do określonych produktów i usług objętych ich zakresem. Nie stanowią jednak ogólnej podstawy prawnej dostępności wszystkich materiałów publikowanych przez podmioty publiczne. W tym standardzie podstawowym punktem odniesienia dla stron internetowych i aplikacji mobilnych podmiotów publicznych jest ustawa o dostępności cyfrowej oraz wymagania wskazanej w niej normy.
 
-Zapewnienie dostępności polega na:
-- stosowaniu równoważnych form przekazu,
-- eliminacji barier percepcyjnych,
-- zapewnieniu czytelności i zrozumiałości komunikatu.
+## Mechanizm weryfikacji wymagań
 
-Informacje nie mogą być uzależnione od jednej formy odbioru.
-
-## Mechanizm zapewnienia zgodności
-
-Wymagania wprowadzają mechanizm weryfikacji oparty na jednoznacznych kryteriach dostępności.
+Wymagania porządkują mechanizm weryfikacji oparty na kryteriach dostępności.
 
 Weryfikacja spełnienia wymagań odbywa się przed publikacją w ramach procesu publikacji. Niniejszy dokument określa kryteria, a nie tryb podejmowania decyzji publikacyjnej.
 
@@ -112,8 +104,8 @@ Weryfikacja obejmuje:
 Każde wymaganie posiada odniesienie do kryteriów dostępności.
 
 Oznacza to, że:
-- możliwy jest audyt bez interpretacji przepisów,
-- każde wymaganie ma uzasadnienie normatywne,
+- łatwiej powiązać wynik weryfikacji z konkretnym wymaganiem,
+- każde wymaganie ma wskazane uzasadnienie normatywne,
 - spełnienie wymagań może być udokumentowane w sposób mierzalny i powtarzalny.
 
 Mapowanie umożliwia ocenę spełnienia wymagań na podstawie wykonanych działań, a nie samych deklaracji.
@@ -121,18 +113,18 @@ Mapowanie umożliwia ocenę spełnienia wymagań na podstawie wykonanych działa
 ## Znaczenie dla audytu
 
 Zastosowanie wymagań umożliwia:
-- jednoznaczną ocenę spełnienia wymagań,
+- ocenę spełnienia wymagań według tych samych kryteriów,
 - identyfikację błędów,
 - porównywalność wyników.
 
-Zapewnia również odporność na różnice interpretacyjne.
+Ogranicza również ryzyko rozbieżnych ocen.
 
 ## Wniosek końcowy
 
 Minimalne wymagania dostępności:
 - stanowią operacyjne rozwinięcie obowiązujących przepisów i norm,
 - wspierają spełnianie wymagań dostępności,
-- eliminują uznaniowość w ich stosowaniu,
-- wprowadzają jednoznaczny model działania.
+- porządkują sposób weryfikacji,
+- wprowadzają powtarzalny model działania.
 
 W rezultacie dostępność staje się mierzalnym i kontrolowalnym standardem pracy.

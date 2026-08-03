@@ -4,12 +4,12 @@ title: Standard tworzenia dostępnych grafik i materiałów wizualnych
 description: Standard określający sposób przygotowania grafik i materiałów wizualnych zgodnie z wymaganiami dostępności.
 sidebar_label: Standard grafiki
 sidebar_position: 6
-keywords: [dostępność cyfrowa, grafiki, opis alternatywny, kontrast, komunikacja]
+keywords: [dostępność cyfrowa, grafiki, opis alternatywny, kontrast, komunikacja, standard publikacji dostępnych materiałów multimedialnych i treści cyfrowych]
 tags: [grafiki, komunikacja, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
 wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 27 kwietnia 2026 r.
+ostatnia_aktualizacja: 3 sierpnia 2026 r.
 wersja_robocza: true
 ---
 
