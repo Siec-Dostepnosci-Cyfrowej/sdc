@@ -62,15 +62,24 @@ W sytuacjach, w których wprowadzone zmiany są objęte automatycznymi testami p
 
 AI nie może zastępować człowieka w ocenie zgodności z normami dostępności. Wykonawca dokumentuje zarówno cel wdrożenia AI, jak i zakres jej wpływu na proces badawczy.
 
-### 3.2. Wymóg pełnej transparentności i jawności (Prawo odbiorcy do informacji)
+### 3.2. Transparentność wykorzystania AI i prawo odbiorcy do informacji
 
-Podmiot wykonujący ocenę dostępności i zgodności z wykorzystaniem narzędzi sztucznej inteligencji ma obowiązek zapewnić pełną jawność w zakresie tych zastosowań AI, które wpływają na treść raportu, ocenę zgodności lub mogą wiązać się z ryzykiem przetwarzania danych wrażliwych.
+Jeżeli wykorzystanie AI miało wpływ na zakres analizy, treść raportu, przygotowanie poprawki lub sposób jej weryfikacji, odbiorca powinien otrzymać informację o:
 
-Odbiorca raportu musi zostać wprost poinformowany o tym, które elementy analizy, klasyfikacji błędów, generowania treści (np. opisów alternatywnych) lub formułowania wniosków były realizowane lub wspomagane przez systemy AI.
+1. celu wykorzystania AI;
+2. rodzaju zadań powierzonych systemowi;
+3. zakresie wpływu wyników AI na wykonane prace;
+4. sposobie przeprowadzenia niezależnej weryfikacji;
+5. zastosowanych testach manualnych;
+6. nazwie i wersji wykorzystanego modelu lub usługi.
 
-Jawność nie obejmuje technicznych zastosowań AI, które nie wpływają na treść raportu ani ocenę zgodności, takich jak generowanie lub modyfikacja kodu, automatyzacja implementacji czy tworzenie testów, o ile nie wiąże się to z przetwarzaniem danych użytkowników.
+Przykład informacji w raporcie:
 
-Brak jednoznacznej informacji o zastosowaniach AI wpływających na wynik oceny narusza standardy rzetelności i transparentności procedur publicznych.
+»W procesie oceny wykorzystano system AI do wstępnej analizy kodu i grupowania podobnych problemów. Wyniki zostały niezależnie zweryfikowane przez eksperta i nie stanowiły samodzielnej podstawy oceny zgodności.«
+
+Użycie AI do generowania lub modyfikowania kodu, automatyzacji wdrożenia, tworzenia testów albo analizowania ich wyników podlega dokumentowaniu wewnętrznemu. Jeżeli rezultat takiego użycia wpłynął na zakres naprawy, działanie rozwiązania lub decyzję o odbiorze poprawki, informację o wykorzystaniu AI należy również przekazać odbiorcy. Zastosowania te nie mogą być automatycznie uznawane za czysto techniczne, ponieważ mogą bezpośrednio wpływać na dostępność.
+
+Brak wymaganej informacji o istotnym wykorzystaniu AI należy traktować jako naruszenie zasad rzetelności i transparentności określonych w niniejszym zaleceniu.
 
 ### 3.3. Nadzór ekspercki i odpowiedzialność
 
