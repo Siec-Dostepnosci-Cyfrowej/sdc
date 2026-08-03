@@ -1,71 +1,71 @@
 ---
 id: tresci-od-innych-podmiotow
 title: Zalecenie w sprawie zasad publikowania treści pochodzących od innych podmiotów
-description: Określa zalecenie dotyczące kwalifikacji, weryfikacji i publikowania treści pochodzących od innych podmiotów.
+description: Określa zasady przyjmowania, oceny i publikowania treści pochodzących od innych podmiotów.
 sidebar_label: Zalecenie
-sidebar_position: 0
-keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG, wyłączenia ustawowe]
+sidebar_position: 1
+keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, wyłączenia ustawowe]
 tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 29 kwietnia 2026 r.
+ostatnia_aktualizacja: 3 sierpnia 2026 r.
 wersja_robocza: true
 ---
 
 ## Zalecenie
 
-Podmioty publiczne ustanawiają i stosują zasady kwalifikacji, weryfikacji oraz publikowania treści pochodzących od innych podmiotów, które zapewniają ocenę obowiązku publikacji, możliwości dostosowania materiału, podstaw zastosowania wyłączeń, sposobu zapewnienia dostępności oraz udokumentowanie decyzji publikacyjnej.
+Podmioty publiczne ustanawiają i stosują zasady przyjmowania, oceny oraz publikowania treści pochodzących od innych podmiotów. Zasady te powinny zapewniać weryfikację kompletności materiału, ustalenie obowiązku publikacji, ocenę dostępności cyfrowej i możliwości modyfikacji, prawidłowe zastosowanie wyłączeń ustawowych oraz udokumentowanie sposobu postępowania.
 
 ## Rekomendacje
 
-1. Ustanowienie zasad przyjmowania materiałów od innych podmiotów.
-2. Weryfikacja kompletności materiału przed publikacją.
-3. Rozdzielenie parametrów decyzji:
-   - pochodzenie materiału,
-   - możliwość modyfikacji,
+1. Określ wymagania dla materiałów przekazywanych do publikacji.
+2. Wymagaj materiałów kompletnych, a gdy jest to możliwe — także wersji edytowalnych.
+3. Oceniaj przed publikacją:
+   - źródło i kompletność materiału,
    - obowiązek publikacji,
-   - przesłanki wyłączenia,
-   - wynik oceny dostępności.
-4. Weryfikacja dostępności przed publikacją.
-5. Postępowanie z brakami dostępności.
-6. Ostrożne stosowanie wyłączeń ustawowych - bez domniemania wyłączenia.
-7. Postępowanie z materiałami objętymi obowiązkiem publikacji.
-8. Zapewnienie dostępnego sposobu przekazania informacji, także wtedy, gdy materiał źródłowy nie może zostać zmodyfikowany.
-9. Przypisanie odpowiedzialności redaktorom, koordynatorowi dostępności, właścicielom merytorycznym i kierownictwu.
-10. Dokumentowanie decyzji publikacyjnych.
-11. Obsługa żądań zapewnienia dostępności.
-12. Okresowy przegląd działania przyjętych zasad.
+   - dostępność cyfrową,
+   - możliwość zgodnej z prawem modyfikacji,
+   - możliwość pozyskania wersji dostępnej,
+   - możliwość przygotowania dostępnego przedstawienia informacji,
+   - podstawę ewentualnego wyłączenia ustawowego.
+4. Nie uznawaj materiału za objęty wyłączeniem tylko dlatego, że pochodzi od innego podmiotu.
+5. Oceniaj obowiązek publikacji niezależnie od obowiązku zapewnienia dostępności cyfrowej.
+6. Jeżeli materiał wymaga poprawy, określ braki i sposób ich usunięcia.
+7. Dokumentuj podstawę i wynik oceny, zwłaszcza gdy zastosowano wyłączenie albo wstrzymano publikację materiału fakultatywnego.
+8. Zapewnij obsługę żądań dostępności cyfrowej zgodnie z ustawowymi terminami i zasadami.
+9. Przypisz odpowiedzialność za poszczególne etapy procesu.
+10. Okresowo sprawdzaj działanie przyjętych zasad i usuwaj powtarzające się przyczyny niedostępności.
 
 ## Uzasadnienie
 
-Treści pochodzące od innych podmiotów stanowią istotny element komunikacji publicznej, jednak mogą być przekazywane w formach, które wymagają dodatkowej oceny przed publikacją. Dotyczy to w szczególności dokumentów nieedytowalnych, materiałów audiowizualnych, skanów, grafik, materiałów źródłowych oraz informacji przeznaczonych do publikacji w Biuletynie Informacji Publicznej.
+Treści pochodzące od innych podmiotów mogą być przekazywane jako skany, dokumenty nieedytowalne, grafiki, nagrania, prezentacje, formularze albo materiały przeznaczone do Biuletynu Informacji Publicznej. Ich zewnętrzne pochodzenie nie rozstrzyga ani o obowiązku publikacji, ani o zastosowaniu wyłączenia z wymagań dostępności cyfrowej.
 
-Brak przyjętych zasad może prowadzić do publikowania materiałów bez oceny dostępności, automatycznego powoływania się na wyłączenia ustawowe albo odmowy publikacji bez sprawdzenia, czy informację można udostępnić w innej dostępnej formie. Ryzyko dotyczy zarówno dostępności cyfrowej, jak i realizacji obowiązków informacyjnych podmiotu publicznego.
+Jednolity proces ogranicza publikowanie materiałów bez kontroli, nieuzasadnione stosowanie wyłączeń oraz odmowę publikacji bez sprawdzenia innych sposobów przedstawienia informacji. Pozwala także ustalić, kto odpowiada za ocenę, poprawę, publikację i dalszą obsługę materiału.
 
-Zalecenie porządkuje główne elementy decyzji publikacyjnej. Oddziela ocenę pochodzenia materiału, możliwość jego modyfikacji, obowiązek publikacji, przesłanki wyłączenia oraz sposób zapewnienia dostępu do informacji. Takie podejście ogranicza uznaniowość i ułatwia udokumentowanie decyzji.
+## Materiały wdrożeniowe
 
-Pojęcia stosowane w zaleceniu i materiałach wdrożeniowych wyjaśnia [słownik pojęć](./slownik-pojec.md).
+- [Słownik pojęć](./slownik-pojec.md)
+- [Proces publikacji](./proces-publikacji.md)
+- [Ocena materiału przed publikacją](./ocena-materialu-przed-publikacja.md)
+- [Formularz przekazania materiału](./formularz-przekazania-materialu.md)
+- [Wstępna lista kontrolna](./lista-kontrolna-weryfikacji-przed-publikacja.md)
+- [Postępowanie z brakami](./procedura-brakow.md)
+- [Instrukcja dla podmiotów przekazujących materiały](./instrukcja-dla-podmiotow-zewnetrznych.md)
+- [Odpowiedzialność](./mapa-odpowiedzialnosci.md)
+- [Procedura obsługi żądania dostępności](./procedura-obslugi-zadania-zapewnienia-dostepnosci.md)
+- [Informacja o ograniczeniach dostępności](./informacja-o-ograniczeniach-dostepnosci.md)
 
 ## Podstawy prawne
-
-W zaleceniu uwzględniono poniżej wymienione przepisy:
 
 - ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych,
 - ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami,
 - ustawa z dnia 6 września 2001 r. o dostępie do informacji publicznej,
 - rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 18 stycznia 2007 r. w sprawie Biuletynu Informacji Publicznej.
 
-## Źródła i opracowania
-
-1. Web Content Accessibility Guidelines (WCAG) 2.2, W3C Recommendation.
-2. EN 301 549, Accessibility requirements for ICT products and services.
-3. Dyrektywa Parlamentu Europejskiego i Rady (UE) 2016/2102 z dnia 26 października 2016 r. w sprawie dostępności stron internetowych i mobilnych aplikacji organów sektora publicznego.
-4. Dyrektywa Parlamentu Europejskiego i Rady (UE) 2019/882 z dnia 17 kwietnia 2019 r. w sprawie wymogów dostępności produktów i usług.
-5. U.S. General Services Administration, 18F, Accessibility Guide.
-
 ## Historia wersji
 
 | Wersja | Data | Opis zmian |
-|--------|------|-----------|
-| 0.1 | 16 kwietnia 2026 r. | opracowanie wstępnej wersji |
-| 0.2 | 29 kwietnia 2026 r. | przeredagowanie dokumentu jako zalecenia i rozdzielenie dokumentu głównego od materiałów wdrożeniowych |
+|---|---|---|
+| 0.1 | 16 kwietnia 2026 r. | Opracowanie wstępnej wersji. |
+| 0.2 | 29 kwietnia 2026 r. | Przeredagowanie dokumentu jako zalecenia. |
+| 0.3 | 3 sierpnia 2026 r. | Uproszczenie modelu, doprecyzowanie wyłączeń i uporządkowanie materiałów wdrożeniowych. |

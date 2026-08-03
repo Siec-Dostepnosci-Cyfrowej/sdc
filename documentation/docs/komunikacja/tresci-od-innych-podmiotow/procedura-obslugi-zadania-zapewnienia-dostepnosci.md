@@ -1,183 +1,65 @@
 ---
 id: procedura-obslugi-zadania-zapewnienia-dostepnosci
 title: Procedura obsługi żądania zapewnienia dostępności cyfrowej
-description: Określa szczegółowy tryb realizacji żądań zapewnienia dostępności zgodnie z obowiązującymi przepisami.
-sidebar_label: Procedura obsługi żądania dostępności
-sidebar_position: 31
-keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG, wyłączenia ustawowe]
-tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
+description: Określa sposób przyjmowania, realizacji i dokumentowania żądań zapewnienia dostępności cyfrowej.
+sidebar_label: Obsługa żądania dostępności
+sidebar_position: 10
+keywords: [żądanie dostępności, dostępność cyfrowa, sposób alternatywny, skarga]
+tags: [komunikacja, dostępność cyfrowa, publikacja]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 29 kwietnia 2026 r.
+ostatnia_aktualizacja: 3 sierpnia 2026 r.
 wersja_robocza: true
 ---
 
-Procedura określa szczegółowy sposób postępowania w przypadku zgłoszenia żądania zapewnienia dostępności cyfrowej treści opublikowanych przez podmiot publiczny.
+Procedura dotyczy żądań, o których mowa w art. 18 ustawy o dostępności cyfrowej.
 
-Celem procedury jest zapewnienie realizacji obowiązków wynikających z przepisów prawa, przy zachowaniu spójności z przepisami o dostępie do informacji publicznej.
+## 1. Przyjęcie żądania
 
-Ten materiał ma charakter wdrożeniowy i wspiera stosowanie zalecenia. Nie zastępuje oceny prawnej ani indywidualnej decyzji organizacji.
+Żądanie powinno zawierać:
 
----
+- dane kontaktowe osoby składającej żądanie;
+- wskazanie strony internetowej, aplikacji mobilnej albo ich elementu, którego dotyczy żądanie;
+- wskazanie sposobu kontaktu;
+- wskazanie oczekiwanego alternatywnego sposobu dostępu, jeżeli dotyczy.
 
-## 1. Zakres stosowania
+Zarejestruj datę wpływu i niezwłocznie przekaż żądanie osobie odpowiedzialnej. Jeżeli brakuje informacji potrzebnych do realizacji, skontaktuj się z osobą składającą żądanie i umożliw ich uzupełnienie.
 
-Procedura ma zastosowanie do wszystkich treści opublikowanych w serwisach internetowych oraz Biuletynie Informacji Publicznej, niezależnie od ich formy i źródła, w tym:
+## 2. Ocena i realizacja
 
-- dokumentów,
-- materiałów graficznych,
-- materiałów audio i wideo,
-- formularzy i elementów interaktywnych,
-- innych informacji publicznych udostępnianych cyfrowo.
+Ustal:
 
-Procedura obejmuje zarówno materiały własne, jak i pochodzące od podmiotów zewnętrznych.
+- element i rodzaj bariery;
+- oczekiwany sposób realizacji;
+- możliwość usunięcia bariery;
+- możliwość zapewnienia alternatywnego sposobu dostępu;
+- jednostkę i osobę odpowiedzialną za wykonanie.
 
----
+Zapewnienie dostępności może polegać między innymi na poprawieniu opublikowanej treści, przekazaniu dostępnego dokumentu, opisu, transkrypcji albo informacji w innym uzgodnionym sposobie.
 
-## 2. Podstawa prawna
+## 3. Terminy
 
-Procedura realizuje obowiązki wynikające w szczególności z:
+Zapewnij dostępność cyfrową bez zbędnej zwłoki, nie później niż w terminie 7 dni od wystąpienia z żądaniem.
 
-- ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych,
-- ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej.
+Jeżeli nie jest to możliwe, niezwłocznie poinformuj osobę składającą żądanie o przyczynach opóźnienia i wskaż nowy termin. Termin ten nie może być dłuższy niż 2 miesiące od dnia wystąpienia z żądaniem.
 
----
+## 4. Odmowa i alternatywny sposób dostępu
 
-## 3. Przyjęcie żądania
+Podmiot odmawia zapewnienia dostępności cyfrowej elementu, jeżeli wiązałoby się to z ryzykiem naruszenia integralności lub wiarygodności przekazywanych informacji.
 
-Odpowiedzialny: redaktor, komórka obsługująca serwis, kancelaria albo inny punkt kontaktu wskazany przez organizację
+Jeżeli nie można zapewnić dostępności zgodnie z żądaniem, niezwłocznie poinformuj o przyczynach i wskaż alternatywny sposób dostępu. Odpowiedź powinna także zawierać informację o prawie do złożenia skargi w sprawie zapewnienia dostępności cyfrowej.
 
-- przyjęcie żądania w dowolnej formie (e-mail, formularz, pismo, zgłoszenie ustne),
-- niezwłoczna rejestracja żądania,
-- nadanie identyfikatora sprawy,
-- identyfikacja materiału, którego dotyczy żądanie,
-- w razie potrzeby doprecyzowanie zakresu żądania poprzez kontakt z wnioskodawcą,
-- potwierdzenie przyjęcia żądania (jeżeli możliwe).
+## 5. Odpowiedź
 
----
+W odpowiedzi wskaż:
 
-## 4. Weryfikacja żądania
+- sposób i datę realizacji;
+- link, plik albo sposób uzyskania informacji;
+- zakres częściowej realizacji, jeżeli dotyczy;
+- uzasadnienie odmowy albo niezrealizowania żądania w oczekiwany sposób;
+- alternatywny sposób dostępu;
+- informację o prawie do skargi.
 
-Odpowiedzialny: redaktor
-Wsparcie: koordynator dostępności, właściciel merytoryczny albo administrator serwisu, jeżeli sprawa tego wymaga
+## 6. Rejestr i doskonalenie
 
-Na etapie weryfikacji należy:
-
-- ustalić, czy żądanie dotyczy zapewnienia dostępności cyfrowej,
-- określić element niedostępny,
-- ustalić pochodzenie materiału i ewentualną pomocniczą ścieżkę A/B/C/D,
-- ocenić możliwość dostosowania materiału,
-- ocenić, czy publikacja materiału jest obowiązkowa,
-- ocenić, czy istnieją przesłanki wyłączenia,
-- ustalić zakres działań niezbędnych do realizacji żądania.
-
-Koordynator dostępności jest angażowany w szczególności wtedy, gdy materiał pochodzi od innego podmiotu, nie może zostać zmieniony, dotyczy publikacji obowiązkowej, wymaga zastosowania alternatywnego dostępu albo budzi wątpliwości co do podstaw wyłączenia.
-
----
-
-## 5. Klasyfikacja sposobu realizacji
-
-Na podstawie weryfikacji przypisuje się tryb realizacji:
-
-- tryb usunięcia bariery - możliwe jest poprawienie materiału albo sposobu jego prezentacji,
-- tryb alternatywnego dostępu - informacja zostaje przekazana w innej dostępnej formie,
-- tryb publikacji obowiązkowej z działaniami uzupełniającymi - materiał pozostaje opublikowany, a organizacja zapewnia dostęp do informacji,
-- tryb odmowy albo częściowej realizacji - stosowany po udokumentowaniu przyczyn i ocenie możliwości alternatywnego dostępu.
-
----
-
-## 6. Decyzja o sposobie realizacji
-
-Odpowiedzialny: redaktor
-Wsparcie: koordynator dostępności
-
-Decyzja powinna:
-
-- uwzględniać obowiązki wynikające z właściwych przepisów,
-- uwzględniać parametry decyzji i pomocniczą ścieżkę A/B/C/D,
-- określać sposób realizacji żądania.
-
-Decyzja jest dokumentowana w rejestrze żądań albo w aktach sprawy.
-
----
-
-## 7. Realizacja żądania
-
-Realizacja obejmuje:
-
-- dostosowanie materiału i usunięcie bariery, albo
-- przygotowanie informacji alternatywnej lub dostępnego uzupełnienia,
-- weryfikację poprawności,
-- przekazanie odpowiedzi wnioskodawcy.
-
-W przypadku materiałów w Biuletynie Informacji Publicznej:
-
-- zmiana treści dokumentu źródłowego wymaga oceny dopuszczalności,
-- jeżeli dokument źródłowy nie może zostać zmieniony, zapewnia się dostęp do informacji w innej dostępnej formie.
-
----
-
-## 8. Terminy realizacji
-
-Żądanie realizuje się bez zbędnej zwłoki, z uwzględnieniem terminów wynikających z ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
-
-W przypadku opóźnienia:
-
-- należy poinformować o przyczynach,
-- wskazać nowy termin.
-
----
-
-## 9. Odpowiedź dla wnioskodawcy
-
-Odpowiedź powinna zawierać:
-
-- sposób realizacji żądania,
-- przekazany materiał lub informację alternatywną,
-- informację o zakresie dostępności,
-- uzasadnienie w przypadku odmowy lub częściowej realizacji.
-
----
-
-## 10. Rejestr żądań
-
-Odpowiedzialny: redaktor
-Nadzór: koordynator dostępności
-
-Rejestr obejmuje:
-
-- datę wpływu,
-- identyfikację materiału,
-- ocenę rodzaju bariery,
-- sposób realizacji,
-- datę realizacji,
-- osobę odpowiedzialną,
-- informację, czy sprawa wskazuje na problem w procesie publikacji.
-
----
-
-## 11. Sytuacje szczególne
-
-- materiały, które można poprawić - usuwa się barierę w materiale albo w sposobie publikacji,
-- materiały, których nie można zmienić - zapewnia się dostęp alternatywny albo dostępne uzupełnienie,
-- materiały objęte obowiązkiem publikacji - zapewnia się dostęp do informacji bez automatycznego usuwania materiału,
-- materiały zewnętrzne - podejmuje się próbę uzyskania wersji dostępnej, edytowalnej albo informacji potrzebnych do przygotowania uzupełnienia.
-
----
-
-## 12. Nadzór i doskonalenie
-
-Odpowiedzialny: koordynator dostępności
-
-- monitorowanie realizacji żądań,
-- analiza problemów,
-- rekomendowanie zmian,
-- wykorzystywanie żądań jako sygnałów problemów w procesie publikacji.
-
----
-
-## 13. Odpowiedzialność
-
-- redaktor – realizacja żądania,
-- koordynator dostępności – wsparcie i nadzór,
-- kierownictwo – zapewnienie warunków realizacji.
+W rejestrze zapisz datę wpływu, przedmiot żądania, termin, sposób realizacji, odpowiedź i osoby odpowiedzialne. Powtarzające się żądania traktuj jako sygnał do poprawy procesu publikacji.

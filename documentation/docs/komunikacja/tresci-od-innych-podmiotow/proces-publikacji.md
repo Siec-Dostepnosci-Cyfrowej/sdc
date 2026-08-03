@@ -1,115 +1,80 @@
 ---
 id: proces-publikacji
 title: Proces publikacji treści pochodzących od innych podmiotów
-description: Przedstawia pełny proces publikacji materiału wraz z etapami i punktami kontrolnymi.
+description: Przedstawia etapy przyjęcia, oceny, przygotowania i publikacji materiału.
 sidebar_label: Proces publikacji
-sidebar_position: 41
-keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, WCAG, wyłączenia ustawowe]
-tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
+sidebar_position: 4
+keywords: [proces publikacji, dostępność cyfrowa, treści zewnętrzne, BIP]
+tags: [komunikacja, dostępność cyfrowa, publikacja]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 29 kwietnia 2026 r.
+ostatnia_aktualizacja: 3 sierpnia 2026 r.
 wersja_robocza: true
 ---
 
-## Opis procesu
-
-Proces publikacji materiałów pochodzących od innych podmiotów opiera się na ocenie parametrów decyzji, a nie na liniowej sekwencji „najpierw A/B/C/D, potem decyzja”.
-
-Model A/B/C/D jest pomocniczym modelem operacyjnym, który porządkuje możliwe ścieżki postępowania. Nie zastępuje indywidualnej oceny obowiązku publikacji, możliwości dostosowania materiału, przesłanek wyłączenia oraz obowiązku zapewnienia dostępu do informacji.
-
-Ten materiał ma charakter wdrożeniowy i wspiera stosowanie zalecenia. Nie zastępuje oceny prawnej ani indywidualnej decyzji organizacji.
-
-Pojęcia używane w procesie wyjaśnia [słownik pojęć](./slownik-pojec.md).
-
-## Logika procesu decyzyjnego
-
-1. Co to za materiał?
-2. Kto go wytworzył?
-3. Czy podmiot publikujący może go zmienić?
-4. Czy publikacja jest obowiązkowa?
-5. Czy materiał spełnia wymagania dostępności?
-6. Czy możliwe jest dostosowanie?
-7. Czy można zapewnić dostęp do informacji w inny sposób?
-8. Czy istnieją podstawy zastosowania wyłączenia?
-9. Jaka decyzja jest uzasadniona?
-10. Jak decyzja zostaje udokumentowana?
-
-## Diagram procesu
+Proces opiera się na łącznej ocenie materiału, a nie na przypisaniu go do jednej kategorii.
 
 ```mermaid
 flowchart TD
-    A[Materiał od innego podmiotu] --> B[Sprawdzenie kompletności]
-    B --> C{Czy publikacja jest obowiązkowa?}
-    C --> D[Ocena dostępności]
-    D --> E{Czy materiał jest dostępny?}
-    E -->|Tak| F[Publikacja]
-    E -->|Nie| G{Czy można dostosować materiał?}
-    G -->|Tak| H[Dostosowanie materiału]
-    H --> F
-    G -->|Nie| I{Czy można zapewnić dostęp do informacji w innej formie?}
-    I -->|Tak| J[Publikacja z działaniami uzupełniającymi]
-    I -->|Nie| K{Czy istnieje podstawa wyłączenia?}
-    K -->|Tak| L[Publikacja z uzasadnieniem i dokumentacją]
-    K -->|Nie| M[Odmowa publikacji albo ponowna kwalifikacja]
-    F --> N[Dokumentowanie decyzji]
+    A["Przyjęcie materiału"] --> B{"Materiał kompletny?"}
+    B -->|Nie| C["Uzupełnienie materiału"]
+    C --> B
+    B -->|Tak| D["Ustalenie obowiązku publikacji"]
+    D --> E{"Materiał dostępny?"}
+    E -->|Tak| F["Publikacja"]
+    E -->|Nie| G{"Można go dostosować?"}
+    G -->|Tak| H["Dostosowanie i ponowna kontrola"]
+    H --> E
+    G -->|Nie| I{"Zachodzi wyłączenie ustawowe?"}
+    I -->|Tak| J["Dokumentacja podstawy i publikacja"]
+    I -->|Nie| K{"Publikacja obowiązkowa?"}
+    K -->|Nie| L["Wstrzymanie publikacji"]
+    K -->|Tak| M["Dostępne przedstawienie informacji lub sposób alternatywny"]
+    F --> N["Odnotowanie rozstrzygnięcia"]
     J --> N
     L --> N
     M --> N
-    N --> O[Obsługa zgłoszeń po publikacji]
 ```
 
-## Etapy procesu
+Samo stwierdzenie obowiązku publikacji nie rozstrzyga o dopuszczalności opublikowania niedostępnego materiału.
 
-### 1. Przyjęcie i kompletność
+## 1. Przyjęcie materiału
 
-Odpowiedzialny: redaktor
+Zarejestruj materiał, podmiot przekazujący, właściciela merytorycznego, planowane miejsce i termin publikacji. Sprawdź, czy przekazano pliki źródłowe, wersję edytowalną oraz informacje wymagane w BIP, jeżeli dotyczą materiału.
 
-- przyjęcie materiału do publikacji,
-- identyfikacja podmiotu przekazującego i źródła materiału,
-- sprawdzenie kompletności plików, danych BIP, opisów, metadanych i informacji potrzebnych do oceny,
-- skierowanie materiału do uzupełnienia, jeżeli braki nie pozwalają przeprowadzić oceny.
+## 2. Ocena materiału
 
-### 2. Ocena parametrów decyzji
+Przeprowadź [ocenę materiału przed publikacją](./ocena-materialu-przed-publikacja.md) oraz odpowiednią kontrolę dostępności. Wstępna lista kontrolna pomaga wykryć typowe problemy, ale nie zastępuje pełnej weryfikacji.
 
-Odpowiedzialny: redaktor
-Wsparcie: koordynator dostępności lub właściciel merytoryczny, jeżeli sprawa wymaga interpretacji
+## 3. Usunięcie braków
 
-Proces obejmuje ustalenie, czy materiał jest własny albo zewnętrzny, czy może zostać zmieniony, czy publikacja jest obowiązkowa, czy materiał spełnia wymagania dostępności oraz czy istnieją przesłanki wyłączenia.
+Jeżeli materiał jest niekompletny albo niedostępny:
 
-Obowiązek publikacji jest odrębnym parametrem. Materiał obowiązkowy nadal podlega ocenie dostępności i wymaga działań zapewniających dostęp do informacji.
+1. poproś podmiot przekazujący o poprawę, dostępną wersję lub plik edytowalny;
+2. ustal, czy podmiot publikujący może sam dostosować materiał;
+3. jeżeli materiał źródłowy musi pozostać niezmieniony, oceń możliwość opublikowania obok niego dostępnego przedstawienia informacji.
 
-### 3. Wybór sposobu postępowania
+## 4. Obowiązek publikacji i dostępność
 
-Możliwe rozstrzygnięcia obejmują:
+Obowiązek publikacji i obowiązek zapewnienia dostępności cyfrowej oceniaj niezależnie.
 
-- publikację materiału dostępnego,
-- publikację po dostosowaniu,
-- publikację z dostępnym uzupełnieniem,
-- publikację obowiązkową z działaniami uzupełniającymi,
-- publikację z uzasadnieniem zastosowania wyłączenia,
-- odmowę publikacji z uzasadnieniem,
-- przekazanie do ponownej kwalifikacji.
+Jeżeli publikacja informacji jest obowiązkowa, ustal sposób wykonania tego obowiązku z zachowaniem wymagań dostępności cyfrowej. Jeżeli materiał źródłowy musi pozostać w niezmienionej postaci, sprawdź możliwość opublikowania obok niego dostępnego cyfrowo przedstawienia tych samych informacji.
 
-### 4. Przygotowanie publikacji
+Obowiązek publikacji nie stanowi samodzielnej podstawy zastosowania wyłączenia. Jeżeli zapewnienie dostępności elementu nie jest możliwe, zastosuj rozwiązanie wynikające z właściwego przepisu i udokumentuj jego podstawę.
 
-Odpowiedzialny: redaktor
+## 5. Wyłączenie ustawowe
 
-- dostosowanie materiału, jeżeli jest możliwe,
-- przygotowanie dostępnego uzupełnienia, streszczenia, transkrypcji, napisów albo opisu,
-- oznaczenie ograniczeń dostępności i podstaw zastosowanego trybu, jeżeli jest to potrzebne,
-- uzgodnienie treści z właścicielem merytorycznym.
+Nie domniemuj wyłączenia na podstawie zewnętrznego pochodzenia materiału. Wskaż konkretny przepis i fakty, które uzasadniają jego zastosowanie. Oceń również możliwość zapewnienia dostępnego przedstawienia informacji.
 
-### 5. Dokumentowanie decyzji
+## 6. Wstrzymanie publikacji
 
-Odpowiedzialny: redaktor
-Nadzór: koordynator dostępności w sprawach problemowych
+Materiał fakultatywny można wstrzymać, jeżeli nie spełnia wymagań, nie można go dostosować ani uzyskać odpowiedniej wersji. Wstrzymanie jest czynnością wewnętrzną, a nie decyzją administracyjną. W notatce wskaż:
 
-Dokumentacja obejmuje przyjęte parametry decyzji, wynik oceny dostępności, zastosowane działania, uzasadnienie publikacji albo odmowy oraz osobę odpowiedzialną za rozstrzygnięcie.
+- materiał i datę oceny;
+- stwierdzone problemy;
+- podjęte próby ich usunięcia;
+- warunki umożliwiające publikację.
 
-### 6. Etap po publikacji
+## 7. Dokumentowanie
 
-Odpowiedzialny: redaktor
-Wsparcie: koordynator dostępności
-
-Po publikacji organizacja obsługuje żądania zapewnienia dostępności, wprowadza korekty, analizuje zgłoszenia jako sygnał problemu w procesie publikacji i okresowo przegląda przyjęte zasady.
+Odnotuj wynik kontroli, podstawę publikacji, zastosowane poprawki, ewentualne wyłączenie, dostępne przedstawienie informacji oraz osoby odpowiedzialne. Zakres dokumentacji dostosuj do ryzyka i złożoności sprawy.
