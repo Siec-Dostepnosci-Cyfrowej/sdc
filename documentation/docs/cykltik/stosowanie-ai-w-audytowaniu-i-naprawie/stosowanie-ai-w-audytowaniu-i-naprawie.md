@@ -14,7 +14,7 @@ wersja_robocza: true
 
 ## 1. Cel zalecenia
 
-Celem niniejszego zalecenia jest określenie zasad bezpiecznego, kontrolowanego i przejrzystego wykorzystania sztucznej inteligencji w procesach oceniania dostępności cyfrowej oraz pracach naprawczych i doskonalących. Zalecenie definiuje zakres dopuszczalnego użycia AI, minimalne standardy jakości i bezpieczeństwa, a także zasady odpowiedzialności człowieka za ostateczne decyzje dotyczące zgodności. Dokument ma wspierać organizacje w zwiększaniu efektywności procesów kontrolnych przy jednoczesnym zapewnieniu pełnej jawności metod badawczych, ochrony danych oraz rzetelności wyników prezentowanych odbiorcom końcowym.
+Zalecenie określa zasady wykorzystywania systemów sztucznej inteligencji podczas oceny, naprawy i doskonalenia dostępności cyfrowej. Obejmuje zastosowania diagnostyczne, dokumentacyjne, naprawcze i testowe, w tym wykorzystanie modeli językowych i wizyjnych, asystentów programistycznych, agentów AI oraz narzędzi uzyskujących dostęp do zewnętrznych funkcji i danych.
 
 ## 2. Zalecenie
 
