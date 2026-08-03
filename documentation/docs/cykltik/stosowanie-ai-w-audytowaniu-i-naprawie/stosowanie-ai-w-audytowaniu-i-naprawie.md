@@ -136,9 +136,25 @@ W przypadku walidatorów regułowych wystarczające jest wskazanie użytego narz
 
 W przypadku narzędzi AI konieczne jest jednoznaczne poinformowanie odbiorcy raportu o zakresie ich użycia w elementach wpływających na wynik oceny.
 
-### 7. Podstawy prawne i rekomendowane źródła
+## 7. Podstawy prawne, normy i materiały pomocnicze
 
-- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
-- Rozporządzenie Parlamentu Europejskiego i Rady (UE) – Akt w sprawie sztucznej inteligencji (AI Act).
-- Raport ekspercki: „Analiza możliwości wykorzystania sztucznej inteligencji w obszarze badania dostępności cyfrowej" (SAGES, IPI PAN, 2025).
-- Projekt rządowy: "AI-DC - Sztuczna inteligencja wspierająca dostępność cyfrową" (https://www.gov.pl/web/dostepnosc-cyfrowa/projekt--ai-dc---sztuczna-inteligencja-wspierajaca-dostepnosc-cyfrowa)
+### 7.1. Akty prawne
+
+* Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2024/1689 z dnia 13 czerwca 2024 r. w sprawie ustanowienia zharmonizowanych przepisów dotyczących sztucznej inteligencji.
+* Przepisy dotyczące ochrony danych osobowych – jeżeli system AI przetwarza dane osobowe.
+* Przepisy dotyczące dostępności cyfrowej właściwe dla ocenianego rozwiązania.
+
+### 7.2. Normy i standardy techniczne
+
+* WCAG;
+* EN 301 549;
+* dokumenty W3C dotyczące metod oceny dostępności.
+
+### 7.3. Materiały pomocnicze
+
+* dokumentacja wykorzystywanych walidatorów;
+* dokumentacja modeli, agentów i narzędzi AI;
+* dokumentacja używanych technologii asystujących;
+* opisy procedur testów manualnych.
+
+Nie każdy przypadek wykorzystania AI podczas oceny lub naprawy dostępności podlega takim samym obowiązkom wynikającym z rozporządzenia 2024/1689. Zasady określone w niniejszym zaleceniu stanowią standard postępowania Sieci Dostępności Cyfrowej i mogą wykraczać poza obowiązki mające bezpośrednie zastosowanie do danego systemu lub sposobu jego wykorzystania.
