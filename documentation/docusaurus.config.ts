@@ -9,9 +9,12 @@ import { getRemarkPlugin } from 'docusaurus-plugin-glossary';
 
 import path from 'path';
 
+const baseUrl = process.env.BASE_URL || '/sdc/';
+const basePath = baseUrl === '/' ? '' : baseUrl.replace(/\/$/, '');
+
 const glossaryOptions = {
     glossaryPath: 'slownik/slownik.json',
-    routePath: '/sdc/slownik',
+    routePath: `${basePath}/slownik`,
     expandAcronymsOnFirstUse: true,
 };
 
@@ -28,7 +31,7 @@ const config: Config = {
     tagline: 'Dostępność to Twoje prawo!',
     favicon: 'img/favicon.ico',
     url: 'https://siec-dostepnosci-cyfrowej.github.io',
-    baseUrl: process.env.BASE_URL || '/sdc/',
+    baseUrl,
     organizationName: 'Siec-Dostepnosci-Cyfrowej',
     projectName: 'sdc',
     trailingSlash: false,
