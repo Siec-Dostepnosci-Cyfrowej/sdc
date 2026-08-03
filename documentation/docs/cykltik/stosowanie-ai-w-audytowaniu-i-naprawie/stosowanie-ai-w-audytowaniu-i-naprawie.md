@@ -95,13 +95,18 @@ Do takich systemów nie należy przekazywać żadnych zasobów, które mogą uja
 
 W praktyce oznacza to, że kod źródłowy, konfiguracje, logi oraz treści mogące zawierać dane użytkowników lub informacje o systemach wewnętrznych mogą być analizowane wyłącznie w środowiskach pozostających pod pełną kontrolą organizacji. Odpowiedzialność za właściwą klasyfikację danych oraz dobór bezpiecznych kanałów przetwarzania ponosi wykonawca audytu/oceny.
 
-### 4. Przykładowe narzędzia AI wspierające audyt
+## 4. Kategorie narzędzi wspierających ocenę i naprawę
 
-**Zastrzeżenie**: Poniższa lista ma charakter poglądowy i edukacyjny. Wskazane narzędzia stanowią przykłady dostępnych na rynku rozwiązań wspierających proces badania dostępności cyfrowej. Nie są to technologie preferowane, rekomendowane ani certyfikowane przez Sieć Dostępności Cyfrowej. Wybór narzędzi pozostaje w gestii oceniającego.
+W procesie oceny i naprawy dostępności mogą być wykorzystywane:
 
-- SiteLint – potężne, dostępne również w języku polskim, narzędzie przeglądarkowe, a także jako platforma do ciągłego monitorowania jakości i dostępności cyfrowej. Posiada zintegrowane wsparcie sztucznej inteligencji, która potrafi nie tylko zidentyfikować błędy, ale również objaśnić je prostym językiem, przygotować odpowiednie prompty do dalszej analizy czy wygenerować propozycje poprawionego kodu HTML.
-- Rozwiązania rodziny axe (np. axe-linter / axe Developer Hub) – uznane w branży automatyczne walidatory kodu, które coraz częściej integrują asystentów AI do analizy kontekstowej i podpowiadania propozycji naprawy (remediation) złożonych problemów ze zgodnością z WAI-ARIA.
-- Ogólne modele językowe i wizyjne (np. ChatGPT, Claude) – interfejsy czatowe modeli LLM/VLM, które przy zastosowaniu odpowiednich technik inżynierii zapytań (promptingu) mogą być traktowane jako asystenci do ręcznej analizy semantyki kodu HTML, struktury nagłówków czy wsparcia w generowaniu obiektywnych tekstów alternatywnych do zrzutów ekranu i grafik.
+1. walidatory regułowe – sprawdzające jednoznaczne właściwości techniczne na podstawie zdefiniowanych reguł;
+2. modele językowe i wizyjne – wspierające analizę kodu, treści, dokumentów i interfejsów;
+3. asystenci programistyczni – proponujący lub generujący zmiany w kodzie;
+4. agenci AI – wykonujący wieloetapowe zadania z wykorzystaniem udostępnionych narzędzi;
+5. narzędzia korzystające z MCP – uzyskujące dostęp do zewnętrznych funkcji i źródeł danych;
+6. narzędzia generujące lub wykonujące testy.
+
+Zakres weryfikacji należy określać na podstawie sposobu działania narzędzia, powierzonych mu zadań, dostępnych uprawnień i wpływu wyniku na ocenę lub poprawkę. Aktualne przykłady produktów mogą zostać umieszczone w osobnym, regularnie aktualizowanym załączniku.
 
 ### 5. Kontekst organizacyjny i umiejscowienie w cyklu życia
 
