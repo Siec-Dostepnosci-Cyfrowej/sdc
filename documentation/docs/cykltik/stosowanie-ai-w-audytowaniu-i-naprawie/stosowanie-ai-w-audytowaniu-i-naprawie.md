@@ -8,7 +8,7 @@ keywords: [dostępność cyfrowa,cykl życia TIK, dostępność cyfrowa,deklarac
 tags: [dostępność cyfrowa,cykl życia TIK, dostępność cyfrowa,deklaracja dostępności, monitoring dostępności, przegląd dostępności, przegląd diagnostyczny, audyt zgodności, ocena stanu zgodności] 
 opracowanie: Maciej Budzisz , Cezary Tomczyk , Stefan Wajda
 data_zgloszenia: 22 maja 2026 r. 
-ostatnia_aktualizacja: 22 maja 2026 r. 
+ostatnia_aktualizacja: 03 sierpnia 2026 r. 
 wersja_robocza: true
 ---
 
