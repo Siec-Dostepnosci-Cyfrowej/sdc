@@ -1,7 +1,7 @@
 ---
 id: komunikacja-masowa
 title: Standard publikacji dostępnych materiałów multimedialnych i treści cyfrowych
-description: Standard organizacji publikacji dostępnych materiałów multimedialnych i treści cyfrowych
+description: Samodzielne zalecenie organizacji publikacji dostępnych materiałów multimedialnych i treści cyfrowych.
 sidebar_label: Zalecenie
 sidebar_position: 5
 keywords: [dostępność cyfrowa, kontrola dostępności, publikacja, komunikacja, listy kontrolne]
@@ -9,17 +9,19 @@ tags: [zalecenie, komunikacja, dostępność cyfrowa, kontrola]
 opracowanie: Bartłomiej Wilk
 wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 30 kwietnia 2026 r.
-ostatnia_aktualizacja: 23 maja 2026 r.
+ostatnia_aktualizacja: 3 sierpnia 2026 r.
 wersja_robocza: true
 ---
 
 ## Cel zalecenia
 
-Celem zalecenia jest standaryzacja organizacji pracy nad dostępnymi materiałami multimedialnymi i treściami cyfrowymi publikowanymi przez podmiot. Dokument odpowiada na potrzebę spójnych zasad dla treści udostępnianych w serwisach internetowych, Biuletynie Informacji Publicznej, mediach społecznościowych i na platformach zewnętrznych.
+Celem zalecenia jest ustanowienie samodzielnego standardu pracy nad dostępnymi materiałami multimedialnymi i treściami cyfrowymi publikowanymi przez podmiot. Dokument określa wymagania, role, kontrolę przed publikacją, decyzję publikacyjną, sytuacje wyjątkowe i listy kontrolne bez odsyłania do innych zaleceń.
 
 ## Zalecenie
 
-Podmiot ustanawia i stosuje standard publikacji dostępnych materiałów multimedialnych i treści cyfrowych. Standard określa minimalne wymagania, role, model operacyjny, kontrolę jakości przed publikacją oraz zasady zapewnienia zasobów, narzędzi i kompetencji.
+Podmiot ustanawia i stosuje standard publikacji dostępnych materiałów multimedialnych i treści cyfrowych. Standard określa minimalne wymagania, role, model operacyjny, kontrolę jakości przed publikacją, decyzję publikacyjną oraz zasady zapewnienia zasobów, narzędzi i kompetencji.
+
+Zalecenie jest kompletne jako dokument wdrożeniowy. Można je stosować bez znajomości innych zaleceń lub pakietów tematycznych.
 
 ## Rekomendacje
 
@@ -33,9 +35,11 @@ Wymagania obejmują w szczególności:
 
 - napisy i transkrypcje dla materiałów audio i wideo,
 - opisy alternatywne i treści równoważne dla grafik, infografik i materiałów wizualnych,
+- audiodeskrypcję albo inną równoważną formę dostępu do istotnych informacji wizualnych w materiałach wideo,
 - strukturę komunikatu, prosty język i logiczny układ treści,
 - dostępność postów publikowanych w mediach społecznościowych,
-- dostępność opisu, metadanych i sposobu osadzenia materiału w kanale publikacji.
+- dostępność opisu, metadanych i sposobu osadzenia materiału w kanale publikacji,
+- brak treści migających lub błyskających w sposób przekraczający wymagania bezpieczeństwa WCAG.
 
 ### 2. Role i odpowiedzialności
 
@@ -53,7 +57,7 @@ Redaktor lub osoba publikująca odpowiada za publikację wyłącznie materiałó
 
 Koordynator dostępności lub wyznaczona osoba wspiera stosowanie standardu, monitoruje powtarzalne błędy, inicjuje działania korygujące oraz okresowo ocenia potrzebę aktualizacji standardu.
 
-Decyzję o publikacji podejmuje osoba upoważniona w procesie publikacji na podstawie wyniku weryfikacji i, jeżeli dotyczy, dokumentacji sytuacji wyjątkowej.
+Osoba zatwierdzająca publikację podejmuje decyzję publikacyjną na podstawie wyniku weryfikacji i, jeżeli dotyczy, dokumentacji sytuacji wyjątkowej.
 
 ### 3. Model operacyjny
 
@@ -122,6 +126,45 @@ W przypadku treści lub materiałów pochodzących od podmiotów zewnętrznych p
 
 Jeżeli pełna dostępność nie może być zapewniona od razu, publikacja jest dopuszczalna wyłącznie wtedy, gdy brak nie uniemożliwia odbioru kluczowej informacji albo gdy odbiorcom zapewniono dostęp alternatywny lub równoważną informację.
 
+## Decyzja publikacyjna
+
+Przed publikacją osoba zatwierdzająca wybiera jeden z trzech wyników:
+
+- **publikuj** - materiał spełnia wymagania obowiązkowe i właściwe wymagania warunkowe;
+- **popraw przed publikacją** - materiał ma braki, które można usunąć bez zastosowania sytuacji wyjątkowej;
+- **publikuj warunkowo** - materiał wymaga pilnej publikacji albo pochodzi z sytuacji, w której nie da się od razu zapewnić wszystkich elementów dostępności, a wyjątek został udokumentowany.
+
+Decyzja powinna wskazywać osobę zatwierdzającą, datę, wynik weryfikacji, ewentualne braki i termin ich usunięcia.
+
+## Listy kontrolne
+
+### Lista kontrolna planowania
+
+- Określono cel komunikatu, odbiorców, kanał publikacji i format materiału.
+- Wskazano właściciela treści, osobę przygotowującą, osobę weryfikującą i osobę zatwierdzającą publikację.
+- Ustalono wymagane elementy dostępności: napisy, transkrypcję, opis alternatywny, audiodeskrypcję lub treść równoważną.
+- Sprawdzono, czy platforma publikacji pozwala dodać wymagane elementy dostępności.
+- Zaplanowano termin przygotowania elementów dostępności przed publikacją.
+
+### Lista kontrolna materiału
+
+- Tytuł i opis materiału jednoznacznie wyjaśniają temat.
+- Materiał audio ma pełną transkrypcję.
+- Materiał wideo ma napisy dla ścieżki dźwiękowej.
+- Istotne informacje wizualne są dostępne w audiodeskrypcji, transkrypcji rozszerzonej, opisie albo widocznej treści tekstowej.
+- Grafiki informacyjne mają opis alternatywny i równoważną treść tekstową.
+- Materiał nie zawiera błysków ani migania przekraczających próg bezpieczeństwa WCAG.
+- Odtwarzanie można zatrzymać, wstrzymać albo kontrolować, jeżeli materiał uruchamia się automatycznie lub trwa dłużej niż kilka sekund.
+- Linki, nagłówki, kolejność treści i metadane są zrozumiałe po publikacji w wybranym kanale.
+
+### Lista kontrolna decyzji
+
+- Wynik weryfikacji został odnotowany.
+- Braki zostały usunięte albo opisane w procedurze sytuacji wyjątkowej.
+- Wskazano osobę odpowiedzialną za uzupełnienie braków i termin wykonania.
+- Osoba zatwierdzająca podjęła decyzję: publikuj, popraw przed publikacją albo publikuj warunkowo.
+- Po publikacji sprawdzono, czy elementy dostępności działają w docelowym kanale.
+
 ## Uzasadnienie
 
 Spójne wymagania, standardy i listy kontrolne ograniczają ryzyko przygotowania materiałów niedostępnych oraz zapewniają jednolite kryteria tworzenia treści w różnych kanałach publikacji.
@@ -139,22 +182,25 @@ Akty prawne:
 Standardy:
 
 - Norma EN 301 549 Accessibility requirements for ICT products and services, w szczególności wymagania dotyczące treści internetowych, multimediów i dokumentów elektronicznych.
-- Web Content Accessibility Guidelines (WCAG) 2.1, poziom AA.
+- Web Content Accessibility Guidelines (WCAG) 2.2, poziom AA, z uwzględnieniem odpowiednich kryteriów dotyczących multimediów, kontroli odtwarzania, migania i struktury treści.
+- Europejski Akt o Dostępności oraz przepisy wdrażające, o ile publikowany materiał jest częścią produktu lub usługi objętej tym reżimem.
 
 ## Źródła i opracowania
 
-1. W3C, Web Content Accessibility Guidelines (WCAG) 2.1, https://www.w3.org/TR/WCAG21/, dostęp: 30 kwietnia 2026 r.
+1. W3C, Web Content Accessibility Guidelines (WCAG) 2.2, https://www.w3.org/TR/WCAG22/, dostęp: 3 sierpnia 2026 r.
 2. W3C WAI, Making Audio and Video Media Accessible, https://www.w3.org/WAI/media/av/, dostęp: 30 kwietnia 2026 r.
 3. ETSI, EN 301 549 - Accessibility requirements for ICT products and services, https://www.etsi.org/deliver/etsi_en/301500_301599/301549/, dostęp: 30 kwietnia 2026 r.
 4. Dziennik Ustaw, Ustawa o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych, https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000848, dostęp: 30 kwietnia 2026 r.
 5. EUR-Lex, Dyrektywa Parlamentu Europejskiego i Rady (UE) 2016/2102, https://eur-lex.europa.eu/eli/dir/2016/2102/oj, dostęp: 30 kwietnia 2026 r.
+6. EUR-Lex, Dyrektywa Parlamentu Europejskiego i Rady (UE) 2019/882, https://eur-lex.europa.eu/eli/dir/2019/882/oj, dostęp: 3 sierpnia 2026 r.
 
 ## Historia wersji
 
 | Wersja | Data | Etap | Opis zmian |
 |---|---|---|---|
+| 1.5 | 2026-08-03 | Projekt roboczy | Usamodzielnienie zalecenia, dodanie list kontrolnych i decyzji publikacyjnej, doprecyzowanie wymagań dla multimediów, transmisji, EAA i deklarowania zgodności. |
 | 1.4 | 2026-05-23 | Projekt roboczy | Doprecyzowanie decyzji organizacyjnej, ról, modelu operacyjnego, kontroli przed publikacją i procedury sytuacji wyjątkowych; ujednolicenie tytułu i zakresu dokumentu. |
 | 1.3 | 2026-04-30 | Projekt roboczy | Uporządkowanie dokumentu zgodnie ze wzorcem zaleceń, doprecyzowanie celu, rekomendacji, podstaw prawnych i źródeł. |
-| 1.2 | 2026-04-30 | Projekt roboczy | Wydzielenie warstwy kontroli przed publikacją do Zalecenia 4 i pozostawienie w Zaleceniu 5 standardów, wymagań oraz list kontrolnych. |
+| 1.2 | 2026-04-30 | Projekt roboczy | Doprecyzowanie zakresu standardów, wymagań oraz list kontrolnych. |
 | 1.1 | 2026-04-27 | Projekt roboczy | Doprecyzowanie rekomendacji do poziomu działań wdrożeniowych i kryteriów zarządczych. |
 | 1.0 | 2026-04-23 | Projekt roboczy | Uporządkowanie struktury dokumentu, rozdzielenie statusu dokumentów i pakietu wdrożeniowego, dodanie procedury sytuacji wyjątkowych. |

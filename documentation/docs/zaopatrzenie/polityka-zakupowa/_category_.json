@@ -2,6 +2,7 @@
   "label": "Polityka zakupowa",
   "position": 1,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+	"description": "Zalecenie pomaga kierownictwu organizacji świadomie i systemowo uwzględniać wymagania dostępności cyfrowej w polityce zakupowej oraz procesach zaopatrzenia. Wskazuje, jak określić zasady nabywania technologii, produktów, usług i treści cyfrowych, przypisać role i odpowiedzialności oraz zorganizować nadzór nad ich stosowaniem. Dzięki temu dostępność cyfrowa staje się elementem decyzji zakupowych podejmowanych w całej organizacji, a nie wyłącznie doraźnym wymaganiem stosowanym w wybranych postępowaniach."
   }
 }

@@ -13,14 +13,14 @@ wersja_robocza: true
 ---
 
 
-## Cel zalecenia
+## Cel dezyderatu
 
-Celem niniejszego zalecenia jest zapewnienie podmiotom publicznym **jednego, spójnego, otwartego i autorytatywnego źródła wiedzy o dostępności cyfrowej**, które ułatwi prawidłową interpretację standardów, w szczególności WCAG, oraz wesprze rozwój kompetencji niezbędnych do realizacji ustawowych obowiązków.
+Celem tego dezyderatu jest zapewnienie podmiotom publicznym **jednego, spójnego, otwartego i autorytatywnego źródła wiedzy o dostępności cyfrowej**, które ułatwi prawidłową interpretację standardów, w szczególności WCAG, oraz wesprze rozwój kompetencji niezbędnych do realizacji ustawowych obowiązków.
 
-Zalecenie ma na celu uporządkowanie, ujednolicenie i udostępnienie w przystępnej formie materiałów edukacyjnych, poradników, dobrych praktyk i narzędzi, dotychczas rozproszonych w różnych miejscach, poprzez utworzenie oficjalnego portalu oraz otwartego repozytorium wiedzy.
+Dezyderat ma na celu uporządkowanie, ujednolicenie i udostępnienie w przystępnej formie materiałów edukacyjnych, poradników, dobrych praktyk i narzędzi, dotychczas rozproszonych w różnych miejscach, poprzez utworzenie oficjalnego portalu oraz otwartego repozytorium wiedzy.
 
 
-## Zalecenie
+## Dezyderat
 
 Minister właściwy do spraw informatyzacji powinien utworzyć **oficjalny portal wiedzy o dostępności cyfrowej**, oparty na dwóch wzajemnie powiązanych komponentach:
 

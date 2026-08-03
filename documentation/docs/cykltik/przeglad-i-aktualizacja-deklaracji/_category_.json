@@ -2,6 +2,7 @@
   "label": "Przegląd i aktualizacja deklaracji",
   "position": 4,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+	"description": "Przegląd i aktualizacja deklaracji dostępności stanowią ważny element systemowego zarządzania dostępnością cyfrową. Zalecenie wraz z zestawem załączników pomaga organizacjom publicznym powiązać proces aktualizacji deklaracji z oceną stanu zgodności, analizą problemów dostępności oraz planowaniem działań naprawczych. Określa zasady organizacji procesu, role i odpowiedzialności oraz sposób gromadzenia i weryfikacji informacji wykorzystywanych w deklaracji. Dzięki temu deklaracja dostępności staje się nie tylko obowiązkowym dokumentem informacyjnym, lecz także narzędziem wspierającym monitorowanie, planowanie i doskonalenie dostępności cyfrowej."
   }
 }

@@ -1,7 +1,7 @@
 ---
 id: zasady-projektowe
 title: Zasady projektowe dostępnych materiałów multimedialnych i treści cyfrowych
-description: Zasady projektowe wspierające tworzenie dostępnych materiałów i komunikatów. 
+description: Zasady projektowe wspierające tworzenie dostępnych materiałów i komunikatów.
 sidebar_label: Zasady projektowe
 sidebar_position: 17
 keywords: [dostępność cyfrowa, multimedia, komunikacja, administracja publiczna]
@@ -9,7 +9,7 @@ tags: [komunikacja, multimedia, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
 wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 23 maja 2026 r.
+ostatnia_aktualizacja: 3 sierpnia 2026 r.
 wersja_robocza: true
 ---
 
@@ -119,4 +119,4 @@ Oznacza to:
 
 Zasady projektowe są wspólną podstawą dla wszystkich działań związanych z tworzeniem i publikacją treści.
 
-Ich stosowanie pozwala na podejmowanie spójnych decyzji projektowych oraz zapewnia, że dostępność jest integralnym elementem komunikacji, a nie jej uzupełnieniem.
+Ich stosowanie pomaga podejmować spójne decyzje projektowe oraz utrzymywać dostępność jako integralny element komunikacji, a nie jej późniejsze uzupełnienie.

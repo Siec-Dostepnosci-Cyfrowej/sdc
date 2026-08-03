@@ -2,6 +2,7 @@
   "label": "Polityka dostępności",
   "position": 1,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+	"description": "Polityka dostępności cyfrowej określa sposób, w jaki organizacja zamierza realizować swoje zobowiązania związane z zapewnianiem dostępności cyfrowej. Zalecenie wraz z zestawem załączników pomaga organizacjom publicznym opracować, wdrożyć i utrzymywać politykę dostępności cyfrowej obejmującą cele, zasady działania, role, odpowiedzialności oraz mechanizmy monitorowania i doskonalenia. Wspiera budowę spójnych podstaw organizacyjnych dla realizacji działań dotyczących komunikacji cyfrowej, usług, technologii informacyjnych i zaopatrzenia. Dzięki temu polityka staje się punktem odniesienia dla decyzji i działań podejmowanych w całej organizacji."
   }
 }

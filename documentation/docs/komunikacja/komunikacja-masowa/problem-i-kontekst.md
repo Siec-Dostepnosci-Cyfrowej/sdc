@@ -1,7 +1,7 @@
 ---
 id: problem-i-kontekst
 title: Problem i kontekst wdrożenia standardu publikacji dostępnych materiałów multimedialnych i treści cyfrowych
-description: Opis problemów i kontekstu, na które odpowiada standard dostępności multimediów i komunikacji. 
+description: Syntetyczny opis problemu i kontekstu, na które odpowiada standard dostępności multimediów i komunikacji.
 sidebar_label: Problem i kontekst
 sidebar_position: 15
 keywords: [dostępność cyfrowa, multimedia, komunikacja, administracja publiczna]
@@ -9,12 +9,14 @@ tags: [komunikacja, multimedia, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
 wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 23 kwietnia 2026 r.
+ostatnia_aktualizacja: 3 sierpnia 2026 r.
 wersja_robocza: true
 ---
 
 
 ## Charakter problemu
+
+Dokument opisuje tło wdrożenia standardu. Szczegółowe przykłady błędów, skutków i powiązań systemowych są rozwinięte w osobnych materiałach uzupełniających.
 
 W wielu podmiotach publicznych dostępność materiałów multimedialnych i treści cyfrowych nie jest realizowana w sposób systemowy.
 
@@ -144,7 +146,7 @@ Wdrożenie standardu stanowi odpowiedź na te potrzeby poprzez:
 
 Problem dostępności materiałów multimedialnych i treści cyfrowych nie wynika z braku świadomości, lecz z braku systemowego podejścia.
 
-Wprowadzenie spójnego standardu pozwala na przejście od działań incydentalnych do powtarzalnego modelu pracy, który zapewnia dostępność jako element jakości komunikacji.
+Wprowadzenie spójnego standardu pozwala przejść od działań incydentalnych do powtarzalnego modelu pracy, w którym dostępność jest jednym z kryteriów jakości komunikacji.
 
 ## Powiązane dokumenty
 

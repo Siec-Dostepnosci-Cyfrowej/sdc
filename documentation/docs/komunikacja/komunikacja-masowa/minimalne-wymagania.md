@@ -9,7 +9,7 @@ tags: [wymagania, komunikacja, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
 wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 23 maja 2026 r.
+ostatnia_aktualizacja: 3 sierpnia 2026 r.
 wersja_robocza: true
 ---
 
@@ -47,13 +47,13 @@ Prosty język, hierarchia informacji i zasada jednego komunikatu są standardem 
 | Wideo | Materiał zawiera napisy do pełnej ścieżki dźwiękowej. | obowiązkowe | Napisy obejmują wypowiedzi i istotne dźwięki, są zsynchronizowane. | Plik napisów lub napisy osadzone po weryfikacji. |
 | Audio | Materiał ma pełną transkrypcję. | obowiązkowe | Transkrypcja zawiera całą treść nagrania i oznaczenia mówców (gdy potrzeba). | Treść transkrypcji przy materiale lub pod jednoznacznym linkiem. |
 | Grafika informacyjna | Zapewniono opis alternatywny i równoważną treść tekstową poza obrazem. | obowiązkowe | Informacje z grafiki są dostępne bez obrazu. | Alt-text i tekst posta/strony. |
-| Treści dynamiczne | Brak migania i efektów mogących powodować dyskomfort. | obowiązkowe | Brak elementów migających > 3 razy/s lub podobnych bodźców. | Kontrola wizualna materiału. |
+| Treści dynamiczne | Brak błysków i migania przekraczających próg bezpieczeństwa WCAG. | obowiązkowe | Materiał nie zawiera błysków częstszych niż trzy razy na sekundę ani innych sekwencji niespełniających kryterium 2.3.1. | Kontrola materiału lub wynik narzędzia do analizy błysków. |
 | Odtwarzanie | Użytkownik może zatrzymać lub wstrzymać odtwarzanie. | warunkowe | Funkcja występuje tam, gdzie materiał jest odtwarzany automatycznie lub ciągle. | Ustawienia odtwarzacza/platformy. |
 | Komunikat | Zastosowano prosty język i logiczną hierarchię informacji. | zalecane | Kluczowa informacja jest zrozumiała bez dodatkowej interpretacji. | Ocena redakcyjna i checklista. |
 
 ## Wymagania według typu materiału
 
-- **Wideo:** napisy, alternatywa dla treści wizualnej (audiodeskrypcja lub treść równoważna), brak migania.
+- **Wideo:** napisy, alternatywa dla treści wizualnej (audiodeskrypcja, transkrypcja rozszerzona albo inna treść równoważna odpowiednia do celu materiału), brak błysków i migania przekraczających próg bezpieczeństwa.
 - **Audio:** transkrypcja pełnej treści, czytelny opis materiału.
 - **Grafika:** opis alternatywny oraz równoważna treść tekstowa poza grafiką.
 - **Posty w mediach społecznościowych:** równoważny poziom dostępności z wykorzystaniem funkcji platformy.
@@ -64,7 +64,7 @@ Materiały publikowane w mediach społecznościowych powinny zapewniać równowa
 
 Treści powinny być przygotowywane lub wprowadzane w sposób zachowujący strukturę, semantykę i elementy dostępności. Po przeniesieniu treści z zewnętrznych edytorów wymagana jest weryfikacja struktury, linków, opisów alternatywnych i formatowania.
 
-Dla zaplanowanych transmisji na żywo należy zapewnić napisy w czasie rzeczywistym, jeżeli jest to organizacyjnie i technicznie możliwe. Jeżeli nie można ich zapewnić, podmiot powinien udostępnić po transmisji nagranie z napisami lub transkrypcję oraz potraktować brak napisów na żywo jako element wymagający uzupełnienia albo udokumentowania w procedurze sytuacji wyjątkowych.
+Dla zaplanowanych transmisji na żywo należy z wyprzedzeniem ocenić możliwość zapewnienia dostępności w czasie rzeczywistym, w szczególności napisów na żywo lub tłumaczenia. Nagranie z transmisji publikowane po wydarzeniu jest nowym materiałem do publikacji: powinno mieć napisy, transkrypcję oraz alternatywę dla istotnych informacji wizualnych, jeżeli są potrzebne do zrozumienia treści. Jeżeli elementów tych nie można przygotować od razu, należy udokumentować wyjątek, zapewnić minimalny dostęp do kluczowej informacji i wskazać termin uzupełnienia braków.
 
 ## Kryteria weryfikacji
 
@@ -83,7 +83,7 @@ Dowodem spełnienia wymagań mogą być w szczególności:
 
 ## Warunek publikacji
 
-Publikacja jest dopuszczalna, gdy wymagania obowiązkowe i właściwe wymagania warunkowe zostały spełnione.
+Publikacja jest dopuszczalna, gdy wymagania obowiązkowe i właściwe wymagania warunkowe zostały spełnione albo gdy osoba zatwierdzająca udokumentowała sytuację wyjątkową, minimalny poziom dostępności i termin usunięcia braków.
 
 ## Sytuacje wyjątkowe
 

@@ -9,7 +9,7 @@ tags: [audio, komunikacja, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
 wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 27 kwietnia 2026 r.
+ostatnia_aktualizacja: 3 sierpnia 2026 r.
 wersja_robocza: true
 ---
 
@@ -31,6 +31,7 @@ Stosować do każdego materiału audio publikowanego w kanałach cyfrowych podmi
 - Transkrypcja obejmuje pełną treść nagrania.
 - Przy wielu osobach należy oznaczać mówców.
 - Transkrypcja musi mieć logiczny podział na akapity lub sekcje.
+- Dźwięki tła, muzyka i efekty nie mogą utrudniać zrozumienia wypowiedzi.
 
 ## Zalecany sposób realizacji
 
@@ -38,7 +39,7 @@ Transkrypcję przygotowuje się równolegle z montażem lub redakcją materiału
 
 Transkrypcja powinna być dostępna bezpośrednio przy materiale albo przez jednoznaczny link.
 
-## Zakres transkrypcji 
+## Zakres transkrypcji
 
 Transkrypcja obejmuje wypowiedzi, istotne dźwięki kontekstowe i oznaczenia mówców.
 
@@ -48,9 +49,9 @@ Treść należy podzielić na logiczne fragmenty tematyczne, aby ułatwić szybk
 
 ## Jakość dźwięku
 
-Nagranie powinno mieć jakość umożliwiającą zrozumienie wypowiedzi. Różnica między dialogami a tłem powinna wynosić co najmniej 30dB
+Nagranie powinno mieć jakość umożliwiającą zrozumienie wypowiedzi. Muzyka, efekty i szum tła powinny być ograniczone, możliwe do wyłączenia albo na tyle ciche, aby nie konkurowały z mową.
 
-Muzyka i efekty nie mogą zagłuszać wypowiedzi.
+Nie należy przedstawiać wymogu dotyczącego tła audio jako deklaracji zgodności z poziomem AA, jeżeli wynika on z wewnętrznego standardu jakości lub z kryteriów wyższego poziomu. Weryfikacja powinna potwierdzać przede wszystkim zrozumiałość wypowiedzi i dostępność transkrypcji.
 
 ## Opis i publikacja materiału
 
@@ -61,6 +62,7 @@ Tytuł i opis nagrania powinny jasno wskazywać temat i kontekst.
 - Istnieje kompletna transkrypcja i jest łatwo dostępna.
 - Oznaczono mówców, gdy występuje więcej niż jedna osoba.
 - Jakość dźwięku umożliwia zrozumienie wypowiedzi.
+- Dźwięki tła nie zagłuszają mowy albo użytkownik może je wyłączyć.
 
 ## Najczęstsze błędy
 

@@ -11,7 +11,7 @@ ostatnia_aktualizacja: 24 września 2025 r.
 
 :::info O tym dokumencie
 
-Transkrypcja prezentacji wygłoszonej podczas podczas VI spotkania Sieci dostępności cyfrowej przez p. Stefana Wajdę, II Wiceprzewodniczącego Sieci.  
+Transkrypcja prezentacji wygłoszonej podczas VI spotkania Sieci dostępności cyfrowej przez p. Stefana Wajdę, II Wiceprzewodniczącego Sieci.  
 
 :::
 
@@ -133,7 +133,7 @@ W miarę rozeznawania problemu, pytań jest więcej. Kto te zasady opracowywał,
 
 Czy istnieją jakiekolwiek inne ustalenia dotyczące formowania dokumentów, np. Księga znaku albo zasady określone przez dział promocji. A jeśli takie są, to czy zasady dostępnego formowania dokumentów nie powinny być częścią już tych istniejących
 
-**Rozeznaj otoczenie zewnętrzne**. Skoro mam myśleć systemowo, to musze sięgnąć myślą także do otoczenia zewnętrznego. Może na przykład istnieją jakieś przepisy prawne, w których opisano reguły formatowania dokumentów biurowych? Słyszałem, że przepisy dość precyzyjnie regulują sposoby formowania aktów prawnych, nie tylko ustaw, ale aktów prawa miejscowego. Czy wewnętrzne zasady formowania dokumentów mają się odwoływać do tych przepisów albo je transponować?
+**Rozeznaj otoczenie zewnętrzne**. Skoro mam myśleć systemowo, to muszę sięgnąć myślą także do otoczenia zewnętrznego. Może na przykład istnieją jakieś przepisy prawne, w których opisano reguły formatowania dokumentów biurowych? Słyszałem, że przepisy dość precyzyjnie regulują sposoby formowania aktów prawnych, nie tylko ustaw, ale aktów prawa miejscowego. Czy wewnętrzne zasady formowania dokumentów mają się odwoływać do tych przepisów albo je transponować?
 
 Orientuję się, czego uczą w szkołach na zajęciach techniki biurowej. A czy uczą tam o wymaganiach dostępności? Jeśli nie uczą, może oprócz zaleceń warto by sformułować jakiś dezyderat pod adresem Ministerstwa Edukacji?
 

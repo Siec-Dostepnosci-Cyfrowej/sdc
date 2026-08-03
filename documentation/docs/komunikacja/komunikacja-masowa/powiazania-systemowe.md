@@ -1,7 +1,7 @@
 ---
 id: powiazania-systemowe
 title: Powiązania systemowe standardu publikacji dostępnych materiałów multimedialnych i treści cyfrowych
-description: Opis powiązań standardu dostępności z innymi obszarami funkcjonowania podmiotu. 
+description: Opis powiązań standardu dostępności z innymi obszarami funkcjonowania podmiotu.
 sidebar_label: Powiązania systemowe
 sidebar_position: 18
 keywords: [dostępność cyfrowa, multimedia, komunikacja, administracja publiczna]
@@ -9,7 +9,7 @@ tags: [komunikacja, multimedia, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
 wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 23 maja 2026 r.
+ostatnia_aktualizacja: 3 sierpnia 2026 r.
 wersja_robocza: true
 ---
 
@@ -80,7 +80,7 @@ W szczególności:
 
 - systemy zarządzania treścią (CMS-y) powinny umożliwiać wprowadzanie opisów alternatywnych i dostosowanie struktury treści,
 - narzędzia do tworzenia materiałów powinny wspierać czytelność i dostępność,
-- rozwiązania automatyczne mogą wspierać przygotowanie materiałów, ale ich wynik wymaga redakcji, kontroli zgodności z wymaganiami oraz zatwierdzenia przed publikacją.
+- rozwiązania automatyczne mogą wspierać przygotowanie materiałów, ale ich wynik wymaga redakcji, kontroli spełnienia wymagań oraz zatwierdzenia przed publikacją.
 
 Brak odpowiednich narzędzi ogranicza możliwość realizacji wymagań.
 

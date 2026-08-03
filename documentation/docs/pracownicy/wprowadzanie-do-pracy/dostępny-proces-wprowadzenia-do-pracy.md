@@ -4,14 +4,8 @@ title: Dostępny cyfrowo proces wprowadzenia do pracy
 sidebar_label: Projekt zalecenia
 sidebar_position: 0
 description: Proces wdrażania nowych pracowników powinien uwzględniać zasady dostępności cyfrowej.
-keywords: [
-pracownicy,
-wprowadzanie do pracy
-]
-tags: [
-pracownicy,
-wprowadzanie do pracy
-]
+keywords: [pracownicy,wprowadzanie do pracy]
+tags: [pracownicy,wprowadzanie do pracy]
 opracowanie: Anna Grzechnik-Wołosiuk
 data_zgloszenia: 18 sierpnia 2025 r.
 ostatnia_aktualizacja: 18 sierpnia 2025 r.

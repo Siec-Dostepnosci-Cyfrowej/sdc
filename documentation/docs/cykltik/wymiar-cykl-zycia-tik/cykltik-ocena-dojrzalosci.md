@@ -39,7 +39,7 @@ Opis wymiaru Cykl życia TIK w Modelu dojrzałości dostępności odnosi się g�
 
 ## Punkty dowodowe dla wymiaru cyklu życia TIK
 
-[Punkty dowodowe](../../terms/punkt-dowodowy) cyklu życia TIK mogą obejmować między innymi:
+Punkty dowodowe cyklu życia TIK mogą obejmować między innymi:
 
 ### Badania użytkowników
 
@@ -67,7 +67,7 @@ Opis wymiaru Cykl życia TIK w Modelu dojrzałości dostępności odnosi się g�
   - strony informacyjne
 - Listy kontrolne dostępności dla programistów
 - Podejście do wdrażania cech dostępności w różnych produktach jest spójne.
-- Istnieje udokumentowany sposób klasyfikowania i ustalania priorytetów rozwiązywania problemów z dostępnością oraz reagowania opinie i zgłoszenia [klientów]../../terms/klient) dotyczące dostępności.
+- Istnieje udokumentowany sposób klasyfikowania i ustalania priorytetów rozwiązywania problemów z dostępnością oraz reagowania opinie i zgłoszenia klientów dotyczące dostępności.
 - Wymagania dotyczące dostępności są uwzględniane w kryteriach akceptacji w całym cyklu życia produktu
 
 ### Doświadczenie użytkownika
@@ -87,11 +87,11 @@ Opis wymiaru Cykl życia TIK w Modelu dojrzałości dostępności odnosi się g�
 - Etapy testowania i częstotliwość wprowadzania zmian w sposób zwinny, bez pełnego cyklu wydawniczego są Udokumentowane. Oto kilka przykładów:
   - Sprawdzanie treści w przypadku aktualizacji stron internetowych
   - Sprawdzanie treści postów w mediach społecznościowych
-- [Raporty zgodności z dostępnością](../../terms/ACR) dla komercyjnych produktów gotowych do użycia (COTS) tworzone na końcowych etapach cyklu życia oprogramowania TIK.
+  - Raporty zgodności z dostępnością dla komercyjnych produktów gotowych do użycia (COTS) tworzone na końcowych etapach cyklu życia oprogramowania TIK.
 
 ### Szkolenia z zakresu tworzenia TIK
 
-- Prowadzone są szkolenia z zakresu tworzenia i testowania TIK, wspierające punkty dowodowe tego wymiaru, aby budować i utrzymywać odpowiedne umiejętności oparte na rolach.
+- Prowadzone są szkolenia z zakresu tworzenia i testowania TIK, wspierające punkty dowodowe tego wymiaru, aby budować i utrzymywać odpowiednie umiejętności oparte na rolach.
 
 ### Cele i wskaźniki wymiarów
 

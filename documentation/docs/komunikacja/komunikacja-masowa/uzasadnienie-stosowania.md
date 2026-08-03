@@ -1,7 +1,7 @@
 ---
 id: uzasadnienie-stosowania
 title: Uzasadnienie stosowania wymagań dostępności
-description: Uzasadnienie stosowania wymagań dostępności wraz z odniesieniem do przepisów i standardów. 
+description: Zwięzłe uzasadnienie stosowania wymagań dostępności wraz z odniesieniem do przepisów i standardów.
 sidebar_label: Uzasadnienie stosowania
 sidebar_position: 3
 keywords: [dostępność cyfrowa, multimedia, komunikacja, administracja publiczna]
@@ -9,14 +9,14 @@ tags: [komunikacja, multimedia, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
 wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 23 maja 2026 r.
+ostatnia_aktualizacja: 3 sierpnia 2026 r.
 wersja_robocza: true
 ---
 
 
 ## Charakter i cel dokumentu
 
-Dokument stanowi uzasadnienie stosowania minimalnych wymagań dostępności określonych w niniejszym zaleceniu.
+Dokument stanowi skrócone uzasadnienie stosowania minimalnych wymagań dostępności określonych w zaleceniu dotyczącym publikacji dostępnych materiałów multimedialnych i treści cyfrowych.
 
 Jego celem jest wykazanie, że przyjęte wymagania operacyjne pozostają osadzone w obowiązujących przepisach prawa oraz normach technicznych, a nie są wyłącznie zbiorem dobrych praktyk.
 
@@ -38,7 +38,7 @@ Brak takiego przełożenia prowadzi do:
 
 W efekcie materiały mogą spełniać część wymagań technicznych, a jednocześnie pozostawać niedostępne jako komunikat.
 
-Wprowadzenie minimalnych wymagań ogranicza tę lukę poprzez określenie konkretnych działań potrzebnych do zapewnienia zgodności i spójności materiału.
+Wprowadzenie minimalnych wymagań ogranicza tę lukę poprzez określenie konkretnych działań potrzebnych do oceny dostępności i spójności materiału.
 
 ## Zakres implementacji wymagań
 
@@ -51,20 +51,20 @@ Minimalne wymagania obejmują kluczowe obszary dostępności:
 - bezpieczeństwo użytkownika – kontrola odtwarzania i brak migania,
 - kompletność komunikatu – pełna informacja i spójność przekazu.
 
-## Powiązanie wymagań ze standardami
+## Powiązanie wymagań ze standardami i przepisami
 
 | Obszar | Wymagania | WCAG | EN 301 549 | EAA |
 |--------|----------|------|------------|-----|
 | Alternatywy tekstowe | opisy alternatywne, równoważność informacji | 1.1.1 | 9.1.1.1 | dostępność informacji |
-| Multimedia | napisy, transkrypcje, alternatywy | 1.2.x | 9.1.2.x | dostępność multimediów |
+| Multimedia | napisy, transkrypcje, audiodeskrypcja lub alternatywy tekstowe | 1.2.x | 9.1.2.x | dostępność informacji w usługach objętych EAA |
 | Czytelność wizualna | kontrast, typografia | 1.4.x | 9.1.4.x | dostępność percepcyjna |
 | Struktura komunikatu | logika, język, hierarchia | 3.x | 9.3.x | zrozumiałość |
-| Sterowanie | kontrola odtwarzania, brak migania | 2.2, 2.3 | 9.2.x | bezpieczeństwo |
+| Sterowanie | kontrola odtwarzania, brak błysków przekraczających próg bezpieczeństwa | 2.2, 2.3 | 9.2.x | bezpieczne korzystanie |
 | Kompletność komunikatu | pełna informacja, spójność | 1.3, 2.4, 3.2 | 9.1.3.x, 9.2.4.x | dostęp do informacji |
 
 ## Zgodność w pracy nad materiałem
 
-Wymagania zapewniają zgodność na poziomie pojedynczego materiału oraz ułatwiają spójne przygotowanie treści w różnych kanałach.
+Wymagania wspierają ocenę zgodności pojedynczego materiału oraz ułatwiają spójne przygotowanie treści w różnych kanałach. Nie zastępują pełnego audytu serwisu, aplikacji, platformy ani usługi.
 
 Wymagania mogą być stosowane na etapach:
 - planowania,
@@ -81,11 +81,11 @@ Wymagania obejmują obszary:
 - multimediów,
 - komunikacji cyfrowej.
 
-Ich stosowanie wspiera wykazywanie zgodności z wymaganiami stosowanymi w systemach ICT oraz w zamówieniach publicznych.
+Ich stosowanie wspiera wykazywanie spełnienia właściwych wymagań stosowanych w systemach ICT oraz w zamówieniach publicznych.
 
-## Zgodność z Europejskim Aktem o Dostępności
+## Odniesienie do Europejskiego Aktu o Dostępności
 
-Wymagania realizują podejście, w którym komunikacja stanowi usługę dostępną dla wszystkich użytkowników.
+Europejski Akt o Dostępności dotyczy określonych produktów i usług. Wymagania z tego zalecenia mogą wspierać podmiot wtedy, gdy materiał jest częścią usługi objętej EAA, ale same nie przesądzają o zgodności całej usługi z EAA.
 
 Zapewnienie dostępności polega na:
 - stosowaniu równoważnych form przekazu,
@@ -114,14 +114,14 @@ Każde wymaganie posiada odniesienie do kryteriów dostępności.
 Oznacza to, że:
 - możliwy jest audyt bez interpretacji przepisów,
 - każde wymaganie ma uzasadnienie normatywne,
-- zgodność może być wykazana w sposób mierzalny i powtarzalny.
+- spełnienie wymagań może być udokumentowane w sposób mierzalny i powtarzalny.
 
-Mapowanie umożliwia ocenę zgodności na podstawie wykonanych działań, a nie deklaracji.
+Mapowanie umożliwia ocenę spełnienia wymagań na podstawie wykonanych działań, a nie samych deklaracji.
 
 ## Znaczenie dla audytu
 
 Zastosowanie wymagań umożliwia:
-- jednoznaczną ocenę zgodności,
+- jednoznaczną ocenę spełnienia wymagań,
 - identyfikację błędów,
 - porównywalność wyników.
 
@@ -131,7 +131,7 @@ Zapewnia również odporność na różnice interpretacyjne.
 
 Minimalne wymagania dostępności:
 - stanowią operacyjne rozwinięcie obowiązujących przepisów i norm,
-- zapewniają zgodność z wymaganiami dostępności,
+- wspierają spełnianie wymagań dostępności,
 - eliminują uznaniowość w ich stosowaniu,
 - wprowadzają jednoznaczny model działania.
 

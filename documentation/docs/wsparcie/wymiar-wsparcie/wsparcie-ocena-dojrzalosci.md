@@ -63,7 +63,7 @@ Poziom **optymalny** osiąga się, gdy dowody wskazują, że:
 
 ## Punkty dowodowe
 
-[Punkty dowodowe](../../terms/punkt-dowodowy) Wsparcia mogą obejmować między innymi:
+Punkty dowodowe Wsparcia mogą obejmować między innymi:
 
 ### Wsparcie dla pracowników
 

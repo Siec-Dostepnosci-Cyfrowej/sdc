@@ -2,6 +2,7 @@
   "label": "Deklaracje zgodności",
   "position": 2,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+	"description": "Ocena dostępności produktów i usług cyfrowych wymaga pozyskiwania od dostawców wiarygodnych informacji potwierdzających stopień spełnienia wymagań dostępności. Zalecenie pomaga organizacjom publicznym wprowadzić wymaganie przedstawiania przez dostawców deklaracji dostępności cyfrowej produktów i usług stanowiących przedmiot zamówienia. Wspiera uwzględnianie wymagań dostępności w procesach zakupowych, ocenę zgodności oferowanych rozwiązań z wymaganiami organizacji oraz dokumentowanie informacji wykorzystywanych podczas wyboru, odbioru i eksploatacji produktów i usług cyfrowych. Dzięki temu organizacja może skuteczniej zarządzać ryzykiem nabywania rozwiązań niedostępnych oraz egzekwować wymagania dostępności wobec dostawców."
   }
 }

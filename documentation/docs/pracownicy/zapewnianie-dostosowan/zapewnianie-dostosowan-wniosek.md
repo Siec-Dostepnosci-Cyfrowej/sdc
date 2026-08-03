@@ -1,6 +1,6 @@
 ---
 id: zapewnianie-dostosowan-wniosek
-title: Formularz wniosku o dostosowanie / racjonalne usprawnienie cyfrowe
+title: Wzór wniosku o dostosowanie lub racjonalne usprawnienie cyfrowe
 description: Przykład struktury i treści wniosku o dostosowanie / racjonalne usprawnienie cyfrowe
 sidebar_label: Wzór wniosku (1)
 sidebar_position: 6 

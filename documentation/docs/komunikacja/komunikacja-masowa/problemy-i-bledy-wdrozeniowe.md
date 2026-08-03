@@ -1,7 +1,7 @@
 ---
 id: problemy-i-bledy-wdrozeniowe
 title: Problemy i błędy wdrożeniowe w zakresie dostępności materiałów multimedialnych i treści cyfrowych
-description: Analiza najczęstszych błędów i problemów we wdrażaniu dostępności multimediów i komunikacji. 
+description: Katalog najczęstszych błędów i ryzyk we wdrażaniu dostępności multimediów i komunikacji.
 sidebar_label: Problemy i błędy wdrożeniowe
 sidebar_position: 16
 keywords: [dostępność cyfrowa, multimedia, komunikacja, administracja publiczna]
@@ -9,13 +9,15 @@ tags: [komunikacja, multimedia, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
 wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 23 kwietnia 2026 r.
+ostatnia_aktualizacja: 3 sierpnia 2026 r.
 wersja_robocza: true
 ---
 
 
 
 ## Charakter problemów
+
+Dokument nie powtarza diagnozy z opisu problemu i kontekstu. Służy jako katalog błędów, który można wykorzystać podczas przeglądu procesu publikacji, szkoleń i działań korygujących.
 
 Problemy związane z dostępnością materiałów multimedialnych i treści cyfrowych mają w większości charakter systemowy, a nie jednostkowy.
 
@@ -130,7 +132,7 @@ W niektórych przypadkach dostępność traktowana jest jako problem technologic
 Prowadzi to do:
 - nadmiernego polegania na narzędziach automatycznych, w tym na automatycznie generowanych napisach lub opisach,
 - braku redakcji i weryfikacji treści,
-- przekonania, że samo użycie narzędzia zapewnia dostępność.
+- przekonania, że narzędzie samo rozwiązuje problem dostępności.
 
 Technologia może wspierać proces, ale nie zastępuje odpowiedzialności i kontroli jakości.
 
@@ -190,4 +192,4 @@ W szczególności:
 - weryfikacja powinna mieć charakter obowiązkowy,
 - podmiot powinien wykorzystywać błędy do doskonalenia procesów.
 
-Takie podejście pozwala na przejście od działań incydentalnych do trwałego modelu zapewniania dostępności.
+Takie podejście pozwala przejść od działań incydentalnych do powtarzalnego modelu zapewniania dostępności.

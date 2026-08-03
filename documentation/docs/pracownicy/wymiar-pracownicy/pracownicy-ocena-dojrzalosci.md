@@ -9,7 +9,7 @@ ostatnia_aktualizacja: 24 września 2025 r.
 wersja_robocza: true
 ---
 
-Wykwalifikowane osoby z niepełnosprawnościami powinny być zatrudniane na każdym szczeblu hierarchii [organizacji](../../terms/organizacja) (tj. na wszystkich stanowiskach, wszystkich szczeblach władzy i w każdym dziale), aby ich wyjątkowe spostrzeżenia i doświadczenia życiowe mogły lepiej służyć podejmowaniu decyzji.
+Wykwalifikowane osoby z niepełnosprawnościami powinny być zatrudniane na każdym szczeblu hierarchii organizacji (tj. na wszystkich stanowiskach, wszystkich szczeblach władzy i w każdym dziale), aby ich wyjątkowe spostrzeżenia i doświadczenia życiowe mogły lepiej służyć podejmowaniu decyzji.
 
 ## Jak ocenić poziom dojrzałości wsparcia
 
@@ -83,7 +83,7 @@ Pracownicy z niepełnosprawnościami są wykorzystywani w całej organizacji w c
 
 ## Punkty dowodowe
 
-[Punkty dowodowe](../../terms/punkt-dowodowy) wymiaru Pracownicy mogą obejmować między innymi:
+Punkty dowodowe wymiaru Pracownicy mogą obejmować między innymi:
 
 ### Ukierunkowana rekrutacja
 

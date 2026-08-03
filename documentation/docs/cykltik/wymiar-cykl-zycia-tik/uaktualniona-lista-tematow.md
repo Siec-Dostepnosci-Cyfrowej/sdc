@@ -83,7 +83,7 @@ Brakuje operacyjnej procedury stosowania wyjątku zgodnie z ustawą i EN 301 549
 
 ---
 
-## 6. Zalecenie: Procedura archiwizacji i wycofywania zasobów cyfrowych
+## 6. Zalecenie: Zarządzanie archiwizacją i wycofywaniem zasobów cyfrowych
 
 ### Zakres:
 - Planowanie migracji danych

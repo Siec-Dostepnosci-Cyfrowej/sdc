@@ -192,7 +192,7 @@ Celem jest:
 - Raz lub dwa razy w roku przegląda stronę www i wybrane dokumenty.
 
 ####  4.4. Postawy i świadomość pracowników
-- Pracownicy znają podstawowe obowiązki wynikające z ustawy o dostępności.
+- Pracownicy znają podstawowe obowiązki wynikające z ustawy o dostępności cyfrowej.
 - Osoba ds. dostępności ma dostęp do materiałów informacyjnych lub prostych szkoleń.
 
 ####  4.5. Współpraca i komunikacja
@@ -276,7 +276,7 @@ Dojrzała organizacja publiczna rozumie dostępność jako element jakości dzia
 - Proces akceptacji wyjątków od wymagań dostępności z uzasadnieniem i nadzorem.
 
 #### 4.4. Kultura i komunikacja
-- Cycliczne działania podnoszące świadomość dostępności (kampanie, komunikaty).
+- Cykliczne działania podnoszące świadomość dostępności (kampanie, komunikaty).
 - Ujęcie dostępności w wartościach organizacyjnych lub kodeksie etycznym.
 - Współpraca z osobami z niepełnosprawnościami przy ocenie usług.
 

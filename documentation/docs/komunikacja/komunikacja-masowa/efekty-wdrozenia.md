@@ -1,7 +1,7 @@
 ---
 id: efekty-wdrozenia
 title: Efekty wdrożenia standardu publikacji dostępnych materiałów multimedialnych i treści cyfrowych
-description: Opis efektów wdrożenia standardu dostępności w podmiocie publicznym. 
+description: Opis oczekiwanych efektów wdrożenia standardu dostępności w podmiocie publicznym.
 sidebar_label: Efekty wdrożenia
 sidebar_position: 19
 keywords: [dostępność cyfrowa, multimedia, komunikacja, administracja publiczna]
@@ -9,16 +9,16 @@ tags: [komunikacja, multimedia, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
 wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 23 kwietnia 2026 r.
+ostatnia_aktualizacja: 3 sierpnia 2026 r.
 wersja_robocza: true
 ---
 
 
 ## Charakter zmian
 
-Wdrożenie standardu publikacji dostępnych materiałów multimedialnych i treści cyfrowych prowadzi do zmiany sposobu organizacji pracy z treściami.
+Wdrożenie standardu publikacji dostępnych materiałów multimedialnych i treści cyfrowych powinno prowadzić do zmiany sposobu organizacji pracy z treściami.
 
-Dostępność przestaje być działaniem uzupełniającym, a staje się integralnym elementem przygotowania materiałów.
+Dostępność przestaje być działaniem uzupełniającym i staje się integralnym elementem przygotowania materiałów, jeżeli standard jest stosowany konsekwentnie.
 
 Zmiana ta ma charakter systemowy i obejmuje zarówno sposób tworzenia komunikatów, jak i organizację pracy zespołów.
 
@@ -40,7 +40,7 @@ Zastosowanie zasad struktury, hierarchii informacji i prostego języka poprawia 
 
 ## Zapewnienie kompletności komunikatu
 
-Wdrożenie standardu eliminuje sytuacje, w których informacje są dostępne wyłącznie w jednej formie (np. tylko w grafice lub tylko w dźwięku).
+Wdrożenie standardu ogranicza sytuacje, w których informacje są dostępne wyłącznie w jednej formie, na przykład tylko w grafice lub tylko w dźwięku.
 
 Każdy komunikat zawiera:
 - pełną informację,
@@ -85,7 +85,7 @@ Praca nad treścią:
 - ogranicza przypadkowość i różnice interpretacyjne.
 
 Dzięki temu:
-- eliminowana jest przypadkowość,
+- ograniczana jest przypadkowość,
 - zwiększa się spójność działań,
 - łatwiejsze staje się wdrażanie nowych pracowników.
 
@@ -93,7 +93,7 @@ Dzięki temu:
 
 ## Wzrost dojrzałości organizacyjnej
 
-Dostępność przestaje być działaniem incydentalnym i staje się elementem systemu zarządzania jakością.
+Dostępność przestaje być działaniem incydentalnym i staje się elementem systemu zarządzania jakością, gdy role, kontrola i decyzje publikacyjne są utrzymywane w praktyce.
 
 Podmiot publiczny:
 - działa według ustalonych zasad,
@@ -106,7 +106,7 @@ Podmiot publiczny:
 
 Wdrożenie standardu zmniejsza ryzyko:
 
-- publikacji treści niezgodnych z przepisami,
+- publikacji treści niespełniających wymagań dostępności,
 - skarg użytkowników,
 - konieczności wprowadzania pilnych poprawek,
 - utraty wiarygodności podmiotu publicznego.
@@ -117,7 +117,7 @@ Działania są przewidywalne i oparte na jasno określonych zasadach.
 
 ## Zwiększenie dostępności usług publicznych
 
-Efektem wdrożenia jest realne zwiększenie dostępności komunikacji dla użytkowników.
+Efektem wdrożenia powinno być realne zwiększenie dostępności komunikacji dla użytkowników.
 
 Z materiałów mogą korzystać:
 - osoby z niepełnosprawnościami,
@@ -145,4 +145,4 @@ Podstawowy poziom dostępności zostaje utrzymany, a kolejne działania mają ch
 
 - [Minimalne wymagania dostępności](./minimalne-wymagania.md)
 - [Standardy tworzenia dostępnych materiałów](./standardy-tworzenia-index.md)
-- Listy kontrolne publikacji - dokument powiązany z Zaleceniem 4, utrzymywany w procedurze kontroli dostępności przed publikacją.
+- [Zalecenie](./komunikacja-masowa-zalecenie.md) - role, decyzja publikacyjna, sytuacje wyjątkowe i listy kontrolne.

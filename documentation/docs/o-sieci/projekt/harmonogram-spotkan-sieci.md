@@ -1,6 +1,6 @@
 ---
 id: harmonogram-spotkan-sieci
-title: O projekcie Sieć dostępności cyfrowej
+title: Harmonogram spotkań Sieci
 sidebar_label: Harmonogram spotkań Sieci
 sidebar_position: 2 
 ---

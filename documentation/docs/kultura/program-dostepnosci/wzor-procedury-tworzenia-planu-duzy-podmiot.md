@@ -17,7 +17,7 @@ Celem procedury jest zapewnienie jednolitego, przejrzystego i powtarzalnego proc
 
 Procedura gwarantuje, że plan:
 - wynika z realnych potrzeb organizacji,
-- uwzględnia wymagania prawne i standardy (WCAG, EN 301 549, ustawa o dostępności),
+- uwzględnia wymagania prawne i standardy (WCAG, EN 301 549, ustawa o dostępności cyfrowej),
 - jest spójny z dokumentami strategicznymi,
 - posiada określone priorytety, harmonogram, odpowiedzialności i mierniki,
 - może być monitorowany oraz oceniany.
@@ -34,14 +34,14 @@ Procedura obejmuje:
 
 ## 3. Definicje
 **Plan działania** – roczny dokument wskazujący cele, zadania, odpowiedzialności, terminy i mierniki dotyczące zapewniania dostępności cyfrowej.  
-**Koordynator dostępności cyfrowej** – osoba odpowiedzialna za przygotowanie planu, jego konsultacje oraz monitoring realizacji.  
+**Koordynator ds. dostępności cyfrowej** – osoba odpowiedzialna za przygotowanie planu, jego konsultacje oraz monitoring realizacji.  
 **Jednostka współpracująca** – komórka organizacyjna wykonująca zadania ujęte w planie.
 
 ---
 
 ## 4. Role i odpowiedzialności
 
-### 4.1. Koordynator dostępności cyfrowej
+### 4.1. Koordynator ds. dostępności cyfrowej
 - inicjuje proces przygotowania planu,
 - opracowuje projekt dokumentu,
 - prowadzi konsultacje wewnętrzne,

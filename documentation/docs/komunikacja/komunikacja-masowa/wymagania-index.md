@@ -9,15 +9,13 @@ tags: [komunikacja, multimedia, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
 wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 23 maja 2026 r.
+ostatnia_aktualizacja: 3 sierpnia 2026 r.
 wersja_robocza: true
 ---
 
-# Wymagania dostępności
-
 Ta sekcja zawiera minimalne wymagania dostępności dla materiałów multimedialnych i treści cyfrowych.
 
-Wymagania określają obowiązkowy poziom dostępności właściwy dla danego typu materiału i są warunkiem dopuszczenia materiału do publikacji.
+Wymagania określają minimalny poziom dostępności właściwy dla danego typu materiału i są podstawą decyzji publikacyjnej.
 
 ## Rola wymagań
 
@@ -62,4 +60,4 @@ Wymagania mają charakter:
 - mierzalny – umożliwiają jednoznaczną ocenę,
 - powtarzalny – mogą być stosowane w każdej sytuacji.
 
-Stanowią podstawę oceny zgodności materiału z przyjętym standardem dostępności.
+Stanowią podstawę oceny spełnienia przyjętego standardu dostępności dla konkretnego materiału.

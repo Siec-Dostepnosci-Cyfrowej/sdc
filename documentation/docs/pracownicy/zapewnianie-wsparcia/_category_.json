@@ -2,6 +2,7 @@
   "label": "Zapewnianie wsparcia pracownikom",
   "position": 3,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+	"description": "Zalecenia włączane do dokumentu końcowego powinny pozostawać w jednoznacznym i bezpośrednim związku z zapewnianiem dostępności cyfrowej w rozumieniu ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych. Analizowany projekt dotyczy ogólnej procedury zapewniania wsparcia pracownikom i ma charakter organizacyjno-kadrowy. Nie wykazano w nim konkretnego odniesienia do obowiązków związanych z dostępnością cyfrową zasobów i usług cyfrowych. Wskazana jako podstawa prawna ustawa o dostępności cyfrowej nie reguluje materii objętej treścią zalecenia, co powoduje brak zgodności normatywnej. "
   }
 }

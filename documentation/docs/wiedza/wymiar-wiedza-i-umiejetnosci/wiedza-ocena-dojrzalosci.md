@@ -26,17 +26,23 @@ wersja_robocza: true
 
 | Poziom | Opis  |
 | -------| ------| 
-| Nieaktywny | Brak wysiłków na rzecz rozwoju wiedzy i umiejętności w zakresie dostępności cyfrowej |
-| Startowy   | Dostrzeżona potrzeba dostępności i integracji osób z niepełnosprawnościami w całej organizacji, a także wiedzy specjalistycznej w zakresie dostępności. Rozpoczęto planowanie, ale działania nie są dobrze zorganizowane. |
-| Integracja | Umiejętności pracowników w zakresie dostępności cyfrowej i plan szkoleń z ogólnym podejściem organizacyjnym do integracji osób z niepełnosprawnością z wymaganą wiedzą specjalistyczną w zakresie dostępności opartą na rolach. Integracja procesu oceny i zwiększania wiedzy i umiejętności w zakresie dostępności jest w toku, ale nie jest konsekwentnie wdrażana w całej organizacji. |
-| Optymalny | Pełna dojrzałość organizacji w zakresie dostępności cyfrowej. Ogólnoorganizacyjna, oparta na rolach wiedza specjalistyczna w zakresie dostępności i integracji osób z niepełnosprawnością jest dobrze zdefiniowana, oceniana i stale wzbogacana. Wiedza i umiejętności w zakresie dostępności są konsekwentnie wdrażane w całej organizacji. |
+| Początkowy | Brak wysiłków na rzecz rozwoju wiedzy i umiejętności w zakresie dostępności cyfrowej |
+| Porządkowania | Dostrzeżona potrzeba dostępności i integracji osób z niepełnosprawnościami w całej organizacji, a także wiedzy specjalistycznej w zakresie dostępności. Rozpoczęto planowanie, ale działania nie są dobrze zorganizowane. |
+| Integracji | Umiejętności pracowników w zakresie dostępności cyfrowej i plan szkoleń z ogólnym podejściem organizacyjnym do integracji osób z niepełnosprawnością z wymaganą wiedzą specjalistyczną w zakresie dostępności opartą na rolach. Integracja procesu oceny i zwiększania wiedzy i umiejętności w zakresie dostępności jest w toku, ale nie jest konsekwentnie wdrażana w całej organizacji. |
+| Dojrzałości | Pełna dojrzałość organizacji w zakresie dostępności cyfrowej. Ogólnoorganizacyjna, oparta na rolach wiedza specjalistyczna w zakresie dostępności i integracji osób z niepełnosprawnością jest dobrze zdefiniowana, oceniana i stale wzbogacana. Wiedza i umiejętności w zakresie dostępności są konsekwentnie wdrażane w całej organizacji. |
+
+•	Dostępność nie jest osadzona w sposobie działania organizacji. 
+•	Działania mają charakter incydentalny i reaktywny – zależą od pojedynczych osób lub sytuacji. Brakuje wspólnego podejścia, stałych zasad i przewidywalnego modelu działania. 
+•	Atutem organizacji mogą być podejmowane okazjonalnie działania oraz realizacja obowiązków ustawowych, jeśli występują. 
+•	Największym ryzykiem jest przypadkowość działań, rozproszenie odpowiedzialności oraz zależność od doraźnych interwencji. 
+•	Priorytetem jest uporządkowanie podstaw: określenie kierunku działania, przypisanie odpowiedzialności, zapewnienie zasobów oraz wprowadzenie pierwszych wspólnych zasad postępowania. 
 
 
 ### Nieaktywny
 
 Poziom jest **„Nieaktywny”,** gdy dowody wskazują, że:
 
-- Nie podjęto żadnych wysiłków lub wskazano jedynie pojedyncze działania.
+- Dostępność nie jest osadzona w sposobie działania organizacji. Działania mają charakter incydentalny i reaktywny – zależą od pojedynczych osób lub sytuacji. 
 
 ### Startowy
 
@@ -75,7 +81,7 @@ Poziom **optymalny**  osiąga się, gdy dowody wskazują, że:
 
 ## Punkty dowodowe
 
-[Punktami dowodowymi](../../terms/punkt-dowodowy) potwierdzającymi wiedzę i umiejętności mogą być między innymi:
+Punktami dowodowymi potwierdzającymi wiedzę i umiejętności mogą być między innymi:
 
 ### Ocena umiejętności w celu identyfikacji i rozwiązania luk
 
@@ -99,7 +105,7 @@ Poziom **optymalny**  osiąga się, gdy dowody wskazują, że:
 
 ### Integracja wymiarów
 
-- Plany szkoleniowe i programy nauczania powinny być zintegrowane z [punktami dowodowymi](../../terms/punkt-dowodowy) dla każdego wymiaru.
+- Plany szkoleniowe i programy nauczania powinny być zintegrowane z punktami dowodowymi dla każdego wymiaru.
 
 ### Cele i wskaźniki wymiaru
 

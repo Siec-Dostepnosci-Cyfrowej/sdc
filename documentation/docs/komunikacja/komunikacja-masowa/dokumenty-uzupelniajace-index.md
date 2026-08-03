@@ -9,20 +9,20 @@ tags: [komunikacja, multimedia, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
 wspolpraca:  Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 23 maja 2026 r.
+ostatnia_aktualizacja: 3 sierpnia 2026 r.
 wersja_robocza: true
 ---
 
 
-Niniejsza sekcja zawiera materiały uzupełniające do Zalecenia 5.
+Niniejsza sekcja zawiera materiały uzupełniające do zalecenia dotyczącego publikacji dostępnych materiałów multimedialnych i treści cyfrowych.
 
-Dokumenty zgromadzone w tym katalogu nie stanowią treści samego zalecenia ani jego obowiązkowych elementów wdrożeniowych. Pełnią funkcję analityczną, porządkującą i wspierającą. Służą wyjaśnieniu kontekstu, pokazaniu problemów wdrożeniowych, opisaniu efektów wdrożenia oraz wskazaniu systemowych powiązań standardu publikacji dostępnych materiałów multimedialnych i treści cyfrowych.
+Dokumenty zgromadzone w tym katalogu pełnią funkcję pomocniczą. Nie powtarzają wymagań ani list kontrolnych z dokumentu głównego, lecz wyjaśniają kontekst, ryzyka, efekty wdrożenia i powiązania systemowe standardu.
 
 ## Rola dokumentów w tej sekcji
 
 Dokumenty w tym katalogu:
 
-- opisują problem, na który odpowiada zalecenie,
+- opisują problem, na który odpowiada standard,
 - porządkują kontekst organizacyjny i wdrożeniowy,
 - pokazują najczęstsze błędy i ryzyka,
 - wskazują efekty wdrożenia,
@@ -31,7 +31,7 @@ Dokumenty w tym katalogu:
 
 Dokumenty te mogą być wykorzystywane jako:
 
-- materiał pomocniczy przy wdrażaniu zalecenia,
+- materiał pomocniczy przy wdrażaniu standardu,
 - materiał wyjaśniający dla kierownictwa i zespołów,
 - zaplecze analityczne do dalszych prac rozwojowych,
 - materiał wspierający prezentację i uzasadnienie przyjętych rozwiązań.

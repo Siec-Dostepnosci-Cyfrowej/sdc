@@ -1,8 +1,8 @@
 ---
 id: zapewnianie-dostosowan-procedura-rozszerzona
-title: Projekt procedury zapewniania pracownikom dostosowań i racjonalnych usprawnień cyfrowych
+title: Rozszerzona procedura zapewniania pracownikom dostosowań i usprawnień cyfrowych
 description: Stworzenie procedury uzyskiwnia wsparcia prez pracowników i współpacowników organizacji.
-sidebar_label: Procedura rozszerzona
+sidebar_label: Rozszerzona procedura
 sidebar_position: 5 
 keywords: [WCAG 2.1 AA, dostepność cyfrowa, dostosowania, racjonalne usprawnienia, procedura]
 tags: [WCAG 2.1 AA, dostepność cyfrowa, dostosowania, racjonalne usprawnienia, procedura]

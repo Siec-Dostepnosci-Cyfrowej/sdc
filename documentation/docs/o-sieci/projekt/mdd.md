@@ -60,7 +60,7 @@ Ten dokument podlega [Dokumentowi procesowemu W3C z dnia 18 sierpnia 2025 r.](ht
 
 ## 1.1 O modelu dojrzałości dostępności
 
-Uwzględnienie kwestii dostępności [technologii informacyjno-komunikacyjnych](../../terms/technologia-informacyjno-komunikacyjna) (TIK) w procesach pracy i zarządzaniu jakością w&nbsp;organizacji może być złożonym procesem. Chociaż w&nbsp;niektórych organizacjach są osoby lub działy odpowiedzialne za zapewnienie dostępności, wiele z nich tego nie robi. Zbyt często potrzeba systematycznego zarządzania dostępnością w organizacji pozostaje niezaspokojona. To z&nbsp;kolei może ograniczać zdolność organizacji do tworzenia i&nbsp;utrzymywania dostępnych produktów, usług, szkoleń i&nbsp;dokumentacji.
+Uwzględnienie kwestii dostępności technologii informacyjno-komunikacyjnych (TIK) w procesach pracy i zarządzaniu jakością w&nbsp;organizacji może być złożonym procesem. Chociaż w&nbsp;niektórych organizacjach są osoby lub działy odpowiedzialne za zapewnienie dostępności, wiele z nich tego nie robi. Zbyt często potrzeba systematycznego zarządzania dostępnością w organizacji pozostaje niezaspokojona. To z&nbsp;kolei może ograniczać zdolność organizacji do tworzenia i&nbsp;utrzymywania dostępnych produktów, usług, szkoleń i&nbsp;dokumentacji.
 
 Model Dojrzałości Dostępności (<em lang="en">Accessibility Maturity Model</em>, AMM) został opracowany w celu wypełnienia tej luki – aby zachęcać i&nbsp;wspierać organizacje w&nbsp;tworzeniu i wdrażaniu systemów zarządzania dostępnością. Celem AMM jest wspieranie organizacji w&nbsp;systematycznym włączaniu kryteriów dostępności TIK do polityk, kluczowych procesów biznesowych, kultury organizacyjnej i&nbsp;struktur zarządzania, w sposób spójny, powtarzalny i&nbsp;mierzalny.
 
@@ -74,7 +74,7 @@ Modelowanie dojrzałości dostępności znacznie różni się od testowania zgod
 
 Testowanie zgodności dostarcza informacji o poziomie dostępności konkretnego produktu w danym momencie. Wyniki testu zgodności dają obraz konkretnej wersji produktu lub jego komponentu w momencie testowania i oceny.
 
-Modelowanie dojrzałości dostarcza informacji o zdolności organizacji do tworzenia w perspektywie długoterminowejdostępnych produktów. Wyniki oceny modelowania dojrzałości dają całościowy obraz inicjatyw organizacji w zakresie dostępności, pokazując, gdzie organizacja dobrze realizuje funkcje dostępności i gdzie może wprowadzić ulepszenia w celu usunięcia barier.
+Modelowanie dojrzałości dostarcza informacji o zdolności organizacji do tworzenia w perspektywie długoterminowej dostępnych produktów. Wyniki oceny modelowania dojrzałości dają całościowy obraz inicjatyw organizacji w zakresie dostępności, pokazując, gdzie organizacja dobrze realizuje funkcje dostępności i gdzie może wprowadzić ulepszenia w celu usunięcia barier.
 
 
 ### 1.1.1 Jak korzystać z modelu dojrzałości dostępności
@@ -157,30 +157,30 @@ Przykładem modelu dojrzałości dostosowanego do konkretnej branży jest:
   - CCC ACMM odpowiada na wyjątkowe potrzeby kalifornijskich szkół wyższych, szczegółowo opisując pięć kolejnych etapów obejmujących zarządzanie, tworzenie treści, zamówienia publiczne i rozwój personelu, uwzględniając zdecentralizowany charakter szkolnictwa wyższego.
 
 # 2.Struktura modelu dojrzałości
-Model dojrzałości dostępności opiera się na siedmiu podstawowych [wymiarach](../../terms/wymiar-dostepnosci) organizacji, w&nbsp;których dojrzałość dostępności może przyczynić się do poprawy zgodności ze standardami i przepisami dotyczącymi dostępności.
+Model dojrzałości dostępności opiera się na siedmiu podstawowych wymiarach organizacji, w&nbsp;których dojrzałość dostępności może przyczynić się do poprawy zgodności ze standardami i przepisami dotyczącymi dostępności.
 
 Wymiary mają unikalną, opisową nazwę z ogólnym, prostym podsumowaniem zakresu danego wymiaru. Każdy wymiar składa się z&nbsp;dwóch podsekcji:
 
-- [Punkty dowodowe](../../terms/punkt-dowodowy) to kryteria dojrzałości dostępności poparte dowodami. Każdy punkt dowodowy zawiera ogólny opis. Rezultaty są w większości oczywiste, ale w niektórych przypadkach podano dodatkowe informacje.
-- [Poziomy dojrzałości](../../terms/poziom_dojrzałości), wraz z definicjami i oczekiwanymi rezultatami pomagają organizacjom oceniać i raportować stan dojrzałości dostępności osiągniętej dla danego wymiaru. Poziomy dojrzałości wskazują, co jest potrzebne do osiągnięcia pełnej dojrzałości dla tego wymiaru.
+- Punkty dowodowe to kryteria dojrzałości dostępności poparte dowodami. Każdy punkt dowodowy zawiera ogólny opis. Rezultaty są w większości oczywiste, ale w niektórych przypadkach podano dodatkowe informacje.
+- Poziomy dojrzałości, wraz z definicjami i oczekiwanymi rezultatami pomagają organizacjom oceniać i raportować stan dojrzałości dostępności osiągniętej dla danego wymiaru. Poziomy dojrzałości wskazują, co jest potrzebne do osiągnięcia pełnej dojrzałości dla tego wymiaru.
 
 ## 2.1 Wymiary
 
-Siedem [wymiarów](../../terms/wymiar-dostepnosci) dojrzałości dostępności organizacyjnej to:
+Siedem wymiarów dojrzałości dostępności organizacyjnej to:
 
-- **Komunikacja:** Informacje związane z dostępnością [organizacji](../../terms/organizacja), a także dostępność wszelkiej komunikacji wewnętrznej i zewnętrznej.
+- **Komunikacja:** Informacje związane z dostępnością organizacji, a także dostępność wszelkiej komunikacji wewnętrznej i zewnętrznej.
 - **Nadzór i kultura:** Postawy, wrażliwość i zachowania związane z dostępnością, w tym interakcje wewnętrzne, percepcja i podejmowanie decyzji.
-- **Cykl życia technologii informacyjno-komunikacyjnych (TIK):** uwzględnienie zagadnień dostępności stron internetowych, oprogramowania i sprzętu w procesach tworzenia – od koncepcji, przez projektowanie, wytwarzanie, testowanie, opracowanie [ACR](../../terms/ACR), badania użytkowników, konserwację i wycofanie.
+- **Cykl życia technologii informacyjno-komunikacyjnych (TIK):** uwzględnienie zagadnień dostępności stron internetowych, oprogramowania i sprzętu w procesach tworzenia – od koncepcji, przez projektowanie, wytwarzanie, testowanie, opracowanie ACR, badania użytkowników, konserwację i wycofanie.
 - **Wiedza i umiejętności:** Ciągłe kształcenie i praktyki outsourcingowe w celu wypełnienia luk w zakresie działań związanych z&nbsp;dostępnością.
 - **Pracownicy:** Opisy stanowisk, rekrutacja, grupy zasobów pracowniczych dla osób niepełnosprawnych, niezbędne do zapewnienia praktycznego doświadczenia w działaniach na rzecz dostępności.
 - **Zaopatrzenie:** Proces strategiczny koncentrujący się na wyszukiwaniu i nabywaniu dostępnych produktów potrzebnych organizacji. Działania mogą obejmować: pozyskiwanie, negocjacje i wybieranie towarów i usług.
-- **Wsparcie:** Pomoc w zakresie dostępności udzielana pracownikom wewnątrz organizacji i zewnętrznym  [klientom](../../terms/klient) z&nbsp;niepełnosprawnościami.
+- **Wsparcie:** Pomoc w zakresie dostępności udzielana pracownikom wewnątrz organizacji i zewnętrznym klientom z&nbsp;niepełnosprawnościami.
 
 ## 2.2 Punkty dowodowe
 
-Każdy wynik wymiaru ma szereg sugerowanych [punktów dowodowych](../../terms/punkt-dowodowy), które obejmują wszelkie dowody lub niezbędne środki, które można wykorzystać do określenia dojrzałości każdego [wymiaru](../../terms/wymiar-dostepnosci). Postęp w kierunku osiągnięcia dojrzałości uzyskuje się poprzez tworzenie punktów dowodowych opisanych dla każdego wymiaru.
+Każdy wynik wymiaru ma szereg sugerowanych punktów dowodowych, które obejmują wszelkie dowody lub niezbędne środki, które można wykorzystać do określenia dojrzałości każdego wymiaru. Postęp w kierunku osiągnięcia dojrzałości uzyskuje się poprzez tworzenie punktów dowodowych opisanych dla każdego wymiaru.
 
-- Punkty dowodowe to oparte na dowodach, organizacyjne rezultaty, które wskazują na [poziom dojrzałości](../../terms/poziomy-dojrzalosci).
+- Punkty dowodowe to oparte na dowodach, organizacyjne rezultaty, które wskazują na poziom dojrzałości.
 - Punkty dowodowe są specyficzne dla wymiaru, na którym się skupiamy. Na przykład, jeśli mierzymy tylko dojrzałość zakupową, należy oceniać tylko punkty dowodowe w wymiarze Zaopatrzenie.
 - W przypadku niektórych wymiarów punkty dowodowe są dodatkowo uporządkowane według kategorii.
 - Punkty dowodowe mogą zostać częściowo ukończone na poziomie początkowym i wdrażania, ale muszą zostać ukończone w pełni na etapie optymalnym.
@@ -189,7 +189,7 @@ Na przykład, jeżeli wymiar wymaga planu rozpoznania poziomów umiejętności i
 
 ## 2.3 Poziomy dojrzałości
 
-Każdy poziom osiąga się poprzez osiągnięcie zdefiniowanych rezultatów dla danego [wymiaru](../../terms/wymiar-dostepnosci). Ukończone [punkty dowodowe](../../terms/punkt-dowodowy)  pokazują wysiłki podejmowane w celu osiągnięcia rezultatów dla danego [poziomu dojrzałości](../../terms/poziomy-dojrzalosci)
+Każdy poziom osiąga się poprzez osiągnięcie zdefiniowanych rezultatów dla danego wymiaru. Ukończone Punkty dowodowe  pokazują wysiłki podejmowane w celu osiągnięcia rezultatów dla danego poziomu dojrzałości.
 
 Należy uwzględnić wszystkie istotne rezultaty, ale nie wszystkie będą miały zastosowanie do wszystkich organizacji i sytuacji. Jeśli rezultat nie ma zastosowania, jest oznaczony jako ND (nie dotyczy). Na przykład polityka dostępności nie musi odnosić się do aplikacji natywnych, jeśli organizacja ich nie ma.
 
@@ -231,7 +231,7 @@ Komunikacja musi być dostępna dla jak najszerszego grona odbiorców i spełnia
 - formalnych i nieformalnych
 - większych i mniejszych
 - podstawowych i drugorzędnych
-- generowane bezpośrednio przez [organizację]../../terms/organizacja) lub przez osoby trzecie na podstawie umowy z organizacją
+- generowane bezpośrednio przez organizację lub przez osoby trzecie na podstawie umowy z organizacją
 
 [Dostępna komunikacja](https://academic.admin.ox.ac.uk/accessible-communication#collapse1801031) to ogólny termin określający jasne, bezpośrednie i łatwe do zrozumienia komunikaty, możliwe do przekazania w&nbsp;wielu formatach, tak aby wszyscy użytkownicy mieli równy dostęp. Uwzględnia bariery w&nbsp;dostępie do informacji i usuwa je lub oferuje alternatywy.
 
@@ -266,7 +266,7 @@ Poziom **optymalny** jest osiągnięty, gdy dowody wskazują, że:
 
 #### 2.5.1.2 Punkty dowodowe
 
-[Punkty dowodowe](../../terms/punkt-dowodowy) dotyczące komunikacji mogą obejmować między innymi:
+Punkty dowodowe dotyczące komunikacji mogą obejmować między innymi:
 
 ###### 2.5.1.2.1 Fundament dostępnej komunikacji
 
@@ -280,7 +280,7 @@ Poziom **optymalny** jest osiągnięty, gdy dowody wskazują, że:
 - Konsekwentne korzystanie z dostępnych szablonów w celu:
   - materiałów marketingowych i sprzedażowych dostarczanych w formatach elektronicznych
   - dokumentów technicznych i prezentujących stanowiska
-  - [raportów zgodności dostępności]../../terms/raport_zgodnosci_z_dostepnascia) produktów (ACR)
+  - raportów zgodności dostępności produktów (ACR)
   - innej dokumentacji dotyczącej dostępności
   - prezentacji.
 - Wewnętrzne i zewnętrzne strony internetowe:
@@ -294,14 +294,14 @@ Poziom **optymalny** jest osiągnięty, gdy dowody wskazują, że:
 - Multimedia, w tym napisy rozszerzone i audiodeskrypcje, jeśli są potrzebne
 - Treści w mediach społecznościowych i treść blogów
 - Szkolenia dla klientów i sprzedawców
-- Informacje na temat obsługi [klienta]../../terms/klient)
+- Informacje na temat obsługi klienta
 - Mechanizm informacji zwrotnej do obsługi pytań i skarg dotyczących dostępności
 - Dokumenty prawne, płatności i fakturowanie
 - Inne komunikaty, zgodnie ze wskazaniem.
 
 ###### 2.5.1.2.3 Szkolenie w zakresie komunikacji bez barier
 
-- Istnieją szkolenia z zakresu komunikacji, które mają na celu rozwijanie i utrzymywanie odpowiednich umiejętności wspierających [punkty dowodowe](../../terms/punkt-dowodowy) tego [wymiaru]../../terms/wymiar-dostepnosci)
+- Istnieją szkolenia z zakresu komunikacji, które mają na celu rozwijanie i utrzymywanie odpowiednich umiejętności wspierających punkty dowodowe tego wymiaru dostępności.
 
 ###### 2.5.1.2.4 Cele i wskaźniki wymiarów
 
@@ -311,7 +311,7 @@ Poziom **optymalny** jest osiągnięty, gdy dowody wskazują, że:
 
 Dostępne technologie informacyjno-komunikacyjne (TIK) są kluczowym czynnikiem umożliwiającym osobom z niepełnosprawnościami pełne i skuteczne uczestnictwo, na zasadzie równości, we wszystkich aspektach życia społecznego i rozwoju związanych z technologią.
 
-Dostępność powinna być brana pod uwagę w całym cyklu życia TIK: od koncepcji pomysłu, poprzez projektowanie, wytwarzanie, testowanie, opracowanie [ACR]../../terms/ACR) w oparciu o uznane w branży standardy, badania użytkowników, konserwację i starzenie się i wycofanie z eksploatacji. Należy opracować i stale rozwijać programy szkoleniowe, aby zapewnić niezbędne umiejętności w zakresie cyklu życia wytwarzania TIK.
+Dostępność powinna być brana pod uwagę w całym cyklu życia TIK: od koncepcji pomysłu, poprzez projektowanie, wytwarzanie, testowanie, opracowanie ACR w oparciu o uznane w branży standardy, badania użytkowników, konserwację i starzenie się i wycofanie z eksploatacji. Należy opracować i stale rozwijać programy szkoleniowe, aby zapewnić niezbędne umiejętności w zakresie cyklu życia wytwarzania TIK.
 
 #### 2.5.2.1 Jak ocenić poziom dojrzałości cyklu życia rozwoju TIK
 
@@ -342,13 +342,13 @@ Poziom **optymalny** osiąga się, gdy dowody wskazują, że:
 - specyfikacje projektowe obejmują wskazówki dotyczące dostępności, programiści konsekwentnie tworzą dostępne interfejsy użytkownika (UI), podczas wytwarzania przeprowadzane są ręczne i automatyczne testy dostępności, a automatyczne testy dostępności są włączane do procesów kompilacji ciągłej integracji/ciągłego dostarczania (CI/CD).
 - Zarządzanie wydaniami obejmuje bramki zapewniające jakość dostępności.
 - Wydania konserwacyjne są ponownie sprawdzane pod kątem dostępności.
-- [ACR]../../terms/ACR)\-y są w razie potrzeby aktualizowane i udostępniane.
+- ACR-y są w razie potrzeby aktualizowane i udostępniane.
 - Badania celowo poszukują i oceniają informacje od użytkowników z niepełnosprawnościami.
 - Szkolenia dotyczące cyklu życia technologii informacyjno-komunikacyjnych, odpowiednie do stanowiska każdej osoby, są wymagane, monitorowane i udoskonalane.
 
 #### 2.5.2.2 Punkty dowodowe dla wymiaru cyklu życia TIK
 
-[Punkty dowodowe](../../terms/punkt-dowodowy) cyklu życia TIK mogą obejmować między innymi:
+Punkty dowodowe cyklu życia TIK mogą obejmować między innymi:
 
 ##### 2.5.2.2.1 Badania użytkowników
 
@@ -376,7 +376,7 @@ Poziom **optymalny** osiąga się, gdy dowody wskazują, że:
   - Strony informacyjne
 - Listy kontrolne dostępności dla programistów
 - Spójne podejście do wdrażania cech dostępności w różnych produktach
-- Udokumentowany sposób klasyfikowania i ustalania priorytetów rozwiązywania problemów z dostępnością oraz reagowania na zgłaszane przez [klientów]../../terms/klient) opinie dotyczące dostępności.
+- Udokumentowany sposób klasyfikowania i ustalania priorytetów rozwiązywania problemów z dostępnością oraz reagowania na zgłaszane przez klientów opinie dotyczące dostępności.
 - Wymagania dotyczące dostępności są uwzględniane w kryteriach zatwierdzania przez cały cykl życia produktu
 
 
@@ -396,13 +396,13 @@ Poziom **optymalny** osiąga się, gdy dowody wskazują, że:
 - Udokumentowane etapy testowania i częstotliwość wprowadzania zmian w sposób zwinny, bez pełnego cyklu wydawniczego. Oto kilka przykładów:
   - Przegląd treści w przypadku aktualizacji stron internetowych
   - Przegląd treści w przypadku publikacji postów w mediach społecznościowych
-- [Raporty zgodności z dostępnością]../../terms/ACR) dla komercyjnych produktów gotowych do użycia (COTS) tworzone na końcowych etapach cyklu życia oprogramowania TIK.
+- Raporty zgodności z dostępnością dla komercyjnych produktów gotowych do użycia (COTS) tworzone na końcowych etapach cyklu życia oprogramowania TIK.
 
 
 
 ##### 2.5.2.2.6 Szkolenia z zakresu tworzenia TIK
 
-- Szkolenia z zakresu tworzenia i testowania TIK, wspierające punkty dowodowe tego wymiaru, aby budować i utrzymywać odpowiedne umiejętności oparte na rolach
+- Szkolenia z zakresu tworzenia i testowania TIK, wspierające punkty dowodowe tego wymiaru, aby budować i utrzymywać odpowiednie umiejętności oparte na rolach
 
 ##### 2.5.2.2.7 Cele i wskaźniki wymiarów
 
@@ -410,9 +410,9 @@ Poziom **optymalny** osiąga się, gdy dowody wskazują, że:
 
 ### 2.5.3 Wiedza i umiejętności
 
-Pracownicy wewnętrzni i zewnętrzni na wszystkich szczeblach [organizacji]../../terms/organizacja) powinien mieć wiedzę i umiejętności z zakresu dostępności, adekwatne do pełnionych przez nich ról. Wiedza i umiejętności z zakresu dostępności, adekwatne do stanowiska każdej osoby, pomagają pracownikom zrozumieć ich rolę w osiąganiu celów organizacji w zakresie dostępności.
+Pracownicy wewnętrzni i zewnętrzni na wszystkich szczeblach organizacji powinien mieć wiedzę i umiejętności z zakresu dostępności, adekwatne do pełnionych przez nich ról. Wiedza i umiejętności z zakresu dostępności, adekwatne do stanowiska każdej osoby, pomagają pracownikom zrozumieć ich rolę w osiąganiu celów organizacji w zakresie dostępności.
 
-Chociaż wymiar ten obejmuje [punkty dowodowe,](../../terms/punkt-dowodowy), które należy wdrożyć na poziomie organizacji, wiedza i umiejętności specyficzne dla każdego z pozostałych wymiarów powinny być uwzględnione w odpowiednich punktach dowodowych, w stosownych przypadkach.
+Chociaż wymiar ten obejmuje punkty dowodowe, które należy wdrożyć na poziomie organizacji, wiedza i umiejętności specyficzne dla każdego z pozostałych wymiarów powinny być uwzględnione w odpowiednich punktach dowodowych, w stosownych przypadkach.
 
 #### 2.5.3.1 Jak oceniać poziom dojrzałości wiedzy i umiejętności
 
@@ -456,7 +456,7 @@ Poziom **optymalny**  osiąga się, gdy dowody wskazują, że:
 
 #### 2.5.3.2 Punkty dowodowe
 
-[Punktami dowodowymi](../../terms/punkt-dowodowy) potwierdzającymi wiedzę i umiejętności mogą być między innymi:
+Punktami dowodowymi potwierdzającymi wiedzę i umiejętności mogą być między innymi:
 
 ##### 2.5.3.2.1 Ocena umiejętności w celu identyfikacji i rozwiązania luk
 
@@ -483,7 +483,7 @@ Zdolność organizacyjna może obejmować:
 
 ##### 2.5.3.2.3 Integracja wymiarów
 
-- Plany szkoleniowe i programy nauczania powinny być zintegrowane z [punktami dowodowymi](../../terms/punkt-dowodowy) dla każdego wymiaru.
+- Plany szkoleniowe i programy nauczania powinny być zintegrowane z punktami dowodowymi dla każdego wymiaru.
 
 ##### 2.5.3.2.4 Cele i wskaźniki wymiaru
 
@@ -493,7 +493,7 @@ Zdolność organizacyjna może obejmować:
 
 Kultura organizacyjna składa się ze wspólnych przekonań, wartości, polityk i procesów ustanowionych przez liderów, które ostatecznie kształtują postrzeganie, zachowania i zrozumienie pracowników.
 
-Aby wykazać dojrzałość kulturową w zakresie dostępności, wszystkie aspekty działania [organizacji](../../terms/organizacja), procesy i umiejętności powinny uwzględniać kwestie integracji osób z&nbsp;niepełnosprawnościami. Każdy w organizacji powinien rozumieć i&nbsp;być wrażliwy na znaczenie dostępności cyfrowej, w tym na swoją osobistą rolę i obowiązki w&nbsp;osiąganiu celów organizacji w&nbsp;zakresie dostępności. Dostępność powinna być integralną częścią różnorodności i&nbsp;integracji w organizacji, z&nbsp;wyraźnym uznaniem korzyści płynących z&nbsp;integracji osób z niepełnosprawnościami oraz wpływu dostępności cyfrowej na osoby z&nbsp;niepełnosprawnościami w celu ułatwienia dostępu do miejsc pracy, usług i&nbsp;innych aspektów życia.
+Aby wykazać dojrzałość kulturową w zakresie dostępności, wszystkie aspekty działania organizacji, procesy i umiejętności powinny uwzględniać kwestie integracji osób z&nbsp;niepełnosprawnościami. Każdy w organizacji powinien rozumieć i&nbsp;być wrażliwy na znaczenie dostępności cyfrowej, w tym na swoją osobistą rolę i obowiązki w&nbsp;osiąganiu celów organizacji w&nbsp;zakresie dostępności. Dostępność powinna być integralną częścią różnorodności i&nbsp;integracji w organizacji, z&nbsp;wyraźnym uznaniem korzyści płynących z&nbsp;integracji osób z niepełnosprawnościami oraz wpływu dostępności cyfrowej na osoby z&nbsp;niepełnosprawnościami w celu ułatwienia dostępu do miejsc pracy, usług i&nbsp;innych aspektów życia.
 
 #### 2.5.4.1 Jak ocenić poziom nadzoru i dojrzałości kulturowej
 
@@ -521,7 +521,7 @@ Poziom **integracji** osiąga się, gdy dowody wskazują, że:
 - Polityki dostępności są częściowo realizowane
 - Ustalono wskaźniki i wdrożono praktyki rekrutacyjne
 - Promowana jest różnorodność i włączenie społeczne, ale nie opracowano żadnego planu działania
-- Utworzono [społeczności praktyków](../../terms/spolecznosci_praktyków).
+- Utworzono społeczności praktyków.
 - Rozpoczęto szkolenia na temat wiedzy i umiejętności związanych z kulturą dostępności, odpowiednie do każdego stanowiska.
 
 Poziom **optymalny** osiąga się, gdy dowody wskazują, że:
@@ -533,7 +533,7 @@ Poziom **optymalny** osiąga się, gdy dowody wskazują, że:
 
 #### 2.5.4.2 Punkty dowodowe
 
-[Punkty dowodowe](../../terms/punkt-dowodowy) dotyczące kultury mogą obejmować między innymi:
+Punkty dowodowe dotyczące kultury mogą obejmować między innymi:
 
 ##### 2.5.4.2.1 Kultura organizacyjna integracji osób z niepełnosprawnościami
 
@@ -553,16 +553,16 @@ Poziom **optymalny** osiąga się, gdy dowody wskazują, że:
 - Strategia rozwoju obejmuje dostępność cyfrową.
 - Dostępność cyfrowa uwzględniona w podstawowych wartościach.
 - Dostępność cyfrowa uwzględniona w kodeksie postępowania.
-- Sskupienie się na dostępności cyfrowej w [społecznościach praktyków]../../terms/spolecznosci_praktykow)
-- Włączenie kryteriów dostępności cyfrowej do ocen efektywności pracowników/urzędników
+- Skupienie się na dostępności cyfrowej w społecznościach praktyków.
+- Włączenie kryteriów dostępności cyfrowej do ocen efektywności pracowników/urzędników.
 - Skuteczność programu dostępności cyfrowej jest monitorowana i ulepszana.
-- Badaniach satysfakcji pracowników obejmują dane dotyczące dostępności i niepełnosprawności
+- Badaniach satysfakcji pracowników obejmują dane dotyczące dostępności i niepełnosprawności.
 - Zdefiniowano proces akceptacji wyjątków/ryzyka obejmujący uzasadnienie, ograniczenia czasowe i zatwierdzenie przez kierownictwo w przypadku niedostępnych zasobów cyfrowych opracowanych, nabytych lub użytkowanych przez organizację.
 
 
 ##### 2.5.4.2.4 Szkolenie ogólne
 
-- Szkolenia związane z dostępnością w celu zdobycia i utrzymania odpowiednich umiejętności wspierających [punkty dowodowe](../../terms/punkt-dowodowy) tego [wymiaru]../../terms/wymiar-dostepnosci).
+- Szkolenia związane z dostępnością w celu zdobycia i utrzymania odpowiednich umiejętności wspierających Punkty dowodowe tego wymiaru.
 
 ##### 2.5.4.2.5 Cele i wskaźniki wymiarów
 
@@ -571,7 +571,7 @@ Poziom **optymalny** osiąga się, gdy dowody wskazują, że:
 
 ### 2.5.5 Pracownicy
 
-Wykwalifikowane osoby z niepełnosprawnościami powinny być zatrudniane na każdym szczeblu hierarchii [organizacji](../../terms/organizacja) (tj. na wszystkich stanowiskach, wszystkich szczeblach władzy i w każdym dziale), aby ich wyjątkowe spostrzeżenia i doświadczenia życiowe mogły lepiej służyć podejmowaniu decyzji.
+Wykwalifikowane osoby z niepełnosprawnościami powinny być zatrudniane na każdym szczeblu hierarchii organizacji (tj. na wszystkich stanowiskach, wszystkich szczeblach władzy i w każdym dziale), aby ich wyjątkowe spostrzeżenia i doświadczenia życiowe mogły lepiej służyć podejmowaniu decyzji.
 
 #### 2.5.5.1 Jak ocenić poziom dojrzałości wymiaru Pracownicy
 
@@ -613,7 +613,7 @@ Poziom **optymalny** osiąga się, gdy dowody wskazują, że:
 
 #### 2.5.5.2 Punkty dowodowe
 
-[Punkty dowodowe](../../terms/punkt-dowodowy) wymiaru Pracownicy mogą obejmować między innymi:
+Punkty dowodowe wymiaru Pracownicy mogą obejmować między innymi:
 
 ##### 2.5.5.2.1 Ukierunkowana rekrutacja
 
@@ -650,7 +650,7 @@ Poziom **optymalny** osiąga się, gdy dowody wskazują, że:
 
 ### 2.5.6 Zaopatrzenie
 
-Zaopatrzenie to strategiczny proces skoncentrowany na wyszukiwaniu i nabywaniu opłacalnych produktów potrzebnych [organizacji]../../terms/organizacja). Działania w ramach zakupów obejmują pozyskiwanie, negocjowanie i wybór towarów i usług.
+Zaopatrzenie to strategiczny proces skoncentrowany na wyszukiwaniu i nabywaniu opłacalnych produktów potrzebnych organizacji). Działania w ramach zakupów obejmują pozyskiwanie, negocjowanie i wybór towarów i usług.
 
 Większość zasobów TIK wykorzystywanych w organizacji jest wynikiem transakcji zakupowych i umów. Gdy kryteria dostępności zostaną włączone do procesów i zapisów umów dotyczących nabywania TIK, organizacja może być bardziej zdolna do zapewniania dostępnych produktów, usług i miejsc pracy.
 
@@ -682,11 +682,11 @@ Poziom **optymalizacji** osiąga się, gdy dowody wskazują, że:
 
 - Pełne i spójne wykorzystanie procesów dostępności, kryteriów, zapisów w umowach i podejmowania decyzji w celu pozyskiwania i utrzymywania dostępnych produktów i usług przez cały cykl życia zaopatrzenia.
 - Procesy zakupowe są regularnie przeglądane i udoskonalane w razie potrzeby.
-- Wymagane jest szkolenie w zakresie wiedzy i umiejętności dotyczących zzaopatrzenia w zakresie dostępności, odpowiednich do stanowiska każdej osoby, a poprawa sytuacji jest mierzona i monitorowana.
+- Wymagane jest szkolenie w zakresie wiedzy i umiejętności dotyczących zaopatrzenia w zakresie dostępności, odpowiednich do stanowiska każdej osoby, a poprawa sytuacji jest mierzona i monitorowana.
 
 #### 2.5.6.2 Punkty dowodowe
 
-[Punkty dowodowe](../../terms/punkt-dowodowy) wymiaru Zaopatrzenie mogą obejmować między innymi:
+Punkty dowodowe wymiaru Zaopatrzenie mogą obejmować między innymi:
 
 ##### 2.5.6.2.1 Dokumentacja polityki
 
@@ -705,7 +705,7 @@ Poziom **optymalizacji** osiąga się, gdy dowody wskazują, że:
 - Udokumentowana metodologia oceny dostępności.
 - Metodologia oceniania (punktacji) zgłoszeń.
 
-##### 2.5.6.2.4 Wymogi dotyczące zapiwów w umowach
+##### 2.5.6.2.4 Wymogi dotyczące zapisów w umowach
 
 - Wymóg dostarczenia przez dostawcę dowodów przeprowadzonych automatycznych i ręcznych testów dostępności.
 - Kryteria dostępności w cyklu tworzenia, integracji i rozwoju (dla usług deweloperskich).
@@ -770,7 +770,7 @@ Poziom **optymalny** osiąga się, gdy dowody wskazują, że:
 
 #### 2.5.7.2 Punkty dowodowe
 
-[Punkty dowodowe](../../terms/punkt-dowodowy) Wsparcia mogą obejmować między innymi:
+Punkty dowodowe Wsparcia mogą obejmować między innymi:
 
 ##### 2.5.7.2.1 Wsparcie dla pracowników
 
@@ -856,7 +856,7 @@ Aby pomóc Ci zacząć, wybraliśmy osiem przykładowych przypadków użycia, z 
 
 ### Pierwszy przypadek użycia
 
-Firma zajmująca się oprogramowaniem odpowiada na zapytanie ofertowe. Poproszono ją o wykazanie, że potrafi zachować dokładność i terminowość swoich [ACR]../../terms/ACR) i odświeżać je w razie potrzeby.
+Firma zajmująca się oprogramowaniem odpowiada na zapytanie ofertowe. Poproszono ją o wykazanie, że potrafi zachować dokładność i terminowość swoich ACR i odświeżać je w razie potrzeby.
 
 **Wymiary:**  
 Wiedza i umiejętności, cykl życia TIK i Pracownicy to kluczowe wymiary.  
@@ -891,7 +891,7 @@ Wiedza i umiejętności, cykl życia TIK i Pracownicy to kluczowe wymiary.
 
 ### Drugi przypadek użycia
 
-Agencja rządowa wydaje RFP. Chce poprosić potencjalnych respondentów o wykazanie, że potrafią zachować dokładność i aktualność swoich [ACR]../../terms/ACR) i odświeżać je w razie potrzeby.
+Agencja rządowa wydaje RFP. Chce poprosić potencjalnych respondentów o wykazanie, że potrafią zachować dokładność i aktualność swoich ACR i odświeżać je w razie potrzeby.
 
 **Wymiary:**  
 Wiedza i umiejętności, cykl życia TIK i personel to kluczowe wymiary.  
@@ -1058,7 +1058,7 @@ Wszystkie role w całej konkretnej jednostce biznesowej
 - Mary Jo Mueller (IBM)
 - Brian O'Day (Intel)
 - Susana Pallero (Invited Expert)
-- Ralp de Rooij (Community Group Member)
+- Ralph de Rooij (Community Group Member)
 - Janina Sajka (Invited Expert)
 - Lori Samuels (NBC Universal)
 - Stacey Swinehart Ganderson (Invited Expert)

@@ -90,7 +90,7 @@ Dokumentują przykłady działań, które przynoszą efekty i mogą być powtarz
 |--------------------------|-------------------------------------|----------------------|-------------------------------|-----------------|
 | **Projekty zaleceń**     | Ustalenie ram systemu zarządzania dostępnością cyfrową     | Normatywny, strategiczny, kierunkowy | **Co** podmioty powinny wdrożyć? | Zalecenie w sprawie dokumentów biurowych;<br /> Zalecenie dot. obsługi zgłoszeń;<br /> Zalecenie dot. klauzul dostępności |
 | **Rozwiązania systemowe**| Dostarczenie sposobów działania i narzędzi wdrożeniowych    | Operacyjny, praktyczny, wdrożeniowy  | **Jak** to zrobić?             | Wzory procedur;<br /> Rejestry;<br /> Listy kontrolne;<br /> Modele kompetencyjne;<br /> Mikropoświadczenia |
-| **Opisy praktyk**        | Pokazanie realnych przykładów skutecznych działań          | Dowodowy, inspiracyjny               | **Co faktycznie działa?**      | Dobre praktyki szkoły, OPS, bibliotki;<br /> opisy wdrożeń procesów; udane rozwiązania techniczne |
+| **Opisy praktyk**        | Pokazanie realnych przykładów skutecznych działań          | Dowodowy, inspiracyjny               | **Co faktycznie działa?**      | Dobre praktyki szkoły, OPS, biblioteki;<br /> opisy wdrożeń procesów; udane rozwiązania techniczne |
 
 ---
 

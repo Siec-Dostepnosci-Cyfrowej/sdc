@@ -2,6 +2,7 @@
   "label": "Podstawy testowania zgodności",
   "position": 3,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+	"description": "Podstawy testowania zgodności stanowią fundament wiarygodnej i porównywalnej oceny dostępności cyfrowej. Dezyderat wraz z załącznikami przedstawia koncepcję referencyjnej metodyki testowania zgodności produktów i usług cyfrowych z wymaganiami EN 301 549 i WCAG. Wspiera budowę wspólnego standardu prowadzenia przeglądów, monitoringu i audytów dostępności, a także jednolitych zasad dokumentowania wyników i interpretacji wymagań. Dzięki temu możliwe staje się bardziej spójne, przejrzyste i przewidywalne zarządzanie oceną dostępności cyfrowej w sektorze publicznym i na rynku usług audytorskich."
   }
 }

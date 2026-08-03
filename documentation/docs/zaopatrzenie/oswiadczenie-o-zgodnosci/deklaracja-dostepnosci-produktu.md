@@ -1,6 +1,6 @@
 ---
 id: deklaracja-dostepnosci-produktu
-title: Deklaracja dostawcy o dostepności o dostępności cyfrowej produktu lub usługi
+title: Deklaracja dostawcy o dostępności cyfrowej produktu lub usługi
 sidebar_label: Projekt zalecenia
 sidebar_position: 1 
 description: Organizacja powinna wymagać od dostawcy lub wykonawcy deklaracji dostępności produktu lub usługi podczas ich odbioru 

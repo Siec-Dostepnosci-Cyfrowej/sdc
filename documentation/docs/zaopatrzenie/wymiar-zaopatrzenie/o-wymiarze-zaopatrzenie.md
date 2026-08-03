@@ -11,7 +11,7 @@ wersja_robocza: true
 
 
 
-## 🟦 Wymiar Zaopatrzenie
+## ?? Wymiar Zaopatrzenie
 
 **(Zakupy, pozyskiwanie, zamówienia, umowy, odbiory - pod kątem zapewniania dostępności cyfrowej)**
 
@@ -149,7 +149,7 @@ Celem wymiaru **Zaopatrzenie** jest:
 - współpraca działów: zakupy, IT, prawnicy, komunikacja, merytoryczni.
 
 
-## 🟦 Zaopatrzenie - wersja uproszczona dla małych podmiotów publicznych
+## ?? Zaopatrzenie - wersja uproszczona dla małych podmiotów publicznych
 
 *(szkoły, biblioteki, domy kultury, OPS, OSiR, małe urzędy, jednostki organizacyjne gminy)*
 
@@ -246,7 +246,7 @@ W skrócie:
 <details>
 <summary>Wersja uproszczona dla dużych podmiotów publicznych</summary>
 
-## 🟦 Zaopatrzenie - wersja uproszczona dla dużych podmiotów publicznych
+## ?? Zaopatrzenie - wersja uproszczona dla dużych podmiotów publicznych
 
 **(Zakupy, pozyskiwanie, zamówienia, umowy, odbiory - pod kątem zapewniania dostępności cyfrowej)**
 
@@ -357,19 +357,19 @@ Cykl życia TIK dba o to, żeby pozostały dostępne podczas użytkowania.**
 
 ## Opis wymiaru
 
-[Wymiar](../../terms/wymiar-dostepnosci) **Zaopatrzenie** w [Modelu dojrzałości dostępności](../../o-sieci/projekt/mdd) obejmuje strategiczny proces skoncentrowany na znajdowaniu i&nbsp;nabywaniu przez organizację opłacalnych i&nbsp; potrzebnych organizacji produktów i&nbsp;usług z komponentem technologii i treści cyfrowych ([technologii informacyjno-komunikacyjnych](../../terms/technologia-informacyjno-komunikacyjna)). 
+Wymiar **Zaopatrzenie** w [Modelu dojrzałości dostępności](../../o-sieci/projekt/mdd) obejmuje strategiczny proces skoncentrowany na znajdowaniu i&nbsp;nabywaniu przez organizację opłacalnych i&nbsp; potrzebnych organizacji produktów i&nbsp;usług z komponentem technologii i treści cyfrowych (technologii informacyjno-komunikacyjnych). 
 
-Gdy do procesów i dokumentów dotyczących nabywania technologii i treści cyfrowych włączone są kryteria dostępności, organizacja może być bardziej zdolna do dostarczania dostępnych produktów, usług i miejsc pracy.​
+Gdy do procesów i dokumentów dotyczących nabywania technologii i treści cyfrowych włączone są kryteria dostępności, organizacja może być bardziej zdolna do dostarczania dostępnych produktów, usług i miejsc pracy.?
 
 :::info Definicja
 
-- **Dostępne cyfrowo zaopatrznie** oznacza uwzględniające [wymogi dostępności](../../terms/wymogi-dostepnosci) procesy znajdowania, wybierania, negocjowania, transakcji zakupowych i zawierania umów, w wyniku których organizacja osiąga zdolność tworzenia dostępnego środowiska pracy oraz zapewniania swoim klientom dostępnej cyfrowo komunikacji i usług.
+- **Dostępne cyfrowo zaopatrzenie** oznacza uwzględniające wymogi dostępności procesy znajdowania, wybierania, negocjowania, transakcji zakupowych i zawierania umów, w wyniku których organizacja osiąga zdolność tworzenia dostępnego środowiska pracy oraz zapewniania swoim klientom dostępnej cyfrowo komunikacji i usług.
 
 :::
 
 **Cel wymiaru Zaopatrzenie**: Organizacja nabywa technologie i treści cyfrowe oraz powiązane usługi, które spełniają wymogi określone w normach dostępności oraz są dostępne dla wszystkich tak, jak tylko jest to możliwe. 
 
-**Dojrzała dostępność cyfrowa organizacji** w wymiarze **Zaopatrzenie** wyraża się w pełnym i spójnym stosowaniu i&nbsp;egzekwowaniu [wymogów dostępności cyfrowej](../../terms/wymogi-dostepnosci) we wszystkich procesach pozyskiwania, w&nbsp;tym zakupów i&nbsp;wytwarzania produktów i usług z komponentem technologii informacyjno-komunikacyjnych. 
+**Dojrzała dostępność cyfrowa organizacji** w wymiarze **Zaopatrzenie** wyraża się w pełnym i spójnym stosowaniu i&nbsp;egzekwowaniu wymogów dostępności cyfrowej we wszystkich procesach pozyskiwania, w&nbsp;tym zakupów i&nbsp;wytwarzania produktów i usług z komponentem technologii informacyjno-komunikacyjnych. 
 
 
 ## Propozycje tematów zaleceń, rozwiązań i praktyk

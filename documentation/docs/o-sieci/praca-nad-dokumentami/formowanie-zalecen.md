@@ -232,7 +232,7 @@ W historii wersji odnotowujemy wszystkie etapy opracowania dokumentu:
 |--------|------|------|-------------|
 | 0.9 | [data] | Projekt roboczy | Pierwsza wersja opracowania |
 | 1.0-RC | [data] | Kandydat do przyjęcia | Wersja przedstawiona Sieci |
-| 1.1 | [data] | Aktualizcja| do akceptacji |
+| 1.1 | [data] | Aktualizacja| do akceptacji |
 
 ---
 

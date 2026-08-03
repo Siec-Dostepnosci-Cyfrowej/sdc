@@ -2,7 +2,7 @@
 id: z2-procedura-akredytacji-osrodkow-szkoleniowych
 title: Procedura akredytacji ośrodków szkoleniowych Centrum Kompetencji Dostępności Cyfrowej (CKDC)
 description: Projekt procedury akredytacji ośrodków szkoleniowych Centrum Kompetencji Dostępności Cyfrowej (CKDC)
-sidebar_label: Akredytacji ośrodków szkoleniowych
+sidebar_label: Akredytacja ośrodków szkoleniowych
 sidebar_position: 3
 keywords: [dostępność cyfrowa, mikropoświadczenie]
 tags: [dostępność cyfrowa, mikropoświadczenie]

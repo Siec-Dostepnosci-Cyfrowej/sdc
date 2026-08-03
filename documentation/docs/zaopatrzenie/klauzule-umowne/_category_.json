@@ -2,6 +2,7 @@
   "label": "Klauzule umowne",
   "position": 4,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+	"description": "Klauzule umowne dotyczące dostępności cyfrowej są jednym z podstawowych narzędzi zapewniania realizacji wymagań dostępności przez dostawców produktów i usług cyfrowych. Zalecenie wraz z zestawem załączników pomaga organizacjom publicznym dobierać i stosować postanowienia umowne dotyczące wymagań dostępności, sposobów ich weryfikacji, dokumentowania zgodności, usuwania niezgodności oraz odpowiedzialności wykonawców. Wspiera włączanie dostępności cyfrowej do procesów zakupowych i kontraktowych oraz tworzy podstawy do skutecznego nadzoru nad realizacją zobowiązań dostawców."
   }
 }
