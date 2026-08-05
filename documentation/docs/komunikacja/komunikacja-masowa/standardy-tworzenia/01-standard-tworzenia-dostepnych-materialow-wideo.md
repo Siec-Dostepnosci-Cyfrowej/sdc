@@ -62,4 +62,4 @@ Multimedia nadawane na żywo są wyłączone z obowiązku dostępności podczas 
 
 ## Powiązane dokumenty
 
-- [Minimalne wymagania dostępności](./minimalne-wymagania.md)
+- [Minimalne wymagania dostępności](../wymagania/minimalne-wymagania)

@@ -162,5 +162,5 @@ Tylko w takim ujęciu możliwe jest osiągnięcie trwałego i powtarzalnego pozi
 
 ## Powiązane dokumenty
 
-- [Dokumenty uzupełniające](./dokumenty-uzupelniajace-index.md)
-- [Efekty wdrożenia](./efekty-wdrozenia.md)
+- [Dokumenty uzupełniające](dokumenty-uzupelniajace-index)
+- [Efekty wdrożenia](efekty-wdrozenia)

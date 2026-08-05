@@ -3,7 +3,7 @@ id: komunikacja-masowa
 title: Standard publikacji dostępnych materiałów multimedialnych i treści cyfrowych
 description: Samodzielny standard publikacji dostępnych materiałów multimedialnych i treści cyfrowych.
 sidebar_label: Zalecenie
-sidebar_position: 5
+sidebar_position: 0
 keywords: [standard publikacji dostępnych materiałów multimedialnych i treści cyfrowych, dostępność cyfrowa, kontrola dostępności, publikacja, komunikacja, listy kontrolne]
 tags: [zalecenie, komunikacja, dostępność cyfrowa, kontrola]
 opracowanie: Bartłomiej Wilk

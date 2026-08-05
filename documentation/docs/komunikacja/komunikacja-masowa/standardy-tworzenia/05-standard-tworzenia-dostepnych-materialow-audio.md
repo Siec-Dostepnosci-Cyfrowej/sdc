@@ -72,4 +72,4 @@ Tytuł i opis nagrania powinny jasno wskazywać temat i kontekst.
 
 ## Powiązane dokumenty
 
-- [Minimalne wymagania dostępności](./minimalne-wymagania.md)
+- [Minimalne wymagania dostępności](../wymagania/minimalne-wymagania)

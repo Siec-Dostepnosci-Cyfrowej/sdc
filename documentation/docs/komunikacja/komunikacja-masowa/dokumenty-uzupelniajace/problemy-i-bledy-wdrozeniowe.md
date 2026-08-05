@@ -148,6 +148,6 @@ Katalog można wykorzystać jako:
 
 ## Powiązane dokumenty
 
-- [Problem i kontekst](./problem-i-kontekst.md)
-- [Minimalne wymagania dostępności](./minimalne-wymagania.md)
-- [Standard publikacji dostępnych materiałów multimedialnych i treści cyfrowych](./komunikacja-masowa-zalecenie.md)
+- [Problem i kontekst](problem-i-kontekst)
+- [Minimalne wymagania dostępności](../wymagania/minimalne-wymagania)
+- [Standard publikacji dostępnych materiałów multimedialnych i treści cyfrowych](../komunikacja-masowa-zalecenie)

@@ -3,7 +3,7 @@ id: dokumenty-uzupelniajace-index
 title: Dokumenty uzupełniające
 description: Materiały uzupełniające wspierające wdrożenie standardu publikacji dostępnych materiałów multimedialnych i treści cyfrowych.
 sidebar_label: Dokumenty uzupełniające
-sidebar_position: 14
+sidebar_position: 1
 keywords: [dostępność cyfrowa, multimedia, komunikacja, administracja publiczna]
 tags: [komunikacja, multimedia, dostępność cyfrowa]
 opracowanie: Bartłomiej Wilk
@@ -40,12 +40,12 @@ Dokumenty te mogą być wykorzystywane jako:
 
 W skład materiałów uzupełniających wchodzą:
 
-- [Problem i kontekst](./problem-i-kontekst.md)
-- [Problemy i błędy wdrożeniowe](./problemy-i-bledy-wdrozeniowe.md)
-- [Zasady projektowe](./zasady-projektowe.md)
-- [Powiązania systemowe](./powiazania-systemowe.md)
-- [Efekty wdrożenia](./efekty-wdrozenia.md)
-- [Słowniczek pojęć](./slowniczek-pojec.md)
+- [Problem i kontekst](problem-i-kontekst)
+- [Problemy i błędy wdrożeniowe](problemy-i-bledy-wdrozeniowe)
+- [Zasady projektowe](zasady-projektowe)
+- [Powiązania systemowe](powiazania-systemowe)
+- [Efekty wdrożenia](efekty-wdrozenia)
+- [Słowniczek pojęć](slowniczek-pojec)
 
 ## Relacja do pozostałych części pakietu
 

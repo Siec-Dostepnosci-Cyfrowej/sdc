@@ -54,5 +54,5 @@ W komunikatach o znaczeniu publicznym zaleca się ograniczanie tekstu osadzonego
 
 ## Powiązane dokumenty
 
-- [Minimalne wymagania dostępności](./minimalne-wymagania.md)
-- [Standard opisu alternatywnego i treści równoważnych](./03-standard-opisu-alternatywnego-i-tresci-rownowaznych.md)
+- [Minimalne wymagania dostępności](../wymagania/minimalne-wymagania)
+- [Standard opisu alternatywnego i treści równoważnych](03-standard-opisu-alternatywnego-i-tresci-rownowaznych)

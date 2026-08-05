@@ -49,7 +49,7 @@ Prosty język, hierarchia informacji i zasada jednego komunikatu są standardem 
 | Grafika informacyjna | Zapewniono opis alternatywny i równoważną treść tekstową poza obrazem. | obowiązkowe | Informacje z grafiki są dostępne bez obrazu. | Alt-text i tekst posta/strony. |
 | Treści dynamiczne | Brak błysków i migania przekraczających próg bezpieczeństwa WCAG. | obowiązkowe | Materiał nie zawiera błysków częstszych niż trzy razy na sekundę ani innych sekwencji niespełniających kryterium 2.3.1. | Kontrola materiału lub wynik narzędzia do analizy błysków. |
 | Odtwarzanie | Użytkownik może zatrzymać lub wstrzymać odtwarzanie. | warunkowe | Funkcja występuje tam, gdzie materiał jest odtwarzany automatycznie lub ciągle. | Ustawienia odtwarzacza/platformy. |
-| Komunikat | Zastosowano prosty język i logiczną hierarchię informacji. | zalecane | Kluczowa informacja jest zrozumiała bez dodatkowej interpretacji. | Ocena redakcyjna i checklista. |
+| Komunikat | Zastosowano prosty język i logiczną hierarchię informacji. | zalecane | Kluczowa informacja jest zrozumiała bez dodatkowej interpretacji. | Ocena redakcyjna i lista kontrolna. |
 
 ## Wymagania według typu materiału
 
@@ -75,7 +75,7 @@ Punkty obowiązkowe wskazują wymagania podstawowe, których spełnienie jest sp
 ## Dowody spełnienia wymagań
 
 Dowodem spełnienia wymagań mogą być w szczególności:
-- zapis checklisty,
+- zapis listy kontrolnej,
 - dostępne napisy lub transkrypcja,
 - wpis o alt-text i treści równoważnej,
 - potwierdzenie techniczne ustawień odtwarzacza,
@@ -97,8 +97,8 @@ Właściciel treści odpowiada za merytoryczną poprawność i kompletność mat
 
 ## Powiązane dokumenty
 
-- [Standard tworzenia dostępnych materiałów wideo](./01-standard-tworzenia-dostepnych-materialow-wideo.md)
-- [Standard tworzenia dostępnych grafik i materiałów wizualnych](./02-standard-tworzenia-dostepnych-grafik-i-materialow-wizualnych.md)
-- [Standard opisu alternatywnego i treści równoważnych](./03-standard-opisu-alternatywnego-i-tresci-rownowaznych.md)
-- [Standard struktury komunikatu i tworzenia treści](./04-standard-struktury-komunikatu-i-tworzenia-tresci.md)
-- [Standard tworzenia dostępnych materiałów audio](./05-standard-tworzenia-dostepnych-materialow-audio.md)
+- [Standard tworzenia dostępnych materiałów wideo](../standardy-tworzenia/01-standard-tworzenia-dostepnych-materialow-wideo)
+- [Standard tworzenia dostępnych grafik i materiałów wizualnych](./standardy-tworzenia/02-standard-tworzenia-dostepnych-grafik-i-materialow-wizualnych)
+- [Standard opisu alternatywnego i treści równoważnych](./standardy-tworzenia/03-standard-opisu-alternatywnego-i-tresci-rownowaznych)
+- [Standard struktury komunikatu i tworzenia treści](./standardy-tworzenia/04-standard-struktury-komunikatu-i-tworzenia-tresci)
+- [Standard tworzenia dostępnych materiałów audio](./standardy-tworzenia/05-standard-tworzenia-dostepnych-materialow-audio)

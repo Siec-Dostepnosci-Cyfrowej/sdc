@@ -34,8 +34,8 @@ Wymagania odpowiadają na pytanie:
 
 W skład dokumentów wchodzą:
 
-- [Minimalne wymagania dostępności](minimalne-wymagania.md)
-- [Uzasadnienie stosowania wymagań](uzasadnienie-stosowania.md)
+- [Minimalne wymagania dostępności](minimalne-wymagania)
+- [Uzasadnienie stosowania wymagań](uzasadnienie-stosowania)
 
 ## Zasada stosowania
 

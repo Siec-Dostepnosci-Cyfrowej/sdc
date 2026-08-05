@@ -150,6 +150,6 @@ Wprowadzenie spójnego standardu pozwala przejść od działań incydentalnych d
 
 ## Powiązane dokumenty
 
-- [Problemy i błędy wdrożeniowe](./problemy-i-bledy-wdrozeniowe.md)
-- [Zasady projektowe](./zasady-projektowe.md)
-- [Powiązania systemowe](./powiazania-systemowe.md)
+- [Problemy i błędy wdrożeniowe](problemy-i-bledy-wdrozeniowe)
+- [Zasady projektowe](zasady-projektowe)
+- [Powiązania systemowe](powiazania-systemowe)

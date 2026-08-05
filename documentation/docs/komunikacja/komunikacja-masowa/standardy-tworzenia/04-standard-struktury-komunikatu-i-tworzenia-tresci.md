@@ -53,4 +53,4 @@ Zaleca się zasadę jednego komunikatu głównego oraz układ: informacja najwa�
 
 ## Powiązane dokumenty
 
-- [Minimalne wymagania dostępności](./minimalne-wymagania.md)
+- [Minimalne wymagania dostępności](../wymagania/minimalne-wymagania)

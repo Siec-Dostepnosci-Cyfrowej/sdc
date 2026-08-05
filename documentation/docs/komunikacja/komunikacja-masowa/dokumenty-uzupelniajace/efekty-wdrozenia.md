@@ -143,6 +143,6 @@ Podstawowy poziom dostępności zostaje utrzymany, a kolejne działania mają ch
 
 ## Powiązane dokumenty
 
-- [Minimalne wymagania dostępności](./minimalne-wymagania.md)
-- [Standardy tworzenia dostępnych materiałów](./standardy-tworzenia-index.md)
-- [Zalecenie](./komunikacja-masowa-zalecenie.md) - role, decyzja publikacyjna, sytuacje wyjątkowe i listy kontrolne.
+- [Minimalne wymagania dostępności](../wymagania/minimalne-wymagania.md)
+- [Standardy tworzenia dostępnych materiałów](../standardy-tworzenia/standardy-tworzenia-index.md)
+- [Zalecenie](../komunikacja-masowa-zalecenie.md) - role, decyzja publikacyjna, sytuacje wyjątkowe i listy kontrolne.
