@@ -35,6 +35,8 @@ Rejestr powinien być prowadzony w sposób umożliwiający identyfikację właś
 
 ---
 
+
+  
 ## 3. Rekomendacje dotyczące wdrożenia
 
 1. **Określenie zakresu inwentaryzacji**  
