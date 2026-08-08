@@ -42,7 +42,7 @@ Organizacja określa wymagania dostępności cyfrowej dla nabywanych produktów 
    - usuwania zgłoszonych lub wykrytych problemów dostępności cyfrowej.
 4. Organizacja może określić dodatkowe wymagania dostępności cyfrowej wykraczające poza minimalne wymagania określone w EN 301 549, jeżeli jest to uzasadnione potrzebami użytkowników, charakterem nabywanego rozwiązania lub sposobem jego wykorzystania.
 5. Dodatkowe wymagania mogą obejmować w szczególności wybrane kryteria sukcesu WCAG na poziomie AAA oraz inne wymagania zwiększające dostępność, użyteczność lub komfort korzystania z rozwiązania przez osoby z niepełnosprawnościami.
-6. Organizacja określa wymagane dowody potwierdzające spełnienie wymagań dostępności cyfrowej odpowiednie do rodzaju zamówienia, charakteru nabywanego rozwiązania oraz etapu postępowania.
+6. Organizacja określa wymaganą formę dokumentacji dostepności rozwiązania oraz dowody potwierdzające spełnienie wymagań dostępności cyfrowej odpowiednie do rodzaju zamówienia, charakteru nabywanego rozwiązania oraz etapu postępowania.
 7. Organizacja określa sposób oceny informacji i dowodów przedstawionych przez oferentów na potwierdzenie spełnienia wymagań dostępności cyfrowej oraz zasady oceny kryteriów dodatkowych.
 8. Organizacja dokumentuje ocenę wiarygodności deklaracji oraz informacji i dowodów przedstawionych przez oferentów na potwierdzenie spełnienia wymagań dostępności cyfrowej.
 
