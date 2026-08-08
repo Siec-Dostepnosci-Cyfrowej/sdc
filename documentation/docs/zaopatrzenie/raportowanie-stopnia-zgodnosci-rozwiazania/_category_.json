@@ -1,0 +1,8 @@
+{
+  "label": "Raportowanie stopnia zgodności",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+	"description": "Zalecenie określa zasady przekazywania zamawiającemu rzetelnej wiedzy o stopniu zgodności rozwiązania z wymaganiami dostępności. Przedstawia rolę raportu stopnia zgodności jako podstawowego dokumentu komunikacji pomiędzy wykonawcą i zamawiającym oraz wskazuje zasady dokumentowania i uzasadniania ocen zgodności."
+  }
+}
