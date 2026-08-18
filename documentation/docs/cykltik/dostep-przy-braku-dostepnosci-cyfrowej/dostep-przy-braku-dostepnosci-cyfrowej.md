@@ -137,8 +137,11 @@ Zalecenie nie zmienia obowiązków wynikających z przepisów prawa ani nie zast
 
 ## Załączniki
 
-1. Procedura zapewniania dostępu alternatywnego.
-2. Wzory komunikatów informujących o dostępie alternatywnym.
-3. Rejestr niedostępnych treści i funkcjonalności.
-4. Karta doboru sposobu zapewnienia dostępu alternatywnego.
-5. Przykłady zapewniania dostępu alternatywnego do dokumentów, multimediów i usług cyfrowych.
+1. Katalog sposobów zapewniania dostępu
+2. Wzory komunikatów o sposobie zapewnienia dostępu
+3. Ewidencja przypadków niedostępności
+4. Karta doboru sposobu zapewnienia dostępu
+5. Przykłady zapewniania dostępu do informacji i usług
+6. Ocena nieproporcjonalnego obciążenia przy zapewnianiu dostępu
+7. Karta oceny nieproporcjonalnego obciążenia
+8. Zatwierdzanie zastosowania nieproporcjonalnego obciążenia
