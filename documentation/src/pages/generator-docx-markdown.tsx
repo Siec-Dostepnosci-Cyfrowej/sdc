@@ -2,6 +2,7 @@ import React, { useState, useEffect, ChangeEvent } from "react";
 import Layout from "@theme/Layout";
 import JSZip from "jszip";
 import mammoth from "mammoth";
+import type { MammothWithMarkdown } from "mammoth-markdown";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
@@ -89,7 +90,7 @@ export default function GeneratorDocxMarkdown() {
 
         try {
             const arrayBuffer = await file.arrayBuffer();
-            const result = await mammoth.convertToMarkdown({ arrayBuffer });
+            const result = await (mammoth as unknown as MammothWithMarkdown).convertToMarkdown({ arrayBuffer });
             const raw = result.value || "";
 
             setOriginalMarkdown(raw);
