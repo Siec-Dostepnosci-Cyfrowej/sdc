@@ -28,7 +28,7 @@
     "docusaurus-plugin-glossary": "^3.3.4",
     "dotenv": "17.4.2",
     "jszip": "3.10.1",
-    "lucide-react": "1.34.0",
+    "lucide-react": "1.37.0",
     "mammoth": "1.12.2",
     "prism-react-renderer": "2.4.1",
     "react": "19.2.8",
