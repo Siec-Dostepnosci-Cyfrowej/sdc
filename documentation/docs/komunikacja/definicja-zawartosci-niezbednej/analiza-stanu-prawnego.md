@@ -3,12 +3,12 @@ id: analiza-stanu-prawnego
 title: Analiza stanu prawnego dotyczącego pojęcia „zawartości niezbędnej do realizacji bieżących zadań podmiotu publicznego”
 sidebar_label: Analiza stanu prawnego
 sidebar_position: 2
-description: Analiza regulacji krajowych, unijnych i materiałów legislacyjnych dotyczących pojęcia zawartości niezbędnej do realizacji bieżących zadań podmiotu publicznego
+description: Analiza regulacji krajowych, unijnych i materiałów legislacyjnych dotyczących problemów interpretacyjnych związanych z pojęciem zawartości niezbędnej do realizacji bieżących zadań podmiotu publicznego
 keywords: [dostępność cyfrowa, dokumenty cyfrowe, analiza prawna, ustawa o dostępności cyfrowej, dyrektywa 2016/2102]
 tags: [dostępność cyfrowa, dokumenty cyfrowe, analiza prawna, legislacja]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 10 czerwca 2026 r.
-ostatnia_aktualizacja: 10 czerwca 2026 r.
+ostatnia_aktualizacja: 6 września 2026 r.
 wersja_robocza: true
 ---
 
@@ -18,7 +18,7 @@ wersja_robocza: true
 
 Celem opracowania jest przedstawienie analizy prawnej pojęcia „zawartości niezbędnej do realizacji bieżących zadań podmiotu publicznego”, którym posługuje się ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych w odniesieniu do dokumentów opublikowanych przed dniem 23 września 2018 r.
 
-Analiza stanowi zaplecze merytoryczne dla projektu dezyderatu dotyczącego rozważenia wprowadzenia definicji legalnej tego pojęcia. Jej funkcją nie jest powtórzenie argumentacji dezyderatu, lecz uporządkowanie podstaw prawnych, problemów interpretacyjnych oraz konsekwencji praktycznych wynikających z obecnego brzmienia regulacji.
+Analiza stanowi zaplecze merytoryczne dla projektu dezyderatu dotyczącego problemu interpretacji tego pojęcia i możliwych sposobów jego doprecyzowania. Jej funkcją nie jest przesądzenie, czy właściwym rozwiązaniem jest definicja legalna, lecz uporządkowanie podstaw prawnych, problemów interpretacyjnych, konsekwencji praktycznych oraz możliwych kierunków dalszych działań.
 
 Zakres badania obejmuje regulację krajową, regulację unijną, relację pomiędzy brzmieniem dyrektywy 2016/2102 a przepisem krajowym, dostępne informacje dotyczące materiałów legislacyjnych oraz występowanie definicji lub oficjalnych kryteriów interpretacyjnych. Analiza opiera się na informacjach ujętych w projekcie dezyderatu oraz na źródłach wskazanych w tym dokumencie.
 
@@ -128,9 +128,9 @@ Drugim problemem jest planowanie remediacji dokumentów. Podmioty publiczne musz
 
 Trzecim problemem jest przygotowywanie deklaracji dostępności. Deklaracja powinna odzwierciedlać rzeczywisty stan dostępności oraz zakres wyłączeń. Jeżeli podmiot publiczny nie ma jasnych kryteriów kwalifikowania dokumentów historycznych, może różnie prezentować zakres niedostępnych treści lub zakres wyłączeń.
 
-Czwartym problemem jest zarządzanie zasobami cyfrowymi. Dokumenty opublikowane wiele lat wcześniej mogą nadal pełnić funkcję operacyjną, informacyjną albo proceduralną. Bez definicji analizowanego pojęcia trudno stworzyć trwałe reguły inwentaryzacji, archiwizacji, oznaczania i aktualizowania dokumentów.
+Czwartym problemem jest zarządzanie zasobami cyfrowymi. Dokumenty opublikowane wiele lat wcześniej mogą nadal pełnić funkcję operacyjną, informacyjną albo proceduralną. Bez wspólnych kryteriów analizowanego pojęcia trudno stworzyć trwałe reguły inwentaryzacji, archiwizacji, oznaczania i aktualizowania dokumentów.
 
-Piątym problemem jest monitoring dostępności. Podmioty monitorujące powinny oceniać podobne stany faktyczne w podobny sposób. Brak definicji zwiększa ryzyko rozbieżnych ocen tego samego rodzaju dokumentów, zwłaszcza gdy dokumenty mają charakter regulaminów, formularzy, instrukcji, dokumentów strategicznych albo materiałów wykorzystywanych w procedurach.
+Piątym problemem jest monitoring dostępności. Podmioty monitorujące powinny oceniać podobne stany faktyczne w podobny sposób. Brak wspólnych kryteriów zwiększa ryzyko rozbieżnych ocen tego samego rodzaju dokumentów, zwłaszcza gdy dokumenty mają charakter regulaminów, formularzy, instrukcji, dokumentów strategicznych albo materiałów wykorzystywanych w procedurach.
 
 Szóstym problemem jest sytuacja użytkowników. Dokument uznany przez jeden podmiot za objęty obowiązkiem zapewnienia dostępności cyfrowej może zostać uznany przez inny podmiot za wyłączony. Taka rozbieżność wpływa na przewidywalność dostępu do informacji i usług publicznych.
 
@@ -144,6 +144,6 @@ Nie istnieją oficjalne kryteria interpretacyjne pozwalające w sposób jednolit
 
 Obecne brzmienie przepisu może powodować rozbieżności interpretacyjne. Wynika to z ocennego charakteru pojęć „zawartość”, „niezbędna” i „bieżące zadania” oraz z różnicy pomiędzy językiem dyrektywy, odwołującym się do aktywnych procedur administracyjnych, a językiem ustawy krajowej, odwołującym się do bieżących zadań podmiotu publicznego.
 
-Istnieją przesłanki uzasadniające rozważenie zmian legislacyjnych. Analizowane pojęcie wpływa bezpośrednio na zakres obowiązków ustawowych, a jego niejednolite stosowanie może oddziaływać na audyty, remediację dokumentów, deklaracje dostępności, zarządzanie zasobami cyfrowymi, monitoring dostępności oraz sytuację osób korzystających z informacji i usług publicznych.
+Istnieją przesłanki uzasadniające dalsze działania zmierzające do ograniczenia tych rozbieżności. Analizowane pojęcie wpływa bezpośrednio na zakres obowiązków ustawowych, a jego niejednolite stosowanie może oddziaływać na audyty, remediację dokumentów, deklaracje dostępności, zarządzanie zasobami cyfrowymi, monitoring dostępności oraz sytuację osób korzystających z informacji i usług publicznych.
 
-Wprowadzenie definicji legalnej lub równoważnych kryteriów ustawowych mogłoby ograniczyć zakres niepewności interpretacyjnej. Z perspektywy analizy prawnej szczególnie istotne byłoby powiązanie oceny niezbędności z rzeczywistą funkcją treści dokumentu, wykonywaniem zadań wynikających z przepisów prawa, prowadzeniem aktywnych procedur administracyjnych oraz realizacją praw i obowiązków wynikających z przepisów prawa.
+Na podstawie samej analizy nie należy przesądzać, że konieczna jest zmiana ustawy. Rozwiązaniem mogą być oficjalne wyjaśnienia, wytyczne, katalog przykładów lub kryteria interpretacyjne, a dopiero w przypadku ich niewystarczalności definicja legalna albo inne doprecyzowanie ustawowe. Wybór właściwego instrumentu wymaga dalszej oceny prawnej, w szczególności z uwzględnieniem relacji przepisu krajowego do art. 1 ust. 4 lit. a dyrektywy 2016/2102.
