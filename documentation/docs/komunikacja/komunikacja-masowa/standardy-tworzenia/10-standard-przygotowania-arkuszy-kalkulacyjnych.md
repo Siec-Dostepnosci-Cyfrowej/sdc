@@ -1,51 +1,247 @@
 ---
 id: 10-standard-przygotowania-arkuszy-kalkulacyjnych
 title: Standard przygotowania arkuszy kalkulacyjnych
-description: Zasady tworzenia dostępnych arkuszy kalkulacyjnych i zestawień danych.
-sidebar_label: Arkusze kalkulacyjne
+description: Standard określający zasady tworzenia i publikacji dostępnych arkuszy kalkulacyjnych.
+sidebar_label: Standard arkuszy kalkulacyjnych
 sidebar_position: 10
-keywords: [XLSX, arkusz kalkulacyjny, tabela danych, wykres, dostępność]
-tags: [arkusze, dokumenty, dostępność cyfrowa]
-opracowanie: Stefan Wajda
-wspolpraca: Bartłomiej Wilk
+keywords: [treści cyfrowe,komunikacja cyfrowa,dostępność cyfrowa,arkusze kalkulacyjne,Excel,Calc,dane,tabele]
+tags: [treści cyfrowe,komunikacja cyfrowa,dostępność cyfrowa,arkusze kalkulacyjne,Excel,Calc,dane,tabele]
+opracowanie: Bartłomiej Wilk
+wspolpraca: Stefan Wajda
+data_zgloszenia: 16 kwietnia 2026 r.
 ostatnia_aktualizacja: 6 września 2026 r.
 wersja_robocza: true
 ---
 
-## Cel
+## 1. Cel standardu
 
-Organizowanie danych w arkuszach tak, aby użytkownik mógł odnaleźć ich strukturę, znaczenie i zależności także przy użyciu technologii wspomagających.
+Standard określa zasady przygotowania arkuszy kalkulacyjnych w sposób zapewniający:
 
-## Zakres
+- dostępność cyfrową,
+- możliwość interpretacji danych przez technologie wspomagające,
+- czytelność i zrozumiałość danych,
+- poprawną organizację informacji,
+- możliwość dalszego przetwarzania i publikacji danych.
 
-Standard obejmuje arkusze XLSX, ODS i podobne pliki publikowane jako dane, zestawienia, formularze robocze lub załączniki.
+Standard wspiera organizację procesów przygotowania i publikacji danych cyfrowych oraz realizację wymagań dostępności cyfrowej.
 
-## Wymagania i zasady przygotowania
+---
 
-- Każdemu arkuszowi nadaj zrozumiałą nazwę; unikaj domyślnych nazw bez znaczenia.
-- Rozpoczynaj dane w przewidywalnym miejscu i ograniczaj puste wiersze oraz kolumny używane wyłącznie do wizualnego formatowania.
-- Stosuj jednoznaczne nagłówki kolumn i, gdy potrzebne, wierszy.
-- Unikaj scalonych komórek w obszarach danych, jeśli utrudniają określenie relacji między nagłówkiem a wartością.
-- Nie przekazuj znaczenia wyłącznie kolorem, ikoną lub formatowaniem warunkowym; zapewnij tekstową informację równoważną.
-- Wykresom i wizualizacjom zapewniaj tytuły oraz opis danych lub wniosków potrzebnych do zrozumienia informacji.
-- Linki i komentarze formułuj jednoznacznie.
-- Zadbaj o czytelny kontrast oraz rozsądne formatowanie liczb, dat i jednostek.
-- Usuń zbędne lub ukryte dane, które mogą wprowadzać odbiorcę w błąd, o ile nie są potrzebne do działania arkusza.
-- Korzystaj z funkcji sprawdzania dostępności programu, jeżeli jest dostępna, ale uzupełnij ją oceną struktury i sposobu odczytu danych.
+## 2. Zakres stosowania
 
-## Zalecany sposób realizacji
+Standard stosuje się do arkuszy kalkulacyjnych przygotowywanych lub publikowanych przez organizację, w szczególności:
 
-Dla złożonych arkuszy dodaj na początku krótki opis zawartości, używanych arkuszy, jednostek i sposobu interpretacji danych. Rozważ udostępnienie danych także w prostszym formacie, jeżeli użytkownik nie potrzebuje funkcji arkusza.
+- zestawień danych,
+- raportów,
+- analiz,
+- harmonogramów,
+- wykazów,
+- formularzy tabelarycznych,
+- arkuszy publikowanych w formatach XLSX, ODS lub równoważnych,
+- arkuszy przeznaczonych do eksportu do PDF lub publikacji na stronach internetowych.
 
-## Najczęstsze błędy
+Standard ma zastosowanie niezależnie od:
+- sposobu publikacji,
+- wykorzystywanego oprogramowania,
+- kanału udostępnienia danych.
 
-- nieopisane arkusze „Arkusz1”, „Arkusz2”,
-- wiele pustych wierszy i kolumn przed danymi,
-- scalone komórki w tabelach danych,
-- kolor jako jedyne oznaczenie statusu,
-- wykres bez opisu,
-- niezrozumiałe skróty i jednostki.
+---
 
-## Powiązane standardy
+## 3. Zasady ogólne
 
-- [Standard tworzenia treści cyfrowych](./01-standard-tworzenia-tresci-cyfrowych)
+Arkusz kalkulacyjny powinien być przygotowany w sposób umożliwiający:
+- interpretację danych przez użytkowników i technologie wspomagające,
+- logiczne odczytywanie struktury danych,
+- łatwe wyszukiwanie informacji,
+- poprawny eksport i dalsze wykorzystanie danych.
+
+Dostępność arkusza powinna być uwzględniana na etapie jego tworzenia.
+
+Arkusz nie powinien pełnić wyłącznie funkcji wizualnej prezentacji danych.
+
+Układ danych powinien wynikać ze struktury informacji, a nie wyłącznie z formatowania wizualnego.
+
+---
+
+## 4. Struktura arkusza
+
+Arkusz powinien posiadać:
+- logiczną organizację danych,
+- czytelną strukturę tabel,
+- jednoznacznie oznaczone sekcje i zakresy danych.
+
+W szczególności należy:
+- stosować nazwy arkuszy wskazujące ich zawartość,
+- grupować powiązane dane,
+- oddzielać dane od elementów pomocniczych,
+- zachowywać spójny układ informacji.
+
+Nie należy:
+- tworzyć przypadkowego układu danych,
+- mieszać wielu niezależnych zestawów danych bez wyraźnego rozdzielenia,
+- wykorzystywać arkusza wyłącznie jako powierzchni graficznej.
+
+---
+
+## 5. Tabele i organizacja danych
+
+Dane powinny być organizowane w formie logicznych tabel.
+
+W szczególności należy:
+- stosować nagłówki kolumn i wierszy,
+- zachowywać jednolitą strukturę danych,
+- unikać pustych wierszy i kolumn rozdzielających dane,
+- zapewniać jednoznaczność wartości.
+
+Nagłówki powinny:
+- jasno określać znaczenie danych,
+- być zrozumiałe poza kontekstem wizualnym,
+- wspierać interpretację danych przez technologie wspomagające.
+
+Nie należy:
+- scalać komórek utrudniających interpretację tabel,
+- budować układu tabel za pomocą pustych komórek,
+- tworzyć nadmiernie skomplikowanych struktur bez uzasadnienia.
+
+---
+
+## 6. Czytelność i formatowanie
+
+Formatowanie arkusza powinno wspierać czytelność danych.
+
+W szczególności należy:
+- stosować odpowiedni kontrast,
+- zapewniać czytelne oznaczenia danych,
+- ograniczać nadmierną liczbę kolorów i efektów wizualnych,
+- zachowywać spójność formatowania.
+
+Nie należy:
+- przekazywać informacji wyłącznie kolorem,
+- stosować nadmiernie dekoracyjnych efektów,
+- wykorzystywać formatowania utrudniającego interpretację danych.
+
+Układ arkusza powinien pozostawać czytelny również:
+- po powiększeniu,
+- na urządzeniach mobilnych,
+- przy wykorzystaniu technologii wspomagających.
+
+---
+
+## 7. Formuły i obliczenia
+
+Formuły i mechanizmy obliczeniowe powinny być:
+- przewidywalne,
+- spójne,
+- możliwe do zrozumienia przez użytkownika.
+
+W szczególności należy:
+- stosować jednoznaczne oznaczenia,
+- unikać ukrywania kluczowych obliczeń bez uzasadnienia,
+- zapewniać poprawność zależności między danymi.
+
+W przypadku arkuszy przeznaczonych do publicznego wykorzystania zaleca się:
+- wyjaśnianie znaczenia wskaźników i obliczeń,
+- ograniczanie zbędnej złożoności.
+
+---
+
+## 8. Wykresy i elementy wizualne
+
+Wykresy i elementy wizualne powinny:
+- wspierać interpretację danych,
+- posiadać odpowiednie opisy,
+- być możliwe do zrozumienia bez interpretacji wyłącznie wizualnej.
+
+W szczególności należy:
+- opisywać osie i legendy,
+- zapewniać odpowiedni kontrast,
+- unikać przekazywania informacji wyłącznie kolorem,
+- zapewniać treść równoważną dla istotnych wykresów.
+
+Wykres nie powinien być jedynym źródłem kluczowych informacji.
+
+---
+
+## 9. Nawigacja i orientacja użytkownika
+
+Arkusz powinien umożliwiać użytkownikowi:
+- łatwe odnalezienie danych,
+- rozpoznanie struktury arkusza,
+- interpretację zależności między informacjami.
+
+W szczególności należy:
+- ograniczać nadmierną liczbę arkuszy,
+- stosować spójne nazewnictwo,
+- zachowywać logiczną kolejność arkuszy.
+
+W przypadku rozbudowanych plików zaleca się:
+- dodanie arkusza informacyjnego,
+- opisanie struktury dokumentu,
+- wskazanie sposobu korzystania z danych.
+
+---
+
+## 10. Formularze i pola edycyjne
+
+Jeżeli arkusz zawiera pola przeznaczone do wypełniania przez użytkownika, należy:
+- jednoznacznie oznaczać pola edycyjne,
+- wskazywać sposób uzupełnienia danych,
+- unikać ukrytych zależności utrudniających korzystanie z arkusza.
+
+Instrukcje dla użytkownika powinny być:
+- zrozumiałe,
+- dostępne w treści arkusza,
+- możliwe do interpretacji przez technologie wspomagające.
+
+---
+
+## 11. Eksport i publikacja arkusza
+
+Arkusz powinien być przygotowany w sposób umożliwiający:
+- poprawne udostępnienie użytkownikom,
+- eksport do innych formatów,
+- dalsze przetwarzanie danych bez utraty ich struktury.
+
+Przed publikacją należy:
+- sprawdzić strukturę danych,
+- zweryfikować czytelność arkusza,
+- sprawdzić poprawność wykresów i opisów,
+- przeprowadzić kontrolę jakości dokumentu.
+
+Eksport arkusza nie powinien prowadzić do utraty:
+- struktury danych,
+- opisów,
+- logicznej organizacji informacji,
+- elementów dostępności.
+
+---
+
+## 12. Weryfikacja przed publikacją
+
+Przed publikacją należy zweryfikować:
+
+- strukturę tabel,
+- poprawność nagłówków,
+- czytelność danych,
+- obecność opisów dla elementów wizualnych,
+- logiczną organizację arkusza,
+- zgodność arkusza z wymaganiami dostępności cyfrowej.
+
+Weryfikacja może być wspierana przez:
+- listy kontrolne,
+- mechanizmy sprawdzania dostępności,
+- procedury kontroli jakości,
+- przegląd redakcyjny i techniczny.
+
+---
+
+## 13. Postanowienia końcowe
+
+Standard stanowi element systemu zarządzania dokumentami cyfrowymi i komunikacją cyfrową organizacji.
+
+Standard powinien być:
+- stosowany przy przygotowaniu arkuszy kalkulacyjnych,
+- uwzględniany w działaniach szkoleniowych i kontrolnych,
+- wykorzystywany przy opracowywaniu szablonów i procedur organizacyjnych.
+
+Stosowanie standardu wspiera dostępność cyfrową, jakość danych oraz równy dostęp użytkowników do informacji publikowanych przez organizację.

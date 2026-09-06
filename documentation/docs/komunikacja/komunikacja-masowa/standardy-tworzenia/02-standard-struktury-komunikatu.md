@@ -1,49 +1,245 @@
 ---
 id: 02-standard-struktury-komunikatu
 title: Standard struktury komunikatu
-description: Zasady organizowania informacji w zrozumiałe i możliwe do szybkiego odczytania komunikaty.
-sidebar_label: Struktura komunikatu
+description: Standard określający zasady budowy i organizacji komunikatów publikowanych w kanałach cyfrowych.
+sidebar_label: Standard struktury komunikatu
 sidebar_position: 2
-keywords: [struktura komunikatu, hierarchia informacji, komunikacja, dostępność]
-tags: [treści, komunikacja, dostępność cyfrowa]
-opracowanie: Stefan Wajda
-wspolpraca: Bartłomiej Wilk, Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
+keywords: [treści cyfrowe,komunikacja cyfrowa,prosty język,dostępność cyfrowa,publikacja treści,hierarchia informacji,struktura komunikatu]
+tags: [treści cyfrowe,komunikacja cyfrowa,prosty język,dostępność cyfrowa,publikacja treści,hierarchia informacji,struktura komunikatu]
+opracowanie: Bartłomiej Wilk
+wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska, Stefan Wajda
+data_zgloszenia: 16 kwietnia 2026 r.
 ostatnia_aktualizacja: 6 września 2026 r.
 wersja_robocza: true
 ---
 
-## Cel
+## 1. Cel standardu
 
-Ustalenie sposobu budowania komunikatów, w których odbiorca może szybko ustalić, czego dotyczy informacja, kogo dotyczy i jakie działanie powinien podjąć.
+Standard określa zasady budowy komunikatów publikowanych w kanałach cyfrowych organizacji.
 
-## Zakres
+Celem standardu jest zapewnienie, aby komunikaty były:
 
-Standard stosuje się do komunikatów urzędowych, aktualności, ogłoszeń, informacji organizacyjnych, opisów usług, postów i innych komunikatów publikowanych cyfrowo.
+- czytelne,
+- zrozumiałe,
+- logicznie uporządkowane,
+- dostępne dla różnych użytkowników,
+- spójne niezależnie od kanału publikacji.
 
-## Wymagania i zasady przygotowania
+Standard wspiera organizację procesów komunikacji cyfrowej oraz realizację wymagań dostępności cyfrowej.
 
-- Umieszczaj najważniejszą informację na początku komunikatu, jeżeli charakter treści na to pozwala.
-- Oddziel informację główną od tła, uzasadnienia i szczegółów pomocniczych.
-- Porządkuj treść zgodnie z kolejnością działań, które ma wykonać odbiorca.
-- Podawaj jednoznacznie terminy, miejsca, warunki, wymagane dokumenty i dane kontaktowe, jeśli są potrzebne do działania.
-- Nie ukrywaj informacji kluczowej wyłącznie w załączniku, grafice, filmie lub materiale audio.
-- Jeżeli komunikat dotyczy kilku odrębnych spraw, rozdziel je na sekcje albo osobne komunikaty, gdy zwiększa to zrozumiałość.
-- Stosuj nagłówki i listy tam, gdzie wspierają orientację w treści.
-- Wezwania do działania i linki formułuj jednoznacznie.
+---
 
-## Zalecany sposób realizacji
+## 2. Zakres stosowania
 
-Przed publikacją odpowiedz z perspektywy odbiorcy na cztery pytania: co się dzieje, kogo to dotyczy, co mam zrobić i do kiedy. Następnie sprawdź, czy odpowiedzi da się znaleźć bez czytania całego tła sprawy.
+Standard stosuje się do komunikatów publikowanych lub przekazywanych w postaci cyfrowej, w szczególności:
 
-## Najczęstsze błędy
+- informacji publikowanych na stronach internetowych,
+- komunikatów publikowanych w BIP,
+- komunikatów publikowanych w mediach społecznościowych,
+- treści dokumentów cyfrowych,
+- opisów materiałów multimedialnych,
+- komunikatów elektronicznych,
+- formularzy i powiadomień cyfrowych.
 
-- rozpoczęcie komunikatu od długiego tła zamiast od informacji najważniejszej,
-- brak jednoznacznego wskazania terminu lub działania,
-- kilka niezależnych tematów w jednym bloku tekstu,
-- kluczowe informacje dostępne tylko na plakacie lub w załączniku,
-- wezwania do działania bez jasnego celu.
+Standard ma zastosowanie niezależnie od:
+- formy publikacji,
+- kanału komunikacji,
+- rodzaju materiału.
 
-## Powiązane standardy
+---
 
-- [Standard tworzenia treści cyfrowych](./01-standard-tworzenia-tresci-cyfrowych)
-- [Standard publikacji w mediach społecznościowych](./03-standard-publikacji-w-mediach-spolecznosciowych)
+## 3. Zasada podstawowa
+
+Komunikat powinien umożliwiać użytkownikowi szybkie zrozumienie:
+
+- czego dotyczy informacja,
+- jakie informacje są najważniejsze,
+- jakie działania powinien podjąć użytkownik,
+- gdzie można uzyskać dodatkowe informacje.
+
+Struktura komunikatu powinna ograniczać konieczność interpretacji, domyślania się znaczenia lub wyszukiwania kluczowych informacji w różnych częściach materiału.
+
+---
+
+## 4. Hierarchia informacji
+
+Komunikat powinien posiadać wyraźną hierarchię informacji.
+
+Najważniejsze informacje należy przekazywać:
+- na początku komunikatu,
+- w nagłówkach,
+- w wyróżnionych sekcjach.
+
+Kolejne części komunikatu powinny:
+- rozwijać główną informację,
+- uzupełniać szczegóły,
+- wyjaśniać kontekst lub procedury.
+
+Nie należy:
+- ukrywać kluczowych informacji w końcowych częściach treści,
+- rozpoczynać komunikatu od informacji drugorzędnych,
+- przeciążać początku komunikatu nadmiarem szczegółów.
+
+---
+
+## 5. Struktura komunikatu
+
+Komunikat powinien posiadać logiczną i przewidywalną strukturę.
+
+W szczególności należy stosować:
+
+- tytuł,
+- wprowadzenie,
+- rozwinięcie,
+- informacje uzupełniające,
+- dane kontaktowe lub informacje o dalszych działaniach — jeżeli są potrzebne.
+
+W przypadku dłuższych treści należy stosować:
+- nagłówki sekcji,
+- podział na części,
+- listy,
+- wyróżnienia wspierające orientację użytkownika.
+
+---
+
+## 6. Tytuły i nagłówki
+
+Tytuł powinien jednoznacznie wskazywać:
+- temat komunikatu,
+- jego cel,
+- zakres informacji.
+
+Nagłówki powinny:
+- odpowiadać rzeczywistej treści sekcji,
+- odzwierciedlać strukturę informacji,
+- wspierać nawigację użytkownika.
+
+Nie należy stosować:
+- tytułów ogólnych lub niejednoznacznych,
+- nagłówków o charakterze marketingowym,
+- nagłówków niewskazujących treści sekcji.
+
+---
+
+## 7. Kompletność komunikatu
+
+Komunikat powinien zawierać wszystkie informacje niezbędne do realizacji jego celu.
+
+W szczególności należy zapewnić informacje dotyczące:
+- przedmiotu komunikatu,
+- miejsca i czasu,
+- wymaganych działań,
+- sposobu kontaktu,
+- terminów,
+- warunków lub ograniczeń — jeżeli występują.
+
+Kluczowe informacje nie powinny być przekazywane wyłącznie:
+- w grafice,
+- w materiale wideo,
+- w załączniku,
+- w materiale zewnętrznym.
+
+---
+
+## 8. Kolejność informacji
+
+Informacje powinny być prezentowane w kolejności odpowiadającej potrzebom użytkownika.
+
+W szczególności:
+- najważniejsze informacje należy przekazywać najwcześniej,
+- działania użytkownika należy przedstawiać krok po kroku,
+- informacje szczegółowe należy oddzielać od głównego przekazu.
+
+W komunikatach instruktażowych należy stosować kolejność zgodną z przebiegiem działania użytkownika.
+
+---
+
+## 9. Zwięzłość i ograniczenie przeciążenia informacyjnego
+
+Komunikat powinien być możliwie prosty i zwięzły.
+
+Należy:
+- ograniczać nadmiar informacji,
+- usuwać treści niezwiązane z celem komunikatu,
+- unikać wielokrotnego powtarzania tych samych informacji.
+
+W jednym komunikacie należy koncentrować się na jednym głównym celu lub zagadnieniu.
+
+Jeżeli zakres informacji jest bardzo szeroki, należy:
+- podzielić komunikat na sekcje,
+- rozdzielić treści na osobne materiały,
+- stosować materiały uzupełniające.
+
+---
+
+## 10. Spójność komunikacji
+
+Komunikaty publikowane przez organizację powinny być spójne pod względem:
+
+- struktury,
+- sposobu prezentacji informacji,
+- nazewnictwa,
+- sposobu formułowania komunikatów,
+- stosowanych oznaczeń i wyróżnień.
+
+Podobne rodzaje komunikatów powinny wykorzystywać podobny układ informacji.
+
+---
+
+## 11. Komunikaty wielokanałowe
+
+W przypadku publikacji tego samego komunikatu w różnych kanałach organizacja zapewnia:
+
+- spójność głównego przekazu,
+- zgodność najważniejszych informacji,
+- dostosowanie formy komunikatu do danego kanału publikacji.
+
+Skrócenie komunikatu w określonym kanale nie powinno prowadzić do pominięcia kluczowych informacji.
+
+---
+
+## 12. Komunikaty krytyczne i pilne
+
+Komunikaty dotyczące:
+- bezpieczeństwa,
+- zagrożeń,
+- zmian organizacyjnych,
+- terminów,
+- obowiązków użytkowników
+
+powinny posiadać szczególnie przejrzystą strukturę.
+
+W takich komunikatach należy:
+- ograniczać informacje drugorzędne,
+- wyraźnie wskazywać działania wymagane od użytkownika,
+- wyróżniać terminy i informacje krytyczne.
+
+---
+
+## 13. Weryfikacja komunikatu przed publikacją
+
+Przed publikacją należy zweryfikować:
+
+- logiczną strukturę komunikatu,
+- kompletność informacji,
+- zgodność tytułów i nagłówków z treścią,
+- zrozumiałość komunikatu,
+- zgodność z zasadami dostępności cyfrowej.
+
+Weryfikacja może być wspierana przez:
+- listy kontrolne,
+- procedury kontroli jakości,
+- przegląd redakcyjny.
+
+---
+
+## 14. Postanowienia końcowe
+
+Standard stanowi element systemu zarządzania komunikacją cyfrową i publikacją treści.
+
+Standard powinien być:
+- stosowany w codziennej pracy organizacji,
+- wykorzystywany przy przygotowaniu komunikatów w różnych kanałach publikacji,
+- uwzględniany w działaniach szkoleniowych i kontrolnych.
+
+Stosowanie standardu wspiera dostępność cyfrową, jakość komunikacji oraz skuteczność przekazywania informacji.

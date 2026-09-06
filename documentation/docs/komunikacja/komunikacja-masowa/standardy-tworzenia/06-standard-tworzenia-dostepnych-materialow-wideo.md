@@ -1,52 +1,241 @@
 ---
 id: 06-standard-tworzenia-dostepnych-materialow-wideo
 title: Standard tworzenia dostępnych materiałów wideo
-description: Zasady przygotowania dostępnych nagranych i publikowanych materiałów wideo.
-sidebar_label: Wideo
+description: Standard określający zasady przygotowania i publikacji dostępnych materiałów wideo.
+sidebar_label: Standard materiałów wideo
 sidebar_position: 6
-keywords: [wideo, napisy, audiodeskrypcja, multimedia, dostępność]
-tags: [wideo, multimedia, dostępność cyfrowa]
+keywords: [treści cyfrowe,komunikacja cyfrowa,dostępność cyfrowa,wideo, multimedia,napisy rozszerzone,audiodeskrypcja]
+tags: [treści cyfrowe,komunikacja cyfrowa,dostępność cyfrowa,wideo, multimedia,napisy rozszerzone,audiodeskrypcja]
 opracowanie: Bartłomiej Wilk
-wspolpraca: Stefan Wajda, Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
+wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska, Stefan Wajda
+data_zgloszenia: 16 kwietnia 2026 r.
 ostatnia_aktualizacja: 6 września 2026 r.
 wersja_robocza: true
 ---
 
-## Cel
+## 1. Cel standardu
 
-Zapewnienie odbioru materiałów wideo osobom, które nie słyszą ścieżki dźwiękowej, nie widzą obrazu albo korzystają z materiału w innych warunkach odbioru.
+Standard określa zasady przygotowania i publikacji materiałów wideo w sposób zapewniający:
 
-## Zakres
+- dostępność cyfrową,
+- możliwość odbioru treści przez różnych użytkowników,
+- równoważność przekazu niezależnie od sposobu percepcji,
+- czytelność i zrozumiałość materiału,
+- spójność komunikacji organizacji.
 
-Standard dotyczy materiałów wideo publikowanych na stronach internetowych, w BIP, mediach społecznościowych i na platformach zewnętrznych.
+Standard wspiera organizację procesów komunikacji cyfrowej oraz realizację wymagań dostępności cyfrowej.
 
-## Wymagania i zasady przygotowania
+---
 
-- Zapewniaj napisy dla nagranych materiałów wideo z dźwiękiem zgodnie z wymaganiami właściwymi dla publikacji.
-- Napisy powinny obejmować istotne wypowiedzi i dźwięki, być poprawne merytorycznie i zsynchronizowane z nagraniem.
-- Automatycznie wygenerowane napisy traktuj wyłącznie jako materiał roboczy; przed publikacją wymagają korekty treści, synchronizacji, interpunkcji i informacji o istotnych dźwiękach.
-- Dla nagranego wideo z dźwiękiem uwzględniaj wymagania dotyczące dostępu do istotnych informacji wizualnych, w tym audiodeskrypcji. Jeżeli wszystkie istotne informacje wizualne są już przekazane w głównej ścieżce dźwiękowej, dodatkowy opis nie jest potrzebny.
-- Jeżeli stosujesz pełną alternatywę tekstową dla medium w zakresie dopuszczonym przez właściwe wymaganie, powinna ona przekazywać informacje równoważne z materiałem.
-- Materiał nie może zawierać błysków lub migania przekraczających próg bezpieczeństwa określony przez WCAG.
-- Zapewniaj możliwość sterowania odtwarzaniem w zakresie wymaganym przez sposób osadzenia i zachowanie odtwarzacza.
-- Tytuł i opis powinny pozwalać zrozumieć temat materiału przed jego uruchomieniem.
+## 2. Zakres stosowania
 
-## Transmisje na żywo i ich nagrania
+Standard stosuje się do materiałów wideo publikowanych lub wykorzystywanych przez organizację, w szczególności:
 
-Sposób stosowania wymagań do transmisji na żywo i później udostępnianych nagrań należy ustalać zgodnie z obowiązującymi przepisami. Jeżeli przepisy określają termin dostosowania opublikowanego nagrania, standard organizacji powinien ten termin jednoznacznie wskazywać i uwzględniać w procesie publikacji.
+- materiałów informacyjnych,
+- materiałów edukacyjnych,
+- nagrań wydarzeń,
+- webinariów,
+- transmisji na żywo,
+- materiałów publikowanych w mediach społecznościowych,
+- materiałów promocyjnych,
+- instruktaży i prezentacji.
 
-## Zalecany sposób realizacji
+Standard ma zastosowanie niezależnie od:
+- kanału publikacji,
+- platformy publikacyjnej,
+- sposobu dystrybucji materiału.
 
-Napisy zamknięte są preferowane, gdy platforma pozwala użytkownikowi nimi sterować. Napisy otwarte mogą być stosowane, gdy są jedynym skutecznym sposobem zapewnienia napisów. W przypadku tekstu osadzonego na stałe w obrazie zadbaj o czytelność i kontrast.
+---
 
-## Najczęstsze błędy
+## 3. Zasady ogólne
 
-- napisy automatyczne bez korekty,
-- pominięcie wypowiedzi albo istotnych dźwięków,
-- brak dostępu do informacji widocznych wyłącznie na planszach lub wykresach,
-- mylenie transkrypcji z audiodeskrypcją,
-- migające materiały niesprawdzone pod kątem bezpieczeństwa.
+Dostępność materiału wideo powinna być uwzględniana na etapie:
+- planowania,
+- scenariusza,
+- nagrania,
+- montażu,
+- publikacji.
 
-## Powiązane standardy
+Elementy dostępności nie powinny być traktowane jako działania wykonywane wyłącznie po zakończeniu produkcji materiału.
 
-- [Standard opisów alternatywnych i treści równoważnych](./05-standard-opisow-alternatywnych-i-tresci-rownowaznych)
+Materiał wideo powinien umożliwiać:
+- odbiór informacji bez dźwięku,
+- odbiór informacji bez obrazu,
+- zrozumienie przekazu przez użytkowników korzystających z technologii wspomagających.
+
+Kluczowe informacje nie powinny być przekazywane wyłącznie:
+- obrazem,
+- dźwiękiem,
+- kolorem,
+- tekstem osadzonym wyłącznie w obrazie.
+
+---
+
+## 4. Struktura i organizacja materiału
+
+Materiał wideo powinien posiadać:
+- czytelną strukturę,
+- logiczną kolejność informacji,
+- przewidywalny przebieg komunikatu.
+
+Najważniejsze informacje powinny być przekazywane:
+- na początku materiału,
+- w sposób wyraźny,
+- z wykorzystaniem różnych form przekazu.
+
+W dłuższych materiałach należy:
+- stosować podział na sekcje lub rozdziały,
+- wyraźnie oddzielać poszczególne części materiału,
+- wspierać orientację użytkownika.
+
+---
+
+## 5. Napisy rozszerzone
+
+Materiały wideo zawierające dźwięk powinny posiadać napisy rozszerzone obejmujące całą istotną ścieżkę dźwiękową.
+
+Napisy rozszerzone powinny:
+- być zgodne z treścią wypowiedzi,
+- uwzględniać istotne dźwięki i informacje audio,
+- być zsynchronizowane z obrazem,
+- być czytelne niezależnie od tła,
+- umożliwiać spokojne przeczytanie treści.
+
+Napisy rozszerzone powinny uwzględniać:
+- identyfikację mówców — jeżeli ma to znaczenie dla odbioru,
+- informacje o istotnych dźwiękach,
+- zmiany języka wypowiedzi — jeżeli występują.
+
+Napisy generowane automatycznie wymagają weryfikacji i korekty przed publikacją. Korekta powinna obejmować co najmniej treść wypowiedzi, synchronizację, interpunkcję, identyfikację mówców oraz informacje o istotnych dźwiękach.
+
+---
+
+## 6. Treści równoważne i audiodeskrypcja
+
+Materiał wideo powinien posiadać odpowiednią treść równoważną umożliwiającą odbiór informacji bez obrazu.
+
+W zależności od charakteru materiału należy zapewnić:
+- transkrypcję,
+- opis istotnych elementów wizualnych,
+- audiodeskrypcję,
+- równoważną alternatywę tekstową.
+
+Treści równoważne powinny:
+- przekazywać sens materiału,
+- uwzględniać informacje istotne dla zrozumienia przekazu,
+- umożliwiać odbiór treści bez konieczności oglądania materiału.
+
+Przy doborze formy dostępu do informacji wizualnych należy rozróżniać wymagania WCAG dla poszczególnych poziomów zgodności. Dla nagranego materiału wideo z dźwiękiem kryterium 1.2.3 na poziomie A dopuszcza audiodeskrypcję albo pełną alternatywę tekstową dla medium, natomiast kryterium 1.2.5 na poziomie AA wymaga audiodeskrypcji, gdy istotne informacje wizualne nie wynikają z głównej ścieżki dźwiękowej. Jeżeli wszystkie istotne informacje wizualne są już przekazane w głównej ścieżce dźwiękowej, dodatkowa audiodeskrypcja nie jest potrzebna.
+
+---
+
+## 7. Czytelność wizualna
+
+Elementy wizualne materiału powinny być czytelne na różnych urządzeniach.
+
+W szczególności należy:
+- zapewniać odpowiedni kontrast,
+- stosować czytelne kroje pisma,
+- ograniczać liczbę jednocześnie prezentowanych informacji,
+- zapewniać odpowiednią wielkość tekstu.
+
+Należy unikać:
+- zbyt małego tekstu,
+- przeładowanych plansz,
+- nadmiernej liczby elementów dekoracyjnych,
+- prezentowania istotnych informacji wyłącznie kolorem.
+
+Materiały powinny pozostawać czytelne również na urządzeniach mobilnych.
+
+---
+
+## 8. Dźwięk i sposób przekazywania treści
+
+Nagranie powinno zapewniać dobrą jakość dźwięku.
+
+W szczególności należy:
+- zapewniać wyraźną i zrozumiałą mowę,
+- ograniczać zakłócenia i szumy,
+- unikać zagłuszania wypowiedzi muzyką lub efektami dźwiękowymi,
+- dostosowywać tempo wypowiedzi do możliwości odbioru treści.
+
+Treść mówiona powinna:
+- być jednoznaczna,
+- mieć logiczną strukturę,
+- wspierać zrozumienie komunikatu.
+
+---
+
+## 9. Elementy dynamiczne i bezpieczeństwo
+
+Materiały wideo nie powinny zawierać:
+- elementów migających,
+- gwałtownych zmian obrazu,
+- efektów utrudniających odbiór treści.
+
+Animacje i przejścia powinny:
+- wspierać komunikat,
+- nie powodować dezorientacji użytkownika,
+- nie utrudniać odczytu informacji.
+
+Należy ograniczać elementy mogące powodować dyskomfort lub przeciążenie poznawcze. Materiał nie może zawierać błysków lub migania przekraczających próg bezpieczeństwa określony w WCAG.
+
+---
+
+## 10. Odtwarzanie i sterowanie
+
+Materiał wideo powinien być publikowany w sposób umożliwiający użytkownikowi:
+- zatrzymanie materiału,
+- wstrzymanie odtwarzania,
+- wznowienie odtwarzania,
+- kontrolę głośności — jeżeli jest dostępna.
+
+Materiały nie powinny uruchamiać się automatycznie z dźwiękiem.
+
+Odtwarzacz powinien wspierać wymagania dostępności cyfrowej.
+
+---
+
+## 11. Publikacja materiału
+
+Publikacja materiału powinna obejmować:
+- przypisanie napisów,
+- udostępnienie treści równoważnych,
+- przygotowanie opisu materiału,
+- zapewnienie poprawnego działania materiału po publikacji.
+
+Opis materiału powinien:
+- jasno wskazywać temat materiału,
+- umożliwiać identyfikację treści,
+- zawierać informacje o dostępnych alternatywach — jeżeli są wymagane.
+
+---
+
+## 12. Weryfikacja przed publikacją
+
+Przed publikacją należy zweryfikować:
+
+- obecność napisów,
+- poprawność synchronizacji napisów,
+- kompletność treści równoważnych,
+- czytelność materiału,
+- jakość dźwięku,
+- zgodność materiału z wymaganiami dostępności cyfrowej.
+
+Weryfikacja może być wspierana przez:
+- listy kontrolne,
+- procedury kontroli jakości,
+- przegląd redakcyjny i techniczny.
+
+---
+
+## 13. Postanowienia końcowe
+
+Standard stanowi element systemu zarządzania komunikacją cyfrową i publikacją treści.
+
+Standard powinien być:
+- stosowany przy przygotowaniu materiałów wideo,
+- uwzględniany w działaniach szkoleniowych i kontrolnych,
+- wykorzystywany przy opracowywaniu procedur i wzorów organizacyjnych.
+
+Stosowanie standardu wspiera dostępność cyfrową, jakość komunikacji oraz równy dostęp użytkowników do informacji publikowanych przez organizację.

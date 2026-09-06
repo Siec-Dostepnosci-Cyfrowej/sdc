@@ -1,107 +1,240 @@
 ---
 id: komunikacja-masowa
-title: Wewnętrzne standardy tworzenia dostępnych treści cyfrowych
-description: Zalecenie dotyczące opracowania, stosowania i utrzymywania wewnętrznych standardów tworzenia dostępnych treści cyfrowych.
+title: Zarządzanie standardami tworzenia i publikacji treści cyfrowych
+description: Zalecenie określające zasady ustanawiania, utrzymywania i stosowania standardów tworzenia oraz publikacji treści cyfrowych.
 sidebar_label: Zalecenie
 sidebar_position: 0
-keywords: [dostępność cyfrowa, standardy wewnętrzne, treści cyfrowe, multimedia, dokumenty]
-tags: [zalecenie, komunikacja, dostępność cyfrowa, standardy]
-opracowanie: Bartłomiej Wilk
-wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska, Stefan Wajda
-data_zgloszenia: 30 kwietnia 2026 r.
+keywords: [standardy treści, standardy dostępności, komunikacja cyfrowa,publikacja treści,dostępność cyfrowa,zarządzanie informacją,komunikacja publiczna,zarządzanie jakością]
+tags: [standardy treści, standardy dostępności, komunikacja cyfrowa,publikacja treści,dostępność cyfrowa,zarządzanie informacją,komunikacja publiczna,zarządzanie jakością]
+opracowanie: Stefan Wajda, Bartłomiej Wilk
+data_zgloszenia: 10 maja 2026 r.
 ostatnia_aktualizacja: 6 września 2026 r.
 wersja_robocza: true
 ---
 
-## Cel zalecenia
+## 1. Cel zalecenia
 
-Celem zalecenia jest zapewnienie, aby treści cyfrowe tworzone i publikowane przez podmiot publiczny były przygotowywane według spójnych, wewnętrznych standardów, które przekładają wymagania prawa, norm technicznych i dobrych praktyk na konkretne zasady codziennej pracy.
+Celem zalecenia jest zapewnienie, aby organizacja ustanawiała, utrzymywała, aktualizowała i stosowała standardy tworzenia oraz publikacji treści cyfrowych wspierające:
 
-Standardy mają ułatwiać osobom tworzącym, modyfikującym i publikującym treści wybór właściwego sposobu przygotowania materiału bez konieczności każdorazowego interpretowania ogólnych wymagań WCAG, normy EN 301 549 lub przepisów prawa.
+- zapewnianie dostępności cyfrowej,
+- spójność komunikacji,
+- jakość publikowanych materiałów,
+- powtarzalność działań,
+- ograniczenie błędów organizacyjnych i technicznych,
+- skuteczne zarządzanie procesami komunikacji cyfrowej.
 
-## Zalecenie
+Zalecenie obejmuje standardy dotyczące dokumentów cyfrowych, treści internetowych, materiałów multimedialnych, grafik, komunikacji w mediach społecznościowych oraz innych treści publikowanych w kanałach cyfrowych organizacji.
 
-Podmiot publiczny opracowuje, ustanawia, stosuje i aktualizuje zbiór wewnętrznych standardów tworzenia dostępnych treści cyfrowych, obejmujący rodzaje materiałów wykorzystywanych w jego komunikacji cyfrowej.
+---
 
-## Rekomendacje
+## 2. Zalecenie
 
-### 1. Utworzenie zbioru standardów
+Organizacja ustanawia, utrzymuje i stosuje standardy tworzenia, publikacji oraz aktualizacji treści cyfrowych, które wspierają realizację wymagań dostępności cyfrowej, zapewniają spójność komunikacji oraz stanowią element organizacji procesów komunikacji cyfrowej i kontroli jakości publikowanych materiałów.
 
-Podmiot publiczny opracowuje własny zbiór standardów albo dostosowuje do swoich potrzeb wzorcowy zestaw opracowany przez właściwy organ lub zaufaną instytucję.
+---
 
-Zbiór powinien obejmować wszystkie rodzaje materiałów faktycznie wykorzystywanych przez podmiot. W szczególności należy uwzględnić treści tekstowe, strukturę komunikatu, media społecznościowe, grafiki, opisy alternatywne, wideo, audio, dokumenty tekstowe, prezentacje, arkusze kalkulacyjne i dokumenty PDF.
+## 3. Rekomendacje
 
-Standardy powinny stosować jednolitą terminologię i podobną strukturę, aby osoby korzystające z nich mogły łatwo odnaleźć wymagania, sposób realizacji i typowe błędy.
+### 3.1. Organizacja ustanawia standardy tworzenia i publikacji treści
 
-### 2. Stosowanie standardów
+Organizacja określa standardy dotyczące przygotowania, publikacji i aktualizacji treści cyfrowych wykorzystywanych w komunikacji organizacji.
 
-Podmiot publiczny zapewnia stosowanie standardów podczas tworzenia, modyfikowania i publikowania treści cyfrowych, odpowiednio do rodzaju materiału i kanału publikacji.
+Standardy obejmują w szczególności:
 
-Standardy stanowią praktyczny punkt odniesienia dla osób przygotowujących treści oraz dla procesów kontroli jakości. Nie zastępują obowiązujących przepisów, norm ani oceny eksperckiej w sytuacjach wymagających specjalistycznej wiedzy.
+- strukturę i sposób przygotowania treści,
+- wymagania dotyczące dostępności,
+- zasady publikacji materiałów,
+- zasady tworzenia materiałów multimedialnych,
+- zasady tworzenia dokumentów cyfrowych,
+- zasady przygotowania grafik i materiałów wizualnych,
+- zasady stosowania opisów alternatywnych,
+- wymagania dotyczące jakości komunikacji.
 
-Podmiot zapewnia osobom stosującym standardy odpowiednie kompetencje, materiały pomocnicze, wzory i narzędzia. Standardy powinny być uwzględniane również we wdrażaniu nowych pracowników i współpracowników.
+Standardy powinny być dostosowane do rodzajów treści wykorzystywanych przez organizację.
 
-### 3. Powiązanie z procesami i kontrolą jakości
+---
 
-Standardy są powiązane z procedurami, szablonami, narzędziami autorskimi i procesami publikacji stosowanymi przez podmiot publiczny.
+### 3.2. Organizacja integruje standardy z procesami komunikacji cyfrowej
 
-Kontrola dostępności przed publikacją może wykorzystywać standardy jako podstawę do budowania list kontrolnych i innych narzędzi weryfikacyjnych. Szczegółowy sposób organizacji kontroli, decyzji publikacyjnej i postępowania wyjątkowego powinien być regulowany w odrębnych rozwiązaniach procesowych, a nie w standardach tworzenia treści.
+Standardy stanowią element organizacji procesów komunikacji cyfrowej i publikacji treści.
 
-### 4. Zarządzanie zbiorem standardów
+Organizacja zapewnia, aby:
 
-Podmiot publiczny określa odpowiedzialność za opracowywanie, zatwierdzanie, publikowanie, aktualizowanie i wycofywanie standardów oraz za rozstrzyganie wątpliwości dotyczących ich stosowania.
+- standardy były stosowane na etapie przygotowania materiałów,
+- proces publikacji obejmował weryfikację zgodności materiałów ze standardami,
+- standardy były powiązane z procedurami kontroli jakości,
+- standardy wspierały realizację wymagań dostępności cyfrowej.
 
-Standardy są okresowo przeglądane i aktualizowane w szczególności w związku ze:
+Standardy powinny być wykorzystywane we wszystkich kanałach komunikacji cyfrowej organizacji.
 
-- zmianami przepisów prawa i norm technicznych,
-- zmianami technologii oraz narzędzi używanych do tworzenia i publikacji treści,
-- zmianami sposobu komunikacji podmiotu,
-- wynikami kontroli jakości i monitorowania dostępności,
-- powtarzającymi się problemami ujawnionymi w praktyce,
-- informacjami i zgłoszeniami użytkowników.
+---
 
-Zmiany standardów powinny być dokumentowane w sposób pozwalający ustalić ich aktualną wersję i zakres obowiązywania.
+### 3.3. Organizacja określa sposób stosowania standardów
 
-## Uzasadnienie
+Organizacja określa:
 
-Przepisy prawa, WCAG i EN 301 549 określają wymagania dostępności, ale nie rozwiązują wszystkich pytań pojawiających się podczas codziennego przygotowywania treści. Pracownik potrzebuje praktycznej odpowiedzi m.in. na pytania, jak przygotować napisy, opis alternatywny, dokument PDF, prezentację, arkusz albo post w mediach społecznościowych.
+- zakres obowiązywania standardów,
+- role i odpowiedzialność związane z ich stosowaniem,
+- sposób dokumentowania odstępstw i wyjątków,
+- zasady aktualizacji standardów,
+- sposób udostępniania standardów pracownikom i współpracownikom.
 
-Wewnętrzne standardy wypełniają tę lukę. Ujednolicają sposób działania, ograniczają liczbę błędów i zmniejszają zależność jakości publikacji od indywidualnej wiedzy pojedynczych pracowników. Ułatwiają także szkolenia, wdrażanie nowych osób, kontrolę jakości oraz aktualizację zasad po zmianach prawa i technologii.
+Standardy powinny być dostępne dla wszystkich osób uczestniczących w procesach przygotowania i publikacji treści.
 
-Standardy są elementem systemu zarządzania dostępnością, ale nie zastępują procedur organizacyjnych. Określają przede wszystkim **jak przygotować dany rodzaj materiału**, podczas gdy odrębne procedury powinny określać **jak organizacja planuje, kontroluje, zatwierdza i publikuje treści**.
+---
 
-## Podstawy prawne i normatywne
+### 3.4. Organizacja zapewnia aktualizację i rozwój standardów
 
-- ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych,
-- dyrektywa Parlamentu Europejskiego i Rady (UE) 2016/2102,
-- EN 301 549 Accessibility requirements for ICT products and services,
-- Web Content Accessibility Guidelines (WCAG) w wersji właściwej dla obowiązujących wymagań prawnych.
+Organizacja monitoruje skuteczność stosowanych standardów oraz aktualizuje je w przypadku:
 
-## Źródła i opracowania
+- zmian przepisów prawa,
+- zmian standardów technicznych,
+- zmian wykorzystywanych narzędzi i technologii,
+- identyfikacji powtarzających się problemów,
+- zmian organizacji procesów komunikacyjnych.
 
-1. W3C WAI, Web Content Accessibility Guidelines (WCAG).
-2. W3C WAI, materiały dotyczące tworzenia dostępnych treści i multimediów.
-3. ETSI, EN 301 549 Accessibility requirements for ICT products and services.
-4. Materiały opracowane w ramach Sieci Dostępności Cyfrowej.
+Aktualizacja standardów powinna uwzględniać doświadczenia użytkowników oraz wyniki kontroli jakości i monitorowania dostępności.
 
-## Standardy stanowiące pakiet wzorcowy
+---
 
-- [Standard tworzenia treści cyfrowych](./standardy-tworzenia/01-standard-tworzenia-tresci-cyfrowych)
-- [Standard struktury komunikatu](./standardy-tworzenia/02-standard-struktury-komunikatu)
-- [Standard publikacji w mediach społecznościowych](./standardy-tworzenia/03-standard-publikacji-w-mediach-spolecznosciowych)
-- [Standard tworzenia dostępnych grafik i materiałów wizualnych](./standardy-tworzenia/04-standard-tworzenia-dostepnych-grafik-i-materialow-wizualnych)
-- [Standard opisów alternatywnych i treści równoważnych](./standardy-tworzenia/05-standard-opisow-alternatywnych-i-tresci-rownowaznych)
-- [Standard tworzenia dostępnych materiałów wideo](./standardy-tworzenia/06-standard-tworzenia-dostepnych-materialow-wideo)
-- [Standard tworzenia dostępnych materiałów audio](./standardy-tworzenia/07-standard-tworzenia-materialow-audio)
-- [Standard przygotowania dokumentów tekstowych](./standardy-tworzenia/08-standard-przygotowania-dokumentow-tekstowych)
-- [Standard przygotowania prezentacji](./standardy-tworzenia/09-standard-przygotowania-prezentacji)
-- [Standard przygotowania arkuszy kalkulacyjnych](./standardy-tworzenia/10-standard-przygotowania-arkuszy-kalkulacyjnych)
-- [Standard przygotowania dokumentów PDF](./standardy-tworzenia/11-standard-przygotowania-dokumentow-pdf)
+### 3.5. Organizacja zapewnia spójność standardów
 
-## Historia wersji
+Organizacja zapewnia spójność standardów stosowanych w różnych obszarach komunikacji cyfrowej.
 
-| Data | Zmiana |
-|---|---|
-| 30.04.2026 | Zgłoszenie projektu zalecenia. |
-| 03.08.2026 | Uporządkowanie dotychczasowego pakietu standardów i wymagań. |
-| 06.09.2026 | Przebudowanie zalecenia wokół zarządzania zbiorem wewnętrznych standardów i rozszerzenie zestawu do 11 standardów. |
+W szczególności organizacja zapewnia spójność pomiędzy:
+
+- standardami dokumentów cyfrowych,
+- standardami publikacji internetowych,
+- standardami materiałów multimedialnych,
+- standardami komunikacji w mediach społecznościowych,
+- procedurami kontroli jakości,
+- zasadami dostępności cyfrowej.
+
+---
+
+### 3.6. Organizacja zapewnia rozwój kompetencji związanych ze standardami
+
+Organizacja zapewnia przygotowanie osób uczestniczących w procesach komunikacji cyfrowej do stosowania obowiązujących standardów.
+
+W szczególności organizacja:
+
+- prowadzi działania szkoleniowe,
+- udostępnia instrukcje, wzory i materiały pomocnicze,
+- wspiera rozwój kompetencji związanych z przygotowaniem dostępnych treści,
+- uwzględnia standardy w procesach wdrażania nowych pracowników i współpracowników.
+
+---
+
+### 3.7. Organizacja wykorzystuje standardy w kontroli jakości
+
+Standardy stanowią podstawę:
+
+- weryfikacji materiałów przed publikacją,
+- działań kontrolnych,
+- monitorowania jakości komunikacji cyfrowej,
+- identyfikacji błędów i działań naprawczych.
+
+Organizacja wykorzystuje listy kontrolne oraz inne narzędzia wspierające ocenę zgodności materiałów ze standardami.
+
+---
+
+### 3.8. Organizacja dostosowuje sposób stosowania standardów do swojej struktury i możliwości
+
+Organizacja dostosowuje sposób zarządzania standardami do:
+
+- wielkości podmiotu,
+- liczby publikowanych materiałów,
+- wykorzystywanych kanałów komunikacji,
+- dostępnych zasobów organizacyjnych i technicznych.
+
+W szczególności:
+
+- duże organizacje mogą ustanawiać i rozwijać własne standardy wewnętrzne,
+- małe organizacje mogą stosować gotowe standardy, wzory i materiały opracowane zewnętrznie.
+
+Uproszczenie sposobu wdrożenia nie powinno prowadzić do pomijania podstawowych wymagań dostępności cyfrowej i jakości komunikacji.
+
+---
+
+## 4. Uzasadnienie
+
+W praktyce działania wielu organizacji przygotowanie i publikacja treści cyfrowych odbywają się w sposób niespójny i zależny od indywidualnych praktyk poszczególnych osób lub zespołów.
+
+Brak jednolitych standardów prowadzi między innymi do:
+
+- powstawania barier dostępności,
+- niespójności komunikacji,
+- trudności w utrzymaniu jakości publikowanych materiałów,
+- zwiększenia liczby błędów,
+- konieczności późniejszych działań naprawczych,
+- uznaniowości w stosowaniu wymagań dostępności.
+
+Wprowadzenie i utrzymywanie standardów:
+
+- wspiera organizację procesów komunikacji cyfrowej,
+- zwiększa przewidywalność i powtarzalność działań,
+- ułatwia kontrolę jakości,
+- wspiera rozwój kompetencji pracowników,
+- ogranicza ryzyko publikacji materiałów niespełniających wymagań dostępności.
+
+Standardy stanowią narzędzie organizacyjne wspierające zarządzanie jakością komunikacji cyfrowej oraz realizację wymagań dostępności cyfrowej.
+
+---
+
+## 5. Powiązanie z innymi zaleceniami
+
+Zalecenie jest powiązane w szczególności z dokumentami dotyczącymi:
+
+- organizacji procesów komunikacji cyfrowej i publikacji treści,
+- zapewniania dostępności cyfrowej dokumentów,
+- kontroli dostępności przed publikacją,
+- zarządzania dostępnością cyfrową w organizacji,
+- rozwoju kompetencji związanych z dostępnością cyfrową.
+
+---
+
+## 6. Podstawy prawne
+
+1. Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
+2. Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami.
+3. Norma EN 301 549 Accessibility requirements for ICT products and services.
+4. Wytyczne WCAG jako podstawa oceny dostępności treści cyfrowych.
+5. Dyrektywa Parlamentu Europejskiego i Rady (UE) 2019/882 (Europejski Akt o Dostępności).
+
+---
+
+## 7. Źródła i opracowania
+
+1. W3C WAI, *Web Content Accessibility Guidelines (WCAG)*  
+2. W3C WAI, *Accessibility Maturity Model*  
+3. EN 301 549 Accessibility requirements for ICT products and services  
+4. W3C WAI, *Planning and Managing Web Accessibility*  
+5. WebAIM, *Accessibility Principles and Techniques*
+
+---
+
+## 8. Załączniki
+
+### Standardy komunikacji cyfrowej
+
+1. Standard tworzenia treści cyfrowych  
+2. Standard struktury komunikatu  
+3. Standard publikacji w mediach społecznościowych  
+
+### Standardy materiałów wizualnych i multimedialnych
+
+4. Standard tworzenia dostępnych grafik i materiałów wizualnych  
+5. Standard opisów alternatywnych i treści równoważnych  
+6. Standard tworzenia dostępnych materiałów wideo  
+7. Standard tworzenia materiałów audio  
+
+### Standardy dokumentów cyfrowych
+
+8. Standard przygotowania dokumentów tekstowych  
+9. Standard przygotowania prezentacji  
+10. Standard przygotowania arkuszy kalkulacyjnych  
+11. Standard przygotowania dokumentów PDF  
+
+### Materiały wspierające
+
+Listy kontrolne i inne narzędzia weryfikacji powinny wynikać ze standardów, ale ich szczegółowe projektowanie i stosowanie należy regulować w rozwiązaniach dotyczących kontroli dostępności przed publikacją. W tym pakiecie nie utrzymuje się równoległego zestawu checklist, aby nie dublować wymagań zawartych w standardach.

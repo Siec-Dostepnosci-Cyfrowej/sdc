@@ -1,51 +1,262 @@
 ---
 id: 08-standard-przygotowania-dokumentow-tekstowych
 title: Standard przygotowania dokumentów tekstowych
-description: Zasady tworzenia dostępnych dokumentów tekstowych, w szczególności DOCX i ODT.
-sidebar_label: Dokumenty tekstowe
+description: Standard określający zasady tworzenia, opracowywania i publikacji dostępnych dokumentów tekstowych.
+sidebar_label: Standard dokumentów tekstowych
 sidebar_position: 8
-keywords: [DOCX, ODT, dokument tekstowy, style, nagłówki, dostępność]
-tags: [dokumenty, dostępność cyfrowa]
-opracowanie: Stefan Wajda
-wspolpraca: Bartłomiej Wilk
+keywords: [treści cyfrowe,komunikacja cyfrowa,dostępność cyfrowa,dokumenty tekstowe,Word,Writer,DOCX,dostępność dokumentów]
+tags: [treści cyfrowe,komunikacja cyfrowa,dostępność cyfrowa,dokumenty tekstowe,Word,Writer,DOCX,dostępność dokumentów]
+opracowanie: Bartłomiej Wilk
+wspolpraca: Stefan Wajda
+data_zgloszenia: 16 kwietnia 2026 r.
 ostatnia_aktualizacja: 6 września 2026 r.
 wersja_robocza: true
 ---
 
-## Cel
+## 1. Cel standardu
 
-Tworzenie dokumentów tekstowych, których struktura i treść mogą być poprawnie odczytywane i nawigowane także przy użyciu technologii wspomagających.
+Standard określa zasady przygotowania dokumentów tekstowych w sposób zapewniający:
 
-## Zakres
+- dostępność cyfrową,
+- możliwość odczytu przez technologie wspomagające,
+- czytelność i zrozumiałość treści,
+- poprawną strukturę dokumentu,
+- możliwość dalszego przetwarzania i publikacji dokumentów.
 
-Standard dotyczy dokumentów przygotowywanych w edytorach tekstu, w szczególności DOCX i ODT, zarówno publikowanych bezpośrednio, jak i wykorzystywanych jako źródło dokumentów PDF.
+Standard wspiera organizację procesów przygotowania i publikacji dokumentów cyfrowych oraz realizację wymagań dostępności cyfrowej.
 
-## Wymagania i zasady przygotowania
+---
 
-- Tytuły i sekcje oznaczaj za pomocą wbudowanych stylów nagłówków, zachowując logiczną hierarchię.
-- Listy twórz przy użyciu funkcji list numerowanych i punktowanych, a nie ręcznych znaków.
-- Tabele wykorzystuj do danych; oznaczaj wiersze nagłówkowe i unikaj niepotrzebnie złożonych układów oraz scalania komórek utrudniającego odczyt.
-- Obrazom znaczącym zapewniaj odpowiednie teksty alternatywne lub równoważne opisy; elementy dekoracyjne oznaczaj odpowiednio do możliwości programu.
-- Nadawaj dokumentowi jednoznaczny tytuł i uzupełniaj metadane, gdy są wykorzystywane w publikacji.
-- Nie przekazuj informacji wyłącznie kolorem albo formatowaniem wizualnym.
-- Zapewniaj czytelny kontrast i wielkość tekstu oraz unikaj ręcznego formatowania zastępującego strukturę.
-- Linki opisuj w sposób zrozumiały.
-- Ustaw język dokumentu i, jeżeli jest to potrzebne, język fragmentów w innym języku.
-- Korzystaj z funkcji sprawdzania dostępności programu, ale nie traktuj automatycznego wyniku jako pełnej oceny dokumentu.
+## 2. Zakres stosowania
 
-## Zalecany sposób realizacji
+Standard stosuje się do dokumentów tekstowych przygotowywanych lub publikowanych przez organizację, w szczególności:
 
-Twórz dostępność w dokumencie źródłowym od początku. Jeżeli dokument będzie eksportowany do PDF, używaj mechanizmu eksportu zachowującego tagi i strukturę zamiast drukowania do PDF.
+- pism,
+- komunikatów,
+- instrukcji,
+- raportów,
+- analiz,
+- procedur,
+- regulaminów,
+- informacji publikowanych w formatach DOCX, ODT lub równoważnych,
+- dokumentów przeznaczonych do eksportu do PDF.
 
-## Najczęstsze błędy
+Standard ma zastosowanie niezależnie od:
+- sposobu publikacji dokumentu,
+- kanału udostępnienia,
+- wykorzystywanego oprogramowania biurowego.
 
-- ręcznie pogrubione „nagłówki”,
-- listy tworzone myślnikami wpisywanymi ręcznie,
-- skomplikowane tabele bez nagłówków,
-- obrazy bez opisów,
-- tekst wstawiony jako obraz lub skan,
-- PDF utworzony przez drukowanie zamiast poprawnego eksportu.
+---
 
-## Powiązane standardy
+## 3. Zasady ogólne
 
-- [Standard przygotowania dokumentów PDF](./11-standard-przygotowania-dokumentow-pdf)
+Dokument tekstowy powinien być przygotowywany w sposób umożliwiający:
+- odczyt przez technologie wspomagające,
+- nawigację po strukturze dokumentu,
+- zmianę sposobu prezentacji treści przez użytkownika,
+- poprawny eksport do innych formatów.
+
+Dostępność dokumentu powinna być uwzględniana na etapie jego tworzenia.
+
+Niedopuszczalne jest przygotowywanie dokumentów:
+- wyłącznie w postaci obrazu,
+- bez struktury logicznej,
+- w sposób uniemożliwiający interpretację treści przez technologie wspomagające.
+
+---
+
+## 4. Struktura dokumentu
+
+Dokument powinien posiadać logiczną strukturę.
+
+W szczególności należy:
+- stosować tytuł dokumentu,
+- stosować nagłówki odpowiadające strukturze treści,
+- zachowywać logiczną kolejność sekcji,
+- dzielić treść na akapity i części tematyczne.
+
+Nagłówki powinny:
+- odzwierciedlać hierarchię informacji,
+- być stosowane w odpowiedniej kolejności,
+- wspierać nawigację po dokumencie.
+
+Nie należy:
+- tworzyć struktury wyłącznie poprzez zmianę wyglądu tekstu,
+- pomijać poziomów nagłówków,
+- stosować przypadkowej hierarchii sekcji.
+
+---
+
+## 5. Style i formatowanie
+
+Formatowanie dokumentu powinno opierać się na stylach systemowych lub szablonach dokumentu.
+
+W szczególności należy:
+- stosować style nagłówków,
+- stosować style akapitów,
+- zachowywać spójność formatowania,
+- wykorzystywać mechanizmy strukturalne oprogramowania.
+
+Nie należy:
+- formatować struktury ręcznie,
+- tworzyć odstępów za pomocą wielu spacji lub pustych akapitów,
+- stosować tabulatorów do budowania układu dokumentu,
+- używać wielu różnych sposobów formatowania tego samego typu treści.
+
+---
+
+## 6. Język i czytelność treści
+
+Treść dokumentu powinna być:
+- jednoznaczna,
+- uporządkowana,
+- zrozumiała,
+- dostosowana do odbiorców.
+
+W szczególności należy:
+- stosować prosty język,
+- używać krótkich zdań,
+- wyjaśniać pojęcia specjalistyczne — jeżeli są konieczne,
+- unikać nadmiernie złożonych konstrukcji.
+
+Treść powinna umożliwiać szybkie odnalezienie najważniejszych informacji.
+
+---
+
+## 7. Listy i elementy strukturalne
+
+Listy powinny być tworzone z wykorzystaniem mechanizmów list numerowanych lub punktowanych.
+
+Należy:
+- stosować listy numerowane dla sekwencji działań,
+- stosować listy punktowane dla zestawień,
+- zachowywać logiczną strukturę list.
+
+Nie należy:
+- tworzyć list ręcznie przy użyciu znaków specjalnych,
+- budować struktury dokumentu wyłącznie za pomocą wcięć.
+
+---
+
+## 8. Tabele
+
+Tabele należy wykorzystywać wyłącznie do prezentacji danych.
+
+W szczególności należy:
+- stosować nagłówki tabel,
+- zachowywać logiczną strukturę danych,
+- unikać scalania komórek utrudniającego interpretację,
+- stosować prostą strukturę tabel.
+
+Nie należy:
+- wykorzystywać tabel do układu wizualnego dokumentu,
+- tworzyć nadmiernie rozbudowanych lub wielopoziomowych tabel bez uzasadnienia.
+
+Tabela powinna być możliwa do interpretacji przez technologie wspomagające.
+
+---
+
+## 9. Grafiki i materiały wizualne
+
+Grafiki umieszczane w dokumencie powinny:
+- posiadać opisy alternatywne,
+- wspierać przekaz treści,
+- nie być jedynym źródłem kluczowych informacji.
+
+Opis alternatywny powinien:
+- przekazywać znaczenie grafiki,
+- uwzględniać kontekst dokumentu,
+- umożliwiać zrozumienie informacji bez dostępu do obrazu.
+
+Materiały złożone, takie jak wykresy lub infografiki, powinny posiadać odpowiednią treść równoważną.
+
+---
+
+## 10. Linki i odwołania
+
+Linki powinny:
+- jasno wskazywać cel odnośnika,
+- być zrozumiałe poza kontekstem akapitu,
+- prowadzić do zasobów zgodnych z wymaganiami dostępności — jeżeli organizacja ma wpływ na ich przygotowanie.
+
+Należy unikać:
+- ogólnych sformułowań typu „kliknij tutaj”,
+- publikowania nieopisanych adresów URL jako głównej treści linku.
+
+---
+
+## 11. Czytelność wizualna
+
+Dokument powinien zapewniać odpowiednią czytelność.
+
+W szczególności należy:
+- zapewniać odpowiedni kontrast,
+- stosować czytelne kroje pisma,
+- zachowywać odpowiednie odstępy między akapitami i liniami,
+- ograniczać nadmierne wyróżnianie tekstu.
+
+Nie należy:
+- przekazywać informacji wyłącznie kolorem,
+- stosować nadmiernie dekoracyjnych elementów,
+- publikować dokumentów utrudniających odczyt na urządzeniach mobilnych.
+
+---
+
+## 12. Metadane i właściwości dokumentu
+
+Dokument powinien posiadać:
+- tytuł,
+- określony język dokumentu,
+- właściwe metadane — jeżeli są wykorzystywane.
+
+W przypadku dokumentów wielojęzycznych należy oznaczać zmiany języka w treści dokumentu.
+
+---
+
+## 13. Eksport i publikacja dokumentu
+
+Dokument powinien być przygotowany w sposób umożliwiający poprawny eksport do innych formatów, w szczególności PDF.
+
+Przed publikacją należy:
+- sprawdzić poprawność struktury dokumentu,
+- zweryfikować działanie elementów dostępności,
+- sprawdzić poprawność eksportu,
+- przeprowadzić kontrolę jakości dokumentu.
+
+Eksport dokumentu nie powinien prowadzić do utraty:
+- struktury,
+- opisów alternatywnych,
+- znaczników dostępności,
+- logicznej kolejności treści.
+
+---
+
+## 14. Weryfikacja przed publikacją
+
+Przed publikacją należy zweryfikować:
+
+- strukturę dokumentu,
+- poprawność nagłówków,
+- obecność opisów alternatywnych,
+- poprawność tabel i list,
+- czytelność dokumentu,
+- zgodność z wymaganiami dostępności cyfrowej.
+
+Weryfikacja może być wspierana przez:
+- listy kontrolne,
+- mechanizmy sprawdzania dostępności,
+- procedury kontroli jakości,
+- przegląd redakcyjny.
+
+---
+
+## 15. Postanowienia końcowe
+
+Standard stanowi element systemu zarządzania dokumentami cyfrowymi i komunikacją cyfrową organizacji.
+
+Standard powinien być:
+- stosowany przy tworzeniu dokumentów tekstowych,
+- uwzględniany w działaniach szkoleniowych i kontrolnych,
+- wykorzystywany przy opracowywaniu szablonów dokumentów i procedur organizacyjnych.
+
+Stosowanie standardu wspiera dostępność cyfrową, jakość dokumentów oraz równy dostęp użytkowników do informacji publikowanych przez organizację.
