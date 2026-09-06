@@ -1,33 +1,30 @@
 ---
 id: lista-kontrolna-publikacji-tresci-z-obrazkiem
 title: Lista kontrolna publikacji treści z obrazkiem
-description: Lista kontrolna weryfikacji dostępności treści zawierających grafiki.
-sidebar_label: Lista kontrolna - obrazki
+description: Lista kontrolna weryfikacji dostępności treści zawierających obrazy przed publikacją.
+sidebar_label: Lista kontrolna - obraz
 sidebar_position: 21
-keywords: [dostępność cyfrowa, grafiki, lista kontrolna, opis alternatywny, kontrast]
-tags: [grafiki, checklista, dostępność cyfrowa]
+keywords: [dostępność cyfrowa, grafika, obraz, opis alternatywny, lista kontrolna]
+tags: [dostępność cyfrowa, grafika, obraz, opis alternatywny, lista kontrolna]
 opracowanie: Bartłomiej Wilk
 wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 27 kwietnia 2026 r.
+ostatnia_aktualizacja: 6 września 2026 r.
 wersja_robocza: true
 ---
 
-Punkty obowiązkowe muszą być spełnione przed publikacją albo objęte procedurą postępowania w sytuacjach wyjątkowych. Punkty warunkowe stosuje się wtedy, gdy dany typ treści, funkcja lub element występuje w materiale. Punkty zalecane wspierają jakość komunikacji i powinny być stosowane, ale same nie muszą blokować publikacji. Odpowiedź „NIE DOTYCZY” wymaga krótkiego uzasadnienia w kolumnie „Dowód/uwaga”.
+# Lista kontrolna publikacji treści z obrazkiem
 
-| Punkt kontrolny | Status | Odpowiedź | Dowód/uwaga |
+| Punkt kontrolny | Kategoria | Odpowiedź | Dowód/uwaga |
 |---|---|---|---|
-| Czy najważniejsza informacja jest dostępna w treści posta, a nie wyłącznie na grafice? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy grafika informacyjna posiada opis alternatywny? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy informacje z grafiki mają równoważną treść tekstową poza obrazem? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy tekst na grafice jest czytelny i ma odpowiedni kontrast? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy treść nie przekazuje informacji wyłącznie kolorem? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy link ma zrozumiałą treść albo jest poprzedzony opisem celu? | warunkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy komunikat jest logicznie uporządkowany i nieprzeładowany? | zalecane | TAK / NIE / NIE DOTYCZY | |
-| Czy grafika jest czytelna na urządzeniu mobilnym? | zalecane | TAK / NIE / NIE DOTYCZY | |
+| Czy osoba, która nie widzi obrazu, otrzymuje wszystkie informacje potrzebne do zrozumienia treści lub wykonania zadania? | krytyczne | TAK / NIE / NIE DOTYCZY | |
+| Czy sposób udostępnienia treści alternatywnej odpowiada funkcji obrazu — informacyjnej, funkcjonalnej, dekoracyjnej lub złożonej? | warunkowe | TAK / NIE / NIE DOTYCZY | |
+| Czy tekst umieszczony na grafice jest dostępny także jako rzeczywisty tekst, jeżeli zawiera istotną informację? | warunkowe | TAK / NIE / NIE DOTYCZY | |
+| Czy znaczenie informacji nie zależy wyłącznie od koloru lub położenia elementu? | krytyczne | TAK / NIE / NIE DOTYCZY | |
+| Czy kontrast tekstu i istotnych elementów graficznych pozwala je odczytać? | warunkowe | TAK / NIE / NIE DOTYCZY | |
+| Czy opis alternatywny nie powtarza zbędnie informacji dostępnych bezpośrednio obok obrazu? | jakościowe | TAK / NIE / NIE DOTYCZY | |
 
 ## Powiązane dokumenty
 
-- Standard tworzenia dostępnych grafik i materiałów wizualnych
-- Standard opisu alternatywnego i treści równoważnych
-- [Tryb publikacji warunkowej i rejestr wyjątków](./procedura-sytuacji-wyjatkowych.md)
+- [Zasady projektowania list kontrolnych](./projektowanie-list-kontrolnych-dostepnosci-tresci.md)
+- [Tryb publikacji warunkowej](./procedura-sytuacji-wyjatkowych.md)

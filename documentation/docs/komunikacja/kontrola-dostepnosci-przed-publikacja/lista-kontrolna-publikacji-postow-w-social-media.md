@@ -5,27 +5,31 @@ description: Lista kontrolna weryfikacji dostępności postów w mediach społec
 sidebar_label: Lista kontrolna - social media
 sidebar_position: 23
 keywords: [dostępność cyfrowa, media społecznościowe, lista kontrolna, posty, komunikacja]
-tags: [social media, checklista, dostępność cyfrowa]
+tags: [dostępność cyfrowa, media społecznościowe, lista kontrolna, posty, komunikacja]
 opracowanie: Bartłomiej Wilk
 wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 27 kwietnia 2026 r.
+ostatnia_aktualizacja: 6 września 2026 r.
 wersja_robocza: true
 ---
 
-Punkty obowiązkowe muszą być spełnione przed publikacją albo objęte procedurą postępowania w sytuacjach wyjątkowych. Punkty warunkowe stosuje się wtedy, gdy dany typ treści, funkcja lub element występuje w materiale. Punkty zalecane wspierają jakość komunikacji i powinny być stosowane, ale same nie muszą blokować publikacji. Odpowiedź „NIE DOTYCZY” wymaga krótkiego uzasadnienia w kolumnie „Dowód/uwaga”.
+# Lista kontrolna publikacji postów w mediach społecznościowych
 
-| Punkt kontrolny | Status | Odpowiedź | Dowód/uwaga |
+| Punkt kontrolny | Kategoria | Odpowiedź | Dowód/uwaga |
 |---|---|---|---|
-| Czy post zawiera kluczową informację w treści głównej? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy grafiki mają opis alternatywny lub równoważną treść w poście/komentarzu? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy materiały wideo mają napisy lub równoważną alternatywę tekstową? | warunkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy materiał nie zawiera migających elementów? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy link ma zrozumiałą treść albo jest poprzedzony opisem celu? | warunkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy emoji nie zastępują kluczowej treści? | zalecane | TAK / NIE / NIE DOTYCZY | |
-| Czy komunikat jest zwięzły, logiczny i możliwy do szybkiego skanowania? | zalecane | TAK / NIE / NIE DOTYCZY | |
+| Czy kluczowa informacja jest dostępna w treści posta albo w innym dostępnym cyfrowo miejscu wskazanym użytkownikowi? | krytyczne | TAK / NIE / NIE DOTYCZY | |
+| Czy osoba, która nie widzi grafiki, otrzymuje równoważną informację poprzez funkcję opisu alternatywnego lub treść posta? | warunkowe | TAK / NIE / NIE DOTYCZY | |
+| Czy wideo lub audio w poście ma wymagane treści równoważne? | warunkowe | TAK / NIE / NIE DOTYCZY | |
+| Czy materiał nie zawiera niebezpiecznego migotania? | krytyczne | TAK / NIE / NIE DOTYCZY | |
+| Czy link pozwala zrozumieć, dokąd prowadzi, na podstawie jego treści albo bezpośredniego kontekstu? | warunkowe | TAK / NIE / NIE DOTYCZY | |
+| Czy emoji i znaki specjalne nie zastępują informacji koniecznej do zrozumienia komunikatu? | jakościowe | TAK / NIE / NIE DOTYCZY | |
+| Czy układ treści jest czytelny także po odczytaniu liniowym przez technologię wspomagającą? | jakościowe | TAK / NIE / NIE DOTYCZY | |
+
+## Uwaga dotycząca platform zewnętrznych
+
+Jeżeli podmiot publiczny publikuje informację na stronie internetowej lub w aplikacji mobilnej innej niż własna i informacja ta nie spełnia wymagań dostępności cyfrowej, należy uwzględnić obowiązek wynikający z art. 6 ustawy o dostępności cyfrowej.
 
 ## Powiązane dokumenty
 
-- Standard struktury komunikatu i tworzenia treści
-- [Tryb publikacji warunkowej i rejestr wyjątków](./procedura-sytuacji-wyjatkowych.md)
+- [Zasady projektowania list kontrolnych](./projektowanie-list-kontrolnych-dostepnosci-tresci.md)
+- [Tryb publikacji warunkowej](./procedura-sytuacji-wyjatkowych.md)

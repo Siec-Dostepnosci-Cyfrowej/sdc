@@ -5,30 +5,34 @@ description: Lista kontrolna weryfikacji dostępności materiałów audio przed 
 sidebar_label: Lista kontrolna - audio
 sidebar_position: 24
 keywords: [dostępność cyfrowa, audio, transkrypcja, lista kontrolna, weryfikacja]
-tags: [audio, checklista, dostępność cyfrowa]
+tags: [dostępność cyfrowa, audio, transkrypcja, lista kontrolna, weryfikacja]
 opracowanie: Bartłomiej Wilk
 wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 27 kwietnia 2026 r.
+ostatnia_aktualizacja: 6 września 2026 r.
 wersja_robocza: true
 ---
 
-Punkty obowiązkowe muszą być spełnione przed publikacją albo objęte procedurą postępowania w sytuacjach wyjątkowych. Punkty warunkowe stosuje się wtedy, gdy dany typ treści, funkcja lub element występuje w materiale. Punkty zalecane wspierają jakość komunikacji i powinny być stosowane, ale same nie muszą blokować publikacji. Odpowiedź „NIE DOTYCZY” wymaga krótkiego uzasadnienia w kolumnie „Dowód/uwaga”.
+# Lista kontrolna publikacji audio
 
-| Punkt kontrolny | Status | Odpowiedź | Dowód/uwaga |
+| Punkt kontrolny | Kategoria | Odpowiedź | Dowód/uwaga |
 |---|---|---|---|
-| Czy materiał posiada pełną transkrypcję? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy transkrypcja zawiera całą treść nagrania? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy oznaczono mówców, jeśli występuje więcej niż jedna osoba? | warunkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy transkrypcja ma logiczny podział treści? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy tytuł jasno informuje o temacie nagrania? | zalecane | TAK / NIE / NIE DOTYCZY | |
-| Czy opis nagrania zawiera kontekst? | zalecane | TAK / NIE / NIE DOTYCZY | |
-| Czy jakość dźwięku umożliwia zrozumienie wypowiedzi? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy muzyka lub efekty dźwiękowe nie zagłuszają treści? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy link do transkrypcji jest jednoznaczny i dostępny przy materiale? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy materiał nie przekazuje kluczowych informacji wyłącznie dźwiękiem bez alternatywy tekstowej? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
+| Czy użytkownik, który nie słyszy nagrania, otrzymuje równoważną informację tekstową, jeżeli jest wymagana dla tego materiału? | krytyczne | TAK / NIE / NIE DOTYCZY | |
+| Czy transkrypcja obejmuje treść potrzebną do zrozumienia materiału, w tym istotne informacje niewerbalne? | warunkowe | TAK / NIE / NIE DOTYCZY | |
+| Czy mówcy są rozróżnieni wtedy, gdy jest to potrzebne do zrozumienia rozmowy? | warunkowe | TAK / NIE / NIE DOTYCZY | |
+| Czy jakość dźwięku pozwala zrozumieć wypowiedzi bez nadmiernego wysiłku? | krytyczne | TAK / NIE / NIE DOTYCZY | |
+| Czy muzyka i efekty nie utrudniają zrozumienia mowy? | krytyczne | TAK / NIE / NIE DOTYCZY | |
+| Czy link do transkrypcji lub jej treść są łatwo dostępne przy nagraniu? | warunkowe | TAK / NIE / NIE DOTYCZY | |
+| Czy tytuł i opis jasno wskazują temat i kontekst nagrania? | jakościowe | TAK / NIE / NIE DOTYCZY | |
+
+## Decyzja
+
+- publikacja,
+- skierowanie do poprawy,
+- wstrzymanie publikacji,
+- publikacja warunkowa w uzasadnionej sytuacji.
 
 ## Powiązane dokumenty
 
-- Standard tworzenia dostępnych materiałów audio
-- [Tryb publikacji warunkowej i rejestr wyjątków](./procedura-sytuacji-wyjatkowych.md)
+- [Zasady projektowania list kontrolnych](./projektowanie-list-kontrolnych-dostepnosci-tresci.md)
+- [Tryb publikacji warunkowej](./procedura-sytuacji-wyjatkowych.md)

@@ -5,29 +5,34 @@ description: Lista kontrolna weryfikacji dostępności materiałów wideo przed 
 sidebar_label: Lista kontrolna - wideo
 sidebar_position: 22
 keywords: [dostępność cyfrowa, wideo, lista kontrolna, napisy, weryfikacja]
-tags: [wideo, checklista, dostępność cyfrowa]
+tags: [dostępność cyfrowa, wideo, lista kontrolna, napisy, weryfikacja]
 opracowanie: Bartłomiej Wilk
 wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 27 kwietnia 2026 r.
+ostatnia_aktualizacja: 6 września 2026 r.
 wersja_robocza: true
 ---
 
-Punkty obowiązkowe muszą być spełnione przed publikacją albo objęte procedurą postępowania w sytuacjach wyjątkowych. Punkty warunkowe stosuje się wtedy, gdy dany typ treści, funkcja lub element występuje w materiale. Punkty zalecane wspierają jakość komunikacji i powinny być stosowane, ale same nie muszą blokować publikacji. Odpowiedź „NIE DOTYCZY” wymaga krótkiego uzasadnienia w kolumnie „Dowód/uwaga”.
+# Lista kontrolna publikacji wideo
 
-| Punkt kontrolny | Status | Odpowiedź | Dowód/uwaga |
+| Punkt kontrolny | Kategoria | Odpowiedź | Dowód/uwaga |
 |---|---|---|---|
-| Czy materiał zawiera napisy do całej ścieżki dźwiękowej? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy napisy są zgodne z wypowiedzią i nie pomijają istotnych dźwięków? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy napisy są zsynchronizowane z obrazem? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy napisy są czytelne (wielkość, podział, kontrast)? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy zapewniono alternatywę dla kluczowych treści wizualnych (audiodeskrypcja lub treść równoważna)? | warunkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy materiał nie zawiera migających elementów? | obowiązkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy odtwarzacz pozwala zatrzymać/wstrzymać odtwarzanie (jeżeli funkcja występuje)? | warunkowe | TAK / NIE / NIE DOTYCZY | |
-| Czy tytuł i opis materiału jasno wskazują temat oraz zakres treści? | zalecane | TAK / NIE / NIE DOTYCZY | |
-| Czy transkrypcja lub link do transkrypcji jest dostępny przy materiale? | warunkowe | TAK / NIE / NIE DOTYCZY | |
+| Czy wszystkie informacje przekazywane mową są dostępne w napisach, jeżeli napisy są wymagane dla tego materiału? | warunkowe | TAK / NIE / NIE DOTYCZY | |
+| Czy napisy są zgodne z treścią, zsynchronizowane i zawierają istotne informacje dźwiękowe potrzebne do zrozumienia materiału? | warunkowe | TAK / NIE / NIE DOTYCZY | |
+| Czy kluczowe informacje wizualne są przekazane także osobie, która ich nie widzi — w głównej ścieżce audio, audiodeskrypcji albo innej właściwej treści równoważnej? | krytyczne | TAK / NIE / NIE DOTYCZY | |
+| Czy materiał nie zawiera błysków lub migotania mogących stwarzać zagrożenie? | krytyczne | TAK / NIE / NIE DOTYCZY | |
+| Czy odtwarzacz i jego podstawowe funkcje można obsłużyć klawiaturą, jeśli podmiot ma wpływ na odtwarzacz? | warunkowe | TAK / NIE / NIE DOTYCZY | |
+| Czy napisy automatyczne zostały zweryfikowane pod kątem treści, synchronizacji i oznaczenia istotnych dźwięków? | warunkowe | TAK / NIE / NIE DOTYCZY | |
+| Czy tytuł i opis jasno identyfikują temat materiału? | jakościowe | TAK / NIE / NIE DOTYCZY | |
+
+## Decyzja
+
+- publikacja,
+- skierowanie do poprawy,
+- wstrzymanie publikacji,
+- publikacja warunkowa w uzasadnionej sytuacji.
 
 ## Powiązane dokumenty
 
-- Standard tworzenia dostępnych materiałów wideo
-- [Tryb publikacji warunkowej i rejestr wyjątków](./procedura-sytuacji-wyjatkowych.md)
+- [Zasady projektowania list kontrolnych](./projektowanie-list-kontrolnych-dostepnosci-tresci.md)
+- [Tryb publikacji warunkowej](./procedura-sytuacji-wyjatkowych.md)

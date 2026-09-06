@@ -9,42 +9,35 @@ tags: [dostępność cyfrowa, dokumenty, PDF, DOCX, XLSX, lista kontrolna]
 opracowanie: Bartłomiej Wilk
 wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 23 maja 2026 r.
-ostatnia_aktualizacja: 23 maja 2026 r.
+ostatnia_aktualizacja: 6 września 2026 r.
 wersja_robocza: true
 ---
 
 # Lista kontrolna dokumentów PDF, DOCX i XLSX
 
-Krótki zbiór pytań kontrolnych służących potwierdzeniu dostępności dokumentu przed publikacją.
+Lista służy do codziennej kontroli przed publikacją. Nie zastępuje pełnego audytu dokumentu.
 
-## Zakres stosowania
-Dotyczy dokumentów udostępnianych jako pliki do pobrania lub załączniki: PDF, DOCX, XLSX i podobne.
+| Punkt kontrolny | Kategoria | Odpowiedź | Dowód/uwaga |
+|---|---|---|---|
+| Czy treść można odczytać w logicznej kolejności, a struktura dokumentu jest rozpoznawalna przez technologie wspomagające? | krytyczne | TAK / NIE / NIE DOTYCZY | |
+| Czy dokument ma poprawnie ustawiony język i tytuł dokumentu? | warunkowe | TAK / NIE / NIE DOTYCZY | |
+| Czy nagłówki i inne elementy struktury są oznaczone semantycznie, a nie tylko wyglądem? | krytyczne | TAK / NIE / NIE DOTYCZY | |
+| Czy informacje przekazywane przez obrazy są dostępne także dla osoby, która ich nie widzi, a grafiki dekoracyjne nie wprowadzają zbędnej treści? | warunkowe | TAK / NIE / NIE DOTYCZY | |
+| Czy tabele mają prawidłowo oznaczone nagłówki i logiczną strukturę możliwą do odczytania poza układem wizualnym? | warunkowe | TAK / NIE / NIE DOTYCZY | |
+| Czy znaczenie informacji nie zależy wyłącznie od koloru, położenia lub formatowania? | krytyczne | TAK / NIE / NIE DOTYCZY | |
+| Czy dokument zawiera rzeczywisty tekst, a jeżeli pochodzi ze skanu, wynik OCR został zweryfikowany i dokument ma potrzebną strukturę? | krytyczne | TAK / NIE / NIE DOTYCZY | |
+| Czy linki i odsyłacze pozwalają zrozumieć ich cel poza kontekstem wizualnym? | warunkowe | TAK / NIE / NIE DOTYCZY | |
+| Czy elementy interaktywne, jeżeli występują, można obsłużyć klawiaturą i mają zrozumiałe etykiety? | warunkowe | TAK / NIE / NIE DOTYCZY | |
+| Czy długi dokument ma rozwiązania ułatwiające nawigację, np. spis treści lub zakładki? | jakościowe | TAK / NIE / NIE DOTYCZY | |
 
-## Punkty obowiązkowe
-- Czy dokument ma logiczną strukturę nagłówków (tytuł, sekcje)?
-- Czy dokument ma ustawiony język dokumentu i poprawne metadane (tytuł)?
-- Czy plik PDF jest otagowany (tagged PDF) lub dokument DOCX/XLSX ma semantyczne elementy?
-- Czy wszystkie obrazy mają opisy alternatywne lub podpisy opisujące funkcję?
-- Czy tabele mają nagłówki kolumn/wierszy i nie są użyte do układu?
-- Czy dokument nie używa przekazania informacji wyłącznie kolorem lub formatowaniem?
-- Czy dokument jest tekstowy (nie obraz skanowany) lub podano OCR/transkrypcję?
-- Czy linki mają zrozumiałe i opisowe nazwy?
-- Czy dokumenty z formularzami są obsługiwalne z klawiatury i mają etykiety pól?
+## Decyzja
 
-## Punkty zalecane
-- Czy dokument ma spójną strukturę nagłówków i spis treści, jeżeli długi?
-- Czy obrazy istotne mają rozszerzony opis lub załączoną transkrypcję?
-- Czy dokument testowano w czytnikach ekranu podstawowych (przynajmniej jedna próba)?
-
-## Wynik kontroli
-Pole na krótkie odnotowanie wyniku (spełnione / wymagają poprawy / nie dotyczy) oraz dowód/uwaga.
-
-## Decyzja publikacyjna
-- Publikacja po potwierdzeniu dostępności
-- Skierowanie do poprawy
-- Wstrzymanie publikacji
-- Publikacja warunkowa (wskazać termin naprawy)
+- publikacja,
+- skierowanie do poprawy,
+- wstrzymanie publikacji,
+- publikacja warunkowa w uzasadnionej sytuacji.
 
 ## Powiązane dokumenty
-- [Kontrola dostępności treści cyfrowych przed publikacją](./procedura-kontroli-dostepnosci-przed-publikacja.md)
-- [Tryb publikacji warunkowej i rejestr wyjątków](./procedura-sytuacji-wyjatkowych.md)
+
+- [Zasady projektowania list kontrolnych](./projektowanie-list-kontrolnych-dostepnosci-tresci.md)
+- [Tryb publikacji warunkowej](./procedura-sytuacji-wyjatkowych.md)
