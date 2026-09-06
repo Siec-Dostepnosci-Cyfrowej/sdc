@@ -164,6 +164,7 @@ Załączniki mają charakter pomocniczy:
 
 * [Załącznik 1. Mapa typowych podmiotów i zakresu działania](./zalacznik-1-mapa-typowych-podmiotow-i-zakresu-dzialania.md)
 * [Załącznik 2. Schemat reagowania na problemy z dostępnością cyfrową](./zalacznik-2-schemat-reagowania-na-problemy-z-dostepnoscia-cyfrowa.md)
+* [Załącznik 3. Karta oceny sytuacji jednostki lub podmiotu](./zalacznik-3-karta-oceny-sytuacji-jednostki-lub-podmiotu.md)
 
 **6. Miejsce zalecenia w systemie zarządzania dostępnością**
 
