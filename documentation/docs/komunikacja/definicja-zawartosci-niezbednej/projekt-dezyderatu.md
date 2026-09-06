@@ -1,7 +1,8 @@
 ---
 id: definicja-zawartosci-niezbednej
 title: Dezyderat w sprawie doprecyzowania pojęcia „zawartości niezbędnej do realizacji bieżących zadań podmiotu publicznego”
-sidebar_label: Zawartość niezbędna\ nsidebar_position: 1
+sidebar_label: Zawartość niezbędna
+sidebar_position: 1
 description: Projekt dezyderatu dotyczący rozwiązania problemów interpretacyjnych związanych z pojęciem zawartości niezbędnej do realizacji bieżących zadań podmiotu publicznego
 keywords: [dostępność cyfrowa, dokumenty cyfrowe, interpretacja prawa, ustawa o dostępności cyfrowej, dyrektywa 2016/2102]
 tags: [dostępność cyfrowa, dokumenty cyfrowe, legislacja, dezyderat]
