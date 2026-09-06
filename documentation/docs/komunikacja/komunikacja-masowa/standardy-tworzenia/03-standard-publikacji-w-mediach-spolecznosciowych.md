@@ -60,7 +60,7 @@ Treści publikowane w mediach społecznościowych powinny:
 
 Dostępność stanowi integralny element przygotowania komunikatu i nie powinna być traktowana jako działanie dodatkowe wykonywane po publikacji.
 
-Publikacja w mediach społecznościowych nie zwalnia organizacji z obowiązku zapewniania dostępności cyfrowej.
+Organizacja wykorzystuje funkcje dostępności oferowane przez daną platformę. Jeżeli podmiot publiczny publikuje informację w serwisie lub aplikacji innej niż jego własna i informacja ta nie spełnia wymagań dostępności cyfrowej, publikuje tę samą informację w sposób dostępny cyfrowo na wybranej spośród posiadanych przez siebie stron internetowych lub aplikacji mobilnych, zgodnie z art. 6 ustawy o dostępności cyfrowej.
 
 ---
 
@@ -146,7 +146,7 @@ Treści multimedialne powinny być przygotowywane zgodnie ze standardami dostęp
 
 Linki publikowane w mediach społecznościowych powinny:
 - jasno wskazywać cel odnośnika,
-- prowadzić do materiałów zgodnych z wymaganiami dostępności,
+- w przypadku materiałów publikowanych przez organizację prowadzić, co do zasady, do treści przygotowanych zgodnie z wymaganiami dostępności właściwymi dla danego materiału,
 - być opisane w sposób zrozumiały dla użytkownika.
 
 Należy unikać:
@@ -192,7 +192,7 @@ W szczególności należy:
 - zapewniać czytelność materiałów,
 - ograniczać nadmierną dynamikę i miganie,
 - zapewniać napisy lub alternatywy tekstowe — jeżeli jest to możliwe,
-- przekazywać najważniejsze informacje również w innych kanałach komunikacji organizacji.
+- przekazywać najważniejsze informacje również w innych kanałach komunikacji organizacji, jeżeli ograniczenia platformy utrudniają zapewnienie dostępności informacji w samym serwisie społecznościowym.
 
 ---
 
