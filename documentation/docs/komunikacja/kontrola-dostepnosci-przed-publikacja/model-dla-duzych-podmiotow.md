@@ -1,74 +1,40 @@
 ---
 id: model-dla-duzych-podmiotow
 title: Wariant rozszerzony procedury dla dużych podmiotów
-description: Wariant rozszerzony procedury kontroli dostępności przed publikacją dla organizacji z wieloma redakcjami, kanałami i komórkami organizacyjnymi.
+description: Rozszerzony model organizacji kontroli dostępności przed publikacją dla podmiotów z wieloma redakcjami i kanałami.
 sidebar_label: Wariant rozszerzony
 sidebar_position: 5
 keywords: [dostępność cyfrowa, duże podmioty, procedura rozszerzona, publikacja]
-tags: [komunikacja, dostępność cyfrowa, procedura]
+tags: [dostępność cyfrowa, duże podmioty, procedura rozszerzona, publikacja]
 opracowanie: Bartłomiej Wilk
 wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 11 maja 2026 r.
+ostatnia_aktualizacja: 6 września 2026 r.
 wersja_robocza: true
 ---
 
 # Wariant rozszerzony procedury dla dużych podmiotów
 
-## Założenie
+Wariant jest przeznaczony dla organizacji z wieloma redakcjami, kanałami publikacji i komórkami organizacyjnymi. Rozszerzenie dotyczy rozdzielenia odpowiedzialności, poziomów kontroli i wykorzystania danych z procesu.
 
-Wariant rozszerzony jest przeznaczony dla podmiotów, w których publikacja treści cyfrowych odbywa się w wielu komórkach organizacyjnych, redakcjach, systemach i kanałach.
+## Organizacja
 
-Celem wariantu jest zapewnienie jednolitego punktu decyzyjnego przed publikacją oraz spójnego dokumentowania wyników kontroli.
+Podmiot powinien określić właścicieli głównych procesów publikacji, przypisać funkcje związane z przygotowaniem, kontrolą, decyzją i publikacją techniczną oraz ustalić sposób eskalacji problemów i publikacji warunkowych.
 
-## Organizacja procesu
+## Poziomy kontroli
 
-Podmiot powinien określić:
+Podmiot może stosować różne poziomy kontroli, np.:
 
-- właścicieli procesów publikacji dla głównych kanałów,
-- role osób przygotowujących, sprawdzających, zatwierdzających i publikujących,
-- narzędzia kontroli właściwe dla typów materiałów,
-- sposób eskalacji problemów i wyjątków,
-- sposób raportowania wyników kontroli i powtarzających się błędów.
+- podstawową — dla prostych informacji o niskim ryzyku,
+- standardową — dla typowych stron, dokumentów i materiałów publikowanych publicznie,
+- rozszerzoną — dla formularzy, komunikatów transakcyjnych, materiałów o skutkach prawnych, dużych kampanii i treści wysokiego ryzyka.
 
-## Przebieg rozszerzony
+## Raportowanie i doskonalenie
 
-1. Komórka merytoryczna przygotowuje materiał i określa kanał publikacji.
-2. Osoba przygotowująca przekazuje materiał wraz z informacją o typie, przeznaczeniu i ryzyku publikacji.
-3. Osoba sprawdzająca dobiera listę kontrolną, standard publikacji albo inne narzędzie kontroli.
-4. Wynik kontroli zostaje odnotowany w karcie kontroli, systemie obiegu zadań, CMS albo rejestrze publikacji.
-5. Osoba zatwierdzająca podejmuje decyzję publikacyjną.
-6. Osoba publikująca technicznie udostępnia materiał i potwierdza, że elementy dostępności zostały zachowane w kanale docelowym.
-7. Wyniki kontroli są okresowo analizowane w celu poprawy standardów, szablonów, szkoleń i organizacji pracy.
-
-## Kontrola według ryzyka
-
-Podmiot może stosować różne poziomy kontroli:
-
-- kontrolę podstawową dla prostych informacji i komunikatów,
-- kontrolę standardową dla typowych stron, dokumentów i materiałów publikowanych publicznie,
-- kontrolę rozszerzoną dla formularzy, komunikatów transakcyjnych, BIP, dokumentów o skutkach prawnych, dużych kampanii i materiałów wysokiego ryzyka.
-
-## Dokumentowanie i raportowanie
-
-Wariant rozszerzony powinien umożliwiać analizę:
-
-- liczby materiałów skierowanych do poprawy,
-- liczby publikacji warunkowych,
-- typów najczęstszych błędów,
-- kanałów, w których błędy powtarzają się najczęściej,
-- terminowości naprawy wyjątków.
-
-Wyniki tej analizy powinny zasilać aktualizację standardów, list kontrolnych, szablonów, instrukcji i szkoleń.
-
-## Powiązanie z działaniami po publikacji
-
-Kontrola przed publikacją nie zastępuje przeglądu treści już opublikowanych. Zgłoszenia, błędy ujawnione po publikacji i naprawa historycznych materiałów powinny być obsługiwane w odrębnym procesie cyklu życia treści.
+W większych podmiotach warto okresowo analizować liczbę materiałów skierowanych do poprawy, publikacji warunkowych, najczęstsze typy błędów oraz terminowość napraw. Wyniki powinny służyć poprawie narzędzi kontroli, szablonów, instrukcji i kompetencji zespołów.
 
 ## Powiązane dokumenty
 
-- [Kontrola dostępności treści cyfrowych przed publikacją](./procedura-kontroli-dostepnosci-przed-publikacja.md)
-- [Procedura kontroli dostępności przed publikacją](./procedura-wdrozeniowa-kontroli-dostepnosci-przed-publikacja.md)
-- [Mapa ról i odpowiedzialności w procesie publikacji](./mapa-odpowiedzialnosci.md)
-- [Tryb publikacji warunkowej i rejestr wyjątków](./procedura-sytuacji-wyjatkowych.md)
-- [Zestaw list kontrolnych według typu materiału](./listy-kontrolne-index.md)
+- [Procedura kontroli dostępności](./procedura-wdrozeniowa-kontroli-dostepnosci-przed-publikacja.md)
+- [Mapa ról i odpowiedzialności](./mapa-odpowiedzialnosci.md)
+- [Zestaw list kontrolnych](./listy-kontrolne-index.md)

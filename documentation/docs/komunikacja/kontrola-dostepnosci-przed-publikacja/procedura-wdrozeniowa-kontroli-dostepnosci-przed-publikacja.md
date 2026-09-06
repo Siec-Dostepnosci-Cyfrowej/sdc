@@ -1,103 +1,71 @@
 ---
 id: procedura-wdrozeniowa-kontroli-dostepnosci-przed-publikacja
 title: Procedura kontroli dostępności przed publikacją
-description: Załącznik wdrożeniowy opisujący przykładowy przebieg kontroli dostępności treści cyfrowych przed publikacją.
+description: Przykładowy przebieg kontroli dostępności treści cyfrowych przed publikacją.
 sidebar_label: Procedura kontroli
 sidebar_position: 1
 keywords: [dostępność cyfrowa, procedura, kontrola, publikacja, treści cyfrowe]
-tags: [komunikacja, dostępność cyfrowa, procedura]
+tags: [dostępność cyfrowa, procedura, kontrola, publikacja, treści cyfrowe]
 opracowanie: Bartłomiej Wilk
 wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 30 kwietnia 2026 r.
-ostatnia_aktualizacja: 11 maja 2026 r.
+ostatnia_aktualizacja: 6 września 2026 r.
 wersja_robocza: true
 ---
 
 # Procedura kontroli dostępności przed publikacją
 
-## Cel procedury
-
-Procedura opisuje przykładowy sposób wykonania kontroli dostępności przed publikacją treści cyfrowej. Jest załącznikiem wdrożeniowym do zalecenia [Kontrola dostępności treści cyfrowych przed publikacją](./procedura-kontroli-dostepnosci-przed-publikacja.md).
-
-Podmiot może dostosować procedurę do własnego systemu obiegu treści, CMS, BIP, narzędzi kancelaryjnych, systemów wewnętrznych i kanałów komunikacji.
+Procedura jest przykładowym sposobem wdrożenia kontroli dostępności przed publikacją. Podmiot może włączyć ją do istniejącego obiegu treści i dostosować do używanych systemów oraz struktury organizacyjnej.
 
 ## 1. Przygotowanie materiału
 
-Osoba przygotowująca materiał odpowiada za przygotowanie treści w sposób zgodny z wymaganiami dostępności przyjętymi przez podmiot.
+Osoba przygotowująca materiał określa jego typ i kanał publikacji, przygotowuje treść i wymagane elementy dostępności oraz wskazuje znane ograniczenia lub elementy wymagające dodatkowego sprawdzenia.
 
-Na tym etapie należy w szczególności:
+## 2. Dobór zakresu kontroli
 
-- określić typ materiału i kanał publikacji,
-- przygotować treść, strukturę i metadane,
-- dołączyć elementy równoważne, jeżeli są wymagane,
-- wskazać ograniczenia, ryzyka albo elementy wymagające dodatkowej kontroli.
+Osoba sprawdzająca dobiera zakres kontroli i odpowiednie narzędzie, uwzględniając typ materiału, kanał publikacji, znaczenie informacji, odbiorców i ryzyko skutków niedostępności. Kontrola może być uproszczona, standardowa lub rozszerzona.
 
-## 2. Dobór narzędzia kontroli
+## 3. Kontrola
 
-Osoba sprawdzająca dostępność dobiera listę kontrolną, standard publikacji albo inne narzędzie przyjęte przez podmiot.
+Kontrola ma potwierdzić, czy użytkownik może odebrać informację i wykonać zadanie związane z materiałem bez barier wynikających z jego formy lub sposobu publikacji. W zależności od materiału kontrola może obejmować m.in. strukturę treści, elementy równoważne, obsługę klawiaturą, dokumenty i formularze, multimedia, poprawność publikacji w kanale docelowym oraz zgodność z przyjętymi narzędziami kontroli.
 
-Dobór powinien uwzględniać:
+## 4. Wynik i decyzja
 
-- typ materiału,
-- kanał publikacji,
-- odbiorców i znaczenie materiału,
-- ryzyko skutków niedostępności,
-- możliwość zastosowania kontroli uproszczonej lub rozszerzonej.
+Po kontroli materiał otrzymuje jeden z wyników:
 
-## 3. Kontrola dostępności
+- może zostać opublikowany,
+- wymaga poprawy i ponownej kontroli,
+- publikacja zostaje wstrzymana,
+- w uzasadnionej sytuacji uruchamiany jest wewnętrzny tryb publikacji warunkowej.
 
-Kontrola polega na potwierdzeniu, czy materiał spełnia wymagania właściwe dla swojego typu i kanału publikacji.
+Decyzja powinna wynikać z wyniku kontroli. Publikacja warunkowa nie może służyć do rutynowego omijania wymagań dostępności.
 
-Kontrola może obejmować w szczególności:
+## 5. Poprawa i ponowna kontrola
 
-- strukturę i czytelność treści,
-- dostępność dokumentu, strony, formularza albo komunikatu,
-- opisy alternatywne, napisy, transkrypcje lub inne treści równoważne,
-- poprawność techniczną w systemie publikacji,
-- kompletność metadanych i załączników,
-- zgodność z listą kontrolną lub standardem przyjętym przez podmiot.
+Jeżeli materiał wymaga poprawy, osoba sprawdzająca wskazuje zakres braków. Po poprawie materiał wraca do kontroli co najmniej w zakresie elementów, których dotyczyły uwagi.
 
-## 4. Decyzja
+## 6. Publikacja techniczna
 
-Po kontroli osoba zatwierdzająca publikację podejmuje jedną z decyzji:
-
-- publikacja po potwierdzeniu dostępności,
-- skierowanie materiału do poprawy,
-- publikacja warunkowa,
-- wstrzymanie publikacji.
-
-Decyzja powinna zostać odnotowana w sposób proporcjonalny do skali działania podmiotu, rodzaju materiału i ryzyka związanego z publikacją.
-
-## 5. Poprawa
-
-Jeżeli materiał wymaga poprawy, osoba sprawdzająca albo zatwierdzająca wskazuje zakres braków i przekazuje materiał do osoby przygotowującej lub właściwej komórki organizacyjnej.
-
-Po poprawie materiał powinien wrócić do kontroli w zakresie, którego dotyczyły braki.
-
-## 6. Publikacja
-
-Osoba publikująca technicznie udostępnia materiał po otrzymaniu potwierdzenia decyzji publikacyjnej.
-
-Jeżeli publikacja wymaga dodatkowych czynności w systemie, osoba publikująca sprawdza, czy elementy dostępności zostały zachowane w kanale docelowym, na przykład w CMS, BIP, systemie newsletterowym, formularzu, platformie społecznościowej albo systemie wewnętrznym.
+Materiał jest udostępniany po decyzji publikacyjnej. Jeżeli sposób wprowadzenia treści do CMS, BIP, formularza, systemu wysyłkowego lub platformy zewnętrznej może zmienić jej dostępność, po publikacji technicznej należy potwierdzić zachowanie kluczowych elementów dostępności w kanale docelowym.
 
 ## 7. Dokumentowanie
 
-Dokumentowanie kontroli powinno pozwalać odtworzyć:
+Sposób dokumentowania powinien być proporcjonalny do rodzaju materiału i ryzyka. Powinien umożliwiać ustalenie co najmniej:
 
-- jaki materiał był kontrolowany,
-- kto przygotował i sprawdził materiał,
-- kiedy wykonano kontrolę,
-- jakiej listy kontrolnej, standardu lub narzędzia użyto,
-- jaki był wynik kontroli,
-- jaka decyzja publikacyjna została podjęta,
-- jaki termin poprawy albo naprawy ustalono, jeżeli dotyczy.
+- identyfikacji materiału,
+- daty kontroli,
+- osoby lub roli wykonującej kontrolę,
+- zakresu albo zastosowanego narzędzia kontroli,
+- wyniku,
+- decyzji publikacyjnej,
+- terminu i odpowiedzialności za poprawę, jeżeli dotyczy.
 
-Podmiot może dokumentować wynik w karcie kontroli, systemie obiegu zadań, CMS, arkuszu, rejestrze publikacji albo innym narzędziu.
+Dokumentowanie może odbywać się w karcie kontroli, systemie obiegu zadań, CMS, arkuszu, rejestrze publikacji albo innym narzędziu.
 
 ## Powiązane dokumenty
 
 - [Kontrola dostępności treści cyfrowych przed publikacją](./procedura-kontroli-dostepnosci-przed-publikacja.md)
-- [Wzór karty kontroli dostępności przed publikacją](./wzor-karty-kontroli-dostepnosci.md)
-- [Tryb publikacji warunkowej i rejestr wyjątków](./procedura-sytuacji-wyjatkowych.md)
-- [Mapa ról i odpowiedzialności w procesie publikacji](./mapa-odpowiedzialnosci.md)
-- [Zestaw list kontrolnych według typu materiału](./listy-kontrolne-index.md)
+- [Tryb publikacji warunkowej](./procedura-sytuacji-wyjatkowych.md)
+- [Mapa ról i odpowiedzialności](./mapa-odpowiedzialnosci.md)
+- [Wzór karty kontroli](./wzor-karty-kontroli-dostepnosci.md)
+- [Zasady projektowania list kontrolnych](./projektowanie-list-kontrolnych-dostepnosci-tresci.md)

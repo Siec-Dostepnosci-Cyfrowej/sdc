@@ -1,104 +1,76 @@
 ---
 id: procedura-sytuacji-wyjatkowych
-title: Tryb publikacji warunkowej i rejestr wyjątków
-description: Załącznik opisujący warunki publikacji warunkowej, dokumentowanie wyjątków, termin naprawy i odpowiedzialność.
+title: Tryb publikacji warunkowej
+description: Wewnętrzny mechanizm organizacyjny stosowany incydentalnie, gdy materiał z rozpoznaną barierą musi zostać opublikowany przed zakończeniem działań naprawczych.
 sidebar_label: Publikacja warunkowa
 sidebar_position: 2
-keywords: [dostępność cyfrowa, publikacja warunkowa, wyjątek, rejestr wyjątków]
-tags: [komunikacja, dostępność cyfrowa, procedura]
+keywords: [dostępność cyfrowa, publikacja warunkowa, bariery dostępności, decyzja publikacyjna, naprawa]
+tags: [dostępność cyfrowa, publikacja warunkowa, bariery dostępności, decyzja publikacyjna, naprawa]
 opracowanie: Bartłomiej Wilk
 wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 11 maja 2026 r.
+ostatnia_aktualizacja: 6 września 2026 r.
 wersja_robocza: true
 ---
 
-# Tryb publikacji warunkowej i rejestr wyjątków
+# Tryb publikacji warunkowej
 
-## Cel
+## Charakter trybu
 
-Tryb publikacji warunkowej określa sposób postępowania, gdy publikacja treści cyfrowej jest konieczna mimo czasowego braku pełnego spełnienia wymagań dostępności.
+Publikacja warunkowa jest wewnętrznym mechanizmem organizacyjnym służącym do zarządzania sytuacją, w której materiał z rozpoznaną barierą dostępności musi zostać opublikowany przed zakończeniem działań naprawczych.
 
-Tryb ma charakter wyjątkowy. Nie zastępuje kontroli dostępności przed publikacją i nie może być stosowany jako stały sposób organizacji pracy.
+Nie jest ustawowym wyłączeniem z obowiązku dostępności, nie stanowi podstawy prawnej do odstąpienia od wymagań i nie zastępuje procedur wynikających z przepisów, w szczególności dotyczących alternatywnego sposobu dostępu lub nadmiernych kosztów.
 
-## Warunki zastosowania
+## Kiedy można zastosować
 
-Publikacja warunkowa może zostać zastosowana, gdy łącznie:
+Tryb może być zastosowany incydentalnie, gdy:
 
-- materiał dotyczy informacji istotnej dla realizacji zadań publicznych,
-- brak publikacji w terminie spowodowałby istotne utrudnienie dostępu do informacji albo wykonania zadania,
-- brakujący element dostępności może zostać uzupełniony w określonym terminie,
-- wskazano osobę odpowiedzialną za decyzję i naprawę,
-- udokumentowano przyczynę odstępstwa.
+- publikacja informacji w określonym terminie jest istotna dla realizacji zadania publicznego lub ochrony interesu użytkowników,
+- opóźnienie publikacji powodowałoby istotne utrudnienie dostępu do informacji albo wykonania zadania,
+- znany jest zakres bariery,
+- określono sposób ograniczenia jej skutków dla użytkowników,
+- wskazano osobę lub komórkę odpowiedzialną za naprawę,
+- wyznaczono możliwie krótki termin usunięcia bariery,
+- decyzja została udokumentowana.
 
-## Ograniczenia
+## Kiedy nie stosować
 
-Trybu publikacji warunkowej nie należy stosować:
+Trybu nie należy stosować jako zwykłego sposobu organizacji pracy, dla planowanych publikacji opóźnionych wyłącznie z powodu braku przygotowania, bez terminu naprawy albo bez wskazania odpowiedzialności.
 
-- przy planowanych publikacjach, dla których brak dostępności wynika z braku organizacji pracy,
-- jako rutynowego sposobu publikowania materiałów niedostępnych,
-- bez terminu uzupełnienia braków,
-- bez osoby odpowiedzialnej za decyzję,
-- gdy brakujący element uniemożliwia zrozumienie kluczowej informacji i nie zapewniono rozwiązania alternatywnego.
+## Decyzja
 
-## Decyzja i odpowiedzialność
+Decyzja powinna określać co najmniej:
 
-Decyzję o publikacji warunkowej podejmuje osoba uprawniona przez podmiot publiczny. Może to być kierownik komórki, redaktor prowadzący, właściciel procesu publikacji albo inna osoba wskazana w procedurze wewnętrznej.
+- materiał i kanał publikacji,
+- rozpoznaną barierę,
+- przyczynę konieczności publikacji przed naprawą,
+- działania ograniczające skutki bariery dla użytkowników,
+- osobę lub rolę zatwierdzającą decyzję,
+- osobę lub komórkę odpowiedzialną za naprawę,
+- termin usunięcia bariery.
 
-Decyzja powinna wskazywać:
+Jeżeli w danej sytuacji zastosowanie mają przepisy dotyczące alternatywnego sposobu dostępu, nadmiernych kosztów lub ustawowych wyłączeń, podmiot stosuje je niezależnie od niniejszego trybu.
 
-- czego dotyczy odstępstwo,
-- dlaczego publikacja jest konieczna,
-- kto zatwierdził publikację warunkową,
-- kto odpowiada za uzupełnienie braków,
-- jaki jest termin naprawy,
-- jak odbiorcy uzyskają dostęp do informacji do czasu usunięcia braku, jeżeli jest to potrzebne.
+## Rejestr publikacji warunkowych
 
-## Dokumentowanie
-
-Odstępstwo należy udokumentować w karcie kontroli, rejestrze wyjątków, systemie obiegu zadań albo innym narzędziu przyjętym przez podmiot.
-
-Minimalny zakres dokumentowania obejmuje:
-
-- datę i kanał publikacji,
-- tytuł i typ materiału,
-- brakujący element dostępności,
-- przyczynę odstępstwa,
-- osobę zatwierdzającą,
-- osobę odpowiedzialną za naprawę,
-- termin uzupełnienia,
-- datę zakończenia i działanie końcowe.
-
-## Termin naprawy
-
-Termin naprawy ustala się w chwili podejmowania decyzji o publikacji warunkowej. Powinien być możliwie krótki i adekwatny do rodzaju braku.
-
-Jeżeli termin nie może zostać dotrzymany, podmiot powinien odnotować przyczynę, wyznaczyć nowy termin albo zdecydować o aktualizacji, zastąpieniu lub wycofaniu materiału.
-
-## Rejestr wyjątków
-
-Rejestr wyjątków jest narzędziem zarządczym. Służy do monitorowania odstępstw, terminów naprawy i powtarzających się przyczyn problemów.
-
-Rejestr może być prowadzony jako tabela, arkusz, moduł w systemie zadań, wpis w CMS albo część rejestru publikacji.
+Podmiot może prowadzić rejestr publikacji warunkowych jako narzędzie zarządcze. Rejestr może być tabelą, arkuszem, modułem w systemie zadań, wpisem w CMS albo częścią rejestru publikacji.
 
 | Pole | Opis |
 |---|---|
 | Data publikacji | Data udostępnienia materiału. |
-| Tytuł materiału | Nazwa materiału albo identyfikator sprawy. |
-| Kanał publikacji | Np. serwis WWW, BIP, intranet, system wewnętrzny, newsletter, media społecznościowe. |
-| Typ materiału | Np. dokument, strona, formularz, komunikat, grafika, audio, wideo, post. |
-| Brakujący element dostępności | Krótki opis niespełnionego wymagania. |
-| Przyczyna odstępstwa | Uzasadnienie publikacji warunkowej. |
-| Osoba zatwierdzająca | Imię i nazwisko albo rola osoby decyzyjnej. |
-| Osoba odpowiedzialna za naprawę | Osoba lub komórka odpowiedzialna za uzupełnienie braku. |
-| Termin uzupełnienia | Data graniczna naprawy. |
-| Data uzupełnienia | Data rzeczywistego usunięcia braku. |
+| Materiał | Tytuł lub identyfikator publikacji. |
+| Kanał | Miejsce publikacji. |
+| Rozpoznana bariera | Krótki opis problemu dostępności. |
+| Uzasadnienie | Dlaczego materiał musi zostać opublikowany przed naprawą. |
+| Działanie tymczasowe | Sposób ograniczenia skutków bariery dla użytkowników. |
+| Osoba zatwierdzająca | Osoba lub rola podejmująca decyzję. |
+| Odpowiedzialność za naprawę | Osoba lub komórka. |
+| Termin naprawy | Data graniczna. |
+| Data zakończenia | Data rzeczywistego usunięcia bariery. |
 | Działanie końcowe | Uzupełniono / zaktualizowano / zastąpiono / wycofano. |
-| Uwagi | Działania korygujące albo informacja o zmianie terminu. |
 
 ## Powiązane dokumenty
 
 - [Kontrola dostępności treści cyfrowych przed publikacją](./procedura-kontroli-dostepnosci-przed-publikacja.md)
 - [Procedura kontroli dostępności przed publikacją](./procedura-wdrozeniowa-kontroli-dostepnosci-przed-publikacja.md)
-- [Wzór karty kontroli dostępności przed publikacją](./wzor-karty-kontroli-dostepnosci.md)
-- [Mapa ról i odpowiedzialności w procesie publikacji](./mapa-odpowiedzialnosci.md)
+- [Wzór karty kontroli](./wzor-karty-kontroli-dostepnosci.md)
