@@ -11,7 +11,7 @@ wersja_robocza: true
 
 ## Jak ocenić poziom dojrzałości organizacji w wymiarze _Zaopatrzenie_
 
-1. Określ [punkty dowodowe](../../terms/punkt-dowodowy), które zostaną wykorzystane do oceny dojrzałości dostępności. 
+1. Określ Punkty dowodowe, które zostaną wykorzystane do oceny dojrzałości dostępności. 
 
    Nie wszystkie punkty dowodowe mogą mieć zastosowanie do każdej firmy lub organizacji. Wymienione tutaj punkty dowodowe są niewyczerpującymi przykładami kryteriów. Mogą one mieć zastosowanie lub nie. Możesz określić inne punkty dowodowe w ich miejsce i/lub dodatkowe punkty dowodowe.
    
@@ -24,8 +24,8 @@ wersja_robocza: true
 | -------| ------| 
 | **Nieaktywny** | Organizacja nie przywiązuje w ogóle wagi do dostępności cyfrowej w procesach zakupowych albo tylko niekiedy określa przypadkowe oczekiwania. |
 | **Startowy** | Organizacja dostrzegła potrzebę uwzględniania dostępności cyfrowej w procesach zakupowych. Wszczęto prace, których celem jest przygotowanie organizacji i pracowników do stawiania i&nbsp;egzekwowania wymagań dostępności podczas zakupów i zawierania umów dotyczących technologii i&nbsp;treści cyfrowych. |
-| **Integracja** | Organizacja wdraża opracowane zasady, procedury i rozwiązania służące nabywaniu lub wytwarzaniu we własnym zakresie dostępnych produktów i usług z komponentem technologii informacyjno-komunikacyjnych. Wymagania dotyczące dostęności cyfrowej są jasno określane w dokumentach zakupowych i komunikowane dostawcom. Odpowiedzi na zaproszenia i zapytania ofertowe są analizowane i oceniane pod kątem spełnienia wymogów dostępności. Umowy o nabycie i wdrożenie technologii i treści cyfrowych są zawierane po zweryfikowaniu zgodności z deklarowanym przez dostawcę i akceptowanym przez nabywcę poziomem dostępności. Pracownicy zdobywają kompetencje w zakresie dostępności cyfrowej odpowiednie do swojej roli w procesach zakupowych. | 
-| **Optymalizacja** | Organizacja w pełni i spójnie stosuje i&nbsp;egzekwuje [wymogi dostępności cyfrowej](../../terms/wymogi-dostepnosci) we wszystkich procesach pozyskiwania, w&nbsp;tym zakupów i&nbsp;wytwarzania produktów i usług z komponentem technologii informacyjno-komunikacyjnych. Efektywność procesów zaopatrzenia jest stale monitorowana i poprawiana w razie potzreby|
+| **Integracja** | Organizacja wdraża opracowane zasady, procedury i rozwiązania służące nabywaniu lub wytwarzaniu we własnym zakresie dostępnych produktów i usług z komponentem technologii informacyjno-komunikacyjnych. Wymagania dotyczące dostępności cyfrowej są jasno określane w dokumentach zakupowych i komunikowane dostawcom. Odpowiedzi na zaproszenia i zapytania ofertowe są analizowane i oceniane pod kątem spełnienia wymogów dostępności. Umowy o nabycie i wdrożenie technologii i treści cyfrowych są zawierane po zweryfikowaniu zgodności z deklarowanym przez dostawcę i akceptowanym przez nabywcę poziomem dostępności. Pracownicy zdobywają kompetencje w zakresie dostępności cyfrowej odpowiednie do swojej roli w procesach zakupowych. | 
+| **Optymalizacja** | Organizacja w pełni i spójnie stosuje i&nbsp;egzekwuje wymogi dostępności cyfrowej we wszystkich procesach pozyskiwania, w&nbsp;tym zakupów i&nbsp;wytwarzania produktów i usług z komponentem technologii informacyjno-komunikacyjnych. Efektywność procesów zaopatrzenia jest stale monitorowana i poprawiana w razie potrzeby|
 
 ## Punkty dowodowe
 

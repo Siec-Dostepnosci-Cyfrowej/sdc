@@ -82,7 +82,7 @@ Procedura dotyczy wszystkich pracowników organizacji, w tym osób zatrudnionych
 
 ## 8. Postanowienia końcowe
 - Procedura wchodzi w życie z dniem ………….  
-- Nadzór nad realizacją i aktualizacją dokumentu sprawuje dział Dział kadr.  
+- Nadzór nad realizacją i aktualizacją dokumentu sprawuje Dział kadr.  
 - Załączniki:
   - **Załącznik nr 1:** Formularz wniosku o dostosowanie cyfrowe  
   - Lista przykładowych narzędzi wspomagających (np. czytniki ekranu, powiększalniki, oprogramowanie rozpoznawania mowy)

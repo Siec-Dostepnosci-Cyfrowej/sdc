@@ -1,9 +1,9 @@
 ---
 id: streszczenie-mdd-w3c
-title: "Streszczenie Modelu dojrzałości dostępności W3C"
+title: Streszczenie Modelu dojrzałości dostępności W3C
 sidebar_position: 6
 sidebar_label: Streszczenie MDD
-description: Streszczenie noty W3C Model dojrzłości dostępności 
+description: Streszczenie noty W3C Model dojrzałości dostępności 
 keywords: [zarządzanie, dostępnośc cyfrowa, audyt, samoocena]
 tags: [zarządzanie, dostępnośc cyfrowa, audyt, samoocena]
 opracowanie: Stefan Wajda

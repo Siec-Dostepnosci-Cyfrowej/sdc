@@ -408,10 +408,10 @@ W opisie wymiaru **Wiedza i umiejętności** w [Modelu dojrzałości dostępnoś
 
 W opisie zwrócono także uwagę, że „wiedza i umiejętności specyficzne dla każdego z&nbsp;pozostałych wymiarów powinny być uwzględnione w&nbsp;odpowiednich punktach dowodowych, w stosownych przypadkach”.
 
-Pracownicy wewnętrzni i zewnętrzni na wszystkich szczeblach [organizacji]../../terms/organizacja) powinni mieć wiedzę i&nbsp;umiejętności z zakresu dostępności, adekwatne do pełnionych przez nich ról. Wiedza i umiejętności z zakresu dostępności, adekwatne do stanowiska każdej osoby, pomagają pracownikom zrozumieć ich rolę w osiąganiu celów organizacji w zakresie dostępności.
+Pracownicy wewnętrzni i zewnętrzni na wszystkich szczeblach organizacji powinni mieć wiedzę i&nbsp;umiejętności z zakresu dostępności, adekwatne do pełnionych przez nich ról. Wiedza i umiejętności z zakresu dostępności, adekwatne do stanowiska każdej osoby, pomagają pracownikom zrozumieć ich rolę w osiąganiu celów organizacji w zakresie dostępności.
 
 
-Chociaż wymiar ten obejmuje [punkty dowodowe,](../../terms/punkt-dowodowy), które należy wdrożyć na poziomie organizacji, wiedza i umiejętności specyficzne dla każdego z pozostałych wymiarów powinny być uwzględnione w&nbsp;odpowiednich punktach dowodowych, w stosownych przypadkach.
+Chociaż wymiar ten obejmuje punkty dowodowe, które należy wdrożyć na poziomie organizacji, wiedza i umiejętności specyficzne dla każdego z pozostałych wymiarów powinny być uwzględnione w&nbsp;odpowiednich punktach dowodowych, w stosownych przypadkach.
 
 ## Propozycje tematów zaleceń, rozwiązań i praktyk
 

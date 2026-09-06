@@ -4,8 +4,8 @@ title: Koordynator ds. dostępności cyfrowej
 sidebar_label: Koordynator
 sidebar_position: 4
 description: O roli koordynatora ds. dostępności cyfrowej w zapewnianiu dostępności cyfrowej
-keywords: [kultura organziacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępności cyfrowej, koordynacja dostępnością cyfrową]
-tags: [kultura organziacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępności cyfrowej, koordynacja dostępnością cyfrową]
+keywords: [kultura organizacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępności cyfrowej, koordynacja dostępnością cyfrową]
+tags: [kultura organizacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępności cyfrowej, koordynacja dostępnością cyfrową]
 opracowanie: Stefan Wajda
 data_zgloszenia: 21 grudnia 2025 r.
 ostatnia_aktualizacja: 21 stycznia 2026 r.
@@ -19,7 +19,7 @@ Koordynator ds. dostępności cyfrowej pełni rolę **organizacyjną, integrują
 
 Rola ta nie polega na samodzielnym wykonywaniu wszystkich działań technicznych związanych z dostępnością, lecz na **organizowaniu, wspieraniu i nadzorowaniu** procesu zapewniania dostępności cyfrowej w całej organizacji.
 
-Koordynator działa w ścisłej współpracy z kierownictwem podmiotu, Zespołem ds. Dostępności, komórkami organizacyjnymi oraz – w razie potrzeby – biurem ds. dostępności.
+Koordynator współpracuje z jednostkami odpowiedzialnymi za zapewnienie dostępności cyfrowej.
 
 ---
 
@@ -40,7 +40,7 @@ a nie ograniczała się do działań incydentalnych lub wyłącznie formalnych.
 
 1. Koordynator ds. dostępności cyfrowej jest wyznaczany przez kierownika podmiotu.
 2. Koordynator:
-   - organizuje i prowadzi prace Zespołu ds. Dostępności,
+   - organizuje i prowadzi prace zespołu ds. dostępności,
    - współpracuje z komórkami organizacyjnymi odpowiedzialnymi za obszary mające wpływ na dostępność cyfrową,
    - przedstawia kierownictwu informacje, analizy i rekomendacje.
 3. W dużych organizacjach Koordynator może korzystać ze wsparcia biura ds. dostępności lub innej wyodrębnionej komórki organizacyjnej.

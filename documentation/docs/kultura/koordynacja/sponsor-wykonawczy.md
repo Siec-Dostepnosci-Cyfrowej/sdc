@@ -4,8 +4,8 @@ title: Sponsor wykonawczy ds. dostępności
 sidebar_label: Sponsor wykonawczy
 sidebar_position: 3
 description: O roli sponsora wykonawczego w zapewnianiu dostępności cyfrowej
-keywords: [kultura organziacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępności cyfrowej, koordynacja dostępnością cyfrową]
-tags: [kultura organziacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępności cyfrowej, koordynacja dostępnością cyfrową]
+keywords: [kultura organizacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępności cyfrowej, koordynacja dostępnością cyfrową]
+tags: [kultura organizacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępności cyfrowej, koordynacja dostępnością cyfrową]
 opracowanie: Stefan Wajda
 data_zgloszenia: 21 grudnia 2025 r.
 ostatnia_aktualizacja: 21 grudnia 2025 r.
@@ -39,7 +39,7 @@ Sponsor wykonawczy odpowiada za to, aby dostępność była traktowana jako **el
 1. Funkcję sponsora wykonawczego ds. dostępności pełni:
    - kierownik podmiotu lub
    - członek kierownictwa posiadający realny wpływ na decyzje strategiczne i organizacyjne.
-2. Sponsor wykonawczy działa w bezpośredniej relacji z Koordynatorem ds. dostępności oraz Zespołem ds. Dostępności.
+2. Sponsor wykonawczy działa w bezpośredniej relacji z Koordynatorem ds. dostępności oraz zespołem ds. dostępności.
 3. Rola sponsora wykonawczego powinna być jasno określona i komunikowana w organizacji.
 
 ---
@@ -107,7 +107,7 @@ Rola sponsora wykonawczego ds. dostępności ma kluczowe znaczenie dla skuteczno
 
 Bez aktywnego i świadomego wsparcia sponsora wykonawczego:
 - wpływ Koordynatora na zmiany organizacyjne może być ograniczony,
-- działania Zespołu ds. Dostępności mogą mieć charakter wyłącznie opiniodawczy,
+- działania zespołu ds. dostępności mogą mieć charakter wyłącznie opiniodawczy,
 - dostępność może pozostać na poziomie deklaratywnym.
 
 Obecność sponsora wykonawczego zapewnia, że dostępność staje się **rzeczywistym elementem zarządzania organizacją**.

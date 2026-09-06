@@ -24,7 +24,7 @@ Wsparcie stanowi kluczowy element systemu zapewniania dostępności cyfrowej. O 
 
 ### Cel wymiaru
 
-**Celem wymiaru Wsparcie jest zapewnienie użytkownikom i pracownikom skutecznej skutecznej, dostępnej i terminowej pomocy w korzystaniu z technologii informacyjno-komunikacyjnych (TIK), usług cyfrowych oraz treści wytwarzanych, utrzymywanych lub udostępnianych przez organizację.**
+**Celem wymiaru Wsparcie jest zapewnienie użytkownikom i pracownikom skutecznej, dostępnej i terminowej pomocy w korzystaniu z technologii informacyjno-komunikacyjnych (TIK), usług cyfrowych oraz treści wytwarzanych, utrzymywanych lub udostępnianych przez organizację.**
 
 Dojrzałe wsparcie zapewnia:
 

@@ -52,11 +52,12 @@ W organizacjach złożonych z wielu podmiotów (np. gminach, powiatach itp.) pol
 
 ## Podstawa prawna
 
-- Art. 5 ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych z dnia 4 kwietnia 2019 r. z późn. zmianami (Dz. U. 2019, poz. 848)
-- Art. 4 pkt. 3 ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami z dnia 19 lipca 2019 r. (Dz. U. 2019, poz. 1696)
-- Art. 5 pkt. 2 ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami z dnia 19 lipca 2019 r. (Dz. U. 2019, poz. 1696)
-- Art. 100 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych z późn. zmianami (Dz. U. 2019 poz. 2019)
-- Art. 106 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych z późn. zmianami (Dz. U. 2019 poz. 2019)
+- Art. 5 ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz. U. 2019 poz. 848)
+- Art. 4 pkt 3 ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. 2019 poz. 1696)
+- Art. 5 pkt 2 ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. 2019 poz. 1696)
+- Art. 100 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. 2019 poz. 2019)
+- Art. 106 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. 2019 poz. 2019)
+
 
 ## Uzasadnienie
 

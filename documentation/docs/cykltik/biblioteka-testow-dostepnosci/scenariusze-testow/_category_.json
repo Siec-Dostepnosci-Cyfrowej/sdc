@@ -1,0 +1,8 @@
+{
+  "label": "Biblioteka testów dostępności cyfrowej",
+  "position": 10,
+  "link": {
+    "type": "generated-index",
+	"description": "Biblioteka testów dostępności cyfrowej zawiera scenariusze służące do badania cech dostępności, obiektów i procesów użytkownika. Scenariusze można wyszukiwać i dobierać za pomocą tagów, między innymi według profilu oceny, przedmiotu testu oraz rodzaju badanego rozwiązania cyfrowego."
+  }
+}

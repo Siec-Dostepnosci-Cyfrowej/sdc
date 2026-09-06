@@ -1,7 +1,8 @@
 {
-  "label": "Zasady oceny ofert",
+  "label": "Wymagania dostępności cyfrowej w ofertach",
   "position": 3,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+	"description": "Zapewnienie dostępności nabywanych produktów i usług cyfrowych rozpoczyna się od właściwego określenia wymagań wobec wykonawców oraz sposobu wykazania ich spełnienia. Zalecenie wraz z załącznikami pomaga organizacjom publicznym definiować wymagania dostępności cyfrowej odpowiednie do charakteru zamówienia, określać oczekiwane informacje i dowody przedstawiane przez oferentów oraz oceniać wiarygodność deklaracji dotyczących spełnienia tych wymagań. Wspiera ograniczanie ryzyka wyboru wykonawcy niezdolnego do zapewnienia i utrzymania dostępności cyfrowej oraz ujednolica sposób przygotowywania i prowadzenia postępowań zakupowych dotyczących technologii i treści cyfrowych."
   }
 }

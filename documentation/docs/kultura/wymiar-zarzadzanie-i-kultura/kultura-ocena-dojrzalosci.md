@@ -9,7 +9,7 @@ ostatnia_aktualizacja: 24 września 2025 r.
 wersja_robocza: true
 ---
 
-Aby wykazać dojrzałość kulturową w zakresie dostępności, wszystkie aspekty działania [organizacji](../../terms/organizacja), procesy i umiejętności powinny uwzględniać kwestie integracji osób z&nbsp;niepełnosprawnościami. Każdy w organizacji powinien rozumieć i&nbsp;być wrażliwy na znaczenie dostępności cyfrowej, w tym na swoją osobistą rolę i obowiązki w&nbsp;osiąganiu celów organizacji w&nbsp;zakresie dostępności. Dostępność powinna być integralną częścią różnorodności i&nbsp;integracji w organizacji, z&nbsp;wyraźnym uznaniem korzyści płynących z&nbsp;integracji osób z niepełnosprawnościami oraz wpływu dostępności cyfrowej na osoby z&nbsp;niepełnosprawnościami w celu ułatwienia dostępu do miejsc pracy, usług i&nbsp;innych aspektów życia.
+Aby wykazać dojrzałość kulturową w zakresie dostępności, wszystkie aspekty działania organizacji, procesy i umiejętności powinny uwzględniać kwestie integracji osób z&nbsp;niepełnosprawnościami. Każdy w organizacji powinien rozumieć i&nbsp;być wrażliwy na znaczenie dostępności cyfrowej, w tym na swoją osobistą rolę i obowiązki w&nbsp;osiąganiu celów organizacji w&nbsp;zakresie dostępności. Dostępność powinna być integralną częścią różnorodności i&nbsp;integracji w organizacji, z&nbsp;wyraźnym uznaniem korzyści płynących z&nbsp;integracji osób z niepełnosprawnościami oraz wpływu dostępności cyfrowej na osoby z&nbsp;niepełnosprawnościami w celu ułatwienia dostępu do miejsc pracy, usług i&nbsp;innych aspektów życia.
 
 ## Jak ocenić poziom dojrzałości zarządzania i kultury organizacyjnej
 
@@ -55,7 +55,7 @@ Poziom **integracji** osiąga się, gdy dowody wskazują, że:
 - Polityki dostępności są częściowo realizowane
 - Ustalono wskaźniki i wdrożono praktyki rekrutacyjne
 - Promowana jest różnorodność i włączenie społeczne, ale nie opracowano żadnego planu działania
-- Utworzono [społeczności praktyków](../../terms/spolecznosci_praktyków)
+- Utworzono społeczności praktyków
 - Rozpoczęto szkolenia na temat wiedzy i umiejętności związanych z kulturą dostępności, odpowiednie do każdego stanowiska.
 
 ### Optymalny
@@ -72,7 +72,7 @@ Poziom **optymalny** osiąga się, gdy dowody wskazują, że:
 
 ## Punkty dowodowe
 
-[Punkty dowodowe](../../terms/punkt-dowodowy) dotyczące wymiaru Nadzór i kultura organizacyjna mogą obejmować między innymi:
+Punkty dowodowe dotyczące wymiaru Nadzór i kultura organizacyjna mogą obejmować między innymi:
 
 ### Kultura integracji osób z niepełnosprawnościami
 
@@ -92,7 +92,7 @@ Poziom **optymalny** osiąga się, gdy dowody wskazują, że:
 - Strategia rozwoju obejmuje dostępność cyfrową jako cel.
 - Dostępność cyfrowa uwzględniona w podstawowych wartościach.
 - Dostępność cyfrowa uwzględniona w kodeksie postępowania.
-- Skupienie się na dostępności cyfrowej w [społecznościach praktyków]../../terms/spolecznosci_praktykow)
+- Skupienie się na dostępności cyfrowej w społecznościach praktyków
 - Włączenie kryteriów dostępności cyfrowej do ocen efektywności pracowników i kadry kierowniczej
 - Skuteczność programu dostępności cyfrowej jest monitorowana i ulepszana.
 - Badania satysfakcji pracowników obejmują dane dotyczące dostępności i niepełnosprawności
@@ -103,7 +103,7 @@ Poziom **optymalny** osiąga się, gdy dowody wskazują, że:
 -->
 ### Szkolenie ogólne
 
-- Szkolenia związane z dostępnością w celu zdobycia i utrzymania odpowiednich umiejętności wspierających [punkty dowodowe](../../terms/punkt-dowodowy) tego [wymiaru](../../terms/wymiar-dostepnosci).
+- Szkolenia związane z dostępnością w celu zdobycia i utrzymania odpowiednich umiejętności wspierających Punkty dowodowe tego wymiaru.
 
 ### Cele i wskaźniki wymiarów
 

@@ -7,13 +7,13 @@ description:  Wskazówki do skonstruowania preambuły (cześć wstępna polityki
 keywords: [
         polityka dostępności,
         dostępność cyfrowa,
-        kultura organziacyjna,
+        kultura organizacyjna,
 		zarządzanie,
 ]
 tags: [
         polityka dostępności,
         dostępność cyfrowa,
-        kultura organziacyjna,
+        kultura organizacyjna,
 		zarządzanie,
 ]
 opracowanie: Anna Czekalska
@@ -85,7 +85,7 @@ Proponowany podział struktury preambuły:
     realnym doświadczeniem osób, które korzystają z naszych usług i
     przestrzeni.
 
-W preambule należy uwzględnić poniżesz aspekty:
+W preambule należy uwzględnić poniższe aspekty:
 
 - **aspekty etyczne**\
   traktowanie wszystkich ludzi z szacunkiem i równością,
@@ -100,17 +100,13 @@ W preambule należy uwzględnić poniżesz aspekty:
 - **aspekty technologiczne i ekonomiczne**\
   dostępność jako element innowacji i oszczędności,
 - **aspekty osobiste**\
-  odkreślenie wpływu dostępności na życie codzienne jednostek.
+  określenie wpływu dostępności na życie codzienne jednostek.
 
 ## Podstawa prawna {#podstawa-prawna}
 
-- Art. 3 Konwencji o prawach osób niepełnosprawnych (Dz.U. 2012 poz.
-  1169)
-- Art. 5 Ustawy o dostępności cyfrowej stron internetowych i aplikacji
-  mobilnych podmiotów publicznych z dnia 4 kwietnia 2019 r. z późn.
-  zmianami (Dz. U. 2019, poz. 848)
-- Art. 4 pkt. 3 Ustawy o zapewnianiu dostępności osobom ze szczególnymi
-  potrzebami z dnia 19 lipca 2019 r. (Dz. U. 2019, poz. 1696)
+- Art. 3 Konwencji o prawach osób niepełnosprawnych (Dz. U. 2012 poz. 1169)
+- Art. 5 ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz. U. 2019 poz. 848)
+- Art. 4 pkt 3 ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. 2019 poz. 1696)
 
 ## Uzasadnienie {#uzasadnienie}
 

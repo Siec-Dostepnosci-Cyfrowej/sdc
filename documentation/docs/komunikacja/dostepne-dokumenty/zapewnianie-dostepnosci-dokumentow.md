@@ -1,118 +1,222 @@
 ---
 id: zapewnianie-dostepnosci-dokumentow
-title: Zapewnianie dostępności cyfrowej dokumentów biurowych
+title: Zapewnianie dostępności cyfrowej dokumentów
 sidebar_position: 0
-sidebar_label: Projekt zalecenia
-description: Organizacja ustanawia i wdraża zasady oraz procedury zapewniające dostępność dokumentów cyfrowych 
-keywords: [dostępne dokumenty, komunikacja, wiedza i umiejętności]
-tags: [dostępne dokumenty, komunikacja, wiedza i umiejętności]
+sidebar_label: Zalecenie
+description: Zalecenie określające zasady organizacji procesu przygotowania, publikacji i utrzymania dostępnych dokumentów cyfrowych.
+keywords: [dostępne dokumenty, dokumenty cyfrowe, komunikacja, wiedza i umiejętności, dostępność cyfrowa, komunikacja cyfrowa]
+tags: [dostępne dokumenty, dokumenty cyfrowe, komunikacja, wiedza i umiejętności, dostępność cyfrowa, komunikacja cyfrowa]
 opracowanie: Stefan Wajda
 data_zgloszenia: 8 listopada 2025 r.
-ostatnia_aktualizacja: 4 lutego 2026 r.
+ostatnia_aktualizacja: 10 maja 2026 r.
 wersja_robocza: true
 ---
 
-
 ## 1. Cel zalecenia
 
-Celem tego zalecenia jest wzmocnienie działań podejmowanych przez podmioty publiczne w zakresie **zapewnienia dostępności cyfrowej dokumentów biurowych**, w szczególności plików tekstowych, prezentacji i arkuszy kalkulacyjnych, które są publikowane lub przekazywane w formie elektronicznej.
+Celem zalecenia jest zapewnienie, aby dokumenty cyfrowe wykorzystywane przez organizację w komunikacji cyfrowej oraz realizacji zadań publicznych były przygotowywane, publikowane i utrzymywane zgodnie z wymaganiami dostępności cyfrowej.
 
-Zalecenie służy ujednoliceniu praktyk w administracji publicznej, podniesieniu jakości udostępnianych treści oraz realizacji obowiązków wynikających z przepisów prawa dotyczących dostępności cyfrowej.
+Zalecenie określa sposób organizacji działań związanych z dostępnością dokumentów, stanowiąc rozwinięcie zasad organizacji procesów komunikacji cyfrowej i publikacji treści w odniesieniu do dokumentów cyfrowych.
 
 ---
 
 ## 2. Zalecenie
 
-Organizacja ustanawia i wdraża zasady oraz procedury zapewniające, że **wszystkie nowo tworzone i publikowane dokumenty biurowe są zgodne z wymaganiami dostępności cyfrowej**, określonymi w **standardzie WCAG 2.1 na poziomie AA** oraz **normie EN 301 549**.  
-Jednocześnie zapewnia warunki organizacyjne i kompetencje pracowników niezbędne do utrzymania tej zgodności.
+Organizacja ustanawia i wdraża zasady oraz procedury zapewniające dostępność cyfrową dokumentów wykorzystywanych w komunikacji cyfrowej i publikacji treści, obejmujące ich przygotowanie, weryfikację, publikację, aktualizację oraz utrzymanie dostępności dokumentów pozostających w obiegu informacyjnym organizacji.
 
-Zalecenie obejmuje również wcześniej opublikowane dokumenty, których treść jest nadal wykorzystywana do realizacji bieżących zadań organizacji.
+Organizacja zapewnia warunki organizacyjne, techniczne i kompetencyjne niezbędne do realizacji tych działań.
 
 ---
 
 ## 3. Rekomendacje
 
-Dla realizacji zalecenia rekomenduje się, aby podmioty publiczne podejmowały następujące działania:
+### 3.1. Organizacja ustanawia zasady przygotowania i publikacji dokumentów
 
-### 3.1. Rozwiązania organizacyjne
+Organizacja określa zasady przygotowania, publikacji, aktualizacji oraz utrzymania dostępności dokumentów cyfrowych.
 
-1. **Opracowały i przyjęły wewnętrzne zasady (politykę)** w zakresie tworzenia, formatowania i publikowania dostępnych dokumentów biurowych, zgodne z zasadami **dostępności cyfrowej**, określonymi w **standardzie WCAG 2.1 na poziomie AA** oraz **normie EN 301 549 (rozdział 10 – dokumenty elektroniczne)**.  
-2. **Określiły role i odpowiedzialność pracowników** za zapewnianie dostępności cyfrowej dokumentów w regulaminach organizacyjnych, opisach stanowisk pracy i zakresach obowiązków.  
-3. **Wyznaczyły osoby odpowiedzialne** za koordynację działań w obszarze dostępności dokumentów cyfrowych (np. koordynatora ds. dostępnych dokumentów).  
-4. **Uwzględniły zagadnienia dostępności dokumentów** w planach szkoleń zawodowych, strategiach komunikacji elektronicznej i planach rozwoju kompetencji cyfrowych.  
-5. **Włączyły kryteria dostępności cyfrowej** do procedur zamówień publicznych dotyczących oprogramowania biurowego, usług wydawniczych i szkoleń.  
-6. **Wprowadziły do procedur kontroli wewnętrznej** elementy oceny dostępności dokumentów udostępnianych obywatelom (np. w ramach BIP, stron internetowych, ePUAP).  
-7. **Monitorowały poziom dostępności dokumentów** w ramach kontroli wewnętrznej oraz sprawozdań z realizacji ustawy o dostępności.
+W szczególności organizacja:
 
----
+1. określa wymagania dotyczące dostępności dokumentów cyfrowych zgodnie z WCAG oraz normą EN 301 549,
+2. określa zasady publikacji dokumentów w kanałach cyfrowych organizacji,
+3. określa zasady przygotowania dokumentów przeznaczonych do wielokrotnego wykorzystania,
+4. określa zasady postępowania z dokumentami pochodzącymi od podmiotów zewnętrznych,
+5. uwzględnia dostępność dokumentów w procedurach obiegu informacji i publikacji treści.
 
-### 3.2. Rozwój kompetencji
-
-8. **Zapewniły systemowe szkolenia podstawowe** z zakresu tworzenia dostępnych dokumentów dla wszystkich pracowników przygotowujących treści cyfrowe.  
-9. **Wprowadziły ścieżki doskonalenia zawodowego** dla osób opracowujących dokumenty, zakończone uzyskaniem mikropoświadczeń potwierdzających kompetencje w zakresie dostępności cyfrowej.  
-10. **Zapewniły aktualność wiedzy pracowników** poprzez udział w szkoleniach, warsztatach lub programach wymiany doświadczeń w ramach Sieci Dostępności Cyfrowej.  
-11. **Uwzględniały aspekty dostępności cyfrowej dokumentów** w planach szkoleń zawodowych i strategiach rozwoju organizacji.
+Zasady dotyczące dokumentów powinny być powiązane z organizacją procesów komunikacji cyfrowej i publikacji treści w organizacji.
 
 ---
 
-### 3.3. Narzędzia i praktyka
+### 3.2. Organizacja określa role i odpowiedzialność
 
-12. **Opracowały i udostępniły spójne szablony dokumentów** (Word, PowerPoint, Excel, PDF) zgodne z zasadami dostępności cyfrowej.  
-13. **Wprowadziły obowiązek sprawdzania dostępności dokumentów** przed ich publikacją – zarówno automatycznie, jak i manualnie.  
-14. **Stosowały procedury weryfikacji dostępności** w ramach kontroli jakości, audytów i przeglądów okresowych.  
-15. **Zapewniły pracownikom narzędzia wspomagające i weryfikujące dostępność dokumentów**, takie jak listy kontrolne, wbudowane moduły pakietu Office, walidator PAC, oprogramowanie Adobe Acrobat Pro.  
+Organizacja określa odpowiedzialność za:
 
----
+- przygotowanie dokumentów,
+- zapewnienie elementów dostępności,
+- weryfikację dokumentów przed publikacją,
+- publikację i aktualizację dokumentów,
+- utrzymanie dokumentów w aktualnej i dostępnej postaci,
+- nadzór nad procesem zapewniania dostępności dokumentów.
 
-## 4. Podstawy prawne
-
-1. **Ustawa z dnia 4 kwietnia 2019 r.** o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz.U. 2019 poz. 848 z późn. zm.).  
-2. **Ustawa z dnia 19 lipca 2019 r.** o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz.U. 2020 poz. 1062 z późn. zm.).  
-3. **Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/882** z dnia 17 kwietnia 2019 r. w sprawie wymogów dostępności produktów i usług (European Accessibility Act).  
-4. **Norma europejska EN 301 549 V3.2.1 (2021-03)** – Wymagania dotyczące dostępności produktów i usług ICT.  
-5. **Wytyczne WCAG 2.1 (Wytyczne dla dostępności treści internetowych)** opracowane przez W3C/WAI.  
-6. **Wytyczne Komisji Europejskiej z 2022 r.** w sprawie mikropoświadczeń w edukacji i szkoleniach
+Zakres odpowiedzialności powinien być dostosowany do wielkości i struktury organizacji.
 
 ---
 
-## 5. Uzasadnienie
+### 3.3. Organizacja zapewnia dostępność dokumentów w całym okresie ich wykorzystania
 
-Dostępność cyfrowa dokumentów biurowych jest niezbędnym elementem równego dostępu obywateli do informacji publicznej oraz efektywnej komunikacji administracji publicznej.  
-Dokumenty takie jak pisma, formularze, raporty, prezentacje czy instrukcje są często jedynym źródłem informacji dla osób z niepełnosprawnościami. Ich prawidłowe przygotowanie, zgodne ze standardami dostępności, umożliwia korzystanie z nich za pomocą technologii wspomagających.
+Procedury obejmują co najmniej:
 
-Zapewnienie dostępności dokumentów:
-- realizuje zobowiązania wynikające z ustaw o dostępności cyfrowej i zapewnianiu dostępności,  
-- zwiększa przejrzystość, efektywność i wizerunek administracji publicznej,  
-- wspiera cele Europejskiego Aktu o Dostępności (EAA) oraz krajowej strategii cyfryzacji,  
-- przyczynia się do wzrostu kompetencji cyfrowych pracowników i standaryzacji pracy urzędów.  
+- tworzenie dokumentów,
+- aktualizację,
+- ponowne wykorzystanie, 
+- publikację kolejnych wersji.
+
+Organizacja zapewnia, aby sposób przygotowania dokumentów umożliwiał zachowanie ich dostępności podczas dalszego wykorzystania, publikacji i aktualizacji.
 
 ---
 
-## 6. Źródła i opracowania
+### 3.4. Organizacja zapewnia kontrolę jakości dokumentów
 
-1. [Wytyczne WCAG 2.1 (Wytyczne dla dostępności treści internetowych)](https://www.w3.org/Translations/WCAG21-pl/). 
-2. Dyrektywa (UE) 2016/2102 Parlamentu Europejskiego i Rady z dnia 26 października 2016 r. w sprawie dostępności stron internetowych i aplikacji mobilnych organów sektora publicznego. 
-3. [PL ETSI EN 301 549 V3.2.1 – Wymagania dotyczące dostępności produktów i usług ICT](https://sklep.pkn.pl/pn-etsi-en-301-549-v3-2-1-2021-09p.html). 
-4. Dyrektywa (UE) 2019/882 – Europejski Akt o Dostępności (EAA).  
-5. Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz.U. 2019 poz. 848 z późn. zm.).  
-6. Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz.U. 2019 poz. 1696 z późn. zm.).  
-7. [W3C Web Accessibility Initiative (WAI): Planning and Managing Web Accessibility](https://www.w3.org/WAI/planning-and-managing/)
-8. [European Approach to Micro-Credentials (2022) – Communication from the European Commission](https://education.ec.europa.eu/sites/default/files/document-library-docs/european-approach-micro-credentials-higher-education-consultation-group-output-final-report.pdf)
+Organizacja wdraża procedury weryfikacji dostępności dokumentów przed ich publikacją lub przekazaniem użytkownikom.
 
-## Załączniki
+Kontrola obejmuje w szczególności:
 
-1. [Przykładowa Polityka dostępnych dokumentów](polityka-dostepnych-dokumentow)
-2. [Przykładowa Procedura zapewniania dostępności cyfrowej dokumentów](zapewnianie-dostepnosci-cyfrowej-dokumentow)
-3. [Przykładowy Plan wdrożenia procedury zapewniania dostępności cyfrowej dokumentów](plan-wdrozenia-procedury-dostepnosci-cyfrowej-dokumentow)
-4. [Przykładowa Polityka szkolenia i doskonalenia kompetencji w zakresie tworzenia dostępnych dokumentów cyfrowych](polityka-szkolenia-i-doskonalenia-kompetencji)
-5. [Przykładowy poradnik Tworzenie dostępnych dokumentów w praktyce](podrecznik-tworzenie-dostepnych-dokumentow-w-praktyce)
-6. [Przykładowa Lista kontrolna dostępnego dokumentu](plan-wdrozenia-procedury-dostepnosci-cyfrowej-dokumentow)
-7. [Przykładowy test wiedzy – Tworzenie dostępnych dokumentów w praktyce](test-wiedzy-tworzenie-dostepnych-dokumentow)
-8. [Przykładowy Raport z badania kompetencji w zakresie dostępności cyfrowej dokumentów](wzor-raportu-z-badania-kompetencji)
-9. [Przykładowe Mikropoświadczenie: Twórca dostępnych dokumentów Word i PowerPoint](PL-ACC-001-Tworca-dostepnych-dokumentow-Word-i-PowerPoint)
+- poprawność struktury dokumentu,
+- kompletność informacji,
+- zgodność z wymaganiami dostępności,
+- poprawność eksportu do formatów publikacji,
+- możliwość korzystania z dokumentu z wykorzystaniem technologii wspomagających.
 
- 
+Kontrola dostępności dokumentów przed publikacją jest realizowana zgodnie z procedurą kontroli dostępności przed publikacją obowiązującą w organizacji.
+
+---
+
+### 3.5. Organizacja zapewnia odpowiednie narzędzia i rozwiązania techniczne
+
+Organizacja:
+
+1. zapewnia narzędzia umożliwiające tworzenie i publikację dostępnych dokumentów,
+2. udostępnia szablony dokumentów zgodne z wymaganiami dostępności,
+3. zapewnia możliwość weryfikacji dostępności dokumentów,
+4. uwzględnia dostępność przy wyborze systemów, usług i oprogramowania wykorzystywanego do tworzenia, publikacji i zarządzania dokumentami.
+
+W szczególności organizacja uwzględnia wymagania dostępności przy wykorzystaniu:
+
+- pakietów biurowych,
+- systemów EZD,
+- repozytoriów dokumentów,
+- systemów publikacji treści,
+- narzędzi eksportu PDF.
+
+---
+
+### 3.6. Organizacja zapewnia rozwój kompetencji
+
+Organizacja zapewnia kompetencje niezbędne do tworzenia, publikacji i utrzymania dostępnych dokumentów.
+
+Kompetencje są rozwijane poprzez połączenie:
+
+- materiałów operacyjnych,
+- standardów,
+- wsparcia eksperckiego,
+- mikro-szkoleń,
+- realizacji rzeczywistych zadań.
+
+Organizacja zapewnia wsparcie kompetencyjne zgodnie z przyjętym systemem zarządzania kompetencjami oraz modelem zapewniania wsparcia kompetencyjnego.
+
+---
+
+### 3.7. Organizacja monitoruje i doskonali proces
+
+Organizacja monitoruje funkcjonowanie procesu zapewniania dostępności dokumentów.
+
+Monitorowanie obejmuje w szczególności:
+
+- analizę błędów i problemów,
+- analizę zgłoszeń użytkowników,
+- identyfikację powtarzających się nieprawidłowości,
+- ocenę skuteczności stosowanych procedur i narzędzi.
+
+Wyniki monitorowania są wykorzystywane do:
+
+- aktualizacji procedur,
+- doskonalenia standardów,
+- działań naprawczych,
+- planowania działań szkoleniowych,
+- rozwoju organizacji procesu publikacji dokumentów.
+
+---
+
+## 4. Powiązania z innymi zaleceniami
+
+Zalecenie stanowi element systemu zapewniania dostępności komunikacji cyfrowej.
+
+W szczególności pozostaje powiązane z zaleceniami:
+
+- Organizacja procesów komunikacji cyfrowej i publikacji treści,
+- Zarządzanie standardami tworzenia i publikacji treści cyfrowych,
+- Kontrola dostępności przed publikacją,
+- Treści od innych podmiotów,
+- Zarządzanie publicznie udostępnianymi dokumentami,
+- Systemowe zarządzanie kompetencjami w zakresie dostępności cyfrowej.
+
+Zalecenie nie zastępuje standardów tworzenia treści, procedur kontroli dostępności ani zasad zarządzania zasobem dokumentów, lecz określa sposób zapewniania dostępności dokumentów wykorzystywanych przez organizację.
 
 
+---
 
+## 5. Podstawy prawne
+
+1. Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
+2. Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami.
+3. Norma EN 301 549 Accessibility requirements for ICT products and services.
+4. Wytyczne WCAG jako podstawa oceny dostępności treści cyfrowych.
+5. Dyrektywa Parlamentu Europejskiego i Rady (UE) 2019/882 (Europejski Akt o Dostępności).
+
+---
+
+## 6. Uzasadnienie
+
+Dokumenty cyfrowe stanowią jeden z podstawowych sposobów przekazywania informacji oraz realizacji zadań publicznych.
+
+Dokumenty takie jak:
+- formularze,
+- pisma,
+- raporty,
+- instrukcje,
+- prezentacje,
+- dokumenty publikowane w BIP i serwisach internetowych
+
+są często podstawowym lub jedynym źródłem informacji dla użytkowników.
+
+Brak dostępności dokumentów prowadzi do ograniczenia możliwości korzystania z informacji publicznej oraz usług cyfrowych przez osoby korzystające z technologii wspomagających.
+
+W praktyce organizacji problemy dotyczące dokumentów wynikają często nie z pojedynczych błędów technicznych, lecz z braku:
+
+- spójnych zasad działania,
+- odpowiedzialności,
+- odpowiednich narzędzi,
+- kompetencji,
+- procedur kontroli jakości,
+- zarządzania cyklem życia dokumentów.
+
+Wdrożenie spójnego modelu organizacyjnego:
+
+- integruje dostępność z organizacją pracy,
+- wspiera jakość komunikacji cyfrowej,
+- ogranicza konieczność działań naprawczych,
+- zwiększa przewidywalność procesu publikacji,
+- umożliwia utrzymanie dokumentów w dostępnej postaci także po ich aktualizacji i ponownym wykorzystaniu.
+
+---
+
+## 7. Źródła i opracowania
+
+1. W3C WAI, *Web Content Accessibility Guidelines (WCAG)*  
+2. EN 301 549 Accessibility requirements for ICT products and services  
+3. W3C WAI, *Planning and Managing Web Accessibility*  
+4. Matterhorn Protocol for PDF Accessibility  
+5. PDF/UA – ISO 14289  
+6. Materiały szkoleniowe i opracowania dotyczące dostępnych dokumentów cyfrowych
+
+---
 

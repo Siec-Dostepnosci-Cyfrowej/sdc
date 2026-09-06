@@ -51,7 +51,7 @@ Dojrzała dostępność wyraża się w zapewnieniu wszystkim użytkownikom równ
 | --- | --- |
 | procesy, procedury i wymagania dotyczące tworzenia dostępnej komunikacji są udokumentowane i dostępne dla pracowników. | Opracowanie „zasad jednolitego formowania dokumentów biurowych” („minimalnych standardów dostępności dokumentów biurowych”) |
 | --- | --- |
-| istnieją dostępne narzędzia ułatwiające współpracę (np. e-spotkania, webinaria, konferencje, czat, system e-leaningowy). | Organizacja wdrożyła wewnętrzny system pracy zdalnej, spełniający wymogi dostępności (np. MS Teams) |
+| istnieją dostępne narzędzia ułatwiające współpracę (np. e-spotkania, webinaria, konferencje, czat, system e-learningowy). | Organizacja wdrożyła wewnętrzny system pracy zdalnej, spełniający wymogi dostępności (np. MS Teams) |
 | --- | --- |
 
 ### Dostępna komunikacja bezpośrednia

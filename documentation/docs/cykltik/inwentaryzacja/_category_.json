@@ -2,6 +2,7 @@
   "label": "Inwentaryzacja zasobów",
   "position": 4,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+	"description": "Skuteczne zarządzanie dostępnością cyfrową wymaga wiedzy o zasobach cyfrowych pozostających pod kontrolą organizacji. Zalecenie pomaga organizacjom publicznym utworzyć i utrzymywać rejestr zasobów cyfrowych obejmujący informacje niezbędne do planowania, monitorowania i doskonalenia dostępności. Rejestr stanowi wspólne źródło informacji wykorzystywane przy ocenie zgodności, zarządzaniu dokumentami, planowaniu działań naprawczych, aktualizacji deklaracji dostępności oraz zarządzaniu cyklem życia zasobów. Dzięki temu dostępność cyfrowa może być zarządzana w sposób uporządkowany, oparty na aktualnych danych i jasno określonej odpowiedzialności."
   }
 }

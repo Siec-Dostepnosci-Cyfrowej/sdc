@@ -1,7 +1,8 @@
 {
   "label": "Dostępne dokumenty",
-  "position": 1,
+  "position": 4,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "Zapewnianie dostępności dokumentów cyfrowych nie sprowadza się do sposobu formatowania pojedynczych dokumentów, lecz do organizacji procesu ich tworzenia, publikowania i utrzymania. Zalecenie wraz z załącznikami pomaga organizacjom ustanowić zasady, role, odpowiedzialności, procedury i działania rozwojowe niezbędne do systemowego zapewniania dostępności dokumentów cyfrowych. Pakiet wspiera budowę trwałych zdolności organizacyjnych w zakresie dostępnej komunikacji cyfrowej, tak aby dostępność była uwzględniana na wszystkich etapach cyklu życia dokumentów."
   }
 }

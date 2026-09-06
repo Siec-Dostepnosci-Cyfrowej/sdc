@@ -3,14 +3,8 @@ id: wstep
 title: Jesteś tu pierwszy raz?
 sidebar_position: 0
 sidebar_label: Jesteś tu pierwszy raz?
-keywords: [ 
-  praca Sieci,
-  organizacja pracy,
-  zadania Sieci]
-tags: [ 
-  praca Sieci,
-  organizacja pracy,
-  zadania Sieci]  
+keywords: [praca Sieci,organizacja pracy,zadania Sieci]
+tags: [praca Sieci,organizacja pracy,zadania Sieci] 
 opracowanie: Stefan Wajda
 data_zgłoszenia: 22 lipca 2025 r.
 data_aktualizacji: 10 października 2025 r.
@@ -30,7 +24,7 @@ Naszym zadaniem jest:
 - wypracować **propozycje rozwiązań systemowych** w obszarze dostępności cyfrowej na podstawie dobrych praktyk
 - uczestniczyć w **upowszechnianiu zaleceń i rekomendacji** oraz w **stworzeniu i promocji bazy dobrych praktyk**
 
-To ogromne wyzwanie, zwłaszcza że uczestniczymy w Sieci jako **wolontariasze**. 
+To ogromne wyzwanie, zwłaszcza że uczestniczymy w Sieci jako **wolontariusze**. 
 
 ## Jak pracujemy
 
@@ -44,7 +38,7 @@ Raz w miesiącu organizujemy **spotkania całej Sieci**, na których:
 
 ### Praca w grupach roboczych
 
-Utworzyliśmy 6 grup roboczych, złożonych z osób, które skupiają się na wybranych [**wymiarach dostępności cyfrowej**](../../terms/wymiar-dostepnosci):
+Utworzyliśmy 6 grup roboczych, złożonych z osób, które skupiają się na wybranych **wymiarach dostępności cyfrowej**:
 
 - wymiarze [**Komunikacja**](../../komunikacja/wymiar-komunikacja/o-wymiarze-komunikacja)
 - wymiarze [**Cykl życia TIK**](../../cykltik/wymiar-cykl-zycia-tik/o-wymiarze-cykl-zycia-tik)
@@ -73,7 +67,7 @@ Siłą Sieci jest **doświadczenie i aktywność uczestniczek i uczestników Sie
 
 Dołącz do nas, jeśli: 
 
-- **masz doświadczenie** w praktycznym wdrażadniu dostępności cyfrowej w swojej lub we wspieranych organizacjach
+- **masz doświadczenie** w praktycznym wdrażaniu dostępności cyfrowej w swojej lub we wspieranych organizacjach
 - **chcesz wnieść swój wkład** w wypracowanie spójnego systemu wdrażania dostępności cyfrowej w podmiotach publicznych w Polsce.
 
 [Dowiedz się, jak zgłosić swój udział](nabor-do-sieci-dostepnosci-cyfrowej)

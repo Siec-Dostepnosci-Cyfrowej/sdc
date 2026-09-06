@@ -66,10 +66,11 @@ W zakresie dostępności cyfrowej Plan działania na rzecz poprawy zapewniania d
    
 ## Podstawa prawna
 
-- Ustawa o zapewnianiu dostępności osobom ze szczególnymi potrzebami z dnia 19 lipca 2019 r. (Dz. U. 2019, poz. 1696),
+- Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. 2019 poz. 1696),
 - Ustawa o dostępności cyfrowej,
 - Dyrektywa UE o dostępności stron internetowych,
 - Standard EN 301 549.
+
 
 
 ## Uzasadnienie

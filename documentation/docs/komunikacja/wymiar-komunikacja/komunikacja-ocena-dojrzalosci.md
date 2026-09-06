@@ -56,7 +56,7 @@ Poziom **Optymalizacji**  osiąga się, gdy dowody wskazują, że:
 
 ## Punkty dowodowe
 
-[Punkty dowodowe](../../terms/punkt-dowodowy) dotyczące wymiaru Komunikacja mogą obejmować między innymi:
+Punkty dowodowe dotyczące wymiaru Komunikacja mogą obejmować między innymi:
 
 ### Fundament dostępnej komunikacji
 
@@ -70,7 +70,7 @@ Poziom **Optymalizacji**  osiąga się, gdy dowody wskazują, że:
 - Konsekwentne korzystanie z dostępnych szablonów do tworzenia:
   - materiałów marketingowych i sprzedażowych przekazywanych w formatach elektronicznych
   - dokumentów organizacyjnych i prezentujących stanowiska
-  - [raportów zgodności z dostępnością (ACR)](../../terms/ACR)
+  - raportów zgodności z dostępnością (ACR)
   - innej dokumentacji dotyczącej dostępności
   - prezentacji.
 - Wewnętrzne i zewnętrzne strony internetowe:
@@ -78,13 +78,13 @@ Poziom **Optymalizacji**  osiąga się, gdy dowody wskazują, że:
   - mogą mieć deklarację dostępności (wymaganie prawne dla stron internetowych organów sektora publicznego w Unii Europejskiej)
   - mogą zawierać oświadczenie o zobowiązaniu do zapewnienia dostępności.  
 - Produkty i usługi: dokumentacja zgodności z dostępnością istnieje i jest dostarczana w dostępnym formacie (na stronie internetowej, na żądanie lub w ramach procesu zakupowego)
-  - [raporty zgodności z dostępnością (ACR)](../../terms/ACR)
+  - raporty zgodności z dostępnością (ACR)
   - deklarację dostępności (wymóg prawny dla stron internetowych organów sektora publicznego w Unii Europejskiej)
   - inne dokumenty związane z dostępnością, zgodnie z identyfikacją.  
 - Multimedia, w tym napisy rozszerzone i audiodeskrypcje, w razie potrzeby
 - Treści w mediach społecznościowych i treść blogów
 - Szkolenia dla klientów i dostawców
-- Informacje na temat obsługi [klienta](../../terms/klient)
+- Informacje na temat obsługi klienta
 - Mechanizm informacji zwrotnej do obsługi pytań i skarg dotyczących dostępności
 - Dokumenty prawne, płatności i fakturowanie
 - Inne komunikaty, zgodnie ze wskazaniem
@@ -92,7 +92,7 @@ Poziom **Optymalizacji**  osiąga się, gdy dowody wskazują, że:
 
 ### Szkolenie w zakresie komunikacji bez barier
 
-- Istnieją szkolenia z zakresu dostępnej komunikacji w celu budowania i utrzymywania odpowiednich umiejętności wspierających [dowody](../../terms/punkt-dowodowy) tego [wymiaru](../../terms/wymiar-dostepnosci)
+- Istnieją szkolenia z zakresu dostępnej komunikacji w celu budowania i utrzymywania odpowiednich umiejętności wspierających dowody tego wymiaru.
 
 ### Cele i wskaźniki wymiarów
 

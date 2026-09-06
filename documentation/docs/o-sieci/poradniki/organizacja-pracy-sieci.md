@@ -14,7 +14,7 @@ ostatnia_aktualizacja: 24 września 2025 r.
 
 :::info O tym dokumencie
 
-Transkrypcja prezentacji wygłoszonej podczas podczas VI spotkania Sieci dostępności cyfrowej przez p. Stefana Wajdę, II Wiceprzewodniczącego Sieci.  
+Transkrypcja prezentacji wygłoszonej podczas VI spotkania Sieci dostępności cyfrowej przez p. Stefana Wajdę, II Wiceprzewodniczącego Sieci.  
 
 :::
 

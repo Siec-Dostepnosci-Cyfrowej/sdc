@@ -110,7 +110,7 @@ Oba wymiary są komplementarne i wzajemnie zależne: inkluzywna organizacja (Per
 #### 3.2. Rola wszystkich pracowników
 - Pracownicy rozumieją swoją rolę w zapewnianiu dostępności cyfrowej niezależnie od stanowiska.  
 - Organizacja ma zdefiniowane „role dostępnościowe” w różnych działach (np. redaktorzy treści, twórcy dokumentów, osoby zamawiające oprogramowanie).  
-- Proceses i instrukcje wskazują obowiązki dostępnościowe na poszczególnych stanowiskach.  
+- Procesy i instrukcje wskazują obowiązki dostępnościowe na poszczególnych stanowiskach.  
 - Różne zespoły (IT, HR, komunikacja, zakupy, merytoryczne) współpracują nad dostępnością zgodnie z wyznaczonymi rolami.  
 - Dostępność cyfrowa jest elementem kultury organizacji i praktyk codziennej pracy.
 
