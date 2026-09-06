@@ -102,3 +102,10 @@ Podmiot publiczny powinien móc na podstawie przyjętych zasad uzasadnić, dlacz
 Problem interpretacji pojęcia „zawartości niezbędnej do realizacji bieżących zadań podmiotu publicznego” jest realny i ma bezpośrednie skutki dla praktycznego stosowania ustawy o dostępności cyfrowej. Jednocześnie samo istnienie problemu nie przesądza jeszcze, że jego rozwiązaniem musi być definicja legalna.
 
 Zasadne jest najpierw ustalenie, w szczególności przy wsparciu opinii prawnej lub eksperckiej, jaki instrument pozwoli doprecyzować przepis bez naruszenia jego funkcjonalnego i ocennego charakteru. Dopiero na tej podstawie powinno zostać rozstrzygnięte, czy wystarczające będą wytyczne i kryteria interpretacyjne, czy konieczna będzie zmiana ustawy.
+
+## 10. Historia wersji
+
+| Wersja | Autor | Data | Opis zmian |
+| --- | --- | --- | --- |
+| 0.1 | Bartłomiej Wilk | 10.06.2026 | Pierwsza wersja projektu dezyderatu |
+| 0.2 | Bartłomiej Wilk | 06.09.2026 | Zmiana kierunku po dyskusji w Sieci: rezygnacja z przesądzania definicji legalnej jako rozwiązania, uwzględnienie opinii prawnej, rozwiązań pozalegislacyjnych i kryteriów interpretacyjnych |
