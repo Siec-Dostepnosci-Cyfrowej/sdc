@@ -12,6 +12,10 @@ ostatnia_aktualizacja: 6 września 2026 r.
 wersja_robocza: true
 ---
 
+## Cel zalecenia
+
+Celem zalecenia jest uporządkowanie sposobu przyjmowania, oceny i publikowania treści pochodzących od innych podmiotów, tak aby podmiot publiczny uwzględniał obowiązki dotyczące dostępności cyfrowej, obowiązek publikacji, możliwość modyfikacji materiału oraz przesłanki zastosowania wyłączeń ustawowych.
+
 ## Zalecenie
 
 Podmioty publiczne ustanawiają i stosują zasady przyjmowania, oceny oraz publikowania treści pochodzących od innych podmiotów. Zasady te powinny zapewniać weryfikację kompletności materiału, ustalenie obowiązku publikacji, ocenę dostępności cyfrowej i możliwości modyfikacji, prawidłowe zastosowanie wyłączeń ustawowych oraz udokumentowanie sposobu postępowania.
@@ -44,7 +48,19 @@ Jednolity proces ogranicza publikowanie materiałów bez kontroli, nieuzasadnion
 
 Brak takich zasad może prowadzić do różnych sposobów postępowania z podobnymi materiałami w poszczególnych komórkach organizacyjnych, niejasnego podziału odpowiedzialności oraz trudności z wykazaniem, dlaczego materiał opublikowano w określonej postaci, zwrócono do poprawy albo wstrzymano jego publikację.
 
-## Materiały wdrożeniowe
+## Podstawy prawne
+
+- ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych,
+- ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami,
+- ustawa z dnia 6 września 2001 r. o dostępie do informacji publicznej,
+- rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 18 stycznia 2007 r. w sprawie Biuletynu Informacji Publicznej.
+
+### Standardy i dokumenty techniczne
+
+- norma EN 301 549 — wymagania dostępności dotyczące produktów i usług technologii informacyjno-komunikacyjnych,
+- Web Content Accessibility Guidelines (WCAG) — w zakresie mającym zastosowanie do publikowanych treści cyfrowych.
+
+## Powiązane dokumenty
 
 - [Słownik pojęć](./slownik-pojec.md)
 - [Proces publikacji](./proces-publikacji.md)
@@ -57,18 +73,6 @@ Brak takich zasad może prowadzić do różnych sposobów postępowania z podobn
 - [Procedura obsługi żądania dostępności](./procedura-obslugi-zadania-zapewnienia-dostepnosci.md)
 - [Informacja o ograniczeniach dostępności](./informacja-o-ograniczeniach-dostepnosci.md)
 
-## Podstawy prawne
-
-- ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych,
-- ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami,
-- ustawa z dnia 6 września 2001 r. o dostępie do informacji publicznej,
-- rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 18 stycznia 2007 r. w sprawie Biuletynu Informacji Publicznej.
-
-## Źródła i standardy
-
-- norma EN 301 549 — wymagania dostępności dotyczące produktów i usług technologii informacyjno-komunikacyjnych,
-- Web Content Accessibility Guidelines (WCAG) — w zakresie mającym zastosowanie do publikowanych treści cyfrowych.
-
 ## Historia wersji
 
 | Wersja | Data | Opis zmian |
@@ -77,3 +81,4 @@ Brak takich zasad może prowadzić do różnych sposobów postępowania z podobn
 | 0.2 | 29 kwietnia 2026 r. | Przeredagowanie dokumentu jako zalecenia. |
 | 0.3 | 3 sierpnia 2026 r. | Uproszczenie modelu, doprecyzowanie wyłączeń i uporządkowanie materiałów wdrożeniowych. |
 | 0.4 | 6 września 2026 r. | Uzupełnienie uzasadnienia oraz źródeł i standardów technicznych. |
+| 0.5 | 6 września 2026 r. | Dostosowanie struktury dokumentu do standardowego układu zaleceń. |
