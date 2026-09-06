@@ -8,7 +8,7 @@ keywords: [żądanie dostępności, dostępność cyfrowa, sposób alternatywny,
 tags: [komunikacja, dostępność cyfrowa, publikacja]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 3 sierpnia 2026 r.
+ostatnia_aktualizacja: 6 września 2026 r.
 wersja_robocza: true
 ---
 
@@ -45,9 +45,9 @@ Jeżeli nie jest to możliwe, niezwłocznie poinformuj osobę składającą żą
 
 ## 4. Odmowa i alternatywny sposób dostępu
 
-Podmiot odmawia zapewnienia dostępności cyfrowej elementu, jeżeli wiązałoby się to z ryzykiem naruszenia integralności lub wiarygodności przekazywanych informacji.
+Podmiot odmawia zapewnienia dostępności cyfrowej elementu, jeżeli jej zapewnienie wiązałoby się z ryzykiem naruszenia integralności lub wiarygodności przekazywanych informacji. Jeżeli zapewnienie dostępności cyfrowej nie jest możliwe, poinformuj osobę występującą z żądaniem o przyczynach i wskaż alternatywny sposób dostępu do informacji.
 
-Jeżeli nie można zapewnić dostępności zgodnie z żądaniem, niezwłocznie poinformuj o przyczynach i wskaż alternatywny sposób dostępu. Odpowiedź powinna także zawierać informację o prawie do złożenia skargi w sprawie zapewnienia dostępności cyfrowej.
+Odpowiedź powinna także zawierać informację o prawie do złożenia skargi w sprawie zapewnienia dostępności cyfrowej.
 
 ## 5. Odpowiedź
 
