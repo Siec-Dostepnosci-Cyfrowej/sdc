@@ -15,31 +15,19 @@ wersja_robocza: true
 
 # Kontrola dostępności treści cyfrowych przed publikacją
 
-## 1. Cel zalecenia
+## Cel zalecenia
 
 Celem zalecenia jest ograniczenie publikowania treści cyfrowych zawierających bariery dostępności przez włączenie kontroli dostępności do procesu przygotowania i zatwierdzania materiałów. Kontrola ma umożliwiać wykrycie problemów przed udostępnieniem treści użytkownikom, wskazanie odpowiedzialności oraz podjęcie świadomej decyzji dotyczącej dalszego postępowania.
 
-## 2. Zalecenie
-
-Podmiot publiczny ustanawia kontrolę dostępności jako stały punkt procesu publikacji treści cyfrowych i określa sposób jej wykonania, odpowiedzialność uczestników procesu, sposób dokumentowania wyniku oraz zasady postępowania z materiałem, w którym stwierdzono bariery dostępności.
-
-## 3. Zakres stosowania
-
-Zalecenie dotyczy treści cyfrowych przygotowywanych, zatwierdzanych lub publikowanych przez podmiot publiczny, w szczególności:
-
-- stron i aktualności publikowanych w systemach CMS,
-- dokumentów i innych plików udostępnianych do pobrania,
-- załączników publikowanych w Biuletynie Informacji Publicznej,
-- formularzy i komunikatów transakcyjnych,
-- newsletterów i wiadomości kierowanych do grup odbiorców,
-- grafik, infografik i innych materiałów wizualnych,
-- materiałów audio i wideo,
-- treści publikowanych w mediach społecznościowych,
-- treści w systemach wewnętrznych, jeżeli podlegają wymaganiom dostępności cyfrowej.
+Zalecenie dotyczy treści cyfrowych przygotowywanych, zatwierdzanych lub publikowanych przez podmiot publiczny, w szczególności stron i aktualności publikowanych w systemach CMS, dokumentów i innych plików udostępnianych do pobrania, załączników publikowanych w Biuletynie Informacji Publicznej, formularzy i komunikatów transakcyjnych, newsletterów, grafik i infografik, materiałów audio i wideo, treści publikowanych w mediach społecznościowych oraz treści w systemach wewnętrznych, jeżeli podlegają wymaganiom dostępności cyfrowej.
 
 Zakres kontroli dostosowuje się do rodzaju materiału, kanału publikacji, znaczenia informacji oraz ryzyka wystąpienia bariery dla użytkownika.
 
-## 4. Rekomendacje
+## Zalecenie
+
+Podmiot publiczny ustanawia kontrolę dostępności jako stały punkt procesu publikacji treści cyfrowych i określa sposób jej wykonania, odpowiedzialność uczestników procesu, sposób dokumentowania wyniku oraz zasady postępowania z materiałem, w którym stwierdzono bariery dostępności.
+
+## Rekomendacje
 
 1. **Włącz kontrolę dostępności do procesu publikacji.** Materiał powinien zostać sprawdzony przed udostępnieniem użytkownikom, z uwzględnieniem wymagań właściwych dla jego rodzaju i kanału publikacji.
 2. **Określ role i odpowiedzialność.** Podmiot wskazuje funkcje związane co najmniej z przygotowaniem materiału, wykonaniem kontroli, podjęciem decyzji i publikacją techniczną. Jedna osoba może pełnić kilka funkcji, jeżeli wynika to ze skali i organizacji pracy.
@@ -49,13 +37,13 @@ Zakres kontroli dostosowuje się do rodzaju materiału, kanału publikacji, znac
 6. **Traktuj publikację warunkową jako mechanizm organizacyjny, nie wyłączenie prawne.** Decyzja o publikacji materiału z rozpoznanymi barierami nie zwalnia z obowiązków wynikających z przepisów i nie zastępuje ustawowych przesłanek wyłączeń, oceny nadmiernych kosztów ani obowiązku zapewnienia alternatywnego sposobu dostępu, gdy mają zastosowanie.
 7. **Wykorzystuj wyniki kontroli do doskonalenia procesu.** Powtarzające się błędy powinny prowadzić do poprawy szablonów, materiałów pomocniczych, organizacji pracy i kompetencji osób uczestniczących w publikacji.
 
-## 5. Uzasadnienie
+## Uzasadnienie
 
 Obowiązek zapewnienia dostępności cyfrowej dotyczy efektu udostępnianego użytkownikowi, natomiast przepisy nie narzucają jednego modelu organizacyjnego kontroli przed publikacją. Ustanowienie punktu kontrolnego jest rozwiązaniem zarządczym wspierającym realizację tych obowiązków i ograniczającym sytuacje, w których bariery są wykrywane dopiero po publikacji.
 
 Kontrola przed publikacją nie zastępuje działań potrzebnych po udostępnieniu treści, w szczególności reagowania na zgłoszenia użytkowników, utrzymania dostępności i naprawy błędów ujawnionych później. Te działania pozostają poza zakresem niniejszego zalecenia.
 
-## 6. Podstawy prawne
+## Podstawy prawne
 
 - Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych, w szczególności art. 5 ust. 1–3.
 - Art. 5a tej ustawy – w odniesieniu do zarejestrowanych multimediów nadawanych wcześniej na żywo.
@@ -63,14 +51,14 @@ Kontrola przed publikacją nie zastępuje działań potrzebnych po udostępnieni
 - Art. 7 tej ustawy – w zakresie alternatywnego sposobu dostępu, gdy podmiot nie jest w stanie zapewnić dostępności cyfrowej elementu.
 - Art. 8 tej ustawy – wyłącznie w przypadkach i na zasadach dotyczących oceny nadmiernych kosztów.
 
-## 7. Źródła i opracowania
+### Źródła i opracowania
 
 1. Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
 2. Polska Norma wprowadzająca ETSI EN 301 549 V3.2.1:2021, w zakresie wskazanym w ustawie.
 3. W3C, Web Content Accessibility Guidelines (WCAG) 2.1.
 4. W3C WAI, materiały dotyczące planowania, wdrażania i utrzymywania dostępności cyfrowej.
 
-## 8. Materiały wspierające wdrożenie
+## Powiązane dokumenty
 
 Materiały w tym pakiecie mają charakter wdrożeniowy i pomocniczy. Podmiot może je dostosować do własnej struktury organizacyjnej, narzędzi i skali publikacji.
 
@@ -82,9 +70,10 @@ Materiały w tym pakiecie mają charakter wdrożeniowy i pomocniczy. Podmiot mo�
 6. [Zasady projektowania list kontrolnych dostępności treści](./projektowanie-list-kontrolnych-dostepnosci-tresci.md)
 7. [Zestaw list kontrolnych według typu materiału](./listy-kontrolne-index.md)
 
-## 9. Historia wersji
+## Historia wersji
 
 | Wersja | Autor | Data | Opis zmian |
 |---|---|---|---|
 | 0.1 | Bartłomiej Wilk | 30 kwietnia 2026 r. | Pierwsza wersja robocza zalecenia. |
 | 0.2 | Bartłomiej Wilk | 6 września 2026 r. | Przebudowanie zalecenia jako samodzielnego mechanizmu kontroli przed publikacją, uporządkowanie materiałów wdrożeniowych i rozdzielenie publikacji warunkowej od ustawowych mechanizmów prawnych. |
+| 0.3 | Bartłomiej Wilk | 6 września 2026 r. | Dostosowanie dokumentu głównego do standardowej struktury zalecenia. |
