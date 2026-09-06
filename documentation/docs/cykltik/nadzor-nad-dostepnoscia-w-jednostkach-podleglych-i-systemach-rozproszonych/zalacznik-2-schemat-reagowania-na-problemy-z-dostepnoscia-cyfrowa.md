@@ -1,17 +1,16 @@
 ---
-id: zalacznik-2-schemat-reagowania-na-problemy-z-dostepnoscia-cyfrowa
-description: Pomocniczy schemat reagowania na problemy z dostępnością cyfrową
-sidebar_label: Załącznik 2
+id: schemat-reagowania-na-problemy-z-dostepnoscia-cyfrowa
+title: Schemat reagowania na problemy z dostępnością cyfrową
+description: Załącznik przedstawiający sposób postępowania od wykrycia problemu z dostępnością cyfrową do jego usunięcia, weryfikacji i ewentualnej eskalacji.
+sidebar_label: Schemat reagowania
 sidebar_position: 2
-keywords: [dostępność cyfrowa, problemy z dostępnością, reagowanie, działania naprawcze]
-tags: [dostępność cyfrowa, problemy z dostępnością, reagowanie, działania naprawcze]
-opracowanie: Angelika Sosnowska, Stefan Wajda
-data_zgloszenia: 7 lipca 2026 r.
-ostatnia_aktualizacja: 7 lipca 2026 r.
+keywords: [dostępność cyfrowa, problemy dostępności, działania naprawcze, eskalacja, weryfikacja, wsparcie]
+tags: [dostępność cyfrowa, problemy dostępności, działania naprawcze, eskalacja, weryfikacja, wsparcie]
+opracowanie: Bartłomiej Wilk
+data_zgloszenia: 6 września 2026 r.
+ostatnia_aktualizacja: 6 września 2026 r.
 wersja_robocza: true
 ---
-
-# Załącznik 2. Schemat reagowania na problemy z dostępnością cyfrową
 
 ## 1. Cel załącznika
 

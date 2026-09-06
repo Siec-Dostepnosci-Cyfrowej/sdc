@@ -1,17 +1,16 @@
 ---
-id: zalacznik-1-mapa-typowych-podmiotow-i-zakresu-dzialania
-description: Pomocnicza mapa typowych podmiotów i zakresu działania organizacji
-sidebar_label: Załącznik 1
+id: mapa-typowych-podmiotow-i-zakresu-dzialania
+title: Mapa typowych podmiotów i zakresu działania
+description: Załącznik pomagający ustalić zakres możliwych działań wobec różnych typów podmiotów w przypadku problemów z dostępnością cyfrową.
+sidebar_label: Mapa podmiotów i zakresu działania
 sidebar_position: 1
-keywords: [dostępność cyfrowa, jednostki podległe, jednostki nadzorowane, zakres działania]
-tags: [dostępność cyfrowa, jednostki podległe, jednostki nadzorowane, zakres działania]
-opracowanie: Angelika Sosnowska, Stefan Wajda
-data_zgloszenia: 7 lipca 2026 r.
-ostatnia_aktualizacja: 7 lipca 2026 r.
+keywords: [dostępność cyfrowa, podmioty publiczne, jednostki organizacyjne, kompetencje, nadzór, wsparcie]
+tags: [dostępność cyfrowa, podmioty publiczne, jednostki organizacyjne, kompetencje, nadzór, wsparcie]
+opracowanie: Bartłomiej Wilk
+data_zgloszenia: 6 września 2026 r.
+ostatnia_aktualizacja: 6 września 2026 r.
 wersja_robocza: true
 ---
-
-# Załącznik 1. Mapa typowych podmiotów i zakresu działania
 
 ## 1. Cel załącznika
 

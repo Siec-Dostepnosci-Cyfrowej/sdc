@@ -1,17 +1,16 @@
 ---
-id: zalacznik-3-karta-oceny-sytuacji-jednostki-lub-podmiotu
-description: Pomocnicza karta oceny sytuacji jednostki lub podmiotu
-sidebar_label: Załącznik 3
+id: karta-oceny-sytuacji-jednostki-lub-podmiotu
+title: Karta oceny sytuacji jednostki lub podmiotu
+description: Załącznik służący do oceny stanu zapewniania dostępności cyfrowej, identyfikowania problemów, potrzeb wsparcia i planowania działań naprawczych.
+sidebar_label: Karta oceny sytuacji
 sidebar_position: 3
-keywords: [dostępność cyfrowa, karta oceny, jednostki podległe, monitoring]
-tags: [dostępność cyfrowa, karta oceny, jednostki podległe, monitoring]
-opracowanie: Angelika Sosnowska, Stefan Wajda
-data_zgloszenia: 7 lipca 2026 r.
-ostatnia_aktualizacja: 7 lipca 2026 r.
+keywords: [dostępność cyfrowa, ocena dostępności, jednostki organizacyjne, plan naprawczy, wsparcie, monitoring]
+tags: [dostępność cyfrowa, ocena dostępności, jednostki organizacyjne, plan naprawczy, wsparcie, monitoring]
+opracowanie: Bartłomiej Wilk
+data_zgloszenia: 6 września 2026 r.
+ostatnia_aktualizacja: 6 września 2026 r.
 wersja_robocza: true
 ---
-
-# Załącznik 3. Karta oceny sytuacji jednostki lub podmiotu
 
 ## 1. Cel załącznika
 
