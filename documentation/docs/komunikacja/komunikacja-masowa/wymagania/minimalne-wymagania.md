@@ -98,7 +98,7 @@ Właściciel treści odpowiada za merytoryczną poprawność i kompletność mat
 ## Powiązane dokumenty
 
 - [Standard tworzenia dostępnych materiałów wideo](../standardy-tworzenia/01-standard-tworzenia-dostepnych-materialow-wideo)
-- [Standard tworzenia dostępnych grafik i materiałów wizualnych](./standardy-tworzenia/02-standard-tworzenia-dostepnych-grafik-i-materialow-wizualnych)
-- [Standard opisu alternatywnego i treści równoważnych](./standardy-tworzenia/03-standard-opisu-alternatywnego-i-tresci-rownowaznych)
-- [Standard struktury komunikatu i tworzenia treści](./standardy-tworzenia/04-standard-struktury-komunikatu-i-tworzenia-tresci)
-- [Standard tworzenia dostępnych materiałów audio](./standardy-tworzenia/05-standard-tworzenia-dostepnych-materialow-audio)
+- [Standard tworzenia dostępnych grafik i materiałów wizualnych](../standardy-tworzenia/02-standard-tworzenia-dostepnych-grafik-i-materialow-wizualnych)
+- [Standard opisu alternatywnego i treści równoważnych](../standardy-tworzenia/03-standard-opisu-alternatywnego-i-tresci-rownowaznych)
+- [Standard struktury komunikatu i tworzenia treści](../standardy-tworzenia/04-standard-struktury-komunikatu-i-tworzenia-tresci)
+- [Standard tworzenia dostępnych materiałów audio](../standardy-tworzenia/05-standard-tworzenia-dostepnych-materialow-audio)

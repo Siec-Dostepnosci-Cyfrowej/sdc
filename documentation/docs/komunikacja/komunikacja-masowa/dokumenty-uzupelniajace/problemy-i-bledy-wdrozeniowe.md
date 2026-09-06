@@ -150,4 +150,4 @@ Katalog można wykorzystać jako:
 
 - [Problem i kontekst](problem-i-kontekst)
 - [Minimalne wymagania dostępności](../wymagania/minimalne-wymagania)
-- [Standard publikacji dostępnych materiałów multimedialnych i treści cyfrowych](../komunikacja-masowa-zalecenie)
+- [Standard publikacji dostępnych materiałów multimedialnych i treści cyfrowych](../komunikacja-masowa)
