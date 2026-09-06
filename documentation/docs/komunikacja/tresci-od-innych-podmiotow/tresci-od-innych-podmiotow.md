@@ -8,7 +8,7 @@ keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, 
 tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 3 sierpnia 2026 r.
+ostatnia_aktualizacja: 6 września 2026 r.
 wersja_robocza: true
 ---
 
@@ -42,6 +42,8 @@ Treści pochodzące od innych podmiotów mogą być przekazywane jako skany, dok
 
 Jednolity proces ogranicza publikowanie materiałów bez kontroli, nieuzasadnione stosowanie wyłączeń oraz odmowę publikacji bez sprawdzenia innych sposobów przedstawienia informacji. Pozwala także ustalić, kto odpowiada za ocenę, poprawę, publikację i dalszą obsługę materiału.
 
+Brak takich zasad może prowadzić do różnych sposobów postępowania z podobnymi materiałami w poszczególnych komórkach organizacyjnych, niejasnego podziału odpowiedzialności oraz trudności z wykazaniem, dlaczego materiał opublikowano w określonej postaci, zwrócono do poprawy albo wstrzymano jego publikację.
+
 ## Materiały wdrożeniowe
 
 - [Słownik pojęć](./slownik-pojec.md)
@@ -62,6 +64,11 @@ Jednolity proces ogranicza publikowanie materiałów bez kontroli, nieuzasadnion
 - ustawa z dnia 6 września 2001 r. o dostępie do informacji publicznej,
 - rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 18 stycznia 2007 r. w sprawie Biuletynu Informacji Publicznej.
 
+## Źródła i standardy
+
+- norma EN 301 549 — wymagania dostępności dotyczące produktów i usług technologii informacyjno-komunikacyjnych,
+- Web Content Accessibility Guidelines (WCAG) — w zakresie mającym zastosowanie do publikowanych treści cyfrowych.
+
 ## Historia wersji
 
 | Wersja | Data | Opis zmian |
@@ -69,3 +76,4 @@ Jednolity proces ogranicza publikowanie materiałów bez kontroli, nieuzasadnion
 | 0.1 | 16 kwietnia 2026 r. | Opracowanie wstępnej wersji. |
 | 0.2 | 29 kwietnia 2026 r. | Przeredagowanie dokumentu jako zalecenia. |
 | 0.3 | 3 sierpnia 2026 r. | Uproszczenie modelu, doprecyzowanie wyłączeń i uporządkowanie materiałów wdrożeniowych. |
+| 0.4 | 6 września 2026 r. | Uzupełnienie uzasadnienia oraz źródeł i standardów technicznych. |
