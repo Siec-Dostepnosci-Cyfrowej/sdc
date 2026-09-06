@@ -8,7 +8,7 @@ keywords: [proces publikacji, dostępność cyfrowa, treści zewnętrzne, BIP]
 tags: [komunikacja, dostępność cyfrowa, publikacja]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 3 sierpnia 2026 r.
+ostatnia_aktualizacja: 6 września 2026 r.
 wersja_robocza: true
 ---
 
@@ -29,7 +29,7 @@ flowchart TD
     I -->|Tak| J["Dokumentacja podstawy i publikacja"]
     I -->|Nie| K{"Publikacja obowiązkowa?"}
     K -->|Nie| L["Wstrzymanie publikacji"]
-    K -->|Tak| M["Dostępne przedstawienie informacji lub sposób alternatywny"]
+    K -->|Tak| M["Ustalenie zgodnego z prawem sposobu publikacji informacji"]
     F --> N["Odnotowanie rozstrzygnięcia"]
     J --> N
     L --> N
