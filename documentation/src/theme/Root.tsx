@@ -9,10 +9,11 @@ interface RootProps {
     children: React.ReactNode;
 }
 
-export default function Root({ children }: RootProps): JSX.Element {
+export default function Root({ children }: RootProps): React.JSX.Element {
     const location = useLocation();
     const { siteConfig } = useDocusaurusContext();
-    const siteMeta = siteConfig.themeConfig?.metadata || [];
+    const siteMeta = (siteConfig.themeConfig?.metadata ||
+        []) as {name: string; content: string}[];
 
     // Defaults
     let title = siteConfig.title;
@@ -25,7 +26,7 @@ export default function Root({ children }: RootProps): JSX.Element {
         if (doc?.metadata) {
             title = doc.metadata.title || title;
             description = doc.metadata.description || '';
-            keywords = (doc.metadata.keywords || []).join(', ');
+            keywords = (doc.metadata.frontMatter.keywords || []).join(', ');
         }
     } catch {
         // Not a doc page
@@ -37,7 +38,7 @@ export default function Root({ children }: RootProps): JSX.Element {
         if (blog?.metadata) {
             title = blog.metadata.title || title;
             description = blog.metadata.description || '';
-            keywords = (blog.metadata.keywords || []).join(', ');
+            keywords = (blog.metadata.frontMatter.keywords || []).join(', ');
         }
     } catch {
         // Not a blog page

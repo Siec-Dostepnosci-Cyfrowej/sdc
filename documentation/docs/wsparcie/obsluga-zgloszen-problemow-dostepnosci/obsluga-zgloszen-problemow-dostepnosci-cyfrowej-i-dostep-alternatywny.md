@@ -8,7 +8,7 @@ keywords: [zgłoszenia problemów,dostęp alternatywny,żądanie zapewnienia dos
 tags: [zgłoszenia problemów,dostęp alternatywny,żądanie zapewnienia dostępności,obsługa zgłoszeń,alert dostępności]
 opracowanie: Anna Czekalska, Stefan Wajda
 data_zgloszenia: 25 listopada 2025 r.
-ostatnia_aktualizacja: 30 lipca 2026 r.
+ostatnia_aktualizacja: 6 sierpnia 2026 r.
 wersja_robocza: true
 ---
 
@@ -21,11 +21,9 @@ Organizacja powinna mieć na uwadze przede wszystkim usunięcie przyczyny barier
 
 ## Zalecenie
 W praktyce do organizacji mogą wpływać różnego rodzaju informacje dotyczące dostępności. Na potrzeby niniejszego zalecenia rozróżnia się:
-- zgłoszenie problemu z dostępnością – każdą informację o napotkanej barierze,
-- żądanie zapewnienia dostępności cyfrowej – formalne żądanie składane na podstawie ustawy o dostępności cyfrowej,
-- skargę – środek przysługujący użytkownikowi zgodnie z przepisami po zakończeniu procedury dotyczącej żądania.
-
-Organizacja nie powinna oczekiwać od użytkownika znajomości tych pojęć. To organizacja kwalifikuje sprawę i informuje użytkownika o dalszym trybie postępowania.
+- zgłoszenie problemu z dostępnością – przepisy nie określają terminu odpowiedzi. Zaleca się potwierdzenie otrzymania zgłoszenia bez zbędnej zwłoki oraz poinformowanie użytkownika o dalszym sposobie postępowania. Jeżeli zgłoszenie spełnia przesłanki formalnego żądania, powinno zostać rozpatrzone zgodnie z ustawą.
+- żądanie zapewnienia dostępności cyfrowej – podmiot publiczny zapewnia dostępność bez zbędnej zwłoki, nie później niż w terminie 7 dni od dnia otrzymania żądania. Jeżeli nie jest to możliwe, w tym samym terminie informuje o przyczynach opóźnienia i wskazuje nowy termin realizacji, nie dłuższy niż 2 miesiące od dnia złożenia żądania,
+- skargę – w przypadku odmowy zapewnienia dostępności cyfrowej lub dostępu alternatywnego użytkownik może wnieść skargę do Rzecznika Praw Obywatelskich. Ustawa nie określa odrębnego terminu jej rozpatrzenia.
 
 Organizacja wdraża procedurę obsługi zgłoszeń problemów dostępności cyfrowej, żądania zapewnienia dostępności cyfrowej, zapewniania dostępu alternatywnego oraz rozpatrywania skarg związanych z dostępnością, określającą sposób przyjmowania, rejestrowania, rozpatrywania i monitorowania spraw. Procedura zapewnia użytkownikom możliwość skutecznego zgłaszania problemów oraz uzyskiwania informacji o sposobie ich rozwiązania.
 
@@ -84,6 +82,10 @@ Każde zgłoszenie jest analizowane pod kątem:
 - potrzeby zapewnienia dostępu alternatywnego.
 
 W przypadku stwierdzenia problemu organizacja dąży przede wszystkim do usunięcia przyczyny bariery, a nie wyłącznie do zastosowania rozwiązania zastępczego.
+
+Jeżeli organizacja powołuje się na przesłankę nadmiernych kosztów, decyzja ta powinna być poprzedzona udokumentowaną analizą i odpowiednio uzasadniona. Uzasadnienie powinno uwzględniać okoliczności konkretnej sprawy, w szczególności relację kosztów i nakładów niezbędnych do zapewnienia dostępności do wielkości, zasobów i możliwości organizacyjnych podmiotu oraz przewidywane korzyści dla użytkowników. Ocena nie powinna mieć charakteru automatycznego ani opierać się wyłącznie na ogólnym stwierdzeniu o braku środków finansowych.
+
+W przypadku odmowy zapewnienia dostępności z powodu nadmiernych kosztów podmiot publiczny powinien przedstawić uzasadnienie swojej decyzji oraz rozważyć możliwość zapewnienia skutecznego dostępu alternatywnego.
 
 ### Dostęp alternatywny
 

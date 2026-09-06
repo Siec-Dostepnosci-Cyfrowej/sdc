@@ -5,22 +5,23 @@ import type { Config } from '@docusaurus/types';
 
 import { themes as prismThemes } from 'prism-react-renderer';
 import remarkMermaidStatic from '@barrierenlos/docusaurus-prerender-mermaid/remark';
-import { getRemarkPlugin } from 'docusaurus-plugin-glossary';
 
 import path from 'path';
+import { createRequire } from 'module';
 
-const baseUrl = process.env.BASE_URL || '/sdc/';
-const basePath = baseUrl === '/' ? '' : baseUrl.replace(/\/$/, '');
-
+// Zamiast getRemarkPlugin z paczki — nasz plugin z linkOnlyFirstOccurrence
+// Używamy createRequire bo jiti na Windows nie obsługuje dynamic import .mjs
+const _require = createRequire(__filename);
+const remarkGlossaryFirstOccurrence = _require('./src/remark/glossary-first-occurrence.cjs');
 const glossaryOptions = {
     glossaryPath: 'slownik/slownik.json',
-    routePath: `${basePath}/slownik`,
+    routePath: './slownik',
+    siteDir: __dirname,
     expandAcronymsOnFirstUse: true,
+    linkOnlyFirstOccurrence: true,   // ← tylko pierwsze wystąpienie na plik
 };
 
-const glossaryRemarkPlugin = getRemarkPlugin(glossaryOptions, {
-    siteDir: __dirname,
-});
+const glossaryRemarkPlugin = [remarkGlossaryFirstOccurrence, glossaryOptions] as const;
 
 // ==============================
 //  KONFIGURACJA GŁÓWNA SIECI
@@ -31,13 +32,13 @@ const config: Config = {
     tagline: 'Dostępność to Twoje prawo!',
     favicon: 'img/favicon.ico',
     url: 'https://siec-dostepnosci-cyfrowej.github.io',
-    baseUrl,
+    baseUrl: process.env.BASE_URL || '/sdc/',
     organizationName: 'Siec-Dostepnosci-Cyfrowej',
     projectName: 'sdc',
     trailingSlash: false,
     staticDirectories: ['static'],
 
-    onBrokenLinks: 'warn',
+    onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
 
     future: {
@@ -69,7 +70,14 @@ const config: Config = {
             },
         ],
 
-        ['docusaurus-plugin-glossary', glossaryOptions],
+        // Plugin nadal potrzebny — generuje stronę /slownik i komponent GlossaryTerm
+        [
+            'docusaurus-plugin-glossary',
+            {
+                glossaryPath: 'slownik/slownik.json',
+                routePath: '/sdc/slownik',
+            },
+        ],
     ],
 
     // =====================================
