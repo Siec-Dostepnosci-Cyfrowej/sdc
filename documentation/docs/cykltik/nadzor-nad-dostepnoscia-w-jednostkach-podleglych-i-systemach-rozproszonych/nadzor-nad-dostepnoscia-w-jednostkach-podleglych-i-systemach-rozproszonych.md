@@ -160,6 +160,8 @@ Wyniki raportowania, doświadczenia jednostek oraz zmiany organizacyjne i techno
 
 Celem nie jest utrzymywanie niezmiennego modelu, lecz jego rozwijanie wraz ze zmianami zachodzącymi w organizacji.
 
+Załącznik ma charakter pomocniczy: [Załącznik 1. Mapa typowych podmiotów i zakresu działania](./zalacznik-1-mapa-typowych-podmiotow-i-zakresu-dzialania.md).
+
 **6. Miejsce zalecenia w systemie zarządzania dostępnością**
 
 Zalecenie uzupełnia obszary związane z:
