@@ -53,7 +53,7 @@ Kontrola może być prowadzona z użyciem list kontrolnych, standardów publikac
 
 Kontrola wykorzystuje listy kontrolne, standardy publikacji lub inne narzędzia przyjęte przez podmiot, odpowiednie do rodzaju materiału i kanału publikacji.
 
-[Zalecenie 5 - Standard dostępności multimediów i komunikacji masowej](../komunikacja-masowa/komunikacja-masowa-zalecenie.md) może być przykładem źródła standardów i list kontrolnych dla materiałów audio, wideo, graficznych i społecznościowych. Nie jest warunkiem stosowania niniejszego zalecenia.
+Zalecenie 5 - Standard dostępności multimediów i komunikacji masowej może być przykładem źródła standardów i list kontrolnych dla materiałów audio, wideo, graficznych i społecznościowych. Nie jest warunkiem stosowania niniejszego zalecenia.
 
 ### 4.2. Określenie ról i odpowiedzialności
 

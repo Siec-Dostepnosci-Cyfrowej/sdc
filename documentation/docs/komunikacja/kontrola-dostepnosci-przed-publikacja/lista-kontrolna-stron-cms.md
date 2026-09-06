@@ -27,7 +27,7 @@ Strony informacyjne, artykuły, aktualności i inne treści tworzone w systemie 
 - Czy linki są opisowe i jednoznaczne poza kontekstem?
 - Czy formularze osadzone na stronie mają etykiety i instrukcje obsługi?
 - Czy elementy interaktywne są dostępne z klawiatury i mają widoczny fokus?
-- Czy tabele danych mają nagłówki i sensowny układ? 
+- Czy tabele danych mają nagłówki i sensowny układ?
 - Czy kontrast tekstu i elementów interfejsu spełnia minimum (sprawdzić wobec lokalnych wytycznych)?
 
 ## Punkty zalecane

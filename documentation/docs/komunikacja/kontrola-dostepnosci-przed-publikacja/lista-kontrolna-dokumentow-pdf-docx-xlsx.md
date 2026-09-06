@@ -23,17 +23,17 @@ Dotyczy dokumentów udostępnianych jako pliki do pobrania lub załączniki: PDF
 ## Punkty obowiązkowe
 - Czy dokument ma logiczną strukturę nagłówków (tytuł, sekcje)?
 - Czy dokument ma ustawiony język dokumentu i poprawne metadane (tytuł)?
-- Czy plik PDF jest otagowany (tagged PDF) lub dokument DOCX/XLSX ma semantyczne elementy? 
-- Czy wszystkie obrazy mają opisy alternatywne lub podpisy opisujące funkcję? 
-- Czy tabele mają nagłówki kolumn/wierszy i nie są użyte do układu? 
-- Czy dokument nie używa przekazania informacji wyłącznie kolorem lub formatowaniem? 
-- Czy dokument jest tekstowy (nie obraz skanowany) lub podano OCR/transkrypcję? 
-- Czy linki mają zrozumiałe i opisowe nazwy? 
-- Czy dokumenty z formularzami są obsługiwalne z klawiatury i mają etykiety pól? 
+- Czy plik PDF jest otagowany (tagged PDF) lub dokument DOCX/XLSX ma semantyczne elementy?
+- Czy wszystkie obrazy mają opisy alternatywne lub podpisy opisujące funkcję?
+- Czy tabele mają nagłówki kolumn/wierszy i nie są użyte do układu?
+- Czy dokument nie używa przekazania informacji wyłącznie kolorem lub formatowaniem?
+- Czy dokument jest tekstowy (nie obraz skanowany) lub podano OCR/transkrypcję?
+- Czy linki mają zrozumiałe i opisowe nazwy?
+- Czy dokumenty z formularzami są obsługiwalne z klawiatury i mają etykiety pól?
 
 ## Punkty zalecane
-- Czy dokument ma spójną strukturę nagłówków i spis treści, jeżeli długi? 
-- Czy obrazy istotne mają rozszerzony opis lub załączoną transkrypcję? 
+- Czy dokument ma spójną strukturę nagłówków i spis treści, jeżeli długi?
+- Czy obrazy istotne mają rozszerzony opis lub załączoną transkrypcję?
 - Czy dokument testowano w czytnikach ekranu podstawowych (przynajmniej jedna próba)?
 
 ## Wynik kontroli

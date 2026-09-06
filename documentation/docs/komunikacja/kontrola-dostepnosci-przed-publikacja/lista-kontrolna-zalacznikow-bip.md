@@ -21,15 +21,15 @@ Krótka lista kontrolna dla załączników publikowanych w Biuletynie Informacji
 Załączniki publikowane w BIP: PDF, DOCX, XLSX, obrazy, arkusze, inne pliki do pobrania.
 
 ## Punkty obowiązkowe
-- Czy załącznik ma tytuł, datę i format w metadanych wpisu w BIP? 
-- Czy opis załącznika zawiera informację o dostępności lub alternatywie? 
-- Czy format pliku jest opisany i dostępna jest informacja o wymaganiach technicznych? 
-- Czy plik PDF/DOCX spełnia podstawowe warunki dostępności (tagi, alternatywy, OCR)? 
-- Czy nazwa pliku i opis nie są jedynie numerem referencyjnym, lecz opisują zawartość? 
+- Czy załącznik ma tytuł, datę i format w metadanych wpisu w BIP?
+- Czy opis załącznika zawiera informację o dostępności lub alternatywie?
+- Czy format pliku jest opisany i dostępna jest informacja o wymaganiach technicznych?
+- Czy plik PDF/DOCX spełnia podstawowe warunki dostępności (tagi, alternatywy, OCR)?
+- Czy nazwa pliku i opis nie są jedynie numerem referencyjnym, lecz opisują zawartość?
 
 ## Punkty zalecane
-- Czy załącznik ma krótkie streszczenie oraz wskazanie części istotnych dla użytkownika? 
-- Czy dostępna jest alternatywa (np. HTML) dla dużych dokumentów? 
+- Czy załącznik ma krótkie streszczenie oraz wskazanie części istotnych dla użytkownika?
+- Czy dostępna jest alternatywa (np. HTML) dla dużych dokumentów?
 
 ## Wynik kontroli
 Pole na krótkie odnotowanie wyniku (spełnione / wymagają poprawy / nie dotyczy) oraz dowód/uwaga.
