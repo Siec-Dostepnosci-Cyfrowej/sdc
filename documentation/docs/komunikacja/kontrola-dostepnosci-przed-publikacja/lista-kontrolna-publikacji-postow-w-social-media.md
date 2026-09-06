@@ -1,13 +1,13 @@
 ---
 id: lista-kontrolna-publikacji-postow-w-social-media
 title: Lista kontrolna publikacji postów w mediach społecznościowych
-description: Lista kontrolna weryfikacji dostępności postów w mediach społecznościowych przed publikacją.
+description: Lista kontrolna wspierająca ocenę dostępności postów w mediach społecznościowych przed publikacją.
 sidebar_label: Lista kontrolna - social media
 sidebar_position: 23
 keywords: [dostępność cyfrowa, media społecznościowe, lista kontrolna, posty, komunikacja]
 tags: [dostępność cyfrowa, media społecznościowe, lista kontrolna, posty, komunikacja]
 opracowanie: Bartłomiej Wilk
-wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
+wspolpraca: Stefan Wajda, Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
 ostatnia_aktualizacja: 6 września 2026 r.
 wersja_robocza: true
@@ -25,9 +25,16 @@ wersja_robocza: true
 | Czy emoji i znaki specjalne nie zastępują informacji koniecznej do zrozumienia komunikatu? | jakościowe | TAK / NIE / NIE DOTYCZY | |
 | Czy układ treści jest czytelny także po odczytaniu liniowym przez technologię wspomagającą? | jakościowe | TAK / NIE / NIE DOTYCZY | |
 
-## Uwaga dotycząca platform zewnętrznych
+## Platformy zewnętrzne
 
 Jeżeli podmiot publiczny publikuje informację na stronie internetowej lub w aplikacji mobilnej innej niż własna i informacja ta nie spełnia wymagań dostępności cyfrowej, należy uwzględnić obowiązek wynikający z art. 6 ustawy o dostępności cyfrowej.
+
+## Decyzja
+
+- publikacja,
+- skierowanie do poprawy,
+- wstrzymanie publikacji,
+- publikacja warunkowa w uzasadnionej sytuacji.
 
 ## Powiązane dokumenty
 

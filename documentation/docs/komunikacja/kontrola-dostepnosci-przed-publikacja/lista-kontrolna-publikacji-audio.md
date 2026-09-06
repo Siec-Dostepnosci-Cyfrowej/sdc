@@ -1,13 +1,13 @@
 ---
 id: lista-kontrolna-publikacji-audio
 title: Lista kontrolna publikacji audio
-description: Lista kontrolna weryfikacji dostępności materiałów audio przed publikacją.
+description: Lista kontrolna wspierająca ocenę dostępności materiałów audio przed publikacją.
 sidebar_label: Lista kontrolna - audio
 sidebar_position: 24
 keywords: [dostępność cyfrowa, audio, transkrypcja, lista kontrolna, weryfikacja]
 tags: [dostępność cyfrowa, audio, transkrypcja, lista kontrolna, weryfikacja]
 opracowanie: Bartłomiej Wilk
-wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
+wspolpraca: Stefan Wajda, Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 16 kwietnia 2026 r.
 ostatnia_aktualizacja: 6 września 2026 r.
 wersja_robocza: true
