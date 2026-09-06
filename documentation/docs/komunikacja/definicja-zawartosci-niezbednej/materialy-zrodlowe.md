@@ -1,14 +1,14 @@
 ---
 id: materialy-zrodlowe
-title: Materiały źródłowe do dezyderatu w sprawie definicji zawartości niezbędnej
+title: Materiały źródłowe do dezyderatu w sprawie zawartości niezbędnej
 sidebar_label: Materiały źródłowe
 sidebar_position: 4
-description: Zestawienie materiałów źródłowych wykorzystanych przy opracowaniu dezyderatu dotyczącego definicji zawartości niezbędnej do realizacji bieżących zadań podmiotu publicznego
+description: Zestawienie materiałów źródłowych wykorzystanych przy analizie problemu interpretacji pojęcia zawartości niezbędnej do realizacji bieżących zadań podmiotu publicznego
 keywords: [dostępność cyfrowa, dokumenty cyfrowe, materiały źródłowe, ustawa o dostępności cyfrowej, dyrektywa 2016/2102]
 tags: [dostępność cyfrowa, dokumenty cyfrowe, materiały źródłowe, legislacja]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 10 czerwca 2026 r.
-ostatnia_aktualizacja: 10 czerwca 2026 r.
+ostatnia_aktualizacja: 6 września 2026 r.
 wersja_robocza: true
 ---
 
@@ -16,17 +16,17 @@ wersja_robocza: true
 
 ## 1. Cel dokumentu
 
-Dokument gromadzi i porządkuje źródła wykorzystane przy opracowaniu projektu dezyderatu dotyczącego wprowadzenia definicji legalnej pojęcia „zawartości niezbędnej do realizacji bieżących zadań podmiotu publicznego”.
+Dokument gromadzi i porządkuje źródła wykorzystane przy opracowaniu projektu dezyderatu dotyczącego problemu interpretacji pojęcia „zawartości niezbędnej do realizacji bieżących zadań podmiotu publicznego” oraz możliwych sposobów jego doprecyzowania.
 
 Zestawienie ma umożliwić weryfikację argumentacji przedstawionej w dezyderacie, wskazać podstawowe punkty odniesienia dla dalszych prac oraz oddzielić źródła potwierdzone od materiałów, których istnienie lub treść wymagają dalszej weryfikacji.
 
-Plik nie powtarza treści dezyderatu. Jego funkcją jest wskazanie, z jakich źródeł wynika problem interpretacyjny, jakie materiały wspierają analizę praktycznych skutków braku definicji oraz jakie dokumenty powinny zostać sprawdzone w kolejnych etapach pracy.
+Plik nie powtarza treści dezyderatu. Jego funkcją jest wskazanie, z jakich źródeł wynika problem interpretacyjny, jakie materiały wspierają analizę jego praktycznych skutków oraz jakie dokumenty powinny zostać sprawdzone w kolejnych etapach pracy.
 
 ## 2. Dokument główny
 
 Dokumentem głównym jest plik `projekt-dezyderatu.md`, znajdujący się w katalogu `documentation/docs/komunikacja/definicja-zawartosci-niezbednej/`.
 
-Plik zawiera identyfikację problemu interpretacyjnego związanego z pojęciem „zawartości niezbędnej do realizacji bieżących zadań podmiotu publicznego”, propozycję definicji legalnej, uzasadnienie potrzeby zmiany oraz opis oczekiwanych skutków dla podmiotów publicznych, obywateli, systemu prawnego oraz monitoringu dostępności cyfrowej.
+Plik zawiera identyfikację problemu interpretacyjnego związanego z pojęciem „zawartości niezbędnej do realizacji bieżących zadań podmiotu publicznego”, możliwe kierunki jego rozwiązania, kryteria wymagające doprecyzowania oraz roboczy wariant definicji legalnej pozostawiony do dalszej analizy.
 
 Projekt dezyderatu stanowi punkt wyjścia dla niniejszego zestawienia. Materiały źródłowe wskazane poniżej służą przede wszystkim weryfikacji podstaw prawnych, relacji pomiędzy prawem krajowym i unijnym oraz praktycznego znaczenia analizowanej przesłanki dla dokumentów cyfrowych.
 
@@ -166,4 +166,4 @@ OSR nie zawiera definicji analizowanego pojęcia, kryteriów interpretacyjnych a
 
 Materiały SDC potwierdzają praktyczne znaczenie problemu dla procesów dotyczących dostępnych dokumentów, remediacji, deklaracji dostępności, audytów, przeglądów i monitoringu. Nie zastępują jednak definicji legalnej ani oficjalnej wykładni analizowanego pojęcia.
 
-Brak potwierdzonych źródeł zawierających definicję lub jednolite kryteria interpretacyjne uzasadnia dalszą analizę i dyskusję nad potrzebą doprecyzowania pojęcia „zawartości niezbędnej do realizacji bieżących zadań podmiotu publicznego”.
+Brak potwierdzonych źródeł zawierających definicję lub jednolite kryteria interpretacyjne uzasadnia dalszą analizę i dyskusję nad sposobem doprecyzowania pojęcia „zawartości niezbędnej do realizacji bieżących zadań podmiotu publicznego”, bez przesądzania, czy właściwym rozwiązaniem będzie zmiana ustawy, czy instrument pozalegislacyjny.
