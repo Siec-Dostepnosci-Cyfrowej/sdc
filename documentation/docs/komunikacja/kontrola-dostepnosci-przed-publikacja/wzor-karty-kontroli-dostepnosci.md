@@ -1,13 +1,13 @@
 ---
 id: wzor-karty-kontroli-dostepnosci
 title: Wzór karty kontroli dostępności przed publikacją
-description: Przykładowe narzędzie dokumentowania wyniku kontroli i decyzji publikacyjnej.
+description: Przykładowe narzędzie dokumentowania wyniku kontroli dostępności treści cyfrowej przed publikacją.
 sidebar_label: Karta kontroli
-sidebar_position: 6
-keywords: [dostępność cyfrowa, karta kontroli, publikacja, dokumentowanie]
-tags: [dostępność cyfrowa, karta kontroli, publikacja, dokumentowanie]
+sidebar_position: 7
+keywords: [dostępność cyfrowa, karta kontroli, dokumentowanie, kontrola, publikacja]
+tags: [dostępność cyfrowa, karta kontroli, dokumentowanie, kontrola, publikacja]
 opracowanie: Bartłomiej Wilk
-wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
+wspolpraca: Stefan Wajda, Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 11 maja 2026 r.
 ostatnia_aktualizacja: 6 września 2026 r.
 wersja_robocza: true
@@ -15,25 +15,24 @@ wersja_robocza: true
 
 # Wzór karty kontroli dostępności przed publikacją
 
-Karta jest przykładowym narzędziem. Podmiot może dokumentować kontrolę w innym systemie, jeżeli zapis pozwala odtworzyć wynik i decyzję. Nie ma obowiązku prowadzenia odrębnej karty dla każdej drobnej publikacji.
+Karta jest przykładem, a nie obowiązkowym formularzem. Podmiot może dokumentować kontrolę w używanym już systemie obiegu zadań, CMS, rejestrze publikacji lub innym narzędziu.
 
-| Pole | Informacja |
+| Pole | Informacja do wpisania |
 |---|---|
-| Materiał | Tytuł lub identyfikator publikacji. |
+| Materiał | Tytuł lub identyfikator treści. |
 | Typ i kanał | Rodzaj materiału i miejsce publikacji. |
-| Data kontroli | Data wykonania kontroli. |
-| Osoba lub rola sprawdzająca | Kto wykonał kontrolę. |
-| Zakres lub narzędzie kontroli | Zastosowana lista, standard, test lub inny zakres sprawdzenia. |
-| Wynik | Spełnia wymagania / wymaga poprawy / publikacja wstrzymana / wymaga decyzji warunkowej. |
-| Uwagi | Krótki opis stwierdzonych barier lub ryzyk. |
-| Decyzja publikacyjna | Publikacja / poprawa / wstrzymanie / publikacja warunkowa. |
-| Termin i odpowiedzialność za poprawę | Wypełniane, jeżeli dotyczy. |
+| Data kontroli | Data wykonania sprawdzenia. |
+| Osoba sprawdzająca | Imię i nazwisko albo rola. |
+| Zakres lub narzędzie kontroli | Np. nazwa listy kontrolnej, testu albo standardu wewnętrznego. |
+| Wynik | Brak rozpoznanych barier / wymaga poprawy / wymaga decyzji. |
+| Rozpoznane problemy | Krótki opis barier lub ryzyk. |
+| Decyzja | Publikacja / poprawa / wstrzymanie / publikacja warunkowa. |
+| Odpowiedzialność i termin | Wypełnić, jeżeli potrzebna jest poprawa. |
 
-## Wariant minimalny
+## Minimalny wariant
 
-Dla prostych materiałów o niskim ryzyku wystarczy zapis zawierający identyfikację materiału, datę, osobę sprawdzającą, wynik kontroli i decyzję publikacyjną.
+Dla prostych materiałów niskiego ryzyka dokumentowanie może ograniczać się do identyfikacji materiału, daty, osoby sprawdzającej, wyniku i decyzji. Nie ma potrzeby tworzenia osobnej karty, jeżeli te informacje są już rejestrowane w innym systemie.
 
-## Powiązane dokumenty
+## Publikacja warunkowa
 
-- [Procedura kontroli dostępności](./procedura-wdrozeniowa-kontroli-dostepnosci-przed-publikacja.md)
-- [Tryb publikacji warunkowej](./procedura-sytuacji-wyjatkowych.md)
+Jeżeli zastosowano publikację warunkową, należy dodatkowo udokumentować rozpoznane bariery, uzasadnienie, osobę zatwierdzającą, odpowiedzialność za poprawę i termin usunięcia bariery zgodnie z [trybem publikacji warunkowej](./procedura-sytuacji-wyjatkowych.md).
