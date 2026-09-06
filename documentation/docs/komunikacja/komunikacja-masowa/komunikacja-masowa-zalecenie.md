@@ -91,7 +91,7 @@ W zaleceniu uwzględniono w szczególności poniżej wymienione przepisy ustawy 
 - art. 5a ust. 1–2 — zasady dostosowania zarejestrowanych wcześniej multimediów nadawanych na żywo, publikowanych następnie na stronie internetowej lub w aplikacji mobilnej;
 - art. 6 — obowiązek opublikowania tej samej informacji w sposób dostępny cyfrowo na własnej stronie internetowej lub w aplikacji mobilnej, jeżeli informacja opublikowana w innym serwisie lub aplikacji nie spełnia wymagań dostępności cyfrowej.
 
-## Źródła i opracowania
+### Źródła i opracowania
 
 - [W3C, Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/)
 - [W3C WAI, Planning and Managing Web Accessibility](https://www.w3.org/WAI/planning-and-managing/)
@@ -99,7 +99,7 @@ W zaleceniu uwzględniono w szczególności poniżej wymienione przepisy ustawy 
 - ETSI EN 301 549 V3.2.1:2021, *Accessibility requirements for ICT products and services*
 - WebAIM, *Accessibility Principles and Techniques*
 
-## Załączniki
+## Powiązane dokumenty
 
 ### Standardy komunikacji cyfrowej
 
@@ -130,3 +130,4 @@ Listy kontrolne i inne narzędzia weryfikacji powinny wynikać ze standardów, a
 | 0.1 | Bartłomiej Wilk | 30.04.2026 | Zgłoszenie projektu zalecenia. |
 | 0.2 | Bartłomiej Wilk | 03.08.2026 | Uporządkowanie dotychczasowego pakietu standardów i wymagań. |
 | 0.3 | Stefan Wajda, Bartłomiej Wilk | 06.09.2026 | Przebudowanie zalecenia wokół zarządzania standardami i integracja pełnego zestawu 11 standardów. |
+| 0.4 | Stefan Wajda, Bartłomiej Wilk | 06.09.2026 | Dostosowanie dokumentu głównego do standardowej struktury zalecenia. |
