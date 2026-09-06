@@ -8,7 +8,7 @@ keywords: [braki w materiale, dostępność cyfrowa, publikacja]
 tags: [komunikacja, dostępność cyfrowa, publikacja]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 3 sierpnia 2026 r.
+ostatnia_aktualizacja: 6 września 2026 r.
 wersja_robocza: true
 ---
 
@@ -41,7 +41,7 @@ Jeżeli podmiot przekazujący nie może poprawić materiału:
 2. rozważ przygotowanie dostępnego przedstawienia informacji;
 3. ustal, czy zachodzi konkretne wyłączenie ustawowe;
 4. uwzględnij obowiązek publikacji, jeżeli występuje;
-5. wstrzymaj publikację materiału fakultatywnego, jeżeli nie ma zgodnego sposobu jego udostępnienia.
+5. ustal dalszy sposób postępowania z materiałem fakultatywnym, w tym zasadność wstrzymania jego publikacji do czasu usunięcia braków lub określenia zgodnego z prawem sposobu udostępnienia informacji.
 
 ## 4. Udokumentuj wynik
 
