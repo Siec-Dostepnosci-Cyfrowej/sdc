@@ -2,7 +2,7 @@
 id: 03-standard-publikacji-w-mediach-spolecznosciowych
 title: Standard publikacji w mediach społecznościowych
 description: Standard określający zasady przygotowania i publikacji dostępnych komunikatów w mediach społecznościowych.
-sidebar_label: Standard publikacji w social media
+sidebar_label: Standard publikacji w mediach społecznościowych
 sidebar_position: 3
 keywords: [treści cyfrowe,komunikacja cyfrowa,prosty język,dostępność cyfrowa,publikacja treści,media społecznościowe,social media]
 tags: [treści cyfrowe,komunikacja cyfrowa,prosty język,dostępność cyfrowa,publikacja treści,media społecznościowe,social media]
