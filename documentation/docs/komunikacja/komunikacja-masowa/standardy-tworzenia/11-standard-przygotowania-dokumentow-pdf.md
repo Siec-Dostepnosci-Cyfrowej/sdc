@@ -73,7 +73,7 @@ Dokument źródłowy przeznaczony do eksportu do PDF powinien:
 - posiadać poprawną strukturę,
 - wykorzystywać style systemowe,
 - zawierać odpowiednie nagłówki,
-- posiadać opisy alternatywne grafik,
+- mieć opisy alternatywne grafik,
 - spełniać wymagania dostępności dla swojego formatu.
 
 Tworzenie dostępnego PDF powinno rozpoczynać się od przygotowania poprawnego dokumentu źródłowego.
