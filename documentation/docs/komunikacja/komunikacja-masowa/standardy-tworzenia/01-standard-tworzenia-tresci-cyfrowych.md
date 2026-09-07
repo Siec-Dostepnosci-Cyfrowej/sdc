@@ -166,13 +166,7 @@ Treść linku powinna być zrozumiała również poza kontekstem otaczającego t
 
 ## 9. Treści wizualne i multimedia
 
-Treści tekstowe powinny uwzględniać obecność:
-- grafik,
-- materiałów audio,
-- materiałów wideo,
-- elementów interaktywnych.
-
-W szczególności należy zapewnić:
+Jeżeli treść zawiera grafiki, materiały audio, materiały wideo lub elementy interaktywne, należy zapewnić:
 
 - opisy alternatywne dla grafik,
 - równoważność informacji przekazywanych wizualnie,
