@@ -56,7 +56,7 @@ Standard ma zastosowanie niezależnie od:
 
 ## 3. Zasada podstawowa
 
-Każda informacja przekazywana w sposób wizualny lub dźwiękowy powinna posiadać równoważną alternatywę umożliwiającą odbiór informacji przez użytkowników korzystających z innych sposobów percepcji lub technologii wspomagających.
+Każda informacja przekazywana w sposób wizualny lub dźwiękowy powinna mieć równoważną alternatywę umożliwiającą odbiór informacji przez użytkowników korzystających z innych sposobów percepcji lub technologii wspomagających.
 
 Opis alternatywny oraz treść równoważna powinny:
 - przekazywać znaczenie materiału,
