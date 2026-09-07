@@ -195,7 +195,7 @@ Instrukcje dla użytkownika powinny być:
 
 ---
 
-## 11. Eksport i publikacja arkusza
+## 12. Eksport i publikacja arkusza
 
 Arkusz powinien być przygotowany w sposób umożliwiający:
 - poprawne udostępnienie użytkownikom,
