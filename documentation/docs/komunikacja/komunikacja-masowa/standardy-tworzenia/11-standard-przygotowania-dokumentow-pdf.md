@@ -145,7 +145,7 @@ Nie należy:
 ## 8. Grafiki i materiały wizualne
 
 Grafiki umieszczane w dokumencie PDF powinny:
-- posiadać opisy alternatywne,
+- mieć opisy alternatywne,
 - wspierać przekaz informacji,
 - nie być jedynym źródłem kluczowych informacji.
 
