@@ -86,7 +86,7 @@ Nie należy:
 
 ## 5. Struktura dokumentu PDF
 
-Dokument PDF powinien posiadać logiczną strukturę umożliwiającą:
+Dokument PDF powinien mieć logiczną strukturę umożliwiającą:
 - nawigację po dokumencie,
 - interpretację treści przez technologie wspomagające,
 - rozpoznanie hierarchii informacji.
