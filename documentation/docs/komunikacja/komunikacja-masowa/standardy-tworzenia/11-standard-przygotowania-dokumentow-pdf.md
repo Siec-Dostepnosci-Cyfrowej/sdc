@@ -213,7 +213,7 @@ Nie należy:
 
 ## 12. Metadane i właściwości dokumentu
 
-Dokument PDF powinien posiadać:
+Dokument PDF powinien mieć:
 - tytuł dokumentu,
 - określony język dokumentu,
 - odpowiednie metadane — jeżeli są wykorzystywane.
