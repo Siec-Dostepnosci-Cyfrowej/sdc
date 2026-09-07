@@ -121,7 +121,7 @@ Materiały złożone, takie jak:
 - mapy,
 - prezentacje danych
 
-powinny posiadać treści równoważne umożliwiające zrozumienie informacji bez konieczności interpretowania obrazu.
+powinny mieć treści równoważne umożliwiające zrozumienie informacji bez konieczności interpretowania obrazu.
 
 Treść równoważna powinna:
 - przekazywać sens materiału,
