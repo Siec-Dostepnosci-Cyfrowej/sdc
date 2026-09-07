@@ -60,7 +60,7 @@ Treści publikowane w mediach społecznościowych powinny:
 
 Dostępność stanowi integralny element przygotowania komunikatu i nie powinna być traktowana jako działanie dodatkowe wykonywane po publikacji.
 
-Organizacja wykorzystuje funkcje dostępności oferowane przez daną platformę. Jeżeli podmiot publiczny publikuje informację w serwisie lub aplikacji innej niż jego własna i informacja ta nie spełnia wymagań dostępności cyfrowej, publikuje tę samą informację w sposób dostępny cyfrowo na wybranej spośród posiadanych przez siebie stron internetowych lub aplikacji mobilnych, zgodnie z art. 6 ustawy o dostępności cyfrowej.
+ Organizacja wykorzystuje funkcje dostępności oferowane przez daną platformę. Jeżeli podmiot publiczny publikuje informację w serwisie lub aplikacji innej niż własna i informacja ta nie spełnia wymagań dostępności cyfrowej, publikuje tę samą informację w sposób dostępny cyfrowo na własnej stronie internetowej lub w aplikacji mobilnej, zgodnie z art. 6 ustawy o dostępności cyfrowej. 
 
 ---
 
