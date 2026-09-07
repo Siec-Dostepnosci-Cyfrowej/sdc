@@ -125,7 +125,7 @@ W przypadku dokumentów powstałych ze skanów należy:
 
 ## 7. Nagłówki i struktura treści
 
-Dokument powinien posiadać:
+Dokument powinien mieć:
 - tytuł,
 - logiczną strukturę nagłówków,
 - podział na sekcje i akapity.
