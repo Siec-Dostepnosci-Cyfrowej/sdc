@@ -13,7 +13,6 @@ ostatnia_aktualizacja: 6 września 2026 r.
 wersja_robocza: true
 ---
 
-# Standard opisów alternatywnych i treści równoważnych
 
 ## 1. Cel standardu
 
