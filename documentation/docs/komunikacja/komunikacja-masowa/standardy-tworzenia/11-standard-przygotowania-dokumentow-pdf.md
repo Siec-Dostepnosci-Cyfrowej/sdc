@@ -166,7 +166,7 @@ powinny posiadać odpowiednią treść równoważną.
 ## 9. Tabele
 
 Tabele w dokumentach PDF powinny:
-- posiadać oznaczone nagłówki,
+- mieć oznaczone nagłówki,
 - zachowywać logiczną strukturę,
 - być możliwe do interpretacji przez technologie wspomagające.
 
