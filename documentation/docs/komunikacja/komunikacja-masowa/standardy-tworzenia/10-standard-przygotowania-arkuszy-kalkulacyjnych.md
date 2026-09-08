@@ -245,7 +245,7 @@ Weryfikacja może być wspierana przez:
 
 ---
 
-## 13. Postanowienia końcowe
+## 14. Postanowienia końcowe
 
 Standard stanowi element systemu zarządzania dokumentami cyfrowymi i komunikacją cyfrową organizacji.
 
