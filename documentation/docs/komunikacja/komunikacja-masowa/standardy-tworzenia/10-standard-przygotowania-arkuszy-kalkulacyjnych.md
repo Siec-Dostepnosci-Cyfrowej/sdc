@@ -226,7 +226,7 @@ Eksport arkusza nie powinien prowadzić do utraty:
 
 ---
 
-## 12. Weryfikacja przed publikacją
+## 13. Weryfikacja przed publikacją
 
 Przed publikacją należy zweryfikować:
 
