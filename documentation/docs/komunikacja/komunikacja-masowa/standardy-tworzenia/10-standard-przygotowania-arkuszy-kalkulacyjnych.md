@@ -65,7 +65,7 @@ Układ danych powinien wynikać ze struktury informacji, a nie wyłącznie z for
 
 ## 4. Struktura arkusza
 
-Arkusz powinien posiadać:
+Arkusz powinien mieć:
 - logiczną organizację danych,
 - czytelną strukturę tabel,
 - jednoznacznie oznaczone sekcje i zakresy danych.
