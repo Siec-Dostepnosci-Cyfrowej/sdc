@@ -195,6 +195,16 @@ Instrukcje dla użytkownika powinny być:
 
 ---
 
+## 11. Metadane i właściwości arkusza
+
+Arkusz powinien mieć:
+- tytuł,
+- określony język dokumentu,
+- właściwe metadane, jeżeli są wykorzystywane.
+
+W przypadku arkuszy wielojęzycznych należy oznaczać zmiany języka w treści arkusza.
+
+---
 ## 12. Eksport i publikacja arkusza
 
 Arkusz powinien być przygotowany w sposób umożliwiający:
