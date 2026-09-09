@@ -16,22 +16,22 @@ Procedura dotyczy wyłącznie dodatkowych działań wynikających z faktu, że m
 
 ```mermaid
 flowchart TD
-    A["Materiał pochodzi od innego podmiotu"] --> B["Ustal status i pochodzenie materiału"]
-    B --> C["Ustal obowiązek publikacji"]
-    C --> D["Ustal możliwość modyfikacji"]
+    A["Materiał pochodzi od innego podmiotu"] --> B["Ustalenie statusu i pochodzenia materiału"]
+    B --> C["Ustalenie obowiązku publikacji"]
+    C --> D["Ocena możliwości modyfikacji"]
     D --> E{"Materiał wymaga poprawy?"}
-    E -->|Nie| J["Kontynuuj zwykły proces publikacji"]
-    E -->|Tak| F["Pozyskaj wersję źródłową, poprawioną lub dostępną"]
+    E -->|Nie| J["Kontynuacja zwykłego procesu publikacji"]
+    E -->|Tak| F["Pozyskanie wersji źródłowej, poprawionej lub dostępnej"]
     F --> G{"Problem rozwiązany?"}
     G -->|Tak| J
-    G -->|Nie| H["Oceń możliwość dostosowania lub dostępnego przedstawienia informacji"]
-    H --> I["Oceń przesłanki ewentualnego wyłączenia"]
-    I --> K["Wybierz dalszy sposób postępowania"]
+    G -->|Nie| H["Ocena możliwości dostosowania lub dostępnego przedstawienia informacji"]
+    H --> I["Ocena przesłanek ewentualnego wyłączenia"]
+    I --> K["Wybór dalszego sposobu postępowania"]
 ```
 
-## 1. Ustal status i pochodzenie materiału
+## 1. Ustalenie statusu i pochodzenia materiału
 
-Ustal:
+Na tym etapie ustala się:
 
 - kto wytworzył materiał;
 - kto przekazał go do publikacji;
@@ -41,15 +41,15 @@ Ustal:
 
 Informacje te są potrzebne do dalszej oceny materiału, w szczególności do oceny przesłanek wyłączenia określonych w przepisach o dostępności cyfrowej.
 
-## 2. Ustal obowiązek publikacji
+## 2. Ustalenie obowiązku publikacji
 
-Ustal, czy publikacja materiału wynika z przepisu prawa albo innego wiążącego obowiązku.
+Ustala się, czy publikacja materiału wynika z przepisu prawa albo innego wiążącego obowiązku.
 
 Obowiązek publikacji i obowiązek zapewnienia dostępności cyfrowej ocenia się niezależnie. Sam fakt, że materiał musi zostać opublikowany, nie stanowi podstawy zastosowania wyłączenia z wymagań dostępności cyfrowej.
 
-## 3. Ustal możliwość modyfikacji
+## 3. Ocena możliwości modyfikacji
 
-Sprawdź:
+Ocena obejmuje ustalenie:
 
 - czy podmiot publikujący jest uprawniony do zmiany materiału;
 - czy istnieją ograniczenia prawne lub faktyczne dotyczące modyfikacji;
@@ -57,16 +57,16 @@ Sprawdź:
 
 Samo zewnętrzne pochodzenie materiału ani brak pliku edytowalnego nie przesądzają o braku możliwości jego dostosowania.
 
-## 4. Jeżeli materiał wymaga poprawy, spróbuj pozyskać odpowiednią wersję
+## 4. Pozyskanie odpowiedniej wersji materiału
 
-W pierwszej kolejności zwróć się do podmiotu przekazującego o:
+Jeżeli materiał wymaga poprawy, w pierwszej kolejności podejmuje się działania zmierzające do pozyskania:
 
-- poprawienie materiału;
-- przekazanie wersji dostępnej cyfrowo;
-- przekazanie wersji źródłowej lub edytowalnej;
-- uzupełnienie elementów potrzebnych do zapewnienia dostępności odpowiednich do rodzaju materiału.
+- poprawionej wersji materiału;
+- wersji dostępnej cyfrowo;
+- wersji źródłowej lub edytowalnej;
+- elementów potrzebnych do zapewnienia dostępności odpowiednich do rodzaju materiału.
 
-W informacji o brakach wskaż konkretnie, czego brakuje, co wymaga poprawy oraz jakie materiały lub informacje są potrzebne.
+Informacja o brakach powinna wskazywać, czego brakuje, co wymaga poprawy oraz jakie materiały lub informacje są potrzebne.
 
 Można zastosować wzór:
 
@@ -77,21 +77,21 @@ Można zastosować wzór:
 >
 > Prosimy o przekazanie [lista potrzebnych elementów lub poprawek] do [termin]. Do czasu wyjaśnienia sposobu dalszego postępowania materiał nie zostanie opublikowany w przekazanej postaci.
 
-## 5. Oceń możliwość dostosowania lub przygotowania dostępnego przedstawienia informacji
+## 5. Ocena możliwości dostosowania lub przygotowania dostępnego przedstawienia informacji
 
-Jeżeli podmiot przekazujący nie może dostarczyć odpowiedniej wersji, ustal:
+Jeżeli podmiot przekazujący nie może dostarczyć odpowiedniej wersji, ocena obejmuje ustalenie:
 
 - czy podmiot publikujący może sam dostosować materiał;
 - czy możliwe jest przygotowanie dostępnej wersji;
 - czy możliwe jest przygotowanie dostępnego przedstawienia zawartych w materiale informacji.
 
-Zakres działań dobierz do rodzaju materiału i ustalonego obowiązku publikacji.
+Zakres działań dostosowuje się do rodzaju materiału i ustalonego obowiązku publikacji.
 
-## 6. Oceń przesłanki wyłączenia
+## 6. Ocena przesłanek wyłączenia
 
-Jeżeli nadal rozważane jest zastosowanie wyłączenia, odnieś ustalony stan faktyczny do konkretnego przepisu.
+Jeżeli nadal rozważane jest zastosowanie wyłączenia, ustalony stan faktyczny odnosi się do konkretnego przepisu.
 
-Przy ocenie art. 3 ust. 2 pkt 5 ustawy o dostępności cyfrowej uwzględnij w szczególności:
+Przy ocenie art. 3 ust. 2 pkt 5 ustawy o dostępności cyfrowej uwzględnia się w szczególności:
 
 - sposób wytworzenia materiału;
 - sposób jego sfinansowania lub nabycia;
@@ -100,15 +100,15 @@ Przy ocenie art. 3 ust. 2 pkt 5 ustawy o dostępności cyfrowej uwzględnij w sz
 
 Pochodzenie materiału od innego podmiotu nie jest samoistną podstawą zastosowania wyłączenia.
 
-## 7. Wybierz dalszy sposób postępowania
+## 7. Wybór dalszego sposobu postępowania
 
-W zależności od wyników oceny możliwe jest w szczególności:
+W zależności od wyników oceny dalszy sposób postępowania może obejmować w szczególności:
 
 - pozyskanie poprawionej lub dostępnej wersji;
 - pozyskanie wersji źródłowej albo edytowalnej;
 - dostosowanie materiału przez podmiot publikujący;
 - przygotowanie dostępnego przedstawienia informacji;
-- publikacja materiału w zakresie dopuszczonym przez przepisy;
+- publikację materiału w zakresie dopuszczonym przez przepisy;
 - wstrzymanie publikacji materiału, jeżeli publikacja nie jest obowiązkowa i nie zostały spełnione warunki pozwalające na jego prawidłowe udostępnienie.
 
 Po ustaleniu sposobu postępowania materiał wraca do zwykłego procesu publikacji obowiązującego w podmiocie.
