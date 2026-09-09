@@ -12,7 +12,7 @@ ostatnia_aktualizacja: 9 września 2026 r.
 wersja_robocza: true
 ---
 
-Tego wzoru nie stosuje się jako zamiennika dostosowania materiału. Może być wykorzystany wyłącznie wtedy, gdy po przeprowadzeniu oceny ustalono rzeczywistą podstawę pozostawienia określonych ograniczeń dostępności.
+Wzór nie zastępuje dostosowania materiału. Stosuje się go wyłącznie wtedy, gdy po przeprowadzeniu oceny ustalono rzeczywistą podstawę pozostawienia określonych ograniczeń dostępności.
 
 > ## Informacja o ograniczeniach dostępności
 >
@@ -33,4 +33,4 @@ Tego wzoru nie stosuje się jako zamiennika dostosowania materiału. Może być 
 > - e-mail: […]
 > - telefon: […]
 
-Nie stosuj tego komunikatu automatycznie do materiałów pochodzących od innych podmiotów. Samo zewnętrzne pochodzenie materiału ani brak możliwości jego łatwej edycji nie stanowią podstawy zastosowania wyłączenia.
+Komunikatu nie stosuje się automatycznie do materiałów pochodzących od innych podmiotów. Samo zewnętrzne pochodzenie materiału ani brak możliwości jego łatwej edycji nie stanowią podstawy zastosowania wyłączenia.
