@@ -12,32 +12,32 @@ ostatnia_aktualizacja: 9 września 2026 r.
 wersja_robocza: true
 ---
 
-Przekazując materiał do publikacji, dołącz informacje i pliki potrzebne do ustalenia właściwego sposobu jego udostępnienia.
+Materiały przekazywane do publikacji zawierają informacje i pliki potrzebne do ustalenia właściwego sposobu ich udostępnienia oraz oceny możliwości zapewnienia dostępności cyfrowej.
 
 ## Informacje o materiale
 
-Przekaż:
+Wraz z materiałem przekazywane są:
 
 - tytuł materiału;
 - dane osoby do kontaktu;
-- informację o podstawie obowiązku publikacji, jeżeli występuje;
-- informację, kto wytworzył materiał;
-- informację, czy materiał został przygotowany na rzecz podmiotu publikującego;
-- informację, czy materiał został sfinansowany lub nabyty przez podmiot publikujący;
-- informację o prawach lub ograniczeniach dotyczących modyfikacji materiału.
+- informacja o podstawie obowiązku publikacji, jeżeli taki obowiązek występuje;
+- informacja o podmiocie, który wytworzył materiał;
+- informacja, czy materiał został przygotowany na rzecz podmiotu publikującego;
+- informacja, czy materiał został sfinansowany lub nabyty przez podmiot publikujący;
+- informacja o prawach do modyfikacji materiału albo o ograniczeniach w tym zakresie.
 
 ## Wersje i pliki
 
-Jeżeli są dostępne, dołącz:
+Wraz z materiałem przekazywane są, jeżeli są dostępne:
 
-- wersję źródłową lub edytowalną;
-- wersję dostępną cyfrowo;
-- elementy potrzebne do zapewnienia dostępności odpowiednie do rodzaju materiału, na przykład opisy tekstowe, napisy, transkrypcje lub inne materiały uzupełniające.
+- wersja źródłowa lub edytowalna;
+- wersja dostępna cyfrowo;
+- elementy potrzebne do zapewnienia dostępności odpowiednie do rodzaju materiału, w szczególności opisy tekstowe, napisy, transkrypcje lub inne materiały uzupełniające.
 
-Materiał powinien zostać przekazany w postaci umożliwiającej jego prawidłową publikację i ocenę możliwości zapewnienia dostępności cyfrowej.
+Materiał jest przekazywany w postaci umożliwiającej jego prawidłową ocenę i dalsze przygotowanie do publikacji.
 
 ## Uzupełnianie braków
 
-Jeżeli przekazane informacje lub pliki są niewystarczające, podmiot publikujący może zwrócić się o ich uzupełnienie, poprawienie materiału, przekazanie wersji źródłowej albo dostępnej wersji.
+Jeżeli przekazane informacje lub pliki są niewystarczające, podmiot publikujący określa brakujące elementy i zwraca się do podmiotu przekazującego o ich uzupełnienie, poprawienie materiału albo przekazanie odpowiedniej wersji źródłowej, edytowalnej lub dostępnej cyfrowo.
 
-Zewnętrzne pochodzenie materiału ani brak pliku edytowalnego nie oznaczają automatycznie, że materiał jest wyłączony z wymagań dostępności cyfrowej.
+Zewnętrzne pochodzenie materiału ani brak pliku edytowalnego nie stanowią samodzielnej podstawy do uznania materiału za wyłączony z wymagań dostępności cyfrowej.
