@@ -57,8 +57,6 @@ Dokument PDF powinien być przygotowywany jako dokument cyfrowy posiadający:
 
 PDF nie powinien być traktowany wyłącznie jako obraz strony przeznaczony do wydruku.
 
-Dostępność dokumentu powinna być zapewniana na etapie tworzenia dokumentu źródłowego.
-
 Eksport do PDF nie powinien prowadzić do utraty:
 - struktury dokumentu,
 - opisów alternatywnych,
