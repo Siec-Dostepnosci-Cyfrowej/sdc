@@ -1,14 +1,14 @@
 ---
-id: wsparcie-i-nadzor-nad-jednostkami-podleglymi
-title: Wsparcie i nadzór nad dostępnością w jednostkach podległych i systemach rozproszonych
-description: Organizacja nadrzędna tworzy i utrzymuje system wsparcia oraz nadzoru nad zapewnianiem dostępności cyfrowej w jednostkach podległych i nadzorowanych
-sidebar_label: Zalecenie
+id: wsparcie-i-nadzor-nad-zapewnianiem-dostepnosci-cyfrowej
+title: Wsparcie i nadzór nad zapewnianiem dostępności cyfrowej w podmiotach powiązanych
+description: Organizacja tworzy i utrzymuje system wsparcia, monitorowania i reagowania na problemy z dostępnością cyfrową w podmiotach z nią powiązanych.
+sidebar_label: Projekt zalecenia
 sidebar_position: 0
-keywords: [dostępność cyfrowa, jednostki podległe, jednostki nadzorowane,skuteczność wsparcia]
-tags: [dostępność cyfrowa, jednostki podległe, jednostki nadzorowane,skuteczność wsparcia]
-opracowanie: Angelika Sosnowska, Stefan Wajda
+keywords: [dostępność cyfrowa, wsparcie, nadzór, podmioty powiązane, jednostki organizacyjne]
+tags: [dostępność cyfrowa, wsparcie, nadzór, podmioty powiązane, jednostki organizacyjne]
+opracowanie: Angelika Sosnowska, Stefan Wajda, Bartłomiej Wilk
 data_zgloszenia: 7 lipca 2026 r.
-ostatnia_aktualizacja: 7 lipca 2026 r.
+ostatnia_aktualizacja: 6 września 2026 r.
 wersja_robocza: true
 ---
 
@@ -159,6 +159,12 @@ Model monitorowania powinien podlegać okresowej ocenie i aktualizacji.
 Wyniki raportowania, doświadczenia jednostek oraz zmiany organizacyjne i technologiczne powinny być wykorzystywane do doskonalenia przyjętych rozwiązań.
 
 Celem nie jest utrzymywanie niezmiennego modelu, lecz jego rozwijanie wraz ze zmianami zachodzącymi w organizacji.
+
+Załączniki mają charakter pomocniczy:
+
+* [Załącznik 1. Mapa typowych podmiotów i zakresu działania](./zalacznik-1-mapa-typowych-podmiotow-i-zakresu-dzialania.md)
+* [Załącznik 2. Schemat reagowania na problemy z dostępnością cyfrową](./zalacznik-2-schemat-reagowania-na-problemy-z-dostepnoscia-cyfrowa.md)
+* [Załącznik 3. Karta oceny sytuacji jednostki lub podmiotu](./zalacznik-3-karta-oceny-sytuacji-jednostki-lub-podmiotu.md)
 
 **6. Miejsce zalecenia w systemie zarządzania dostępnością**
 
