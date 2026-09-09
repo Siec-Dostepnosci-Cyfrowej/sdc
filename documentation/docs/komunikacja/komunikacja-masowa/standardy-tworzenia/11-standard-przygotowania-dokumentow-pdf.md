@@ -222,12 +222,7 @@ W przypadku dokumentów wielojęzycznych należy oznaczać zmiany języka w tre�
 
 ## 13. Zgodność techniczna
 
-Dokument PDF powinien być przygotowany zgodnie z wymaganiami dostępności cyfrowej oraz — w miarę możliwości — z wymaganiami standardu PDF/UA.
-
-W szczególności należy:
-- stosować znaczniki strukturalne,
-- zapewniać poprawną kolejność odczytu,
-- unikać elementów utrudniających interpretację dokumentu.
+Dokument PDF powinien być przygotowany zgodnie z wymaganiami dostępności cyfrowej oraz — w miarę możliwości — z wymaganiami normy PDF/UA (ISO 14289). PDF/UA określa techniczne warunki dostępności plików PDF, w tym sposób oznaczania struktury opisanej w sekcji 5.
 
 Dokument powinien umożliwiać korzystanie z:
 - czytników ekranu,
