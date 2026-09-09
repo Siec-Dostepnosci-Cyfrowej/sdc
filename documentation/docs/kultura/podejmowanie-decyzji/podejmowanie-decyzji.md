@@ -84,7 +84,7 @@ Dotyczy to w szczególności:
  
 ### 3.6. Rola koordynatora ds. dostępności cyfrowej
  
-Koordynator dostępności wspiera osoby odpowiedzialne za procesy, usługi, informacje i systemy w podejmowaniu decyzji dotyczących dostępności cyfrowej.
+Koordynator dostępności wspiera osoby odpowiedzialne za zadania, usługi, informacje, produkty i systemy w podejmowaniu decyzji dotyczących dostępności cyfrowej.
  
 Do zadań koordynatora może należeć w szczególności:
  
