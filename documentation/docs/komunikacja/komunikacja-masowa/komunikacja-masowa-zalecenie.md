@@ -11,7 +11,7 @@ wymiar: Komunikacja
 opracowanie: Stefan Wajda, Bartłomiej Wilk
 wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 30 kwietnia 2026 r.
-ostatnia_aktualizacja: 6 września 2026 r.
+ostatnia_aktualizacja: 9 września 2026 r.
 wersja_robocza: true
 ---
 
@@ -21,9 +21,9 @@ wersja_robocza: true
 
 Organizacja ustanawia, utrzymuje, aktualizuje i stosuje standardy tworzenia oraz publikacji treści cyfrowych, które wspierają realizację wymagań dostępności cyfrowej, spójność komunikacji, jakość publikowanych materiałów oraz powtarzalność działań w kanałach cyfrowych organizacji.
 
-Zalecenie obejmuje standardy dotyczące dokumentów cyfrowych, treści internetowych, materiałów multimedialnych, grafik, komunikacji w mediach społecznościowych oraz innych treści publikowanych w kanałach cyfrowych organizacji.
-
 ## 2. Rekomendacje
+
+Zakres standardów obejmuje dokumenty cyfrowe, treści internetowe, materiały multimedialne, grafiki, komunikację w mediach społecznościowych oraz inne treści publikowane w kanałach cyfrowych organizacji.
 
 1. Organizacja ustanawia standardy tworzenia i publikacji treści, które:
    - określają strukturę i sposób przygotowania treści;
@@ -42,7 +42,7 @@ Zalecenie obejmuje standardy dotyczące dokumentów cyfrowych, treści interneto
    - role i odpowiedzialność związane z ich stosowaniem;
    - zasady aktualizacji standardów;
    - sposób udostępniania standardów pracownikom i współpracownikom.
-4. Organizacja zapewnia aktualizację i rozwój standardów w szczególności w przypadku:
+4. Organizacja określa częstotliwość przeglądu standardów oraz zapewnia ich aktualizację i rozwój w szczególności w przypadku:
    - zmian przepisów prawa;
    - zmian norm i standardów technicznych;
    - zmian wykorzystywanych narzędzi i technologii;
@@ -76,30 +76,30 @@ Wprowadzenie i utrzymywanie standardów wspiera organizację procesów komunikac
 
 ## 4. Podstawy prawne
 
-W zaleceniu uwzględniono w szczególności wymienione poniżej przepisy ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych:
+W zaleceniu uwzględniono poniżej wymienione przepisy:
 
-- art. 5 ust. 1–3 — obowiązek zapewniania dostępności cyfrowej zarządzanych stron internetowych i aplikacji mobilnych oraz sposób uznania wymagań za spełnione z uwzględnieniem pkt 9, 10 i 11 Polskiej Normy wprowadzającej ETSI EN 301 549 V3.2.1:2021;
-- art. 5a ust. 1–2 — zasady dostosowania zarejestrowanych wcześniej multimediów nadawanych na żywo, publikowanych następnie na stronie internetowej lub w aplikacji mobilnej;
-- art. 6 — obowiązek opublikowania tych samych informacji w sposób dostępny cyfrowo na wybranej spośród posiadanych przez podmiot publiczny stron internetowych lub aplikacji mobilnych, jeżeli informacje opublikowane na stronie internetowej lub w aplikacji mobilnej innej niż własna nie spełniają wymagań dostępności cyfrowej.
-
-Zalecenie uwzględnia również ustawę z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami jako podstawę systemowego zapewniania dostępności przez podmioty publiczne.
+1. Art. 5 ust. 1–3 ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych, z późn. zmianami (Dz. U. z 2023 r. poz. 1440) — obowiązek zapewniania dostępności cyfrowej zarządzanych stron internetowych i aplikacji mobilnych oraz sposób uznania wymagań za spełnione.
+2. Art. 5a ust. 1–2 ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych, z późn. zmianami (Dz. U. z 2023 r. poz. 1440) — zasady dostosowania zarejestrowanych wcześniej multimediów nadawanych na żywo, publikowanych następnie na stronie internetowej lub w aplikacji mobilnej.
+3. Art. 6 ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych, z późn. zmianami (Dz. U. z 2023 r. poz. 1440) — obowiązek opublikowania tych samych informacji w sposób dostępny cyfrowo na wybranej spośród posiadanych przez podmiot publiczny stron internetowych lub aplikacji mobilnych, jeżeli informacje opublikowane na stronie internetowej lub w aplikacji mobilnej innej niż własna nie spełniają wymagań dostępności cyfrowej.
+4. Art. 1 ust. 2 oraz art. 6 ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami, z późn. zmianami (Dz. U. z 2024 r. poz. 1411) — systemowe obowiązki podmiotów publicznych w zakresie zapewniania dostępności oraz odniesienie do przepisów o dostępności cyfrowej.
 
 ## 5. Źródła i opracowania
 
-- [W3C, Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/)
-- [W3C WAI, Planning and Managing Web Accessibility](https://www.w3.org/WAI/planning-and-managing/)
-- [W3C WAI, Accessibility Maturity Model](https://www.w3.org/TR/maturity-model/) — materiał o charakterze nienormatywnym (W3C Group Note)
-- ETSI EN 301 549 V3.2.1:2021, *Accessibility requirements for ICT products and services*
-- WebAIM, *Accessibility Principles and Techniques*
+1. [W3C, *Web Content Accessibility Guidelines (WCAG) 2.1*](https://www.w3.org/TR/WCAG21/), dostęp: 9 września 2026 r.
+2. [W3C WAI, *Planning and Managing Web Accessibility*](https://www.w3.org/WAI/planning-and-managing/), dostęp: 9 września 2026 r.
+3. [W3C WAI, *Accessibility Maturity Model*](https://www.w3.org/TR/maturity-model/) — materiał o charakterze nienormatywnym (W3C Group Note), dostęp: 9 września 2026 r.
+4. ETSI EN 301 549 V3.2.1:2021, *Accessibility requirements for ICT products and services*.
+5. WebAIM, *Accessibility Principles and Techniques*.
 
 ## 6. Historia wersji
 
-| Wersja | Autor | Data | Opis zmian |
+| Wersja | Data | Etap | Opis zmian |
 |---|---|---|---|
-| 0.1 | Bartłomiej Wilk | 30.04.2026 | Zgłoszenie projektu zalecenia. |
-| 0.2 | Bartłomiej Wilk | 03.08.2026 | Uporządkowanie dotychczasowego pakietu standardów i wymagań. |
-| 0.3 | Stefan Wajda, Bartłomiej Wilk | 06.09.2026 | Przebudowanie zalecenia wokół zarządzania standardami i integracja pełnego zestawu 11 standardów. |
-| 0.4 | Stefan Wajda, Bartłomiej Wilk | 06.09.2026 | Dostosowanie dokumentu głównego do standardowej struktury zalecenia. |
+| 0.1 | 30.04.2026 | Projekt roboczy | Zgłoszenie projektu zalecenia. |
+| 0.2 | 03.08.2026 | Projekt roboczy | Uporządkowanie dotychczasowego pakietu standardów i wymagań. |
+| 0.3 | 06.09.2026 | Projekt roboczy | Przebudowanie zalecenia wokół zarządzania standardami i integracja pełnego zestawu 11 standardów. |
+| 0.4 | 06.09.2026 | Projekt roboczy | Dostosowanie dokumentu głównego do standardowej struktury zalecenia. |
+| 0.5 | 09.09.2026 | Aktualizacja po recenzji | Dostosowanie do zasad formowania zaleceń, uporządkowanie podstaw prawnych, źródeł i historii wersji. |
 
 ## Załączniki
 
