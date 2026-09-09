@@ -15,7 +15,7 @@ wersja_robocza: true
 
 ## Cel zalecenia
 
-Celem zalecenia jest zapewnienie, aby organizacja ustanawiała, utrzymywała, aktualizowała i stosowała standardy tworzenia oraz publikacji treści cyfrowych wspierające zapewnianie dostępności cyfrowej, spójność komunikacji, jakość publikowanych materiałów, powtarzalność działań, ograniczenie błędów organizacyjnych i technicznych oraz skuteczne zarządzanie procesami komunikacji cyfrowej.
+ Celem zalecenia jest zapewnienie, aby organizacja ustanawiała, utrzymywała, aktualizowała i stosowała standardy tworzenia oraz publikacji treści cyfrowych. Standardy mają wspierać zapewnianie dostępności cyfrowej, spójność komunikacji, jakość publikowanych materiałów, powtarzalność działań, ograniczenie błędów organizacyjnych i technicznych oraz zarządzanie procesami komunikacji cyfrowej.
 
 Zalecenie obejmuje standardy dotyczące dokumentów cyfrowych, treści internetowych, materiałów multimedialnych, grafik, komunikacji w mediach społecznościowych oraz innych treści publikowanych w kanałach cyfrowych organizacji.
 
