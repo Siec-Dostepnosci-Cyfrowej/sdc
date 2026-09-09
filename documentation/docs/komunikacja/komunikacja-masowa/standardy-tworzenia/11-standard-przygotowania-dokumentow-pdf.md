@@ -69,7 +69,7 @@ Eksport do PDF nie powinien prowadzić do utraty:
 
 Dokument źródłowy przeznaczony do eksportu do PDF powinien:
 - mieć poprawną strukturę,
-- wykorzystywać style systemowe,
+- wykorzystywać style wbudowane, 
 - zawierać odpowiednie nagłówki,
 - mieć opisy alternatywne grafik,
 - spełniać wymagania dostępności dla swojego formatu.
