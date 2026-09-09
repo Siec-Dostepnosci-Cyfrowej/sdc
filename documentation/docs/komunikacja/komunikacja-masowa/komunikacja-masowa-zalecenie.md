@@ -68,7 +68,9 @@ Organizacja ustanawia, utrzymuje i stosuje standardy tworzenia, publikacji oraz 
    - działań kontrolnych;
    - monitorowania jakości komunikacji cyfrowej;
    - identyfikacji błędów i planowania działań naprawczych;
-   - projektowania list kontrolnych i innych narzędzi weryfikacyjnych. Szczegółowe zasady organizacji kontroli przed publikacją powinny być określone odrębnie od standardów tworzenia treści.
+   - projektowania list kontrolnych i innych narzędzi weryfikacyjnych. 
+    
+   Szczegółowe zasady organizacji kontroli przed publikacją powinny być określone odrębnie od standardów tworzenia treści.
 8. Organizacja dostosowuje sposób zarządzania standardami do swojej wielkości, liczby publikowanych materiałów, wykorzystywanych kanałów komunikacji oraz dostępnych zasobów organizacyjnych i technicznych. W szczególności:
    - większe organizacje mogą ustanawiać i rozwijać własne standardy wewnętrzne;
    - mniejsze organizacje mogą przyjmować i dostosowywać sprawdzone standardy, wzory i materiały opracowane zewnętrznie;
