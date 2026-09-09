@@ -233,6 +233,7 @@ Przed publikacją należy zweryfikować:
 - strukturę tabel,
 - poprawność nagłówków,
 - czytelność danych,
+- poprawność wykresów,
 - obecność opisów dla elementów wizualnych,
 - logiczną organizację arkusza,
 - zgodność arkusza z wymaganiami dostępności cyfrowej.
