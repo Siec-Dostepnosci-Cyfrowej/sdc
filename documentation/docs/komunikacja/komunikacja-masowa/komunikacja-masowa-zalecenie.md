@@ -64,7 +64,7 @@ Zakres standardów obejmuje dokumenty cyfrowe, treści internetowe, materiały m
 8. Organizacja dostosowuje sposób zarządzania standardami do swojej wielkości, liczby publikowanych materiałów, wykorzystywanych kanałów komunikacji oraz dostępnych zasobów organizacyjnych i technicznych. W szczególności:
    - większe organizacje mogą ustanawiać i rozwijać własne standardy wewnętrzne;
    - mniejsze organizacje mogą przyjmować i dostosowywać sprawdzone standardy, wzory i materiały opracowane zewnętrznie;
-   - uproszczenie sposobu wdrożenia nie powinno prowadzić do pomijania wymagań dostępności cyfrowej ani zasad jakości komunikacji.
+   - uproszczenie sposobu wdrożenia nie prowadzi do pomijania wymagań dostępności cyfrowej ani zasad jakości komunikacji.
 
 ## 3. Uzasadnienie
 
@@ -100,6 +100,7 @@ W zaleceniu uwzględniono poniżej wymienione przepisy:
 | 0.3 | 06.09.2026 | Projekt roboczy | Przebudowanie zalecenia wokół zarządzania standardami i integracja pełnego zestawu 11 standardów. |
 | 0.4 | 06.09.2026 | Projekt roboczy | Dostosowanie dokumentu głównego do standardowej struktury zalecenia. |
 | 0.5 | 09.09.2026 | Aktualizacja po recenzji | Dostosowanie do zasad formowania zaleceń, uporządkowanie podstaw prawnych, źródeł i historii wersji. |
+| 0.6 | 09.09.2026 | Aktualizacja po weryfikacji | Usunięcie modalnego sformułowania z rekomendacji dotyczącej sposobu wdrożenia standardów. |
 
 ## Załączniki
 
