@@ -1,44 +1,43 @@
 ---
 id: instrukcja-dla-podmiotow-zewnetrznych
 title: Instrukcja dla podmiotów przekazujących materiały
-description: Określa wymagania dotyczące materiałów przekazywanych podmiotowi publicznemu do publikacji.
+description: Określa informacje i materiały potrzebne do oceny treści przekazywanej do publikacji.
 sidebar_label: Instrukcja dla przekazujących
 sidebar_position: 8
-keywords: [materiały do publikacji, dostępność cyfrowa, BIP, pliki edytowalne]
+keywords: [materiały do publikacji, treści zewnętrzne, pliki edytowalne, dostępność cyfrowa]
 tags: [komunikacja, dostępność cyfrowa, publikacja]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 3 sierpnia 2026 r.
+ostatnia_aktualizacja: 9 września 2026 r.
 wersja_robocza: true
 ---
 
-Przekazuj materiały kompletne, sprawdzone i przygotowane w sposób umożliwiający ich dostępną publikację.
+Przekazując materiał do publikacji, dołącz informacje i pliki potrzebne do ustalenia właściwego sposobu jego udostępnienia.
 
-## Dołącz do materiału
+## Informacje o materiale
 
-- tytuł, cel i planowane miejsce publikacji;
-- dane osoby odpowiedzialnej za treść;
+Przekaż:
+
+- tytuł materiału;
+- dane osoby do kontaktu;
 - informację o podstawie obowiązku publikacji, jeżeli występuje;
-- pliki źródłowe lub edytowalne;
-- teksty alternatywne do grafik informacyjnych;
-- napisy, transkrypcje i audiodeskrypcję odpowiednio do materiału;
-- dane wymagane dla publikacji w BIP;
-- informację o prawach lub ograniczeniach dotyczących modyfikacji;
-- dostępną wersję albo dostępne przedstawienie informacji, jeżeli materiał źródłowy musi pozostać niezmieniony.
+- informację, kto wytworzył materiał;
+- informację, czy materiał został przygotowany na rzecz podmiotu publikującego;
+- informację, czy materiał został sfinansowany lub nabyty przez podmiot publikujący;
+- informację o prawach lub ograniczeniach dotyczących modyfikacji materiału.
 
-## Przygotuj dostępne treści
+## Wersje i pliki
 
-- stosuj prawidłową strukturę nagłówków, list i tabel;
-- zachowaj logiczną kolejność odczytu;
-- oznacz język dokumentu;
-- zapewnij wystarczający kontrast;
-- nie przekazuj informacji wyłącznie kolorem;
-- opisuj zrozumiale linki;
-- nie przesyłaj skanów zamiast dokumentów cyfrowych;
-- sprawdź formularze i elementy interaktywne za pomocą klawiatury.
+Jeżeli są dostępne, dołącz:
+
+- wersję źródłową lub edytowalną;
+- wersję dostępną cyfrowo;
+- elementy potrzebne do zapewnienia dostępności odpowiednie do rodzaju materiału, na przykład opisy tekstowe, napisy, transkrypcje lub inne materiały uzupełniające.
+
+Materiał powinien zostać przekazany w postaci umożliwiającej jego prawidłową publikację i ocenę możliwości zapewnienia dostępności cyfrowej.
 
 ## Uzupełnianie braków
 
-Podmiot publikujący może poprosić o poprawienie materiału, przekazanie wersji edytowalnej, dodatkowych informacji albo dostępnego przedstawienia treści. Do czasu uzupełnienia braków publikacja materiału w przekazanej postaci może zostać wstrzymana.
+Jeżeli przekazane informacje lub pliki są niewystarczające, podmiot publikujący może zwrócić się o ich uzupełnienie, poprawienie materiału, przekazanie wersji źródłowej albo dostępnej wersji.
 
 Zewnętrzne pochodzenie materiału ani brak pliku edytowalnego nie oznaczają automatycznie, że materiał jest wyłączony z wymagań dostępności cyfrowej.
