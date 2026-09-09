@@ -67,7 +67,7 @@ Niedopuszczalne jest przygotowywanie dokumentów:
 
 ## 4. Struktura dokumentu
 
-Dokument powinien posiadać logiczną strukturę.
+Dokument powinien mieć logiczną strukturę.
 
 W szczególności należy:
 - stosować tytuł dokumentu,
@@ -89,7 +89,7 @@ Nie należy:
 
 ## 5. Style i formatowanie
 
-Formatowanie dokumentu powinno opierać się na stylach systemowych lub szablonach dokumentu.
+Formatowanie dokumentu powinno opierać się na stylach wbudowanych lub szablonach dokumentu.
 
 W szczególności należy:
 - stosować style nagłówków,
@@ -159,16 +159,18 @@ Tabela powinna być możliwa do interpretacji przez technologie wspomagające.
 ## 9. Grafiki i materiały wizualne
 
 Grafiki umieszczane w dokumencie powinny:
-- posiadać opisy alternatywne,
+- mieć opisy alternatywne,
 - wspierać przekaz treści,
 - nie być jedynym źródłem kluczowych informacji.
+
+Grafiki przekazujące informacje powinny mieć odpowiednie opisy alternatywne.
 
 Opis alternatywny powinien:
 - przekazywać znaczenie grafiki,
 - uwzględniać kontekst dokumentu,
 - umożliwiać zrozumienie informacji bez dostępu do obrazu.
 
-Materiały złożone, takie jak wykresy lub infografiki, powinny posiadać odpowiednią treść równoważną.
+Wykresy, diagramy i infografiki powinny mieć równoważną formę tekstową umożliwiającą odbiór przekazywanych informacji bez konieczności interpretowania grafiki.
 
 ---
 
@@ -204,7 +206,7 @@ Nie należy:
 
 ## 12. Metadane i właściwości dokumentu
 
-Dokument powinien posiadać:
+Dokument powinien mieć:
 - tytuł,
 - określony język dokumentu,
 - właściwe metadane — jeżeli są wykorzystywane.
@@ -217,12 +219,6 @@ W przypadku dokumentów wielojęzycznych należy oznaczać zmiany języka w tre�
 
 Dokument powinien być przygotowany w sposób umożliwiający poprawny eksport do innych formatów, w szczególności PDF.
 
-Przed publikacją należy:
-- sprawdzić poprawność struktury dokumentu,
-- zweryfikować działanie elementów dostępności,
-- sprawdzić poprawność eksportu,
-- przeprowadzić kontrolę jakości dokumentu.
-
 Eksport dokumentu nie powinien prowadzić do utraty:
 - struktury,
 - opisów alternatywnych,
@@ -233,20 +229,7 @@ Eksport dokumentu nie powinien prowadzić do utraty:
 
 ## 14. Weryfikacja przed publikacją
 
-Przed publikacją należy zweryfikować:
-
-- strukturę dokumentu,
-- poprawność nagłówków,
-- obecność opisów alternatywnych,
-- poprawność tabel i list,
-- czytelność dokumentu,
-- zgodność z wymaganiami dostępności cyfrowej.
-
-Weryfikacja może być wspierana przez:
-- listy kontrolne,
-- mechanizmy sprawdzania dostępności,
-- procedury kontroli jakości,
-- przegląd redakcyjny.
+Przed publikacją należy sprawdzić, czy dokument spełnia wymagania określone w standardzie.
 
 ---
 
@@ -256,7 +239,7 @@ Standard stanowi element systemu zarządzania dokumentami cyfrowymi i komunikacj
 
 Standard powinien być:
 - stosowany przy tworzeniu dokumentów tekstowych,
-- uwzględniany w działaniach szkoleniowych i kontrolnych,
-- wykorzystywany przy opracowywaniu szablonów dokumentów i procedur organizacyjnych.
+- uwzględniany w działaniach szkoleniowych,
+- wykorzystywany przy opracowywaniu szablonów dokumentów.
 
 Stosowanie standardu wspiera dostępność cyfrową, jakość dokumentów oraz równy dostęp użytkowników do informacji publikowanych przez organizację.

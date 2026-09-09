@@ -63,22 +63,14 @@ Dostępność treści stanowi element jakości komunikacji i powinna być uwzgl�
 
 ## 4. Struktura treści
 
-Treść powinna posiadać logiczną i przewidywalną strukturę.
+Treść powinna mieć logiczną, zrozumiałą i przewidywalną strukturę.
 
 W szczególności należy:
 
 - stosować tytuły i nagłówki odpowiadające strukturze informacji,
-- zachowywać logiczną kolejność treści,
 - dzielić tekst na sekcje i akapity,
 - grupować powiązane informacje,
-- unikać chaotycznego układu informacji.
-
-Najważniejsze informacje powinny być przekazywane na początku treści lub sekcji.
-
-Struktura treści powinna wspierać:
-- szybkie skanowanie informacji,
-- zrozumienie komunikatu,
-- nawigację z wykorzystaniem technologii wspomagających.
+- unikać nieuporządkowanego układu informacji.
 
 ---
 
@@ -106,24 +98,11 @@ Treść powinna umożliwiać zrozumienie komunikatu bez konieczności domyślani
 
 ---
 
-## 6. Hierarchia i kompletność informacji
+## 6. Kompletność informacji
 
-Treść powinna jasno wskazywać:
+Treść powinna zawierać informacje niezbędne do zrozumienia materiału i realizacji jego celu.
 
-- czego dotyczy komunikat,
-- jakie informacje są najważniejsze,
-- jakie działania powinien podjąć użytkownik,
-- gdzie można uzyskać dodatkowe informacje.
-
-Najważniejsze informacje powinny być wyróżnione poprzez:
-- strukturę,
-- kolejność,
-- nagłówki,
-- logiczny podział treści.
-
-Nie należy ukrywać kluczowych informacji w rozbudowanych opisach lub materiałach dodatkowych.
-
-Treść powinna być kompletna i umożliwiać realizację celu komunikatu bez konieczności korzystania z dodatkowych źródeł informacji.
+Nie należy ukrywać kluczowych informacji w rozbudowanych opisach, materiałach dodatkowych lub elementach nietekstowych.
 
 ---
 
@@ -168,7 +147,7 @@ Treść linku powinna być zrozumiała również poza kontekstem otaczającego t
 
 Jeżeli treść zawiera grafiki, materiały audio, materiały wideo lub elementy interaktywne, należy zapewnić:
 
-- opisy alternatywne dla grafik,
+- odpowiednie opisy alternatywne dla grafik,
 - równoważność informacji przekazywanych wizualnie,
 - możliwość zrozumienia treści bez odbioru obrazu lub dźwięku,
 - spójność pomiędzy tekstem a materiałami dodatkowymi.
@@ -214,22 +193,7 @@ Treści dotyczące tego samego zagadnienia nie powinny zawierać sprzecznych lub
 
 ## 12. Weryfikacja treści przed publikacją
 
-Treść powinna zostać zweryfikowana przed publikacją.
-
-Weryfikacja obejmuje w szczególności:
-
-- kompletność informacji,
-- zgodność ze standardem,
-- zrozumiałość treści,
-- poprawność struktury,
-- poprawność linków i elementów interaktywnych,
-- zgodność z wymaganiami dostępności cyfrowej.
-
-Weryfikacja może być wspierana przez:
-- listy kontrolne,
-- procedury kontroli jakości,
-- narzędzia automatyczne,
-- przegląd redakcyjny.
+Przed publikacją należy sprawdzić, czy treść spełnia wymagania określone w standardzie.
 
 ---
 
@@ -240,6 +204,6 @@ Standard stanowi element systemu zarządzania komunikacją cyfrową i publikacj�
 Standard powinien być:
 - stosowany w codziennej pracy organizacji,
 - aktualizowany wraz ze zmianami przepisów i technologii,
-- wykorzystywany w działaniach szkoleniowych i kontrolnych.
+- wykorzystywany w działaniach szkoleniowych.
 
 Stosowanie standardu wspiera zapewnianie dostępności cyfrowej oraz poprawę jakości komunikacji organizacji.

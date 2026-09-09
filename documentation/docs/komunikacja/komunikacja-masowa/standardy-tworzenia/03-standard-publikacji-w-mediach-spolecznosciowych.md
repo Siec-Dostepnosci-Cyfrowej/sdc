@@ -60,13 +60,13 @@ Treści publikowane w mediach społecznościowych powinny:
 
 Dostępność stanowi integralny element przygotowania komunikatu i nie powinna być traktowana jako działanie dodatkowe wykonywane po publikacji.
 
- Organizacja wykorzystuje funkcje dostępności oferowane przez daną platformę. Jeżeli podmiot publiczny publikuje informację w serwisie lub aplikacji innej niż własna i informacja ta nie spełnia wymagań dostępności cyfrowej, publikuje tę samą informację w sposób dostępny cyfrowo na własnej stronie internetowej lub w aplikacji mobilnej, zgodnie z art. 6 ustawy o dostępności cyfrowej. 
+Organizacja wykorzystuje funkcje dostępności oferowane przez daną platformę. Jeżeli podmiot publiczny publikuje informacje na stronie internetowej lub w aplikacji mobilnej innej niż jego strona internetowa lub aplikacja mobilna i informacje te nie spełniają wymagań dostępności cyfrowej, publikuje te same informacje na wybranej spośród posiadanych przez siebie stron internetowych lub aplikacji mobilnych, w sposób dostępny cyfrowo.
 
 ---
 
 ## 4. Struktura komunikatu
 
-Komunikat powinien posiadać czytelną i logiczną strukturę.
+Komunikat powinien mieć czytelną i logiczną strukturę.
 
 Najważniejsze informacje należy umieszczać:
 - na początku posta,
@@ -110,7 +110,7 @@ Należy unikać:
 
 Grafiki publikowane w mediach społecznościowych powinny:
 
-- posiadać opisy alternatywne — jeżeli platforma umożliwia ich dodanie; sposób oznaczenia grafik dekoracyjnych należy dostosować do możliwości platformy,
+- mieć opisy alternatywne — jeżeli platforma umożliwia ich dodanie; sposób oznaczenia grafik dekoracyjnych należy dostosować do możliwości platformy,
 - zachowywać odpowiedni kontrast,
 - zapewniać czytelność tekstu,
 - umożliwiać odbiór informacji na urządzeniach mobilnych.
@@ -120,7 +120,7 @@ Kluczowe informacje zawarte na grafice powinny być dostępne również w natywn
 Grafika nie powinna być jedynym źródłem istotnych informacji.
 
 Należy unikać:
-- przeładowanych grafik,
+- grafik z nadmiarem treści,
 - zbyt małego tekstu,
 - przekazywania informacji wyłącznie kolorem.
 
@@ -129,16 +129,11 @@ Należy unikać:
 ## 7. Materiały wideo i audio
 
 Materiały wideo publikowane w mediach społecznościowych powinny zawierać:
-- napisy do całej ścieżki dźwiękowej,
+- napisy rozszerzone obejmujące dialogi oraz istotne informacje dźwiękowe,
 - czytelne elementy tekstowe,
 - informacje możliwe do zrozumienia bez dźwięku.
 
-W przypadku materiałów audio należy zapewnić:
-- transkrypcję,
-- opis treści,
-- równoważną alternatywę tekstową.
-
-Treści multimedialne powinny być przygotowywane zgodnie ze standardami dostępnych materiałów audio i wideo stosowanymi w organizacji.
+Materiały audio powinny mieć transkrypcję lub inną równoważną alternatywę tekstową umożliwiającą odbiór informacji bez dźwięku.
 
 ---
 
@@ -211,19 +206,7 @@ Różne kanały komunikacji nie powinny zawierać sprzecznych lub niepełnych in
 
 ## 12. Weryfikacja przed publikacją
 
-Przed publikacją należy zweryfikować:
-
-- kompletność komunikatu,
-- czytelność treści,
-- poprawność linków,
-- obecność elementów dostępności,
-- zgodność materiałów wizualnych i multimedialnych ze standardami organizacji,
-- zgodność komunikatu z wymaganiami dostępności cyfrowej.
-
-Weryfikacja może być wspierana przez:
-- listy kontrolne,
-- procedury kontroli jakości,
-- przegląd redakcyjny.
+Przed publikacją należy sprawdzić, czy materiał spełnia wymagania określone w standardzie.
 
 ---
 
@@ -234,6 +217,6 @@ Standard stanowi element systemu zarządzania komunikacją cyfrową i publikacj�
 Standard powinien być:
 - stosowany we wszystkich kanałach społecznościowych organizacji,
 - uwzględniany przy planowaniu komunikacji,
-- wykorzystywany w działaniach szkoleniowych i kontrolnych.
+- wykorzystywany w działaniach szkoleniowych.
 
 Stosowanie standardu wspiera dostępność cyfrową, jakość komunikacji oraz równy dostęp użytkowników do informacji publikowanych przez organizację.

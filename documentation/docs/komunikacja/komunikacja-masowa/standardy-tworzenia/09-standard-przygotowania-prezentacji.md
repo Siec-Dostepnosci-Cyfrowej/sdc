@@ -13,8 +13,6 @@ ostatnia_aktualizacja: 6 września 2026 r.
 wersja_robocza: true
 ---
 
-# Standard przygotowania prezentacji
-
 ## 1. Cel standardu
 
 Standard określa zasady przygotowania prezentacji cyfrowych w sposób zapewniający:
@@ -70,7 +68,7 @@ Kluczowe informacje powinny być dostępne również w treści slajdów lub mate
 
 ## 4. Struktura prezentacji
 
-Prezentacja powinna posiadać logiczną strukturę.
+Prezentacja powinna mieć logiczną strukturę.
 
 W szczególności należy:
 - stosować slajd tytułowy,
@@ -79,7 +77,7 @@ W szczególności należy:
 - wyraźnie oddzielać poszczególne części prezentacji.
 
 Każdy slajd powinien:
-- posiadać tytuł,
+- mieć tytuł,
 - realizować jeden główny cel informacyjny,
 - wspierać orientację użytkownika.
 
@@ -104,7 +102,7 @@ Należy:
 - zachowywać odpowiednie odstępy między elementami.
 
 Nie należy:
-- przeładowywać slajdów treścią,
+- umieszczać na slajdach nadmiaru treści,
 - rozmieszczać elementów przypadkowo,
 - budować struktury wyłącznie za pomocą efektów wizualnych.
 
@@ -139,7 +137,7 @@ W szczególności należy:
 - stosować ograniczoną liczbę fontów i kolorów.
 
 Nie należy:
-- stosować fontów dekoracyjnych,
+- stosować fontów dekoracyjnych utrudniających odczyt,
 - umieszczać dużych ilości małego tekstu,
 - wykorzystywać nadmiernie ozdobnych efektów wizualnych,
 - przekazywać informacji wyłącznie kolorem.
@@ -159,7 +157,7 @@ Listy powinny być:
 - wykorzystywane do prezentacji kluczowych informacji.
 
 Tabele powinny:
-- posiadać prostą strukturę,
+- mieć prostą strukturę,
 - zawierać nagłówki,
 - być możliwe do interpretacji przez technologie wspomagające.
 
@@ -173,7 +171,7 @@ W przypadku dużych zestawów danych należy:
 
 Grafiki wykorzystywane w prezentacji powinny:
 - wspierać przekaz,
-- posiadać opisy alternatywne,
+- mieć opisy alternatywne,
 - być czytelne i zrozumiałe.
 
 Grafika nie powinna być jedynym źródłem kluczowych informacji.
@@ -183,16 +181,17 @@ Materiały złożone, takie jak:
 - schematy,
 - infografiki
 
-powinny posiadać odpowiednią treść równoważną lub wyjaśnienie w treści prezentacji.
+powinny mieć równoważną treść lub wyjaśnienie w treści prezentacji.
 
 ---
 
 ## 10. Multimedia i elementy dynamiczne
 
-Materiały audio i wideo umieszczane w prezentacji powinny:
-- spełniać wymagania dostępności,
-- posiadać napisy lub treści równoważne,
-- umożliwiać kontrolę odtwarzania.
+Materiały wideo umieszczane w prezentacji powinny mieć napisy rozszerzone, jeżeli zawierają dźwięk, oraz audiodeskrypcję lub właściwą alternatywę tekstową, jeżeli istotna informacja jest przekazywana wyłącznie wizualnie.
+
+Materiały audio umieszczane w prezentacji powinny mieć transkrypcję lub inną równoważną alternatywę tekstową.
+
+Materiały multimedialne powinny umożliwiać kontrolę odtwarzania.
 
 Animacje i przejścia powinny:
 - wspierać odbiór treści,
@@ -208,7 +207,7 @@ Nie należy:
 
 ## 11. Nawigacja i kolejność odczytu
 
-Prezentacja powinna posiadać logiczną kolejność odczytu elementów.
+Prezentacja powinna mieć logiczną kolejność odczytu elementów.
 
 W szczególności należy:
 - zachowywać logiczną strukturę obiektów,
@@ -226,12 +225,6 @@ Prezentacja powinna być przygotowana w sposób umożliwiający:
 - eksport do PDF,
 - publikację w innych formatach bez utraty elementów dostępności.
 
-Przed publikacją należy:
-- sprawdzić poprawność struktury,
-- zweryfikować działanie elementów multimedialnych,
-- sprawdzić opisy alternatywne,
-- przeprowadzić kontrolę jakości materiału.
-
 Eksport prezentacji nie powinien prowadzić do utraty:
 - struktury,
 - opisów alternatywnych,
@@ -242,20 +235,7 @@ Eksport prezentacji nie powinien prowadzić do utraty:
 
 ## 13. Weryfikacja przed publikacją
 
-Przed publikacją należy zweryfikować:
-
-- strukturę prezentacji,
-- czytelność slajdów,
-- poprawność kolejności odczytu,
-- obecność opisów alternatywnych,
-- poprawność materiałów multimedialnych,
-- zgodność prezentacji z wymaganiami dostępności cyfrowej.
-
-Weryfikacja może być wspierana przez:
-- listy kontrolne,
-- mechanizmy sprawdzania dostępności,
-- procedury kontroli jakości,
-- przegląd redakcyjny i techniczny.
+Przed publikacją należy sprawdzić, czy prezentacja spełnia wymagania określone w standardzie.
 
 ---
 
@@ -265,7 +245,7 @@ Standard stanowi element systemu zarządzania dokumentami cyfrowymi i komunikacj
 
 Standard powinien być:
 - stosowany przy przygotowaniu prezentacji,
-- uwzględniany w działaniach szkoleniowych i kontrolnych,
-- wykorzystywany przy opracowywaniu szablonów prezentacji i procedur organizacyjnych.
+- uwzględniany w działaniach szkoleniowych,
+- wykorzystywany przy opracowywaniu szablonów prezentacji.
 
 Stosowanie standardu wspiera dostępność cyfrową, jakość komunikacji oraz równy dostęp użytkowników do informacji publikowanych przez organizację.

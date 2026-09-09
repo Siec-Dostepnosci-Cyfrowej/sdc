@@ -58,6 +58,10 @@ Standard ma zastosowanie niezależnie od:
 
 Każda informacja przekazywana w sposób wizualny lub dźwiękowy powinna mieć równoważną alternatywę umożliwiającą odbiór informacji przez użytkowników korzystających z innych sposobów percepcji lub technologii wspomagających.
 
+Alternatywa tekstowa w rozumieniu WCAG oznacza tekstową formę informacji nietekstowej. Może nią być tekst alternatywny przypisany do elementu, opis alternatywny w treści publikacji, transkrypcja, napisy rozszerzone, opis treści wizualnej lub inna forma tekstowa odpowiednia do rodzaju materiału i sposobu publikacji.
+
+Opis alternatywny jest redakcyjnym opisem znaczenia lub funkcji materiału. Tekst alternatywny jest techniczną formą przekazania takiego opisu w konkretnym narzędziu, na przykład w atrybucie `alt` albo w polu opisu grafiki w systemie publikacji. Nie każdy opis alternatywny musi być zapisany w atrybucie `alt`.
+
 Opis alternatywny oraz treść równoważna powinny:
 - przekazywać znaczenie materiału,
 - uwzględniać kontekst publikacji,
@@ -69,7 +73,7 @@ Opis alternatywny nie jest technicznym opisem obrazu, lecz elementem komunikacji
 
 ## 4. Opisy alternatywne grafik
 
-Grafiki zawierające informacje powinny posiadać opis alternatywny.
+Grafiki zawierające informacje powinny mieć opis alternatywny.
 
 Opis alternatywny powinien:
 - przekazywać znaczenie grafiki,
@@ -93,10 +97,7 @@ Zakres opisu zależy od funkcji materiału.
 
 ### Grafiki informacyjne
 
-Opis powinien zawierać:
-- temat materiału,
-- najważniejsze informacje,
-- elementy niezbędne do zrozumienia komunikatu.
+Informacje przekazywane za pomocą grafiki powinny mieć równoważną formę tekstową, odpowiednią do sposobu publikacji materiału.
 
 ### Grafiki ilustracyjne
 
@@ -134,13 +135,14 @@ Treść równoważna nie powinna ograniczać się do ogólnego streszczenia.
 
 ## 7. Treści równoważne dla materiałów audio i wideo
 
-Materiały audio i wideo powinny posiadać odpowiednie alternatywy tekstowe.
+Materiały audio i wideo powinny mieć formy równoważne dobrane do rodzaju materiału i informacji, które przekazuje.
 
 W szczególności należy zapewnić:
-- napisy,
-- transkrypcje,
-- opisy istotnych elementów wizualnych,
-- audiodeskrypcję — jeżeli jest wymagana dla zrozumienia materiału.
+- transkrypcję dla materiałów audio,
+- napisy rozszerzone obejmujące dialogi oraz istotne informacje przekazywane dźwiękiem,
+- opis treści wizualnej, gdy informacja istotna dla zrozumienia materiału jest przekazywana obrazem,
+- audiodeskrypcję, jeżeli jest wymagana dla zrozumienia materiału wideo,
+- inną równoważną formę tekstową, jeżeli jest właściwa dla kontekstu publikacji.
 
 Treści równoważne powinny umożliwiać odbiór informacji:
 - bez obrazu,
@@ -200,18 +202,7 @@ Odpowiedzialność za jakość opisu ponosi organizacja publikująca materiał.
 
 ## 11. Weryfikacja przed publikacją
 
-Przed publikacją należy zweryfikować:
-
-- obecność opisów alternatywnych,
-- kompletność treści równoważnych,
-- zgodność opisów z funkcją materiału,
-- zrozumiałość opisów,
-- zgodność materiałów z wymaganiami dostępności cyfrowej.
-
-Weryfikacja może być wspierana przez:
-- listy kontrolne,
-- procedury kontroli jakości,
-- przegląd redakcyjny.
+Przed publikacją należy sprawdzić, czy opisy alternatywne i treści równoważne spełniają wymagania określone w standardzie.
 
 ---
 
@@ -221,7 +212,7 @@ Standard stanowi element systemu zarządzania komunikacją cyfrową i publikacj�
 
 Standard powinien być:
 - stosowany przy przygotowaniu materiałów wizualnych i multimedialnych,
-- uwzględniany w działaniach szkoleniowych i kontrolnych,
-- wykorzystywany przy opracowywaniu wzorów i procedur organizacyjnych.
+- uwzględniany w działaniach szkoleniowych,
+- wykorzystywany przy opracowywaniu wzorów materiałów.
 
 Stosowanie standardu wspiera dostępność cyfrową, jakość komunikacji oraz równy dostęp użytkowników do informacji publikowanych przez organizację.

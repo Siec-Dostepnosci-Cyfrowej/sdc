@@ -63,7 +63,7 @@ Struktura komunikatu powinna ograniczać konieczność interpretacji, domyślani
 
 ## 4. Hierarchia informacji
 
-Komunikat powinien posiadać wyraźną hierarchię informacji.
+Komunikat powinien mieć wyraźną hierarchię informacji.
 
 Najważniejsze informacje należy przekazywać:
 - na początku komunikatu,
@@ -84,7 +84,7 @@ Nie należy:
 
 ## 5. Struktura komunikatu
 
-Komunikat powinien posiadać logiczną i przewidywalną strukturę.
+Komunikat powinien mieć logiczną i przewidywalną strukturę.
 
 W szczególności należy stosować:
 
@@ -207,7 +207,7 @@ Komunikaty dotyczące:
 - terminów,
 - obowiązków użytkowników
 
-powinny posiadać szczególnie przejrzystą strukturę.
+powinny mieć szczególnie przejrzystą strukturę.
 
 W takich komunikatach należy:
 - ograniczać informacje drugorzędne,
@@ -218,18 +218,7 @@ W takich komunikatach należy:
 
 ## 13. Weryfikacja komunikatu przed publikacją
 
-Przed publikacją należy zweryfikować:
-
-- logiczną strukturę komunikatu,
-- kompletność informacji,
-- zgodność tytułów i nagłówków z treścią,
-- zrozumiałość komunikatu,
-- zgodność z zasadami dostępności cyfrowej.
-
-Weryfikacja może być wspierana przez:
-- listy kontrolne,
-- procedury kontroli jakości,
-- przegląd redakcyjny.
+Przed publikacją należy sprawdzić, czy komunikat spełnia wymagania określone w standardzie.
 
 ---
 
@@ -240,6 +229,6 @@ Standard stanowi element systemu zarządzania komunikacją cyfrową i publikacj�
 Standard powinien być:
 - stosowany w codziennej pracy organizacji,
 - wykorzystywany przy przygotowaniu komunikatów w różnych kanałach publikacji,
-- uwzględniany w działaniach szkoleniowych i kontrolnych.
+- uwzględniany w działaniach szkoleniowych.
 
 Stosowanie standardu wspiera dostępność cyfrową, jakość komunikacji oraz skuteczność przekazywania informacji.

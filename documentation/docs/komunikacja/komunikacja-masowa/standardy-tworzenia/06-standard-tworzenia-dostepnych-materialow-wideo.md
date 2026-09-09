@@ -73,7 +73,7 @@ Kluczowe informacje nie powinny być przekazywane wyłącznie:
 
 ## 4. Struktura i organizacja materiału
 
-Materiał wideo powinien posiadać:
+Materiał wideo powinien mieć:
 - czytelną strukturę,
 - logiczną kolejność informacji,
 - przewidywalny przebieg komunikatu.
@@ -92,14 +92,14 @@ W dłuższych materiałach należy:
 
 ## 5. Napisy rozszerzone
 
-Materiały wideo zawierające dźwięk powinny posiadać napisy rozszerzone obejmujące całą istotną ścieżkę dźwiękową.
+Materiały wideo zawierające dźwięk powinny mieć napisy rozszerzone obejmujące dialogi oraz istotne informacje przekazywane dźwiękiem.
 
 Napisy rozszerzone powinny:
 - być zgodne z treścią wypowiedzi,
-- uwzględniać istotne dźwięki i informacje audio,
+- uwzględniać dialogi oraz istotne informacje przekazywane dźwiękiem,
 - być zsynchronizowane z obrazem,
 - być czytelne niezależnie od tła,
-- umożliwiać spokojne przeczytanie treści.
+- być wyświetlane wystarczająco długo, aby umożliwić przeczytanie treści.
 
 Napisy rozszerzone powinny uwzględniać:
 - identyfikację mówców — jeżeli ma to znaczenie dla odbioru,
@@ -112,20 +112,22 @@ Napisy generowane automatycznie wymagają weryfikacji i korekty przed publikacj�
 
 ## 6. Treści równoważne i audiodeskrypcja
 
-Materiał wideo powinien posiadać odpowiednią treść równoważną umożliwiającą odbiór informacji bez obrazu.
+Materiał wideo powinien mieć formę umożliwiającą odbiór informacji bez obrazu.
 
-W zależności od charakteru materiału należy zapewnić:
-- transkrypcję,
+Jeżeli istotna informacja jest przekazywana wizualnie i nie wynika z głównej ścieżki dźwiękowej, należy zapewnić audiodeskrypcję lub właściwą alternatywę tekstową, zależnie od charakteru materiału i kontekstu publikacji.
+
+W zależności od charakteru materiału formą równoważną może być:
+- transkrypcja,
 - opis istotnych elementów wizualnych,
-- audiodeskrypcję,
-- równoważną alternatywę tekstową.
+- audiodeskrypcja,
+- inna równoważna alternatywa tekstowa.
 
 Treści równoważne powinny:
 - przekazywać sens materiału,
 - uwzględniać informacje istotne dla zrozumienia przekazu,
 - umożliwiać odbiór treści bez konieczności oglądania materiału.
 
-Przy doborze formy dostępu do informacji wizualnych należy rozróżniać wymagania WCAG dla poszczególnych poziomów zgodności. Dla nagranego materiału wideo z dźwiękiem kryterium 1.2.3 na poziomie A dopuszcza audiodeskrypcję albo pełną alternatywę tekstową dla medium, natomiast kryterium 1.2.5 na poziomie AA wymaga audiodeskrypcji, gdy istotne informacje wizualne nie wynikają z głównej ścieżki dźwiękowej. Jeżeli wszystkie istotne informacje wizualne są już przekazane w głównej ścieżce dźwiękowej, dodatkowa audiodeskrypcja nie jest potrzebna.
+Jeżeli wszystkie istotne informacje wizualne są już przekazane w głównej ścieżce dźwiękowej, dodatkowa audiodeskrypcja nie jest potrzebna.
 
 ---
 
@@ -141,7 +143,7 @@ W szczególności należy:
 
 Należy unikać:
 - zbyt małego tekstu,
-- przeładowanych plansz,
+- plansz z nadmiarem treści,
 - nadmiernej liczby elementów dekoracyjnych,
 - prezentowania istotnych informacji wyłącznie kolorem.
 
@@ -213,19 +215,7 @@ Opis materiału powinien:
 
 ## 12. Weryfikacja przed publikacją
 
-Przed publikacją należy zweryfikować:
-
-- obecność napisów,
-- poprawność synchronizacji napisów,
-- kompletność treści równoważnych,
-- czytelność materiału,
-- jakość dźwięku,
-- zgodność materiału z wymaganiami dostępności cyfrowej.
-
-Weryfikacja może być wspierana przez:
-- listy kontrolne,
-- procedury kontroli jakości,
-- przegląd redakcyjny i techniczny.
+Przed publikacją należy sprawdzić, czy materiał wideo spełnia wymagania określone w standardzie.
 
 ---
 
@@ -235,7 +225,7 @@ Standard stanowi element systemu zarządzania komunikacją cyfrową i publikacj�
 
 Standard powinien być:
 - stosowany przy przygotowaniu materiałów wideo,
-- uwzględniany w działaniach szkoleniowych i kontrolnych,
-- wykorzystywany przy opracowywaniu procedur i wzorów organizacyjnych.
+- uwzględniany w działaniach szkoleniowych,
+- wykorzystywany przy opracowywaniu wzorów materiałów.
 
 Stosowanie standardu wspiera dostępność cyfrową, jakość komunikacji oraz równy dostęp użytkowników do informacji publikowanych przez organizację.

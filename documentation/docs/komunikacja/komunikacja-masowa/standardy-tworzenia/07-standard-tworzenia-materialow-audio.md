@@ -68,7 +68,7 @@ Kluczowe informacje nie powinny być przekazywane wyłącznie w formie dźwięko
 
 ## 4. Struktura materiału audio
 
-Materiał audio powinien posiadać:
+Materiał audio powinien mieć:
 - logiczną strukturę,
 - wyraźny podział informacji,
 - przewidywalny przebieg komunikatu.
@@ -101,8 +101,7 @@ W szczególności należy:
 
 Wypowiedzi powinny:
 - być wyraźne,
-- mieć odpowiednie tempo,
-- umożliwiać spokojny odbiór treści.
+- mieć tempo umożliwiające zrozumienie przekazywanych informacji.
 
 ---
 
@@ -125,7 +124,7 @@ Muzyka i efekty dźwiękowe:
 
 ## 7. Transkrypcje i treści równoważne
 
-Materiał audio powinien posiadać transkrypcję lub inną równoważną alternatywę tekstową.
+Materiał audio powinien mieć transkrypcję lub inną równoważną alternatywę tekstową.
 
 Transkrypcja powinna:
 - zawierać treść wypowiedzi,
@@ -143,7 +142,7 @@ Treść równoważna powinna umożliwiać zrozumienie materiału bez koniecznoś
 
 ## 8. Informacje dodatkowe i metadane
 
-Publikowany materiał audio powinien posiadać:
+Publikowany materiał audio powinien mieć:
 - tytuł jednoznacznie wskazujący temat,
 - opis materiału,
 - informacje o czasie trwania — jeżeli ma to znaczenie,
@@ -164,7 +163,7 @@ Materiał audio powinien być publikowany w sposób umożliwiający użytkowniko
 - kontrolę głośności,
 - przewijanie materiału — jeżeli jest dostępne.
 
-Materiały audio nie powinny uruchamiać się automatycznie z dźwiękiem.
+Materiały audio nie powinny uruchamiać się automatycznie.
 
 Odtwarzacz powinien wspierać wymagania dostępności cyfrowej.
 
@@ -173,8 +172,8 @@ Odtwarzacz powinien wspierać wymagania dostępności cyfrowej.
 ## 10. Materiały audio w mediach społecznościowych
 
 Materiały audio publikowane w mediach społecznościowych powinny:
-- posiadać odpowiedni opis,
-- zawierać treści równoważne lub odwołanie do nich,
+- mieć opis umożliwiający identyfikację tematu i zakresu nagrania,
+- zawierać transkrypcję, inną równoważną alternatywę tekstową lub odwołanie do niej,
 - umożliwiać zrozumienie głównego przekazu bez konieczności odsłuchiwania całego materiału.
 
 W przypadku ograniczeń platformy organizacja powinna zapewnić dostępność informacji w innych kanałach komunikacji.
@@ -183,18 +182,7 @@ W przypadku ograniczeń platformy organizacja powinna zapewnić dostępność in
 
 ## 11. Weryfikacja przed publikacją
 
-Przed publikacją należy zweryfikować:
-
-- jakość dźwięku,
-- kompletność materiału,
-- obecność transkrypcji lub treści równoważnej,
-- poprawność opisu materiału,
-- zgodność materiału z wymaganiami dostępności cyfrowej.
-
-Weryfikacja może być wspierana przez:
-- listy kontrolne,
-- procedury kontroli jakości,
-- przegląd redakcyjny i techniczny.
+Przed publikacją należy sprawdzić, czy materiał audio spełnia wymagania określone w standardzie.
 
 ---
 
@@ -204,7 +192,7 @@ Standard stanowi element systemu zarządzania komunikacją cyfrową i publikacj�
 
 Standard powinien być:
 - stosowany przy przygotowaniu materiałów audio,
-- uwzględniany w działaniach szkoleniowych i kontrolnych,
-- wykorzystywany przy opracowywaniu procedur i materiałów organizacyjnych.
+- uwzględniany w działaniach szkoleniowych,
+- wykorzystywany przy opracowywaniu materiałów organizacyjnych.
 
 Stosowanie standardu wspiera dostępność cyfrową, jakość komunikacji oraz równy dostęp użytkowników do informacji publikowanych przez organizację.

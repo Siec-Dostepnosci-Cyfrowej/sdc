@@ -49,7 +49,7 @@ Standard ma zastosowanie niezależnie od:
 
 ## 3. Zasady ogólne
 
-Dokument PDF powinien być przygotowywany jako dokument cyfrowy posiadający:
+Dokument PDF powinien być przygotowywany jako dokument cyfrowy, który ma:
 - strukturę logiczną,
 - warstwę tekstową,
 - znaczniki dostępności,
@@ -157,7 +157,7 @@ Materiały złożone, takie jak:
 - schematy,
 - infografiki
 
-powinny posiadać odpowiednią treść równoważną.
+powinny mieć równoważną formę tekstową umożliwiającą odbiór przekazywanych informacji bez konieczności interpretowania grafiki.
 
 ---
 
@@ -183,8 +183,7 @@ Linki powinny:
 - być możliwe do rozpoznania przez technologie wspomagające.
 
 Formularze PDF powinny:
-- posiadać odpowiednio oznaczone pola,
-- umożliwiać identyfikację pól formularza,
+- mieć pola formularza z poprawnie określonymi etykietami, rolami i właściwościami umożliwiającymi ich identyfikację i obsługę za pomocą technologii wspomagających,
 - wspierać nawigację klawiaturą,
 - zawierać instrukcje dla użytkownika.
 
@@ -222,33 +221,15 @@ W przypadku dokumentów wielojęzycznych należy oznaczać zmiany języka w tre�
 
 ## 13. Zgodność techniczna
 
-Dokument PDF powinien być przygotowany zgodnie z wymaganiami dostępności cyfrowej oraz — w miarę możliwości — z wymaganiami normy PDF/UA (ISO 14289). PDF/UA określa techniczne warunki dostępności plików PDF, w tym sposób oznaczania struktury opisanej w sekcji 5.
+PDF/UA (ISO 14289) to techniczny standard dostępności dokumentów PDF. Odnosi się między innymi do prawidłowego oznaczania struktury dokumentu, właściwości elementów i kolejności odczytu.
 
-Dokument powinien umożliwiać korzystanie z:
-- czytników ekranu,
-- nawigacji klawiaturą,
-- funkcji powiększania i przetwarzania treści.
+Dokument PDF powinien być przygotowany zgodnie z wymaganiami dostępności cyfrowej oraz — w miarę możliwości — z wymaganiami PDF/UA. Zgodność z PDF/UA nie oznacza automatycznie, że dokument spełnia wszystkie wymagania dostępności właściwe dla treści, języka, formularzy lub sposobu publikacji.
 
 ---
 
 ## 14. Weryfikacja przed publikacją
 
-Przed publikacją należy zweryfikować:
-
-- obecność warstwy tekstowej,
-- poprawność struktury dokumentu,
-- poprawność znaczników,
-- kolejność odczytu,
-- obecność opisów alternatywnych,
-- poprawność tabel i formularzy,
-- zgodność dokumentu z wymaganiami dostępności cyfrowej.
-
-Weryfikacja może być wspierana przez:
-- mechanizmy sprawdzania dostępności,
-- walidatory PDF,
-- listy kontrolne,
-- procedury kontroli jakości,
-- przegląd redakcyjny i techniczny.
+Przed publikacją należy sprawdzić, czy dokument PDF spełnia wymagania określone w standardzie.
 
 ---
 
@@ -258,7 +239,7 @@ Standard stanowi element systemu zarządzania dokumentami cyfrowymi i komunikacj
 
 Standard powinien być:
 - stosowany przy przygotowaniu dokumentów PDF,
-- uwzględniany w działaniach szkoleniowych i kontrolnych,
-- wykorzystywany przy opracowywaniu procedur organizacyjnych i szablonów dokumentów.
+- uwzględniany w działaniach szkoleniowych,
+- wykorzystywany przy opracowywaniu szablonów dokumentów.
 
 Stosowanie standardu wspiera dostępność cyfrową, jakość dokumentów oraz równy dostęp użytkowników do informacji publikowanych przez organizację.

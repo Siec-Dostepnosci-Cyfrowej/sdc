@@ -104,7 +104,7 @@ Tekst powinien pozostawać czytelny również na urządzeniach mobilnych.
 
 ## 6. Struktura i hierarchia informacji
 
-Materiał wizualny powinien posiadać wyraźną strukturę i hierarchię informacji.
+Materiał wizualny powinien mieć wyraźną strukturę i hierarchię informacji.
 
 Najważniejsze informacje powinny być:
 - widoczne natychmiast,
@@ -117,7 +117,7 @@ Układ materiału powinien:
 - wspierać szybkie zrozumienie komunikatu.
 
 Należy unikać:
-- chaosu wizualnego,
+- nieuporządkowanego układu elementów,
 - nadmiaru elementów dekoracyjnych,
 - wielu konkurujących komunikatów w jednym materiale.
 
@@ -143,12 +143,11 @@ Treść materiału wizualnego powinna być możliwa do zrozumienia również bez
 
 ## 8. Treść tekstowa i równoważność informacji
 
-Kluczowe informacje przedstawione na grafice powinny być dostępne również w formie tekstowej.
+Informacje zawarte na grafice powinny być dostępne również w formie tekstowej, w treści publikacji lub w opisie alternatywnym.
 
 W szczególności:
 - grafika nie powinna być jedynym źródłem ważnych informacji,
-- informacje zawarte na grafice powinny być obecne w treści publikacji lub opisie alternatywnym,
-- materiały złożone powinny posiadać odpowiednie opisy tekstowe.
+- materiały złożone powinny mieć tekstowe wyjaśnienie informacji potrzebnych do zrozumienia przekazu.
 
 W przypadku infografik lub materiałów zawierających dane należy zapewnić możliwość zapoznania się z informacją bez konieczności interpretowania obrazu. W komunikatach o znaczeniu publicznym należy preferować tekst natywny w treści strony lub posta zamiast przenoszenia całego komunikatu do grafiki.
 
@@ -191,7 +190,7 @@ Materiały wizualne publikowane przez organizację powinny być spójne pod wzgl
 - stosowanych oznaczeń,
 - struktury komunikatu,
 - zasad czytelności,
-- stosowanych rozwiązań dostępnościowych.
+- stosowanych rozwiązań w zakresie dostępności.
 
 Podobne rodzaje materiałów powinny wykorzystywać podobny sposób organizacji treści.
 
@@ -199,19 +198,7 @@ Podobne rodzaje materiałów powinny wykorzystywać podobny sposób organizacji 
 
 ## 12. Weryfikacja przed publikacją
 
-Przed publikacją należy zweryfikować:
-
-- czytelność materiału,
-- kontrast,
-- wielkość i układ tekstu,
-- kompletność informacji,
-- zgodność materiału z wymaganiami dostępności,
-- obecność odpowiednich opisów alternatywnych lub treści równoważnych.
-
-Weryfikacja może być wspierana przez:
-- listy kontrolne,
-- procedury kontroli jakości,
-- przegląd redakcyjny lub projektowy.
+Przed publikacją należy sprawdzić, czy materiał spełnia wymagania określone w standardzie.
 
 ---
 
@@ -221,7 +208,7 @@ Standard stanowi element systemu zarządzania komunikacją cyfrową i publikacj�
 
 Standard powinien być:
 - stosowany przy projektowaniu materiałów wizualnych,
-- uwzględniany w działaniach szkoleniowych i kontrolnych,
+- uwzględniany w działaniach szkoleniowych,
 - wykorzystywany przy opracowywaniu wzorów i szablonów materiałów.
 
 Stosowanie standardu wspiera dostępność cyfrową, jakość komunikacji oraz równy dostęp użytkowników do informacji publikowanych przez organizację.

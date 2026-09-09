@@ -88,6 +88,7 @@ Nie należy:
 Dane powinny być organizowane w formie logicznych tabel.
 
 W szczególności należy:
+- oznaczać zakresy danych jako tabele z wykorzystaniem mechanizmów oprogramowania,
 - stosować nagłówki kolumn i wierszy,
 - zachowywać jednolitą strukturę danych,
 - unikać pustych wierszy i kolumn rozdzielających dane,
@@ -149,7 +150,7 @@ W przypadku arkuszy przeznaczonych do publicznego wykorzystania zaleca się:
 
 Wykresy i elementy wizualne powinny:
 - wspierać interpretację danych,
-- posiadać odpowiednie opisy,
+- mieć opisy wyjaśniające przekazywane dane, zależności lub wnioski,
 - być możliwe do zrozumienia bez interpretacji wyłącznie wizualnej.
 
 W szczególności należy:
@@ -212,12 +213,6 @@ Arkusz powinien być przygotowany w sposób umożliwiający:
 - eksport do innych formatów,
 - dalsze przetwarzanie danych bez utraty ich struktury.
 
-Przed publikacją należy:
-- sprawdzić strukturę danych,
-- zweryfikować czytelność arkusza,
-- sprawdzić poprawność wykresów i opisów,
-- przeprowadzić kontrolę jakości dokumentu.
-
 Eksport arkusza nie powinien prowadzić do utraty:
 - struktury danych,
 - opisów,
@@ -228,21 +223,7 @@ Eksport arkusza nie powinien prowadzić do utraty:
 
 ## 13. Weryfikacja przed publikacją
 
-Przed publikacją należy zweryfikować:
-
-- strukturę tabel,
-- poprawność nagłówków,
-- czytelność danych,
-- poprawność wykresów,
-- obecność opisów dla elementów wizualnych,
-- logiczną organizację arkusza,
-- zgodność arkusza z wymaganiami dostępności cyfrowej.
-
-Weryfikacja może być wspierana przez:
-- listy kontrolne,
-- mechanizmy sprawdzania dostępności,
-- procedury kontroli jakości,
-- przegląd redakcyjny i techniczny.
+Przed publikacją należy sprawdzić, czy arkusz spełnia wymagania określone w standardzie.
 
 ---
 
@@ -252,7 +233,7 @@ Standard stanowi element systemu zarządzania dokumentami cyfrowymi i komunikacj
 
 Standard powinien być:
 - stosowany przy przygotowaniu arkuszy kalkulacyjnych,
-- uwzględniany w działaniach szkoleniowych i kontrolnych,
-- wykorzystywany przy opracowywaniu szablonów i procedur organizacyjnych.
+- uwzględniany w działaniach szkoleniowych,
+- wykorzystywany przy opracowywaniu szablonów.
 
 Stosowanie standardu wspiera dostępność cyfrową, jakość danych oraz równy dostęp użytkowników do informacji publikowanych przez organizację.
