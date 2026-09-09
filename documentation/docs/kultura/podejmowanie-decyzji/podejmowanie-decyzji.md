@@ -103,7 +103,7 @@ Przekazywanie wszystkich decyzji dotyczących dostępności cyfrowej jednej osob
 Włączenie dostępności cyfrowej do codziennych decyzji podejmowanych przez osoby odpowiedzialne za zadania, usługi, informacje, produkty i systemy pozwala traktować ją jako naturalny element sposobu działania organizacji, a nie jako dodatkowy obowiązek realizowany poza podstawową działalnością.
 
 ## 5. Podstawy prawne
-_Brak podstaw prawnych._
+- Ustawa o zapewnianiu dostępności osobom ze szczególnymi potrzebami z dnia 19 lipca 2019 r. (Dz. U. 2019, poz. 1696)
 
 ## 6. Źródła i opracowania
 _Brak źródeł._
