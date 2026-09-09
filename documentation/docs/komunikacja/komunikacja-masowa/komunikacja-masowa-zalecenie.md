@@ -105,20 +105,20 @@ W zaleceniu uwzględniono poniżej wymienione przepisy:
 
 ### Standardy komunikacji cyfrowej
 
-1. Standard tworzenia treści cyfrowych
-2. Standard struktury komunikatu
-3. Standard publikacji w mediach społecznościowych
+1. [Standard tworzenia treści cyfrowych](./standardy-tworzenia/01-standard-tworzenia-tresci-cyfrowych)
+2. [Standard struktury komunikatu](./standardy-tworzenia/02-standard-struktury-komunikatu)
+3. [Standard publikacji w mediach społecznościowych](./standardy-tworzenia/03-standard-publikacji-w-mediach-spolecznosciowych)
 
 ### Standardy materiałów wizualnych i multimedialnych
 
-4. Standard tworzenia dostępnych grafik i materiałów wizualnych
-5. Standard opisów alternatywnych i treści równoważnych
-6. Standard tworzenia dostępnych materiałów wideo
-7. Standard tworzenia materiałów audio
+4. [Standard tworzenia dostępnych grafik i materiałów wizualnych](./standardy-tworzenia/04-standard-tworzenia-dostepnych-grafik-i-materialow-wizualnych)
+5. [Standard opisów alternatywnych i treści równoważnych](./standardy-tworzenia/05-standard-opisow-alternatywnych-i-tresci-rownowaznych)
+6. [Standard tworzenia dostępnych materiałów wideo](./standardy-tworzenia/06-standard-tworzenia-dostepnych-materialow-wideo)
+7. [Standard tworzenia materiałów audio](./standardy-tworzenia/07-standard-tworzenia-materialow-audio)
 
 ### Standardy dokumentów cyfrowych
 
-8. Standard przygotowania dokumentów tekstowych
-9. Standard przygotowania prezentacji
-10. Standard przygotowania arkuszy kalkulacyjnych
-11. Standard przygotowania dokumentów PDF
+8. [Standard przygotowania dokumentów tekstowych](./standardy-tworzenia/08-standard-przygotowania-dokumentow-tekstowych)
+9. [Standard przygotowania prezentacji](./standardy-tworzenia/09-standard-przygotowania-prezentacji)
+10. [Standard przygotowania arkuszy kalkulacyjnych](./standardy-tworzenia/10-standard-przygotowania-arkuszy-kalkulacyjnych)
+11. [Standard przygotowania dokumentów PDF](./standardy-tworzenia/11-standard-przygotowania-dokumentow-pdf)
