@@ -1,56 +1,80 @@
 ---
 id: ocena-materialu-przed-publikacja
-title: Ocena materiału przed publikacją
-description: Zestaw pytań służących do wyboru sposobu postępowania z materiałem.
-sidebar_label: Ocena materiału
+title: Karta oceny materiału pochodzącego od innego podmiotu
+description: Pomaga ustalić dodatkowe okoliczności istotne przy publikacji materiału pochodzącego od innego podmiotu.
+sidebar_label: Karta oceny materiału
 sidebar_position: 3
-keywords: [ocena materiału, dostępność cyfrowa, wyłączenia ustawowe, publikacja]
+keywords: [ocena materiału, treści zewnętrzne, wyłączenia ustawowe, publikacja]
 tags: [komunikacja, dostępność cyfrowa, publikacja]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 3 sierpnia 2026 r.
+ostatnia_aktualizacja: 9 września 2026 r.
 wersja_robocza: true
 ---
 
-Przed publikacją materiału pochodzącego od innego podmiotu ustal:
+Karta nie zastępuje kontroli dostępności cyfrowej właściwej dla danego rodzaju treści. Służy wyłącznie do oceny dodatkowych okoliczności wynikających z pochodzenia materiału od innego podmiotu.
 
-1. Czy materiał jest kompletny i wiadomo, kto odpowiada za jego treść?
-2. Czy publikacja wynika z przepisu prawa albo innego wiążącego obowiązku?
-3. Czy materiał spełnia wymagania dostępności cyfrowej?
-4. Jeżeli nie — czy podmiot publiczny jest uprawniony i ma techniczną możliwość jego modyfikacji?
-5. Czy można uzyskać od podmiotu przekazującego wersję dostępną albo plik edytowalny?
-6. Czy można przygotować dostępne cyfrowo przedstawienie tych samych informacji?
-7. Czy zachodzi konkretne wyłączenie przewidziane w ustawie?
-8. Jaki sposób postępowania wynika z łącznej oceny tych okoliczności?
+## 1. Status i pochodzenie materiału
 
-Sam fakt, że materiał pochodzi od innego podmiotu, nie oznacza zastosowania wyłączenia. Obowiązek publikacji również nie jest wyłączeniem z obowiązku zapewnienia dostępności cyfrowej.
+Ustal:
 
-## Możliwe wyniki oceny
+- kto wytworzył materiał;
+- kto przekazał go do publikacji;
+- czy został wytworzony przez podmiot publikujący albo na jego rzecz;
+- czy został sfinansowany przez podmiot publikujący;
+- czy został nabyty przez podmiot publikujący.
 
-- publikacja materiału dostępnego;
-- przekazanie materiału do poprawy;
-- dostosowanie materiału przez podmiot publikujący, jeżeli jest do tego uprawniony;
-- przygotowanie dostępnej wersji lub dostępnego przedstawienia informacji;
-- publikacja materiału objętego konkretnym wyłączeniem ustawowym, po udokumentowaniu podstawy;
-- wstrzymanie publikacji materiału fakultatywnego, którego nie można opublikować w wymaganej postaci;
-- konsultacja z osobą odpowiedzialną za dostępność albo obsługę prawną.
+## 2. Obowiązek publikacji
 
-## Ocena wyłączenia dotyczącego treści zewnętrznych
+Ustal, czy publikacja wynika z przepisu prawa albo innego wiążącego obowiązku. Obowiązek publikacji oceniaj niezależnie od obowiązku zapewnienia dostępności cyfrowej.
 
-Przy ocenie art. 3 ust. 2 pkt 5 ustawy o dostępności cyfrowej sprawdź:
+## 3. Możliwość modyfikacji
+
+Ustal:
+
+- czy podmiot publikujący jest uprawniony do zmiany materiału;
+- czy ograniczenie modyfikacji ma rzeczywistą podstawę prawną lub faktyczną;
+- czy dostępna jest wersja źródłowa lub edytowalna.
+
+Samo pochodzenie materiału od innego podmiotu ani brak pliku edytowalnego nie przesądzają o braku możliwości jego dostosowania.
+
+## 4. Możliwość pozyskania lub przygotowania dostępnej wersji
+
+Jeżeli materiał wymaga poprawy, ustal:
+
+- czy można uzyskać od podmiotu przekazującego poprawioną lub dostępną wersję;
+- czy można uzyskać wersję źródłową lub edytowalną;
+- czy możliwe jest uzupełnienie materiału o elementy niezbędne do zapewnienia dostępności;
+- czy podmiot publikujący może sam dostosować materiał;
+- czy możliwe jest przygotowanie dostępnego przedstawienia zawartych w nim informacji.
+
+## 5. Ocena przesłanek wyłączenia
+
+Przy ocenie art. 3 ust. 2 pkt 5 ustawy o dostępności cyfrowej sprawdź w szczególności:
 
 - czy treść znajduje się w posiadaniu podmiotu publicznego;
 - czy została wytworzona przez podmiot publiczny albo na jego rzecz;
 - czy została sfinansowana przez podmiot publiczny;
 - czy została nabyta przez podmiot publiczny;
-- czy dostosowanie wymaga modyfikacji treści;
+- czy zapewnienie dostępności wymaga modyfikacji treści;
 - czy podmiot publiczny jest uprawniony do takiej modyfikacji.
 
-Wyłączenie można zastosować wyłącznie po odniesieniu okoliczności sprawy do konkretnej przesłanki ustawowej. Brak pliku edytowalnego, brak czasu, koszt zwykłego dostosowania albo informacja autora, że materiału nie wolno zmieniać, nie są samodzielną podstawą wyłączenia.
+Pochodzenie materiału od innego podmiotu nie jest samoistną podstawą zastosowania wyłączenia.
 
-Zastosowanie wyłączenia udokumentuj przez wskazanie:
+## 6. Wynik oceny
 
-- konkretnego przepisu;
-- ustalonego stanu faktycznego;
-- informacji lub materiałów potwierdzających ocenę;
-- możliwości uzyskania albo przygotowania dostępnego przedstawienia informacji.
+Na podstawie powyższych ustaleń wybierz dalszy sposób postępowania, w szczególności:
+
+- pozyskanie poprawionej lub dostępnej wersji;
+- pozyskanie wersji źródłowej albo edytowalnej;
+- dostosowanie materiału przez podmiot publikujący, jeżeli jest do tego uprawniony;
+- przygotowanie dostępnego przedstawienia informacji;
+- publikację materiału w zakresie dopuszczonym przez przepisy;
+- wstrzymanie publikacji materiału, jeżeli publikacja nie jest obowiązkowa i nie zostały spełnione warunki pozwalające na jego prawidłowe udostępnienie.
+
+### Ustalenia
+
+- Wynik oceny: …
+- Wybrany sposób postępowania: …
+- Podstawa ewentualnego wyłączenia: …
+- Dalsze działania: …
