@@ -100,7 +100,7 @@ Koordynator dostępności nie przejmuje odpowiedzialności za zarządzanie proce
  
 Przekazywanie wszystkich decyzji dotyczących dostępności cyfrowej jednej osobie lub jednej komórce organizacyjnej prowadzi do rozmycia odpowiedzialności, ogranicza zaangażowanie właścicieli procesów oraz utrudnia skuteczne zarządzanie organizacją.
  
-Włączenie dostępności cyfrowej do codziennych decyzji podejmowanych przez osoby odpowiedzialne za zadania, usługi, informacje i systemy pozwala traktować ją jako naturalny element sposobu działania organizacji, a nie jako dodatkowy obowiązek realizowany poza podstawową działalnością.
+Włączenie dostępności cyfrowej do codziennych decyzji podejmowanych przez osoby odpowiedzialne za zadania, usługi, informacje, produkty i systemy pozwala traktować ją jako naturalny element sposobu działania organizacji, a nie jako dodatkowy obowiązek realizowany poza podstawową działalnością.
 
 ## 5. Podstawy prawne
 _Brak podstaw prawnych._
