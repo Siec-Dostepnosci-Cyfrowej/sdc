@@ -16,7 +16,7 @@ Karta nie zastępuje kontroli dostępności cyfrowej właściwej dla danego rodz
 
 ## 1. Status i pochodzenie materiału
 
-Ustal:
+Ocena obejmuje ustalenie:
 
 - kto wytworzył materiał;
 - kto przekazał go do publikacji;
@@ -26,11 +26,11 @@ Ustal:
 
 ## 2. Obowiązek publikacji
 
-Ustal, czy publikacja wynika z przepisu prawa albo innego wiążącego obowiązku. Obowiązek publikacji oceniaj niezależnie od obowiązku zapewnienia dostępności cyfrowej.
+Ocena obejmuje ustalenie, czy publikacja wynika z przepisu prawa albo innego wiążącego obowiązku. Obowiązek publikacji jest oceniany niezależnie od obowiązku zapewnienia dostępności cyfrowej.
 
 ## 3. Możliwość modyfikacji
 
-Ustal:
+Ocena obejmuje ustalenie:
 
 - czy podmiot publikujący jest uprawniony do zmiany materiału;
 - czy ograniczenie modyfikacji ma rzeczywistą podstawę prawną lub faktyczną;
@@ -40,17 +40,17 @@ Samo pochodzenie materiału od innego podmiotu ani brak pliku edytowalnego nie p
 
 ## 4. Możliwość pozyskania lub przygotowania dostępnej wersji
 
-Jeżeli materiał wymaga poprawy, ustal:
+W przypadku materiału wymagającego poprawy ocena obejmuje możliwość:
 
-- czy można uzyskać od podmiotu przekazującego poprawioną lub dostępną wersję;
-- czy można uzyskać wersję źródłową lub edytowalną;
-- czy możliwe jest uzupełnienie materiału o elementy niezbędne do zapewnienia dostępności;
-- czy podmiot publikujący może sam dostosować materiał;
-- czy możliwe jest przygotowanie dostępnego przedstawienia zawartych w nim informacji.
+- uzyskania od podmiotu przekazującego poprawionej lub dostępnej wersji;
+- uzyskania wersji źródłowej lub edytowalnej;
+- uzupełnienia materiału o elementy niezbędne do zapewnienia dostępności;
+- dostosowania materiału przez podmiot publikujący;
+- przygotowania dostępnego przedstawienia zawartych w nim informacji.
 
 ## 5. Ocena przesłanek wyłączenia
 
-Przy ocenie art. 3 ust. 2 pkt 5 ustawy o dostępności cyfrowej sprawdź w szczególności:
+Przy ocenie art. 3 ust. 2 pkt 5 ustawy o dostępności cyfrowej uwzględnia się w szczególności:
 
 - czy treść znajduje się w posiadaniu podmiotu publicznego;
 - czy została wytworzona przez podmiot publiczny albo na jego rzecz;
@@ -63,7 +63,7 @@ Pochodzenie materiału od innego podmiotu nie jest samoistną podstawą zastosow
 
 ## 6. Wynik oceny
 
-Na podstawie powyższych ustaleń wybierz dalszy sposób postępowania, w szczególności:
+Na podstawie dokonanych ustaleń określa się dalszy sposób postępowania. Może on obejmować w szczególności:
 
 - pozyskanie poprawionej lub dostępnej wersji;
 - pozyskanie wersji źródłowej albo edytowalnej;
