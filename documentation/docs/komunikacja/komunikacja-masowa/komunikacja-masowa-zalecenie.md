@@ -34,11 +34,10 @@ Organizacja ustanawia, utrzymuje i stosuje standardy tworzenia, publikacji oraz 
    - uwzględniają wymagania dotyczące jakości komunikacji;
    - są dostosowane do rodzajów treści faktycznie wykorzystywanych przez organizację.
 2. Organizacja integruje standardy z procesami komunikacji cyfrowej i zapewnia, aby:
-   - były stosowane na etapie przygotowania i aktualizacji materiałów;
+   - standardy były stosowane na etapie przygotowania i aktualizacji materiałów, odpowiednio do kanałów komunikacji cyfrowej wykorzystywanych przez organizację;
    - proces publikacji obejmował weryfikację zgodności materiałów ze standardami;
    - standardy były powiązane z procedurami kontroli jakości;
-   - standardy wspierały realizację wymagań dostępności cyfrowej;
-   - były stosowane odpowiednio do kanałów komunikacji cyfrowej wykorzystywanych przez organizację.
+   - standardy wspierały realizację wymagań dostępności cyfrowej.
 3. Organizacja określa sposób stosowania standardów, w tym:
    - zakres ich obowiązywania;
    - role i odpowiedzialność związane z ich stosowaniem;
