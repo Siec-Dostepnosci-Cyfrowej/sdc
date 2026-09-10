@@ -1,5 +1,5 @@
 ---
-id: pl-acc-008-redaktor-dostępnych-treści-internetowych
+id: pl-acc-008-redaktor-dostepnych-tresci-internetowych
 title: Redaktor dostępnych treści internetowych
 sidebar_label: Redaktor treści internetowych
 sidebar_position: 17

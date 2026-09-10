@@ -1,5 +1,5 @@
 ---
-id: pl-acc-004-tester-dostępnych-dokumentów-tekstowych
+id: pl-acc-004-tester-dostepnych-dokumentow-tekstowych
 title: Tester dostępnych dokumentów tekstowych
 sidebar_label: Tester dokumentów tekstowych
 sidebar_position: 13

@@ -12,13 +12,13 @@ ostatnia_aktualizacja: 19 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
-## 1. Cel dezyderatu
+### 1. Cel dezyderatu
 
 Celem dezyderatu jest wsparcie rozwoju kompetencji w zakresie dostępności cyfrowej w podmiotach publicznych poprzez stworzenie wspólnego, otwartego standardu opisu kwalifikacji oraz uruchomienie mechanizmu ich praktycznego potwierdzania.
 
 ---
 
-## 2. Treść dezyderatu
+### 2. Treść dezyderatu
 
 Sieć Dostępności Cyfrowej rekomenduje, aby Minister Cyfryzacji utworzył i utrzymywał Publiczny Katalog Mikropoświadczeń Kompetencji w zakresie dostępności cyfrowej, stanowiący otwarty standard opisu kwalifikacji powiązanych z rolami i zadaniami realizowanymi w podmiotach publicznych.
 
@@ -26,7 +26,7 @@ Katalog powinien być publicznie dostępny, rozwijany we współpracy ze środow
 
 ---
 
-## 3. Zakres i sposób funkcjonowania katalogu
+### 3. Zakres i sposób funkcjonowania katalogu
 
 Publiczny Katalog Mikropoświadczeń powinien obejmować:
 
@@ -59,7 +59,7 @@ Publiczny Katalog Mikropoświadczeń powinien obejmować:
 
 ---
 
-## 4. Model funkcjonowania
+### 4. Model funkcjonowania
 
 Katalog powinien funkcjonować jako:
 
@@ -71,7 +71,7 @@ Przyznawanie mikropoświadczeń może być realizowane przez różne podmioty, p
 
 ---
 
-## 5. Uzasadnienie
+### 5. Uzasadnienie
 
 Zapewnienie dostępności cyfrowej w podmiotach publicznych wymaga nie tylko określenia obowiązków i procedur, lecz przede wszystkim zdolności organizacji do ich realizacji w praktyce.
 
@@ -93,7 +93,7 @@ Utworzenie Publicznego Katalogu Mikropoświadczeń pozwoli:
 
 ---
 
-## 6. Oczekiwane rezultaty
+### 6. Oczekiwane rezultaty
 
 W wyniku wdrożenia dezyderatu:
 
@@ -104,7 +104,7 @@ W wyniku wdrożenia dezyderatu:
 
 ---
 
-## 7. Źródła i opracowania
+### 7. Źródła i kontekst
 
 - [Czym są mikropoświadczenia?](https://microcredentials.pl/)
 - [Odznaka+](https://odznakaplus.ibe.edu.pl/)
@@ -117,11 +117,3 @@ W wyniku wdrożenia dezyderatu:
 i zatrudnialności]https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX:32022H0627(02)]
 
 ---
-
-## Załączniki
-
-- [Zasady przyznawania mikropoświadczeń kompetencji w zakresie dostępności cyfrowej](zasady-przyznawania-mikroposwiadczen)
-- [Struktura pojedynczego mikropoświadczenia (wzór)](struktura-mikroposwiadczenia)
-- [Minimalny model kompetencji organizacji w zakresie dostępności cyfrowej (wersja rozszerzona)](model-kompetencji)
-- [Mapa RACI dla systemu zapewniania dostępności cyfrowej](mapa-raci)
-- Zestaw mikropoświadczeń

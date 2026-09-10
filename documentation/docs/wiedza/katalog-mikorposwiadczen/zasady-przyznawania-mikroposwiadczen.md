@@ -1,7 +1,7 @@
 ---
 id: zasady-przyznawania-mikroposwiadczen
 title: Zasady przyznawania mikropoświadczeń kompetencji w zakresie dostępności cyfrowej
-description: Określa zasady przyznawania mikropoświadczeń kompetencji w zakresie dostępnosci cyfrowej
+description: Dezyderat Sieci Dostępności Cyfrowej skierowany do Ministra Cyfryzacji w sprawie utworzenia Publicznego Katalogu Mikropoświadczeń Kompetencji w zakresie dostępności cyfrowej
 sidebar_label: Zasady przyznawania
 sidebar_position: 2
 keywords: [cykl życia TIK, dostępność cyfrowa,  zalecenia]

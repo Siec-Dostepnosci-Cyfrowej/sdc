@@ -1,5 +1,5 @@
 ---
-id: pl-acc-003-weryfikator-dostępnych-dokumentów-tekstowych
+id: pl-acc-003-weryfikator-dostepnych-dokumentów-tekstowych
 title: Weryfikator dostępności dokumentów tekstowych  
 sidebar_label: Weryfikator dokumentów tekstowych
 sidebar_position: 12

@@ -1,7 +1,7 @@
 ---
 id: mapa-raci
 title: Mapa RACI dla systemu zapewniania dostępności cyfrowej
-description: Mapa RACI dla systemu zapewniania dostępności cyfrowej
+description: Dezyderat Sieci Dostępności Cyfrowej skierowany do Ministra Cyfryzacji w sprawie utworzenia Publicznego Katalogu Mikropoświadczeń Kompetencji w zakresie dostępności cyfrowej
 sidebar_label: Mapa RACI
 sidebar_position: 4
 keywords: [cykl życia TIK, dostępność cyfrowa,  zalecenia]
@@ -11,6 +11,8 @@ data_zgloszenia: 19 kwietnia 2026 r.
 ostatnia_aktualizacja: 19 kwietnia 2026 r.
 wersja_robocza: true
 ---
+
+# Mapa RACI dla systemu zapewniania dostępności cyfrowej
 
 ## 1. Oznaczenia
 

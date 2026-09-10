@@ -1,5 +1,5 @@
 ---
-id: pl-acc-017-redaktor-dostępnych-treści-e-learningowych
+id: pl-acc-017-redaktor-dostepnych-tresci-e-learningowych
 title: Redaktor dostępnych treści e-learningowych
 sidebar_label: Redaktor treści e-learningowych
 sidebar_position: 28

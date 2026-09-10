@@ -1,7 +1,7 @@
 ---
 id: model-kompetencji
 title: Minimalny model kompetencji organizacji w zakresie dostępności cyfrowej
-description: Określa minimalny zestaw kompetencji niezbędnych w organizacji, aby zapewniać dostępność cyfrową
+description: Dezyderat Sieci Dostępności Cyfrowej skierowany do Ministra Cyfryzacji w sprawie utworzenia Publicznego Katalogu Mikropoświadczeń Kompetencji w zakresie dostępności cyfrowej
 sidebar_label: Model kompetencji
 sidebar_position: 3
 keywords: [cykl życia TIK, dostępność cyfrowa,  zalecenia]
@@ -11,6 +11,8 @@ data_zgloszenia: 19 kwietnia 2026 r.
 ostatnia_aktualizacja: 19 kwietnia 2026 r.
 wersja_robocza: true
 ---
+
+# Minimalny model kompetencji organizacji w zakresie dostępności cyfrowej (wersja rozszerzona)
 
 ## 1. Cel modelu
 
