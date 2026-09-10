@@ -56,11 +56,31 @@ Dokument nie wprowadza obowiązku stosowania AI, lecz określa zasady jej bezpie
 
 Wykorzystanie technologii sztucznej inteligencji w procesach badania dostępności cyfrowej ma charakter dobrowolny i powinno wynikać wyłącznie z jasno określonych celów operacyjnych. Automatyzacja jest uzasadniona jedynie wtedy, gdy wspiera analizę błędów, identyfikację powtarzalnych problemów lub wyciąganie wniosków potrzebnych do planowania napraw.
 
-AI może wspierać ocenę poprzez masową analizę kodu, generowanie wstępnych propozycji naprawczych, wspomaganie implementacji poprawek oraz automatyzację tworzenia testów.
+Zastosowania AI w ocenie i naprawie dostępności dzielą się na:
 
-W sytuacjach, w których wprowadzone zmiany są objęte automatycznymi testami potwierdzającymi ich poprawne działanie, część procesu może być realizowana z mniejszym udziałem człowieka. Automatyczne testy ograniczają konieczność ręcznej weryfikacji poszczególnych poprawek, o ile ich wyniki są jednoznaczne, powtarzalne i zgodne z oczekiwanym efektem naprawy, natomiast ostateczna ocena zawsze należy do eksperta.
+1. diagnostyczne – analiza kodu, interfejsu lub dokumentów i wskazywanie potencjalnych problemów;
+2. dokumentacyjne – grupowanie ustaleń, przygotowywanie zestawień oraz wspieranie redagowania raportu;
+3. naprawcze – proponowanie, generowanie lub modyfikowanie kodu, treści i innych elementów rozwiązania;
+4. testowe – przygotowywanie scenariuszy, generowanie testów, wykonywanie testów automatycznych i analizowanie ich wyników.
 
-AI nie może zastępować człowieka w ocenie zgodności z normami dostępności. Wykonawca dokumentuje zarówno cel wdrożenia AI, jak i zakres jej wpływu na proces badawczy.
+Dla każdego zastosowania należy oddzielnie określić wpływ na wynik, poziom ryzyka, sposób niezależnej weryfikacji oraz wymagane testy manualne.
+
+Automatyczne testy mogą wspierać wykrywanie regresji i weryfikowanie jednoznacznych właściwości technicznych. Nie zastępują jednak niezależnej oceny eksperckiej ani testów manualnych wymaganych dla danego kryterium. Poprawka wygenerowana przez AI nie może zostać uznana za prawidłową wyłącznie na podstawie testu wygenerowanego lub wykonanego przez AI.
+
+Wykorzystanie AI w ocenie albo naprawie dostępności obejmuje:
+
+1. zakwalifikowanie zadania do odpowiedniej kategorii;
+2. ocenę danych, uprawnień systemu i skutków możliwego błędu;
+3. wybór modelu, narzędzi i zakresu ich działania;
+4. określenie dopuszczalnego poziomu autonomii;
+5. wykonanie analizy albo przygotowanie propozycji poprawki;
+6. ocenę kompletności, spójności i wiarygodności wyniku;
+7. niezależną weryfikację ekspercką na podstawie materiału źródłowego;
+8. przeprowadzenie testów manualnych i, jeżeli są wymagane, testów z technologiami asystującymi;
+9. kontrolę regresji po wdrożeniu zmiany;
+10. udokumentowanie wykorzystanego systemu, przebiegu weryfikacji i ostatecznego rezultatu.
+
+Nie można pominąć niezależnej weryfikacji ani wymaganych testów manualnych z tego powodu, że wynik AI został potwierdzony przez inne narzędzie automatyczne.
 
 ### 3.2. Transparentność wykorzystania AI i prawo odbiorcy do informacji
 
