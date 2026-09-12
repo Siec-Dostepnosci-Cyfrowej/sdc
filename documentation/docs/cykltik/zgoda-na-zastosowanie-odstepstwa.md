@@ -14,7 +14,9 @@ wersja_robocza: true
 
 ## 1. Cel opracowania
 
-Zdarza się, że zapewnienie pełnej dostępności cyfrowej jakiegoś elementu strony internetowej lub aplikacji mobilnej jest bardzo kosztowne. Ustawa dopuszcza w takiej sytuacji odstąpienie od tego obowiązku, ale tylko wtedy, gdy zostanie to prawidłowo uzasadnione i formalnie zatwierdzone. To zalecenie opisuje, krok po kroku, jak podmiot publiczny powinien postępować, aby taki wyjątek zastosować zgodnie z przepisami.
+Zapewnienie pełnej dostępności cyfrowej niektórych elementów strony internetowej lub aplikacji mobilnej może w wyjątkowych sytuacjach wiązać się z nieproporcjonalnym obciążeniem dla podmiotu publicznego. Ustawa o dostępności cyfrowej dopuszcza w takich przypadkach możliwość zastosowania odstępstwa, pod warunkiem jego właściwego uzasadnienia oraz formalnego zatwierdzenia.
+
+Celem niniejszej procedury jest przedstawienie jasnego i zgodnego z przepisami sposobu postępowania, który pozwala podmiotowi publicznemu prawidłowo przygotować, uzasadnić i wdrożyć odstępstwo od obowiązku zapewniania dostępności cyfrowej.
 
 ## 2. Rodzaje odstępstw przewidziane w przepisach
 
