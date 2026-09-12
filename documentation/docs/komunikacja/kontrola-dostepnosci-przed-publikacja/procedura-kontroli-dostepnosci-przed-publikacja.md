@@ -11,17 +11,21 @@ wymiar: Komunikacja
 opracowanie: Bartłomiej Wilk
 wspolpraca: Stefan Wajda, Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 30 kwietnia 2026 r.
-ostatnia_aktualizacja: 9 września 2026 r.
+ostatnia_aktualizacja: 12 września 2026 r.
 wersja_robocza: true
 ---
 
 # Zalecenie: Kontrola dostępności treści cyfrowych przed publikacją
 
-## 1. Zalecenie
+## 1. Cel zalecenia
+
+Celem zalecenia jest ograniczenie publikowania treści cyfrowych zawierających bariery dostępności przez włączenie kontroli dostępności do procesu przygotowania i zatwierdzania materiałów. Kontrola umożliwia wykrycie problemów przed udostępnieniem treści użytkownikom, wskazanie odpowiedzialności oraz podjęcie świadomej decyzji dotyczącej dalszego postępowania.
+
+## 2. Zalecenie
 
 Podmiot publiczny ustanawia kontrolę dostępności jako stały punkt procesu publikacji treści cyfrowych i określa sposób jej wykonania, odpowiedzialność uczestników procesu, sposób dokumentowania wyniku oraz zasady postępowania z materiałem, w którym stwierdzono bariery dostępności.
 
-## 2. Rekomendacje
+## 3. Rekomendacje
 
 Kontrola obejmuje treści cyfrowe przygotowywane, zatwierdzane lub publikowane przez podmiot publiczny, w szczególności strony i aktualności publikowane w systemach CMS, dokumenty i inne pliki udostępniane do pobrania, załączniki publikowane w Biuletynie Informacji Publicznej, formularze i komunikaty transakcyjne, newslettery, grafiki i infografiki, materiały audio i wideo, treści publikowane w mediach społecznościowych oraz treści w systemach wewnętrznych, jeżeli podlegają wymaganiom dostępności cyfrowej. Zakres kontroli jest dostosowany do rodzaju materiału, kanału publikacji, znaczenia informacji oraz ryzyka wystąpienia bariery dla użytkownika.
 
@@ -34,9 +38,7 @@ Kontrola obejmuje treści cyfrowe przygotowywane, zatwierdzane lub publikowane p
 7. **Doskonalenie procesu.** Podmiot publiczny wykorzystuje wyniki kontroli do poprawy szablonów, materiałów pomocniczych, organizacji pracy i kompetencji osób uczestniczących w publikacji, jeżeli analiza wyników wskazuje na powtarzające się błędy lub ryzyka.
 8. **Przegląd mechanizmu kontroli.** Podmiot publiczny okresowo ocenia skuteczność kontroli i aktualizuje jej zakres, narzędzia oraz sposób dokumentowania w odpowiedzi na zmiany prawa, technologii, kanałów publikacji, wyniki kontroli i zgłoszenia użytkowników.
 
-## 3. Uzasadnienie
-
-Celem zalecenia jest ograniczenie publikowania treści cyfrowych zawierających bariery dostępności przez włączenie kontroli dostępności do procesu przygotowania i zatwierdzania materiałów. Kontrola umożliwia wykrycie problemów przed udostępnieniem treści użytkownikom, wskazanie odpowiedzialności oraz podjęcie świadomej decyzji dotyczącej dalszego postępowania.
+## 4. Uzasadnienie
 
 Obowiązek zapewnienia dostępności cyfrowej dotyczy efektu udostępnianego użytkownikowi, natomiast przepisy nie narzucają jednego modelu organizacyjnego kontroli przed publikacją. Ustanowienie punktu kontrolnego jest rozwiązaniem zarządczym wspierającym realizację tych obowiązków i ograniczającym sytuacje, w których bariery są wykrywane dopiero po publikacji.
 
@@ -44,7 +46,7 @@ Kontrola przed publikacją nie zastępuje działań potrzebnych po udostępnieni
 
 Wprowadzenie stałego punktu kontroli ułatwia ocenę stopnia wdrożenia zalecenia, ponieważ organizacja może sprawdzić, czy kontrola jest wykonywana, czy wynik jest dokumentowany oraz czy sposób postępowania z wykrytymi barierami jest stosowany w praktyce. Okresowy przegląd mechanizmu pozwala dostosowywać go do zmieniających się warunków i wykorzystywać wyniki kontroli do doskonalenia procesu publikacji.
 
-## 4. Podstawy prawne
+## 5. Podstawy prawne
 
 W zaleceniu uwzględniono poniżej wymienione przepisy:
 
@@ -54,14 +56,14 @@ W zaleceniu uwzględniono poniżej wymienione przepisy:
 4. Art. 7 ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych, z późn. zmianami (Dz. U. z 2023 r. poz. 1440).
 5. Art. 8 ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych, z późn. zmianami (Dz. U. z 2023 r. poz. 1440).
 
-## 5. Źródła i opracowania
+## 6. Źródła i opracowania
 
 1. Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych, z późn. zmianami (Dz. U. z 2023 r. poz. 1440).
 2. ETSI EN 301 549 V3.2.1:2021, *Accessibility requirements for ICT products and services*.
 3. [W3C, *Web Content Accessibility Guidelines (WCAG) 2.1*](https://www.w3.org/TR/WCAG21/), dostęp: 9 września 2026 r.
 4. [W3C WAI, *Planning and Managing Web Accessibility*](https://www.w3.org/WAI/planning-and-managing/), dostęp: 9 września 2026 r.
 
-## 6. Historia wersji
+## 7. Historia wersji
 
 | Wersja | Data | Etap | Opis zmian |
 |---|---|---|---|
@@ -69,6 +71,7 @@ W zaleceniu uwzględniono poniżej wymienione przepisy:
 | 0.2 | 06.09.2026 | Projekt roboczy | Przebudowanie zalecenia jako samodzielnego mechanizmu kontroli przed publikacją, uporządkowanie materiałów wdrożeniowych i rozdzielenie publikacji warunkowej od ustawowych mechanizmów prawnych. |
 | 0.3 | 06.09.2026 | Projekt roboczy | Dostosowanie dokumentu głównego do standardowej struktury zalecenia. |
 | 0.4 | 09.09.2026 | Aktualizacja po weryfikacji | Dostosowanie struktury, języka rekomendacji, podstaw prawnych, źródeł i historii wersji do zasad formowania zaleceń SDC oraz dodanie rekomendacji dotyczącej przeglądu mechanizmu kontroli. |
+| 0.5 | 12.09.2026 | Aktualizacja struktury | Dodanie sekcji „Cel zalecenia” na początku dokumentu i dostosowanie numeracji dalszych części. |
 
 ## Załączniki
 
