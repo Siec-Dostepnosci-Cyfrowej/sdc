@@ -10,17 +10,21 @@ typ: zalecenie
 wymiar: Komunikacja
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 9 września 2026 r.
+ostatnia_aktualizacja: 12 września 2026 r.
 wersja_robocza: true
 ---
 
 # Zalecenie: Publikowanie treści pochodzących od innych podmiotów
 
-## 1. Zalecenie
+## 1. Cel zalecenia
+
+Celem zalecenia jest uporządkowanie sposobu postępowania z treściami przekazywanymi do publikacji przez inne podmioty, tak aby ich pochodzenie nie prowadziło do automatycznego uznawania materiału za wyłączony z wymagań dostępności cyfrowej. Zalecenie wspiera podmioty publiczne w ustalaniu obowiązku publikacji, możliwości modyfikacji materiału oraz właściwego sposobu postępowania w przypadku stwierdzenia problemów z dostępnością.
+
+## 2. Zalecenie
 
 Podmioty publiczne wdrażają procedurę postępowania z treściami pochodzącymi od innych podmiotów, która pozwala ustalić warunki ich wykorzystania i modyfikacji, obowiązek publikacji oraz sposób postępowania w przypadku braku dostępności cyfrowej.
 
-## 2. Rekomendacje
+## 3. Rekomendacje
 
 Procedura określa dodatkowe działania wynikające z faktu, że materiał przeznaczony do publikacji został wytworzony lub przekazany przez inny podmiot.
 
@@ -46,7 +50,7 @@ Procedura określa dodatkowe działania wynikające z faktu, że materiał przez
    - publikację materiału w zakresie dopuszczonym przez przepisy;
    - wstrzymanie publikacji materiału, jeżeli jego publikacja nie jest obowiązkowa i nie zostały spełnione warunki pozwalające na jego prawidłowe udostępnienie.
 
-## 3. Uzasadnienie
+## 4. Uzasadnienie
 
 Podmioty publiczne publikują treści, które nie zawsze zostały przez nie samodzielnie przygotowane. Materiały mogą pochodzić między innymi od innych instytucji publicznych, wykonawców, partnerów, organizacji społecznych lub innych podmiotów współpracujących. Mogą być przekazywane jako dokumenty, grafiki, prezentacje, multimedia lub inne elementy przeznaczone do umieszczenia na stronie internetowej albo w aplikacji mobilnej.
 
@@ -56,19 +60,19 @@ W praktyce samo zewnętrzne pochodzenie materiału może być błędnie traktowa
 
 Wdrożenie procedury pozwala każdorazowo ustalić okoliczności charakterystyczne dla materiałów pochodzących od innych podmiotów i na tej podstawie wybrać właściwy sposób dalszego postępowania. Ogranicza to ryzyko nieuzasadnionego stosowania wyłączeń, publikowania niedostępnych materiałów bez analizy oraz rezygnacji z działań, które mogłyby umożliwić dostępne udostępnienie informacji.
 
-## 4. Podstawy prawne
+## 5. Podstawy prawne
 
 W zaleceniu uwzględniono poniżej wymienione przepisy:
 
 1. Art. 3 ust. 2 pkt 5 ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych, z późn. zmianami (Dz. U. z 2023 r. poz. 1440).
 2. Art. 5 ust. 1–3 ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych, z późn. zmianami (Dz. U. z 2023 r. poz. 1440).
 
-## 5. Źródła i opracowania
+## 6. Źródła i opracowania
 
 1. Dyrektywa Parlamentu Europejskiego i Rady (UE) 2016/2102 z dnia 26 października 2016 r. w sprawie dostępności stron internetowych i mobilnych aplikacji organów sektora publicznego.
 2. ETSI EN 301 549 V3.2.1:2021, *Accessibility requirements for ICT products and services*.
 
-## 6. Historia wersji
+## 7. Historia wersji
 
 | Wersja | Data | Etap | Opis zmian |
 |---|---|---|---|
@@ -78,6 +82,7 @@ W zaleceniu uwzględniono poniżej wymienione przepisy:
 | 0.4 | 06.09.2026 | Projekt roboczy | Uporządkowanie dokumentu głównego według struktury zalecenia, rozbudowanie uzasadnienia i podstaw merytorycznych oraz dalsze ograniczenie powtarzających się elementów materiałów wdrożeniowych. |
 | 0.5 | 09.09.2026 | Aktualizacja po recenzji | Zasadnicze zawężenie przedmiotu zalecenia do dodatkowych działań wynikających z pochodzenia materiału. |
 | 0.6 | 09.09.2026 | Aktualizacja po weryfikacji | Dostosowanie struktury, języka rekomendacji, podstaw prawnych i historii wersji do zasad formowania zaleceń SDC. |
+| 0.7 | 12.09.2026 | Aktualizacja struktury | Dodanie sekcji „Cel zalecenia” na początku dokumentu i dostosowanie numeracji dalszych części. |
 
 ## Załączniki
 
