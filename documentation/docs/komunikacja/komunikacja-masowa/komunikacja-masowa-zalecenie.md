@@ -11,17 +11,21 @@ wymiar: Komunikacja
 opracowanie: Stefan Wajda, Bartłomiej Wilk
 wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 30 kwietnia 2026 r.
-ostatnia_aktualizacja: 9 września 2026 r.
+ostatnia_aktualizacja: 12 września 2026 r.
 wersja_robocza: true
 ---
 
 # Zalecenie: Zarządzanie standardami tworzenia i publikacji treści cyfrowych
 
-## 1. Zalecenie
+## 1. Cel zalecenia
+
+Celem zalecenia jest zapewnienie spójnego sposobu tworzenia i publikowania treści cyfrowych poprzez ustanowienie i utrzymywanie standardów stosowanych w organizacji. Standardy mają przekładać wymagania dostępności cyfrowej i jakości komunikacji na zasady możliwe do zastosowania w codziennej pracy osób przygotowujących i publikujących treści.
+
+## 2. Zalecenie
 
 Organizacja ustanawia, utrzymuje, aktualizuje i stosuje standardy tworzenia oraz publikacji treści cyfrowych, które wspierają realizację wymagań dostępności cyfrowej, spójność komunikacji, jakość publikowanych materiałów oraz powtarzalność działań w kanałach cyfrowych organizacji.
 
-## 2. Rekomendacje
+## 3. Rekomendacje
 
 Zakres standardów obejmuje dokumenty cyfrowe, treści internetowe, materiały multimedialne, grafiki, komunikację w mediach społecznościowych oraz inne treści publikowane w kanałach cyfrowych organizacji.
 
@@ -66,7 +70,7 @@ Zakres standardów obejmuje dokumenty cyfrowe, treści internetowe, materiały m
    - mniejsze organizacje mogą przyjmować i dostosowywać sprawdzone standardy, wzory i materiały opracowane zewnętrznie;
    - uproszczenie sposobu wdrożenia nie prowadzi do pomijania wymagań dostępności cyfrowej ani zasad jakości komunikacji.
 
-## 3. Uzasadnienie
+## 4. Uzasadnienie
 
 W praktyce działania wielu organizacji przygotowanie i publikacja treści cyfrowych odbywają się w sposób niespójny i zależny od indywidualnych praktyk poszczególnych osób lub zespołów. Powoduje to powstawanie barier dostępności, niespójność komunikacji, trudności w utrzymaniu jakości, zwiększenie liczby błędów oraz konieczność późniejszych działań naprawczych.
 
@@ -74,7 +78,7 @@ Przepisy prawa i normy techniczne określają wymagania dostępności, ale nie o
 
 Wprowadzenie i utrzymywanie standardów wspiera organizację procesów komunikacji cyfrowej, rozwój kompetencji pracowników, zachowanie jakości treści i aktualizację sposobu działania po zmianach prawa, technologii lub narzędzi. Standardy stanowią więc element systemowego zarządzania dostępnością i porządkują wymagania stosowane podczas przygotowywania treści.
 
-## 4. Podstawy prawne
+## 5. Podstawy prawne
 
 W zaleceniu uwzględniono poniżej wymienione przepisy:
 
@@ -83,7 +87,7 @@ W zaleceniu uwzględniono poniżej wymienione przepisy:
 3. Art. 6 ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych, z późn. zmianami (Dz. U. z 2023 r. poz. 1440) — obowiązek opublikowania tych samych informacji w sposób dostępny cyfrowo na wybranej spośród posiadanych przez podmiot publiczny stron internetowych lub aplikacji mobilnych, jeżeli informacje opublikowane na stronie internetowej lub w aplikacji mobilnej innej niż własna nie spełniają wymagań dostępności cyfrowej.
 4. Art. 1 ust. 2 oraz art. 6 ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami, z późn. zmianami (Dz. U. z 2024 r. poz. 1411) — systemowe obowiązki podmiotów publicznych w zakresie zapewniania dostępności oraz odniesienie do przepisów o dostępności cyfrowej.
 
-## 5. Źródła i opracowania
+## 6. Źródła i opracowania
 
 1. [W3C, *Web Content Accessibility Guidelines (WCAG) 2.1*](https://www.w3.org/TR/WCAG21/), dostęp: 9 września 2026 r.
 2. [W3C WAI, *Planning and Managing Web Accessibility*](https://www.w3.org/WAI/planning-and-managing/), dostęp: 9 września 2026 r.
@@ -91,7 +95,7 @@ W zaleceniu uwzględniono poniżej wymienione przepisy:
 4. ETSI EN 301 549 V3.2.1:2021, *Accessibility requirements for ICT products and services*.
 5. WebAIM, *Accessibility Principles and Techniques*.
 
-## 6. Historia wersji
+## 7. Historia wersji
 
 | Wersja | Data | Etap | Opis zmian |
 |---|---|---|---|
@@ -101,6 +105,7 @@ W zaleceniu uwzględniono poniżej wymienione przepisy:
 | 0.4 | 06.09.2026 | Projekt roboczy | Dostosowanie dokumentu głównego do standardowej struktury zalecenia. |
 | 0.5 | 09.09.2026 | Aktualizacja po recenzji | Dostosowanie do zasad formowania zaleceń, uporządkowanie podstaw prawnych, źródeł i historii wersji. |
 | 0.6 | 09.09.2026 | Aktualizacja po weryfikacji | Usunięcie modalnego sformułowania z rekomendacji dotyczącej sposobu wdrożenia standardów. |
+| 0.7 | 12.09.2026 | Aktualizacja struktury | Dodanie sekcji „Cel zalecenia” na początku dokumentu i dostosowanie numeracji dalszych części. |
 
 ## Załączniki
 
