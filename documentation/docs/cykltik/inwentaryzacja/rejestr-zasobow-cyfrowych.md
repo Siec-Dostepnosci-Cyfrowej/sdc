@@ -60,7 +60,7 @@ Rejestr deklaracji dostępności stanowi integralną część rejestru zasobów 
 10. **Podnoszenie kompetencji pracowników**  
     Zaleca się prowadzenie szkoleń dla osób zaangażowanych w identyfikację, klasyfikację i utrzymanie rejestru zasobów cyfrowych, w tym w zakresie sporządzania i aktualizacji deklaracji dostępności.
 11. **Zapewnienie odpowiedzialności za każdy zasób**  
-    Każdy zasób cyfrowy powinien mieć przypisanego właściciela, określony cel istnienia, plan utrzymania lub rozwoju oraz — w przypadku podlegania obowiązkowi — aktualną, powiązaną z nim deklarację dostępności.
+Każdy zasób cyfrowy powinien mieć przypisanego właściciela, określony cel istnienia oraz plan utrzymania lub rozwoju. Jeżeli zasób podlega obowiązkowi publikacji deklaracji dostępności, powinien mieć również powiązaną z nim aktualną deklarację.
 12. **Rezygnacja z odrębnego rejestru deklaracji dostępności**  
     Rejestr deklaracji dostępności nie powinien być prowadzony jako oddzielny wykaz równoległy do rejestru zasobów cyfrowych. Prowadzenie jednego, zintegrowanego źródła danych ogranicza ryzyko rozbieżności między rejestrami oraz upraszcza raportowanie i aktualizację danych.
 
