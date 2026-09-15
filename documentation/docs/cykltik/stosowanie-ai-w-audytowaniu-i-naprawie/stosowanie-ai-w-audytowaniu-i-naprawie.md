@@ -1,15 +1,15 @@
 ---
-id: stosowanie-ai-w-audytowaniu-i-naprawie 
+id: stosowanie-ai-w-audytowaniu-i-naprawie
 title: Zasady wykorzystania sztucznej inteligencji (AI) w procesach oceny dostępności cyfrowej oraz pracach naprawczych i doskonalących
 description: Zalecenie określa ramowe cele oraz zasady bezpiecznego, świadomego i przejrzystego wykorzystywania sztucznej inteligencji jako narzędzia wspomagającego ocenę dostępności cyfrowej oraz prace naprawcze i doskonalące
-sidebar_label: Zalecenie 
-sidebar_position: 3 
-keywords: [dostępność cyfrowa,cykl życia TIK, dostępność cyfrowa,deklaracja dostępności, monitoring dostępności, przegląd dostępności, przegląd diagnostyczny, audyt zgodności, ocena stanu zgodności] 
-tags: [dostępność cyfrowa,cykl życia TIK, dostępność cyfrowa,deklaracja dostępności, monitoring dostępności, przegląd dostępności, przegląd diagnostyczny, audyt zgodności, ocena stanu zgodności] 
+sidebar_label: Zalecenie
+sidebar_position: 3
+keywords: [dostępność cyfrowa, cykl życia TIK, deklaracja dostępności, monitoring dostępności, przegląd dostępności, przegląd diagnostyczny, audyt zgodności, ocena stanu zgodności]
+tags: [dostępność cyfrowa, cykl życia TIK, deklaracja dostępności, monitoring dostępności, przegląd dostępności, przegląd diagnostyczny, audyt zgodności, ocena stanu zgodności]
 opracowanie: Maciej Budzisz, Cezary Tomczyk
 wspolpraca: Stefan Wajda
-data_zgloszenia: 22 maja 2026 r. 
-ostatnia_aktualizacja: 15 września 2026 r. 
+data_zgloszenia: 22 maja 2026 r.
+ostatnia_aktualizacja: 15 września 2026 r.
 wersja_robocza: true
 ---
 
