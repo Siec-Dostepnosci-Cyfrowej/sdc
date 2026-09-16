@@ -9,7 +9,7 @@ tags: [treści cyfrowe,komunikacja cyfrowa,prosty język,dostępność cyfrowa,p
 opracowanie: Bartłomiej Wilk
 wspolpraca: Stefan Wajda
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 6 września 2026 r.
+ostatnia_aktualizacja: 16 września 2026 r.
 wersja_robocza: true
 ---
 
@@ -24,6 +24,8 @@ Standard określa zasady przygotowania treści cyfrowych w sposób zapewniający
 - możliwość wykorzystania w różnych kanałach komunikacji cyfrowej.
 
 Standard wspiera organizację procesów komunikacji cyfrowej i publikacji treści oraz realizację wymagań dostępności cyfrowej.
+
+Standard łączy wymagania dostępności cyfrowej z zasadami jakości i organizacji pracy. Jeżeli dane postanowienie wynika z WCAG, normy lub przepisu prawa, ocenia się je według właściwego wymagania. Pozostałe wskazówki wspierają czytelność, zrozumiałość i spójność materiałów, ale nie zastępują ani nie zmieniają wymagań normatywnych.
 
 ---
 
@@ -162,7 +164,7 @@ Treści powinny być publikowane w sposób zapewniający czytelność na różny
 
 W szczególności należy:
 
-- stosować odpowiedni kontrast,
+- stosować kontrast zgodny z właściwymi wymaganiami WCAG, jeżeli mają zastosowanie,
 - unikać nadmiernego zagęszczenia informacji,
 - zachowywać odpowiednie odstępy między elementami,
 - unikać nadmiernego wyróżniania tekstu,
