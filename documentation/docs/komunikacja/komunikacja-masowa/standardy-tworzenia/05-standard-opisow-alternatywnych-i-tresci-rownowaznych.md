@@ -9,7 +9,7 @@ tags: [treści cyfrowe,komunikacja cyfrowa,dostępność cyfrowa, opis alternaty
 opracowanie: Bartłomiej Wilk
 wspolpraca: Stefan Wajda
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 6 września 2026 r.
+ostatnia_aktualizacja: 16 września 2026 r.
 wersja_robocza: true
 ---
 
@@ -27,6 +27,8 @@ Celem standardu jest zapewnienie, aby informacje przekazywane:
 były dostępne również w innych formach odbioru.
 
 Standard wspiera realizację wymagań dostępności cyfrowej oraz organizację procesów komunikacji cyfrowej.
+
+Standard łączy wymagania dostępności cyfrowej z zasadami jakości i organizacji pracy. Jeżeli dane postanowienie wynika z WCAG, normy lub przepisu prawa, ocenia się je według właściwego wymagania. Pozostałe wskazówki wspierają czytelność, zrozumiałość i spójność materiałów, ale nie zastępują ani nie zmieniają wymagań normatywnych.
 
 ---
 
@@ -142,7 +144,9 @@ W szczególności należy zapewnić:
 - napisy rozszerzone obejmujące dialogi oraz istotne informacje przekazywane dźwiękiem,
 - opis treści wizualnej, gdy informacja istotna dla zrozumienia materiału jest przekazywana obrazem,
 - audiodeskrypcję, jeżeli jest wymagana dla zrozumienia materiału wideo,
-- inną równoważną formę tekstową, jeżeli jest właściwa dla kontekstu publikacji.
+- inną równoważną formę tekstową, jeżeli jest właściwa dla kontekstu publikacji i nie zastępuje rozwiązania wymaganego przez właściwe kryterium dostępności.
+
+Alternatywa tekstowa może uzupełniać materiał wideo, ale nie zastępuje audiodeskrypcji w sytuacji, w której audiodeskrypcja jest wymagana.
 
 Treści równoważne powinny umożliwiać odbiór informacji:
 - bez obrazu,
