@@ -9,7 +9,7 @@ tags: [treści cyfrowe,komunikacja cyfrowa,prosty język,dostępność cyfrowa,p
 opracowanie: Bartłomiej Wilk
 wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska, Stefan Wajda
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 6 września 2026 r.
+ostatnia_aktualizacja: 16 września 2026 r.
 wersja_robocza: true
 ---
 
@@ -24,6 +24,8 @@ Standard określa zasady projektowania, przygotowania i publikacji grafik oraz m
 - spójność komunikacji wizualnej organizacji.
 
 Standard wspiera organizację procesów komunikacji cyfrowej oraz realizację wymagań dostępności cyfrowej.
+
+Standard łączy wymagania dostępności cyfrowej z zasadami jakości i organizacji pracy. Jeżeli dane postanowienie wynika z WCAG, normy lub przepisu prawa, ocenia się je według właściwego wymagania. Pozostałe wskazówki wspierają czytelność, zrozumiałość i spójność materiałów, ale nie zastępują ani nie zmieniają wymagań normatywnych.
 
 ---
 
@@ -69,7 +71,7 @@ Elementy wizualne nie powinny być jedynym źródłem kluczowych informacji.
 Tekst oraz elementy informacyjne umieszczone na grafice powinny być czytelne i wyraźnie odróżniać się od tła.
 
 W szczególności należy:
-- zapewniać odpowiedni kontrast,
+- zapewniać kontrast zgodny z właściwymi wymaganiami WCAG, jeżeli mają zastosowanie,
 - unikać zestawień kolorystycznych utrudniających odczyt,
 - zapewniać czytelność tekstu niezależnie od rodzaju tła,
 - stosować rozwiązania poprawiające czytelność na tłach zdjęciowych lub dynamicznych.
