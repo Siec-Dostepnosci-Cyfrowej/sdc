@@ -9,7 +9,7 @@ tags: [treści cyfrowe,komunikacja cyfrowa,dostępność cyfrowa,arkusze kalkula
 opracowanie: Bartłomiej Wilk
 wspolpraca: Stefan Wajda
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 6 września 2026 r.
+ostatnia_aktualizacja: 16 września 2026 r.
 wersja_robocza: true
 ---
 
@@ -24,6 +24,8 @@ Standard określa zasady przygotowania arkuszy kalkulacyjnych w sposób zapewnia
 - możliwość dalszego przetwarzania i publikacji danych.
 
 Standard wspiera organizację procesów przygotowania i publikacji danych cyfrowych oraz realizację wymagań dostępności cyfrowej.
+
+Standard łączy wymagania dostępności cyfrowej z zasadami jakości i organizacji pracy. Jeżeli dane postanowienie wynika z WCAG, normy lub przepisu prawa, ocenia się je według właściwego wymagania. Pozostałe wskazówki wspierają czytelność, zrozumiałość i spójność materiałów, ale nie zastępują ani nie zmieniają wymagań normatywnych.
 
 ---
 
@@ -111,7 +113,7 @@ Nie należy:
 Formatowanie arkusza powinno wspierać czytelność danych.
 
 W szczególności należy:
-- stosować odpowiedni kontrast,
+- stosować kontrast zgodny z właściwymi wymaganiami WCAG, jeżeli mają zastosowanie,
 - zapewniać czytelne oznaczenia danych,
 - ograniczać nadmierną liczbę kolorów i efektów wizualnych,
 - zachowywać spójność formatowania.
@@ -155,7 +157,7 @@ Wykresy i elementy wizualne powinny:
 
 W szczególności należy:
 - opisywać osie i legendy,
-- zapewniać odpowiedni kontrast,
+- zapewniać kontrast zgodny z właściwymi wymaganiami WCAG, jeżeli mają zastosowanie,
 - unikać przekazywania informacji wyłącznie kolorem,
 - zapewniać treść równoważną dla istotnych wykresów.
 
