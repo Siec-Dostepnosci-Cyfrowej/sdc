@@ -9,7 +9,7 @@ tags: [treści cyfrowe,komunikacja cyfrowa,prosty język,dostępność cyfrowa,p
 opracowanie: Bartłomiej Wilk
 wspolpraca: Stefan Wajda
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 6 września 2026 r.
+ostatnia_aktualizacja: 16 września 2026 r.
 wersja_robocza: true
 ---
 
@@ -25,6 +25,8 @@ Standard określa zasady przygotowania i publikacji treści w mediach społeczno
 - zgodność komunikacji z zasadami jakości i dostępności.
 
 Standard wspiera organizację procesów komunikacji cyfrowej oraz realizację wymagań dostępności cyfrowej w kanałach społecznościowych.
+
+Standard łączy wymagania dostępności cyfrowej z zasadami jakości i organizacji pracy. Jeżeli dane postanowienie wynika z WCAG, normy lub przepisu prawa, ocenia się je według właściwego wymagania. Pozostałe wskazówki wspierają czytelność, zrozumiałość i spójność materiałów, ale nie zastępują ani nie zmieniają wymagań normatywnych.
 
 ---
 
@@ -111,7 +113,7 @@ Należy unikać:
 Grafiki publikowane w mediach społecznościowych powinny:
 
 - mieć opisy alternatywne — jeżeli platforma umożliwia ich dodanie; sposób oznaczenia grafik dekoracyjnych należy dostosować do możliwości platformy,
-- zachowywać odpowiedni kontrast,
+- zachowywać kontrast zgodny z właściwymi wymaganiami WCAG, jeżeli mają zastosowanie,
 - zapewniać czytelność tekstu,
 - umożliwiać odbiór informacji na urządzeniach mobilnych.
 
