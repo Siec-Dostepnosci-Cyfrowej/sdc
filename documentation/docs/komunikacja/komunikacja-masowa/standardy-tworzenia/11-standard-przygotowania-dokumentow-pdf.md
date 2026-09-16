@@ -9,7 +9,7 @@ tags: [treści cyfrowe,komunikacja cyfrowa,dostępność cyfrowa,PDF,PDF/UA, dok
 opracowanie: Bartłomiej Wilk
 wspolpraca: Stefan Wajda
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 6 września 2026 r.
+ostatnia_aktualizacja: 16 września 2026 r.
 wersja_robocza: true
 ---
 
@@ -24,6 +24,8 @@ Standard określa zasady przygotowania dokumentów PDF w sposób zapewniający:
 - możliwość korzystania z dokumentu przez różnych użytkowników.
 
 Standard wspiera organizację procesów publikacji dokumentów cyfrowych oraz realizację wymagań dostępności cyfrowej.
+
+Standard łączy wymagania dostępności cyfrowej z zasadami jakości i organizacji pracy. Jeżeli dane postanowienie wynika z WCAG, normy lub przepisu prawa, ocenia się je według właściwego wymagania. Pozostałe wskazówki wspierają czytelność, zrozumiałość i spójność materiałów, ale nie zastępują ani nie zmieniają wymagań normatywnych.
 
 ---
 
@@ -196,7 +198,7 @@ Elementy interaktywne powinny być możliwe do obsługi bez użycia myszy.
 Dokument PDF powinien zapewniać odpowiednią czytelność.
 
 W szczególności należy:
-- zapewniać odpowiedni kontrast,
+- zapewniać kontrast zgodny z właściwymi wymaganiami WCAG, jeżeli mają zastosowanie,
 - stosować czytelne kroje pisma,
 - zachowywać odpowiednie odstępy między elementami,
 - ograniczać nadmierne efekty wizualne.
