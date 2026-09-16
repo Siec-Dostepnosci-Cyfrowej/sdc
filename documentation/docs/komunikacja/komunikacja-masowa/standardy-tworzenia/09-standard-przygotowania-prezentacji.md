@@ -9,7 +9,7 @@ tags: [treści cyfrowe,komunikacja cyfrowa,dostępność cyfrowa,prezentacje,Pow
 opracowanie: Bartłomiej Wilk
 wspolpraca: Stefan Wajda
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 6 września 2026 r.
+ostatnia_aktualizacja: 16 września 2026 r.
 wersja_robocza: true
 ---
 
@@ -24,6 +24,8 @@ Standard określa zasady przygotowania prezentacji cyfrowych w sposób zapewniaj
 - możliwość dalszego wykorzystania i publikacji materiału.
 
 Standard wspiera organizację procesów komunikacji cyfrowej oraz realizację wymagań dostępności cyfrowej.
+
+Standard łączy wymagania dostępności cyfrowej z zasadami jakości i organizacji pracy. Jeżeli dane postanowienie wynika z WCAG, normy lub przepisu prawa, ocenia się je według właściwego wymagania. Pozostałe wskazówki wspierają czytelność, zrozumiałość i spójność materiałów, ale nie zastępują ani nie zmieniają wymagań normatywnych.
 
 ---
 
@@ -133,7 +135,7 @@ Prezentacja powinna zapewniać odpowiednią czytelność.
 W szczególności należy:
 - stosować czytelne kroje pisma,
 - zachowywać odpowiednią wielkość tekstu,
-- zapewniać odpowiedni kontrast,
+- zapewniać kontrast zgodny z właściwymi wymaganiami WCAG, jeżeli mają zastosowanie,
 - stosować ograniczoną liczbę fontów i kolorów.
 
 Nie należy:
@@ -187,7 +189,7 @@ powinny mieć równoważną treść lub wyjaśnienie w treści prezentacji.
 
 ## 10. Multimedia i elementy dynamiczne
 
-Materiały wideo umieszczane w prezentacji powinny mieć napisy rozszerzone, jeżeli zawierają dźwięk, oraz audiodeskrypcję lub właściwą alternatywę tekstową, jeżeli istotna informacja jest przekazywana wyłącznie wizualnie.
+Materiały wideo umieszczane w prezentacji powinny mieć napisy rozszerzone, jeżeli są wymagane dla danego materiału. Jeżeli istotna informacja jest przekazywana wyłącznie wizualnie, należy zapewnić audiodeskrypcję, gdy wymaga jej właściwe kryterium dostępności. Alternatywa tekstowa może stanowić uzupełnienie, ale nie zastępuje audiodeskrypcji w sytuacji, w której jest ona wymagana.
 
 Materiały audio umieszczane w prezentacji powinny mieć transkrypcję lub inną równoważną alternatywę tekstową.
 
