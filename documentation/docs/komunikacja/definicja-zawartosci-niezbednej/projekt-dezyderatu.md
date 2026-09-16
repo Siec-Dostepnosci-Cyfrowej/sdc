@@ -10,7 +10,7 @@ typ: dezyderat
 wymiar: Komunikacja
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 10 czerwca 2026 r.
-ostatnia_aktualizacja: 9 września 2026 r.
+ostatnia_aktualizacja: 16 września 2026 r.
 wersja_robocza: true
 ---
 
@@ -20,15 +20,15 @@ wersja_robocza: true
 
 ## 1. Zalecenie
 
-Minister Cyfryzacji inicjuje prace prowadzące do wypracowania i upowszechnienia jednoznaczniejszych kryteriów stosowania pojęcia „zawartości niezbędnej do realizacji bieżących zadań podmiotu publicznego”, w sposób ograniczający rozbieżności interpretacyjne przy stosowaniu art. 3 ust. 2 pkt 4 ustawy o dostępności cyfrowej.
+Minister Cyfryzacji inicjuje prace prowadzące do wypracowania i upowszechnienia jednoznaczniejszych kryteriów stosowania pojęcia „zawartości niezbędnej do realizacji bieżących zadań podmiotu publicznego”, w sposób ograniczający rozbieżności interpretacyjne przy stosowaniu art. 3 ust. 2 pkt 3 ustawy o dostępności cyfrowej.
 
 ## 2. Rekomendacje
 
 Celem rekomendowanych działań jest wybór rozwiązania prawnie właściwego i praktycznie skutecznego, bez przesądzania na obecnym etapie, czy konieczna jest zmiana ustawy.
 
 1. **Uzyskanie opinii prawnej lub eksperckiej.** Minister Cyfryzacji zapewnia analizę obejmującą:
-   - charakter prawny analizowanego zwrotu i zakres dopuszczalnej wykładni;
-   - relację pomiędzy art. 3 ust. 2 pkt 4 ustawy a art. 1 ust. 4 lit. a dyrektywy 2016/2102;
+   - charakter prawny analizowanego zwrotu oraz możliwe kierunki jego wykładni;
+   - relację pomiędzy art. 3 ust. 2 pkt 3 ustawy a art. 1 ust. 4 lit. a dyrektywy 2016/2102;
    - możliwość wystarczającego doprecyzowania przepisu przez oficjalne wyjaśnienia, wytyczne lub kryteria interpretacyjne;
    - ocenę, czy dla zapewnienia pewności i jednolitości stosowania prawa konieczna lub zasadna jest zmiana ustawowa.
 2. **Dobór właściwego instrumentu.** Minister Cyfryzacji dobiera na podstawie wyników analizy instrument odpowiedni do stwierdzonego problemu. Rozwiązanie może przyjąć formę wyjaśnień interpretacyjnych, wytycznych, katalogu przykładów, kryteriów pomocniczych albo – jeżeli rozwiązania pozalegislacyjne okażą się niewystarczające – zmiany przepisów.
@@ -61,11 +61,13 @@ Problem ma również wymiar użytkowy. Dokument może nie być aktywnie wykorzys
 
 Polski ustawodawca posłużył się innym sformułowaniem: „zawartość niezbędna do realizacji bieżących zadań podmiotu publicznego”. Uzasadnienie projektu ustawy i ocena skutków regulacji nie wskazują kryteriów pozwalających jednoznacznie ustalić relację pomiędzy pojęciem użytym w dyrektywie a pojęciem przyjętym w ustawie krajowej.
 
-Oczekiwanym rezultatem dezyderatu nie jest samo wprowadzenie definicji legalnej, lecz usunięcie lub istotne ograniczenie rozbieżności interpretacyjnych związanych ze stosowaniem art. 3 ust. 2 pkt 4 ustawy. Rozwiązanie może mieć charakter interpretacyjny, organizacyjny albo legislacyjny, zależnie od wyniku dalszej analizy prawnej.
+Oczekiwanym rezultatem dezyderatu nie jest samo wprowadzenie definicji legalnej, lecz usunięcie lub istotne ograniczenie rozbieżności interpretacyjnych związanych ze stosowaniem art. 3 ust. 2 pkt 3 ustawy. Rozwiązanie może mieć charakter interpretacyjny, organizacyjny albo legislacyjny, zależnie od wyniku dalszej analizy prawnej.
+
+Wypracowane kryteria i przykłady mają wspierać bardziej jednolite stosowanie tego konkretnego wyłączenia i nie zastępują indywidualnej oceny danego przypadku. Nie mogą być traktowane jako ogólna podstawa do ograniczania obowiązku zapewnienia dostępności cyfrowej innych treści.
 
 ## 4. Podstawy prawne
 
-W zaleceniu uwzględniono poniżej wymienione przepisy:
+W dezyderacie uwzględniono poniżej wymienione przepisy:
 
 1. Art. 3 ust. 2 pkt 4 ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych, z późn. zmianami (Dz. U. z 2023 r. poz. 1440).
 2. Art. 1 ust. 4 lit. a dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/2102 z dnia 26 października 2016 r. w sprawie dostępności stron internetowych i mobilnych aplikacji organów sektora publicznego (Dz. Urz. UE L 327 z 2.12.2016, s. 1, z późn. zm.).
@@ -86,6 +88,7 @@ W zaleceniu uwzględniono poniżej wymienione przepisy:
 | 0.1 | 10.06.2026 | Projekt roboczy | Pierwsza wersja projektu dezyderatu. |
 | 0.2 | 06.09.2026 | Aktualizacja po dyskusji | Rezygnacja z przesądzania definicji legalnej jako rozwiązania oraz uwzględnienie opinii prawnej, rozwiązań pozalegislacyjnych i kryteriów interpretacyjnych. |
 | 0.3 | 09.09.2026 | Aktualizacja po weryfikacji | Dostosowanie dezyderatu do wspólnej struktury i języka dokumentów SDC, uporządkowanie postulatu, rekomendacji, podstaw prawnych, źródeł i historii wersji. |
+| 0.4 | 16.09.2026 | Aktualizacja po dyskusji | Poprawienie podstawy prawnej, doprecyzowanie charakteru analizy prawnej oraz ograniczenie stosowania kryteriów pomocniczych do wyłączenia dotyczącego starszych dokumentów. |
 
 ## Załączniki
 
