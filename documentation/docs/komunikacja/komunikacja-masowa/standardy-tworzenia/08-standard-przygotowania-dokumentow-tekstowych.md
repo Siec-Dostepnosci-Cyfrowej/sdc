@@ -9,7 +9,7 @@ tags: [treści cyfrowe,komunikacja cyfrowa,dostępność cyfrowa,dokumenty tekst
 opracowanie: Bartłomiej Wilk
 wspolpraca: Stefan Wajda
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 6 września 2026 r.
+ostatnia_aktualizacja: 16 września 2026 r.
 wersja_robocza: true
 ---
 
@@ -24,6 +24,8 @@ Standard określa zasady przygotowania dokumentów tekstowych w sposób zapewnia
 - możliwość dalszego przetwarzania i publikacji dokumentów.
 
 Standard wspiera organizację procesów przygotowania i publikacji dokumentów cyfrowych oraz realizację wymagań dostępności cyfrowej.
+
+Standard łączy wymagania dostępności cyfrowej z zasadami jakości i organizacji pracy. Jeżeli dane postanowienie wynika z WCAG, normy lub przepisu prawa, ocenia się je według właściwego wymagania. Pozostałe wskazówki wspierają czytelność, zrozumiałość i spójność materiałów, ale nie zastępują ani nie zmieniają wymagań normatywnych.
 
 ---
 
@@ -192,7 +194,7 @@ Należy unikać:
 Dokument powinien zapewniać odpowiednią czytelność.
 
 W szczególności należy:
-- zapewniać odpowiedni kontrast,
+- zapewniać kontrast zgodny z właściwymi wymaganiami WCAG, jeżeli mają zastosowanie,
 - stosować czytelne kroje pisma,
 - zachowywać odpowiednie odstępy między akapitami i liniami,
 - ograniczać nadmierne wyróżnianie tekstu.
