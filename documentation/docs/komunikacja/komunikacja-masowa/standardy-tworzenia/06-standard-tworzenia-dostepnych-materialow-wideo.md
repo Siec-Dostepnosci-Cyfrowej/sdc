@@ -9,7 +9,7 @@ tags: [treści cyfrowe,komunikacja cyfrowa,dostępność cyfrowa,wideo, multimed
 opracowanie: Bartłomiej Wilk
 wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska, Stefan Wajda
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 6 września 2026 r.
+ostatnia_aktualizacja: 16 września 2026 r.
 wersja_robocza: true
 ---
 
@@ -24,6 +24,8 @@ Standard określa zasady przygotowania i publikacji materiałów wideo w sposób
 - spójność komunikacji organizacji.
 
 Standard wspiera organizację procesów komunikacji cyfrowej oraz realizację wymagań dostępności cyfrowej.
+
+Standard łączy wymagania dostępności cyfrowej z zasadami jakości i organizacji pracy. Jeżeli dane postanowienie wynika z WCAG, normy lub przepisu prawa, ocenia się je według właściwego wymagania. Pozostałe wskazówki wspierają czytelność, zrozumiałość i spójność materiałów, ale nie zastępują ani nie zmieniają wymagań normatywnych.
 
 ---
 
@@ -114,13 +116,13 @@ Napisy generowane automatycznie wymagają weryfikacji i korekty przed publikacj�
 
 Materiał wideo powinien mieć formę umożliwiającą odbiór informacji bez obrazu.
 
-Jeżeli istotna informacja jest przekazywana wizualnie i nie wynika z głównej ścieżki dźwiękowej, należy zapewnić audiodeskrypcję lub właściwą alternatywę tekstową, zależnie od charakteru materiału i kontekstu publikacji.
+Jeżeli istotna informacja jest przekazywana wizualnie i nie wynika z głównej ścieżki dźwiękowej, należy zapewnić audiodeskrypcję, gdy wymaga jej właściwe kryterium dostępności. Alternatywa tekstowa może uzupełniać materiał, ale nie zastępuje audiodeskrypcji w sytuacji, w której jest ona wymagana.
 
 W zależności od charakteru materiału formą równoważną może być:
 - transkrypcja,
 - opis istotnych elementów wizualnych,
 - audiodeskrypcja,
-- inna równoważna alternatywa tekstowa.
+- inna równoważna alternatywa tekstowa jako uzupełnienie, jeżeli jest właściwa dla kontekstu publikacji.
 
 Treści równoważne powinny:
 - przekazywać sens materiału,
@@ -136,10 +138,10 @@ Jeżeli wszystkie istotne informacje wizualne są już przekazane w głównej ś
 Elementy wizualne materiału powinny być czytelne na różnych urządzeniach.
 
 W szczególności należy:
-- zapewniać odpowiedni kontrast,
+- zapewniać kontrast zgodny z właściwymi wymaganiami WCAG, jeżeli mają zastosowanie,
 - stosować czytelne kroje pisma,
 - ograniczać liczbę jednocześnie prezentowanych informacji,
-- zapewniać odpowiednią wielkość tekstu.
+- dobierać wielkość tekstu tak, aby pozostawał czytelny na docelowych urządzeniach; jest to wskazówka jakościowa, o ile dla danego elementu nie ma zastosowania konkretne wymaganie normatywne.
 
 Należy unikać:
 - zbyt małego tekstu,
