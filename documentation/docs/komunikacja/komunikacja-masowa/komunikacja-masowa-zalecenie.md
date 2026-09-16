@@ -11,7 +11,7 @@ wymiar: Komunikacja
 opracowanie: Stefan Wajda, Bartłomiej Wilk
 wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska
 data_zgloszenia: 30 kwietnia 2026 r.
-ostatnia_aktualizacja: 12 września 2026 r.
+ostatnia_aktualizacja: 16 września 2026 r.
 wersja_robocza: true
 ---
 
@@ -72,7 +72,7 @@ Zakres standardów obejmuje dokumenty cyfrowe, treści internetowe, materiały m
 
 ## 4. Uzasadnienie
 
-W praktyce działania wielu organizacji przygotowanie i publikacja treści cyfrowych odbywają się w sposób niespójny i zależny od indywidualnych praktyk poszczególnych osób lub zespołów. Powoduje to powstawanie barier dostępności, niespójność komunikacji, trudności w utrzymaniu jakości, zwiększenie liczby błędów oraz konieczność późniejszych działań naprawczych.
+W wielu organizacjach sposób przygotowywania i publikowania treści cyfrowych nie jest ujednolicony. Często zależy od praktyk poszczególnych osób lub zespołów. Prowadzi to do barier dostępności, niespójnej komunikacji, większej liczby błędów i konieczności późniejszych poprawek.
 
 Przepisy prawa i normy techniczne określają wymagania dostępności, ale nie odpowiadają na wszystkie pytania pojawiające się w codziennej pracy redakcyjnej. Wewnętrzne standardy przekładają te wymagania na zasady możliwe do zastosowania podczas przygotowania konkretnych typów treści, dzięki czemu ograniczają uznaniowość i ułatwiają zachowanie powtarzalnej jakości.
 
@@ -106,6 +106,7 @@ W zaleceniu uwzględniono poniżej wymienione przepisy:
 | 0.5 | 09.09.2026 | Aktualizacja po recenzji | Dostosowanie do zasad formowania zaleceń, uporządkowanie podstaw prawnych, źródeł i historii wersji. |
 | 0.6 | 09.09.2026 | Aktualizacja po weryfikacji | Usunięcie modalnego sformułowania z rekomendacji dotyczącej sposobu wdrożenia standardów. |
 | 0.7 | 12.09.2026 | Aktualizacja struktury | Dodanie sekcji „Cel zalecenia” na początku dokumentu i dostosowanie numeracji dalszych części. |
+| 0.8 | 16.09.2026 | Aktualizacja po dyskusji | Uproszczenie języka uzasadnienia oraz rozpoczęcie przeglądu horyzontalnego standardów pod kątem spójności wymagań i zasad jakościowych. |
 
 ## Załączniki
 
