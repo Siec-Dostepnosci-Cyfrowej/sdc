@@ -9,7 +9,7 @@ tags: [treści cyfrowe,komunikacja cyfrowa,prosty język,dostępność cyfrowa,p
 opracowanie: Bartłomiej Wilk
 wspolpraca: Joanna Kapa, Damian Żłobicki, Aleksandra Cybulska, Stefan Wajda
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 6 września 2026 r.
+ostatnia_aktualizacja: 16 września 2026 r.
 wersja_robocza: true
 ---
 
@@ -26,6 +26,8 @@ Celem standardu jest zapewnienie, aby komunikaty były:
 - spójne niezależnie od kanału publikacji.
 
 Standard wspiera organizację procesów komunikacji cyfrowej oraz realizację wymagań dostępności cyfrowej.
+
+Standard łączy wymagania dostępności cyfrowej z zasadami jakości i organizacji pracy. Jeżeli dane postanowienie wynika z WCAG, normy lub przepisu prawa, ocenia się je według właściwego wymagania. Pozostałe wskazówki wspierają czytelność, zrozumiałość i spójność materiałów, ale nie zastępują ani nie zmieniają wymagań normatywnych.
 
 ---
 
