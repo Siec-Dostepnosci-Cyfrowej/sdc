@@ -8,7 +8,7 @@ keywords: [dostępność cyfrowa,cykl życia rozwiązania,proces użytkownika,ci
 tags: [dostępność cyfrowa,cykl życia rozwiązania,proces użytkownika,ciągłość wymagań,zmiana rozwiązania]
 opracowanie: Paulina Wysakowska
 data_zgloszenia: 19 sierpnia 2026 r.
-ostatnia_aktualizacja: 19 sierpnia 2026 r.
+ostatnia_aktualizacja: 17 września 2026 r.
 wersja_robocza: true
 ---
 
@@ -31,7 +31,7 @@ Organizacja zapewnia ciągłość dostępności cyfrowej oraz wiedzy o jej stani
 
 Organizacja rozpoznaje etapy cyklu życia użytkowanego rozwiązania cyfrowego oraz decyzje, które rozstrzygają o przejściu do kolejnego etapu. Etapy te obejmują:
 
-- rozpoznanie potrzeby i wybór sposobu jej zaspokojenia, zakończone decyzją o nabyciu gotowego rozwiązania, zamówieniu rozwiązania na potrzeby organizacji albo skorzystaniu z rozwiązania udostępnionego przez inny podmiot;
+- rozpoznanie potrzeby i wybór sposobu jej zaspokojenia, zakończone decyzją o skorzystaniu z rozwiązania istniejącego w organizacji, samodzielnym wytworzeniu rozwiązania, nabyciu gotowego rozwiązania, zamówieniu rozwiązania na potrzeby organizacji albo skorzystaniu z rozwiązania udostępnionego przez inny podmiot;
 - przygotowanie i przeprowadzenie zamówienia, zakończone zatwierdzeniem przedmiotu zamówienia i warunków umowy;
 - odbiór i uruchomienie, zakończone odbiorem rezultatów zamówienia oraz dopuszczeniem skonfigurowanego rozwiązania do użytkowania w organizacji;
 - użytkowanie, utrzymanie i wprowadzanie zmian, obejmujące decyzje o dopuszczeniu poszczególnych zmian, o przedłużeniu umowy utrzymaniowej oraz o zmianie podmiotu utrzymującego rozwiązanie;
@@ -45,7 +45,7 @@ Sposób prowadzenia działań na poszczególnych etapach określają odrębne do
 
 ### 2.2 Ciągłość dostępności i wiedzy o jej stanie między etapami
 
-Organizacja zapewnia, że przy przejściu do kolejnego etapu cyklu życia zachowane zostają: określone wcześniej wymagania dostępności, wiedza o stanie dostępności rozwiązania wraz ze znanymi barierami, podjęte decyzje wraz z ich przyczynami oraz zobowiązania przyjęte przez wykonawcę lub podmiot utrzymujący rozwiązanie.
+Organizacja zapewnia, że przy przejściu do kolejnego etapu cyklu życia zachowane zostają: określone wcześniej wymagania dostępności, wiedza o stanie dostępności rozwiązania wraz ze znanymi barierami, podjęte decyzje wraz z ich przyczynami oraz zobowiązania przyjęte przez organizację, wykonawcę lub podmiot utrzymujący rozwiązanie.
 
 Organizacja określa dla danego rozwiązania jeden zestaw wymagań dostępności i wykorzystuje go w opisie przedmiotu zamówienia, w warunkach umowy, w warunkach odbioru, w wymaganiach wobec podmiotu utrzymującego rozwiązanie oraz przy ustalaniu zakresu sprawdzeń po zmianach. Wymagania formułuje w sposób umożliwiający sprawdzenie ich spełnienia i wskazuje sposób wykazania zgodności.
 
@@ -53,7 +53,7 @@ Zmianę wymagań organizacja odnotowuje wraz z przyczyną, którą może być zm
 
 Wyniki oceny stanu dostępności organizacja wykorzystuje przy decyzji o przedłużeniu umowy utrzymaniowej oraz przy decyzji o dalszym użytkowaniu rozwiązania.
 
-Zmiana osób, wykonawców, podmiotu utrzymującego rozwiązanie ani wersji rozwiązania nie zwalnia organizacji z zachowania tej ciągłości. Organizacja ustala sposób przekazania tych informacji przy każdej takiej zmianie.
+Zmiana osób, wykonawców, podmiotu utrzymującego rozwiązanie ani wersji rozwiązania nie zwalnia organizacji z zachowania tej ciągłości. Organizacja ustala sposób przekazania tych informacji przy każdej takiej zmianie, a w przypadku wykonawcy lub podmiotu utrzymującego rozwiązanie określa go już w umowie, w postanowieniach dotyczących zakończenia współpracy.
 
 Stan dostępności potwierdzony na wcześniejszym etapie stanowi punkt odniesienia dla etapów kolejnych. Obniżenie tego stanu wymaga decyzji osoby odpowiedzialnej za rozwiązanie oraz odnotowania jej przyczyny.
 
