@@ -58,7 +58,7 @@ wersja_robocza: true
 - [ ] Player multimedialny jest dostępny z klawiatury i dla czytników ekranu.
 - [ ] Brak automatycznego odtwarzania lub możliwość jego wyłączenia.
 - [ ] Materiały nie zawierają migających elementów (bezpieczne dla osób z epilepsją).
-- UWAGA: Bardziej korzystne jest przygotowanie napisów w postaci "zamkniętej" - oddzielnego pliku np. .srt - jednak, gdy nie ma takiej możliwości, kryterium realizuja także napisy "otwarte" - zintegrowane w obrazem wideo. 
+- UWAGA: Bardziej korzystne jest przygotowanie napisów w postaci „zamkniętej" - oddzielnego pliku np. .srt - jednak, gdy nie ma takiej możliwości, kryterium realizuja także napisy „otwarte" - zintegrowane w obrazem wideo. 
 
 ---
 

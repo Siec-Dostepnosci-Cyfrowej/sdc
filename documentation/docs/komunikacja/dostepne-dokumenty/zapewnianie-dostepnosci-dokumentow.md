@@ -146,35 +146,7 @@ Wyniki monitorowania są wykorzystywane do:
 
 ---
 
-## 4. Powiązania z innymi zaleceniami
-
-Zalecenie stanowi element systemu zapewniania dostępności komunikacji cyfrowej.
-
-W szczególności pozostaje powiązane z zaleceniami:
-
-- Organizacja procesów komunikacji cyfrowej i publikacji treści,
-- Zarządzanie standardami tworzenia i publikacji treści cyfrowych,
-- Kontrola dostępności przed publikacją,
-- Treści od innych podmiotów,
-- Zarządzanie publicznie udostępnianymi dokumentami,
-- Systemowe zarządzanie kompetencjami w zakresie dostępności cyfrowej.
-
-Zalecenie nie zastępuje standardów tworzenia treści, procedur kontroli dostępności ani zasad zarządzania zasobem dokumentów, lecz określa sposób zapewniania dostępności dokumentów wykorzystywanych przez organizację.
-
-
----
-
-## 5. Podstawy prawne
-
-1. Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
-2. Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami.
-3. Norma EN 301 549 Accessibility requirements for ICT products and services.
-4. Wytyczne WCAG jako podstawa oceny dostępności treści cyfrowych.
-5. Dyrektywa Parlamentu Europejskiego i Rady (UE) 2019/882 (Europejski Akt o Dostępności).
-
----
-
-## 6. Uzasadnienie
+## 4. Uzasadnienie
 
 Dokumenty cyfrowe stanowią jeden z podstawowych sposobów przekazywania informacji oraz realizacji zadań publicznych.
 
@@ -209,7 +181,17 @@ Wdrożenie spójnego modelu organizacyjnego:
 
 ---
 
-## 7. Źródła i opracowania
+## 5. Podstawy prawne
+
+1. Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
+2. Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami.
+3. Norma EN 301 549 Accessibility requirements for ICT products and services.
+4. Wytyczne WCAG jako podstawa oceny dostępności treści cyfrowych.
+5. Dyrektywa Parlamentu Europejskiego i Rady (UE) 2019/882 (Europejski Akt o Dostępności).
+
+---
+
+## 6. Źródła i opracowania
 
 1. W3C WAI, *Web Content Accessibility Guidelines (WCAG)*  
 2. EN 301 549 Accessibility requirements for ICT products and services  
@@ -219,4 +201,20 @@ Wdrożenie spójnego modelu organizacyjnego:
 6. Materiały szkoleniowe i opracowania dotyczące dostępnych dokumentów cyfrowych
 
 ---
+
+## 7. Powiązania z innymi zaleceniami
+
+Zalecenie stanowi element systemu zapewniania dostępności komunikacji cyfrowej.
+
+W szczególności pozostaje powiązane z zaleceniami:
+
+- Organizacja procesów komunikacji cyfrowej i publikacji treści,
+- Zarządzanie standardami tworzenia i publikacji treści cyfrowych,
+- Kontrola dostępności przed publikacją,
+- Treści od innych podmiotów,
+- Zarządzanie publicznie udostępnianymi dokumentami,
+- Systemowe zarządzanie kompetencjami w zakresie dostępności cyfrowej.
+
+Zalecenie nie zastępuje standardów tworzenia treści, procedur kontroli dostępności ani zasad zarządzania zasobem dokumentów, lecz określa sposób zapewniania dostępności dokumentów wykorzystywanych przez organizację.
+
 

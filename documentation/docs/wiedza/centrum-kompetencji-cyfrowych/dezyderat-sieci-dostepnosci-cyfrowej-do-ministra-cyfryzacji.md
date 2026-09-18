@@ -2,7 +2,7 @@
 id: dezyderat-sieci-dostepnosci-cyfrowej-do-ministra-cyfryzacji
 title: Dezyderat Sieci Dostępności Cyfrowej w sprawie powołania Centrum Kompetencji Dostępności Cyfrowej
 description: Dezyderat Sieci Dostępności Cyfrowej skierowany do Ministra Cyfryzacji w sprawie utworzenia Centrum Kompetencji Dostępności Cyfrowej
-sidebar_label: Dezyderat w sprawie powołania CKDC
+sidebar_label: Dezyderat
 sidebar_position: 0
 keywords: [cykl życia TIK, dostępność cyfrowa, dobre praktyki, zalecenia, Centrum Kompetencji Dostępności Cyfrowej]
 tags: [cykl życia TIK, dostępność cyfrowa,dobre praktyki, zalecenia, Centrum Kompetencji Dostępności Cyfrowej]
@@ -102,3 +102,16 @@ Sieć Dostępności Cyfrowej deklaruje gotowość współpracy przy tworzeniu i 
 
 > Dokument przyjęty w drodze konsensusu w ramach prac Sieci Dostępności Cyfrowej  
 > w dniu ………………… 2025 r.
+
+## 9. Załączniki
+
+1. [Koncepcja Centrum Kompetencji Dostępności Cyfrowej](koncepcja-CKDC)
+2. [Polityka certyfikacji Centrum Kompetencji Dostępności Cyfrowej (CKDC)](polityka-certyfikacji-ckdc)
+3. [Wykaz mikropoświadczeń CKDC – tabela bazowa (wersja robocza)](z1-wykaz_mikropoświadczeń_CKDC)
+4. [Procedura akredytacji ośrodków szkoleniowych Centrum Kompetencji Dostępności Cyfrowej (CKDC)](z2-procedura-akredytacji-osrodkow-szkoleniowych)
+5. [Wzory formularzy walidacyjnych i raportów oceny ](z3-wzory-formularzy-walidacyjnych-i-raportow-oceny)
+6. [Wzory dokumentów dla kandydatów](z4-wzory-dokumentow-dla-kandydatow)
+7. [Instrukcja rejestracji i publikacji mikropoświadczeń CKDC w systemie Europass Digital Credentials (EDC)](z5-instrukcja-rejestracji-i-publikacji-mikroposwiadczen)
+8. [Instrukcja stosowania identyfikatorów i metadanych CKDC ](z6-instrukcja-stosowania-identyfikatorów-i-metadanych)
+9. [Procedura aktualizacji i przeglądu mikropoświadczeń CKDC  ](z7-procedura-aktualizacji-i-przegladu-mikroposwiadczen)
+10. Projekty mikropoświadczeń

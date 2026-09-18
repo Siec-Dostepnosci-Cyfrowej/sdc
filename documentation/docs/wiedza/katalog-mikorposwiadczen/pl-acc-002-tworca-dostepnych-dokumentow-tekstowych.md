@@ -1,5 +1,5 @@
 ---
-id: pl-acc-002-twórca-dostępnych-dokumentów-tekstowych
+id: pl-acc-002-tworca-dostepnych-dokumentów-tekstowych
 title: Twórca dostępnych dokumentów tekstowych
 sidebar_label: Twórca dokumentów tekstowych
 sidebar_position: 11

@@ -15,10 +15,12 @@ const _require = createRequire(__filename);
 const baseUrl = process.env.BASE_URL || '/sdc/';
 const basePath = baseUrl === '/' ? '' : baseUrl.replace(/\/$/, '');
 const remarkGlossaryFirstOccurrence = _require('./src/remark/glossary-first-occurrence.cjs');
+const baseUrl = process.env.BASE_URL || '/sdc/';
+const glossaryRoutePath = `${baseUrl.replace(/\/$/, '')}/slownik`;
 const glossaryOptions = {
     glossaryPath: 'slownik/slownik.json',
-    routePath: './slownik',
-    siteDir: __dirname,
+
+  siteDir: __dirname,
     expandAcronymsOnFirstUse: true,
     linkOnlyFirstOccurrence: true,   // ← tylko pierwsze wystąpienie na plik
 };
@@ -41,7 +43,14 @@ const config: Config = {
     staticDirectories: ['static'],
 
     onBrokenLinks: 'throw',
-    onBrokenMarkdownLinks: 'warn',
+
+    markdown: {
+        hooks: {
+            onBrokenMarkdownLinks: 'warn',
+        },
+    },
+
+
 
     future: {
         v4: false,
@@ -77,7 +86,7 @@ const config: Config = {
             'docusaurus-plugin-glossary',
             {
                 glossaryPath: 'slownik/slownik.json',
-                routePath: `${basePath}/slownik`,
+                routePath: glossaryRoutePath,
             },
         ],
     ],
@@ -191,7 +200,7 @@ const config: Config = {
 
                     ],
                 },
-                { to: '/slownik', label: 'Słownik', position: 'left' },
+                { href: 'https://siec-dostepnosci-cyfrowej.github.io/sdc/slownik', label: 'Słownik', position: 'left' },
                 { to: '/blog', label: 'Blog', position: 'left' },
                 {
                     href: 'https://github.com/Siec-Dostepnosci-Cyfrowej/sdc',

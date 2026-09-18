@@ -1,7 +1,7 @@
 ---
 id: opracowanie-podstawy-testowania
 title: Dezyderat w sprawie opracowania państwowej „Podstawy testowania zgodności” produktów i usług cyfrowych
-sidebar_label: Projekt dezyderatu
+sidebar_label: Dezyderat
 sidebar_position: 0
 description: Projekt dezyderatu wniosku do Ministra Cyfryzacji o podjęcie prac nad opracowaniem jednolitej, referencyjnej „Podstawy testowania zgodności” produktów i usług cyfrowych 
 keywords: [cykl życia TIK, dostępność cyfrowa, testowanie dostępności, przegląd dostępności, audyt dostępności, dezyderat]
@@ -205,3 +205,12 @@ Jednolita „Podstawa testowania zgodności”:
 - przyczyni się do budowy dojrzałego i stabilnego systemu oceny dostępności w Polsce.
 
 Sieć Dostępności Cyfrowej deklaruje gotowość udziału w pracach eksperckich nad opracowaniem takiej metodyki.
+
+
+## IX Załączniki
+
+- [Podstawa testowania zgodności TIK z EN 301 549](podstawa-testowania-zgodnosci)
+- [Model dojrzałości monitoringu (W3C Accessibility Maturity Model – AMM)](model-dojrzalosci-monitoringu)
+- [Profil Fundamenty zgodności](profil-fundamentow)
+- [Wzorcowa procedura testowa (KS 1.3.1 Informacje i relacje)](wzorcowa-procedura-testowa)
+- [Kontekst regulacyjny EAA i wykazanie zgodności](kontekst-regulacyjny-EAA)

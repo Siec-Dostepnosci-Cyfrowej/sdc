@@ -3,7 +3,7 @@ id: sposoby-angazowania-osob-z-niepelnosprawnosciami
 title: Sposoby angażowania osób z niepełnosprawnościami w działania związane z dostępnością cyfrową
 description: Przykłady działań umożliwiających wykorzystywanie wiedzy, doświadczeń i perspektywy osób z niepełnosprawnościami podczas rozwijania dostępności cyfrowej.
 sidebar_label: Sposoby angażowania osób z niepełnosprawnościami
-sidebar_position: 0
+sidebar_position: 1
 keywords: [osoby z niepełnosprawnościami, zatrudnianie, dostępność cyfrowa, kompetencje,konsultacje, testowanie, ERG]
 tags: [osoby z niepełnosprawnościami, zatrudnianie, dostępność cyfrowa, kompetencje,konsultacje, testowanie, ERG]
 opracowanie: Stefan Wajda
@@ -19,6 +19,8 @@ Celem dokumentu jest przedstawienie przykładowych sposobów angażowania osób 
 
 Przedstawione rozwiązania mogą być stosowane samodzielnie lub łączone ze sobą, w zależności od wielkości organizacji, posiadanych zasobów i stopnia rozwoju systemu zarządzania dostępnością cyfrową.
 
+---
+
 ## 2. Zasady angażowania
 
 Niezależnie od wybranej formy współpracy warto kierować się następującymi zasadami:
@@ -29,6 +31,8 @@ Niezależnie od wybranej formy współpracy warto kierować się następującymi
 - uczestnicy powinni otrzymywać informację zwrotną;
 - należy uwzględniać różnorodność doświadczeń i potrzeb;
 - udział nie powinien prowadzić do nadmiernego obciążania tych samych osób dodatkowymi obowiązkami.
+
+---
 
 ## 3. Konsultacje indywidualne
 
@@ -44,6 +48,8 @@ Konsultacje mogą dotyczyć:
 
 Rozwiązanie jest szczególnie przydatne w małych organizacjach.
 
+---
+
 ## 4. Rozmowy i konsultacje okresowe
 
 Organizacja może regularnie organizować spotkania poświęcone doświadczeniom pracowników związanym z korzystaniem z technologii i usług cyfrowych.
@@ -54,6 +60,8 @@ Celem takich spotkań może być:
 - omawianie proponowanych usprawnień;
 - ocena skuteczności wdrożonych rozwiązań;
 - zbieranie pomysłów dotyczących dalszych działań.
+
+---
 
 ## 5. Testowanie rozwiązań cyfrowych przez pracowników
 
@@ -68,6 +76,8 @@ Pracownicy mogą uczestniczyć w testowaniu:
 
 Takie testy mogą być realizowane przed wdrożeniem rozwiązania, po aktualizacjach lub podczas okresowych ocen dostępności.
 
+---
+
 ## 6. Udział w odbiorach systemów i usług
 
 Osoby z niepełnosprawnościami mogą uczestniczyć w odbiorach:
@@ -80,6 +90,8 @@ Osoby z niepełnosprawnościami mogą uczestniczyć w odbiorach:
 
 Ich udział może stanowić uzupełnienie testów eksperckich oraz ocen zgodności.
 
+---
+
 ## 7. Udział w pracach zespołów i grup roboczych
 
 Pracownicy mogą uczestniczyć w:
@@ -91,7 +103,9 @@ Pracownicy mogą uczestniczyć w:
 
 Rozwiązanie to pozwala uwzględniać perspektywę użytkowników już na etapie planowania działań.
 
-## 8. Grupy Zasobów Pracowniczych (Employee Resource Groups – ERG)
+---
+ 
+ ## 8. Grupy Zasobów Pracowniczych (Employee Resource Groups – ERG)
 
 Grupy Zasobów Pracowniczych są dobrowolnymi grupami tworzonymi przez pracowników posiadających wspólne doświadczenia, zainteresowania lub potrzeby.
 
@@ -106,6 +120,8 @@ W obszarze dostępności cyfrowej ERG mogą:
 
 ERG mogą działać formalnie lub nieformalnie.
 
+---
+
 ## 9. Panel konsultacyjny
 
 Organizacja może utworzyć stałą grupę konsultacyjną składającą się z pracowników zainteresowanych tematyką dostępności cyfrowej.
@@ -116,6 +132,8 @@ Panel może być wykorzystywany do:
 - oceny proponowanych rozwiązań;
 - konsultowania polityk i procedur;
 - analizowania problemów zgłaszanych przez użytkowników.
+
+---
 
 ## 10. Udział w działaniach szkoleniowych
 
@@ -128,6 +146,8 @@ Pracownicy z niepełnosprawnościami mogą uczestniczyć w:
 
 Takie działania pomagają lepiej zrozumieć praktyczny wymiar dostępności cyfrowej.
 
+---
+
 ## 11. Współtworzenie standardów i procedur
 
 Organizacja może angażować osoby z niepełnosprawnościami w opracowywanie:
@@ -137,6 +157,8 @@ Organizacja może angażować osoby z niepełnosprawnościami w opracowywanie:
 - wymagań zakupowych;
 - wytycznych projektowych;
 - materiałów informacyjnych.
+
+---
 
 ## 12. Dobór sposobów angażowania
 
@@ -152,3 +174,5 @@ Większe organizacje mogą dodatkowo wykorzystywać:
 - formalne procesy testowania i opiniowania.
 
 Najlepsze rezultaty przynosi zwykle łączenie kilku sposobów angażowania oraz systematyczne wykorzystywanie pozyskiwanych doświadczeń podczas podejmowania decyzji dotyczących dostępności cyfrowej.
+
+---

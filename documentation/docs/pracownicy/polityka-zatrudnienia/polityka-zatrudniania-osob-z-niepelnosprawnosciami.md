@@ -106,28 +106,18 @@ Organizacja powinna rozważać możliwość wykorzystywania kompetencji i doświ
 
 Organizacja uwzględnia ocenę skuteczności polityki zatrudniania osób z niepełnosprawnościami w okresowych przeglądach swojego systemu zarządzania oraz wykorzystuje wyniki tych ocen do planowania działań doskonalących.
 
-* zatrudniania osób z niepełnosprawnościami, w tym zmian liczby zatrudnionych pracowników;
-* dostępności i skuteczności procesów rekrutacji oraz wdrażania nowych pracowników;
-* możliwości rozwoju zawodowego pracowników z niepełnosprawnościami, w tym ich udziału w szkoleniach, projektach i awansach;
-* przypadków zakończenia zatrudnienia oraz przyczyn odejść pracowników, jeżeli mogą wskazywać na bariery w środowisku pracy;
-* barier utrudniających zatrudnianie, wykonywanie pracy i rozwój zawodowy osób z niepełnosprawnościami;
-* dostępności środowiska pracy oraz skuteczności działań podejmowanych w celu jego doskonalenia.
+- zatrudniania osób z niepełnosprawnościami, w tym zmian liczby zatrudnionych pracowników;
+- dostępności i skuteczności procesów rekrutacji oraz wdrażania nowych pracowników;
+- możliwości rozwoju zawodowego pracowników z niepełnosprawnościami, w tym ich udziału w szkoleniach, projektach i awansach;
+- przypadków zakończenia zatrudnienia oraz przyczyn odejść pracowników, jeżeli mogą wskazywać na bariery w środowisku pracy;
+- barier utrudniających zatrudnianie, wykonywanie pracy i rozwój zawodowy osób z niepełnosprawnościami;
+- dostępności środowiska pracy oraz skuteczności działań podejmowanych w celu jego doskonalenia.
 
 Wyniki oceny organizacja wykorzystuje do aktualizacji polityki zatrudniania, planowania działań doskonalących oraz określania priorytetów w zakresie zwiększania dostępności środowiska pracy.
 
 ---
 
-## 4. Podstawa prawna
-
-- Konwencja o prawach osób niepełnosprawnych, w szczególności art. 27.
-- Ustawa z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych.
-- Kodeks pracy.
-- Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami.
-- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
-
----
-
-## 5. Uzasadnienie
+## 4. Uzasadnienie
 
 Osoby z niepełnosprawnościami stanowią istotną część potencjalnych pracowników organizacji. Ich zatrudnianie przyczynia się do zwiększania różnorodności zespołów, wzmacniania kompetencji organizacji oraz lepszego rozumienia potrzeb użytkowników o zróżnicowanych potrzebach.
 
@@ -137,20 +127,29 @@ Skuteczne zatrudnianie osób z niepełnosprawnościami wymaga jednak nie tylko p
 
 ---
 
-## 6. Powiązania z innymi zaleceniami
+## 5. Podstawa prawna
+
+- Konwencja o prawach osób niepełnosprawnych, w szczególności art. 27.
+- Ustawa z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych.
+- Kodeks pracy.
+- Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami.
+- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
+
+---
+
+
+## 6. Załączniki
+
+1. [Wzór polityki zatrudniania osób z niepełnosprawnościami](wzor-polityki-zatrudniania-osob-z-niepelnosprawnosciami)
+2. [Uproszczona wersja polityki zatrudniania osób z niepełnosprawnościami dla małych organizacji](uproszczona-polityka-zatrudniania-osob-z-niepelnosprawnosciami)
+3. [Lista kontrolna przeglądu polityki zatrudnienia pod kątem osób z niepełnosprawnościami](lista-kontrolna-przegladu-polityki-zatrudnienia)
+
+---
+
+## 7. Powiązania z innymi zaleceniami
 
 - Ocena barier cyfrowych ograniczających zatrudnianie osób z niepełnosprawnościami.
 - Dostępna rekrutacja i wdrażanie pracowników.
 - Systemowe rozpoznawanie i uwzględnianie potrzeb pracowników w zakresie dostępności cyfrowej.
 - Zapewnianie pracownikom dostosowań i racjonalnych usprawnień cyfrowych.
 - Angażowanie osób z niepełnosprawnościami w działania związane z dostępnością cyfrową.
-
----
-
-## 7. Załączniki
-
-1. Wzór polityki zatrudniania osób z niepełnosprawnościami.
-2. Wersja uproszczona polityki dla małych organizacji.
-3. Lista kontrolna przeglądu polityki zatrudnienia pod kątem osób z niepełnosprawnościami.
-
----

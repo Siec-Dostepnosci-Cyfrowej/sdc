@@ -1,7 +1,7 @@
 ---
-id: projekt-zalecenia-plan-zapewniania-dostepnosci-cyfrowej
-title: Projekt zalecenia w sprawie opracowania rocznego planu działań na rzecz dostępności cyfrowej
-sidebar_label: Projekt zalecenia
+id: plan-zapewniania-dostepnosci-cyfrowej
+title: Plan działań na rzecz dostępności cyfrowej
+sidebar_label: Zalecenie
 sidebar_position: 0
 description: Propozycja zalecenia
 keywords: [kultura organizacyjna, zarządzanie, plan działania ]
@@ -12,20 +12,21 @@ ostatnia_aktualizacja: 21 stycznia 2026 r.
 wersja_robocza: true
 ---
 
-## Cel zalecenia
+## 1. Cel zalecenia
 
 Celem zalecenia jest wzmocnienie systemowego podejścia do zapewniania dostępności cyfrowej poprzez wprowadzenie w podmiotach publicznych corocznego planowania działań, obejmującego wszystkie 
 obszary wynikające z ustawy o dostępności cyfrowej oraz dobrych praktyk zarządzania usługami cyfrowymi.
 
 ---
 
-## Zalecenie
+## 2. Zalecenie
 
 **Organizacje opracowują i przyjmują roczny plan działań na rzecz dostępności cyfrowej, obejmujący najważniejsze obszary zapewniania dostępności, w szczególności komunikację, wsparcie użytkowników, 
 kompetencje pracowników, zaopatrzenie, cykl życia TIK oraz działania organizacyjne.**
 
+---
 
-## Rekomendacje
+## 3. Rekomendacje
 
 Plan działania na rzecz poprawy zapewniania dostępności osobom ze szczególnymi potrzebami powinien zawierać:
 
@@ -64,16 +65,9 @@ W zakresie dostępności cyfrowej Plan działania na rzecz poprawy zapewniania d
 7. **Warto**, aby w planie znalazły się działania dotyczące szkoleń i podnoszenia kompetencji pracowników.  
 8. **Zaleca się**, aby zakres działań był dopasowany do wielkości i możliwości organizacji.
    
-## Podstawa prawna
+---
 
-- Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. 2019 poz. 1696),
-- Ustawa o dostępności cyfrowej,
-- Dyrektywa UE o dostępności stron internetowych,
-- Standard EN 301 549.
-
-
-
-## Uzasadnienie
+## 4. Uzasadnienie
 
 Plan działania na rzecz poprawy zapewniania dostępności jest formalnym i praktycznym narzędziem, które pomaga podmiotom publicznym:
 
@@ -85,3 +79,29 @@ Plan działania na rzecz poprawy zapewniania dostępności jest formalnym i prak
 - budować trwałą kulturę dostępności.
 
 Opracowanie i wdrożenie Planu działania jest nie tylko wymogiem prawnym, ale również wyrazem odpowiedzialności społecznej instytucji publicznych, zapewniającym równy dostęp do usług publicznych.
+
+---
+
+## 5. Podstawa prawna
+
+- Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. 2019 poz. 1696),
+- Ustawa o dostępności cyfrowej,
+- Dyrektywa UE o dostępności stron internetowych,
+- Standard EN 301 549.
+
+---
+
+## Załączniki 
+
+- [Wzór procedury tworzenia i zatwierdzania rocznego planu działania](wzor-procedury-tworzenia-planu-duzy-podmiot)
+- [Wzór procedury tworzenia i zatwierdzania rocznego planu działania w małym podmiocie](wzor-procedury-tworzenia-planu-maly-podmiot)
+- [Ramowy plan działania na rzecz zapewniania dostępności cyfrowej – poziom początkowy](ramowy-plan-zapewniania-dostepnosci-poziom-poczatkowy) 
+- [Ramowy plan działania na rzecz zapewniania dostępności cyfrowej - poziom optymalizacji  ](ramowy-plan-zapewniania-dostepnosci-poziom-optymalizacji)
+- [Ramowy plan działania na rzecz zapewniania dostępności cyfrowej – poziom wdrażania](ramowy-plan-zapewniania-dostepnosci-poziom-wdrazania)
+- [Ramowe plany zapewniania dostępności cyfrowej - mały podmiot](ramowe-plany-dzialan-maly-podmiot)
+
+
+
+
+
+

@@ -8,23 +8,23 @@ keywords: [zamówienia publiczne, zaopatrzenie]
 tags: [zamówienia publiczne, zaopatrzenie]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2025 r.
-ostatnia_aktualizacja: 24 czerwca 2026 r.
+ostatnia_aktualizacja: 26 sierpnia 2026 r.
 wersja_robocza: true
 ---
 
-## Cel
+## 1. Cel zalecenia
 
 Celem zalecenia jest zapewnienie, aby organizacja określała wymagania dostępności cyfrowej dla nabywanych produktów i usług cyfrowych oraz sposób wykazania przez oferentów zdolności do spełnienia tych wymagań. Zalecenie wspiera organizacje w ocenie wiarygodności deklaracji składanych przez oferentów, ograniczaniu ryzyka wyboru wykonawcy niezdolnego do zapewnienia i utrzymania dostępności cyfrowej oraz wzmacnianiu odpowiedzialności wykonawców za zgodność oferowanych rozwiązań z wymaganiami zamawiającego.
 
 ---
 
-## Zalecenie
+## 2. Zalecenie
 
 Organizacja określa wymagania dostępności cyfrowej dla nabywanych produktów i usług cyfrowych oraz wskazuje sposób wykazania przez oferenta zdolności do spełnienia tych wymagań. Organizacja dokonuje oceny wiarygodności deklaracji oferentów na podstawie informacji i dowodów przedstawionych w ofercie.
 
 ---
 
-## Rekomendacje
+## 3. Rekomendacje
 
 1. Organizacja określa wymagania dotyczące dostępności cyfrowej odpowiednie do rodzaju nabywanego produktu lub usługi cyfrowej.
 2. Organizacja definiuje wymagania w oparciu o Szablon wymagań dostępności w zakupach rozwiązań zawierających technologie i treści cyfrowe.
@@ -48,16 +48,7 @@ Organizacja określa wymagania dostępności cyfrowej dla nabywanych produktów 
 
 ---
 
-## Podstawa prawna
-
-- Art. 5 ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych z dnia 4 kwietnia 2019 r. z późn. zmianami (Dz. U. 2019, poz. 848)
-- Art. 4 pkt. 3 ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami z dnia 19 lipca 2019 r. (Dz. U. 2019, poz. 1696)
-- Art. 5 pkt. 2 ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami z dnia 19 lipca 2019 r. (Dz. U. 2019, poz. 1696)
-- Art. 106 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych z późn. zmianami (Dz. U. 2019 poz. 2019)
-
----
-
-## Uzasadnienie
+## 4. Uzasadnienie
 
 Zapewnienie dostępności cyfrowej nabywanych produktów i usług rozpoczyna się od właściwego określenia wymagań wobec wykonawców. Zamawiający nie jest jednak w stanie przed udzieleniem zamówienia potwierdzić, że oferowane rozwiązanie spełnia wszystkie wymagania dostępności. Może natomiast określić wymagania dostępności, wskazać sposób wykazania ich spełnienia oraz ocenić wiarygodność deklaracji złożonych przez oferentów.
 
@@ -95,17 +86,29 @@ Zalecenie nie rekomenduje przepisywania wymagań normy EN 301 549 do dokumentacj
 
 ---
 
-## Załączniki
+## 5. Podstawa prawna
 
-1. [Szablon wymagań dostępności w zakupach rozwiązań zawierających technologie i treści cyfrowe](zasady-oceny-ofert-szablon-wymagan)
-2. [Stosowanie szablonu wymagań dostępności cyfrowej](stosowanie-szablonu-wymagan)
-4. [Szablon macierzy punktacji](zasady-oceny-ofert-macierz-punktacji.xlsx)
+- Art. 5 ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych z dnia 4 kwietnia 2019 r. z późn. zmianami (Dz. U. 2019, poz. 848)
+- Art. 4 pkt. 3 ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami z dnia 19 lipca 2019 r. (Dz. U. 2019, poz. 1696)
+- Art. 5 pkt. 2 ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami z dnia 19 lipca 2019 r. (Dz. U. 2019, poz. 1696)
+- Art. 106 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych z późn. zmianami (Dz. U. 2019 poz. 2019)
 
 ---
 
-## Źródła, opracowania
+## 6. Źródła, opracowania
+
 1. [Procurement accessibility guidance](https://www.makethingsaccessible.com/guides/procurement-accessibility-guidance/)
 2. [Procurement scoring and maturity](https://www.makethingsaccessible.com/guides/procurement-scoring-and-maturity/)
+
+---
+
+## 7. Załączniki
+
+1. [Szablon wymagań dostępności w zakupach rozwiązań zawierających technologie i treści cyfrowe](zasady-oceny-ofert-szablon-wymagan.md)
+2. [Stosowanie szablonu wymagań dostępności cyfrowej](stosowanie-szablonu-wymagan.md)
+3. [Katalog dowodów dostępności cyfrowej](katalog-dowodow-dostepnosci-cyfrowej.md)
+4. [Szablon macierzy punktacji](zasady-oceny-ofert-macierz-punktacji.xlsx)
+
 
 ---
 
@@ -115,4 +118,4 @@ Zalecenie nie rekomenduje przepisywania wymagań normy EN 301 549 do dokumentacj
 | --- | --- | --- | --- |
 | RC | Stefan Wajda | 12.06.2025 | Projekt – kandydat do wydania |
 | 1.0 | Stefan Wajda | 24.06.2026 | Wersja do publikacji |
-
+| 1.1 | Damian Żłobicki | 26.08.2026 | Dodanie załącznika dotyczącego dostępności narzędzi autorskich |

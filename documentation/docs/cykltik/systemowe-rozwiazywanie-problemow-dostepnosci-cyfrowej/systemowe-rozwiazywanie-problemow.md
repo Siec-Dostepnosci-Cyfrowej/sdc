@@ -12,7 +12,7 @@ data_aktualizacji: 23 czerwca 2026
 wersja_robocza: true
 ---
 
-## Cel zalecenia
+## 1. Cel zalecenia
 
 Zapewnienie, że każda wykryta lub zgłoszona niezgodność z wymaganiami dostępności cyfrowej skutkuje jej terminową naprawą w ramach systemowego procesu zarządzania jakością.
 
@@ -20,15 +20,19 @@ Celem jest ograniczanie "długu dostępności" poprzez integrację testów i nap
 
 "Dług dostępności" to nagromadzone, odłożone na później błędy i niezgodności w dostępności cyfrowej, które wymagają usunięcia w przyszłości, a których odwlekanie zwiększa ryzyko prawne, wizerunkowe oraz koszty utrzymania i rozwoju usług cyfrowych.
 
-## Zalecenie
+---
+
+## 2. Zalecenie
 
 Organizacja wdraża system zarządzania problemami dostępności cyfrowej, w którym każdy wykryty problem (niezgodność) jest traktowany na równi z błędem funkcjonalnym usługi. Podlega on obowiązkowej rejestracji, priorytetyzacji oraz naprawie w ramach standardowych procesów wytwarzania, utrzymania i rozwoju systemów informatycznych.
 
 Organizacja zapewnia ciągłą zdolność realizacji procesu naprawczego poprzez utrzymywanie własnych zasobów technicznych lub precyzyjne zapisy w umowach z podmiotami zewnętrznymi, obejmujące obowiązek usuwania niezgodności w ramach ustalonego **SLA (ang. Service Level Agreement)**.
 
-## Rekomendacje
+---
 
-### 1. Uruchamianie procesu naprawczego
+## 3. Rekomendacje
+
+### 3.1. Uruchamianie procesu naprawczego
 
 Kierownictwo organizacji zapewnia nadzór nad funkcjonowaniem systemu zarządzania problemami dostępności poprzez:
 
@@ -43,7 +47,9 @@ Każdy problem dostępności:
 
 skutkuje automatycznym uruchomieniem procesu naprawczego poprzez rejestrację zgłoszenia w rejestrze problemów (np. w systemie zgłoszeń lub innym narzędziu do planowania pracy).
 
-### 2. Integracja z procesami IT
+---
+
+### 3.2. Integracja z procesami IT
 
 Organizacja zapewnia, że błędy dostępności:
 
@@ -51,7 +57,9 @@ Organizacja zapewnia, że błędy dostępności:
 - są traktowane jak inne błędy systemu - nie tworzy się odrębnych "ścieżek dostępności",
 - są uwzględniane w definicji „gotowości” (**ang. Definition of Done**) oraz w kryteriach odbioru prac.
 
-### 3. Priorytety i czasy naprawy (SLA)
+---
+
+### 3.3. Priorytety i czasy naprawy (SLA)
 
 Organizacja stosuje **jednolity model klasyfikacji, priorytetyzacji i obsługi błędów dostępności**, określony w **Załączniku nr 4**.
 
@@ -65,7 +73,9 @@ Model ten:
 
 Podmiot określa maksymalne czasy naprawy w oparciu o poziom krytyczności i ryzyko użytkowe, a nie wyłącznie złożoność techniczną naprawy. Jeżeli naprawy są realizowane przez wykonawców zewnętrznych, czasy te stanowią element umów serwisowych (SLA).
 
-### 4. Źródła identyfikacji problemów
+---
+
+### 3.4. Źródła identyfikacji problemów
 
 Podmiot obejmuje procesem następujące źródła:
 
@@ -79,14 +89,18 @@ Podmiot obejmuje procesem następujące źródła:
 
 Wszystkie te dane muszą trafiać do jednego rejestru, co pozwala na identyfikację powtarzalnych błędów (np. systemowych błędów w szablonie strony).
 
-### 5. Powiązanie z deklaracją dostępności
+---
+
+### 3.5. Powiązanie z deklaracją dostępności
 
 Problemy wskazane w deklaracji dostępności:
 
 - Muszą posiadać przypisany plan naprawczy i konkretny termin usunięcia.
 - **Aktualizacja:** Po naprawie błędu organizacja niezwłocznie aktualizuje treść deklaracji dostępności, aby odzwierciedlała ona stan faktyczny i postęp prac.
 
-### 6. Weryfikacja zmian (zapobieganie wprowadzaniu nowych problemów)
+---
+
+### 3.6. Weryfikacja zmian (zapobieganie wprowadzaniu nowych problemów)
 
 Podmiot wymaga, aby każda zmiana systemu:
 
@@ -95,7 +109,9 @@ Podmiot wymaga, aby każda zmiana systemu:
 
 Weryfikacja jest proporcjonalna do zakresu zmiany, jednak obowiązkowa w przypadku zmian wpływających na funkcjonalności użytkowe.
 
-### 7. Zamówienia publiczne
+---
+
+### 3.7. Zamówienia publiczne
 
 W relacjach z wykonawcami zewnętrznymi stosuje się pragmatyczne podejście do odbiorów:
 
@@ -105,7 +121,9 @@ W relacjach z wykonawcami zewnętrznymi stosuje się pragmatyczne podejście do 
 
 Wymagania dostępności oraz obowiązek usuwania błędów są elementem umowy, a nie wyłącznie opisu przedmiotu zamówienia.
 
-### 8. Monitoring skuteczności
+---
+
+### 3.8. Monitoring skuteczności
 
 Podmiot mierzy skuteczność systemu poprzez:
 
@@ -113,7 +131,9 @@ Podmiot mierzy skuteczność systemu poprzez:
 - Śledzenie czasu naprawy oraz powtarzalności incydentów.
 - Wykorzystywanie danych do planowania budżetu na usprawnienia IT.
 
-### 9. Zapewnienie zdolności naprawczej (kluczowy warunek skuteczności)
+---
+
+### 3.9. Zapewnienie zdolności naprawczej (kluczowy warunek skuteczności)
 
 Podmiot publiczny zapewnia rzeczywistą, ciągłą zdolność do usuwania problemów dostępności poprzez:
 
@@ -129,7 +149,9 @@ Umowy z wykonawcami w szczególności:
 
 Brak zapewnienia zdolności naprawczej powoduje, że proces zarządzania dostępnością ma charakter pozorny, a organizacja nie jest w stanie realizować obowiązków wynikających z przepisów prawa.
 
-### 10. Nadzór kierownictwa
+---
+
+### 3.10. Nadzór kierownictwa
 
 Dostępność cyfrowa nie jest zadaniem wyłącznie dla koordynatora dostępności. Jest elementem zarządzania produktem, za który odpowiadają właściciele biznesowi systemów oraz działy IT.
 
@@ -138,7 +160,9 @@ Kierownictwo organizacji zapewnia nadzór nad funkcjonowaniem systemu zarządzan
 - okresowe przeglądy danych o problemach i czasie ich naprawy,
 - podejmowanie decyzji dotyczących działań usprawniających.
 
-## Uzasadnienie
+---
+
+## 4.Uzasadnienie
 
 Dostępność cyfrowa jest elementem jakości usług publicznych. Niniejsze zalecenie wprowadza mechanizmy, które pozwalają na systematyczne usuwanie barier bez paraliżowania procesów wytwórczych IT. Poprzez skupienie się na testach automatycznych na etapie odbioru oraz elastycznym podejściu do terminów napraw, podmiot może skutecznie realizować obowiązki ustawowe w sposób zrównoważony i dopasowany do możliwości technicznych.
 
@@ -148,16 +172,16 @@ Brak dostępności kluczowych funkcji (np. formularzy, logowania, procesów wnio
 
 To zalecenie wprowadza mechanizm, w którym każde wykrycie lub zgłoszenie problemu stanowi jednoznaczny impuls do działania – uruchamiając proces naprawczy realizowany w ramach standardowych procesów wytwarzania i utrzymania systemów. Dzięki temu dostępność przestaje być wyłącznie przedmiotem diagnozy, a staje się elementem bieżącego zarządzania jakością usług cyfrowych.
 
-## Podstawy prawne
+## 5. Podstawy prawne
 
 - [PN-ETSI EN 301 549 V3.2.1:2021-09 Wymagania dotyczące dostępności produktów i usług ICT](https://sklep.pkn.pl/pn-etsi-en-301-549-v3-2-1-2021-09p.html); wydanie w języku angielskim: [Norma EN 301 549](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf) – Wymagania dotyczące dostępności produktów i usług ICT.
 - [Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000848) (Dz.U. 2019 poz. 848 z późn. zm.).
 
-## Źródła
+## 6. Źródła
 
 - [W3C Accessibility Guidelines Evaluation Methodology (WCAG-EM) 2.0](https://www.w3.org/TR/wcag-em-2/)
 
-## Załączniki
+## 7. Załączniki
 
 1. [Organizacja i zadania zespołu odpowiedzialnego za naprawę problemów dostępności cyfrowej](organizacja-i-zadania-zespolu-naprawczego)
 2. [Wzorcowe zapisy dotyczące w umowie serwisowej](zapisy-w-umowie-serwisowej)

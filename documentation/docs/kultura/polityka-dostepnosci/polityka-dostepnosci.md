@@ -1,8 +1,8 @@
 ---
 id: polityka-dostepnosci
 title: Ustanowienie polityki dostępności cyfrowej
-sidebar_label: Projekt zalecenia
-sidebar_position: 1
+sidebar_label: Zalecenie
+sidebar_position: 0
 description: Kierownictwo organizacji powinno ustanowić politykę zapewniania dostępności cyfrowej
 keywords: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie]
 tags: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie]
@@ -14,7 +14,7 @@ wersja_robocza: true
 ---
 
 
-## Zalecenie
+## 1. Zalecenie
 
 Kierownictwo organizacji powinno ustanowić politykę zapewniania dostępności cyfrowej. Polityka powinna określać jasno cele, zakres i obowiązki dotyczące dostępności.
 
@@ -24,7 +24,9 @@ Niezależnie od tego, wszystkie podmioty powinny jasno określić swoje podejśc
 
 W organizacjach złożonych z wielu podmiotów (np. gminach, powiatach itp.) polityka dostępności może być przyjmowana przez naczelny organ stanowiący lub zarządzający podmiotu nadrzędnego do stosowania przez wszystkie podległe jednostki.
 
-## Rekomendacje
+---
+
+## 2. Rekomendacje
 
 1. Polityka dostępności cyfrowej powinna obejmować i regulować istotne elementy funkcjonowania organizacji, które mają wpływ na kształtowanie kultury dostępności \[zapewnianie dostępności\], w tym:
     - zobowiązanie i uzasadnienie zobowiązania do zapewniania dostępności \[cyfrowej\]
@@ -50,16 +52,9 @@ W organizacjach złożonych z wielu podmiotów (np. gminach, powiatach itp.) pol
 4. Polityka dostępności powinna obowiązywać w całej organizacji i być konsekwentnie i właściwie egzekwowana.
 5. Polityka dostępności powinna być publikowana wraz z innymi dokumentami dotyczącymi polityk i stanowisk organizacji.
 
-## Podstawa prawna
+---
 
-- Art. 5 ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz. U. 2019 poz. 848)
-- Art. 4 pkt 3 ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. 2019 poz. 1696)
-- Art. 5 pkt 2 ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. 2019 poz. 1696)
-- Art. 100 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. 2019 poz. 2019)
-- Art. 106 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. 2019 poz. 2019)
-
-
-## Uzasadnienie
+## 3. Uzasadnienie
 
 Chociaż przepisy prawa nie nakładają obowiązku opracowania własnej polityki dostępności jej przygotowanie i wdrożenie pomaga podmiotom publicznym skutecznie realizować dostępność cyfrową.
 
@@ -75,7 +70,19 @@ Inwestycje w dostępność należy traktować jako długofalowe rozwiązania tec
 
 Polityka dostępności powinna mieć moc obowiązującą w całej organizacji, być uchwalana przez właściwy organ oraz publikowana wśród innych dokumentów strategicznych. Regularne przeglądy, aktualizacje i plan działań zapewniają jej aktualność oraz skuteczność, czyniąc z niej realne narzędzie wspierające rozwój kultury dostępności.
 
-## Źródła, opracowania
+---
+
+## 4. Podstawa prawna
+
+- Art. 5 ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz. U. 2019 poz. 848)
+- Art. 4 pkt 3 ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. 2019 poz. 1696)
+- Art. 5 pkt 2 ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. 2019 poz. 1696)
+- Art. 100 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. 2019 poz. 2019)
+- Art. 106 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. 2019 poz. 2019)
+
+---
+
+## 5. Źródła, opracowania
 
 1. Business Disability Forums, [Creating an IT accessibility policy](https://businessdisabilityforum.org.uk/resource/technology-toolkit/creating-it-a11y-policy/), dostęp: 14 lipca 2025
 2. GSA, [IT Accessibility Policy Framework](https://www.section508.gov/manage/policy-framework/introduction/), dostęp: 14 lipca 2025
@@ -84,6 +91,15 @@ Polityka dostępności powinna mieć moc obowiązującą w całej organizacji, b
 5. WAI W3C, [Example of a Comprehensive Organizational Policy](https://www.w3.org/WAI/planning/org-policies/example/), dostęp: 14 lipca 2025
 6. WAI W3C, [Planning and Managing Web Accessibility – Plan](https://www.w3.org/WAI/planning-and-managing/plan/), dostęp: 14 lipca 2025
 7. WebAim, [The WebAIM Strategic Accessibility Framework](https://webaim.org/articles/strategicframework/), dostęp: 14 lipca 2025, tłumaczenie na język polski: [Ramy strategii dostępności WebAIM. Wskaźniki i kryteria sukcesu](https://lepszyweb.pl/blog2/ramy-strategii-dostepnosci-webaim)
+
+---
+
+## 6. Załączniki
+
+- [Wskazówki do opracowania preambuły polityki dostępności](manifest-dostepnosci.md)
+- [Przykładowa polityka dostępności cyfrowej - opracowanie W3C](kultura-przyklad-W3C.md)
+
+---
 
 
 ## Historia wersji

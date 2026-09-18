@@ -13,13 +13,13 @@ ostatnia_aktualizacja: 9 lipca 2026 r.
 wersja_robocza: true
 ---
 
-## Cel zalecenia
+## 1. Cel zalecenia
 
 Celem zalecenia jest zapewnienie, aby deklaracja dostępności przez cały okres publikacji pozostawała aktualnym i wiarygodnym źródłem informacji o dostępności cyfrowej strony internetowej lub aplikacji mobilnej.
 
 ---
 
-## Zalecenie
+## 2. Zalecenie
 
 Organizacja utrzymuje wiarygodność deklaracji dostępności przez jej przegląd i aktualizację na podstawie aktualnej i udokumentowanej wiedzy o stanie dostępności i zgodności strony internetowej lub aplikacji mobilnej.
 
@@ -27,9 +27,9 @@ Proces jest uruchamiany przez coroczny termin przeglądu albo zmianę mogącą m
 
 ---
 
-## Rekomendacje
+## 3. Rekomendacje
 
-### Utrzymywanie wiarygodności deklaracji
+### 3.1. Utrzymywanie wiarygodności deklaracji
 
 Organizacja traktuje przegląd i aktualizację deklaracji jako proces utrzymywania jej wiarygodności przez cały okres publikacji.
 
@@ -46,7 +46,7 @@ W przypadku zmiany rozwiązania deklaracja jest aktualizowana, jeżeli aktualna 
 
 ---
 
-### Wykorzystanie wiedzy o stanie dostępności i zgodności
+### 3.2. Wykorzystanie wiedzy o stanie dostępności i zgodności
 
 Podstawą przeglądu deklaracji jest aktualna i udokumentowana wiedza o stanie dostępności i zgodności rozwiązania, utrzymywana zgodnie z zasadami obserwowania i oceniania tego stanu.
 
@@ -56,7 +56,7 @@ Jeżeli posiadana wiedza jest niewystarczająca lub wymaga aktualizacji, uzupeł
 
 ---
 
-### Reagowanie na zmiany rozwiązania
+### 3.3. Reagowanie na zmiany rozwiązania
 
 Organizacja zapewnia uzyskiwanie informacji o zmianach strony internetowej lub aplikacji mobilnej mogących mieć wpływ na dostępność cyfrową.
 
@@ -68,7 +68,7 @@ Sama zmiana rozwiązania nie oznacza zmiany stanu dostępności ani koniecznośc
 
 ---
 
-### Porównanie aktualnej wiedzy z deklaracją
+### 3.4. Porównanie aktualnej wiedzy z deklaracją
 
 Podczas corocznego przeglądu organizacja porównuje aktualną i udokumentowaną wiedzę z całą treścią deklaracji.
 
@@ -78,7 +78,7 @@ Organizacja ustala, czy aktualizacji wymagają w szczególności status zgodnoś
 
 ---
 
-### Dokumentowanie podstaw i wyniku procesu
+### 3.5. Dokumentowanie podstaw i wyniku procesu
 
 Organizacja zapewnia możliwość ustalenia, na jakiej wiedzy oparto najważniejsze informacje zamieszczone w deklaracji oraz wynik przeprowadzonego przeglądu.
 
@@ -90,7 +90,7 @@ Organizacja zachowuje możliwość odtworzenia podstaw kolejnych wersji deklarac
 
 ---
 
-### Organizacja procesu, zatwierdzenie i publikacja
+### 3.6. Organizacja procesu, zatwierdzenie i publikacja
 
 Organizacja przypisuje zadania i odpowiedzialności potrzebne do przeprowadzenia procesu od jego rozpoczęcia do zakończenia, zapewnienia wiedzy o stanie rozwiązania, uzyskiwania informacji o zmianach, zatwierdzenia deklaracji oraz jej publikacji.
 
@@ -102,15 +102,8 @@ Organizacja zachowuje poprzednią wersję deklaracji oraz informacje potrzebne d
 
 ---
 
-## Podstawy prawne
 
-- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
-- Warunki techniczne publikacji oraz struktura dokumentu elektronicznego deklaracji dostępności.
-- Decyzja wykonawcza Komisji (UE) 2018/1523 z dnia 11 października 2018 r. ustanawiająca wzór oświadczenia w sprawie dostępności zgodnie z dyrektywą Parlamentu Europejskiego i Rady (UE) 2016/2102.
-
----
-
-## Uzasadnienie
+## 4. Uzasadnienie
 
 Deklaracja dostępności jest informacją publiczną o dostępności cyfrowej strony internetowej lub aplikacji mobilnej. Jej wartość zależy przede wszystkim od wiarygodności: informacje opublikowane w deklaracji powinny odpowiadać aktualnej i udokumentowanej wiedzy organizacji.
 
@@ -130,7 +123,15 @@ Dzięki temu deklaracja dostępności może przez cały okres publikacji pozosta
 
 ---
 
-## Załączniki
+## 5. Podstawy prawne
+
+- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
+- Warunki techniczne publikacji oraz struktura dokumentu elektronicznego deklaracji dostępności.
+- Decyzja wykonawcza Komisji (UE) 2018/1523 z dnia 11 października 2018 r. ustanawiająca wzór oświadczenia w sprawie dostępności zgodnie z dyrektywą Parlamentu Europejskiego i Rady (UE) 2016/2102.
+
+---
+
+## 6. Załączniki
 
 - [Procedura przeglądu i aktualizacji deklaracji dostępności](procedura-przegladu-i-aktualizacji-deklaracji-dostepnosci)
 - [Karta przeglądu i aktualizacji deklaracji dostępności](karta-przegladu-i-aktualizacji-deklaracji-dostepnosci)

@@ -1,7 +1,7 @@
 ---
 id: dostępny-proces-wprowadzenia-do-pracy
 title: Dostępny cyfrowo proces wprowadzenia do pracy  
-sidebar_label: Projekt zalecenia
+sidebar_label: Zalecenie
 sidebar_position: 0
 description: Proces wdrażania nowych pracowników powinien uwzględniać zasady dostępności cyfrowej.
 keywords: [pracownicy,wprowadzanie do pracy]
@@ -12,11 +12,13 @@ ostatnia_aktualizacja: 18 sierpnia 2025 r.
 wersja_robocza: true
 ---
 
-## Zalecenie
+## 1. Zalecenie
 
 Proces przygotowania instytucji do wdrażania nowych pracowników powinien na stałe uwzględniać zasady dostępności cyfrowej.
 
-## Rekomendacje
+---
+
+## 2. Rekomendacje
 
 Instytucje publiczne mają obowiązek wspierać pracowników w procesie adaptacji do nowych obowiązków, zapewniając dostępność cyfrową zasobów. Rekomendacje
 
@@ -33,13 +35,9 @@ Instytucje publiczne mają obowiązek wspierać pracowników w procesie adaptacj
 11. Zapewnij ankietę satysfakcji dostępną cyfrowo. Zamieść w niej pytania dotyczące dostępności cyfrowej procesów w instytucji. . Uwzględnij opinie przy aktualizacji procesu.
 12. Zbieraj regularnie informacje zwrotne od nowych pracowników. Wprowadzaj usprawnienia na podstawie zgłoszonych potrzeb i barier. Przekazuj je regularnie członkom zespołu.
 
-## Podstawa prawna
+---
 
-- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz.U. 2023 poz. 1440).
-- Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. z 2024 r. poz. 1411).
-- Konwencja ONZ o prawach osób niepełnosprawnych (Dz.U. 2012 poz. 1169), art. 9.
-
-## Uzasadnienie
+## 3. Uzasadnienie
 
 Instytucje publiczne, mają obowiązek tworzenia środowiska pracy, które jest dostępne i nie wykluczające nikogo — bez względu na poziom sprawności, sposób komunikacji czy preferencje technologiczne. Wprowadzenie do pracy (tzw. onboarding), jako pierwszy etap poznawania organizacji, odgrywa kluczową rolę w budowaniu poczucia przynależności, zrozumienia kultury organizacyjnej i efektywnego wdrożenia do pracy. Dostępny cyfrowo proces wprowadzenia do pracy:
 
@@ -49,3 +47,13 @@ Instytucje publiczne, mają obowiązek tworzenia środowiska pracy, które jest 
 - zmniejsza bariery komunikacyjne.
 
 Dostępne cyfrowo materiały i narzędzia pozwalają szybciej zrozumieć strukturę organizacji, obowiązki i procedury. Dzięki temu wzmacnia się także wizerunek organizacji — jako instytucji nowoczesnej, odpowiedzialnej społecznie i otwartej na różnorodność.
+
+---
+
+## 4..Podstawa prawna
+
+- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz.U. 2023 poz. 1440).
+- Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. z 2024 r. poz. 1411).
+- Konwencja ONZ o prawach osób niepełnosprawnych (Dz.U. 2012 poz. 1169), art. 9.
+
+---

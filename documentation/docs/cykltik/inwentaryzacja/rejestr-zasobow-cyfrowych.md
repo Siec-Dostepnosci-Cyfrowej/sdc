@@ -1,8 +1,8 @@
 ---
 id: rejestr-zasobow-cyfrowych
 title: Inwentaryzacja zasobów cyfrowych
-sidebar_label: Projekt zalecenia
-sidebar_position: 1
+sidebar_label: Zalecenie
+sidebar_position: 0
 keywords: [dostępność cyfrowa, inwentaryzacja, archiwizacja]
 tags: [dostępność cyfrowa, inwentaryzacja, archiwizacja]
 opracowanie: Cezary Tomczyk
@@ -58,17 +58,8 @@ Rejestr powinien być prowadzony w sposób umożliwiający identyfikację właś
 
 ---
 
-## 4. Podstawy prawne
 
-- Dyrektywa (UE) 2016/2102 Parlamentu Europejskiego i Rady z dnia 26 października 2016 r. w sprawie dostępności stron internetowych i aplikacji mobilnych organów sektora publicznego,  
-- Dyrektywa (UE) 2019/882 (Europejski Akt o Dostępności – EAA),  
-- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz.U. z 2019 r. poz. 848 z późn. zm.),  
-- Ustawa z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (Dz.U. 2024 poz. 759),  
-- Norma EN 301 549 V3.2.1 „Accessibility requirements for ICT products and services”.
-
----
-
-## 5. Uzasadnienie
+## 4. Uzasadnienie
 
 1. **Zapewnienie zgodności z przepisami**  
    Inwentaryzacja stanowi podstawowy warunek prawidłowego wdrożenia przepisów dotyczących dostępności cyfrowej i Europejskiego Aktu o Dostępności. Umożliwia określenie, które zasoby podlegają obowiązkowi zapewniania dostępności.
@@ -82,6 +73,16 @@ Rejestr powinien być prowadzony w sposób umożliwiający identyfikację właś
    Uporządkowany rejestr wspiera planowanie działań rozwojowych, audytowych i budżetowych oraz ułatwia współpracę pomiędzy komórkami organizacyjnymi.
 6. **Przejrzystość i odpowiedzialność**  
    Jasny podział odpowiedzialności za zasoby cyfrowe zwiększa transparentność działań podmiotu publicznego i ułatwia komunikację z interesariuszami.
+
+---
+
+## 5. Podstawy prawne
+
+- Dyrektywa (UE) 2016/2102 Parlamentu Europejskiego i Rady z dnia 26 października 2016 r. w sprawie dostępności stron internetowych i aplikacji mobilnych organów sektora publicznego,  
+- Dyrektywa (UE) 2019/882 (Europejski Akt o Dostępności – EAA),  
+- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz.U. z 2019 r. poz. 848 z późn. zm.),  
+- Ustawa z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (Dz.U. 2024 poz. 759),  
+- Norma EN 301 549 V3.2.1 „Accessibility requirements for ICT products and services”.
 
 ---
 

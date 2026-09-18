@@ -1,4 +1,17 @@
-# 📘 Wykaz mikropoświadczeń CKDC – tabela bazowa (wersja robocza)
+---
+id: z1-wykaz_mikropoświadczeń_CKDC
+title: Wykaz mikropoświadczeń CKDC – tabela bazowa (wersja robocza)
+description: Zestawienie projektów mikropoświadczeń
+sidebar_label: Zestawienie mikropoświadczeń
+sidebar_position: 3
+keywords: [dostępność cyfrowa, mikropoświadczenie]
+tags: [dostępność cyfrowa, mikropoświadczenie]
+opracowanie: Stefan Wajda
+data_zgloszenia: 10 listopada 2025 r.
+ostatnia_aktualizacja: 10 listopada 2025 r.
+wersja_robocza: true
+---
+
 
 | Grupa | Nazwa mikropoświadczenia | Zwięzły opis kompetencji | Poziom EQF (wstępny) | Status opracowania |
 |--------|--------------------------|---------------------------|----------------------|--------------------|

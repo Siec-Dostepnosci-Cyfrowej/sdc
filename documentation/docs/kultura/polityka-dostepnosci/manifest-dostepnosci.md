@@ -2,20 +2,10 @@
 id: manifest-dostepnosci
 title: Wskazówki do opracowania preambuły polityki dostępności
 sidebar_label: Manifest dostępności
-sidebar_position: 2
+sidebar_position: 1
 description:  Wskazówki do skonstruowania preambuły (cześć wstępna polityki dostępności)
-keywords: [
-        polityka dostępności,
-        dostępność cyfrowa,
-        kultura organizacyjna,
-		zarządzanie,
-]
-tags: [
-        polityka dostępności,
-        dostępność cyfrowa,
-        kultura organizacyjna,
-		zarządzanie,
-]
+keywords: [polityka dostępności,dostępność cyfrowa,kultura organizacyjna,zarządzanie,]
+tags: [polityka dostępności,dostępność cyfrowa,kultura organizacyjna,zarządzanie,]
 opracowanie: Anna Czekalska
 data_zgloszenia: 21 października 2025 r.
 ostatnia_aktualizacja: 21 października 2025 r.
@@ -24,7 +14,7 @@ wersja_robocza: true
 
 :::note Uwaga
 
-Do tego zalecenia tworzona jest **Instrukcja do Manifestu/preambuły do polityki dostępności**
+Do tego zalecenia opracowana jest **Instrukcja do Manifestu/preambuły do polityki dostępności**
 
 :::
 

@@ -1,5 +1,5 @@
 ---
-id: pl-acc-021-administrator-serwisu-dostępność-techniczna
+id: pl-acc-021-administrator-serwisu-dostepnosc-techniczna
 title: Administrator serwisu zapewniający dostępność techniczną
 sidebar_label: Administrator serwisu
 sidebar_position: 31

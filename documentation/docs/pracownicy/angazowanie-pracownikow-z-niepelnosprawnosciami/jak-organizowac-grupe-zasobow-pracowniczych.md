@@ -3,7 +3,7 @@ id: jak-organizowac-grupe-zasobow-pracowniczych
 title: Jak organizować Grupę Zasobów Pracowniczych (Employee Resource Group – ERG)
 description: Praktyczny przewodnik dotyczący tworzenia i prowadzenia Grup Zasobów Pracowniczych wspierających działania związane z dostępnością cyfrową i włączeniem.
 sidebar_label: Jak organizować ERG
-sidebar_position: 0
+sidebar_position: 2
 keywords: [osoby z niepełnosprawnościami, zatrudnianie, dostępność cyfrowa, kompetencje,konsultacje, testowanie, ERG]
 tags: [osoby z niepełnosprawnościami, zatrudnianie, dostępność cyfrowa, kompetencje,konsultacje, testowanie, ERG]
 opracowanie: Stefan Wajda
