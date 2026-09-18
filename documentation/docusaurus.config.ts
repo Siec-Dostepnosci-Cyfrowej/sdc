@@ -12,6 +12,8 @@ import { createRequire } from 'module';
 // Zamiast getRemarkPlugin z paczki — nasz plugin z linkOnlyFirstOccurrence
 // Używamy createRequire bo jiti na Windows nie obsługuje dynamic import .mjs
 const _require = createRequire(__filename);
+const baseUrl = process.env.BASE_URL || '/sdc/';
+const basePath = baseUrl === '/' ? '' : baseUrl.replace(/\/$/, '');
 const remarkGlossaryFirstOccurrence = _require('./src/remark/glossary-first-occurrence.cjs');
 const baseUrl = process.env.BASE_URL || '/sdc/';
 const glossaryRoutePath = `${baseUrl.replace(/\/$/, '')}/slownik`;
