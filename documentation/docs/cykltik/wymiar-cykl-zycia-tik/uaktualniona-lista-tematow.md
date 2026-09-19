@@ -137,7 +137,7 @@ Kompetencje są częściowo ujęte w innych wymiarach, lecz brak standardu przyp
 
 ---
 
-# Rekomendowana struktura każdego zalecenia
+## Rekomendowana struktura każdego zalecenia
 
 1. Cel i podstawa prawna (ustawa, EN 301 549, EAA)  
 2. Zakres zastosowania (systemy, SaaS, aplikacje mobilne, narzędzia wewnętrzne)  

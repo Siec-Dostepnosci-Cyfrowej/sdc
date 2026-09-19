@@ -134,7 +134,7 @@ Brak modelu budowania wewnętrznych ekspertów zamiast uzależniania się wyłą
 
 ---
 
-# Rekomendowana struktura każdego zalecenia
+## Rekomendowana struktura każdego zalecenia
 
 1. Cel i podstawa prawna  
 2. Zakres ról objętych zaleceniem  

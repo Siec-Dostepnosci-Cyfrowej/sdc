@@ -12,8 +12,6 @@ data_aktualizacji: 23 maja 2026 r.
 wersja_robocza: true
 ---
 
-# Lista kontrolna archiwizacji
-
 Lista ma charakter przykładowy i może być dostosowana do procedur podmiotu.
 
 | Pytanie | Tak | Nie | Uwagi |

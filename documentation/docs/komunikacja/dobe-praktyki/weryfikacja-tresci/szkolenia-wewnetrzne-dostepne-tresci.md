@@ -15,7 +15,7 @@ wersja_robocza: true
 ## Nazwa dobrej praktyki
 System obowiązkowych szkoleń z zakresu tworzenia treści dostępnych cyfrowo dla autorów i weryfikatorów publikacji
 
-## Wymiar dostępności: 
+## Wymiar dostępności:
 Wiedza
 
 ## Podmiot realizujący dobrą praktykę:
@@ -65,7 +65,7 @@ Wprowadzenie obowiązkowych szkoleń miało dodatkowy walor - zapewnianie jednol
 
 ---
 
-# Opis wdrożenia – kroki
+## Opis wdrożenia – kroki
 
 Poniższy diagram przedstawia proces wdrożenia systemu obowiązkowych szkoleń z zakresu dostępności cyfrowej:
 

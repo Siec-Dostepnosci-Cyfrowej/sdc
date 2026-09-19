@@ -63,7 +63,7 @@ Rola stanowi istotne ogniwo pomiędzy:
 
 ### 3.2. Relacje organizacyjne
 
-#### Rola współpracuje z:
+**Rola współpracuje z:**
 - kierownictwem organizacji,
 - sponsorem wykonawczym ds. dostępności,
 - koordynatorem ds. dostępności cyfrowej,
@@ -72,21 +72,21 @@ Rola stanowi istotne ogniwo pomiędzy:
 - specjalistami wsparcia kompetencyjnego,
 - rolami kontrolnymi i audytowymi.
 
-#### Rola wspiera:
+**Rola wspiera:**
 - pracowników i zespoły,
 - realizację procesów,
 - działania organizacyjne i operacyjne,
 - wdrażanie standardów i procedur,
 - działania doskonalące.
 
-#### Rola otrzymuje wsparcie od:
+**Rola otrzymuje wsparcie od:**
 - kierownictwa organizacji,
 - koordynatora ds. dostępności cyfrowej,
 - właścicieli procesów,
 - specjalistów wsparcia kompetencyjnego,
 - ekspertów i analityków.
 
-#### Rola raportuje do:
+**Rola raportuje do:**
 - kierownictwa organizacji lub przełożonego organizacyjnego.
 
 ---

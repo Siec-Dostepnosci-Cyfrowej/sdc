@@ -63,7 +63,7 @@ Rola:
 
 ### 3.2. Relacje organizacyjne
 
-#### Rola współpracuje z:
+**Rola współpracuje z:**
 - właścicielami procesów,
 - koordynatorem ds. dostępności cyfrowej,
 - komórkami zamówień publicznych,
@@ -72,21 +72,21 @@ Rola:
 - analitykami i testerami dostępności,
 - osobami odpowiedzialnymi za odbiór produktów i usług.
 
-#### Rola wspiera:
+**Rola wspiera:**
 - przygotowanie wymagań dostępnościowych,
 - analizę ryzyk zakupowych,
 - ocenę ofert i rozwiązań,
 - odbiór produktów i usług,
 - monitorowanie realizacji wymagań umownych.
 
-#### Rola otrzymuje wsparcie od:
+**Rola otrzymuje wsparcie od:**
 - ekspertów dostępności,
 - specjalistów technicznych,
 - prawników,
 - analityków,
 - kierownictwa organizacji.
 
-#### Rola raportuje do:
+**Rola raportuje do:**
 - właściciela procesu zamówień dostępnych, kierownika komórki organizacyjnej lub koordynatora ds. dostępności cyfrowej.
 
 ---

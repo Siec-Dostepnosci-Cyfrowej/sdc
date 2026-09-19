@@ -65,7 +65,7 @@ Rola:
 
 ### 3.2. Relacje organizacyjne
 
-#### Rola współpracuje z:
+**Rola współpracuje z:**
 - autorami treści,
 - redaktorami treści,
 - właścicielami dokumentów urzędowych,
@@ -74,21 +74,21 @@ Rola:
 - redaktorami jakości,
 - koordynatorem ds. dostępności cyfrowej.
 
-#### Rola wspiera:
+**Rola wspiera:**
 - organizację publikacji informacji prawnej,
 - organizację jakości i dostępności komunikacji prawnej,
 - organizację aktualizacji materiałów,
 - organizację działań naprawczych,
 - rozwój praktyk przygotowywania zrozumiałych informacji prawnych.
 
-#### Rola otrzymuje wsparcie od:
+**Rola otrzymuje wsparcie od:**
 - właściciela procesu zarządzania treściami,
 - specjalistów ds. zgodności i wsparcia prawnego,
 - specjalistów ds. komunikacji dostępnej,
 - specjalistów wsparcia kompetencyjnego,
 - administratorów systemów publikacyjnych.
 
-#### Rola raportuje do:
+**Rola raportuje do:**
 - kierownika komórki organizacyjnej lub właściciela procesu zarządzania treściami.
 
 ---

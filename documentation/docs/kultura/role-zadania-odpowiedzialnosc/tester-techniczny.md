@@ -63,7 +63,7 @@ Rola:
 
 ### 3.2. Relacje organizacyjne
 
-#### Rola współpracuje z:
+**Rola współpracuje z:**
 - testerami dostępności,
 - operatorami testów automatycznych,
 - administratorami systemów,
@@ -72,21 +72,21 @@ Rola:
 - analitykami dostępności,
 - specjalistami ds. zamówień dostępnych.
 
-#### Rola wspiera:
+**Rola wspiera:**
 - identyfikowanie problemów technicznych,
 - analizę zgodności implementacyjnej,
 - odbiory techniczne produktów i usług,
 - działania naprawcze,
 - rozwijanie jakości technicznej organizacji.
 
-#### Rola otrzymuje wsparcie od:
+**Rola otrzymuje wsparcie od:**
 - ekspertów dostępności,
 - administratorów infrastruktury,
 - dostawców systemów,
 - właścicieli procesów,
 - specjalistów bezpieczeństwa i jakości.
 
-#### Rola raportuje do:
+**Rola raportuje do:**
 - właściciela procesu zapewniania dostępności systemów IT, kierownika technicznego lub koordynatora ds. dostępności cyfrowej.
 
 ---

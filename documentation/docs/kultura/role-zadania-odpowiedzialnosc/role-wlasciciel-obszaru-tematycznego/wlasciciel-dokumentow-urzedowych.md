@@ -64,7 +64,7 @@ Rola:
 
 ### 3.2. Relacje organizacyjne
 
-#### Rola współpracuje z:
+**Rola współpracuje z:**
 - autorami dokumentów,
 - redaktorami treści,
 - osobami przygotowującymi elementy dostępności,
@@ -73,21 +73,21 @@ Rola:
 - kierownikami komórek organizacyjnych,
 - koordynatorem ds. dostępności cyfrowej.
 
-#### Rola wspiera:
+**Rola wspiera:**
 - organizację przygotowania dokumentów,
 - organizację odpowiedzialności za dokumenty,
 - organizację kontroli jakości i dostępności,
 - organizację aktualizacji i archiwizacji dokumentów,
 - rozwój praktyk przygotowywania dostępnych dokumentów.
 
-#### Rola otrzymuje wsparcie od:
+**Rola otrzymuje wsparcie od:**
 - właściciela procesu zarządzania treściami,
 - specjalistów ds. komunikacji dostępnej,
 - specjalistów wsparcia kompetencyjnego,
 - administratorów systemów publikacyjnych,
 - redaktorów jakości.
 
-#### Rola raportuje do:
+**Rola raportuje do:**
 - kierownika komórki organizacyjnej lub właściciela procesu zarządzania treściami.
 
 ---

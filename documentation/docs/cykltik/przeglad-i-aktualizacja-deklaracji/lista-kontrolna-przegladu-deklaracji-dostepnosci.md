@@ -25,9 +25,9 @@ Lista nie zastępuje procedury przeglądu i aktualizacji deklaracji, zasad obser
 
 Nie wszystkie pytania mają zastosowanie do każdego procesu. Pytania oznaczone jako dotyczące corocznego przeglądu albo reakcji na zmianę stosuje się odpowiednio do przyczyny rozpoczęcia procesu.
 
-# Lista kontrolna przeglądu deklaracji dostępności
+## Lista kontrolna przeglądu deklaracji dostępności
 
-## 1. Rozpoczęcie procesu
+### 1. Rozpoczęcie procesu
 
 | Lp. | Pytanie                                                                                                                    | Tak | Nie | Nie dotyczy | Uwagi |
 | --- | -------------------------------------------------------------------------------------------------------------------------- | --- | --- | ----------- | ----- |
@@ -35,7 +35,7 @@ Nie wszystkie pytania mają zastosowanie do każdego procesu. Pytania oznaczone 
 | 2   | Czy wskazano stronę internetową lub aplikację mobilną oraz deklarację objętą procesem?                                     | ☐   | ☐   | ☐           |       |
 | 3   | Czy wskazano osobę odpowiedzialną za przeprowadzenie procesu?                                                              | ☐   | ☐   | ☐           |       |
 
-## 2. Przygotowanie podstawy corocznego przeglądu
+### 2. Przygotowanie podstawy corocznego przeglądu
 
 *Pytania 4–10 dotyczą corocznego przeglądu.*
 
@@ -49,7 +49,7 @@ Nie wszystkie pytania mają zastosowanie do każdego procesu. Pytania oznaczone 
 | 9   | Jeżeli zakres rozpoznania stanu nie obejmuje jeszcze wszystkich mających zastosowanie obowiązkowych wymagań i reprezentatywnego zakresu rozwiązania, czy kontynuowano planowe rozszerzanie wiedzy?                   | ☐   | ☐   | ☐           |       |
 | 10  | Jeżeli organizacja dysponuje wiedzą obejmującą wszystkie mające zastosowanie obowiązkowe wymagania i reprezentatywny zakres rozwiązania, czy ustalono, że wiedza ta pozostaje aktualna?                              | ☐   | ☐   | ☐           |       |
 
-## 3. Reakcja na zmianę rozwiązania
+### 3. Reakcja na zmianę rozwiązania
 
 *Pytania 11–14 dotyczą procesu rozpoczętego w związku ze zmianą strony internetowej lub aplikacji mobilnej.*
 
@@ -60,7 +60,7 @@ Nie wszystkie pytania mają zastosowanie do każdego procesu. Pytania oznaczone 
 | 13  | Jeżeli było to potrzebne, czy przeprowadzono ocenę doraźną w zakresie odpowiednim do charakteru zmiany i potrzeb informacyjnych?    | ☐   | ☐   | ☐           |       |
 | 14  | Czy wyniki rozpoznania zmiany i przeprowadzonych ocen zostały wykorzystane do aktualizacji wiedzy o stanie dostępności i zgodności? | ☐   | ☐   | ☐           |       |
 
-## 4. Aktualność i wystarczalność wiedzy
+### 4. Aktualność i wystarczalność wiedzy
 
 | Lp. | Pytanie                                                                                                                                                                       | Tak | Nie | Nie dotyczy | Uwagi |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | ----------- | ----- |
@@ -69,7 +69,7 @@ Nie wszystkie pytania mają zastosowanie do każdego procesu. Pytania oznaczone 
 | 17  | Czy ustalono, że wiedza stanowiąca podstawę przeglądu pozostaje aktualna i jest wystarczająca do zweryfikowania deklaracji?                                                   | ☐   | ☐   | ☐           |       |
 | 18  | Jeżeli stwierdzono istotne braki, niejasności lub rozbieżności, czy przeprowadzono potrzebną ocenę doraźną i zaktualizowano wiedzę w rejestrze?                               | ☐   | ☐   | ☐           |       |
 
-## 5. Porównanie wiedzy z deklaracją
+### 5. Porównanie wiedzy z deklaracją
 
 | Lp. | Pytanie                                                                                                                                                          | Tak | Nie | Nie dotyczy | Uwagi |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | ----------- | ----- |
@@ -80,7 +80,7 @@ Nie wszystkie pytania mają zastosowanie do każdego procesu. Pytania oznaczone 
 | 23  | Czy sprawdzono kompletność, poprawność i aktualność pozostałych informacji wymaganych w deklaracji?                                                              | ☐   | ☐   | ☐           |       |
 | 24  | Czy ustalono i udokumentowano, które informacje wymagają zmiany?                                                                                                 | ☐   | ☐   | ☐           |       |
 
-## 6. Wynik procesu i przygotowanie deklaracji
+### 6. Wynik procesu i przygotowanie deklaracji
 
 | Lp. | Pytanie                                                                                                                                                                                             | Tak | Nie | Nie dotyczy | Uwagi |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | ----------- | ----- |
@@ -88,7 +88,7 @@ Nie wszystkie pytania mają zastosowanie do każdego procesu. Pytania oznaczone 
 | 26  | W przypadku reakcji na zmianę: czy udokumentowano potrzebę aktualizacji deklaracji albo podstawę ustalenia, że aktualizacja nie jest potrzebna?                                                     | ☐   | ☐   | ☐           |       |
 | 27  | Jeżeli przygotowano zaktualizowaną deklarację, czy zweryfikowano jej zgodność z wynikami przeglądu, kompletność, poprawność oraz zgodność z wymaganiami dotyczącymi treści i warunków technicznych? | ☐   | ☐   | ☐           |       |
 
-## 7. Zatwierdzenie, publikacja i zakończenie procesu
+### 7. Zatwierdzenie, publikacja i zakończenie procesu
 
 | Lp. | Pytanie                                                                                                                                                                    | Tak | Nie | Nie dotyczy | Uwagi |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | ----------- | ----- |
@@ -96,7 +96,7 @@ Nie wszystkie pytania mają zastosowanie do każdego procesu. Pytania oznaczone 
 | 29  | Czy po publikacji sprawdzono, że opublikowano właściwą wersję, a deklaracja jest kompletna, poprawnie wyświetlana, prawidłowo powiązana z rozwiązaniem i dostępna cyfrowo? | ☐   | ☐   | ☐           |       |
 | 30  | Czy zachowano informacje potrzebne do odtworzenia przebiegu procesu, podstaw dokonanych ustaleń, poprzedniej wersji deklaracji oraz wyniku i dokumentacji przeglądu?       | ☐   | ☐   | ☐           |       |
 
-## Wynik kontroli
+### Wynik kontroli
 
 **Czy proces przeprowadzono zgodnie z procedurą?**
 

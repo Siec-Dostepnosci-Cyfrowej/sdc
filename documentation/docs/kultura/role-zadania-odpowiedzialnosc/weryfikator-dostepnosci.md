@@ -63,7 +63,7 @@ Rola:
 
 ### 3.2. Relacje organizacyjne
 
-#### Rola współpracuje z:
+**Rola współpracuje z:**
 - autorami treści,
 - redaktorami,
 - osobami przygotowującymi elementy dostępności,
@@ -72,21 +72,21 @@ Rola:
 - specjalistami ds. remediacji,
 - administratorami systemów publikacyjnych.
 
-#### Rola wspiera:
+**Rola wspiera:**
 - kontrolę jakości przed publikacją,
 - identyfikowanie problemów dostępności,
 - organizację działań naprawczych,
 - utrzymanie jakości publikacji,
 - rozwijanie standardów jakościowych organizacji.
 
-#### Rola otrzymuje wsparcie od:
+**Rola otrzymuje wsparcie od:**
 - ekspertów dostępności,
 - analityków dostępności,
 - administratorów systemów,
 - specjalistów wsparcia kompetencyjnego,
 - właścicieli procesów.
 
-#### Rola raportuje do:
+**Rola raportuje do:**
 - właściciela procesu monitoringu i oceny, właściciela procesu zarządzania treściami lub koordynatora ds. dostępności cyfrowej.
 
 ---

@@ -63,27 +63,27 @@ Rola:
 
 ### 3.2. Relacje organizacyjne
 
-#### Rola współpracuje z:
+**Rola współpracuje z:**
 - kierownictwem organizacji,
 - koordynatorem ds. dostępności cyfrowej,
 - właścicielami procesów,
 - kierownikami komórek organizacyjnych,
 - osobami odpowiedzialnymi za monitoring i raportowanie.
 
-#### Rola wspiera:
+**Rola wspiera:**
 - koordynację działań,
 - współpracę między komórkami organizacyjnymi,
 - realizację działań wymagających wsparcia kierowniczego,
 - działania doskonalące.
 
-#### Rola otrzymuje wsparcie od:
+**Rola otrzymuje wsparcie od:**
 - kierownictwa organizacji,
 - koordynatora ds. dostępności cyfrowej,
 - analityków,
 - audytorów,
 - ekspertów.
 
-#### Rola raportuje do:
+**Rola raportuje do:**
 - kierownictwa organizacji.
 
 ---

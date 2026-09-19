@@ -5,8 +5,6 @@ sidebar_label: Harmonogram spotkań Sieci
 sidebar_position: 2 
 ---
 
-# Harmonogram spotkań Sieci dostępności cyfrowej
-
 W 2025 roku odbędzie się 11 spotkań Sieci:
 
 - **luty**: 25.02.2025 r., godz. 10:00-13:00 — zdalnie: MS Teams;

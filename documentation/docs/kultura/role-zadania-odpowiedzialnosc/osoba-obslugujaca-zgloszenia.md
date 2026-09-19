@@ -65,7 +65,7 @@ Rola:
 
 ### 3.2. Relacje organizacyjne
 
-#### Rola współpracuje z:
+**Rola współpracuje z:**
 - koordynatorem ds. dostępności cyfrowej,
 - właścicielami procesów,
 - kierownikami komórek organizacyjnych,
@@ -74,21 +74,21 @@ Rola:
 - testerami i analitykami,
 - osobami realizującymi działania naprawcze.
 
-#### Rola wspiera:
+**Rola wspiera:**
 - użytkowników zgłaszających problemy,
 - organizację działań naprawczych,
 - analizę problemów jakościowych i dostępnościowych,
 - monitoring problemów powtarzalnych,
 - organizację komunikacji związanej ze zgłoszeniami.
 
-#### Rola otrzymuje wsparcie od:
+**Rola otrzymuje wsparcie od:**
 - koordynatora ds. dostępności cyfrowej,
 - specjalistów dostępności,
 - administratorów systemów,
 - ekspertów technicznych i organizacyjnych,
 - specjalistów wsparcia kompetencyjnego.
 
-#### Rola raportuje do:
+**Rola raportuje do:**
 - koordynatora ds. dostępności cyfrowej lub kierownika odpowiedzialnego za organizację obsługi zgłoszeń.
 
 ---

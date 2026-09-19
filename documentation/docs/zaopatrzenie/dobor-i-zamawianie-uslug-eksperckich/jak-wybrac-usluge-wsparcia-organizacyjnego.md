@@ -45,9 +45,9 @@ Odpowiedzi na te pytania pozwalają dobrać usługę odpowiadającą rzeczywisty
 
 ---
 
-# Jak wybrać usługę?
+## Jak wybrać usługę?
 
-## Krok 1. Określ zmianę organizacyjną, którą organizacja chce przeprowadzić
+### Krok 1. Określ zmianę organizacyjną, którą organizacja chce przeprowadzić
 
 Najpierw odpowiedz na pytanie, co ma zmienić się w sposobie działania organizacji.
 
@@ -64,7 +64,7 @@ To właśnie planowana zmiana powinna być punktem wyjścia do wyboru usługi.
 
 ---
 
-## Krok 2. Określ obszar funkcjonowania organizacji, którego dotyczy zmiana
+### Krok 2. Określ obszar funkcjonowania organizacji, którego dotyczy zmiana
 
 Następnie określ, którego obszaru funkcjonowania organizacji dotyczy planowane przedsięwzięcie.
 
@@ -82,7 +82,7 @@ W wielu przypadkach przedsięwzięcie będzie obejmowało więcej niż jeden obs
 
 ---
 
-## Krok 3. Określ oczekiwane rezultaty
+### Krok 3. Określ oczekiwane rezultaty
 
 Na końcu określ, jakie rezultaty organizacja chce osiągnąć.
 
@@ -102,7 +102,7 @@ Rezultatem usługi organizacyjnej powinna być przede wszystkim trwała zmiana s
 
 ---
 
-# Typowe sytuacje
+## Typowe sytuacje
 
 | Jeżeli organizacja chce... | Rozważ przede wszystkim... |
 |----------------------------|----------------------------|
@@ -118,9 +118,9 @@ Jeżeli planowana zmiana obejmuje kilka obszarów funkcjonowania organizacji, wa
 
 ---
 
-# Przykładowe błędy
+## Przykładowe błędy
 
-## Koncentrowanie się wyłącznie na pojedynczym problemie
+### Koncentrowanie się wyłącznie na pojedynczym problemie
 
 Nieodpowiedni wybór polega na zamawianiu usługi wyłącznie po to, aby rozwiązać jeden bieżący problem.
 
@@ -128,7 +128,7 @@ Znacznie lepszym rozwiązaniem jest określenie, jaka zmiana organizacyjna pozwo
 
 ---
 
-## Traktowanie dokumentów jako głównego rezultatu
+### Traktowanie dokumentów jako głównego rezultatu
 
 Opracowanie polityki, procedury lub instrukcji nie jest jeszcze zmianą organizacyjną.
 
@@ -136,7 +136,7 @@ Dokumenty powinny wspierać zmianę sposobu działania organizacji, a nie stanow
 
 ---
 
-## Próba zmiany organizacji bez zaangażowania kierownictwa
+### Próba zmiany organizacji bez zaangażowania kierownictwa
 
 Zmiany organizacyjne wymagają decyzji kierownictwa oraz jego aktywnego udziału.
 
@@ -144,7 +144,7 @@ Usługi organizacyjne wspierają kierownictwo w przygotowaniu i przeprowadzeniu 
 
 ---
 
-## Rozpoczynanie działań od szczegółów zamiast od podstaw
+### Rozpoczynanie działań od szczegółów zamiast od podstaw
 
 Organizacja często rozpoczyna działania od tworzenia pojedynczych procedur lub rozwiązywania lokalnych problemów.
 
@@ -152,7 +152,7 @@ W wielu przypadkach właściwsze jest najpierw uporządkowanie zasad zarządzani
 
 ---
 
-## Wybieranie usług niezależnie od etapu rozwoju organizacji
+### Wybieranie usług niezależnie od etapu rozwoju organizacji
 
 Potrzeby organizacji rozpoczynającej budowanie systemu zapewniania dostępności są inne niż potrzeby organizacji rozwijającej już funkcjonujące rozwiązania.
 
@@ -160,7 +160,7 @@ Dobór usługi powinien uwzględniać aktualny etap rozwoju organizacji.
 
 ---
 
-# Najważniejsza zasada
+## Najważniejsza zasada
 
 Usługę wsparcia organizacyjnego należy dobierać przede wszystkim do **zmiany organizacyjnej, którą organizacja chce przeprowadzić**, a nie do pojedynczego problemu, który chce rozwiązać.
 

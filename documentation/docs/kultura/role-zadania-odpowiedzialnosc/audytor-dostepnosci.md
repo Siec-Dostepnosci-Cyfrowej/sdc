@@ -66,7 +66,7 @@ Rola:
 
 ### 3.2. Relacje organizacyjne
 
-#### Rola współpracuje z:
+**Rola współpracuje z:**
 - testerami dostępności,
 - analitykami dostępności,
 - koordynatorem ds. dostępności cyfrowej,
@@ -75,21 +75,21 @@ Rola:
 - specjalistami ds. remediacji,
 - kierownictwem organizacji.
 
-#### Rola wspiera:
+**Rola wspiera:**
 - ocenę skuteczności działań organizacji,
 - identyfikowanie problemów systemowych,
 - analizę ryzyk organizacyjnych,
 - planowanie działań naprawczych i doskonalących,
 - rozwój standardów jakości i monitoringu.
 
-#### Rola otrzymuje wsparcie od:
+**Rola otrzymuje wsparcie od:**
 - ekspertów technicznych,
 - administratorów systemów,
 - specjalistów wsparcia kompetencyjnego,
 - właścicieli procesów,
 - analityków i testerów.
 
-#### Rola raportuje do:
+**Rola raportuje do:**
 - kierownictwa organizacji, sponsora wykonawczego ds. dostępności lub właściciela procesu monitoringu i oceny.
 
 ---

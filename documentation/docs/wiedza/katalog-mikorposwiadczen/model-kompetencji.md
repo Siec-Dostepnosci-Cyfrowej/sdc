@@ -12,8 +12,6 @@ ostatnia_aktualizacja: 19 kwietnia 2026 r.
 wersja_robocza: true
 ---
 
-# Minimalny model kompetencji organizacji w zakresie dostępności cyfrowej (wersja rozszerzona)
-
 ## 1. Cel modelu
 
 Celem modelu jest określenie minimalnego, ale kompletnego zestawu kompetencji, które organizacja zapewnia, aby skutecznie tworzyć, publikować, weryfikować i doskonalić dostępność:

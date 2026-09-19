@@ -145,7 +145,7 @@ Brak formalnego standardu narzędzi wspierających tworzenie dostępnych treści
 
 ---
 
-# Rekomendowana struktura każdego zalecenia
+## Rekomendowana struktura każdego zalecenia
 
 1. Cel i podstawa prawna (ustawa, EN 301 549, WCAG, EAA)  
 2. Zakres zastosowania  

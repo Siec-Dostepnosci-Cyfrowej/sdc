@@ -65,7 +65,7 @@ Rola:
 
 ### 3.2. Relacje organizacyjne
 
-#### Rola współpracuje z:
+**Rola współpracuje z:**
 - specjalistami ds. wsparcia kompetencyjnego i rozwoju zdolności organizacji,
 - kierownikami komórek organizacyjnych,
 - właścicielami procesów,
@@ -73,21 +73,21 @@ Rola:
 - analitykami i audytorami dostępności,
 - właścicielami obszarów merytorycznych.
 
-#### Rola wspiera:
+**Rola wspiera:**
 - organizację wsparcia kompetencyjnego,
 - rozwój praktyk organizacyjnych,
 - organizację przepływu wiedzy,
 - organizację rozwiązywania problemów,
 - rozwój organizacji uczącej się.
 
-#### Rola otrzymuje wsparcie od:
+**Rola otrzymuje wsparcie od:**
 - kierownictwa organizacji,
 - ekspertów dostępności,
 - analityków i audytorów,
 - specjalistów technicznych,
 - właścicieli procesów.
 
-#### Rola raportuje do:
+**Rola raportuje do:**
 - właściciela procesu zarządzania systemem dostępności, sponsora wykonawczego ds. dostępności lub kierownictwa organizacji.
 
 ---

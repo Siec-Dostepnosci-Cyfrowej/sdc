@@ -48,9 +48,9 @@ Odpowiedzi na te pytania pozwalają zweryfikować pierwszy pomysł na usługę o
 
 ---
 
-# Jak wybrać usługę?
+## Jak wybrać usługę?
 
-## Krok 1. Określ kompetencję, którą organizacja chce zbudować lub rozwinąć
+### Krok 1. Określ kompetencję, którą organizacja chce zbudować lub rozwinąć
 
 Najpierw odpowiedz na pytanie, co organizacja powinna potrafić wykonywać samodzielnie po zakończeniu przedsięwzięcia.
 
@@ -64,7 +64,7 @@ Przykładowo:
 
 ---
 
-## Krok 2. Określ zadanie, które może zostać wykonane podczas realizacji usługi
+### Krok 2. Określ zadanie, które może zostać wykonane podczas realizacji usługi
 
 Zastanów się, czy uczestnicy powinni jedynie zdobyć wiedzę, czy również wykonać rzeczywiste zadanie potrzebne organizacji.
 
@@ -81,7 +81,7 @@ Przykładowo podczas przedsięwzięcia można:
 
 ---
 
-## Krok 3. Określ oczekiwane rezultaty
+### Krok 3. Określ oczekiwane rezultaty
 
 Na końcu odpowiedz na pytanie, jakie rezultaty organizacja chce osiągnąć dzięki realizacji przedsięwzięcia.
 
@@ -101,7 +101,7 @@ Im pełniej rezultat odpowiada rzeczywistym potrzebom organizacji, tym większą
 
 ---
 
-# Typowe sytuacje
+## Typowe sytuacje
 
 | Jeżeli organizacja potrzebuje... | Rozważ przede wszystkim... |
 |----------------------------------|----------------------------|
@@ -122,9 +122,9 @@ Im pełniej rezultat odpowiada rzeczywistym potrzebom organizacji, tym większą
 
 ---
 
-# Przykładowe błędy
+## Przykładowe błędy
 
-## Traktowanie szkolenia jako celu
+### Traktowanie szkolenia jako celu
 
 Nieodpowiedni wybór polega na zamawianiu szkolenia wyłącznie po to, aby przekazać uczestnikom wiedzę.
 
@@ -132,7 +132,7 @@ Znacznie lepszym rozwiązaniem jest określenie, jakie zadania uczestnicy mają 
 
 ---
 
-## Zastępowanie zmian organizacyjnych szkoleniem
+### Zastępowanie zmian organizacyjnych szkoleniem
 
 Szkolenie nie zastąpi standardów, procedur, szablonów, metod kontroli ani wsparcia przełożonych.
 
@@ -140,7 +140,7 @@ Jeżeli problem wynika z braku takich rozwiązań, warto wykorzystać wsparcie k
 
 ---
 
-## Zamawianie kolejnych szkoleń zamiast budowania własnej zdolności
+### Zamawianie kolejnych szkoleń zamiast budowania własnej zdolności
 
 Jeżeli organizacja stale szkoli kolejne grupy pracowników z tego samego zakresu, warto rozważyć przygotowanie własnych trenerów, materiałów i programów szkoleniowych.
 
@@ -148,7 +148,7 @@ Dzięki temu organizacja stanie się mniej zależna od zewnętrznych usług.
 
 ---
 
-## Ograniczanie rezultatów do liczby przeszkolonych osób
+### Ograniczanie rezultatów do liczby przeszkolonych osób
 
 Liczba uczestników lub godzin szkolenia nie świadczy o wartości przedsięwzięcia.
 
@@ -156,7 +156,7 @@ Znacznie ważniejsze jest to, czy organizacja po zakończeniu usługi potrafi sk
 
 ---
 
-## Pozostawienie uczestników bez wsparcia po zakończeniu szkolenia
+### Pozostawienie uczestników bez wsparcia po zakończeniu szkolenia
 
 Pracownicy potrzebują możliwości korzystania z przygotowanych standardów, instrukcji, wzorców i materiałów oraz uzyskania pomocy w przypadku problemów.
 
@@ -164,7 +164,7 @@ Brak takich rozwiązań powoduje, że zdobyte kwalifikacje są wykorzystywane ty
 
 ---
 
-# Najważniejsza zasada
+## Najważniejsza zasada
 
 Usługę wsparcia kompetencyjnego należy dobierać przede wszystkim do **kompetencji, które organizacja chce zbudować**, oraz **rezultatów, które chce osiągnąć**, a nie wyłącznie do tematu planowanego szkolenia.
 

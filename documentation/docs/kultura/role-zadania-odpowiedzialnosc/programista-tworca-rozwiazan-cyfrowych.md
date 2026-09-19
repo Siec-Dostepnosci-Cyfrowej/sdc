@@ -66,7 +66,7 @@ Rola:
 
 ### 3.2. Relacje organizacyjne
 
-#### Rola współpracuje z:
+**Rola współpracuje z:**
 - projektantami usług cyfrowych,
 - testerami technicznymi,
 - testerami dostępności,
@@ -75,21 +75,21 @@ Rola:
 - właścicielami procesów,
 - analitykami dostępności.
 
-#### Rola wspiera:
+**Rola wspiera:**
 - wdrażanie wymagań dostępności,
 - rozwój usług i systemów cyfrowych,
 - usuwanie problemów implementacyjnych,
 - utrzymanie jakości technicznej,
 - rozwijanie standardów technicznych organizacji.
 
-#### Rola otrzymuje wsparcie od:
+**Rola otrzymuje wsparcie od:**
 - ekspertów dostępności,
 - testerów i analityków,
 - administratorów systemów,
 - projektantów UX,
 - właścicieli procesów.
 
-#### Rola raportuje do:
+**Rola raportuje do:**
 - kierownika technicznego, właściciela procesu zapewniania dostępności systemów IT lub właściciela produktu/usługi.
 
 ---

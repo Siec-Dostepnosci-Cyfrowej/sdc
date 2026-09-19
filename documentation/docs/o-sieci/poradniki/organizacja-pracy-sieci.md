@@ -9,7 +9,7 @@ data_zgloszenia: 21 lipca 2025 r.
 ostatnia_aktualizacja: 24 września 2025 r.
 ---
 
-# Rola uczestnika Sieci, zespołów i całej Sieci
+## Rola uczestnika Sieci, zespołów i całej Sieci
 
 
 :::info O tym dokumencie
@@ -20,11 +20,11 @@ Transkrypcja prezentacji wygłoszonej podczas VI spotkania Sieci dostępności c
 
 * [Pobierz prezentację, PowerPoint, 1,052MB](./img/SDC-6-spotkanie-Ja-zespol-i-Siec.pptx)
 
-## 🎓Slajd 1: Organizacja pracy Sieci. Ja, zespół i Sieć
+### 🎓Slajd 1: Organizacja pracy Sieci. Ja, zespół i Sieć
 
 Rola uczestnika Sieci, zespołów i całej Sieci w realizacji celu Sieci
 
-## 🧩Slajd 2: Kontekst i cel prezentacji
+### 🧩Slajd 2: Kontekst i cel prezentacji
 
 - Aktywność uczestników Sieci w pracy zespołów
 - Śladowa liczba zgłoszonych i rozpatrywanych przez zespoły projektów rozwiązań
@@ -42,7 +42,7 @@ Drugi motyw opisałem oznajmieniem: „śladowa liczba zgłoszonych i rozpatrywa
 
 Trzeci motyw to konsekwencja dwóch poprzednich. Nie byliśmy w stanie, jak to zamierzaliśmy, ustalić programu dzisiejszego spotkania Sieci, na który złożyłyby się prezentacje 4-6 rozwiązań, które Sieć mogłaby przedyskutować.
 
-## 🧩Slajd 3: Jesteśmy w fazie „forming”
+### 🧩Slajd 3: Jesteśmy w fazie „forming”
 
 „Czy wiadomo o czym będzie mowa w kwestii organizacji prac? To już 6 spotkanie, a mam wrażenie, że wciąż jesteśmy w fazie „forming”.
 
@@ -67,7 +67,7 @@ Pozostałe zespoły poinformowały, że rozważały koncepcje swojej pracy i om�
 
 **Ale jest to nadal faza formowania**! A my chcielibyśmy już najlepiej być w fazie „działania” albo przynajmniej „normowania”, bo fazy „burzy” to pewno w ogóle nie dopuszczamy do swoich myśli.
 
-## 🧩Slajd 4: Przejdźmy do fazy normowania
+### 🧩Slajd 4: Przejdźmy do fazy normowania
 
 - **Stadium burzy**: W tym stadium pojawiają się konflikty i różnice zdań. Członkowie kwestionują autorytet lidera i próbują ustalić swoje miejsce w grupie. Ważne jest, aby lider potrafił zarządzać konfliktami i pomóc zespołowi przejść przez ten trudny etap.
 - **Stadium normowania**: Po burzy następuje okres, w którym zespół zaczyna ustalać zasady i normy współpracy. Członkowie zaczynają akceptować siebie nawzajem i budować zaufanie. Lider powinien wspierać budowanie pozytywnej atmosfery i wzajemnego szacunku.
@@ -80,7 +80,7 @@ Pewno w trakcie jednego dzisiejszego spotkania nie przejdziemy przez fazę normo
 
 Dla osiągnięcia celu Sieci potrzebna jest rzeczywista aktywność i użyteczność wszystkich, każdego z nas.
 
-## 🧩Slajd 5: „Ja” w Sieci
+### 🧩Slajd 5: „Ja” w Sieci
 
 - Udział w pracy nad co najmniej jednym z wymiarów dostępności
 - Udział w spotkaniach wybranego zespołu(-ów)
@@ -91,13 +91,13 @@ Dla osiągnięcia celu Sieci potrzebna jest rzeczywista aktywność i użyteczno
 
 Ogólnie rzecz ujmując, miejsce uczestnika w Sieci opisuje 6 punktów widocznych na slajdzie.
 
-### Udział w pracy nad co najmniej jednym z wymiarów dostępności
+#### Udział w pracy nad co najmniej jednym z wymiarów dostępności
 
 Aktualnie są wśród uczestników osoby, które zgłosiły swój akces do 2, 3 a nawet 4 zespołów. Każdy zespół potrzebuje aktywności wszystkich, którzy się do niego zgłosili. Ale też prawdopodobnie nie każdy zespół będzie w stanie skonsumować aktywność wszystkich. Zwłaszcza, gdy zespół liczy 33, 27 a nawet 22 osoby.
 
 Prezydium Sieci proponuje, aby każdy z Państwa rozważył jeszcze raz swój akces do pracy w zespołach i zdecydował się na udział w pracach jednego, maksymalnie dwóch zespołów. Jeśli ktoś będzie chciał wnieść wkład do prac innego niż macierzysty zespołu, zawsze może zgłosić swój akces do takiego zespołu okresowo, na czas procedowania jego projektu.
 
-### Udział w spotkaniach wybranego zespołu(-ów)
+#### Udział w spotkaniach wybranego zespołu(-ów)
 
 Jeśli ktoś zdecydował się na udział w pracach zespołów, to konsekwencją jest obowiązek udziału w spotkaniach zespołu. Oczywiście, usprawiedliwiona nieobecność zawsze może się zdarzyć. Ale w takich przypadkach standardem powinno być powiadomienie zespołu lub lidera, że nie będzie się obecnym albo – gdy nieobecność nie byłą planowana, powiadomienie o przyczynie nieobecności po fakcie, najszybciej jak to możliwe. Na pewno standardem nie powinno być traktowanie swojej nieobecności jako czego normalnego. I na pewno standardem nie powinny być częste nieobecności.
 
@@ -105,7 +105,7 @@ Udział w spotkaniu to nie tylko obecność, to także aktywność. Zachęcamy d
 
 Zalecamy tutaj dobrą praktykę, by przygotować podsumowanie swoich wypowiedzi i umieszczać to podsumowanie np. na czacie zespołu czy wprost w protokole. Wpisanie podsumowania swojej wypowiedzi do projektu protokołu, to bardzo dobry sposób na udział w spotkaniach osób nieobecnych. Nie możesz być obecny fizycznie albo nie było Cię – przekaż swoje zdanie zespołowi.
 
-### Opracowanie i zgłoszenie pod rozwagę zespołu kilku propozycji zaleceń, rozwiązań, przykładów dobrych praktyk
+#### Opracowanie i zgłoszenie pod rozwagę zespołu kilku propozycji zaleceń, rozwiązań, przykładów dobrych praktyk
 
 Szczegółowo o tym zadaniu będę mówić w kolejnej części spotkania. Tutaj tylko kwestie ogólne.
 
@@ -125,7 +125,7 @@ Zgłoszenie kolejnej opracowanej propozycji powinno mieć miejsce w przypadku ka
 
 To pomoże po pierwsze, każdemu uczestnikowi określić swoje miejsce w Sieci i w zespole, mieć zadanie i być odpowiedzialnym za jego wykonanie. A bez tego nie ma mowy o aktywności. I po drugie, pozwoli to zespołom i liderom zespołów organizować pracę, planować spotkania.
 
-### Wsparcie innego/innych członków zespołu w dopracowaniu ich projektów
+#### Wsparcie innego/innych członków zespołu w dopracowaniu ich projektów
 
 Każda zgłoszona propozycja wymaga recenzji – analizy i oceny, uzupełnień, korekt. Czasem będzie też wymagała podredagowania czy nawet zupełnego przeredagowania.
 
@@ -139,11 +139,11 @@ Idealnie byłoby, gdyby w miarę pojawiania się dokumentów z opracowanymi prop
 
 Najlepiej byłoby, gdyby koreferenci zgłaszali się sami. Tworzenie par „ja pomagam tobie w pracy, ty pomagasz mnie” to kolejny przykład dobrej i skutecznej praktyki.
 
-### Zgłaszanie bezpośrednio propozycji zaleceń, rozwiązań, przykładów dobrych praktyk
+#### Zgłaszanie bezpośrednio propozycji zaleceń, rozwiązań, przykładów dobrych praktyk
 
 Oprócz tej opisanej przed chwilą drogi, każdy z uczestników Sieci może zgłaszać swoje propozycje bezpośrednio do Prezydium Sieci. Prezydium rozstrzygnie w takich przypadkach, czy dopuścić propozycję do procedowania od razu na spotkaniu Sieci, czy poddać je najpierw do oceny odpowiedniego zespołu, czy nadać sprawie inny bieg.
 
-### Udział w spotkaniach Sieci
+#### Udział w spotkaniach Sieci
 
 Zależy nam również na tym, żeby każdy aktywnie uczestniczył w spotkaniach Sieci. To oczywiste. Ale chodzi nam też o to, aby był to udział jak najczęściej dobrze przygotowany.
 
@@ -156,7 +156,7 @@ Podstawowy warunek musi najpierw spełnić Sieć. Przed planowanym spotkaniem Si
 - Dobrze byłoby, gdyby prezydium otrzymało zgłoszenia do dyskusji nad projektami przed spotkaniem Sieci albo najpóźniej na początku spotkania.
 - Dobrze byłoby, gdyby przynajmniej podsumowanie wypowiedzi miało formę pisemną i było zgłaszane do protokołu (np. przez wklejenie na czata).
 
-## 🧩Slajd 6: Zespół w Sieci
+### 🧩Slajd 6: Zespół w Sieci
 
 - przedkładanie Sieci propozycji zaleceń, rozwiązań, dobrych praktyk
 - recenzowanie projektów zgłoszonych przez uczestników Sieci
@@ -166,7 +166,7 @@ Podstawowy warunek musi najpierw spełnić Sieć. Przed planowanym spotkaniem Si
 
 Miejsce zespołu w Sieci, tak jak to się rysuje na dziś, opisuje skrótowo 5 punktów widocznych na slajdzie.
 
-### Przedkładanie Sieci propozycji zaleceń, rozwiązań, dobrych praktyk
+#### Przedkładanie Sieci propozycji zaleceń, rozwiązań, dobrych praktyk
 
 Krótkoterminowym, pragmatycznym zadaniem każdego zespołu jest przygotowanie na każde kolejne spotkanie „przedłożenia” propozycji swoistej uchwały Sieci, która zawiera projekt zalecenia, rekomendacji, rozwiązań systemowych, opisy dobrych praktyk.
 
@@ -186,7 +186,7 @@ Oznacza to, że każde spotkanie Zespołu powinno służyć w znacznej części 
 
 **Katalog _001-SDC-zalecenia-rekomendacje_**: w repozytorium plików w kanale wspólnym w katalogu _001-SDC-zalecenia-rekomendacje_ tworzymy podkatalog w którym umieszczamy dokumenty projektu. Nazwą podkatalogu jest kolejny numer porządkowy z zerami początkowymi w przypadku numerów poniżej 100, skrót SDC i nazwa zalecenia/rozwiązania. Tu umieszczamy również prezentację projektu.
 
-### Recenzowanie projektów zgłoszonych przez uczestników Sieci
+#### Recenzowanie projektów zgłoszonych przez uczestników Sieci
 
 Recenzowanie projektów zgłoszonych przez uczestników Sieci to podstawowe stałe zadanie zespołu, przynajmniej do czasu II etapu, który nastąpi nie wcześniej niż za półtora roku.
 
@@ -194,7 +194,7 @@ Recenzowanie projektów zgłoszonych przez uczestników Sieci to podstawowe sta�
 
 Pamiętać przy tym trzeba, i to jest dodatkowa trudność, że chodzi tu o projekty, które opracują i zgłoszą uczestnicy Sieci, z czego mają prawo być zadowoleni, a nawet dumni. Krytyczne uwagi (a te są niezbędne do racjonalnej oceny) niekoniecznie mogą eufemistycznie mówiąc atrakcją. Mogą wpływać deprymująco i na autorów, i na wszystkich pozostałych uczestników. Ale bez analitycznego, krytycznego podejścia się nie obędzie i trzeba sobie z nim po prostu radzić.
 
-### Inicjowanie i opracowywanie propozycji rozwiązań problemów niepodjętych w zgłoszonych propozycjach uczestników Sieci
+#### Inicjowanie i opracowywanie propozycji rozwiązań problemów niepodjętych w zgłoszonych propozycjach uczestników Sieci
 
 Długoterminowym celem każdego zespołu jest zapewnienie, że komplet zgłoszonych przez uczestników Sieci propozycji rozwiązań obejmie cały zakres tematyczny zespołu. Innymi słowy, że w odniesieniu do każdego punktu dowodowego w modelu dojrzałości albo inaczej określonej mapie zdolności organizacji w danym wymiarze zostały zaproponowane zalecenia i powiązane z nimi propozycje rozwiązań lub przykłady dobrych praktyk i rekomendacje.
 
@@ -216,7 +216,7 @@ Ponadto pomocnymi mogą być:
 
 Omówię te narzędzia w dalszej części.
 
-### Doprecyzowanie opisu wymiaru i punktów dowodowych w Modelu Dojrzałości Dostępności
+#### Doprecyzowanie opisu wymiaru i punktów dowodowych w Modelu Dojrzałości Dostępności
 
 Przypomnę, że zdecydowaliśmy się użyć Modelu Dojrzałości Dostępności W3C jako ram, które pomogą nam zorganizować pracę Sieci. Umówiliśmy, że
 
@@ -233,7 +233,7 @@ Będą także wykorzystanie w dokumencie końcowym Sieci, we wprowadzeniach do p
 
 Stąd 4 z zadań. Prosimy, aby każdy zespół podszedł do tych opisów, punktów dowodowych i przykładów krytycznie i twórczo. Formułą Modelu jest taka, że i punkty dowodowe i przykłady dowodów mogą być modyfikowane i wzbogacane. Powinniśmy je dopracować tak, aby jak najlepiej wskazywały organizacjom cele i wyniki w drodze do osiągania pełnej zdolności i dojrzałości do zapewniania dostępności.
 
-### Przygotowanie koncepcji praktycznej weryfikacji proponowanych zaleceń, rekomendacji i rozwiązań systemowych
+#### Przygotowanie koncepcji praktycznej weryfikacji proponowanych zaleceń, rekomendacji i rozwiązań systemowych
 
 Wypracowane przez Sieć zalecenia, rekomendacje i propozycje rozwiązać mają być w drugim etapie pracy Sieci poddane weryfikacji praktycznej. Ani wniosek, ani Regulamin Sieci nie określa, jak ta weryfikacja ma wyglądać.
 
@@ -241,7 +241,7 @@ W Regulaminie jest tylko zapis w rozdz. 4 pkt. 5. 10, który mówi, że uczestni
 
 Nikt nam nie określi, jak przetestować rozwiązania, które ostatecznie trafią do dokumentu końcowego. Myślę, że rozstrzygając w zespołach o losie kolejnych projektów, trzeba się zastanowić, jak je można przetestować w praktyce. Może jeszcze w tym roku, na przykład na grudniowym spotkaniu Sieci powinniśmy przedyskutować koncepcję praktycznej weryfikacji proponowanych rozwiązań.
 
-## 🧩Slajd 7: Sieć
+### 🧩Slajd 7: Sieć
 
 - Jeszcze raz o celu i zadaniach Sieci
 - Ramy strategii dostępności opracowane przez WebAIM
@@ -251,7 +251,7 @@ Nikt nam nie określi, jak przetestować rozwiązania, które ostatecznie trafi�
 
 W tej części skupimy się jeszcze raz głównie na objaśnieniu celu i zadań Sieci, bo wydaje się, że nie wybrzmiały one na tyle jasno i jednoznacznie, aby zostały dobrze zrozumiane i kierowały naszym działaniem.
 
-### Jeszcze raz o celu i zadaniach Sieci
+#### Jeszcze raz o celu i zadaniach Sieci
 
 Cele i zadania Sieci mamy zapisane w Regulaminie Sieci. Zdawałoby się, że choćby tylko dlatego, powinniśmy wszyscy rozumieć je tak samo.
 
@@ -285,7 +285,7 @@ Obok modelu dojrzałości dostępności, który reprezentuje moim zdaniem najpe�
 - Ramy strategii dostępności opracowane przez WebAIM
 - podręcznik Planowanie i zarządzanie dostępnością cyfrową autorstwa WAI W3C
 
-## 🧩Slajd 8 Ramy strategii dostępności WebAIM
+### 🧩Slajd 8 Ramy strategii dostępności WebAIM
 
 W 2023 roku WebAIM opublikowało w miejsce wcześniej publikowanego [8-punktowego modelu wdrażania dostępności](https://webaim.org/articles/implementation/) **ramy strategii dostępności**.
 
@@ -304,7 +304,7 @@ Robocze tłumaczenie na język polski znajduje się w repozytorium plików w kan
 
 [Ramy-strategii-dostepnosci-WebAIM .docx](https://coigovpl.sharepoint.com/:w:/r/sites/Siedostpnocicyfrowej/Shared%20Documents/Kana%C5%82%20wsp%C3%B3lny%20dla%20wszystkich%20uczestnik%C3%B3w%20Sieci/Ramy-strategii-dostepnosci-WebAIM%20.docx?d=w53a220a217d9415a80d5befd29945c5e&csf=1&web=1&e=vpwvZc)
 
-## 🧩Slajd 9 Wskaźnik 1: Wizja i zaangażowanie kierownictwa
+### 🧩Slajd 9 Wskaźnik 1: Wizja i zaangażowanie kierownictwa
 
 4 punkty odniesienia
 
@@ -315,7 +315,7 @@ Robocze tłumaczenie na język polski znajduje się w repozytorium plików w kan
 
 Do każdego punktu odniesienia zarówno w tym wskaźniku, jak i w pozostałych trzech pokazane są przykłady rozwiązań.
 
-## 🧩Slajd 10 Przykład punktów dowodowych
+### 🧩Slajd 10 Przykład punktów dowodowych
 
 Na przykład dla punktu odniesienia Zaangażowanie kierownictwa ramy wskazują poniższych 7 punktów dowodowych:
 
@@ -327,7 +327,7 @@ Na przykład dla punktu odniesienia Zaangażowanie kierownictwa ramy wskazują p
 6. Działania na rzecz dostępności cyfrowej są widoczne i promowane oraz komunikowane w całej organizacji
 7. Prace nad dostępnością cyfrową są widoczne na przestrzeni kilku lat
 
-## 🧩Slajd 11 Przykład dowodów dla punktu dowodowego
+### 🧩Slajd 11 Przykład dowodów dla punktu dowodowego
 
 „Zawartość” punktów dowodowych zobaczmy na przykładzie pkt 3:
 
@@ -342,7 +342,7 @@ Sposoby ustalenia, czy jest to obecne
 - Zasada ma zastosowanie do całej organizacji.
 - Istnieją dowody na to, że polityka ta jest konsekwentnie i odpowiednio egzekwowana.
 
-## 🧩Slajd 12 Wskaźnik 2: Planowanie i wdrażanie
+### 🧩Slajd 12 Wskaźnik 2: Planowanie i wdrażanie
 
 5 punktów odniesienia:
 
@@ -352,7 +352,7 @@ Sposoby ustalenia, czy jest to obecne
 - 4: Kompleksowy plan komunikacji
 - 5: Realizacja pisemnych planów
 
-## 🧩Slajd 13 Wskaźnik 3: Zasoby i wsparcie
+### 🧩Slajd 13 Wskaźnik 3: Zasoby i wsparcie
 
 5 punktów odniesienia:
 
@@ -362,7 +362,7 @@ Sposoby ustalenia, czy jest to obecne
 - 4: Szkolenia i wsparcie techniczne
 - 5: Nabywanie, tworzenie i wykorzystywanie technologii i treści, które są dostępne
 
-## 🧩Slajd 14 Wskaźnik 4: Ocena i ciągłe doskonalenie
+### 🧩Slajd 14 Wskaźnik 4: Ocena i ciągłe doskonalenie
 
 5 punkty odniesienia:
 
@@ -370,7 +370,7 @@ Sposoby ustalenia, czy jest to obecne
 - 2: Ocena wyników funkcjonalnych stron internetowych i dostępności cyfrowej
 - 3: Wyniki oceny są wykorzystywane do poprawy dostępności
 
-## 🧩Slajd 15 Planowanie i zarządzanie dostępnością cyfrową – WAI W3C, cz. 1
+### 🧩Slajd 15 Planowanie i zarządzanie dostępnością cyfrową – WAI W3C, cz. 1
 
 ![Fragment strony W3C z łączami do podręcznika planowania do sekcji Rozpocznij i Zaplanuj. Opis w tekście](./img/planowanie-w3c-01.svg)
 
@@ -402,7 +402,7 @@ Aby to osiągnąć, należy dostosować dostępność do istniejących podejść
 
 Kluczowe znaczenie dla skutecznego wdrożenia wszelkich działań związanych z dostępnością **ma dokładne planowanie**. Zapewnia ono jasną ocenę wymaganych prac, podział zadań i ciągłe monitorowanie postępów.
 
-## 🧩Slajd 16 Planowanie i zarządzanie dostępnością cyfrową – WAI W3C, cz. 2
+### 🧩Slajd 16 Planowanie i zarządzanie dostępnością cyfrową – WAI W3C, cz. 2
 
 ![Drugi fragment strony W3C z łączami do podręcznika planowania, do sekcji Implementuj oraz Utrzymuj i rozwijaj. Opis w tekście](./img/planowanie-w3c-02.svg)
 
@@ -427,7 +427,7 @@ Wdrażaj dostępność na każdym etapie procesu, aby zminimalizować koszty og�
 
 Utrzymanie tempa pracy pomaga w utrzymaniu dostępności ukończonych projektów i stanowi podstawę dla nowych projektów. Regularne przeglądy treści, procesów organizacyjnych i zasobów pomogą zapewnić, że dostępność pozostanie priorytetem, a problemy zostaną zidentyfikowane. Opracowanie procesu raportowania zarządczego pomoże zapewnić jasność co do tego, gdzie konieczne są dalsze działania.
 
-## 🧩Slajd 17 Spotkania Sieci
+### 🧩Slajd 17 Spotkania Sieci
 
 - Spotkania zdalne
 - Spotkania stacjonarne

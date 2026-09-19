@@ -29,9 +29,9 @@ Samo wskazanie niedostępnej treści lub funkcjonalności w deklaracji dostępno
 
 ---
 
-# 3. Rekomendacje
+## 3. Rekomendacje
 
-## 3.1. Postępowanie w przypadku stwierdzenia niedostępności
+### 3.1. Postępowanie w przypadku stwierdzenia niedostępności
 
 Jeżeli organizacja stwierdzi, że treść, dokument, formularz, usługa, multimedia, grafika, mapa lub inny element objęty wymaganiami dostępności cyfrowej nie spełnia tych wymagań, podejmuje działania zgodnie z następującą kolejnością:
 
@@ -50,7 +50,7 @@ Jeżeli organizacja wie o występowaniu niedostępności, zapewnia dostęp z wł
 
 ---
 
-## 3.2. Informowanie użytkowników
+### 3.2. Informowanie użytkowników
 
 Informacja o sposobie uzyskania dostępu powinna być dostępna bezpośrednio przy niedostępnej treści, dokumencie, funkcjonalności lub usłudze i nie wymagać od użytkownika dodatkowego wyszukiwania.
 
@@ -62,11 +62,11 @@ Nie należy ograniczać informacji wyłącznie do deklaracji dostępności.
 
 ---
 
-## 3.3. Klasyfikacja przypadków niedostępności
+### 3.3. Klasyfikacja przypadków niedostępności
 
 Organizacja klasyfikuje każdy przypadek niedostępności do jednej z następujących kategorii.
 
-### 3.3.A. Treści wyłączone spod stosowania ustawy
+#### 3.3.A. Treści wyłączone spod stosowania ustawy
 
 Treści objęte ustawowymi wyłączeniami.
 
@@ -76,7 +76,7 @@ Organizacja:
 - zapewnia dostęp na żądanie użytkownika zgodnie z obowiązującymi przepisami,
 - rozważa zastosowanie wyższych poziomów zapewnienia dostępu, jeżeli jest to uzasadnione potrzebami użytkowników.
 
-### 3.3.B. Nieproporcjonalne obciążenie
+#### 3.3.B. Nieproporcjonalne obciążenie
 
 Treści lub funkcjonalności, dla których pełne zapewnienie dostępności cyfrowej zostałoby uznane za nieproporcjonalne obciążenie.
 
@@ -87,7 +87,7 @@ Organizacja:
 - zapewnia najwyższy możliwy poziom dostępu do informacji lub usługi,
 - publikuje wymagane informacje zgodnie z przepisami prawa.
 
-### 3.3.C. Zwykła niezgodność
+#### 3.3.C. Zwykła niezgodność
 
 Treści lub funkcjonalności objęte wymaganiami dostępności cyfrowej, które nie spełniają tych wymagań.
 
@@ -98,7 +98,7 @@ Organizacja:
 
 ---
 
-## 3.4. Rejestracja i nadzór
+### 3.4. Rejestracja i nadzór
 
 Każdy przypadek niedostępności nieobjęty ustawowym wyłączeniem powinien zostać odnotowany w narzędziu wykorzystywanym przez organizację do zarządzania dostępnością, zadaniami, incydentami lub innymi działaniami organizacyjnymi.
 
@@ -113,7 +113,7 @@ Dla każdego przypadku należy określić:
 
 ---
 
-## 3.5. Powiązanie z deklaracją dostępności
+### 3.5. Powiązanie z deklaracją dostępności
 
 Deklaracja dostępności:
 
@@ -125,7 +125,7 @@ Deklaracja dostępności:
 
 ---
 
-## 3.6. Odpowiedzialność kierownictwa
+### 3.6. Odpowiedzialność kierownictwa
 
 Kierownictwo organizacji zapewnia, że:
 
@@ -137,7 +137,7 @@ Kierownictwo organizacji zapewnia, że:
 ---
 
 
-## 4. Uzasadnienie
+### 4. Uzasadnienie
 
 Obowiązek zapewnienia dostępności cyfrowej nie może być interpretowany jako obowiązek wyłącznie informacyjny. Celem przepisów jest umożliwienie użytkownikom rzeczywistego dostępu do informacji i usług publicznych.
 
@@ -153,7 +153,7 @@ Zalecenie nie zmienia obowiązków wynikających z przepisów prawa ani nie zast
 
 ---
 
-## Załączniki
+### Załączniki
 
 1. [Katalog sposobów zapewniania dostępu](katalog-sposobow-zapewniania-dostepu.md)
 2. [Wzory komunikatów o sposobie zapewnienia dostępu](wzory-komunikatow-o-sposobie-zapewnienia-dostepu.md)

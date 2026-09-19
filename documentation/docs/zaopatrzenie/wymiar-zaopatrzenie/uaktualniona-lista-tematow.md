@@ -135,7 +135,7 @@ Brak modelu nadzoru nad zapewnianiem dostępności w zamówieniach rozproszonych
 
 ---
 
-# Rekomendowana struktura każdego zalecenia
+## Rekomendowana struktura każdego zalecenia
 
 1. Cel i podstawa prawna (ustawa, EN 301 549, EAA)  
 2. Zakres zastosowania (TIK, SaaS, dokumenty, multimedia, narzędzia pracy)  

@@ -66,7 +66,7 @@ Rola:
 
 ### 3.2. Relacje organizacyjne
 
-#### Rola współpracuje z:
+**Rola współpracuje z:**
 - autorami treści,
 - redaktorami,
 - osobami przygotowującymi elementy dostępności,
@@ -75,21 +75,21 @@ Rola:
 - koordynatorem ds. dostępności cyfrowej,
 - specjalistami wsparcia kompetencyjnego.
 
-#### Rola wspiera:
+**Rola wspiera:**
 - projektowanie komunikacji dostępnej,
 - poprawę jakości materiałów,
 - stosowanie prostego języka,
 - rozwój standardów komunikacji organizacji,
 - wspieranie użytkowników o różnych potrzebach.
 
-#### Rola otrzymuje wsparcie od:
+**Rola otrzymuje wsparcie od:**
 - ekspertów dostępności,
 - właścicieli procesów,
 - analityków,
 - specjalistów UX,
 - kierowników komórek organizacyjnych.
 
-#### Rola raportuje do:
+**Rola raportuje do:**
 - właściciela procesu komunikacji cyfrowej, koordynatora ds. dostępności cyfrowej lub kierownika odpowiedzialnego za komunikację.
 
 ---

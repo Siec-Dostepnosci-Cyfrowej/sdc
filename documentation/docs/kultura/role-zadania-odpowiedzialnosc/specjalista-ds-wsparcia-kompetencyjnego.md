@@ -66,7 +66,7 @@ Rola funkcjonuje na styku:
 
 ### 3.2. Relacje organizacyjne
 
-#### Rola współpracuje z:
+**Rola współpracuje z:**
 - kierownictwem organizacji,
 - sponsorem wykonawczym ds. dostępności,
 - koordynatorem ds. dostępności cyfrowej,
@@ -75,21 +75,21 @@ Rola funkcjonuje na styku:
 - rolami operacyjnymi,
 - analitykami i audytorami.
 
-#### Rola wspiera:
+**Rola wspiera:**
 - rozwój kompetencji organizacji,
 - rozwiązywanie problemów operacyjnych,
 - rozwój standardów i praktyk organizacyjnych,
 - wdrażanie zmian organizacyjnych,
 - rozwijanie współpracy między rolami.
 
-#### Rola otrzymuje wsparcie od:
+**Rola otrzymuje wsparcie od:**
 - ekspertów dostępności,
 - specjalistów technicznych,
 - analityków,
 - kierownictwa organizacji,
 - właścicieli procesów.
 
-#### Rola raportuje do:
+**Rola raportuje do:**
 - koordynatora ds. dostępności cyfrowej, właściciela procesu wsparcia kompetencyjnego lub kierownictwa organizacji.
 
 ---

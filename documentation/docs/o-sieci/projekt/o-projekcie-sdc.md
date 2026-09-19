@@ -5,8 +5,6 @@ sidebar_label: O projekcie SDC
 sidebar_position: 1 
 ---
 
-# O projekcie Sieć dostępności cyfrowej
-
 Sieć tworzy grupa specjalistów do spraw dostępności cyfrowej. 
 
 Sieć działa w ramach programu Fundusze Europejskie dla Rozwoju Społecznego 2021-2027. Projekt nosi nazwę **Sieć dostępności cyfrowej - wsparcie systemowego wdrażania dostępności cyfrowej w podmiotach publicznych**.  

@@ -5,8 +5,6 @@ sidebar_position: 4
 opracowanie: Stefan Wajda
 ---
 
-# Zestawienie propozycji tematów
-
 :::tip Nie wahaj się!
 
 

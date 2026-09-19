@@ -442,7 +442,7 @@ Jest to wcześniejsza proponowana robocza wersja tematów. W podpunktach podano 
   - Przykłady procedury zarządzania skargami i odwołaniami dotyczącymi procesów zakupowych
   - …
 
-# Historia wersji
+## Historia wersji
 
 | Wersja | Autor | Data | Opis zmian |
 | --- | --- | --- | --- |

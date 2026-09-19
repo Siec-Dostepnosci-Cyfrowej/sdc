@@ -5,8 +5,6 @@ sidebar_label: Opracowanie zaleceń i rekomendacji
 sidebar_position: 2 
 ---
 
-#  Opracowanie zaleceń i rekomendacji
-
 Efektem prac Sieci będzie wypracowanie zaleceń i rekomendacji wdrażania dostępności cyfrowej.
 
 Będzie to dokument, który określi, jak wdrażać dostępność cyfrową w podmiotach publicznych oraz wskaże ramy działalności instytucji odpowiedzialnej za nadzór nad dostępnością cyfrową w Polsce. Dokument będzie też uwzględniać podstawy prawne dostępności cyfrowej i, jeśli zostaną zidentyfikowane, potrzeby zmian.

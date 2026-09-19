@@ -20,9 +20,9 @@ Karta służy do udokumentowania podstaw, przebiegu i wyniku przeglądu oraz akt
 
 W Karcie nie powiela się informacji i materiałów utrzymywanych w rejestrze stanu dostępności i zgodności ani w innych narzędziach organizacji. Wystarczające jest ich jednoznaczne wskazanie.
 
-# Karta przeglądu i aktualizacji deklaracji dostępności
+## Karta przeglądu i aktualizacji deklaracji dostępności
 
-## 1. Identyfikacja procesu
+### 1. Identyfikacja procesu
 
 | Informacja                                      | Dane |
 | ----------------------------------------------- | ---- |
@@ -40,9 +40,9 @@ W Karcie nie powiela się informacji i materiałów utrzymywanych w rejestrze st
 
 ......................................................................................
 
-## 2. Podstawa przeglądu deklaracji
+### 2. Podstawa przeglądu deklaracji
 
-### 2.1. Zakres rozpoznania stanu
+#### 2.1. Zakres rozpoznania stanu
 
 **W przypadku corocznego przeglądu:**
 
@@ -55,7 +55,7 @@ W Karcie nie powiela się informacji i materiałów utrzymywanych w rejestrze st
 
 ......................................................................................
 
-### 2.2. Wykorzystane źródła wiedzy
+#### 2.2. Wykorzystane źródła wiedzy
 
 - ☐ rejestr stanu dostępności i zgodności;
 - ☐ wyniki wcześniejszych ocen;
@@ -69,7 +69,7 @@ W Karcie nie powiela się informacji i materiałów utrzymywanych w rejestrze st
 
 ......................................................................................
 
-## 3. Oceny przeprowadzone na potrzeby procesu
+### 3. Oceny przeprowadzone na potrzeby procesu
 
 **Czy przeprowadzenie dodatkowej oceny było potrzebne?**
 
@@ -91,7 +91,7 @@ W Karcie nie powiela się informacji i materiałów utrzymywanych w rejestrze st
 - ☐ tak;
 - ☐ nie dotyczy.
 
-## 4. Wynik porównania aktualnej wiedzy z deklaracją
+### 4. Wynik porównania aktualnej wiedzy z deklaracją
 
 **Zakres porównania:**
 
@@ -118,14 +118,14 @@ W Karcie nie powiela się informacji i materiałów utrzymywanych w rejestrze st
 
 ......................................................................................
 
-## 5. Wynik procesu
+### 5. Wynik procesu
 
-### 5.1. Coroczny przegląd
+#### 5.1. Coroczny przegląd
 
 - ☐ deklaracja wymaga aktualizacji informacji wynikających z przeprowadzonego przeglądu;
 - ☐ nie stwierdzono potrzeby zmiany innych informacji; aktualizacji wymaga data przeglądu i aktualizacji deklaracji.
 
-### 5.2. Reakcja na zmianę rozwiązania
+#### 5.2. Reakcja na zmianę rozwiązania
 
 - ☐ zmiana powoduje potrzebę aktualizacji deklaracji;
 - ☐ deklaracja nadal odpowiada aktualnej wiedzy; aktualizacja nie jest potrzebna.
@@ -134,7 +134,7 @@ W Karcie nie powiela się informacji i materiałów utrzymywanych w rejestrze st
 
 ......................................................................................
 
-## 6. Aktualizacja i publikacja deklaracji
+### 6. Aktualizacja i publikacja deklaracji
 
 **Czy przygotowano zaktualizowaną deklarację?**
 
@@ -167,7 +167,7 @@ W Karcie nie powiela się informacji i materiałów utrzymywanych w rejestrze st
 
 ......................................................................................
 
-## 7. Zakończenie procesu
+### 7. Zakończenie procesu
 
 **Data zakończenia procesu:**
 

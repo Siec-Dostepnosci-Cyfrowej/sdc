@@ -12,8 +12,6 @@ ostatnia_aktualizacja:  16 maja kwietnia 2026 r.
 wersja_robocza: true
 ---
 
-# Analiza luk kwalifikacyjnych i organizacyjnych
-
 ## 1. Cel załącznika
 
 Celem analizy jest identyfikacja barier ograniczających zdolność organizacji do skutecznego realizowania zadań związanych z dostępnością cyfrową.

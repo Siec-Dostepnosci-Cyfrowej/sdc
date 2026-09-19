@@ -38,7 +38,7 @@ Poniższy wzór przedstawia przykładową treść wniosku. Do użytku praktyczne
 
 ---
 
-## 2. Krótki opis trudności lub bariery  
+## 2. Krótki opis trudności lub bariery
 *(Co sprawia trudność? Nie wymagamy informacji medycznych.)*
 
 ........................................................................  
@@ -47,7 +47,7 @@ Poniższy wzór przedstawia przykładową treść wniosku. Do użytku praktyczne
 
 ---
 
-## 3. Jak ta trudność wpływa na wykonywanie pracy?  
+## 3. Jak ta trudność wpływa na wykonywanie pracy?
 *(1–2 zdania wystarczą.)*
 
 ........................................................................  
@@ -55,34 +55,34 @@ Poniższy wzór przedstawia przykładową treść wniosku. Do użytku praktyczne
 
 ---
 
-## 4. Jakiego usprawnienia Pani/Pan potrzebuje?  
+## 4. Jakiego usprawnienia Pani/Pan potrzebuje?
 *(Można wybrać więcej niż jedno.)*
 
-### Sprzęt / wyposażenie stanowiska:  
+### Sprzęt / wyposażenie stanowiska:
 - [ ] większy monitor  
 - [ ] regulacja wysokości / ustawienia  
 - [ ] ergonomiczna klawiatura / mysz  
 - [ ] inne: ..................................................
 
-### Oprogramowanie / technologie wspomagające:  
+### Oprogramowanie / technologie wspomagające:
 - [ ] powiększalnik ekranu  
 - [ ] czytnik ekranu (np. NVDA)  
 - [ ] program rozpoznawania mowy  
 - [ ] inne: ..................................................
 
-### Zmiany w ustawieniach komputera lub aplikacji:  
+### Zmiany w ustawieniach komputera lub aplikacji:
 - [ ] większa czcionka  
 - [ ] zwiększony kontrast  
 - [ ] prostszy widok  
 - [ ] inne: ..................................................
 
-### Materiały i treści cyfrowe:  
+### Materiały i treści cyfrowe:
 - [ ] dokument Word zamiast skanu PDF  
 - [ ] dostępna prezentacja  
 - [ ] transkrypcja / napisy  
 - [ ] inne: ..................................................
 
-### Organizacja pracy:  
+### Organizacja pracy:
 - [ ] praca zdalna (jeśli możliwe)  
 - [ ] elastyczne godziny  
 - [ ] zmiana sposobu komunikacji  
@@ -110,7 +110,7 @@ Podpis: ............................................
 
 ---
 
-# 7. Wypełnia przełożony / wyznaczona osoba
+## 7. Wypełnia przełożony / wyznaczona osoba
 
 **Data przyjęcia wniosku:**  
 .............................................

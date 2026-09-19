@@ -48,9 +48,9 @@ Dopiero po przygotowaniu tych informacji warto przejść do wyboru odpowiedniego
 
 ---
 
-# Jak przygotować się do zamówienia wsparcia?
+## Jak przygotować się do zamówienia wsparcia?
 
-## Krok 1. Opisz przedsięwzięcie
+### Krok 1. Opisz przedsięwzięcie
 
 Przedstaw przedsięwzięcie, którego realizację ma wspierać zamawiana usługa.
 
@@ -73,7 +73,7 @@ Przedsięwzięciem może być między innymi:
 
 ---
 
-## Krok 2. Opisz potrzeby organizacji
+### Krok 2. Opisz potrzeby organizacji
 
 Przygotuj informacje pozwalające zrozumieć sytuację organizacji.
 
@@ -100,11 +100,11 @@ Nie chodzi o przygotowanie kompletnej dokumentacji, lecz o przekazanie informacj
 
 ---
 
-## Krok 3. Wybierz odpowiedni przewodnik
+### Krok 3. Wybierz odpowiedni przewodnik
 
 Po przygotowaniu opisu przedsięwzięcia i potrzeb organizacji wybierz przewodnik odpowiadający rodzajowi wsparcia, którego prawdopodobnie potrzebujesz.
 
-### Jeżeli głównym celem jest...
+#### Jeżeli głównym celem jest...
 
 **...przeprowadzenie zmiany organizacyjnej**
 
@@ -136,7 +136,7 @@ Przewodnik pomoże dobrać usługę odpowiednią do przedsięwzięcia, roli wspa
 
 ---
 
-# Typowe sytuacje
+## Typowe sytuacje
 
 | Jeżeli organizacja... | Następnym krokiem powinien być przewodnik... |
 |------------------------|----------------------------------------------|
@@ -148,9 +148,9 @@ Jeżeli przedsięwzięcie obejmuje kilka różnych potrzeb, może być konieczne
 
 ---
 
-# Przykładowe błędy
+## Przykładowe błędy
 
-## Rozpoczynanie od nazwy usługi
+### Rozpoczynanie od nazwy usługi
 
 Organizacja od początku zakłada, że potrzebuje audytu, szkolenia lub konsultacji, nie analizując rzeczywistej potrzeby.
 
@@ -158,7 +158,7 @@ Znacznie lepiej najpierw opisać przedsięwzięcie i oczekiwane rezultaty.
 
 ---
 
-## Opisywanie usługi zamiast problemu
+### Opisywanie usługi zamiast problemu
 
 Zapytanie ofertowe szczegółowo określa sposób wykonania usługi, ale nie wyjaśnia, dlaczego organizacja jej potrzebuje.
 
@@ -166,13 +166,13 @@ Ekspertowi znacznie łatwiej przygotować właściwą ofertę, gdy rozumie cel p
 
 ---
 
-## Przygotowanie zbyt małej ilości informacji
+### Przygotowanie zbyt małej ilości informacji
 
 Brak informacji o przedsięwzięciu, wcześniejszych działaniach lub ograniczeniach organizacji utrudnia przygotowanie odpowiedniej oferty.
 
 ---
 
-## Oczekiwanie, że jedna usługa rozwiąże wszystkie problemy
+### Oczekiwanie, że jedna usługa rozwiąże wszystkie problemy
 
 Duże przedsięwzięcia często wymagają połączenia usług organizacyjnych, kompetencyjnych i audytorskich.
 
@@ -180,7 +180,7 @@ Nie należy zakładać, że jeden rodzaj usługi będzie odpowiedni we wszystkic
 
 ---
 
-# Najważniejsza zasada
+## Najważniejsza zasada
 
 Na początku przygotowania zamówienia **nie wybieraj usługi**.
 

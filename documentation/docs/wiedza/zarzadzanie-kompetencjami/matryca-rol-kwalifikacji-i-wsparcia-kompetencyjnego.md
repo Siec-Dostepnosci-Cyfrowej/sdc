@@ -63,9 +63,9 @@ Poziomy odnoszą się do zdolności realizacji zadań w praktyce, a nie wyłącz
 
 ---
 
-# 4. Przykładowa matryca ról, kwalifikacji i wsparcia kompetencyjnego
+## 4. Przykładowa matryca ról, kwalifikacji i wsparcia kompetencyjnego
 
-## 4.1. Zarządzanie i koordynacja
+### 4.1. Zarządzanie i koordynacja
 
 | Rola / proces | Zadania | Wymagane kwalifikacje | Wymagane wsparcie kompetencyjne | Poziom |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ Poziomy odnoszą się do zdolności realizacji zadań w praktyce, a nie wyłącz
 
 ---
 
-## 4.2. Tworzenie i publikacja treści
+### 4.2. Tworzenie i publikacja treści
 
 | Rola / proces | Zadania | Wymagane kwalifikacje | Wymagane wsparcie kompetencyjne | Poziom |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ Poziomy odnoszą się do zdolności realizacji zadań w praktyce, a nie wyłącz
 
 ---
 
-## 4.3. Dokumenty i informacje
+### 4.3. Dokumenty i informacje
 
 | Rola / proces | Zadania | Wymagane kwalifikacje | Wymagane wsparcie kompetencyjne | Poziom |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ Poziomy odnoszą się do zdolności realizacji zadań w praktyce, a nie wyłącz
 
 ---
 
-## 4.4. Usługi cyfrowe i systemy IT
+### 4.4. Usługi cyfrowe i systemy IT
 
 | Rola / proces | Zadania | Wymagane kwalifikacje | Wymagane wsparcie kompetencyjne | Poziom |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ Poziomy odnoszą się do zdolności realizacji zadań w praktyce, a nie wyłącz
 
 ---
 
-## 4.5. Zamówienia publiczne i współpraca z wykonawcami
+### 4.5. Zamówienia publiczne i współpraca z wykonawcami
 
 | Rola / proces | Zadania | Wymagane kwalifikacje | Wymagane wsparcie kompetencyjne | Poziom |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ Poziomy odnoszą się do zdolności realizacji zadań w praktyce, a nie wyłącz
 
 ---
 
-## 4.6. Wsparcie użytkowników i organizacyjne uczenie się
+### 4.6. Wsparcie użytkowników i organizacyjne uczenie się
 
 | Rola / proces | Zadania | Wymagane kwalifikacje | Wymagane wsparcie kompetencyjne | Poziom |
 |---|---|---|---|---|
@@ -121,9 +121,9 @@ Poziomy odnoszą się do zdolności realizacji zadań w praktyce, a nie wyłącz
 
 ---
 
-# 5. Wersja uproszczona dla małych organizacji
+## 5. Wersja uproszczona dla małych organizacji
 
-## 5.1. Założenia uproszczone
+### 5.1. Założenia uproszczone
 
 W małej organizacji:
 - jedna osoba może pełnić kilka ról,
@@ -135,7 +135,7 @@ Najważniejsze jest zapewnienie zdolności organizacji do działania, a nie twor
 
 ---
 
-## 5.2. Minimalny zakres zdolności organizacji do działania
+### 5.2. Minimalny zakres zdolności organizacji do działania
 
 Organizacja działa skutecznie na poziomie podstawowym, jeżeli:
 - role i odpowiedzialność są przypisane,
@@ -146,7 +146,7 @@ Organizacja działa skutecznie na poziomie podstawowym, jeżeli:
 
 ---
 
-## 5.3. Uproszczona matryca
+### 5.3. Uproszczona matryca
 
 | Obszar | Zadania | Minimalne kwalifikacje | Minimalne wsparcie |
 |---|---|---|---|
@@ -158,7 +158,7 @@ Organizacja działa skutecznie na poziomie podstawowym, jeżeli:
 
 ---
 
-# 6. Wykorzystanie matrycy w organizacji
+## 6. Wykorzystanie matrycy w organizacji
 
 Matryca może być wykorzystywana do:
 - przypisywania ról i odpowiedzialności,
@@ -172,7 +172,7 @@ Matryca może być wykorzystywana do:
 
 ---
 
-# 7. Wskazówki wdrożeniowe
+## 7. Wskazówki wdrożeniowe
 
 Organizacja:
 1. rozpoczyna od identyfikacji rzeczywistych zadań i procesów,
@@ -187,7 +187,7 @@ Matryca powinna być wykorzystywana jako narzędzie organizowania działania, a 
 
 ---
 
-# 8. Najczęstsze błędy
+## 8. Najczęstsze błędy
 
 Najczęstsze błędy obejmują:
 - utożsamianie matrycy z katalogiem szkoleń,
@@ -199,7 +199,7 @@ Najczęstsze błędy obejmują:
 
 ---
 
-# 9. Uwagi końcowe
+## 9. Uwagi końcowe
 
 Matryca ról, kwalifikacji i wsparcia kompetencyjnego nie służy wyłącznie opisywaniu kompetencji pracowników.
 

@@ -13,8 +13,6 @@ wersja_robocza: true
 ---
 
 
-# Jak wybrać właściwą usługę audytorską
-
 ## Cel załącznika
 
 Celem załącznika jest pomoc organizacjom w wyborze usługi audytorskiej najlepiej odpowiadającej realizowanemu przedsięwzięciu oraz decyzjom, które mają zostać podjęte na podstawie jej rezultatów.
@@ -49,9 +47,9 @@ Odpowiedzi na te pytania pozwalają dobrać usługę odpowiadającą rzeczywisty
 
 ---
 
-# Jak wybrać usługę?
+## Jak wybrać usługę?
 
-## Krok 1. Określ przedsięwzięcie
+### Krok 1. Określ przedsięwzięcie
 
 Najpierw określ, z jakim przedsięwzięciem związana jest potrzeba wsparcia audytorskiego.
 
@@ -71,7 +69,7 @@ To samo rozwiązanie może wymagać różnych usług audytorskich na kolejnych e
 
 ---
 
-## Krok 2. Określ rolę wsparcia audytorskiego
+### Krok 2. Określ rolę wsparcia audytorskiego
 
 Następnie określ, do czego organizacja chce wykorzystać usługę.
 
@@ -94,7 +92,7 @@ Ta sama metoda badawcza może być wykorzystywana w różnych usługach, ale ka�
 
 ---
 
-## Krok 3. Określ oczekiwane rezultaty
+### Krok 3. Określ oczekiwane rezultaty
 
 Na końcu odpowiedz na pytanie, jakich rezultatów organizacja oczekuje od usługi.
 
@@ -115,7 +113,7 @@ Rezultat usługi powinien odpowiadać decyzjom, które organizacja zamierza podj
 
 ---
 
-# Typowe sytuacje
+## Typowe sytuacje
 
 | Jeżeli organizacja potrzebuje... | Rozważ przede wszystkim... |
 |----------------------------------|----------------------------|
@@ -156,9 +154,9 @@ Ocena dostępności cyfrowej usługi
 Badania z użytkownikami
 Audyt zgodności
 
-# Przykładowe błędy
+## Przykładowe błędy
 
-## Traktowanie audytu zgodności jako uniwersalnej usługi
+### Traktowanie audytu zgodności jako uniwersalnej usługi
 
 Audyt zgodności nie jest rozwiązaniem wszystkich problemów związanych z dostępnością.
 
@@ -166,7 +164,7 @@ Powinien być wybierany wtedy, gdy organizacja rzeczywiście potrzebuje kompleks
 
 ---
 
-## Zamawianie audytu zamiast wsparcia procesu naprawczego
+### Zamawianie audytu zamiast wsparcia procesu naprawczego
 
 Jeżeli organizacja zamierza doprowadzić rozwiązanie do wymaganego poziomu dostępności, zwykle potrzebuje przede wszystkim przeglądu diagnostycznego, testowania dostępności, wsparcia prac naprawczych oraz weryfikacji wykonanych zmian.
 
@@ -174,7 +172,7 @@ Audyt zgodności powinien być końcowym potwierdzeniem osiągniętego rezultatu
 
 ---
 
-## Ponowne wykonywanie pełnego audytu po każdej zmianie
+### Ponowne wykonywanie pełnego audytu po każdej zmianie
 
 Po zakończeniu określonego zakresu prac organizacja często potrzebuje jedynie sprawdzenia skuteczności wykonanych poprawek.
 
@@ -182,7 +180,7 @@ W takiej sytuacji właściwszą usługą jest weryfikacja prac naprawczych.
 
 ---
 
-## Zamawianie audytu na potrzeby odbioru rozwiązania
+### Zamawianie audytu na potrzeby odbioru rozwiązania
 
 Odbiór powinien opierać się przede wszystkim na ocenie materiałów dowodowych przedstawionych przez wykonawcę oraz odpowiednio dobranych testach weryfikacyjnych.
 
@@ -190,13 +188,13 @@ Najbardziej odpowiednią usługą jest zwykle wsparcie audytorskie odbioru.
 
 ---
 
-## Regularne zlecanie audytów zamiast systematycznego obserwowania stanu dostępności
+### Regularne zlecanie audytów zamiast systematycznego obserwowania stanu dostępności
 
 Jeżeli organizacja chce stale utrzymywać aktualną wiedzę o stanie swoich rozwiązań, właściwszym rozwiązaniem jest monitoring dostępności albo wdrożenie własnego systemu obserwowania i oceniania stanu dostępności i zgodności.
 
 ---
 
-# Najważniejsza zasada
+## Najważniejsza zasada
 
 Usługę audytorską należy dobierać przede wszystkim do **przedsięwzięcia**, **roli, jaką ma odegrać wsparcie audytorskie**, oraz **rezultatów, których organizacja rzeczywiście potrzebuje**.
 

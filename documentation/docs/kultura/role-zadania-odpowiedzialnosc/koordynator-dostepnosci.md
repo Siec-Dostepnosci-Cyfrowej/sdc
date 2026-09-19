@@ -75,7 +75,7 @@ Rola funkcjonuje na styku:
 
 ### 3.2. Relacje organizacyjne
 
-#### Rola współpracuje z:
+**Rola współpracuje z:**
 - kierownictwem organizacji,
 - sponsorem wykonawczym ds. dostępności,
 - właścicielami procesów,
@@ -85,21 +85,21 @@ Rola funkcjonuje na styku:
 - testerami i audytorami,
 - administratorami i zespołami IT.
 
-#### Rola wspiera:
+**Rola wspiera:**
 - organizację procesów,
 - współpracę między komórkami,
 - rozwój kompetencji organizacyjnych,
 - działania doskonalące,
 - rozwiązywanie problemów systemowych.
 
-#### Rola otrzymuje wsparcie od:
+**Rola otrzymuje wsparcie od:**
 - sponsora wykonawczego ds. dostępności,
 - kierownictwa organizacji,
 - ekspertów,
 - analityków,
 - specjalistów technicznych.
 
-#### Rola raportuje do:
+**Rola raportuje do:**
 - kierownictwa organizacji lub sponsora wykonawczego ds. dostępności.
 
 ---
