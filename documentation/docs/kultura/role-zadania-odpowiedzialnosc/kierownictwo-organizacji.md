@@ -53,27 +53,27 @@ Rola nie polega na wykonywaniu działań operacyjnych związanych z dostępnośc
 
 ### 3.2. Relacje organizacyjne
 
-#### Rola współpracuje z:
+**Rola współpracuje z:**
 - sponsorem wykonawczym ds. dostępności,
 - koordynatorem ds. dostępności cyfrowej,
 - właścicielami procesów,
 - kierownikami komórek organizacyjnych,
 - osobami odpowiedzialnymi za monitoring i raportowanie.
 
-#### Rola wspiera:
+**Rola wspiera:**
 - organizację procesów,
 - działania koordynacyjne,
 - rozwój systemu organizacyjnego,
 - rozwój kompetencji organizacji.
 
-#### Rola otrzymuje wsparcie od:
+**Rola otrzymuje wsparcie od:**
 - sponsora wykonawczego ds. dostępności,
 - koordynatora ds. dostępności cyfrowej,
 - analityków,
 - audytorów,
 - ekspertów.
 
-#### Rola raportuje do:
+**Rola raportuje do:**
 - organu nadzorującego organizację lub właściciela organizacji (jeżeli dotyczy).
 
 ---

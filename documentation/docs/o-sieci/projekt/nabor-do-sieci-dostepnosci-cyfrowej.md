@@ -5,8 +5,6 @@ sidebar_label: Nabór do Sieci
 sidebar_position: 3 
 ---
 
-#  Nabór do Sieci dostępności cyfrowej
-
 Organizatorem Sieci jest Minister Cyfryzacji. Sieć liczy nie mniej niż 15 i nie więcej niż 70 osób, w tym:
 - nie mniej niż 30% przedstawicieli podmiotów publicznych
 - nie mniej niż 10% przedstawicieli innych podmiotów i niezależnych specjalistek i specjalistów.

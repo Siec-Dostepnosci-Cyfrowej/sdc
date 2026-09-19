@@ -12,7 +12,7 @@ data_aktualizacji: 23 maja 2026 r.
 wersja_robocza: true
 ---
 
-# Rejestr decyzji
+## Rejestr decyzji
 
 Rejestr ma charakter przykładowy. Podmiot może prowadzić go w systemie EZD, arkuszu, repozytorium dokumentów, systemie zgłoszeń albo innym narzędziu przyjętym wewnętrznie.
 

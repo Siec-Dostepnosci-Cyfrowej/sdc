@@ -35,7 +35,7 @@ wersja_robocza: true
 
 ---
 
-# § 2. Zakres stosowania
+## § 2. Zakres stosowania
 
 1. Procedura ma zastosowanie do dokumentów cyfrowych:
    - publikowanych w serwisach internetowych;
@@ -64,7 +64,7 @@ wersja_robocza: true
 
 ---
 
-# § 3. Definicje
+## § 3. Definicje
 
 1. **Dokument cyfrowy** — dokument w postaci elektronicznej, niezależnie od formatu pliku.
 
@@ -80,9 +80,9 @@ wersja_robocza: true
 
 ---
 
-# § 4. Role i odpowiedzialności
+## § 4. Role i odpowiedzialności
 
-## 1. Kierownik podmiotu
+### 1. Kierownik podmiotu
 
 Kierownik podmiotu:
 - zatwierdza zasady organizacji procesu;
@@ -92,7 +92,7 @@ Kierownik podmiotu:
 
 ---
 
-## 2. Koordynator dostępności lub osoba odpowiedzialna za proces
+### 2. Koordynator dostępności lub osoba odpowiedzialna za proces
 
 Osoba odpowiedzialna za proces:
 - koordynuje organizację działań;
@@ -103,7 +103,7 @@ Osoba odpowiedzialna za proces:
 
 ---
 
-## 3. Autor dokumentu
+### 3. Autor dokumentu
 
 Autor dokumentu:
 - przygotowuje dokument zgodnie ze standardami organizacji;
@@ -113,7 +113,7 @@ Autor dokumentu:
 
 ---
 
-## 4. Osoba publikująca lub przekazująca dokument
+### 4. Osoba publikująca lub przekazująca dokument
 
 Osoba publikująca:
 - odpowiada za poprawne opublikowanie dokumentu;
@@ -123,7 +123,7 @@ Osoba publikująca:
 
 ---
 
-## 5. Osoby realizujące kontrolę jakości
+### 5. Osoby realizujące kontrolę jakości
 
 Osoby realizujące kontrolę jakości:
 - prowadzą przeglądy dokumentów;
@@ -133,7 +133,7 @@ Osoby realizujące kontrolę jakości:
 
 ---
 
-# § 5. Zasady organizacji procesu
+## § 5. Zasady organizacji procesu
 
 1. Dostępność dokumentów powinna być uwzględniana na etapie ich przygotowania.
 
@@ -155,9 +155,9 @@ Osoby realizujące kontrolę jakości:
 
 ---
 
-# § 6. Etapy procesu
+## § 6. Etapy procesu
 
-## 1. Przygotowanie dokumentu
+### 1. Przygotowanie dokumentu
 
 1. Dokument przygotowuje się zgodnie:
    - ze standardami organizacji;
@@ -173,7 +173,7 @@ Osoby realizujące kontrolę jakości:
 
 ---
 
-## 2. Weryfikacja dokumentu
+### 2. Weryfikacja dokumentu
 
 1. Przed publikacją lub przekazaniem dokumentu należy przeprowadzić kontrolę dokumentu.
 
@@ -190,7 +190,7 @@ Osoby realizujące kontrolę jakości:
 
 ---
 
-## 3. Publikacja dokumentu
+### 3. Publikacja dokumentu
 
 1. Publikacja dokumentu następuje po zakończeniu kontroli.
 
@@ -206,7 +206,7 @@ Osoby realizujące kontrolę jakości:
 
 ---
 
-## 4. Monitorowanie i doskonalenie
+### 4. Monitorowanie i doskonalenie
 
 1. Organizacja monitoruje:
    - jakość publikowanych dokumentów;
@@ -221,7 +221,7 @@ Osoby realizujące kontrolę jakości:
 
 ---
 
-# § 7. Szkolenia i wsparcie
+## § 7. Szkolenia i wsparcie
 
 1. Organizacja zapewnia osobom przygotowującym dokumenty:
    - szkolenia podstawowe;
@@ -241,7 +241,7 @@ Osoby realizujące kontrolę jakości:
 
 ---
 
-# § 8. Dokumentowanie procesu
+## § 8. Dokumentowanie procesu
 
 1. Organizacja może prowadzić dokumentację obejmującą:
    - checklisty kontroli;
@@ -257,7 +257,7 @@ Osoby realizujące kontrolę jakości:
 
 ---
 
-# § 9. Podejście dla małych podmiotów
+## § 9. Podejście dla małych podmiotów
 
 1. W małych organizacjach dopuszczalne jest:
    - łączenie ról;
@@ -271,7 +271,7 @@ Osoby realizujące kontrolę jakości:
 
 ---
 
-# § 10. Postanowienia końcowe
+## § 10. Postanowienia końcowe
 
 1. Procedura powinna być okresowo aktualizowana.
 
@@ -289,7 +289,7 @@ Osoby realizujące kontrolę jakości:
 
 ---
 
-# Powiązane dokumenty
+## Powiązane dokumenty
 
 - Zapewnianie dostępności cyfrowej dokumentów.
 - Zarządzanie standardami tworzenia i publikacji treści cyfrowych.

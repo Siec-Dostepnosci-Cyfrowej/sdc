@@ -177,27 +177,27 @@ Najbardziej efektywne jest zwykle łączenie własnych zasobów organizacji z od
 
 Organizacja okresowo odpowiada na następujące pytania:
 
-#### Ludzie
+### Ludzie
 
 - Czy osoby odpowiedzialne za dostępność mają możliwość realizacji powierzonych zadań?
 - Czy istnieją zastępstwa dla kluczowych ról?
 - Czy obowiązki są realistycznie rozłożone?
 
-#### Kompetencje
+### Kompetencje
 
 - Czy pracownicy posiadają kompetencje wymagane do realizacji zadań?
 - Czy mają dostęp do wsparcia eksperckiego?
 
-#### Finanse
+### Finanse
 
 - Czy potrzeby związane z dostępnością są uwzględniane podczas planowania budżetu?
 - Czy organizacja posiada środki na realizację działań naprawczych?
 
-#### Narzędzia
+### Narzędzia
 
 - Czy pracownicy dysponują odpowiednimi narzędziami i materiałami pomocniczymi?
 
-#### Czas
+### Czas
 
 - Czy pracownicy mają czas na wykonywanie obowiązków związanych z dostępnością?
 

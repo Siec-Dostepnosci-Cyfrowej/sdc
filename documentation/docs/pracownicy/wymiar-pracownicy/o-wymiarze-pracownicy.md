@@ -122,7 +122,7 @@ Oba wymiary są komplementarne i wzajemnie zależne: inkluzywna organizacja (Per
 
 ---
 
-### 4. Monitorowanie i doskonalenie
+#### 4. Monitorowanie i doskonalenie
 
 - Organizacja monitoruje zatrudnianie, awanse i rozwój pracowników z niepełnosprawnościami.  
 - Organizacja prowadzi statystyki zgłaszania i realizacji racjonalnych usprawnień.  
@@ -264,7 +264,7 @@ Organizacja **spełnia wymiar Personel**, jeśli:
 
 <details>
 <summary>Skrócony opis i lista punktów dowodowych</summary>
-# Skrócony opis wymiaru „Personel”
+## Skrócony opis wymiaru „Personel”
 
 Wymiar **„Personel”** obejmuje działania organizacji związane z tworzeniem włączającego środowiska pracy, w którym wszyscy pracownicy — w tym osoby z niepełnosprawnościami — mają równy dostęp do zatrudnienia, rozwoju i uczestnictwa w działaniach organizacji. Celem wymiaru jest zapewnienie, aby różnorodne doświadczenia pracowników, zwłaszcza doświadczenia niepełnosprawności, były wykorzystywane w budowaniu i doskonaleniu dostępności cyfrowej.
 
@@ -273,21 +273,21 @@ Wymiar dotyczy wszystkich pracowników, a nie tylko osób z niepełnosprawności
 W odróżnieniu od wymiaru **„Wsparcie”**, który koncentruje się na pomocy w korzystaniu z technologii i usług cyfrowych, wymiar **„Personel”** dotyczy organizacji pracy, rekrutacji, rozwoju i zarządzania pracownikami.  
 W odróżnieniu od wymiaru **„Wiedza i umiejętności”**, który dotyczy kompetencji, wymiar **„Personel”** odnosi się do struktury, procesów i kultury pracy.
 
-# Skrócona lista punktów dowodowych
+## Skrócona lista punktów dowodowych
 
-## 1. Inkluzyjne środowisko pracy
+### 1. Inkluzyjne środowisko pracy
 - Polityka równego traktowania i dostępnej rekrutacji.  
 - Dostępne narzędzia pracy i dokumenty HR.  
 - Procedury zgłaszania i realizacji racjonalnych usprawnień.  
 - Organizacyjne wsparcie różnorodności (np. ERG).
 
-## 2. Dostępne procesy HR
+### 2. Dostępne procesy HR
 - Dostępna rekrutacja i wolne od barier materiały rekrutacyjne.  
 - Dostępny onboarding (materiały, platformy, instrukcje).  
 - Równy dostęp do szkoleń i rozwoju zawodowego.  
 - Uwzględnienie odpowiedzialności za dostępność w ocenach pracowniczych.
 
-## 3. Zaangażowanie pracowników w dostępność cyfrową
+### 3. Zaangażowanie pracowników w dostępność cyfrową
 - Pracownicy znają swoje obowiązki w zakresie dostępności.  
 - Osoby z niepełnosprawnościami uczestniczą w testowaniu i opiniowaniu technologii.  
 - Międzydziałowa współpraca w obszarze dostępności (HR, IT, komunikacja, zakupy).  
@@ -306,7 +306,7 @@ W odróżnieniu od wymiaru **„Wiedza i umiejętności”**, który dotyczy kom
 <details>
 <summary> Wcześniejsza wersja </summary>
 
-## Opis wymiaru
+### Opis wymiaru
 
 :::info Definicja
 
@@ -316,12 +316,12 @@ Wymiar „Pracownicy” w zarządzaniu dostępnością cyfrową w organizacji ob
 
 Wymaga to dostępnych i integracyjnych praktyk zatrudniania, obejmujących proces składania aplikacji, rozmowy kwalifikacyjne, oceny, wdrażanie nowych pracowników i utrzymanie zatrudnienia.
 
-## Cel wymiaru Pracownicy
+### Cel wymiaru Pracownicy
 
 **„Cel tego wymiaru**: Powinien być wspierany przez postępy lub realizację punktów sprawdzających kulturę organizacyjną lub innych kryteriów.”
 
 
-## Propozycje tematów zaleceń, rozwiązań i praktyk
+### Propozycje tematów zaleceń, rozwiązań i praktyk
 
 Jest to robocza wersja tematów, które mogą być przedmiotem zaleceń, jakie mogłyby powstać w wyniku prac zespołu. W podpunktach podano przykłady dowodów, na kanwie których można proponować propozycje rekomendacji, projekty rozwiązań, przykłady dobrych praktyk.
 

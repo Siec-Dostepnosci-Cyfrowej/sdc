@@ -65,7 +65,7 @@ Rola:
 
 ### 3.2. Relacje organizacyjne
 
-#### Rola współpracuje z:
+**Rola współpracuje z:**
 - osobami publikującymi,
 - administratorami systemów IT,
 - specjalistami ds. remediacji,
@@ -74,21 +74,21 @@ Rola:
 - właścicielami procesów,
 - dostawcami systemów i usług.
 
-#### Rola wspiera:
+**Rola wspiera:**
 - publikację materiałów cyfrowych,
 - utrzymanie systemów publikacyjnych,
 - rozwiązywanie problemów technicznych,
 - wdrażanie usprawnień systemowych,
 - utrzymanie dostępności środowiska publikacyjnego wspierającego realizację usług publicznych.
 
-#### Rola otrzymuje wsparcie od:
+**Rola otrzymuje wsparcie od:**
 - administratorów infrastruktury IT,
 - ekspertów dostępności,
 - dostawców systemów,
 - specjalistów bezpieczeństwa,
 - analityków i testerów.
 
-#### Rola raportuje do:
+**Rola raportuje do:**
 - kierownika IT, właściciela procesu zapewniania dostępności systemów IT lub właściciela systemu publikacyjnego.
 
 ---

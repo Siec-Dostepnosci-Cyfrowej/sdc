@@ -70,7 +70,7 @@ Rola:
 
 ### 3.2. Relacje organizacyjne
 
-#### Rola współpracuje z:
+**Rola współpracuje z:**
 - kierownictwem organizacji,
 - sponsorem wykonawczym ds. dostępności,
 - koordynatorem ds. dostępności cyfrowej,
@@ -80,14 +80,14 @@ Rola:
 - specjalistami wsparcia kompetencyjnego,
 - zespołami technicznymi.
 
-#### Rola wspiera:
+**Rola wspiera:**
 - organizację współpracy,
 - realizację procesu,
 - przepływ informacji,
 - rozwiązywanie problemów organizacyjnych,
 - działania doskonalące.
 
-#### Rola otrzymuje wsparcie od:
+**Rola otrzymuje wsparcie od:**
 - kierownictwa organizacji,
 - sponsora wykonawczego,
 - koordynatora ds. dostępności cyfrowej,
@@ -95,7 +95,7 @@ Rola:
 - analityków,
 - audytorów.
 
-#### Rola raportuje do:
+**Rola raportuje do:**
 - kierownictwa organizacji lub osoby odpowiedzialnej za nadzór nad procesami.
 
 ---

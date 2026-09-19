@@ -293,7 +293,7 @@ W małych podmiotach chodzi przede wszystkim o **proste, wykonalne rozwiązania*
 
 ---
 
-### 5. Uproszczona lista punktów dowodowych
+#### 5. Uproszczona lista punktów dowodowych
 
 #### A. Dostępne treści podstawowe
 - Informacje na stronie WWW są aktualne i możliwe do odczytania przez czytniki ekranu.  
@@ -321,11 +321,11 @@ W małych podmiotach chodzi przede wszystkim o **proste, wykonalne rozwiązania*
 
 <details>
 <summary>Wersja uproszczona dla dużych podmiotów publicznych</summary>
-## 🟦 Wymiar Komunikacja 
+## 🟦 Wymiar Komunikacja
 
 **(Dostępne komunikaty, dokumenty, treści cyfrowe, multimedia, formularze, BIP, WWW)**
 
-# Uproszczony opis wymiaru: **Komunikacja**  
+## Uproszczony opis wymiaru: **Komunikacja**
 *(dla dużych podmiotów publicznych)*
 
 ## 1. Definicja wymiaru
@@ -347,16 +347,16 @@ Celem wymiaru Komunikacja jest zapewnienie, że:
 
 ---
 
-## 3. Odróżnienie wymiaru Komunikacja od innych wymiarów
+### 3. Odróżnienie wymiaru Komunikacja od innych wymiarów
 
-### Komunikacja vs Wiedza i umiejętności
+#### Komunikacja vs Wiedza i umiejętności
 - **Komunikacja** dotyczy tego, *jakie treści są publikowane i czy są dostępne*.
 - **Wiedza i umiejętności** dotyczą tego, *czy pracownicy potrafią tworzyć dostępne treści*.
 
 **Komunikacja = wynik.**  
 **Wiedza i umiejętności = zdolność organizacji do jego wytwarzania.**
 
-### Komunikacja vs Wsparcie
+#### Komunikacja vs Wsparcie
 - **Komunikacja** obejmuje publikowane materiały i komunikaty.
 - **Wsparcie** obejmuje reakcję organizacji — obsługę zgłoszeń, pomoc użytkownikom, instrukcje, FAQ.
 
@@ -365,7 +365,7 @@ Celem wymiaru Komunikacja jest zapewnienie, że:
 
 ---
 
-## 4. Zakres wymiaru Komunikacja
+### 4. Zakres wymiaru Komunikacja
 
 1. **Publikowanie treści cyfrowych**
    - tworzenie, redagowanie, recenzowanie treści,  
@@ -430,7 +430,7 @@ Celem wymiaru Komunikacja jest zapewnienie, że:
 <details>
 <summary>Wcześniejsza wersja</summary>
 
-## Opis wymiaru
+### Opis wymiaru
 
 Wymiar **Komunikacja** w [Modelu dojrzałości dostępności](../../o-sieci/projekt/mdd) obejmuje rozwiązania i praktyki zapewniające dostępność cyfrową treści wytwarzanych przez organizację i&nbsp;adresowanych do różnych odbiorców. Dotyczy komunikatów, które mogą być: 
 
@@ -453,7 +453,7 @@ Wymiar **Komunikacja** w [Modelu dojrzałości dostępności](../../o-sieci/proj
 - zapewnianiu rozwiązań alternatywnych, gdy ze względu na niepełnosprawności odbiorców albo okoliczności przekazu i&nbsp;odbioru prezentowane treści nie&nbsp;mogą być skutecznie postrzegane i rozumiane.   
 
 
-## Propozycje tematów zaleceń, rozwiązań i praktyk
+### Propozycje tematów zaleceń, rozwiązań i praktyk
 
 :::warning O propozycjach 
 

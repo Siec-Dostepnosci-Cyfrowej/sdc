@@ -178,8 +178,6 @@ Każdy materiał w bibliotece ma metrykę.
 ### Wzór metryki
 
 ```md
-# Tytuł materiału
-
 ## Cel
 Do czego służy materiał.
 

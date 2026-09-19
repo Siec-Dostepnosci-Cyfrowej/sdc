@@ -65,7 +65,7 @@ Rola:
 
 ### 3.2. Relacje organizacyjne
 
-#### Rola współpracuje z:
+**Rola współpracuje z:**
 - projektantami usług cyfrowych,
 - programistami,
 - administratorami systemów,
@@ -74,21 +74,21 @@ Rola:
 - specjalistami ds. komunikacji dostępnej,
 - koordynatorem ds. dostępności cyfrowej.
 
-#### Rola wspiera:
+**Rola wspiera:**
 - organizację projektowania formularzy elektronicznych,
 - organizację jakości i dostępności formularzy,
 - organizację działań naprawczych,
 - organizację aktualizacji formularzy,
 - rozwój praktyk projektowania formularzy zorientowanych na użytkownika.
 
-#### Rola otrzymuje wsparcie od:
+**Rola otrzymuje wsparcie od:**
 - właściciela procesu projektowania usług cyfrowych,
 - właściciela procesu zapewniania dostępności systemów IT,
 - specjalistów dostępności,
 - administratorów systemów,
 - specjalistów wsparcia kompetencyjnego.
 
-#### Rola raportuje do:
+**Rola raportuje do:**
 - kierownika komórki organizacyjnej, właściciela procesu projektowania usług cyfrowych lub właściciela usługi cyfrowej.
 
 ---

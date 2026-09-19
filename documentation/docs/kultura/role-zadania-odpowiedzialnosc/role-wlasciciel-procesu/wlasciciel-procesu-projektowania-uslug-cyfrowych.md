@@ -64,7 +64,7 @@ Rola:
 
 ### 3.2. Relacje organizacyjne
 
-#### Rola współpracuje z:
+**Rola współpracuje z:**
 - właścicielami obszarów merytorycznych,
 - projektantami usług cyfrowych,
 - programistami,
@@ -73,21 +73,21 @@ Rola:
 - specjalistami ds. zamówień dostępnych,
 - koordynatorem ds. dostępności cyfrowej.
 
-#### Rola wspiera:
+**Rola wspiera:**
 - organizację projektowania usług cyfrowych,
 - integrowanie dostępności z projektowaniem i rozwojem usług,
 - organizację odbiorów jakościowych,
 - organizację działań naprawczych,
 - rozwój standardów projektowych i jakościowych.
 
-#### Rola otrzymuje wsparcie od:
+**Rola otrzymuje wsparcie od:**
 - kierownictwa organizacji,
 - sponsorów projektów,
 - ekspertów dostępności,
 - analityków i audytorów,
 - specjalistów wsparcia kompetencyjnego.
 
-#### Rola raportuje do:
+**Rola raportuje do:**
 - właściciela procesu zarządzania systemem dostępności, sponsora wykonawczego ds. dostępności lub kierownictwa organizacji.
 
 ---

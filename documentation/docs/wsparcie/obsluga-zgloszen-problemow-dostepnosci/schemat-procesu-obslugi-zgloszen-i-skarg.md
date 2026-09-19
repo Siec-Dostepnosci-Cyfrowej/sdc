@@ -100,7 +100,7 @@ flowchart LR
 
 ## Uproszczony opis procesu
 
-#### 1. Zgłoszenie
+### 1. Zgłoszenie
 
 Użytkownik zgłasza problem związany z dostępnością cyfrową, żąda zapewnienia dostępności lub zwraca się o dostęp alternatywny.
 

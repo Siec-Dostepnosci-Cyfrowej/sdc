@@ -13,8 +13,6 @@ wersja_robocza: true
 ---
 
 
-# Właściciel procesu zarządzania systemem dostępności
-
 ---
 
 ## 1. Informacje podstawowe
@@ -69,7 +67,7 @@ Rola:
 
 ### 3.2. Relacje organizacyjne
 
-#### Rola współpracuje z:
+**Rola współpracuje z:**
 - kierownictwem organizacji,
 - sponsorem wykonawczym ds. dostępności,
 - koordynatorem ds. dostępności cyfrowej,
@@ -78,21 +76,21 @@ Rola:
 - audytorami i analitykami dostępności,
 - specjalistami ds. zgodności i wsparcia prawnego.
 
-#### Rola wspiera:
+**Rola wspiera:**
 - organizację systemu odpowiedzialności,
 - organizację monitoringu i raportowania,
 - organizację działań naprawczych,
 - rozwój polityki dostępności,
 - rozwój dojrzałości organizacyjnej.
 
-#### Rola otrzymuje wsparcie od:
+**Rola otrzymuje wsparcie od:**
 - kierownictwa organizacji,
 - koordynatora ds. dostępności cyfrowej,
 - właścicieli procesów,
 - specjalistów monitoringowych i audytowych,
 - specjalistów wsparcia kompetencyjnego.
 
-#### Rola raportuje do:
+**Rola raportuje do:**
 - sponsora wykonawczego ds. dostępności lub kierownictwa organizacji.
 
 ---

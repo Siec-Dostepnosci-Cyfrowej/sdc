@@ -46,8 +46,6 @@ sidebar_position: 999
 opracowanie: ${form.zglaszajacy}
 ---
 
-# Dobra praktyka: ${form.title}
-
 ## Metryczka
 - **Podmiot realizujący:** ${form.podmiot}
 - **Zgłaszający:** ${form.zglaszajacy}

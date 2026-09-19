@@ -12,9 +12,9 @@ ostatnia_aktualizacja: 12 sierpnia 2026 r.
 wersja_robocza: true
 ---
 
-# Załącznik do Zalecenia w sprawie kultury organizacyjnej sprzyjającej dostępności cyfrowej
+## Załącznik do Zalecenia w sprawie kultury organizacyjnej sprzyjającej dostępności cyfrowej
 
-## 1. Cel załącznika
+### 1. Cel załącznika
 
 Załącznik przedstawia przykładowe działania, które mogą wspierać kierownictwo organizacji w praktycznym budowaniu kultury organizacyjnej sprzyjającej dostępności cyfrowej.
 
@@ -34,7 +34,7 @@ Największą skuteczność przynosi łączenie różnych form oddziaływania i p
 
 ---
 
-## 2. Komunikacja kierownictwa
+### 2. Komunikacja kierownictwa
 
 Zaangażowanie kierownictwa powinno być widoczne nie tylko w podejmowanych decyzjach, lecz również w sposobie komunikowania znaczenia dostępności.
 
@@ -54,7 +54,7 @@ Szczególnie istotna jest spójność komunikatów z działaniami. Jeżeli kiero
 
 ---
 
-## 3. Komunikacja wewnętrzna
+### 3. Komunikacja wewnętrzna
 
 Komunikacja wewnętrzna pozwala regularnie przypominać o dostępności i pokazywać jej praktyczne znaczenie.
 
@@ -85,7 +85,7 @@ Komunikacja powinna być regularna, ale nie nadmierna. Zbyt duża liczba podobny
 
 ---
 
-## 4. Newsletter dostępności
+### 4. Newsletter dostępności
 
 Organizacja może prowadzić cykliczny newsletter poświęcony dostępności cyfrowej albo wydzielić stałą sekcję dotyczącą dostępności w istniejącym newsletterze pracowniczym.
 
@@ -106,7 +106,7 @@ Newsletter nie powinien ograniczać się do informacji o przepisach i standardac
 
 ---
 
-## 5. Ekrany blokady, tapety i monitory informacyjne
+### 5. Ekrany blokady, tapety i monitory informacyjne
 
 Ekrany blokady komputerów, tapety oraz monitory informacyjne mogą być wykorzystywane do krótkich kampanii edukacyjnych.
 
@@ -126,7 +126,7 @@ Należy również pamiętać, że same materiały wykorzystywane w kampanii powi
 
 ---
 
-## 6. Spotkania z pracownikami
+### 6. Spotkania z pracownikami
 
 Budowanie kultury dostępności wymaga dialogu. Dlatego warto tworzyć przestrzeń, w której pracownicy mogą rozmawiać o problemach, zadawać pytania i wymieniać doświadczenia.
 
@@ -148,7 +148,7 @@ Pozwala to przejść od abstrakcyjnego mówienia o dostępności do pokazania je
 
 ---
 
-## 7. Kontakt z doświadczeniami użytkowników
+### 7. Kontakt z doświadczeniami użytkowników
 
 Jednym z najskuteczniejszych sposobów budowania zrozumienia dostępności jest umożliwienie pracownikom poznania doświadczeń rzeczywistych użytkowników.
 
@@ -165,7 +165,7 @@ Celem takich działań nie powinno być wywoływanie współczucia. Powinny one 
 
 ---
 
-## 8. Kampanie tematyczne
+### 8. Kampanie tematyczne
 
 Organizacja może prowadzić krótkie kampanie poświęcone konkretnym zagadnieniom.
 
@@ -190,7 +190,7 @@ Dzięki temu pracownik nie otrzymuje jedynie informacji o problemie, ale równie
 
 ---
 
-## 9. Wykorzystywanie wydarzeń związanych z dostępnością
+### 9. Wykorzystywanie wydarzeń związanych z dostępnością
 
 Okazją do zwiększenia zainteresowania tematyką dostępności mogą być wydarzenia takie jak:
 
@@ -205,7 +205,7 @@ Kultura dostępności nie powstaje podczas jednego „dnia dostępności”. Wyd
 
 ---
 
-## 10. Media społecznościowe i komunikacja zewnętrzna
+### 10. Media społecznościowe i komunikacja zewnętrzna
 
 Komunikacja zewnętrzna może wzmacniać kulturę wewnętrzną organizacji.
 
@@ -226,7 +226,7 @@ Należy jednak unikać komunikacji, która przedstawia realizację podstawowych 
 
 ---
 
-## 11. Liderzy i ambasadorzy dostępności
+### 11. Liderzy i ambasadorzy dostępności
 
 Zaangażowanie może być wzmacniane przez osoby, które w swoich zespołach promują dostępność i pomagają innym pracownikom.
 
@@ -246,7 +246,7 @@ Sieć liderów nie zastępuje koordynatora dostępności ani osób odpowiedzialn
 
 ---
 
-## 12. Docenianie pracowników i zespołów
+### 12. Docenianie pracowników i zespołów
 
 Kultura organizacyjna jest kształtowana również przez to, jakie zachowania organizacja zauważa i docenia.
 
@@ -276,7 +276,7 @@ Nie chodzi przede wszystkim o tworzenie systemu nagród finansowych. Znaczenie m
 
 ---
 
-## 13. Komunikowanie rezultatów
+### 13. Komunikowanie rezultatów
 
 Pracownicy powinni widzieć, że podejmowane działania prowadzą do rzeczywistych zmian.
 
@@ -301,7 +301,7 @@ Kultura organizacyjna rozwija się wtedy, gdy pracownicy widzą związek pomięd
 
 ---
 
-## 14. Planowanie działań w ciągu roku
+### 14. Planowanie działań w ciągu roku
 
 Działania wspierające kulturę dostępności warto rozłożyć w czasie.
 
@@ -319,7 +319,7 @@ Nie jest konieczne prowadzenie intensywnych działań przez cały czas. Ważniej
 
 ---
 
-## 15. Czego unikać
+### 15. Czego unikać
 
 Budowanie kultury dostępności może być nieskuteczne, jeżeli organizacja:
 
@@ -337,7 +337,7 @@ Budowanie kultury dostępności może być nieskuteczne, jeżeli organizacja:
 
 ---
 
-## 16. Najważniejsza zasada
+### 16. Najważniejsza zasada
 
 Nie istnieje pojedyncze narzędzie, które pozwala zbudować kulturę dostępności.
 

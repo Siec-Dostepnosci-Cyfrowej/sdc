@@ -12,7 +12,7 @@ ostatnia_aktualizacja: 17 maja 2025 r.
 wersja_robocza: true
 ---
 
-### 1. Informacje podstawowe
+## 1. Informacje podstawowe
 
 | Pole | Opis |
 |---|---|
@@ -26,7 +26,7 @@ wersja_robocza: true
 
 ---
 
-### 2. Cel roli
+## 2. Cel roli
 
 Analiza sposobu realizacji usług publicznych oraz identyfikowanie barier organizacyjnych, komunikacyjnych, cyfrowych i procesowych wpływających na możliwość skutecznego korzystania z usług przez użytkowników.
 
@@ -41,9 +41,9 @@ Analityk usług publicznych dostarcza danych, analiz i rekomendacji wspierający
 
 ---
 
-### 3. Miejsce roli w systemie organizacyjnym
+## 3. Miejsce roli w systemie organizacyjnym
 
-#### 3.1. Pozycja organizacyjna
+### 3.1. Pozycja organizacyjna
 
 Rola procesowo-analityczna odpowiedzialna za analizę sposobu działania usług publicznych oraz identyfikowanie problemów wpływających na ich dostępność, skuteczność i jakość.
 
@@ -57,9 +57,9 @@ Rola wspiera:
 
 ---
 
-#### 3.2. Relacje organizacyjne
+### 3.2. Relacje organizacyjne
 
-##### Rola współpracuje z:
+**Rola współpracuje z:**
 - właścicielem usługi publicznej,
 - projektantem usługi publicznej,
 - koordynatorem ds. dostępności cyfrowej,
@@ -70,13 +70,13 @@ Rola wspiera:
 - osobami obsługującymi użytkowników,
 - kierownikami komórek organizacyjnych.
 
-#### Rola wspiera:
+**Rola wspiera:**
 - kierownictwo organizacji,
 - właścicieli usług,
 - zespoły projektowe,
 - zespoły odpowiedzialne za doskonalenie procesów.
 
-##### Rola otrzymuje wsparcie od:
+**Rola otrzymuje wsparcie od:**
 - ekspertów dostępności,
 - specjalistów IT,
 - specjalistów ds. komunikacji dostępnej,
@@ -84,7 +84,7 @@ Rola wspiera:
 - właścicieli procesów,
 - zespołów prawnych i organizacyjnych.
 
-##### Rola raportuje do:
+**Rola raportuje do:**
 - właściciela usługi publicznej,
 - właściciela procesu,
 - kierownika komórki organizacyjnej,
@@ -92,9 +92,9 @@ Rola wspiera:
 
 ---
 
-### 4. Zakres odpowiedzialności
+## 4. Zakres odpowiedzialności
 
-#### 4.1. Odpowiedzialność główna
+### 4.1. Odpowiedzialność główna
 
 - analiza sposobu realizacji usług publicznych,
 - identyfikowanie barier organizacyjnych, komunikacyjnych i cyfrowych,
@@ -106,7 +106,7 @@ Rola wspiera:
 
 ---
 
-#### 4.2. Typowe zadania
+### 4.2. Typowe zadania
 
 - analiza przebiegu realizacji usług,
 - analiza ścieżek użytkownika,
@@ -121,7 +121,7 @@ Rola wspiera:
 
 ---
 
-#### 4.3. Zakres decyzji
+### 4.3. Zakres decyzji
 
 - rekomendowanie zmian organizacyjnych i procesowych,
 - rekomendowanie działań usprawniających,
@@ -131,7 +131,7 @@ Rola wspiera:
 
 ---
 
-### 5. Powiązanie z procesami
+## 5. Powiązanie z procesami
 
 | Proces | Zakres udziału |
 |---|---|
@@ -144,7 +144,7 @@ Rola wspiera:
 
 ---
 
-### 6. Powiązanie z odpowiedzialnością RACI
+## 6. Powiązanie z odpowiedzialnością RACI
 
 | Proces / działanie | Rola RACI |
 |---|---|
@@ -159,9 +159,9 @@ Rola wspiera:
 
 ---
 
-### 7. Wymagane kompetencje
+## 7. Wymagane kompetencje
 
-#### 7.1. Wiedza
+### 7.1. Wiedza
 
 - znajomość sposobu realizacji usług publicznych,
 - znajomość zasad dostępności cyfrowej i komunikacyjnej,
@@ -173,7 +173,7 @@ Rola wspiera:
 
 ---
 
-#### 7.2. Umiejętności
+### 7.2. Umiejętności
 
 - analiza procesów i usług,
 - analiza problemów użytkowników,
@@ -186,7 +186,7 @@ Rola wspiera:
 
 ---
 
-#### 7.3. Kompetencje organizacyjne i społeczne
+### 7.3. Kompetencje organizacyjne i społeczne
 
 - komunikacja,
 - analityczne podejście do problemów,
@@ -197,9 +197,9 @@ Rola wspiera:
 
 ---
 
-### 8. Wsparcie kompetencyjne dla roli
+## 8. Wsparcie kompetencyjne dla roli
 
-#### 8.1. Potrzebne wsparcie
+### 8.1. Potrzebne wsparcie
 
 - konsultacje eksperckie,
 - listy kontrolne,
@@ -212,7 +212,7 @@ Rola wspiera:
 
 ---
 
-#### 8.2. Typowe problemy wymagające wsparcia
+### 8.2. Typowe problemy wymagające wsparcia
 
 - analiza złożonych problemów organizacyjnych,
 - interpretacja wyników monitorowania,
@@ -223,7 +223,7 @@ Rola wspiera:
 
 ---
 
-### 9. Narzędzia i zasoby wykorzystywane w roli
+## 9. Narzędzia i zasoby wykorzystywane w roli
 
 - mapy procesów,
 - scenariusze użytkownika,
@@ -238,9 +238,9 @@ Rola wspiera:
 
 ---
 
-### 10. Mechanizmy monitorowania i oceny
+## 10. Mechanizmy monitorowania i oceny
 
-#### 10.1. Co podlega monitorowaniu
+### 10.1. Co podlega monitorowaniu
 
 - jakość analiz,
 - skuteczność identyfikowania problemów,
@@ -251,7 +251,7 @@ Rola wspiera:
 
 ---
 
-#### 10.2. Przykładowe wskaźniki
+### 10.2. Przykładowe wskaźniki
 
 | Wskaźnik | Cel monitorowania |
 |---|---|
@@ -263,7 +263,7 @@ Rola wspiera:
 
 ---
 
-### 11. Typowe ryzyka organizacyjne
+## 11. Typowe ryzyka organizacyjne
 
 - brak dostępu do danych i informacji,
 - analiza wyłącznie problemów technicznych,
@@ -275,7 +275,7 @@ Rola wspiera:
 
 ---
 
-### 12. Typowe błędy organizacyjne
+## 12. Typowe błędy organizacyjne
 
 - utożsamianie analizy usług wyłącznie z analizą IT,
 - skupienie wyłącznie na zgodności formalnej,
@@ -286,9 +286,9 @@ Rola wspiera:
 
 ---
 
-### 13. Model minimalny i model dojrzały
+## 13. Model minimalny i model dojrzały
 
-#### 13.1. Model minimalny
+### 13.1. Model minimalny
 
 W małej organizacji rola może być realizowana przez:
 
@@ -301,7 +301,7 @@ Rola może być łączona z innymi rolami procesowymi i organizacyjnymi.
 
 ---
 
-#### 13.2. Model dojrzały
+### 13.2. Model dojrzały
 
 W organizacji dojrzałej:
 
@@ -313,7 +313,7 @@ W organizacji dojrzałej:
 
 ---
 
-### 14. Powiązane dokumenty
+## 14. Powiązane dokumenty
 
 - Model organizacji odpowiedzialności
 - Słownik ról i odpowiedzialności

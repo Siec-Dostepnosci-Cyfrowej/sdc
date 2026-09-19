@@ -121,7 +121,7 @@ Wsparcie musi być elementem systemu zarządzania, a nie autonomicznym kanałem 
 
 ---
 
-# Rekomendowana struktura każdego zalecenia
+## Rekomendowana struktura każdego zalecenia
 
 1. Cel i podstawa prawna  
 2. Model dla dużych podmiotów  

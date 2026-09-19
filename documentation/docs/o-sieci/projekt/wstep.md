@@ -10,8 +10,6 @@ data_zgłoszenia: 22 lipca 2025 r.
 data_aktualizacji: 10 października 2025 r.
 ---
 
-# Jesteś tu pierwszy raz?
-
 Odkryj **Sieć dostępności cyfrowej w 3 minuty**.
 
 ## To nasze miejsce pracy
@@ -61,7 +59,7 @@ Inni członkowie grupy mogą wzbogacić opracowanie przykładami praktyk stosowa
   - zgłaszaniu uwag i sugestii do przedstawionych projektów
   - proponowaniu poprawek.
 
-### Twój wkład 
+### Twój wkład
 
 Siłą Sieci jest **doświadczenie i aktywność uczestniczek i uczestników Sieci** 
 

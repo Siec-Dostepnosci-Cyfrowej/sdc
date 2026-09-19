@@ -193,7 +193,7 @@ Każde zalecenie może wykorzystywać wiele środków wspierających.
 
 ---
 
-# 8. Rozwój środków wspierających
+## 8. Rozwój środków wspierających
 
 Środki wspierające podlegają ciągłemu doskonaleniu.
 
@@ -207,7 +207,7 @@ Zmiany środków powinny:
 
 ---
 
-# 9. Zastosowanie architektury środków wspierających
+## 9. Zastosowanie architektury środków wspierających
 
 Architektura środków wspierających stanowi podstawę:
 

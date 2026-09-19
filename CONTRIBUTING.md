@@ -52,11 +52,28 @@ Każdy nowy materiał powinien zawierać:
 
 ---
 
+## Nagłówki w dokumentach serwisu
+
+Nagłówki tworzą strukturę dokumentu wykorzystywaną przez czytniki ekranu do nawigacji, a w serwisie dokumentacji dodatkowo budują spis treści strony. Poziom nagłówka ma znaczenie funkcjonalne, a nie tylko wizualne.
+
+Zasada dotyczy dokumentów publikowanych w serwisie, to znaczy zaleceń, kart ról, scenariuszy testów, wzorów, formularzy i bloga. Typ dokumentu może wpływać na nazwy sekcji, ale nie na hierarchię nagłówków.
+
+Nie dotyczy plików Markdown używanych tylko na GitHubie (ten plik, README, szablony Issue) ani stron TSX. Tam nie ma tytułu z frontmattera, więc `#` pozostaje nagłówkiem pierwszego poziomu.
+
+- Tytuł dokumentu pochodzi z pola `title` we frontmatterze i jest wyświetlany jako nagłówek pierwszego poziomu (H1). W treści dokumentu nie stosujemy `#`.
+- Sekcje główne mają poziom drugi (`##`), podsekcje trzeci (`###`) i czwarty (`####`). Na stronie odpowiadają one poziomom H2–H4. Unikamy głębszego zagnieżdżania niż cztery poziomy (H1 ze strony plus `##`-`####`).
+- Nagłówka szóstego poziomu (`######`) nie stosujemy.
+- Nagłówka piątego poziomu (`#####`) używamy tylko wtedy, gdy naprawdę wynika ze struktury dokumentu, na przykład przy wiernym odwzorowaniu źródła. Nie używamy go do wyróżniania tekstu ani jako etykiety listy. W pozostałych przypadkach stosujemy listę, pogrubienie albo osobną sekcję poziomu wyżej.
+- Poziomy nagłówków następują po sobie bez przeskoków.
+- Nagłówek zapowiada treść sekcji. Nie służy do wyróżniania ani do linii poziomej. Do wyróżnień stosujemy pogrubienie, do list — listy.
+- Numerowanie sekcji jest opcjonalne i zależy od rodzaju dokumentu. Zalecenia i dłuższe opracowania mogą je stosować; szablony, opisy praktyk, scenariusze testów i karty ról nie muszą. Jeśli numeracja jest stosowana, musi odpowiadać poziomowi, na przykład `## 7.`, `### 7.2.`, `#### 7.2.1.`.
+
+---
+
 ## Jak strukturyzować długie dokumenty
 
-Dokumenty zawierające wiele sekcji (np. kilka rozdziałów H2 i liczne podsekcje H3) wymagają szczególnej dbałości o strukturę:
+Dokumenty zawierające wiele sekcji wymagają szczególnej dbałości o strukturę. Hierarchia nagłówków — w sekcji [Nagłówki w dokumentach serwisu](#nagłówki-w-dokumentach-serwisu).
 
-- **Stosuj hierarchię nagłówków** — `#` dla tytułu, `##` dla rozdziałów, `###` dla podrozdziałów. Unikaj głębszego zagnieżdżania niż 4 poziomy.
 - **Rozpoczynaj od wprowadzenia** — 2–3 zdania o celu dokumentu.
 - **Dziel treść na logiczne bloki** — każdy rozdział powinien obejmować jeden spójny temat.
 - **Stosuj listy i tabele** — ułatwiają skanowanie treści.
@@ -70,6 +87,7 @@ Dokumenty zawierające wiele sekcji (np. kilka rozdziałów H2 i liczne podsekcj
 - Czy treść jest konkretna?
 - Czy wnosi wartość?
 - Czy jest zgodna ze standardami?
+- Czy hierarchia nagłówków jest zgodna z zasadą (brak `#` w treści, brak przeskoków, najwyżej `####` poza uzasadnionym H5)?
 - Czy została przeredagowana po użyciu AI?
 - Czy nie zawiera marketingu?
 - Czy jest zrozumiała dla urzędnika, który nie jest ekspertem?

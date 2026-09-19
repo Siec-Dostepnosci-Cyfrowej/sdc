@@ -62,7 +62,7 @@ Rola:
 
 ### 3.2. Relacje organizacyjne
 
-#### Rola współpracuje z:
+**Rola współpracuje z:**
 - autorami treści,
 - redaktorami,
 - właścicielami obszarów merytorycznych,
@@ -70,20 +70,20 @@ Rola:
 - weryfikatorami dostępności,
 - administratorami systemów i CMS.
 
-#### Rola wspiera:
+**Rola wspiera:**
 - publikację materiałów cyfrowych,
 - utrzymanie jakości publikacji,
 - aktualizację i wycofywanie materiałów,
 - organizację komunikacji cyfrowej.
 
-#### Rola otrzymuje wsparcie od:
+**Rola otrzymuje wsparcie od:**
 - specjalistów dostępności,
 - administratorów systemów,
 - specjalistów wsparcia kompetencyjnego,
 - właścicieli procesów,
 - ekspertów technicznych.
 
-#### Rola raportuje do:
+**Rola raportuje do:**
 - kierownika komórki organizacyjnej lub właściciela procesu zarządzania treściami.
 
 ---

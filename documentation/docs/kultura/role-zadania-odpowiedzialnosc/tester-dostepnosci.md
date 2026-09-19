@@ -65,7 +65,7 @@ Rola:
 
 ### 3.2. Relacje organizacyjne
 
-#### Rola współpracuje z:
+**Rola współpracuje z:**
 - operatorami testów automatycznych,
 - weryfikatorami dostępności,
 - analitykami dostępności,
@@ -74,21 +74,21 @@ Rola:
 - projektantami i twórcami usług cyfrowych,
 - specjalistami ds. zamówień dostępnych.
 
-#### Rola wspiera:
+**Rola wspiera:**
 - identyfikowanie problemów dostępności,
 - analizę wpływu problemów na użytkowników,
 - odbiory produktów i usług cyfrowych,
 - organizację działań naprawczych,
 - rozwijanie standardów jakości organizacji.
 
-#### Rola otrzymuje wsparcie od:
+**Rola otrzymuje wsparcie od:**
 - ekspertów dostępności,
 - administratorów systemów,
 - właścicieli procesów,
 - specjalistów UX,
 - specjalistów wsparcia kompetencyjnego.
 
-#### Rola raportuje do:
+**Rola raportuje do:**
 - właściciela procesu monitoringu i oceny, koordynatora ds. dostępności cyfrowej lub kierownika odpowiedzialnego za jakość i monitoring.
 
 ---

@@ -133,7 +133,7 @@ Brakuje formalnego mechanizmu utrzymania spójności regulacyjnej w czasie.
 
 ---
 
-# Rekomendowana struktura każdego zalecenia
+## Rekomendowana struktura każdego zalecenia
 
 1. Cel i kontekst strategiczny  
 2. Podstawa prawna i normatywna  

@@ -17,7 +17,7 @@ Opis każdego wymiaru obejmuje: **definicję, zakres, przykłady dobrych praktyk
 
 ---
 
-# 1. Wymiar **Komunikacja**
+## 1. Wymiar **Komunikacja**
 
 **Wymiar Komunikacja** obejmuje działania, rozwiązania i narzędzia, które zapewniają dostępność cyfrową treści wytwarzanych przez organizację — zarówno w komunikacji wewnętrznej, jak i zewnętrznej. Obejmuje wszystkie formy treści: ogłoszenia, dokumenty, strony internetowe, multimedia, komunikaty generowane przez organizację lub przez wykonawców działających na jej rzecz.
 
@@ -46,7 +46,7 @@ W tym wymiarze mieszczą się praktyki, które:
 
 ---
 
-# 2. Wymiar **Wiedza i umiejętności**
+## 2. Wymiar **Wiedza i umiejętności**
 
 **Wymiar Wiedza i umiejętności** obejmuje działania, które umożliwiają pracownikom zdobywanie i rozwijanie kompetencji potrzebnych do zapewniania dostępności cyfrowej w swojej pracy.
 
@@ -75,7 +75,7 @@ W tym wymiarze mieszczą się praktyki, które:
 
 ---
 
-# 3. Wymiar **Wsparcie**
+## 3. Wymiar **Wsparcie**
 
 **Wymiar Wsparcie** obejmuje rozwiązania i działania, które zapewniają osobom z niepełnosprawnościami — pracownikom i klientom — narzędzia oraz środowisko umożliwiające pełne korzystanie z usług i technologii organizacji.
 
@@ -104,7 +104,7 @@ W tym wymiarze mieszczą się praktyki, które:
 
 ---
 
-# 4. Wymiar **Cykl życia technologii informacyjno-komunikacyjnych**
+## 4. Wymiar **Cykl życia technologii informacyjno-komunikacyjnych**
 
 **Wymiar Cykl życia TIK** obejmuje działania, które zapewniają dostępność produktów i usług technologicznych używanych przez organizację — od planowania i zamówień, przez projektowanie, stworzenie lub konfigurację, po utrzymanie i wycofanie.
 
@@ -133,7 +133,7 @@ W tym wymiarze mieszczą się praktyki, które:
 
 ---
 
-# 5. Wymiar **Pracownicy**
+## 5. Wymiar **Pracownicy**
 
 **Wymiar Pracownicy** obejmuje działania, które wspierają zatrudnianie osób z niepełnosprawnościami, ich pełne uczestnictwo w pracy organizacji oraz wykorzystywanie ich perspektyw do poprawy jakości dostępności.
 
@@ -162,7 +162,7 @@ W tym wymiarze mieszczą się praktyki, które:
 
 ---
 
-# 6. Wymiar **Zaopatrzenie**
+## 6. Wymiar **Zaopatrzenie**
 
 **Wymiar Zaopatrzenie** obejmuje działania związane z nabywaniem produktów i usług cyfrowych, które muszą spełniać wymagania dostępności wynikające z prawa oraz standardów technicznych.
 
@@ -191,7 +191,7 @@ W tym wymiarze mieszczą się praktyki, które:
 
 ---
 
-# 7. Wymiar **Zarządzanie i kultura organizacyjna**
+## 7. Wymiar **Zarządzanie i kultura organizacyjna**
 
 **Wymiar Zarządzanie i kultura organizacyjna** obejmuje systemowe działania i struktury organizacyjne, które umożliwiają planowanie, wdrażanie i monitorowanie dostępności cyfrowej oraz rozwijają kulturę organizacji sprzyjającą dostępności.
 

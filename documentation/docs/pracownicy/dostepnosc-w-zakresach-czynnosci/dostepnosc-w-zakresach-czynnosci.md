@@ -30,7 +30,7 @@ Cele szczegółowe:
 4.  Wsparcie podmiotu publicznego w zapewnianiu dostępności, rozumianej w sensie uniwersalnym, przez organizowanie dostępnych cyfrowo stanowisk pracy.
 5.  Wsparcie pracowników podmiotu publicznego w podnoszeniu ich kompetencji cyfrowych.
 
-## 2. Zalecenie 
+## 2. Zalecenie
 
 Zaleca się wprowadzenie w podmiocie publicznym konsekwentnego stosowania na poszczególnych stanowiskach pracy obowiązku gwarantowania dostępności cyfrowej w celu wypełniania przepisów ustawy oraz podwyższenia efektywności i jakości pracy.
 
@@ -41,7 +41,7 @@ Na podstawie wyników analizy należy opracować i wprowadzić do indywidualnych
 Uzupełniająco należy przygotować system działań wspierających utrzymanie i rozwój dostępności cyfrowej na zidentyfikowanych stanowiskach pracy.
 
 
-## 3. Rekomendacje  
+## 3. Rekomendacje
 
 Rekomenduje się przeprowadzenie analizy i klasyfikacji stanowisk pracy pod kątem ich związku z tworzeniem, udostępnianiem i nadzorowaniem treści oraz usług cyfrowych.
 
@@ -65,7 +65,7 @@ Zapis analogowy jest końcową postacią dokumentu, tworzoną i odczytywaną wy�
 Podmiot publiczny obecnie stosuje techniki cyfrowe do tworzenia i przetwarzania treści, a poprawne ich przygotowywanie przynosi wiele korzyści, dlatego należy zdecydowanie wdrożyć obowiązek pracy, który uwzględnia te wymagania. Obowiązek ten przyczyni się do zmotywowania pracowników do uporządkowania i usprawnienia ich techniki pracy.
 
 
-## 5. Podstawa prawna 
+## 5. Podstawa prawna
 
 Art. 5 Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (t.j. Dz. U. z 2023 r. poz. 1440.)
 

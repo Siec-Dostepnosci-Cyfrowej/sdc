@@ -57,7 +57,7 @@ Rola łączy:
 
 ### 3.2. Relacje organizacyjne
 
-#### Rola współpracuje z:
+**Rola współpracuje z:**
 - właścicielem usługi publicznej,
 - koordynatorem ds. dostępności cyfrowej,
 - projektantami UX/UI,
@@ -68,13 +68,13 @@ Rola łączy:
 - osobami obsługującymi użytkowników,
 - przedstawicielami użytkowników i interesariuszy.
 
-#### Rola wspiera:
+**Rola wspiera:**
 - kierownictwo organizacji,
 - zespoły realizujące usługę,
 - zespoły projektowe,
 - zespoły komunikacyjne i publikacyjne.
 
-#### Rola otrzymuje wsparcie od:
+**Rola otrzymuje wsparcie od:**
 - ekspertów dostępności,
 - analityków dostępności,
 - specjalistów ds. komunikacji dostępnej,
@@ -82,7 +82,7 @@ Rola łączy:
 - właścicieli procesów,
 - zespołów prawnych i organizacyjnych.
 
-#### Rola raportuje do:
+**Rola raportuje do:**
 - właściciela usługi publicznej,
 - właściciela procesu,
 - kierownika projektu lub kierownika komórki organizacyjnej.

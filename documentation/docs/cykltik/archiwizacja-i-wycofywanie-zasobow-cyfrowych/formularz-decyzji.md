@@ -12,7 +12,7 @@ data_aktualizacji: 23 maja 2026 r.
 wersja_robocza: true
 ---
 
-# Formularz decyzji
+## Formularz decyzji
 
 Formularz ma charakter przykładowy. Podmiot może go dostosować do własnego systemu obiegu dokumentów, rejestru decyzji albo narzędzia zgłoszeniowego.
 

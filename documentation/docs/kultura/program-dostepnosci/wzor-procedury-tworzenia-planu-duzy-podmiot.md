@@ -66,9 +66,9 @@ Procedura obejmuje:
 
 ---
 
-# 5. Etapy procedury
+## 5. Etapy procedury
 
-## Etap 1: Inicjacja procesu
+### Etap 1: Inicjacja procesu
 **Termin:** do 15 października  
 **Odpowiedzialny:** Koordynator
 
@@ -84,7 +84,7 @@ Procedura obejmuje:
 
 ---
 
-## Etap 2: Zbieranie danych wejściowych
+### Etap 2: Zbieranie danych wejściowych
 **Termin:** 15 października – 15 listopada  
 **Odpowiedzialni:** Jednostki, Koordynator
 
@@ -100,7 +100,7 @@ Procedura obejmuje:
 
 ---
 
-## Etap 3: Opracowanie projektu planu
+### Etap 3: Opracowanie projektu planu
 **Termin:** do 5 grudnia  
 **Odpowiedzialny:** Koordynator
 
@@ -115,7 +115,7 @@ Procedura obejmuje:
 
 ---
 
-## Etap 4: Konsultacje wewnętrzne
+### Etap 4: Konsultacje wewnętrzne
 **Termin:** 5–20 grudnia  
 **Odpowiedzialni:** Koordynator, Jednostki
 
@@ -133,7 +133,7 @@ Procedura obejmuje:
 
 ---
 
-## Etap 5: Zatwierdzenie planu
+### Etap 5: Zatwierdzenie planu
 **Termin:** do 15 stycznia  
 **Odpowiedzialni:** Koordynator, Kierownictwo
 
@@ -149,7 +149,7 @@ Procedura obejmuje:
 
 ---
 
-## Etap 6: Publikacja planu
+### Etap 6: Publikacja planu
 **Termin:** do 31 stycznia  
 **Odpowiedzialni:** Koordynator, Redaktorzy komunikacji
 
@@ -164,7 +164,7 @@ Procedura obejmuje:
 
 ---
 
-## Etap 7: Monitorowanie realizacji
+### Etap 7: Monitorowanie realizacji
 **Termin:** ciągły (przeglądy kwartalne)  
 **Odpowiedzialni:** Jednostki, Koordynator
 
@@ -180,7 +180,7 @@ Procedura obejmuje:
 
 ---
 
-## Etap 8: Roczna ocena realizacji planu
+### Etap 8: Roczna ocena realizacji planu
 **Termin:** do 31 marca kolejnego roku  
 **Odpowiedzialni:** Koordynator, Kierownictwo
 
@@ -196,7 +196,7 @@ Procedura obejmuje:
 
 ---
 
-# 6. Dokumenty i narzędzia wykorzystywane w procedurze
+## 6. Dokumenty i narzędzia wykorzystywane w procedurze
 - wzór rocznego planu działania,  
 - formularz zgłaszania propozycji działań,  
 - szablon raportu kwartalnego i rocznego,  
@@ -206,7 +206,7 @@ Procedura obejmuje:
 
 ---
 
-# 7. Postanowienia końcowe
+## 7. Postanowienia końcowe
 - Procedura jest przeglądana co najmniej raz na 2 lata.  
 - Zmiany w procedurze zatwierdza kierownictwo instytucji.  
 - Pracownicy uczestniczący w realizacji procedury są zapoznawani z jej aktualnymi wersjami.

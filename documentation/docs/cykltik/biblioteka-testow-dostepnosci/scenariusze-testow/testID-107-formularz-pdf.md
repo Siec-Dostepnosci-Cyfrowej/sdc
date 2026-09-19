@@ -12,19 +12,19 @@ ostatnia_aktualizacja: 13 czerwca 2026 r.
 wersja_robocza: true
 ---
 
-# 1. Identyfikator testu
+## 1. Identyfikator testu
 
 **testID-107**
 
-# 2. Nazwa testu
+## 2. Nazwa testu
 
 Formularz PDF
 
-# 3. Profil stosowania testu
+## 3. Profil stosowania testu
 
 Najniższy profil stosowania: **profil rozszerzony**
 
-# 4. Opis testu
+## 4. Opis testu
 
 Test sprawdza, czy formularz PDF może zostać samodzielnie odczytany, wypełniony, zweryfikowany i zapisany przez użytkowników technologii wspomagających.
 
@@ -36,9 +36,9 @@ Celem testu jest ustalenie, czy:
 - komunikaty i instrukcje są dostępne,
 - formularz może być obsługiwany przy użyciu klawiatury i czytnika ekranu.
 
-# 5. Mapowanie do standardów
+## 5. Mapowanie do standardów
 
-## WCAG 2.1 / WCAG 2.2
+### WCAG 2.1 / WCAG 2.2
 
 - 1.3.1 Informacje i relacje
 - 2.1.1 Klawiatura
@@ -50,7 +50,7 @@ Celem testu jest ustalenie, czy:
 - 4.1.2 Nazwa, rola, wartość
 - 4.1.3 Komunikaty o stanie
 
-## EN 301 549
+### EN 301 549
 
 - 10.1.3.1 Info and Relationships
 - 10.2.1.1 Keyboard
@@ -59,7 +59,7 @@ Celem testu jest ustalenie, czy:
 - 10.3.3.2 Labels or Instructions
 - 10.4.1.2 Name, Role, Value
 
-# 6. Zastosowanie do treści
+## 6. Zastosowanie do treści
 
 Test stosuje się do:
 
@@ -70,7 +70,7 @@ Test stosuje się do:
 - formularzy rekrutacyjnych,
 - formularzy składanych poza systemami elektronicznymi.
 
-# 7. Oczekiwany wynik
+## 7. Oczekiwany wynik
 
 Użytkownik może samodzielnie:
 
@@ -80,7 +80,7 @@ Użytkownik może samodzielnie:
 - wypełnić formularz,
 - zweryfikować poprawność danych.
 
-# 8. Dlaczego to jest ważne
+## 8. Dlaczego to jest ważne
 
 Formularz PDF często stanowi jedyną drogę załatwienia sprawy.
 
@@ -90,7 +90,7 @@ Jeżeli pola formularza są niedostępne lub nieopisane, użytkownik może nie b
 - przekazać wymaganych informacji,
 - skorzystać z usługi publicznej.
 
-# 9. Kogo to dotyczy
+## 9. Kogo to dotyczy
 
 W szczególności:
 
@@ -100,59 +100,59 @@ W szczególności:
 - osób korzystających z czytników ekranu,
 - osób z ograniczeniami ruchowymi.
 
-# 10. Sposób testowania
+## 10. Sposób testowania
 
-## Krok 1
+### Krok 1
 
 Otwórz formularz w programie obsługującym formularze PDF.
 
-## Krok 2
+### Krok 2
 
 Sprawdź możliwość przechodzenia pomiędzy polami za pomocą klawisza Tab.
 
-## Krok 3
+### Krok 3
 
 Zweryfikuj logiczną kolejność fokusu.
 
-## Krok 4
+### Krok 4
 
 Sprawdź, czy każde pole posiada zrozumiałą etykietę.
 
-## Krok 5
+### Krok 5
 
 Uruchom czytnik ekranu i sprawdź sposób odczytywania formularza.
 
-## Krok 6
+### Krok 6
 
 Spróbuj wypełnić wszystkie pola formularza.
 
-## Krok 7
+### Krok 7
 
 Jeżeli formularz zawiera walidację, sprawdź dostępność komunikatów błędów.
 
-## Krok 8
+### Krok 8
 
 Sprawdź możliwość zapisania formularza po wypełnieniu.
 
-# 11. Kryteria oceny wyniku
+## 11. Kryteria oceny wyniku
 
-## Spełnia
+### Spełnia
 
 Formularz może zostać samodzielnie odczytany i wypełniony przy użyciu technologii wspomagających.
 
-## Częściowo spełnia
+### Częściowo spełnia
 
 Większość formularza jest dostępna, jednak występują pojedyncze problemy utrudniające jego obsługę.
 
-## Nie spełnia
+### Nie spełnia
 
 Istnieją problemy uniemożliwiające samodzielne wypełnienie formularza.
 
-## Nie dotyczy
+### Nie dotyczy
 
 Dokument nie zawiera formularza.
 
-# 12. Typowe niezgodności
+## 12. Typowe niezgodności
 
 - pola formularza nie są programowo oznaczone,
 - brak etykiet pól,
@@ -162,7 +162,7 @@ Dokument nie zawiera formularza.
 - niedostępne komunikaty błędów,
 - brak możliwości obsługi klawiaturą.
 
-# 13. Dobre praktyki
+## 13. Dobre praktyki
 
 - stosowanie formularzy zgodnych z PDF/UA,
 - nadawanie jednoznacznych etykiet wszystkim polom,
@@ -170,14 +170,14 @@ Dokument nie zawiera formularza.
 - zapewnienie logicznej kolejności nawigacji,
 - testowanie formularzy z użyciem czytnika ekranu.
 
-# 14. Wynik testu
+## 14. Wynik testu
 
 - Spełnia
 - Częściowo spełnia
 - Nie spełnia
 - Nie dotyczy
 
-# 15. Ustalenia
+## 15. Ustalenia
 
 Miejsce na zapisanie:
 
@@ -187,11 +187,11 @@ Miejsce na zapisanie:
 - problemów z nawigacją,
 - problemów z walidacją.
 
-# 16. Przykładowy opis niezgodności do raportu lub deklaracji
+## 16. Przykładowy opis niezgodności do raportu lub deklaracji
 
 > Formularz PDF nie zapewnia dostępnych etykiet dla części pól formularza. Użytkownicy czytników ekranu nie otrzymują informacji o przeznaczeniu pól, co utrudnia lub uniemożliwia samodzielne wypełnienie dokumentu.
 
-# 17. Rekomendacje naprawcze
+## 17. Rekomendacje naprawcze
 
 - oznaczyć wszystkie pola formularza programowo,
 - dodać jednoznaczne etykiety,
@@ -200,7 +200,7 @@ Miejsce na zapisanie:
 - przygotować formularz zgodny z PDF/UA,
 - rozważyć udostępnienie formularza w postaci formularza internetowego.
 
-# 18. Powiązane testy
+## 18. Powiązane testy
 
 - Dokument PDF
 - Skan dokumentu

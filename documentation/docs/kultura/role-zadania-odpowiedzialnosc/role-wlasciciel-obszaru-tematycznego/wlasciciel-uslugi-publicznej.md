@@ -62,7 +62,7 @@ Rola łączy:
 
 ### 3.2. Relacje organizacyjne
 
-#### Rola współpracuje z:
+**Rola współpracuje z:**
 - koordynatorem ds. dostępności cyfrowej,
 - właścicielami procesów,
 - kierownikami komórek organizacyjnych,
@@ -73,13 +73,13 @@ Rola łączy:
 - osobami obsługującymi użytkowników,
 - wykonawcami zewnętrznymi.
 
-#### Rola wspiera:
+**Rola wspiera:**
 - kierownictwo organizacji,
 - zespoły realizujące usługę,
 - osoby odpowiedzialne za publikację i komunikację,
 - zespoły utrzymaniowe i techniczne.
 
-#### Rola otrzymuje wsparcie od:
+**Rola otrzymuje wsparcie od:**
 - koordynatora ds. dostępności cyfrowej,
 - ekspertów dostępności,
 - analityków dostępności,
@@ -87,7 +87,7 @@ Rola łączy:
 - specjalistów IT,
 - zespołów prawnych i zamówień.
 
-#### Rola raportuje do:
+**Rola raportuje do:**
 - kierownictwa organizacji,
 - właściciela procesu,
 - menedżera dostępności.

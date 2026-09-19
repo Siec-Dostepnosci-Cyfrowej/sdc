@@ -42,7 +42,7 @@ jeżeli organizacja nie wskazuje sposobu uzyskania dostępu do informacji.
 
 ---
 
-# 1. Niedostępny dokument – dostępna wersja już istnieje
+## 1. Niedostępny dokument – dostępna wersja już istnieje
 
 > Dokument został opublikowany w formacie niespełniającym wymagań dostępności cyfrowej.
 >
@@ -56,7 +56,7 @@ jeżeli organizacja nie wskazuje sposobu uzyskania dostępu do informacji.
 
 ---
 
-# 2. Niedostępny dokument – równoważna treść na stronie
+## 2. Niedostępny dokument – równoważna treść na stronie
 
 > Dokument nie spełnia wymagań dostępności cyfrowej.
 >
@@ -66,7 +66,7 @@ jeżeli organizacja nie wskazuje sposobu uzyskania dostępu do informacji.
 
 ---
 
-# 3. Niedostępny skan dokumentu
+## 3. Niedostępny skan dokumentu
 
 > Opublikowany plik jest skanem dokumentu.
 >
@@ -82,7 +82,7 @@ lub
 
 ---
 
-# 4. Niedostępny formularz elektroniczny
+## 4. Niedostępny formularz elektroniczny
 
 > Formularz może być niedostępny dla części użytkowników.
 >
@@ -96,7 +96,7 @@ lub
 
 ---
 
-# 5. Niedostępna usługa cyfrowa
+## 5. Niedostępna usługa cyfrowa
 
 > Ta usługa nie jest obecnie w pełni dostępna cyfrowo.
 >
@@ -108,7 +108,7 @@ lub
 
 ---
 
-# 6. Nagranie bez napisów rozszerzonych
+## 6. Nagranie bez napisów rozszerzonych
 
 > Nagranie nie zawiera napisów rozszerzonych.
 >
@@ -124,7 +124,7 @@ lub
 
 ---
 
-# 7. Nagranie bez audiodeskrypcji
+## 7. Nagranie bez audiodeskrypcji
 
 > Nagranie nie zawiera audiodeskrypcji.
 >
@@ -134,7 +134,7 @@ lub
 
 ---
 
-# 8. Mapa lub materiał graficzny
+## 8. Mapa lub materiał graficzny
 
 > Informacje przedstawione na mapie zostały udostępnione również w dostępnej formie:
 >
@@ -146,7 +146,7 @@ lub
 
 ---
 
-# 9. Treść objęta nieproporcjonalnym obciążeniem
+## 9. Treść objęta nieproporcjonalnym obciążeniem
 
 > Treść nie jest obecnie dostępna cyfrowo.
 >
@@ -166,7 +166,7 @@ Jeżeli nie odpowiada ono Twoim potrzebom, skontaktuj się z nami:
 
 ---
 
-# 10. Treść archiwalna lub historyczna
+## 10. Treść archiwalna lub historyczna
 
 > Materiał ma charakter archiwalny lub historyczny.
 >
@@ -180,7 +180,7 @@ Jeżeli nie odpowiada ono Twoim potrzebom, skontaktuj się z nami:
 
 ---
 
-# 11. Materiał pochodzący od innego podmiotu
+## 11. Materiał pochodzący od innego podmiotu
 
 > Materiał został opublikowany w oryginalnej postaci otrzymanej od podmiotu zewnętrznego i może nie spełniać wymagań dostępności cyfrowej.
 >
@@ -194,7 +194,7 @@ lub
 
 ---
 
-# 12. Komunikat ogólny dla sekcji serwisu
+## 12. Komunikat ogólny dla sekcji serwisu
 
 > W tej części serwisu mogą występować materiały niespełniające wymagań dostępności cyfrowej.
 >
@@ -208,7 +208,7 @@ lub
 
 ---
 
-## Dobra praktyka
+### Dobra praktyka
 
 W pierwszej kolejności należy kierować użytkownika do istniejącej dostępnej wersji informacji lub usługi.
 

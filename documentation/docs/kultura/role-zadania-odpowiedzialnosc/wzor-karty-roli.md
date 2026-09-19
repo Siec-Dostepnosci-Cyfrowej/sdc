@@ -14,7 +14,7 @@ wersja_robocza: true
 
 **Nazwa roli**: 
 
-### 1. Informacje podstawowe
+## 1. Informacje podstawowe
 
 | Pole | Opis |
 |---|---|
@@ -28,7 +28,7 @@ wersja_robocza: true
 
 ---
 
-### 2. Cel roli
+## 2. Cel roli
 
 Krótki opis sensu istnienia roli.
 
@@ -43,9 +43,9 @@ Cel powinien:
 
 ---
 
-### 3. Miejsce roli w systemie organizacyjnym
+## 3. Miejsce roli w systemie organizacyjnym
 
-#### 3.1. Pozycja organizacyjna
+### 3.1. Pozycja organizacyjna
 
 Opis miejsca roli w organizacji.
 
@@ -58,31 +58,31 @@ Przykładowo:
 
 ---
 
-#### 3.2. Relacje organizacyjne
+### 3.2. Relacje organizacyjne
 
-##### Rola współpracuje z:
-- 
-- 
-- 
-
-#### Rola wspiera:
+**Rola współpracuje z:**
 - 
 - 
 - 
 
-##### Rola otrzymuje wsparcie od:
+**Rola wspiera:**
 - 
 - 
 - 
 
-##### Rola raportuje do:
+**Rola otrzymuje wsparcie od:**
+- 
+- 
+- 
+
+**Rola raportuje do:**
 - 
 
 ---
 
-### 4. Zakres odpowiedzialności
+## 4. Zakres odpowiedzialności
 
-#### 4.1. Odpowiedzialność główna
+### 4.1. Odpowiedzialność główna
 
 Najważniejsze obszary odpowiedzialności.
 
@@ -95,7 +95,7 @@ Przykład:
 
 ---
 
-#### 4.2. Typowe zadania
+### 4.2. Typowe zadania
 
 Lista typowych działań realizowanych w ramach roli.
 
@@ -106,7 +106,7 @@ Przykład:
 
 ---
 
-#### 4.3. Zakres decyzji
+### 4.3. Zakres decyzji
 
 Opis decyzji podejmowanych w ramach roli.
 
@@ -118,7 +118,7 @@ Przykład:
 
 ---
 
-### 5. Powiązanie z procesami
+## 5. Powiązanie z procesami
 
 | Proces | Zakres udziału |
 |---|---|
@@ -128,7 +128,7 @@ Przykład:
 
 ---
 
-### 6. Powiązanie z odpowiedzialnością RACI
+## 6. Powiązanie z odpowiedzialnością RACI
 
 | Proces / działanie | Rola RACI |
 |---|---|
@@ -137,9 +137,9 @@ Przykład:
 
 ---
 
-### 7. Wymagane kompetencje
+## 7. Wymagane kompetencje
 
-#### 7.1. Wiedza
+### 7.1. Wiedza
 
 Przykład:
 - znajomość WCAG,
@@ -148,7 +148,7 @@ Przykład:
 
 ---
 
-#### 7.2. Umiejętności
+### 7.2. Umiejętności
 
 Przykład:
 - analiza problemów,
@@ -158,7 +158,7 @@ Przykład:
 
 ---
 
-#### 7.3. Kompetencje organizacyjne i społeczne
+### 7.3. Kompetencje organizacyjne i społeczne
 
 Przykład:
 - komunikacja,
@@ -168,9 +168,9 @@ Przykład:
 
 ---
 
-### 8. Wsparcie kompetencyjne dla roli
+## 8. Wsparcie kompetencyjne dla roli
 
-#### 8.1. Potrzebne wsparcie
+### 8.1. Potrzebne wsparcie
 
 Opis wsparcia potrzebnego do skutecznego wykonywania roli.
 
@@ -183,7 +183,7 @@ Przykład:
 
 ---
 
-#### 8.2. Typowe problemy wymagające wsparcia
+### 8.2. Typowe problemy wymagające wsparcia
 
 Przykład:
 - interpretacja wymagań,
@@ -192,7 +192,7 @@ Przykład:
 
 ---
 
-### 9. Narzędzia i zasoby wykorzystywane w roli
+## 9. Narzędzia i zasoby wykorzystywane w roli
 
 Przykład:
 - system CMS,
@@ -203,9 +203,9 @@ Przykład:
 
 ---
 
-### 10. Mechanizmy monitorowania i oceny
+## 10. Mechanizmy monitorowania i oceny
 
-#### 10.1. Co podlega monitorowaniu
+### 10.1. Co podlega monitorowaniu
 
 Przykład:
 - jakość działań,
@@ -215,7 +215,7 @@ Przykład:
 
 ---
 
-#### 10.2. Przykładowe wskaźniki
+### 10.2. Przykładowe wskaźniki
 
 | Wskaźnik | Cel monitorowania |
 |---|---|
@@ -224,7 +224,7 @@ Przykład:
 
 ---
 
-### 11. Typowe ryzyka organizacyjne
+## 11. Typowe ryzyka organizacyjne
 
 Przykład:
 - niejasna odpowiedzialność,
@@ -235,7 +235,7 @@ Przykład:
 
 ---
 
-### 12. Typowe błędy organizacyjne
+## 12. Typowe błędy organizacyjne
 
 Przykład:
 - utożsamianie roli ze stanowiskiem,
@@ -245,21 +245,21 @@ Przykład:
 
 ---
 
-### 13. Model minimalny i model dojrzały
+## 13. Model minimalny i model dojrzały
 
-#### 13.1. Model minimalny
+### 13.1. Model minimalny
 
 Jak rola może funkcjonować w małej organizacji.
 
 ---
 
-#### 13.2. Model dojrzały
+### 13.2. Model dojrzały
 
 Jak rola funkcjonuje w organizacji dojrzałej.
 
 ---
 
-### 14. Powiązane dokumenty
+## 14. Powiązane dokumenty
 
 - Model organizacji odpowiedzialności
 - Słownik ról i odpowiedzialności
@@ -271,7 +271,7 @@ Jak rola funkcjonuje w organizacji dojrzałej.
 
 ---
 
-### 15. Uwagi końcowe
+## 15. Uwagi końcowe
 
 Dodatkowe informacje interpretacyjne dotyczące roli.
 

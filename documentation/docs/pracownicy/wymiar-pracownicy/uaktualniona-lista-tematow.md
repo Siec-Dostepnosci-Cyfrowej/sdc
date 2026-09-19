@@ -105,7 +105,7 @@ Procedura usprawnień istnieje, ale brak operacyjnego standardu dotyczącego tec
 
 ---
 
-# Rekomendowana struktura każdego zalecenia
+## Rekomendowana struktura każdego zalecenia
 
 Każde zalecenie powinno zawierać:
 

@@ -20,7 +20,7 @@ Dokument proponuje interpretację zapisu wniosku projektowego dotyczącego oprac
 
 ---
 
-# 2. Cel projektu pozostaje niezmieniony
+## 2. Cel projektu pozostaje niezmieniony
 
 Projekt „Sieć Dostępności Cyfrowej” zakłada opracowanie zaleceń i rekomendacji określających sposób zapewniania dostępności cyfrowej w organizacjach publicznych.
 
@@ -32,7 +32,7 @@ Powstały spójny system obejmujący wspólne podstawy metodyczne, zalecenia, ma
 
 ---
 
-# 3. Dlaczego rezultatem projektu nie jest pojedynczy dokument
+## 3. Dlaczego rezultatem projektu nie jest pojedynczy dokument
 
 Zakres problemów związanych z zapewnianiem dostępności cyfrowej obejmuje zagadnienia organizacyjne, prawne, technologiczne i metodyczne.
 
@@ -44,7 +44,7 @@ Powstały materiał ma strukturę **systemu wiedzy**, a nie pojedynczego opracow
 
 ---
 
-# 4. Repozytorium jako trwały rezultat projektu
+## 4. Repozytorium jako trwały rezultat projektu
 
 Najbardziej naturalną formą publikacji systemu wiedzy wypracowanego przez Sieć jest repozytorium internetowe.
 
@@ -59,7 +59,7 @@ Repozytorium stanowiłoby oficjalny zbiór opracowań przygotowanych przez Sieć
 
 ---
 
-# 5. Struktura repozytorium
+## 5. Struktura repozytorium
 
 Repozytorium ma strukturę modułową.
 
@@ -77,7 +77,7 @@ Taka struktura zapewnia spójność całego repozytorium przy jednoczesnym zacho
 ---
 
 
-# 6. Metadokumenty
+## 6. Metadokumenty
 
 Metadokumenty stanowią wspólną podstawę całego systemu zapewniania dostępności cyfrowej.
 
@@ -96,7 +96,7 @@ Metadokumenty zapewniają spójność wszystkich zaleceń oraz ich dalszego rozw
 
 ---
 
-# 7. Zalecenia
+## 7. Zalecenia
 
 Zalecenie stanowi podstawową jednostkę organizacyjną repozytorium.
 
@@ -106,7 +106,7 @@ Zalecenia są uporządkowane zgodnie z architekturą SZDC oraz obszarami funkcjo
 
 ---
 
-# 8. Załączniki
+## 8. Załączniki
 
 Załączniki nie stanowią samodzielnych opracowań.
 
@@ -114,7 +114,7 @@ Ich zadaniem jest ułatwienie wdrożenia konkretnego zalecenia poprzez dostarcze
 
 ---
 
-# 9. Dobre praktyki
+## 9. Dobre praktyki
 
 Dobre praktyki dokumentują sprawdzone sposoby realizacji zaleceń w różnych typach organizacji.
 
@@ -126,7 +126,7 @@ Ich rozwój może być prowadzony niezależnie od aktualizacji zaleceń.
 
 ---
 
-# 10. Rozwój po zakończeniu projektu
+## 10. Rozwój po zakończeniu projektu
 
 Przyjęcie modelu repozytorium umożliwia jego ciągły rozwój bez konieczności opracowywania kolejnych wydań całego zbioru zaleceń.
 
@@ -142,7 +142,7 @@ Takie rozwiązanie zapewnia trwałość rezultatów projektu oraz możliwość i
 
 ---
 
-# 11. Model utrzymania i rozwoju repozytorium
+## 11. Model utrzymania i rozwoju repozytorium
 
 Repozytorium stanowiłoby oficjalny zbiór opracowań Sieci Dostępności Cyfrowej działającej przy Ministrze Cyfryzacji lub pod patronatem Ministra Cyfryzacji.
 
@@ -160,7 +160,7 @@ Rozwiązanie to umożliwia ciągłe doskonalenie opracowań oraz dostosowywanie 
 
 ---
 
-# 12. Trwały rezultat projektu
+## 12. Trwały rezultat projektu
 
 Projekt „Sieć Dostępności Cyfrowej” stworzył środowisko ekspertów oraz doprowadził do opracowania pierwszej wersji systemu zapewniania dostępności cyfrowej.
 

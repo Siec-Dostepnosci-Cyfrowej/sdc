@@ -27,7 +27,7 @@ Opisuje minimalną zdolność do wykonywania zadań związanych z komunikacją c
 
 ---
 
-# 2. Założenia modelu kompetencji
+## 2. Założenia modelu kompetencji
 
 Model opiera się na następujących założeniach:
 
@@ -39,7 +39,7 @@ Model opiera się na następujących założeniach:
 - kompetencje powinny wspierać utrzymanie jakości i dostępności treści w całym cyklu życia publikowanych materiałów.
 ---
 
-# 3. Zakres kompetencji
+## 3. Zakres kompetencji
 
 Minimalne kompetencje obejmują w szczególności zdolność do:
 
@@ -54,9 +54,9 @@ Minimalne kompetencje obejmują w szczególności zdolność do:
 
 ---
 
-# 4. Poziomy kompetencji
+## 4. Poziomy kompetencji
 
-## 4.1. Poziom podstawowy
+### 4.1. Poziom podstawowy
 
 Poziom podstawowy obejmuje kompetencje wymagane od większości pracowników publikujących treści.
 
@@ -71,7 +71,7 @@ Osoba na tym poziomie:
 
 ---
 
-## 4.2. Poziom operacyjny
+### 4.2. Poziom operacyjny
 
 Poziom operacyjny obejmuje osoby odpowiedzialne za regularne publikowanie treści lub nadzorowanie procesu publikacji.
 
@@ -86,7 +86,7 @@ Osoba na tym poziomie:
 
 ---
 
-## 4.3. Poziom ekspercki
+### 4.3. Poziom ekspercki
 
 Poziom ekspercki obejmuje osoby zapewniające wsparcie organizacyjne, rozwój standardów oraz rozwiązywanie problemów złożonych.
 
@@ -103,9 +103,9 @@ Osoba na tym poziomie:
 
 ---
 
-# 5. Obszary kompetencji
+## 5. Obszary kompetencji
 
-## 5.1. Zrozumiałość komunikacji
+### 5.1. Zrozumiałość komunikacji
 
 Pracownik:
 
@@ -117,7 +117,7 @@ Pracownik:
 
 ---
 
-## 5.2. Struktura i organizacja treści
+### 5.2. Struktura i organizacja treści
 
 Pracownik:
 
@@ -128,7 +128,7 @@ Pracownik:
 
 ---
 
-## 5.3. Grafiki i materiały wizualne
+### 5.3. Grafiki i materiały wizualne
 
 Pracownik:
 
@@ -139,7 +139,7 @@ Pracownik:
 
 ---
 
-## 5.4. Multimedia
+### 5.4. Multimedia
 
 Pracownik:
 
@@ -150,7 +150,7 @@ Pracownik:
 
 ---
 
-## 5.5. Dokumenty cyfrowe
+### 5.5. Dokumenty cyfrowe
 
 Pracownik:
 
@@ -162,7 +162,7 @@ Pracownik:
 
 ---
 
-## 5.6. Publikacja treści
+### 5.6. Publikacja treści
 
 Pracownik:
 
@@ -173,7 +173,7 @@ Pracownik:
 
 ---
 
-## 5.7. Reagowanie na problemy dostępności
+### 5.7. Reagowanie na problemy dostępności
 
 Pracownik:
 
@@ -184,11 +184,11 @@ Pracownik:
 
 ---
 
-# 6. Powiązanie kompetencji z rolami
+## 6. Powiązanie kompetencji z rolami
 
 Zakres wymaganych kompetencji powinien być dostosowany do roli pracownika.
 
-## Przykładowe role
+### Przykładowe role
 
 | Rola | Minimalny poziom |
 |---|---|
@@ -204,7 +204,7 @@ Zakres wymaganych kompetencji powinien być dostosowany do roli pracownika.
 
 ---
 
-# 7. Zapewnianie kompetencji przez organizację
+## 7. Zapewnianie kompetencji przez organizację
 
 Organizacja zapewnia możliwość realizacji zadań poprzez:
 
@@ -218,7 +218,7 @@ Organizacja zapewnia możliwość realizacji zadań poprzez:
 
 ---
 
-# 8. Ocena stosowania kompetencji
+## 8. Ocena stosowania kompetencji
 
 Ocena kompetencji powinna uwzględniać przede wszystkim:
 
@@ -233,7 +233,7 @@ Ocena nie powinna ograniczać się wyłącznie do testów wiedzy.
 
 ---
 
-# 9. Doskonalenie kompetencji
+## 9. Doskonalenie kompetencji
 
 Organizacja okresowo aktualizuje wymagania kompetencyjne z uwzględnieniem:
 
@@ -245,7 +245,7 @@ Organizacja okresowo aktualizuje wymagania kompetencyjne z uwzględnieniem:
 
 ---
 
-# 10. Powiązane dokumenty
+## 10. Powiązane dokumenty
 
 - Zarządzanie standardami tworzenia i publikacji treści cyfrowych.
 - Organizacja procesów komunikacji cyfrowej i publikacji treści.
