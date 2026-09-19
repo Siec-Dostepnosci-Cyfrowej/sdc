@@ -7,7 +7,7 @@ sidebar_position: 2
 keywords: [dokumenty Sieci, formy dokumentów, zasady formowania dokumentów]
 opracowanie: Stefan Wajda
 data_zgloszenia: 28 lipca 2025 r.
-ostatnia_aktualizacja: 18 września 2026 r.
+ostatnia_aktualizacja: 19 września 2026 r.
 wersja_robocza: true
 ---
 
@@ -110,6 +110,8 @@ Dezyderaty formułuje się szczególnie starannie, z zachowaniem urzędowego sty
 ## 4. Struktura zalecenia
 
 Każde zalecenie ma wspólną strukturę, która ułatwia jego opracowanie, uzgadnianie i stosowanie oraz zapewnia spójność dokumentów Sieci.
+
+Poziomy nagłówków w zaleceniu podlegają zasadom wspólnym dla wszystkich dokumentów serwisu. Hierarchia nagłówków jest opisana w pliku [`CONTRIBUTING.md`](https://github.com/Siec-Dostepnosci-Cyfrowej/sdc/blob/main/CONTRIBUTING.md) w katalogu głównym repozytorium.
 
 Zalecenie obejmuje następujące sekcje:
 
