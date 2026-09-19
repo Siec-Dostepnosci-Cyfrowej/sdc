@@ -89,7 +89,6 @@ function analyzeNeutralLanguage(text: string): string[] {
 
 function generateMdx(form: RecommendationForm, files: File[]): string {
     const id = generateId(form.title || "zalecenie");
-    const heading = form.typ === "dezyderat" ? "Dezyderat" : "Zalecenie";
     const description = shorten(form.uzasadnienie || form.zalecenie, 160);
 
     return `---
@@ -102,8 +101,6 @@ typ: ${form.typ}
 wymiar: ${form.wymiar}
 opracowanie: ${form.autor}
 ---
-
-# ${heading}: ${form.title}
 
 ## 1. Zalecenie
 ${form.zalecenie}
