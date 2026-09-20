@@ -33,10 +33,6 @@ Rejestr powinien być prowadzony w sposób umożliwiający identyfikację właś
 
 Rejestr deklaracji dostępności stanowi integralną część rejestru zasobów cyfrowych.** Dla każdego zasobu podlegającego obowiązkowi publikacji deklaracji dostępności rejestr zawiera powiązane z nim dane deklaracji, w tym: status deklaracji (sporządzona / w przygotowaniu / wymaga aktualizacji / brak deklaracji / nie dotyczy), datę sporządzenia i ostatniej aktualizacji, link do opublikowanej deklaracji oraz wynik oceny zgodności, na której deklaracja się opiera.
 
----
-
-
-  
 ## 3. Rekomendacje dotyczące wdrożenia
 
 1. **Określenie zakresu inwentaryzacji**  
