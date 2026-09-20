@@ -1,6 +1,6 @@
 ---
 id: wsparcie-i-nadzor-nad-zapewnianiem-dostepnosci-cyfrowej
-title: Wsparcie i nadzór nad zapewnianiem dostępności cyfrowej w podmiotach powiązanych
+title: Wsparcie i nadzór nad zapewnianiem dostępności cyfrowej w organizacji wielopodmiotowej
 description: Organizacja tworzy i utrzymuje system wsparcia, monitorowania i reagowania na problemy z dostępnością cyfrową w podmiotach z nią powiązanych.
 sidebar_label: Projekt zalecenia
 sidebar_position: 0
@@ -8,190 +8,179 @@ keywords: [dostępność cyfrowa, wsparcie, nadzór, podmioty powiązane, jednos
 tags: [dostępność cyfrowa, wsparcie, nadzór, podmioty powiązane, jednostki organizacyjne]
 opracowanie: Angelika Sosnowska, Stefan Wajda, Bartłomiej Wilk
 data_zgloszenia: 7 lipca 2026 r.
-ostatnia_aktualizacja: 6 września 2026 r.
+ostatnia_aktualizacja: 20 września 2026 r.
 wersja_robocza: true
 ---
 
 **1. Cel zalecenia**
 
-Celem zalecenia jest uporządkowanie sposobu monitorowania, raportowania i wspierania dostępności cyfrowej. Dotyczy to organizacji, które odpowiadają za wiele jednostek lub utrzymują rozwiązania cyfrowe wykorzystywane przez różne podmioty.
-
-W praktyce coraz więcej usług publicznych realizowanych jest z wykorzystaniem wspólnych systemów teleinformatycznych, platform usługowych, serwisów internetowych, Biuletynów Informacji Publicznej oraz innych rozwiązań współdzielonych. Jednocześnie odpowiedzialność za utrzymanie systemu, publikację treści, realizację obowiązków dostępnościowych i kontakt z użytkownikiem bywa rozproszony pomiędzy różne podmioty lub komórki organizacyjne.
-
-Powoduje to trudności w ocenie rzeczywistego stanu dostępności, planowaniu działań naprawczych oraz identyfikowaniu obszarów wymagających wsparcia.
-
-Zalecenie ma pomóc w budowaniu wspólnego modelu działania, który pozwala zachować odpowiedzialność poszczególnych jednostek za własne obowiązki, a jednocześnie umożliwia monitorowanie i doskonalenie dostępności w skali całej struktury obejmującej powiązane podmioty.
+Celem zalecenia jest wskazanie, jak organizacja wielopodmiotowa może zwiększać skuteczność zapewniania dostępności cyfrowej w swoich jednostkach przez organizowanie wsparcia, koordynowanie wspólnych działań oraz – tam, gdzie ma do tego podstawę – sprawowanie nadzoru nad realizacją obowiązków.
 
 **2. Zalecenie**
 
-Organizacja wdraża model monitorowania, raportowania i wspierania dostępności cyfrowej obejmujący jednostki organizacyjne oraz rozwiązania cyfrowe wykorzystywane przez wiele podmiotów.
-  
-Model powinien umożliwiać pozyskiwanie informacji o stanie dostępności w taki sposób, aby można było je zestawiać i analizować na poziomie całej organizacji, identyfikować obszary wymagające wsparcia oraz planować działania doskonalące.
+Organizacja wielopodmiotowa ustala zasady współpracy z jednostkami, zapewnia im potrzebne wsparcie, wykorzystuje dostępne informacje do rozpoznawania problemów i podejmuje działania na poziomie, na którym można je skutecznie rozwiązać.
 
-Zalecenie nie ma na celu przenoszenia odpowiedzialności za dostępność cyfrową z jednostek na organizację nadrzędną. Poszczególne jednostki pozostają odpowiedzialne za realizację własnych obowiązków wynikających z przepisów prawa. Rolą organizacji nadrzędnej jest natomiast tworzenie wspólnych zasad, zapewnienie monitorowania oraz wspieranie działań prowadzonych przez jednostki.
+Jeżeli posiada odpowiednie kompetencje, korzysta również z przysługujących jej instrumentów organizacyjnych, zarządczych, kontrolnych lub nadzorczych oraz innych uprawnień wynikających z charakteru relacji z jednostką.
 
-**3. Zakres stosowania**
+**3. Rekomendacje**
 
-Zalecenie obejmuje organizacje funkcjonujące w modelu wielopodmiotowym lub utrzymujące rozwiązania cyfrowe wykorzystywane przez wiele jednostek.
+**3.1. Ustal, wobec kogo i w jakim zakresie możesz działać**
 
-Zakres obejmuje w szczególności:
- - jednostki organizacyjne gmin, powiatów i województw,
- - jednostki administracji zespolonej,
- - instytucje kultury,
- - jednostki oświatowe,
- - jednostki pomocy społecznej,
- - podmioty korzystające ze wspólnych systemów teleinformatycznych,
- - podmioty korzystające ze wspólnych serwisów internetowych lub BIP,
- - rozwiązania utrzymywane centralnie na rzecz wielu jednostek.
-   
-Zakres jest celowo szerszy niż klasyczne relacje organizacyjne. W praktyce problemy związane z dostępnością często wynikają nie tylko z formalnej podległości, ale również ze współdzielenia systemów, usług lub zasobów.
+Na początku należy ustalić, jakie jednostki obejmuje przyjęty sposób współpracy i wsparcia oraz jaka jest rola organizacji wobec każdej z nich.
 
-Zalecenie uwzględnia zarówno sytuacje, w których organizacja odpowiada za jednostki podległe lub nadzorowane, jak również przypadki, w których wiele podmiotów korzysta z tych samych rozwiązań technicznych przy zachowaniu odrębnej odpowiedzialności za realizację swoich obowiązków.
+Nie wszystkie jednostki pozostają z organizacją w takiej samej relacji. W jednym przypadku organizacja może wydawać wiążące polecenia, w innym prowadzić kontrolę lub sprawować nadzór, pełnić funkcję organizatora albo organu prowadzącego, a w jeszcze innym przede wszystkim koordynować działania i zapewniać wsparcie.
 
-Intencją nie jest objęcie wszystkich jednostek identycznym modelem działania. Zakres monitorowania, raportowania i wsparcia powinien być dostosowany do struktury organizacyjnej, rodzaju świadczonych usług oraz stopnia współdzielenia systemów i zasobów cyfrowych
+Dlatego trzeba określić:
 
-**4. Ramy działania**
+ - kto odpowiada za zapewnianie dostępności cyfrowej;
+ - czego organizacja może wymagać od jednostki;
+ - jakie wsparcie może jej zapewnić;
+ - jakich informacji potrzebuje;
+ - jakie działania może podjąć, gdy pojawi się problem.
 
-Zalecenie zostało opracowane jako element systemowego zarządzania dostępnością w strukturach wielopodmiotowych.
+Zakres działania zawsze wynika z konkretnej relacji i posiadanych kompetencji. Sam fakt finansowania jednostki, współpracy z nią albo korzystania z tego samego systemu nie daje automatycznie prawa do wydawania jej poleceń lub sprawowania nad nią nadzoru.
 
-Model obejmuje:
- - wspólne wymagania i minimalne standardy,
- - monitorowanie stanu dostępności,
- - raportowanie wyników,
- - analizę ryzyk,
- - wsparcie jednostek,
- - działania doskonalące.
-   
-Poszczególne elementy modelu są ze sobą powiązane i powinny być traktowane jako część jednego procesu zarządczego. Monitorowanie bez raportowania nie pozwala na analizę sytuacji, raportowanie bez wsparcia nie prowadzi do poprawy dostępności, a działania naprawcze bez oceny ich skuteczności nie pozwalają ocenić rzeczywistych efektów podejmowanych działań.
+Samo korzystanie przez kilka podmiotów z tego samego BIP, CMS, platformy lub innego rozwiązania cyfrowego nie jest przedmiotem tego zalecenia. Wspólny system może jednak być źródłem problemu, który ujawni się w kilku jednostkach i będzie wymagał działania po stronie podmiotu odpowiedzialnego za ten system.
 
-Model zakłada wykorzystanie informacji pochodzących z ocen dostępności, deklaracji dostępności, zgłoszeń użytkowników oraz innych źródeł pozwalających ocenić stan dostępności usług cyfrowych. Informacje te powinny być wykorzystywane nie tylko do identyfikowania problemów, ale również do planowania działań rozwojowych, budowania kompetencji oraz doskonalenia organizacji.
+W określeniu rodzaju relacji i możliwych sposobów działania może pomóc **Załącznik nr 1 – Mapa typowych podmiotów i zakresu działania**.
 
-Zamysłem nie jest budowanie dodatkowej warstwy kontroli administracyjnej ani tworzenie nowych obowiązków sprawozdawczych. Celem jest zapewnienie wspólnego obrazu sytuacji oraz stworzenie mechanizmów pozwalających reagować na problemy zanim staną się one trwałą barierą dla użytkowników, a także ograniczenie powielania tych samych błędów w wielu jednostkach.
+**3.2. Ustal zasady współpracy**
 
-**5. Rekomendacje**
+Jednostka powinna wiedzieć, kiedy działa samodzielnie, kiedy może oczekiwać wsparcia organizacji i kiedy problem wymaga wspólnego działania.
 
-**5.1. Określenie zakresu monitorowania**
+Nie ma potrzeby tworzenia na użyytek tego zalecenia odrębnego „minimum dostępności”, które powtarzałoby obowiązki wynikające z prawa i innych zaleceń. Potrzebne są natomiast wspólne zasady współpracy.
 
-Organizacja powinna określić, które jednostki, systemy i usługi są objęte wspólnym modelem monitorowania.
-Należy uwzględnić zarówno jednostki organizacyjne, jak i rozwiązania współdzielone, w których odpowiedzialność za utrzymanie systemu oraz publikację treści jest rozdzielona pomiędzy różne podmioty.
+Mogą one określać między innymi:
 
-**5.2. Ustalenie minimalnych wymagań**
+ - osoby lub role odpowiedzialne za kontakt;
+ - sposób zgłaszania problemów, których jednostkaa nie może rozwiązać sama;
+ - zasady przekazywania informacji potrzebnych organizacji;
+ - sposób uzgadniania działań naprawczych;
+ - zasady współpracy przy problemach dotyczących kilku jednostek;
+ - sposob sprawdzania, czy problem został rozwiązany.
 
-Wszystkie jednostki objęte modelem powinny realizować minimalny zestaw działań związanych z dostępnością cyfrową.
+Jeżeli organizacja może określać wobec jednostek wymagania organizacyjne, powinna korzystać z tej możliwości w takim zakresie, w jakim jest to potrzebne do sprawnego zapewniania dostępności, współpracy i nadzoru. Nie należy przy tym tworzyć uproszczonej kopii całego systemu zapewniania dostępności cyfrowej.
 
-Zakres ten może obejmować:
- - prowadzenie okresowych ocen,
- - aktualizację deklaracji dostępności,
- - obsługę zgłoszeń użytkowników,
- - planowanie działań naprawczych,
- - udział w procesie raportowania.
+**3.3. Zapewnij warunki i wsparcie potrzebne do działania**
 
-Wymagania powinny być proporcjonalne do wielkości jednostki, jej zasobów oraz zakresu realizowanych zadań.
+Nie każdy problem z dostępnością wynika z braku działania jednostki. Przyczyną może być brak wiedzy, czasu, narzędzi, środków albo dostępu do specjalistycznej pomocy.
 
-**5.3. Jednolite zasady prowadzenia ocen**
+Jeżeli organizacja ma wpływ na planowanie lub zapewnianie zasobów, powinna brać te potrzeby pod uwagę. Stawianie wymagań bez sprawdzenia, czy jednostka ma możliwość ich spełnienia, rzadko prowadzi do trwałej poprawy.
 
-Porównywanie wyników jest możliwe wyłącznie wtedy, gdy jednostki stosują zbliżone zasady oceny.
-Z tego względu organizacja powinna opracować wspólną metodykę określającą:
- - zakres oceny,
- - częstotliwość przeglądów,
- - minimalny zestaw metod badawczych,
- - sposób dokumentowania wyników,
- - sposób klasyfikowania problemów.
+Wsparcie może obejmować konsultacje, szkolenia, materiały i wzory, narzędzia, pomoc ekspercką, wsparcie przy zamówieniach i odbiorach produktów cyfrowych albo pomoc w zaplanowaniu działań naprawczych.
 
-Metodyka nie oznacza obowiązku zlecania zewnętrznych audytów dostępności dla każdej oceny. Jej celem jest zapewnienie minimalnego, porównywalnego zakresu przeglądów wykonywanych przez jednostki, niezależnie od wielkości organizacji i stosowanych rozwiązań.
+Nie każda jednostka potrzebuje tego samego. Mały podmiot może potrzebować dostępu do eksperta lub gotowego narzędzia, podczas gdy większa jednostka będzie w stanie większość działań prowadzić samodzielnie.
 
-**5.4. Centralny rejestr wyników**
+Wsparcie ma zwiększać samodzielność jednostki, a nie przejmować jej odpowiedzialność.
 
-W praktyce monitorowanie dostępności w wielu jednostkach jest utrudnione bez wspólnego źródła informacji.
-Z tego względu organizacja powinna prowadzić centralny rejestr wyników ocen oraz informacji związanych z dostępnością.
+**3.4. Wykorzystuj możliwości wspólnego działania**
 
-Rejestr może obejmować:
- - wyniki ocen,
- - informacje o deklaracjach dostępności,
- - zgłoszone problemy,
- - działania naprawcze,
- - poziom realizacji zaleceń,
- - informacje o ryzykach.
+Część działań nie musi być organizowana osobno przez każdą jednostkę.
 
-Założeniem nie jest tworzenie dodatkowej dokumentacji dla samej dokumentacji. Rejestr ma stanowić narzędzie wspierające zarządzanie oraz planowanie działań na poziomie całej organizacji.
+Jeżeli podobne potrzeby występują w wielu miejscach, warto sprawdzić, czy szkolenie, konsultacje, narzędzie, materiał, usługa ekspercka albo inne rozwiązanie można zapewnić wspólnie.
 
-**5.5. Wspólny standard deklaracji dostępności**
+Organizacja może również tworzyć warunki do wymiany doświadczeń między jednostkami, upowszechniać dobre rozwiązania i łączyć osoby zajmujące się podobnymi problemami.
 
-W organizacjach wykorzystujących wspólne systemy lub wspólne rozwiązania publikacyjne deklaracje dostępności są często przygotowywane w różny sposób, mimo że dotyczą podobnych usług.
+Wspólne działanie ma sens wtedy, gdy rzeczywiście ułatwia jednostkom pracę albo pozwala lepiej wykorzystać dostępne zasoby. Nie powinno prowadzić do ujednolicania wszystkiego tylko dlatego, że jednostki należą do tej samej struktury.
 
-Powoduje to trudności w interpretacji informacji przez użytkowników oraz utrudnia porównywanie danych.
-Z tego względu organizacja powinna określić wspólne zasady przygotowywania i aktualizacji deklaracji dostępności, obejmujące w szczególności:
- - sposób przeprowadzania ocen,
- - opisywanie niezgodności,
- - prezentowanie informacji o dostępności,
- - sposób obsługi zgłoszeń i wniosków,
- - podział odpowiedzialności w przypadku systemów współdzielonych.
+**3.5. Korzystaj z informacji, które już powstają**
 
-**5.6. Wykorzystanie wyników do monitorowania i zarządzania ryzykiem**
+Organizacja powinna wiedzieć, gdzie pojawiają się istotne problemy, czego jednostki nie są w stanie rozwiązać samodzielnie i gdzie potrzebne jest wsparcie lub dalsze działanie.
 
-Dane pozyskiwane w ramach monitorowania powinny służyć nie tylko raportowaniu, ale również podejmowaniu decyzji.
+Nie oznacza to tworzenia nowego systemu raportowania.
 
-Wyniki ocen powinny być wykorzystywane do:
- - identyfikacji powtarzających się problemów,
- - oceny skuteczności działań naprawczych,
- - planowania działań szkoleniowych,
- - identyfikacji obszarów podwyższonego ryzyka,
- - planowania rozwoju systemów i usług
- - oceny stopnia wdrożenia systemowego podejścia do dostępności cyfrowej,
- - określania poziomu dojrzałości organizacji w tym obszarze.
+W pierwszej kolejności należy korzystać z informacji, które już powstają podczas zapewniania dostępności cyfrowej, na przykład z wyników badań i przeglądów, deklaracji dostępności, zgłoszeń użytkowników, kontroli, odbiorów, działań naprawczych oraz informacji przekazywanych przez pracowników.
 
-**5.7. Zapewnienie wsparcia jednostkom**
+Informacje powinny pozwalać porównać sytuację jednostek w takim zakresie, w jakim jest to potrzebne do podejmowania decyzji. Porównywalność nie oznacza jednak obowiązku stosowania przez wszystkich tych samych formularzy, rejestrów czy sposobów dokumentowania.
 
-Skuteczny model monitorowania wymaga równoczesnego zapewnienia wsparcia.
-W praktyce wiele problemów związanych z dostępnością wynika nie z braku zaangażowania, lecz z ograniczeń kompetencyjnych, organizacyjnych lub technicznych.
-Wsparcie może obejmować:
- - konsultacje eksperckie,
- - materiały pomocnicze,
- - wzory dokumentów,
- - szkolenia,
- - wymianę doświadczeń pomiędzy jednostkami,
- - wspólne rozwiązywanie problemów.
+Jeżeli potrzebne informacje znajdują się już w systemie zgłoszeniowym, dokumentacji zadań lub innym używanym narzędziu, należy z nich skorzystać zamiast prowadzić drugi rejestr.
 
-**5.8. Doskonalenie modelu**
+Jeżeli organizacja nie ma prostego sposobu uporządkowania najważniejszych informacji, może pomocniczo wykorzystać **Załącznik nr 3 – Karta oceny sytuacji jednostki lub podmiotu**. Karta nie zastępuje audytu, kontroli ani deklaracji dostępności i nie powinna dublować danych, które są już dostępne.
 
-Model monitorowania powinien podlegać okresowej ocenie i aktualizacji.
+**3.6. Reaguj na problemy i szukaj ich przyczyny**
 
-Wyniki raportowania, doświadczenia jednostek oraz zmiany organizacyjne i technologiczne powinny być wykorzystywane do doskonalenia przyjętych rozwiązań.
+Wykrycie problemu powinno prowadzić do ustalenia dalszego sposobu postępowania.
 
-Celem nie jest utrzymywanie niezmiennego modelu, lecz jego rozwijanie wraz ze zmianami zachodzącymi w organizacji.
+Trzeba ustalić, czego dotyczy problem, jaki ma wpływ na użytkownika, gdzie leży jego przyczyna, kto może ją usunąć i czy jednostka jest w stanie zrobić to samodzielnie.
 
-Załączniki mają charakter pomocniczy:
+Jeżeli potrzebuje pomocy, należy ustalić, jakiego wsparcia wymaga. Jeżeli problem leży poza jej możliwościami, trzeba skierować go na poziom, na którym może zostać rozwiązany.
+
+Kolejność działania powinna wynikać przede wszystkim z wpływu bariery na użytkownika. Problem, który uniemożliwia skorzystanie z ważnej informacji, usługi lub funkcji, wymaga szybszej reakcji niż błąd, który nie powoduje tak poważnych skutków.
+
+Jeżeli ten sam problem pojawia się w kilku jednostkach, należy poszukać wspólnej przyczyny. Może nią być wzór dokumentu, sposób publikowania treści, procedura, narzędzie, system, sposób przygotowania zamówienia, ten sam wykonawca albo brak określonych kompetencji.
+
+W takim przypadku lepiej usunąć przyczynę raz, we właściwym miejscu, niż poprawiać ten sam błąd osobno w każdej jednostce.
+
+Szczegółową ścieżkę postępowania przedstawia **Załącznik nr 2 – Schemat reagowania na problemy z dostępnością cyfrową**.
+**3.7. Nadzór stosuj tam, gdzie jest potrzebny i możliwy**
+
+Jeżeli jednostka może rozwiązać problem przy odpowiednim wsparciu, w pierwszej kolejności należy jej takie wsparcie zapewnić. Po instrumenty nadzorcze należy sięgać wtedy, gdy problem pozostaje nierozwiązany albo jednostka nie realizuje swoich obowiązków.
+
+Jeżeli jednostka ma możliwość usunięcia problemu i podejmuje skuteczne działania, nie ma potrzeby uruchamiania dalej idących instrumentów tylko dlatego, że są dostępne.
+
+Inaczej należy postąpić, gdy istotny problem nie jest usuwany, powtarza się mimo wcześniejszych działań albo jednostka trwale nie realizuje swoich obowiązków. Wtedy organizacja powinna wykorzystać środki, które rzeczywiście jej przysługują – organizacyjne, zarządcze, kontrolne, nadzorcze albo wynikające z umowy, porozumienia lub innej podstawy działania.
+
+Nie ma jednego zestawu takich środków dla wszystkich jednostek. Za każdym razem trzeba ustalić, z czego wynika możliwość działania.
+
+Braku kompetencji nie można zastąpić wewnętrznym zarządzeniem. Zarządzenie może porządkować działanie tam, gdzie organizacja ma podstawę do jego wydania, ale nie tworzy uprawnień wobec podmiotu, którego dana relacja nie obejmuje.
+
+**3.8. Sprawdzaj efekt, nie liczbę działań**
+
+Działanie nie kończy się na przeprowadzeniu szkolenia, przekazaniu zalecenia, zgłoszeniu błędu wykonawcy ani otrzymaniu informacji, że problem został poprawiony.
+
+Trzeba sprawdzić, czy bariera rzeczywiście zniknęła i czy użytkownik może skorzystać z informacji, funkcji lub usługi.
+
+Warto również sprawdzić, czy usunięto przyczynę problemu, czy problem nie pojawia się ponownie, czy nie występuje w innych jednostkach i czy udzielone wsparcie było właściwie dobrane.
+
+Liczba przeprowadzonych szkoleń, kontroli, sporządzonych raportów czy wydanych zaleceń może służyć do opisu podjętych działań, ale nie przesądza o poprawie dostępności cyfrowej.
+
+Powtarzające się bariery są sygnałem, że trzeba wrócić do przyczyny i zmienić sposób działania.
+
+Organizacja powinna też okresowo spojrzeć na cały przyjęty sposób współpracy: co działa, jakie problemy wracają, gdzie jednostki nadal potrzebują pomocy i czy zmieniły się przepisy, technologie lub warunki organizacyjne. Wynik takiego przeglądu powinien prowadzić do konkretnych zmian, jeżeli dotychczasowe rozwiązania nie przynoszą efektu.
+
+
+**4. Podstawy prawne**
+
+Zakres działań organizacji wobec poszczególnych jednostek zależy od ich statusu prawnego, charakteru relacji z organizacją oraz wynikających z niej kompetencji.
+
+Przy stosowaniu zalecenia należy uwzględniać przepisy dotyczące dostępności cyfrowej oraz przepisy właściwe dla danej organizacji i rodzaju jednostki, w szczególności:
+
+ - ustawę z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych, z późn. zm.;
+ - ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych, z późn. zm.;
+ - właściwe przepisy ustrojowe i przepisy regulujące status danej jednostki.
+
+Podstawę konkretnego działania należy każdorazowo ustalić zgodnie z zakresem kompetencji organizacji.
+
+**5. Uzasadnienie**
+
+Na potrzeby zalecenia określenie **„organizacja wielopodmiotowa”** oznacza organizację, w której wykonywanie zadań jest rozłożone pomiędzy wiele wyodrębnionych jednostek, a organizacja pełni wobec nich określoną rolę organizacyjną, koordynacyjną, właścicielską, kontrolną lub nadzorczą. Nie jest to odrębna kategoria prawna. Określenie służy jedynie opisaniu sytuacji, w której zapewnianie dostępności cyfrowej nie odbywa się w ramach jednej jednostki.
+
+Poszczególne jednostki odpowiadają za wykonywanie przypisanych im zadań, w tym za zapewnianie dostępności cyfrowej swoich zasobów. Jednocześnie działają w bardzo różnych warunkach. Różnią się wielkością, zasobami, kompetencjami pracowników i możliwością korzystania ze specjalistycznego wsparcia.
+
+Szczególnie małe jednostki mogą nie mieć własnych specjalistów, narzędzi lub środków potrzebnych do samodzielnego rozwiązania każdego problemu. Z drugiej strony część potrzeb i problemów powtarza się w wielu miejscach. Organizowanie tych samych szkoleń, zakupów, konsultacji lub działań naprawczych oddzielnie przez każdą jednostkę może być niepotrzebne i kosztowne.
+
+Szersza struktura daje możliwość działania tam, gdzie pojedyncza jednostka ma ograniczone możliwości. Organizacja może łączyć potrzeby, zapewniać wspólne wsparcie, wykorzystywać doświadczenia innych jednostek i dostrzegać problemy, które mają tę samą przyczynę.
+
+Nie oznacza to przejęcia odpowiedzialności jednostek. Chodzi o wykorzystanie możliwości, których pojedyncza jednostka nie ma albo których nie ma sensu organizować osobno w każdym miejscu.
+
+Wsparcie, współpraca i nadzór mają przy tym różne zadania. Wsparcie pomaga jednostce wykonać jej obowiązki. Współpraca pozwala rozwiązywać wspólne problemy i korzystać ze wspólnych zasobów. Nadzór służy reagowaniu tam, gdzie organizacja ma odpowiednie kompetencje i gdzie samo wsparcie nie prowadzi do oczekiwanego rezultatu.
+
+Do tego potrzebna jest również wiedza o tym, co dzieje się w jednostkach. Nie uzasadnia to jednak budowania kolejnego systemu sprawozdawczości. Informacje, które już powstają przy badaniu dostępności, obsłudze zgłoszeń, prowadzeniu działań naprawczych czy kontroli, powinny przede wszystkim pomagać w podejmowaniu decyzji.
+
+Ostatecznym miernikiem skuteczności nie jest liczba wykonanych działań, ale to, czy bariery są usuwane, problemy nie wracają i użytkownik może skutecznie korzystać z cyfrowych informacji i usług.
+
+**6. Powiązania z innymi dokumentami Sieci**
+
+To zalecenie nie opisuje od nowa całego systemu zapewniania dostępności cyfrowej. Korzysta z rozwiązań określonych w innych dokumentach Sieci i pokazuje, jak wykorzystać je w organizacji obejmującej wiele jednostek.
+
+Dotyczy to w szczególności materiałów i zaleceń odnoszących się do podziału odpowiedzialności, zasobów potrzebnych do zapewniania dostępności, badania dostępności, obsługi zgłoszeń użytkowników, zamówień i odbiorów, rozwoju kompetencji oraz zapewniania dostępności w całym cyklu życia TIK.
+
+Informacje i narzędzia powstające w tych procesach mogą być wykorzystywane do rozpoznawania sytuacji jednostek, kierowania wsparcia, identyfikowania problemów wspólnych oraz – tam, gdzie jest to uzasadnione – podejmowania działań kontrolnych lub nadzorczych.
+
+Zalecenie należy również powiązać z dokumentami dotyczącymi kontroli dostępności przed publikacją oraz postępowania w przypadku nieproporcjonalnego obciążenia, tak aby nie tworzyć dla organizacji wielopodmiotowej odrębnych zasad w obszarach już uregulowanych w innych częściach systemu.
+
+**7. Załączniki**
 
 * [Załącznik 1. Mapa typowych podmiotów i zakresu działania](./zalacznik-1-mapa-typowych-podmiotow-i-zakresu-dzialania.md)
 * [Załącznik 2. Schemat reagowania na problemy z dostępnością cyfrową](./zalacznik-2-schemat-reagowania-na-problemy-z-dostepnoscia-cyfrowa.md)
 * [Załącznik 3. Karta oceny sytuacji jednostki lub podmiotu](./zalacznik-3-karta-oceny-sytuacji-jednostki-lub-podmiotu.md)
-
-**6. Miejsce zalecenia w systemie zarządzania dostępnością**
-
-Zalecenie uzupełnia obszary związane z:
- - organizacją systemu zapewniania dostępności,
- - zarządzaniem kompetencjami,
- - rolami i odpowiedzialnością,
- - monitorowaniem dostępności,
- - deklaracją dostępności,
- - cyklem życia TIK,
- - zarządzaniem usługami cyfrowymi.
-
-Relacja jest dwustronna. Zalecenie korzysta z wyników ocen, deklaracji dostępności i działań monitorujących, ale jednocześnie tworzy mechanizm pozwalający wykorzystywać te informacje do zarządzania dostępnością w skali całej organizacji.
-
-**7. Uzasadnienie**
-
-W wielu organizacjach publicznych dostępność cyfrowa jest realizowana przez różne jednostki organizacyjne, zespoły oraz osoby odpowiedzialne za utrzymanie systemów, publikację treści, rozwój usług cyfrowych i obsługę użytkowników. Jednocześnie coraz częściej zadania te są wykonywane z wykorzystaniem wspólnych systemów teleinformatycznych, platform usługowych oraz rozwiązań utrzymywanych centralnie dla wielu podmiotów.
-
-W praktyce oznacza to, że odpowiedzialność za poszczególne elementy dostępności jest rozproszona pomiędzy wiele podmiotów. Jedne jednostki odpowiadają za utrzymanie systemów, inne za publikowane treści, a jeszcze inne za realizację obowiązków związanych z dostępnością cyfrową. Jednocześnie organizacje nadrzędne często odpowiadają za tworzenie warunków organizacyjnych, kompetencyjnych i technicznych umożliwiających realizację tych obowiązków przez podległe lub współpracujące jednostki.
-
-W takich warunkach skuteczne zarządzanie dostępnością wymaga dostępu do wiarygodnych i porównywalnych informacji o stanie dostępności w całej strukturze organizacyjnej. Brak wspólnych zasad monitorowania, raportowania i dokumentowania wyników powoduje, że informacje pozostają rozproszone, wyniki ocen są trudne do porównania, a działania doskonalące są planowane na podstawie niepełnego obrazu sytuacji.
-
-W konsekwencji utrudnione staje się identyfikowanie problemów o charakterze systemowym, planowanie działań naprawczych, rozwój kompetencji pracowników oraz zarządzanie ryzykiem związanym z dostępnością cyfrową. Trudniejsze staje się również określenie, które działania przynoszą oczekiwane rezultaty, a które wymagają dodatkowego wsparcia lub zmiany podejścia.
-
-Zalecenie nie ma na celu przenoszenia odpowiedzialności za dostępność cyfrową z poszczególnych jednostek na organizację nadrzędną. Każda jednostka pozostaje odpowiedzialna za realizację własnych obowiązków wynikających z przepisów prawa. Celem zalecenia jest stworzenie wspólnych zasad monitorowania i wykorzystywania informacji o dostępności tak, aby mogły one wspierać zarządzanie dostępnością w skali całej organizacji.
-
-Wspólny model monitorowania, raportowania i wsparcia umożliwia identyfikowanie problemów powtarzających się w wielu jednostkach, ocenę skuteczności podejmowanych działań oraz planowanie rozwoju organizacji w sposób oparty na danych. Pozwala również ograniczać ryzyko powielania tych samych błędów w różnych częściach organizacji oraz skuteczniej wykorzystywać dostępne zasoby.
-
-Zalecenie porządkuje obszar, który obecnie w wielu organizacjach jest realizowany w sposób rozproszony i niespójny, mimo że ma istotny wpływ na jakość usług publicznych oraz skuteczność realizacji obowiązków związanych z dostępnością cyfrową.
-
