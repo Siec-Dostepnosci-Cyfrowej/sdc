@@ -16,7 +16,7 @@ wersja_robocza: true
 Celem niniejszego zalecenia jest zapewnienie spójnego podejścia podmiotów publicznych do **inwentaryzacji zasobów cyfrowych**, które podlegają obowiązkowi zapewniania dostępności cyfrowej.  
 Inwentaryzacja pozwala na właściwe zaplanowanie, monitorowanie i doskonalenie działań w tym obszarze oraz stanowi podstawę do rzetelnego raportowania stanu dostępności.
 
-Integralnym elementem inwentaryzacji jest **rejestr deklaracji dostępności**, prowadzony jako część rejestru zasobów cyfrowych, a nie jako odrębny, samodzielny wykaz. Takie podejście pozwala na bieżące powiązanie każdego zasobu z jego aktualnym statusem formalnym.
+Integralnym elementem inwentaryzacji są informacje o deklaracjach dostępności powiązane z właściwymi stronami internetowymi i aplikacjami mobilnymi. 
 
 ---
 
@@ -31,7 +31,7 @@ Podmiot publiczny prowadzi i utrzymuje **rejestr zasobów cyfrowych**, obejmują
 
 Rejestr powinien być prowadzony w sposób umożliwiający identyfikację właściciela zasobu, określenie jego statusu dostępności oraz ocenę zgodności z obowiązującymi wymaganiami technicznymi.
 
-Rejestr deklaracji dostępności stanowi integralną część rejestru zasobów cyfrowych.** Dla każdego zasobu podlegającego obowiązkowi publikacji deklaracji dostępności rejestr zawiera powiązane z nim dane deklaracji, w tym: status deklaracji (sporządzona / w przygotowaniu / wymaga aktualizacji / brak deklaracji / nie dotyczy), datę sporządzenia i ostatniej aktualizacji, link do opublikowanej deklaracji oraz wynik oceny zgodności, na której deklaracja się opiera.
+Informacje o deklaracjach dostępności stanowią integralną część rejestru zasobów cyfrowych.** Dla każdego zasobu podlegającego obowiązkowi publikacji deklaracji dostępności rejestr zawiera powiązane z nim dane deklaracji, w tym: status deklaracji (sporządzona / w przygotowaniu / wymaga aktualizacji / brak deklaracji / nie dotyczy), datę sporządzenia i ostatniej aktualizacji, link do opublikowanej deklaracji oraz wynik oceny zgodności, na której deklaracja się opiera.
 
 ## 3. Rekomendacje dotyczące wdrożenia
 
@@ -81,7 +81,7 @@ Każdy zasób cyfrowy powinien mieć przypisanego właściciela, określony cel 
 3. **Podstawa dla procesów operacyjnych**  
    Rejestr zasobów cyfrowych stanowi punkt wyjścia dla szczegółowych procesów zarządzania wybranymi kategoriami zasobów, w tym dokumentami cyfrowymi udostępnianymi publicznie i ich deklaracjami dostępności. Wyniki tych procesów powinny aktualizować dane rejestrowe, aby rejestr pozostawał aktualnym źródłem wiedzy zarówno o stanie zasobów, jak i o stanie deklaracji dostępności.
 4. **Zarządzanie ryzykiem**  
-   Wiedza o strukturze i stanie zasobów cyfrowych, wraz z bieżącym statusem ich deklaracji dostępności, umożliwia wcześniejsze wykrywanie niezgodności i zapobieganie potencjalnym naruszeniom prawa, w tym brakowi lub nieaktualności deklaracji.
+   Wiedza o strukturze i stanie zasobów cyfrowych wraz z bieżącym statusem ich deklaracji dostępności umożliwia wcześniejsze wykrywanie niezgodności i zapobieganie potencjalnym naruszeniom prawa, w tym brakowi lub nieaktualności deklaracji.
 5. **Usprawnienie procesów organizacyjnych**  
    Uporządkowany, zintegrowany rejestr wspiera planowanie działań rozwojowych, audytowych i budżetowych oraz ułatwia współpracę pomiędzy komórkami organizacyjnymi, eliminując konieczność synchronizowania dwóch odrębnych rejestrów.
 6. **Przejrzystość i odpowiedzialność**  
@@ -137,8 +137,8 @@ Każdy zasób cyfrowy powinien mieć przypisanego właściciela, określony cel 
 
 | ID zasobu | Nazwa zasobu | Typ zasobu | URL / Lokalizacja | Właściciel / Opiekun | Status dostępności | Zgodność z EN 301 549 | Monitoring aktywny | Ostatni wynik skanowania | Data ostatniej aktualizacji | CMS / Technologia | Status deklaracji dostępności | Data sporządzenia / aktualizacji deklaracji | Link do deklaracji | Uwagi / Plan działania |
 |-----------|--------------|------------|--------------------|-----------------------|---------------------|-----------------------|---------------------|---------------------------|-----------------------------|-------------------|-------------------------------|-----------------------------------------------|----------------------|------------------------|
-| 001 | Serwis główny urzędu | Strona WWW | https://www.miasto.gov.pl | Wydział IT | Zgodny częściowo | Częściowa (A, AA) | Tak | 78% zgodności WCAG 2.1 | 2025-09-15 | WordPress 6.2 | Sporządzona, wymaga aktualizacji | 2025-03-20 | https://www.miasto.gov.pl/deklaracja-dostepnosci | Wdrożenie poprawek WCAG planowane na 4/2025 |
-| 002 | Formularz zgłoszenia szkody | Aplikacja web | https://bip.miasto.gov.pl/szkoda | Wydział Komunalny | Niezgodny | Brak zgodności | Tak | 42% zgodności WCAG 2.1 | 2025-06-30 | Angular 14 | Brak deklaracji | — | — | Brak alternatyw tekstowych dla przycisków |
-| 003 | Raport roczny 2024 | Dokument PDF | https://www.miasto.gov.pl/raport2024.pdf | Biuro Burmistrza | Zgodny | Pełna (A, AA, PDF/UA) | Tak | Zgodny z PDF/UA | 2025-01-10 | Adobe Acrobat Pro | Nie dotyczy (objęty deklaracją zasobu nadrzędnego) | — | — | Zastosowano tagowanie PDF |
-| 004 | Nagranie sesji rady 12.09.2025 | Multimedia | https://www.miasto.gov.pl/sesja-2025-09-12.mp4 | Wydział Promocji | Niezgodny | Brak zgodności | Nie | — | 2025-09-13 | MP4 / YouTube | Brak deklaracji | — | — | Brak napisów – planowane dodanie do końca października |
+| 001 | Serwis główny urzędu | Strona WWW | https://www.miasto.gov.pl | Wydział IT | Zgodny częściowo | Częściowa (A, AA) | Tak | WCAG 2.1 | 2025-09-15 | WordPress 6.2 | Sporządzona, wymaga aktualizacji | 2025-03-20 | https://www.miasto.gov.pl/deklaracja-dostepnosci | Wdrożenie poprawek WCAG planowane na 4/2025 |
+| 002 | Formularz zgłoszenia szkody | Aplikacja web | https://bip.miasto.gov.pl/szkoda | Wydział Komunalny | Niezgodny | Brak zgodności | Tak | WCAG 2.1 | 2025-06-30 | Angular 14 | Nie dotyczy – objęte deklaracją zasobu nadrzędnego | — | — | Brak alternatyw tekstowych dla przycisków |
+| 003 | Raport roczny 2024 | Dokument PDF | https://www.miasto.gov.pl/raport2024.pdf | Biuro Burmistrza | Zgodny | Pełna (A, AA, PDF/UA) | Tak | Zgodny z PDF/UA | 2025-01-10 | Adobe Acrobat Pro | Nie dotyczy - objęty deklaracją zasobu nadrzędnego | — | — | Zastosowano tagowanie PDF |
+| 004 | Nagranie sesji rady 12.09.2025 | Multimedia | https://www.miasto.gov.pl/sesja-2025-09-12.mp4 | Wydział Promocji | Niezgodny | Brak zgodności | Nie | — | 2025-09-13 | MP4 / YouTube | Nie dotyczy - objęty deklaracją zasobu nadrzędnego | — | — | Brak napisów – planowane dodanie do końca października |
 | 005 | API danych demograficznych | System / API | https://api.miasto.gov.pl/demografia | Wydział Statystyki | Zgodny | Pełna (A, AA, API doc) | Tak | Testy automatyczne OK | 2025-08-01 | Node.js / Swagger | Nie dotyczy | — | — | Dokumentacja dostępna, testy automatyczne aktywne |
