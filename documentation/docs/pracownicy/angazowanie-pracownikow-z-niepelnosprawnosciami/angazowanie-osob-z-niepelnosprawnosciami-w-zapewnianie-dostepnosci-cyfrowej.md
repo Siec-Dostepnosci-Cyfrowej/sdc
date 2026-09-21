@@ -16,9 +16,13 @@ wersja_robocza: true
 
 Celem zalecenia jest zapewnienie systemowego udziału osób z niepełnosprawnościami w działaniach związanych z planowaniem, projektowaniem, oceną, wdrażaniem i doskonaleniem dostępności cyfrowej w organizacji.
 
+---
+
 ## 2. Zalecenie
 
 Organizacja tworzy warunki umożliwiające osobom z niepełnosprawnościami aktywny udział w działaniach związanych z dostępnością cyfrową oraz wykorzystuje ich wiedzę, doświadczenia i perspektywę użytkowników podczas podejmowania decyzji dotyczących technologii, treści, usług i procesów cyfrowych.
+
+---
 
 ## 3. Rekomendacje
 
@@ -30,6 +34,8 @@ Organizacja powinna:
 2. Zapewniać możliwość dobrowolnego udziału w działaniach związanych z dostępnością cyfrową.
 3. Uwzględniać różnorodność doświadczeń i potrzeb osób z różnymi rodzajami niepełnosprawności.
 4. Tworzyć warunki umożliwiające rzeczywisty wpływ uczestników na podejmowane decyzje.
+
+---
 
 ### 3.2. Obszary angażowania
 
@@ -46,6 +52,8 @@ Osoby z niepełnosprawnościami mogą uczestniczyć w szczególności w:
 - przygotowywaniu materiałów szkoleniowych;
 - prowadzeniu działań edukacyjnych i szkoleniowych.
 
+---
+
 ### 3.3. Konsultacje i współtworzenie rozwiązań
 
 Organizacja powinna zapewnić możliwość udziału osób z niepełnosprawnościami w pracach dotyczących:
@@ -56,6 +64,8 @@ Organizacja powinna zapewnić możliwość udziału osób z niepełnosprawności
 - zakupów technologii informacyjno-komunikacyjnych;
 - oceny jakości usług cyfrowych;
 - planowania działań naprawczych.
+
+---
 
 ### 3.4. Grupy Zasobów Pracowniczych (Employee Resource Groups)
 
@@ -73,6 +83,8 @@ Grupy takie mogą:
 
 ERG nie zastępują formalnych struktur odpowiedzialnych za dostępność cyfrową, lecz stanowią dodatkowe źródło wiedzy i doświadczeń pracowników.
 
+---
+
 ### 3.5. Organizacja współpracy
 
 Organizacja powinna określić:
@@ -82,6 +94,8 @@ Organizacja powinna określić:
 3. sposób dokumentowania zgłaszanych problemów i rekomendacji;
 4. sposób wykorzystywania wyników konsultacji;
 5. zasady informowania uczestników o efektach ich udziału.
+
+---
 
 ### 3.6. Wykorzystywanie doświadczeń pracowników
 
@@ -95,26 +109,28 @@ Informacje pozyskane od osób z niepełnosprawnościami powinny być wykorzystyw
 - planowania działań szkoleniowych;
 - aktualizacji polityk i procedur.
 
+---
+
 ### 3.7. Role i odpowiedzialność
 
-### Kierownictwo organizacji
+#### 3.7.1. Kierownictwo organizacji
 
 - wspiera angażowanie osób z niepełnosprawnościami;
 - tworzy warunki organizacyjne umożliwiające ich udział;
 - zapewnia niezbędne zasoby.
 
-### Koordynator dostępności
+#### 3.7.2. Koordynator dostępności
 
 - organizuje i koordynuje współpracę;
 - identyfikuje obszary wymagające konsultacji;
 - wspiera wykorzystywanie pozyskanych doświadczeń.
 
-### Kierownicy komórek organizacyjnych
+#### 3.7.3. Kierownicy komórek organizacyjnych
 
 - umożliwiają udział pracowników w działaniach związanych z dostępnością cyfrową;
 - wykorzystują pozyskiwane doświadczenia podczas realizacji zadań.
 
-## 4. Monitorowanie
+## 3.8. Monitorowanie
 
 Organizacja powinna okresowo oceniać:
 
@@ -123,6 +139,16 @@ Organizacja powinna okresowo oceniać:
 3. wpływ zgłaszanych rekomendacji na podejmowane decyzje;
 4. funkcjonowanie grup ERG i innych mechanizmów współpracy;
 5. stopień wykorzystania doświadczeń pracowników w działaniach związanych z dostępnością cyfrową.
+
+---
+
+## 4. Uzasadnienie
+
+Dostępność cyfrowa nie może być skutecznie rozwijana wyłącznie na podstawie wymagań prawnych, standardów technicznych lub opinii specjalistów.
+
+Istotnym źródłem wiedzy są doświadczenia osób korzystających z technologii wspomagających oraz osób napotykających bariery podczas korzystania z technologii, treści i usług cyfrowych.
+
+Włączanie osób z niepełnosprawnościami w działania związane z dostępnością cyfrową umożliwia lepsze rozpoznawanie problemów, trafniejszą ocenę proponowanych rozwiązań oraz skuteczniejsze doskonalenie środowiska cyfrowego organizacji.
 
 ---
 
@@ -135,13 +161,12 @@ Organizacja powinna okresowo oceniać:
 
 ---
 
-## 6. Uzasadnienie
+## 6 Załączniki
 
-Dostępność cyfrowa nie może być skutecznie rozwijana wyłącznie na podstawie wymagań prawnych, standardów technicznych lub opinii specjalistów.
+- [Sposoby angażowania osób z niepełnosprawnościami w działania związane z dostępnością cyfrową](sposoby-angazowania-osob-z-niepelnosprawnosciami)
+- [Jak organizować Grupę Zasobów Pracowniczych (Employee Resource Group – ERG)](jak-organizowac-grupe-zasobow-pracowniczych)
 
-Istotnym źródłem wiedzy są doświadczenia osób korzystających z technologii wspomagających oraz osób napotykających bariery podczas korzystania z technologii, treści i usług cyfrowych.
-
-Włączanie osób z niepełnosprawnościami w działania związane z dostępnością cyfrową umożliwia lepsze rozpoznawanie problemów, trafniejszą ocenę proponowanych rozwiązań oraz skuteczniejsze doskonalenie środowiska cyfrowego organizacji.
+---
 
 
 ## 7. Powiązania z innymi zaleceniami
@@ -151,3 +176,5 @@ Włączanie osób z niepełnosprawnościami w działania związane z dostępnoś
 - Zapewnianie dostosowań i racjonalnych usprawnień.
 - Organizacja zapewniania dostępności systemów IT.
 - Dostępność cyfrowa w polityce zakupowej.
+
+---

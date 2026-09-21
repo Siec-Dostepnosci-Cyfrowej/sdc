@@ -2,7 +2,7 @@
 id: stosowanie-szablonu-wymagan
 title: Stosowanie szablonu wymagań dostępności cyfrowej
 sidebar_position: 2
-sidebar_label: Załącznik 2. Stosowanie szablonu
+sidebar_label: Stosowanie szablonu
 description: Stosowanie szablonu wymagań dostępności cyfrowej w zakupach rozwiązań zawierających technologie i treści cyfrowe
 keywords: [rozwiązanie systemowe, zaopatrzenie, zamówienia publiczne]
 tags: [rozwiązanie systemowe, zaopatrzenie, zamówienia publiczne]

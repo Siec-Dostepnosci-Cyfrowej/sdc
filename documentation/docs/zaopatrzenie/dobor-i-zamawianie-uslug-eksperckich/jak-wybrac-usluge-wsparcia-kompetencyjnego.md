@@ -1,6 +1,6 @@
 ---
 id: jak-wybrac-usluge-wsparcia-kompetencyjnego
-title: Jak wybrać usługę wsparcia kompetencyjnego – przewodnik decyzyjny
+title: Jak wybrać usługę wsparcia kompetencyjnego
 description: Przewodnik pomagający dobrać usługę wsparcia kompetencyjnego odpowiednią do przedsięwzięcia organizacji, roli potrzebnego wsparcia oraz oczekiwanych rezultatów.
 sidebar_label: Jak wybrać usługę wsparcia kompetencyjnego
 sidebar_position: 3

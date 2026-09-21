@@ -12,7 +12,7 @@ ostatnia_aktualizacja: 4 lipca 2026 r.
 wersja_robocza: true
 ---
 
-# Cel dokumentu
+## Cel dokumentu
 
 Dokument przedstawia dobrą praktykę organizacyjną dotyczącą zatwierdzania decyzji o zastosowaniu nieproporcjonalnego obciążenia.
 
@@ -20,7 +20,7 @@ Nie określa obowiązkowej procedury ani struktury organizacyjnej. Pokazuje przy
 
 ---
 
-# Zasada
+## Zasada
 
 Stwierdzenie nieproporcjonalnego obciążenia jest decyzją organizacyjną dotyczącą sposobu realizacji obowiązku zapewnienia dostępności cyfrowej.
 
@@ -30,7 +30,7 @@ Zatwierdzeniu podlega wynik oceny przeprowadzonej zgodnie z zasadami określonym
 
 ---
 
-# Przykładowy przebieg procesu
+## Przykładowy przebieg procesu
 
 ```text
 Identyfikacja problemu
@@ -63,7 +63,7 @@ Okresowy przegląd
 
 ---
 
-# Zakres zatwierdzanej decyzji
+## Zakres zatwierdzanej decyzji
 
 Dobrą praktyką jest, aby zatwierdzana decyzja obejmowała co najmniej:
 
@@ -76,7 +76,7 @@ Dobrą praktyką jest, aby zatwierdzana decyzja obejmowała co najmniej:
 
 ---
 
-# Kto zatwierdza decyzję
+## Kto zatwierdza decyzję
 
 Organizacja samodzielnie określa osobę lub stanowisko odpowiedzialne za zatwierdzanie decyzji dotyczących zastosowania nieproporcjonalnego obciążenia.
 
@@ -92,7 +92,7 @@ Istotne jest nie stanowisko, lecz zapewnienie odpowiedniego poziomu odpowiedzial
 
 ---
 
-# Forma zatwierdzenia
+## Forma zatwierdzenia
 
 Organizacja określa sposób zatwierdzania decyzji zgodnie z własnymi procedurami.
 
@@ -108,7 +108,7 @@ Nie zaleca się podejmowania decyzji wyłącznie w sposób nieudokumentowany.
 
 ---
 
-# Powiązanie z innymi dokumentami
+## Powiązanie z innymi dokumentami
 
 Po zatwierdzeniu decyzji organizacja:
 
@@ -120,7 +120,7 @@ Po zatwierdzeniu decyzji organizacja:
 
 ---
 
-# Okresowy przegląd
+## Okresowy przegląd
 
 Decyzja o zastosowaniu nieproporcjonalnego obciążenia nie powinna mieć charakteru bezterminowego.
 
@@ -135,7 +135,7 @@ Dobrą praktyką jest przeprowadzanie okresowej weryfikacji, w szczególności p
 
 ---
 
-# Dobra praktyka
+## Dobra praktyka
 
 Zatwierdzenie decyzji nie powinno być traktowane jako zgoda na pozostawienie niedostępnej treści.
 

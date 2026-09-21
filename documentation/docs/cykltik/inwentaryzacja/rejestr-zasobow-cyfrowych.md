@@ -271,6 +271,16 @@ Rejestr zasobów cyfrowych ma wartość wtedy, gdy jest używany w bieżącym za
 
 ## 5. Podstawy prawne
 
+- Dyrektywa (UE) 2016/2102 Parlamentu Europejskiego i Rady z dnia 26 października 2016 r. w sprawie dostępności stron internetowych i aplikacji mobilnych organów sektora publicznego,  
+- Dyrektywa (UE) 2019/882 (Europejski Akt o Dostępności – EAA),  
+- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz.U. z 2019 r. poz. 848 z późn. zm.),  
+- Ustawa z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (Dz.U. 2024 poz. 759),  
+- Norma EN 301 549 V3.2.1 „Accessibility requirements for ICT products and services”.
+
+---
+
+## 6. Źródła
+
 W zaleceniu uwzględniono poniżej wymienione przepisy i dokumenty. Przepisy te nie ustanawiają wprost ogólnego obowiązku prowadzenia rejestru zasobów cyfrowych. Inwentaryzacja jest rozwiązaniem zarządczym wspierającym wykonywanie obowiązków dotyczących dostępności cyfrowej, deklaracji dostępności, monitorowania stanu zasobów, zakupów, utrzymania i reagowania na problemy.
 
 1. Dyrektywa Parlamentu Europejskiego i Rady (UE) 2016/2102 z dnia 26 października 2016 r. w sprawie dostępności stron internetowych i mobilnych aplikacji organów sektora publicznego.

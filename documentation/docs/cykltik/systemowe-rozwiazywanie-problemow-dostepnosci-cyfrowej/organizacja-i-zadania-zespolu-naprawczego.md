@@ -1,6 +1,6 @@
 ---
 id: organizacja-i-zadania-zespolu-naprawczego
-title: Organizacja i zadania zespołu odpowiedzialnego za naprawę problemów dostępności cyfrowej. Załącznik nr 1
+title: Organizacja i zadania zespołu odpowiedzialnego za naprawę problemów dostępności cyfrowej
 description: Model operacyjny organizacji i zadań zespołu naprawczego ds. dostępności cyfrowej
 sidebar_label: Zespół naprawczy
 sidebar_position: 2

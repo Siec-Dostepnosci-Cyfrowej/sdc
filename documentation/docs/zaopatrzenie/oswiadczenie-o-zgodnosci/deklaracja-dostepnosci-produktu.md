@@ -1,7 +1,7 @@
 ---
 id: deklaracja-dostepnosci-produktu
 title: Deklaracja dostawcy o dostępności cyfrowej produktu lub usługi
-sidebar_label: Projekt zalecenia
+sidebar_label: Zalecenie
 sidebar_position: 1 
 description: Organizacja powinna wymagać od dostawcy lub wykonawcy deklaracji dostępności produktu lub usługi podczas ich odbioru 
 keywords: [polityka dostępności,zamówienia publiczne,zaopatrzenie]
@@ -26,9 +26,6 @@ Organizacja powinna wymagać od dostawcy lub wykonawcy deklaracji dostępności 
 3. Deklaracja dostępności powinna być podstawą do żądania wprowadzenia poprawek, jeżeli produkt lub usługa okażą się niezgodne z tą deklaracją lub niedostępne w inny sposób.
 4. Zalecenie dotyczy zarówno produktów i usług gotowych („z pudełka”), jak i wykonywanych na indywidualne zamówienie podmiotu publicznego.
 
-## Podstawa prawna
-
-Art. 106 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych.
 
 ## Uzasadnienie
 
@@ -39,3 +36,8 @@ Obecnie nie ma etykiet lub certyfikatów potwierdzających cyfrową dostępnoś�
 Przedłożenie przez dostawcę lub wykonawcę deklaracji dostępności znacząco ułatwi wybór i odbiór produktów i usług cyfrowych przez podmioty publiczne. Taka deklaracja stanowi równocześnie oświadczenie, że produkt lub usługa są cyfrowo dostępne, ewentualnie, w których obszarach nie spełnia wymagań.
 
 Przygotowanie deklaracji dostępności na potrzeby zamówień publicznych spowoduje także większe zainteresowanie dostępnością produktów i usług. W procesie oceny dostępności i przygotowywania deklaracji dostępności, producenci i usługodawcy będą mogli odkryć problemy i zaplanować ich usunięcie.
+
+
+## Podstawa prawna
+
+Art. 106 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych.

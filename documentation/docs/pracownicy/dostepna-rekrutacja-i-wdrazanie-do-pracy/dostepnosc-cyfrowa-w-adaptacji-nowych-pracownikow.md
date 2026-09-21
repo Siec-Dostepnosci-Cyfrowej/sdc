@@ -1,8 +1,8 @@
 ---
 id: dostepnosc-cyfrowa-w-adaptacji-nowych-pracownikow
 title: „Dostępność cyfrowa” w adaptacji nowo zatrudnionych pracowników
-sidebar_position: 0
-sidebar_label: Zalecenie 
+sidebar_position: 2
+sidebar_label: Zalecenie 2
 description: Przygotowanie nowych pracowników do obowiązków związanych z zapewnianiem dostępności
 keywords: [wiedza i umiejętności,pracownicy,adaptacja pracowników,wprowadzanie do pracy,]
 tags: [wiedza i umiejętności,pracownicy,adaptacja pracowników,wprowadzanie do pracy,]
@@ -13,13 +13,13 @@ ostatnia_aktualizacja:  18 sierpnia 2025 r.
 wersja_robocza: true
 ---
 
-## Zalecenie
+## 1. Zalecenie
 
 Organizacja uwzględnia w procesie zatrudniania nowych pracowników obowiązkowe przeszkolenie przygotowujące do wypełniania obowiązków związanych z zapewnianiem dostępności cyfrowej.
 
 ---
 
-## Rekomendacje
+## 2. Rekomendacje
 
 Rekomenduje się, aby przygotowanie nowych pracowników do wypełniania obowiązków związanych z dostępnością cyfrową obejmowało:
 
@@ -42,20 +42,20 @@ Rekomenduje się, aby przygotowanie nowych pracowników do wypełniania obowiąz
 
 ---
 
-## Uzasadnienie
+## 3. Uzasadnienie
 
 Istotą adaptacji nowych pracowników jest przygotowanie ich do skutecznego wypełniania obowiązków zawodowych w nowym dla nich miejscu pracy. W przypadku pracowników zatrudnianych na stanowiskach, na których wymagane jest tworzenie różnego typu dokumentów, przeszkolenie pracownika przez pracodawcę w zakresie podstaw tworzenia dostępnych dokumentów jest niezbędnym warunkiem dobrego przygotowania do pracy.
 
 ---
 
-## Podstawa prawna
+## 4. Podstawa prawna
 
 Art. 94 pkt 1 Kodeksu Pracy (Dz.U. 1974 Nr 24 poz. 141)
 
 ---
 
-## Opracowania, bibliografia
+## Źródłą, opracowania
 
-- Stelmaszyk A., [Adaptacja pracownika w pracy](https://gamfi.com/pl/blog/adaptacja-pracownika-w-pracy-etapy-uczestnicy-przyklady)
+- [Stelmaszyk A., Adaptacja pracownika w pracy](https://gamfi.com/pl/blog/adaptacja-pracownika-w-pracy-etapy-uczestnicy-przyklady)
 
 ---

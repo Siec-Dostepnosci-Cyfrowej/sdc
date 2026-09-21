@@ -2,7 +2,7 @@
 id: informowanie-o-dostepnosci-i-sposobach-uzyskania-wsparcia
 title: Informowanie o dostępności i sposobach uzyskania wsparcia
 description: Organizacja zapewnia użytkownikom łatwy dostęp do informacji o dostępności oraz dostępnych formach wsparcia związanych z korzystaniem z usług i kanałów komunikacji.
-sidebar_label: Informowanie o dostępności
+sidebar_label: Zalecenie
 sidebar_position: 0
 keywords: [informacja o dostępności,dostępność cyfrowa,dostępność architektoniczna,koordynator dostępności,wsparcie użytkowników]
 tags: [informacja o dostępności,dostępność cyfrowa,dostępność architektoniczna,koordynator dostępności,wsparcie użytkowników]
@@ -15,6 +15,8 @@ wersja_robocza: true
 ## 1. Cel zalecenia
 
 Celem zalecenia jest zapewnienie użytkownikom łatwego dostępu do informacji o dostępności organizacji oraz możliwościach uzyskania wsparcia podczas korzystania z jej usług, informacji, wydarzeń i kanałów komunikacji.
+
+---
 
 ## 2. Zalecenie
 
@@ -112,7 +114,7 @@ Informowanie o dostępności nie powinno ograniczać się do realizacji obowiąz
 - Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami.
 - Ustawa z dnia 19 sierpnia 2011 r. o języku migowym i innych środkach komunikowania się.
 
-## 6. Powiązane dokumenty
+## 6. Załączniki
 
 - [Projekt sekcji „Dostępność” w serwisie internetowym organizacji](projekt-sekcji-dostepnosc-w-serwisie)
 - [Mapa nawigacyjna sekcji „Dostępność”](mapa-nawigacyjna-sekcji-dostepnosc-w-serwisie)

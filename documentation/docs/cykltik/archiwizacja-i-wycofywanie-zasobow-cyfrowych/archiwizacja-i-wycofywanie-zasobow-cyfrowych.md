@@ -13,7 +13,7 @@ wersja_robocza: true
 ---
 
 
-## Cel
+## 1. Cel
 
 Celem zalecenia jest uporządkowanie zasad zapewniania dostępności cyfrowej zasobów, które utraciły aktualność, wymagają migracji, powinny pozostać dostępne jako zasoby archiwalne, mają zostać wycofane z publikacji albo są powiązane z wycofywanym systemem teleinformatycznym.
 
@@ -23,11 +23,11 @@ Archiwizacja, migracja i wycofywanie zasobów nie są wyłącznie czynnościami 
 
 Dokument porządkuje poziom normatywny i strategiczno-organizacyjny. Szczegółowe sposoby wdrożenia, listy kontrolne, formularze i przykłady są opisane w załącznikach oraz materiałach pomocniczych.
 
-## Zalecenie
+## 2. Zalecenie
 
 Podmioty publiczne powinny zarządzać dostępnością cyfrową zasobów przez cały cykl ich życia, w tym podczas archiwizacji, migracji i wycofywania z publikacji. Każda taka decyzja powinna określać status dostępnościowy zasobu, sposób dalszego udostępniania oraz potrzebę zapewnienia dostępu alternatywnego.
 
-## Rekomendacje
+## 3. Rekomendacje
 
 1. Określać status dostępnościowy zasobu przed jego archiwizacją, migracją albo wycofaniem z publikacji.
 2. Ustalać, czy zasób pozostający publicznie dostępny nadal powinien spełniać wymagania dostępności cyfrowej.
@@ -41,49 +41,7 @@ Podmioty publiczne powinny zarządzać dostępnością cyfrową zasobów przez c
 10. Powiązać zasady postępowania z zasobami archiwalnymi, migrowanymi i wycofywanymi z innymi zaleceniami SDC dotyczącymi załączników, treści od innych podmiotów, multimediów, deklaracji dostępności i cyklu życia TIK.
 
 
-## Podstawy prawne
-
-### Archiwa i dokumentacja
-
-- [Ustawa z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19830380173)
-- [Rozporządzenie Prezesa Rady Ministrów z dnia 18 stycznia 2011 r. w sprawie instrukcji kancelaryjnej, jednolitych rzeczowych wykazów akt oraz instrukcji w sprawie organizacji i zakresu działania archiwów zakładowych](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110890505)
-
-Regulacje te określają ramy klasyfikowania, kwalifikowania, przechowywania, przekazywania i brakowania dokumentacji. Zalecenie nie zastępuje tych regulacji, lecz wskazuje potrzebę powiązania ich z zarządzaniem zasobami cyfrowymi.
-
-### Informatyzacja i interoperacyjność
-
-- [Ustawa z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050640565)
-- [Rozporządzenie Rady Ministrów z dnia 12 kwietnia 2012 r. w sprawie Krajowych Ram Interoperacyjności](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000526)
-
-Regulacje te mają znaczenie dla systemów teleinformatycznych, formatów danych, interoperacyjności, bezpieczeństwa i możliwości wymiany informacji w postaci elektronicznej.
-
-### Informacja publiczna i BIP
-
-- [Ustawa z dnia 6 września 2001 r. o dostępie do informacji publicznej](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011121198)
-- Przepisy dotyczące Biuletynu Informacji Publicznej
-
-Przepisy te wpływają na decyzje o publikacji, utrzymaniu, oznaczaniu, wycofaniu oraz dalszym udostępnianiu informacji publicznej.
-
-### Dostępność cyfrowa
-
-- [Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000848)
-
-Regulacja ta ma znaczenie dla treści archiwalnych i historycznych, które pozostają publicznie dostępne, a także dla postępowań w sprawie zapewnienia dostępności cyfrowej i dostępu alternatywnego.
-
-### Ochrona danych osobowych
-
-- [RODO - rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj)
-- [Ustawa z dnia 10 maja 2018 r. o ochronie danych osobowych](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001000)
-
-Regulacje te mają znaczenie dla retencji danych, ograniczenia dostępu, minimalizacji danych, bezpieczeństwa przetwarzania i rozliczalności.
-
-### Usługi zaufania
-
-- [Rozporządzenie eIDAS](https://eur-lex.europa.eu/eli/reg/2014/910/oj)
-
-Regulacja ta powinna być uwzględniana, gdy zasób zawiera podpis elektroniczny, pieczęć elektroniczną, znacznik czasu albo inny mechanizm potwierdzający autentyczność lub integralność.
-
-## Uzasadnienie
+## 4. Uzasadnienie
 
 Dostępność cyfrowa jest często kontrolowana przy tworzeniu lub publikacji zasobu, ale pomijana w końcowej fazie cyklu życia TIK. Tymczasem zasoby archiwalne, historyczne, migrowane albo wycofywane nadal mogą być publicznie dostępne, potrzebne do załatwienia sprawy, istotne dla informacji publicznej albo wykorzystywane jako dokumentacja działań podmiotu.
 
@@ -101,7 +59,87 @@ Zalecenie jest skalowalne. Może być stosowane zarówno przez małe podmioty pr
 
 Zalecenie nie zastępuje instrukcji kancelaryjnej, jednolitego rzeczowego wykazu akt, instrukcji archiwalnej, przepisów o narodowym zasobie archiwalnym, decyzji właściwego archiwum państwowego ani analizy prawnej konkretnej sprawy. Nie tworzy odrębnego systemu kwalifikacji archiwalnej. Określa organizacyjne zasady zarządzania zasobami cyfrowymi w końcowej fazie ich cyklu życia z perspektywy dostępności cyfrowej, trwałości informacji i rozliczalności decyzji.
 
-## Powiązania z innymi zaleceniami SDC
+---
+
+## 5. Podstawy prawne
+
+### 5.1. Archiwa i dokumentacja
+
+- [Ustawa z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19830380173)
+- [Rozporządzenie Prezesa Rady Ministrów z dnia 18 stycznia 2011 r. w sprawie instrukcji kancelaryjnej, jednolitych rzeczowych wykazów akt oraz instrukcji w sprawie organizacji i zakresu działania archiwów zakładowych](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110890505)
+
+Regulacje te określają ramy klasyfikowania, kwalifikowania, przechowywania, przekazywania i brakowania dokumentacji. Zalecenie nie zastępuje tych regulacji, lecz wskazuje potrzebę powiązania ich z zarządzaniem zasobami cyfrowymi.
+
+### 5.2. Informatyzacja i interoperacyjność
+
+- [Ustawa z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050640565)
+- [Rozporządzenie Rady Ministrów z dnia 12 kwietnia 2012 r. w sprawie Krajowych Ram Interoperacyjności](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000526)
+
+Regulacje te mają znaczenie dla systemów teleinformatycznych, formatów danych, interoperacyjności, bezpieczeństwa i możliwości wymiany informacji w postaci elektronicznej.
+
+### 5.3. Informacja publiczna i BIP
+
+- [Ustawa z dnia 6 września 2001 r. o dostępie do informacji publicznej](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011121198)
+- Przepisy dotyczące Biuletynu Informacji Publicznej
+
+Przepisy te wpływają na decyzje o publikacji, utrzymaniu, oznaczaniu, wycofaniu oraz dalszym udostępnianiu informacji publicznej.
+
+### 5.4. Dostępność cyfrowa
+
+- [Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000848)
+
+Regulacja ta ma znaczenie dla treści archiwalnych i historycznych, które pozostają publicznie dostępne, a także dla postępowań w sprawie zapewnienia dostępności cyfrowej i dostępu alternatywnego.
+
+### 5.5. Ochrona danych osobowych
+
+- [RODO - rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj)
+- [Ustawa z dnia 10 maja 2018 r. o ochronie danych osobowych](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001000)
+
+Regulacje te mają znaczenie dla retencji danych, ograniczenia dostępu, minimalizacji danych, bezpieczeństwa przetwarzania i rozliczalności.
+
+---
+
+### 5.6. Usługi zaufania
+
+- [Rozporządzenie eIDAS](https://eur-lex.europa.eu/eli/reg/2014/910/oj)
+
+Regulacja ta powinna być uwzględniana, gdy zasób zawiera podpis elektroniczny, pieczęć elektroniczną, znacznik czasu albo inny mechanizm potwierdzający autentyczność lub integralność.
+
+---
+
+## 6. Źródła i opracowania
+
+- Materiały Naczelnej Dyrekcji Archiwów Państwowych
+- Materiały właściwych archiwów państwowych
+- Dokumentacja systemów EZD
+- EN 301 549
+- Web Content Accessibility Guidelines (WCAG)
+- Materiały i zalecenia SDC dotyczące dostępności cyfrowej, zarządzania treścią, załączników, multimediów, deklaracji dostępności, interoperacyjności i cyklu życia TIK
+- Dokumentacja wewnętrzna podmiotu, w szczególności instrukcja kancelaryjna, JRWA, instrukcja archiwalna, polityki bezpieczeństwa informacji, procedury ochrony danych osobowych, dokumentacja systemów oraz umowy z wykonawcami
+
+---
+
+## 7. Załączniki
+
+- [Model organizacji procesu](model-organizacji-procesu.md)
+- [Role i odpowiedzialności](role-i-odpowiedzialnosci.md)
+- [Procedura standardowa](procedura-standardowa.md)
+- [Procedura uproszczona](procedura-uproszczona.md)
+- [Zasady kwalifikacji zasobów](zasady-kwalifikacji-zasobow.md)
+- [Zasady postępowania z zasobami archiwalnymi](zasady-postepowania-z-zasobami-archiwalnymi.md)
+- [Lista kontrolna archiwizacji](lista-kontrolna-archiwizacji.md)
+- [Lista kontrolna wycofania treści](lista-kontrolna-wycofania-tresci.md)
+- [Lista kontrolna wycofania systemu](lista-kontrolna-wycofania-systemu.md)
+- [Formularz decyzji](formularz-decyzji.md)
+- [Rejestr decyzji](rejestr-decyzji.md)
+- [Przykłady i scenariusze](przyklady-i-scenariusze.md)
+- [Archiwizacja i wycofywanie zasobów cyfrowych](poradnik-wdrozeniowy-archiwizacja-i-wycofywanie-zasobow-cyfrowych.md)
+- [Słownik pojęć](slownik-pojec.md)
+
+---
+
+
+## 8. Powiązania z innymi zaleceniami SDC
 
 Zalecenie jest powiązane z przeglądem i naprawą załączników, ponieważ wynik przeglądu może prowadzić do decyzji o naprawie, oznaczeniu jako archiwalne, zapewnieniu alternatywy, migracji albo wycofaniu zasobu.
 
@@ -113,15 +151,7 @@ Zalecenie dostarcza informacji potrzebnych do deklaracji dostępności, zwłaszc
 
 Zalecenie rozwija perspektywę cyklu życia TIK, ponieważ archiwizacja, migracja i wycofywanie powinny być planowane od etapu projektowania, utrzymania i modernizacji systemu.
 
-## Źródła i opracowania
-
-- Materiały Naczelnej Dyrekcji Archiwów Państwowych
-- Materiały właściwych archiwów państwowych
-- Dokumentacja systemów EZD
-- EN 301 549
-- Web Content Accessibility Guidelines (WCAG)
-- Materiały i zalecenia SDC dotyczące dostępności cyfrowej, zarządzania treścią, załączników, multimediów, deklaracji dostępności, interoperacyjności i cyklu życia TIK
-- Dokumentacja wewnętrzna podmiotu, w szczególności instrukcja kancelaryjna, JRWA, instrukcja archiwalna, polityki bezpieczeństwa informacji, procedury ochrony danych osobowych, dokumentacja systemów oraz umowy z wykonawcami
+---
 
 
 ## Historia wersji

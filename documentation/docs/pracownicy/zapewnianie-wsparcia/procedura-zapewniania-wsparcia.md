@@ -2,7 +2,7 @@
 id: procedura-zapewniania-wsparcia
 title: Procedury uzyskiwania wsparcia przez pracowników i współpracowników
 description: Stworzenie procedury uzyskiwnia wsparcia prez pracowników i współpacowników organizacji.
-sidebar_label: Projekt zalecenia
+sidebar_label: Zalecenie
 sidebar_position: 1 
 keywords: [WCAG 2.1 AA, dostepnosc cyfrowa]
 tags: [WCAG 2.1 AA, dostepnosc cyfrowa]
@@ -13,7 +13,7 @@ wspolpraca: Hanna Pasterny
 wersja_robocza: true
 ---
 
-## Zalecenie
+## 1. Zalecenie
 
 - **Utwórz procedurę** uzyskiwania wsparcia (dostosowań i racjonalnych
   uprawnień) przez pracowników oraz inne osoby pracujące na rzecz
@@ -32,7 +32,7 @@ wersja_robocza: true
   internetowej organizacji, w BIP -- Oferty pracy oraz w dokumentacji
   wewnętrznych, np. w Intranecie, w sekcji "niezbędnik pracownika".
 
-## Rekomendacje 
+## 2. Rekomendacje 
 
 W treści procedury uwzględnij:
 
@@ -67,16 +67,8 @@ W treści procedury uwzględnij:
   - pamiętaj, że procedura uzyskiwania wsparcia musi spełniać wymogi
     dostępności cyfrowej.
 
-## Podstawa prawna
 
-- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron
-  internetowych i aplikacji mobilnych podmiotów publicznych (tekst
-  jednolity Dz.U. 2023 poz. 1440).
-
-- Ustawa o rehabilitacji zawodowej i społecznej osób niepełnosprawnych
-  (t.j. Dz. U. z 2025 r. poz. 913)
-
-## Uzasadnienie
+## 3. Uzasadnienie
 
 Osoby niepełnosprawne mają z mocy prawa zagwarantowane dostosowanie
 stanowiska pracy. Dla osób z umiarkowanym i znacznym stopniem
@@ -97,3 +89,12 @@ skonfrontowanie własnych oczekiwań i możliwości w tym zakresie, a
 jednocześnie wyeliminować przypadkowość i arbitralność decyzji.
 Publikacja tych regulacji jest ważna, aby przyjęte reguły były jasne
 także dla kandydatów do pracy i współpracujących z podmiotem.
+
+## 4. Podstawa prawna
+
+- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron
+  internetowych i aplikacji mobilnych podmiotów publicznych (tekst
+  jednolity Dz.U. 2023 poz. 1440).
+
+- Ustawa o rehabilitacji zawodowej i społecznej osób niepełnosprawnych
+  (t.j. Dz. U. z 2025 r. poz. 913)

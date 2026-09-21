@@ -12,7 +12,7 @@ data_aktualizacji: 30 marca 2026
 wersja_robocza: true
 ---
 
-# Załącznik nr 2 do Zalecenia w sprawie systemowego rozwiązywania problemów dostępności cyfrowej
+**Załącznik nr 2 do Zalecenia w sprawie systemowego rozwiązywania problemów dostępności cyfrowej**
 
 ## 1. Przedmiot zobowiązania
 

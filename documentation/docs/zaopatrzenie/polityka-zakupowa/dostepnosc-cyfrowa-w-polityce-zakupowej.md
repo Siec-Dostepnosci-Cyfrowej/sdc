@@ -29,7 +29,7 @@ Zasady te stanowią element systemu zapewniania dostępności organizacji i są 
 
 ## 3. Rekomendacje
 
-### Odpowiedzialność za ustanowienie i nadzór
+### 3.1. Odpowiedzialność za ustanowienie i nadzór
 
 Kierownictwo organizacji ustanawia zasady jako element polityki zapewniania dostępności lub polityki zakupowej organizacji oraz zapewnia warunki niezbędne do ich skutecznego stosowania.
 
@@ -37,7 +37,7 @@ Za wdrażanie zasad powinni odpowiadać właściciele procesów zakupowych, osob
 
 Osoba odpowiedzialna za koordynację zapewniania dostępności powinna wspierać przygotowanie zasad, monitorować ich stosowanie oraz inicjować działania doskonalące.
 
-### Stosowanie zasad w organizacjach wielopodmiotowych
+### 3.2. Stosowanie zasad w organizacjach wielopodmiotowych
 
 W organizacjach obejmujących wiele jednostek organizacyjnych rekomenduje się ustanawianie wspólnych zasad uwzględniania dostępności cyfrowej podczas nabywania technologii, produktów, usług i treści cyfrowych.
 
@@ -47,7 +47,7 @@ Przyjęcie wspólnych zasad sprzyja spójności działań, ogranicza ryzyko stos
 
 Jednostki organizacyjne mogą uzupełniać wspólne zasady o rozwiązania uwzględniające specyfikę realizowanych zadań, pod warunkiem zachowania zgodności z wymaganiami przyjętymi na poziomie organizacji nadrzędnej.
 
-### Zakres stosowania
+### 3.3. Zakres stosowania
 
 Rekomenduje się, aby zasady obejmowały wszystkie przypadki nabywania technologii, produktów, usług i treści cyfrowych, niezależnie od trybu realizacji zakupu.
 
@@ -64,7 +64,7 @@ W szczególności powinny obejmować:
 
 Zasady powinny dotyczyć zarówno rozwiązań przeznaczonych dla użytkowników zewnętrznych, jak i systemów, narzędzi oraz środowiska pracy wykorzystywanych przez pracowników organizacji.
 
-### Stosowane standardy i kryteria dostępności
+### 3.4. Stosowane standardy i kryteria dostępności
 
 Rekomenduje się stosowanie normy PN-ETSI EN 301 549 jako podstawowego wzorca określania wymagań dostępności we wszystkich procesach zaopatrzenia dotyczących technologii, produktów, usług i treści cyfrowych.
 
@@ -76,7 +76,7 @@ Jeżeli dla danego rodzaju produktu, usługi lub technologii nie istnieje odpowi
 
 Funkcjonalne kryteria efektywności określone w PN-ETSI EN 301 549 rekomenduje się wykorzystywać jako podstawowy wzorzec definiowania wymagań dostępności w przypadkach, w których brak jest odpowiednich norm lub standardów technicznych.
 
-### Elementy zasad
+### 3.5. Elementy zasad
 
 Rekomenduje się, aby zasady określały co najmniej:
 
@@ -92,7 +92,7 @@ Rekomenduje się, aby zasady określały co najmniej:
 10. Zasady postępowania w przypadku stwierdzenia niezgodności.
 11. Dopuszczalne wyjątki i warunki odstępstw.
 
-### Stosowanie zasad w procesach zakupowych
+### 3.6. Stosowanie zasad w procesach zakupowych
 
 Rekomenduje się, aby ustanowione zasady znajdowały odzwierciedlenie w działaniach organizacji na wszystkich etapach procesu zaopatrzenia, w szczególności podczas:
 
@@ -108,7 +108,7 @@ Rekomenduje się, aby ustanowione zasady znajdowały odzwierciedlenie w działan
 Rekomenduje się również komunikowanie zasad dostawcom i wykonawcom, w szczególności poprzez publikowanie polityki zakupowej, polityki nabywania dostępnych technologii i treści cyfrowych lub innych dokumentów określających oczekiwania organizacji w zakresie dostępności.
 
 
-### Przejrzystość zasad i komunikacja z dostawcami
+### 3.7. Przejrzystość zasad i komunikacja z dostawcami
 
 Rekomenduje się, aby organizacja komunikowała przyjęte zasady uwzględniania dostępności cyfrowej dostawcom, wykonawcom i innym uczestnikom rynku.
 
@@ -124,7 +124,7 @@ Przejrzyste komunikowanie zasad pozwala dostawcom lepiej przygotowywać oferty, 
 
 Organizacje o wyższym poziomie dojrzałości nie ograniczają się do uwzględniania wymagań dostępności w pojedynczych postępowaniach. Komunikują swoje oczekiwania w sposób stały i przewidywalny, dzięki czemu dostawcy mogą uwzględniać je już na etapie projektowania, rozwoju i doskonalenia oferowanych rozwiązań.
 
-### Monitorowanie i doskonalenie
+### 3.8. Monitorowanie i doskonalenie
 
 Rekomenduje się okresowe monitorowanie stosowania zasad oraz ocenę ich skuteczności.
 
@@ -140,16 +140,7 @@ Do doskonalenia zasad warto wykorzystywać informacje pochodzące z:
 
 Wyniki analiz powinny być wykorzystywane do aktualizacji zasad, procedur, wzorów dokumentów oraz wymagań stosowanych w procesach zakupowych.
 
-## Podstawa prawna
-
-- Art. 100 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych z późn. zmianami (Dz. U. 2019 poz. 2019)
-- Art. 106 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych z późn. zmianami (Dz. U. 2019 poz. 2019)
-- Art. 5 ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych z dnia 4 kwietnia 2019 r. z późn. zmianami (Dz. U. 2019, poz. 848)
-- Art. 4 pkt. 3 ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami z dnia 19 lipca 2019 r. (Dz. U. 2019, poz. 1696)
-- Art. 5 pkt. 2 ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami z dnia 19 lipca 2019 r. (Dz. U. 2019, poz. 1696)
-- Art. 42 ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami z dnia 19 lipca 2019 r. (Dz. U. 2019, poz. 1696)
-
-## Uzasadnienie
+## 4. Uzasadnienie
 
 Sposób nabywania technologii, produktów, usług i treści cyfrowych ma bezpośredni wpływ na zdolność organizacji do zapewniania dostępności cyfrowej. Nawet dobrze przygotowane procedury publikacji treści, projektowania usług, utrzymania systemów czy monitorowania dostępności nie pozwolą osiągnąć trwałych rezultatów, jeżeli organizacja regularnie nabywa rozwiązania niespełniające wymagań dostępności. Dlatego uwzględnianie dostępności w procesach zakupowych jest jednym z podstawowych elementów systemowego zapewniania dostępności cyfrowej.
 
@@ -172,7 +163,18 @@ Organizacje osiągające najwyższy poziom dojrzałości w zakresie dostępnośc
 Stosowanie zasad uwzględniania dostępności w procesach zakupowych wspiera realizację obowiązków wynikających z przepisów prawa, zwiększa skuteczność działań organizacji na rzecz dostępności oraz przyczynia się do budowania trwałej zdolności organizacji do świadczenia usług i udostępniania informacji dostępnych dla wszystkich użytkowników.
 
 
-## Źródła, opracowania
+## 5. Podstawa prawna
+
+- Art. 100 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych z późn. zmianami (Dz. U. 2019 poz. 2019)
+- Art. 106 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych z późn. zmianami (Dz. U. 2019 poz. 2019)
+- Art. 5 ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych z dnia 4 kwietnia 2019 r. z późn. zmianami (Dz. U. 2019, poz. 848)
+- Art. 4 pkt. 3 ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami z dnia 19 lipca 2019 r. (Dz. U. 2019, poz. 1696)
+- Art. 5 pkt. 2 ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami z dnia 19 lipca 2019 r. (Dz. U. 2019, poz. 1696)
+- Art. 42 ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami z dnia 19 lipca 2019 r. (Dz. U. 2019, poz. 1696)
+
+
+
+## 6. Źródła, opracowania
 
 1. [Planing and Managing Web Accessibility](https://www.w3.org/WAI/planning-and-managing/plan/). Plan, WAI W3C, dostęp 17 sierpnia 2025;
 2. [Developing Organizational Policies on Web Accessibility](https://www.w3.org/WAI/planning/org-policies/), WAI W3C, dostęp: 16 sierpnia 2025;
@@ -181,6 +183,12 @@ Stosowanie zasad uwzględniania dostępności w procesach zakupowych wspiera rea
 5. [Creating an IT accessibility policy](https://businessdisabilityforum.org.uk/resource/technology-toolkit/creating-it-a11y-policy/), Business Disability Forums, dostęp: 16 sierpnia 2025;
 6. [A Comprehensive Guide for Developing Accessibility Policies and Accessibility Plans](https://dr6j45jk9xcmk.cloudfront.net/documents/4612/accessibility-policies-and-plans-final-2012-12.pdf), Queen’s Printer for Ontario, dostęp: 16 sierpnia 2025;
 7. [IT Accessibility Policy Framework](https://www.section508.gov/manage/policy-framework/introduction/), GSA, dostęp: 16 sierpnia 2025;
+
+## 7. Załączniki
+
+1. Wzór polityki nabywania dostępnych technologii i treści cyfrowych
+2. Uproszczona polityka nabywania dostępnych technologii i treści cyfrowych
+
 
 ## Historia wersji
 
