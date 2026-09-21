@@ -108,8 +108,12 @@ Procedura postępowania obejmuje:
 
 Potrzeby pracowników stanowią jedno z kluczowych źródeł informacji w procesie zarządzania dostępnością cyfrową.
 
+---
+
 ### 3.5. Terminy
 Organizacja określa w procedurze terminy potwierdzenia zgłoszenia, rozpoczęcia analizy, przekazania decyzji i wdrożenia rozwiązania. Termin jest dostosowany do wpływu bariery na wykonywanie obowiązków. Jeżeli termin docelowej naprawy nie może zostać dotrzymany, osoba zgłaszająca otrzymuje informację o przyczynach, nowym terminie oraz rozwiązaniu tymczasowym.
+
+---
 
 ### 3.6. Rozwiązanie tymczasowe
 Jeżeli nie jest możliwe niezwłoczne usunięcie bariery, organizacja zapewnia rozwiązanie tymczasowe, które umożliwia wykonanie zadania w możliwie samodzielny, bezpieczny i równoważny sposób. Rozwiązanie tymczasowe nie może bez uzasadnienia:
@@ -122,8 +126,11 @@ zastępować bezterminowo usunięcia bariery.
 
 Dla rozwiązania tymczasowego określa się termin przeglądu i plan wdrożenia rozwiązania docelowego.
 
+---
+
 ### 3.7. Odmowa zapewnienia dostępności
 Odmowa zastosowania zgłoszonego rozwiązania wymaga pisemnego uzasadnienia, wskazania kryteriów, na podstawie których podjęto decyzję, oraz przedstawienia rozwiązania alternatywnego. Pracownik otrzymuje informację o możliwości ponownego rozpatrzenia sprawy lub jej eskalacji do wskazanej osoby albo jednostki organizacyjnej.
+
 ---
 
 ### 3.8. Integracja z procesami zarządzania personelem
@@ -145,6 +152,7 @@ Organizacja:
 Wyniki analiz zbiorczych i informacje o działaniach są przekazywane w sposób dostępny i zanonimizowany, który nie pozwala na identyfikację osób zgłaszających potrzeby.
 
 Osoba zgłaszająca otrzymuje indywidualną informację o przebiegu i wyniku swojej sprawy. Pozostali pracownicy otrzymują okresową informację o najważniejszych zidentyfikowanych barierach, działaniach systemowych i osiągniętych rezultatach.
+
 ---
 
 ### 3.10. Monitorowanie i doskonalenie
@@ -175,6 +183,8 @@ Mierniki interpretuje się łącznie. Mała liczba zgłoszeń nie stanowi samodz
 Właściciel procesu przygotowuje co najmniej raz w roku zbiorczą ocenę jego skuteczności oraz plan działań doskonalących.
 
 Rozpoznawanie potrzeb pracowników jest elementem ciągłego doskonalenia organizacji.
+
+---
 
 ### 3.11. Role i odpowiedzialność
 
@@ -233,3 +243,9 @@ Koszt bariery może pozostawać niewidoczny dla organizacji, ponieważ bywa prze
 - WCAG 2.1 (AA)
 
 ---
+
+## Załączniki
+
+- [Przykładowa ankieta dotycząca potrzeb pracowników w zakresie dostępności cyfrowej](ankieta-potrzeby-pracownikow-w-zakresie-dostepnosci-cyfrowej)
+- [Przykładowy formularz zgłaszania problemów i potrzeb związanych z dostępnością cyfrową](formularz-zglaszania-problemow-w-zakresie-dostepnosci-cyfrowej)
+- [Lista pytań wspierających rozmowę z pracownikiem dotyczącą potrzeb związanych z dostępnością cyfrową](lista-pytan-do-rozmowy-na-temat-potrzeb)

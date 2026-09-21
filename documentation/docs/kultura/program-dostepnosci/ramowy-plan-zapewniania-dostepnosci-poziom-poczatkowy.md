@@ -1,6 +1,6 @@
 ---
 id: ramowy-plan-zapewniania-dostepnosci-poziom-poczatkowy
-title: Ramowy plan działania na rzecz zapewniania dostępności cyfrowej   
+title: Ramowy plan działania na rzecz zapewniania dostępności cyfrowej – poziom początkowy   
 description: Przedstawia propozycje planu działania
 sidebar_label: Ramowy plan - poziom początkowy
 sidebar_position: 4
@@ -13,7 +13,7 @@ wersja_robocza: true
 ---
 
 
-*wersja dla organizacji rozpoczynającej działania systemowe (po okresie reaktywnym)*
+*wersja dla organizacji porządkującej działania (po okresie reaktywnym)*
 
 ## 1. Komunikacja
 

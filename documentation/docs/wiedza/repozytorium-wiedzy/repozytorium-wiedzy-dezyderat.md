@@ -2,7 +2,7 @@
 id: repozytorium-wiedzy-dezyderat
 title: "Dezyderat: Utworzenie oficjalnego, otwartego portalu wiedzy o dostępności cyfrowej wraz z repozytorium źródeł i interpretacji"
 sidebar-position: 1
-sidebar-label: Projekt dezyderatu
+sidebar-label: Dezyderat
 description: Propozycja utworzenia oficjalnego, otwartego portalu wiedzy o dostępności cyfrowej wraz z repozytorium źródeł i interpretacji
 keywords: [wiedza i umiejętności, repozytorium wiedzy]
 tagss: [wiedza i umiejętności, repozytorium wiedzy]
@@ -13,14 +13,14 @@ wersja_robocza: true
 ---
 
 
-## Cel dezyderatu
+## 1. Cel dezyderatu
 
 Celem tego dezyderatu jest zapewnienie podmiotom publicznym **jednego, spójnego, otwartego i autorytatywnego źródła wiedzy o dostępności cyfrowej**, które ułatwi prawidłową interpretację standardów, w szczególności WCAG, oraz wesprze rozwój kompetencji niezbędnych do realizacji ustawowych obowiązków.
 
 Dezyderat ma na celu uporządkowanie, ujednolicenie i udostępnienie w przystępnej formie materiałów edukacyjnych, poradników, dobrych praktyk i narzędzi, dotychczas rozproszonych w różnych miejscach, poprzez utworzenie oficjalnego portalu oraz otwartego repozytorium wiedzy.
 
 
-## Dezyderat
+## 2. Dezyderat
 
 Minister właściwy do spraw informatyzacji powinien utworzyć **oficjalny portal wiedzy o dostępności cyfrowej**, oparty na dwóch wzajemnie powiązanych komponentach:
 
@@ -31,9 +31,9 @@ Portal mógłby stanowić **wydzieloną i spójną część obecnego serwisu gov
 
 ---
 
-## Rekomendacje
+## 3. Rekomendacje
 
-### 1. Dotyczące portalu
+### 3.1. Dotyczące portalu
 
 1. Portal powinien porządkować i udostępniać materiały już publikowane przez Ministerstwo Cyfryzacji, w tym rozbudowany poradnik o dostępności cyfrowej, który warto wyodrębnić jako niezależną, lepiej zorganizowaną część portalu.  
 2. Portal powinien zawierać:  
@@ -47,14 +47,14 @@ Portal mógłby stanowić **wydzieloną i spójną część obecnego serwisu gov
    - przykładowe zasoby edukacyjne i strony z błędami dla celów szkoleniowych.
 3. Portal powinien zapewniać dostęp do treści dla wszystkich, w tym małych jednostek, które nie mają własnych zasobów szkoleniowych.
 
-### 2. Dotyczące repozytorium
+### 3.2. Dotyczące repozytorium
 
 1. Repozytorium powinno zawierać dokumenty pod otwartą licencją (lub możliwie liberalną), w otwartym i przetwarzalnym formacie (preferencyjnie Markdown).  
 2. Zawartość powinna być tworzona i konsultowana w środowisku profesjonalistów, aby unikać błędnych interpretacji lub mitów dotyczących dostępności.  
 3. Repozytorium powinno być przygotowane do automatycznego pobierania i wykorzystywania przez narzędzia oparte o AI, w tym modele językowe.  
 4. Wzorcami mogą być: objaśnienia WCAG (Understanding WCAG) oraz zasoby US Access Board.
 
-### 3. Integracja portalu z repozytorium
+### 3.3. Integracja portalu z repozytorium
 
 1. Portal stanowi warstwę informacyjną i edukacyjną; repozytorium pełni rolę zaplecza merytorycznego.  
 2. Wszystkie treści prezentowane na portalu powinny mieć „źródła” w repozytorium, co umożliwi łatwą aktualizację, wersjonowanie i transparentność zmian.  
@@ -62,13 +62,7 @@ Portal mógłby stanowić **wydzieloną i spójną część obecnego serwisu gov
 
 ---
 
-## Podstawa prawna
-
-Art. 12 ust. 4 ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
-
----
-
-## Uzasadnienie
+## 4. Uzasadnienie
 
 Wiedza dotycząca dostępności cyfrowej pozostaje dziś **rozproszona**, niejednolita i często obarczona uproszczeniami lub błędami. Podmioty publiczne zgłaszają trudności z ustaleniem właściwych interpretacji WCAG i przepisów prawa, a jakość dostępnych szkoleń i materiałów jest zróżnicowana.
 
@@ -81,3 +75,9 @@ Stworzenie portalu wraz z repozytorium:
 - wesprze rozwój ekosystemu szkoleniowego,  
 - podniesie jakość narzędzi i usług korzystających z treści o dostępności (w tym AI),  
 - poprawi dostęp do wiedzy jednostkom, które nie mają zasobów na szkolenia komercyjne.
+
+## 5. Podstawa prawna
+
+Art. 12 ust. 4 ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
+
+---

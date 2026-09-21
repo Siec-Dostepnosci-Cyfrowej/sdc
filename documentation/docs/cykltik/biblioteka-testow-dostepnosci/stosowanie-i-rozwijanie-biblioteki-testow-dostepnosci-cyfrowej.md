@@ -13,19 +13,23 @@ wersja_robocza: true
 ---
 
 
-## Cel zalecenia
+## 1. Cel zalecenia
 
 Celem zalecenia jest standaryzacja metodyki badania dostępności i zgodności rozwiązań cyfrowych przez stosowanie i systematyczne rozwijanie wspólnej Biblioteki testów dostępności cyfrowej.
 
-## Zalecenie
+---
+
+## 2. Zalecenie
 
 Organizacja wykorzystuje scenariusze z Biblioteki testów dostępności cyfrowej odpowiednio do celu i zakresu prowadzonych badań.
 
 Biblioteka jest rozwijana i utrzymywana jako wspólne instrumentarium badawcze zgodnie z przyjętymi zasadami opracowywania, klasyfikowania, weryfikowania, aktualizowania i wycofywania scenariuszy testów.
 
-## Rekomendacje
+---
 
-### Wykorzystanie Biblioteki testów
+## 3. Rekomendacje
+
+### 3.1. Wykorzystanie Biblioteki testów
 
 Biblioteka testów dostępności cyfrowej jest wspólnym, rozwijanym zbiorem udokumentowanych scenariuszy testów służącym standaryzacji metodyki badania dostępności i zgodności rozwiązań cyfrowych.
 
@@ -33,7 +37,9 @@ Scenariusze z Biblioteki mogą być wykorzystywane w różnych procesach systemu
 
 Stosowanie wspólnych scenariuszy sprzyja spójności i powtarzalności badań, porównywalności wyników oraz ponownemu wykorzystywaniu wiedzy i doświadczeń.
 
-### Dobór testów do celu i zakresu badania
+---
+
+### 3.2. Dobór testów do celu i zakresu badania
 
 Scenariusze są dobierane odpowiednio do potrzeby informacyjnej, celu i zakresu badania.
 
@@ -41,7 +47,9 @@ Przy doborze testów uwzględnia się odpowiednio przedmiot badania, mające zas
 
 Korzystanie z Biblioteki nie oznacza konieczności wykonywania wszystkich dostępnych testów.
 
-### Stosowanie udokumentowanych scenariuszy testów
+---
+
+### 3.3. Stosowanie udokumentowanych scenariuszy testów
 
 Scenariusz testu opisuje powtarzalny sposób przeprowadzenia badania i uzyskania określonych informacji o dostępności lub zgodności rozwiązania cyfrowego albo jego części. Przedmiotem testu może być w szczególności cecha dostępności, obiekt albo proces użytkownika.
 
@@ -49,7 +57,9 @@ Scenariusze są opisywane w sposób umożliwiający ustalenie ich celu, przedmio
 
 Jeżeli badanie obiektu lub procesu użytkownika wymaga zweryfikowania określonej cechy dostępności, stosuje się odpowiedni scenariusz testu cechy, jeżeli jest dostępny w Bibliotece.
 
-### Dokumentowanie i wykorzystywanie wyników
+---
+
+### 3.4. Dokumentowanie i wykorzystywanie wyników
 
 Wyniki testów są dokumentowane w zakresie umożliwiającym ustalenie, co zbadano, jaki wynik uzyskano i na jakiej podstawie go ustalono.
 
@@ -57,7 +67,9 @@ Wyniki są interpretowane i wykorzystywane zgodnie z celem i zakresem procesu, w
 
 Wynik pojedynczego testu nie powinien być automatycznie utożsamiany z oceną spełnienia wymagania dostępności ani z oceną zgodności całego rozwiązania.
 
-### Spójne opracowywanie i klasyfikowanie scenariuszy
+---
+
+### 3.5. Spójne opracowywanie i klasyfikowanie scenariuszy
 
 Scenariusze są opracowywane według wspólnych zasad konstrukcji, opisywania i klasyfikowania.
 
@@ -65,7 +77,9 @@ Każdy scenariusz posiada jednoznacznie określony cel, przedmiot i zakres badan
 
 Scenariusze są klasyfikowane i powiązane z wymaganiami dostępności oraz innymi scenariuszami w sposób wspierający ich odnajdywanie, dobieranie, stosowanie i utrzymywanie.
 
-### Zapewnianie jakości scenariuszy
+---
+
+### 3.6. Zapewnianie jakości scenariuszy
 
 Nowe i istotnie zmieniane scenariusze są weryfikowane przed ich włączeniem do Biblioteki lub opublikowaniem nowej wersji.
 
@@ -73,7 +87,9 @@ Zakres i sposób weryfikacji są dostosowywane do charakteru testu. Weryfikacja 
 
 Weryfikacja może obejmować w szczególności przegląd merytoryczny, próbne wykonanie scenariusza lub porównanie sposobu wykonania i wyników uzyskanych przez różne osoby.
 
-### Rozwijanie i utrzymywanie Biblioteki
+---
+
+### 3.7. Rozwijanie i utrzymywanie Biblioteki
 
 Biblioteka jest rozwijana i utrzymywana odpowiednio do zmian wymagań dostępności, technologii, metod badania oraz potrzeb wynikających z jej stosowania.
 
@@ -85,7 +101,9 @@ Scenariusze nieaktualne lub zastąpione są wycofywane z bieżącego stosowania 
 
 Biblioteka jest rozwijana w sposób służący utrzymywaniu jej kompletności, jakości, spójności i użyteczności, a nie zwiększaniu liczby scenariuszy.
 
-## Uzasadnienie
+---
+
+## 4. Uzasadnienie
 
 Badanie dostępności i zgodności rozwiązań cyfrowych jest prowadzone w wielu procesach organizacji. Testy są wykonywane podczas ocen planowych i doraźnych, odbiorów rozwiązań, kontroli przed publikacją lub wdrożeniem, weryfikowania skutków zmian, rozpoznawania problemów zgłoszonych przez użytkowników oraz sprawdzania skuteczności działań naprawczych.
 
@@ -99,9 +117,20 @@ Wspólne zasady konstrukcji, klasyfikowania, weryfikowania i utrzymywania scenar
 
 Takie podejście pozwala wykorzystywać wspólne scenariusze w różnych procesach SZDC, ogranicza powielanie pracy oraz sprzyja porównywalności wyników i tworzeniu spójnej wiedzy o stanie dostępności i zgodności rozwiązań cyfrowych.
 
-## Załączniki
+---
 
-- [Zasady stosowania Biblioteki testów dostępności cyfrowej](zasady-stosowania-biblioteki-testow-dostepnosci-cyfrowej)
+## 5. Standardy i podstawy prawne
+
+- [Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000848)
+- [Wytyczne dla dostępności treści internetowych (WCAG) 2.1](https://www.w3.org/Translations/WCAG21-pl/)
+- [PN ETSI EN 301 549 v. 3.1.2 Wymagania dotyczące dostępności produktów i usług ICT](https://sklep.pkn.pl/pn-etsi-en-301-549-v3-2-1-2021-09p.html)
+- [W3C Accessibility Guidelines Evaluation Methodology (WCAG-EM) 2.0](https://www.w3.org/TR/wcag-em-2/)
+
+---
+
+## 6. Załączniki
+
+- [Zasady stosowania Biblioteki testów dostępności cyfrowej](zasady-stosowania-biblioteki-testow-dostepnosci-cyfrowej.md)
 - [Zasady opracowywania i utrzymywania scenariuszy testów](zasady-opracowywania-i-utrzymywania-scenariuszy-testow)
 - [Profilowanie scenariuszy testów dostępności cyfrowej](profilowanie-scenariuszy-testow-dostepnosci-cyfrowej)
 - Biblioteka testów dostępności cyfrowej

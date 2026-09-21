@@ -12,7 +12,7 @@ ostatnia_aktualizacja: 17 maja 2026 r.
 wersja_robocza: true
 ---
 
-## Cel zalecenia
+## 1. Cel zalecenia
 
 Celem zalecenia jest wspieranie organizacji w budowaniu spójnego systemu ról i odpowiedzialności za zapewnianie dostępności cyfrowej.
 
@@ -20,7 +20,7 @@ System ten wspiera organizację procesów, współpracę między rolami oraz trw
 
 ---
 
-## Zalecenie
+## 2. Zalecenie
 
 Organizacja ustanawia i utrzymuje spójny system ról i odpowiedzialności wspierający zapewnianie dostępności cyfrowej informacji, usług, dokumentów i systemów teleinformatycznych.
 
@@ -31,9 +31,9 @@ System ten:
 
 ---
 
-## Rekomendacje
+## 3. Rekomendacje
 
-### 1. Organizacja systemu odpowiedzialności
+### 3.1. Organizacja systemu odpowiedzialności
 
 Organizacja:
 - identyfikuje role uczestniczące w zapewnianiu dostępności cyfrowej,
@@ -50,7 +50,7 @@ System odpowiedzialności powinien obejmować:
 
 ---
 
-### 2. Role organizacyjne i procesowe
+### 3.2. Role organizacyjne i procesowe
 
 Organizacja określa role związane w szczególności z:
 - zarządzaniem systemem dostępności,
@@ -71,7 +71,7 @@ W organizacji powinny zostać jednoznacznie określone w szczególności:
 
 ---
 
-### 3. Karty ról i odpowiedzialności
+### 3.3. Karty ról i odpowiedzialności
 
 Dla ról uczestniczących w systemie zapewniania dostępności cyfrowej zasadne jest opracowanie kart ról opisujących:
 - cel roli,
@@ -92,7 +92,7 @@ Karty ról powinny:
 
 ---
 
-### 4. Mapy odpowiedzialności procesowej
+### 3.4. Mapy odpowiedzialności procesowej
 
 Organizacja opracowuje:
 - mapę odpowiedzialności procesowej,
@@ -112,7 +112,7 @@ Mapa odpowiedzialności:
 
 ---
 
-### 5. Integracja odpowiedzialności z procesami organizacyjnymi
+### 3.5. Integracja odpowiedzialności z procesami organizacyjnymi
 
 System odpowiedzialności jest zintegrowany z:
 - organizacją komunikacji cyfrowej,
@@ -124,7 +124,7 @@ System odpowiedzialności jest zintegrowany z:
 
 ---
 
-### 6. Monitoring i aktualizacja systemu odpowiedzialności
+### 3.6. Monitoring i aktualizacja systemu odpowiedzialności
 
 Organizacja okresowo przegląda:
 - aktualność ról i odpowiedzialności,
@@ -140,7 +140,7 @@ Przeglądy są realizowane:
 
 ---
 
-### 7. Wsparcie organizacji działania
+### 3.7. Wsparcie organizacji działania
 
 Organizacja zapewnia osobom realizującym zadania:
 - dostęp do materiałów operacyjnych,
@@ -152,7 +152,7 @@ System odpowiedzialności powinien być powiązany z systemem wsparcia kompetenc
 
 ---
 
-### 8. Podejście systemowe
+### 3.8. Podejście systemowe
 
 System odpowiedzialności wspiera traktowanie dostępności cyfrowej:
 - jako elementu jakości organizacji,
@@ -164,7 +164,7 @@ a nie wyłącznie jako obowiązku technicznego lub formalnego.
 
 ---
 
-## Uzasadnienie
+## 4. Uzasadnienie
 
 Zapewnianie dostępności cyfrowej wymaga współdziałania wielu ról uczestniczących w tworzeniu, publikowaniu, utrzymaniu i monitorowaniu informacji, usług oraz systemów cyfrowych.
 
@@ -183,7 +183,7 @@ Systemowe organizowanie odpowiedzialności:
 
 ---
 
-## Podstawa prawna
+## 5. Podstawa prawna
 
 - Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
 - Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami.
@@ -194,7 +194,7 @@ Systemowe organizowanie odpowiedzialności:
 
 ---
 
-## Źródła i opracowania
+## 6. Źródła i opracowania
 
 - W3C WAI Accessibility Roles and Responsibilities Mapping (ARRM)
 - W3C Accessibility Maturity Model
@@ -204,16 +204,16 @@ Systemowe organizowanie odpowiedzialności:
 
 ---
 
-# Załączniki
+## 7. Załączniki
 
 - [Słownik ról i odpowiedzialności w systemie zapewniania dostępności cyfrowej](slownik-rol-i-odpowiedzialnosci-dostepnosc-cyfrowa)
 - [Organizacja systemu odpowiedzialności za dostępność cyfrową](organizacja-systemu-odpowiedzialnosci)
 - [Referencyjna mapa odpowiedzialności procesowej (RACI)](referencyjna-mapa-odpowiedzialnosci-procesowej-raci)
 - [Wzór karty roli](wzor-karty-roli)
 
-## Karty ról
+### 7.1. Karty ról
 
-### Role strategiczne i organizacyjne
+#### 7.1.1 Role strategiczne i organizacyjne
 
 1. [Kierownictwo organizacji](kierownictwo-organizacji)
 2. [Sponsor wykonawczy ds. dostępności](sponsor-wykonawczy-dostepnosci)
@@ -222,7 +222,7 @@ Systemowe organizowanie odpowiedzialności:
 5. [Właściciel procesu](wlasciciel-procesu-organizacyjnego)
 6. [Właściciel obszaru merytorycznego](wlasciciel-obszaru)
 
-### Role operacyjne i publikacyjne
+#### 7.1.2 Role operacyjne i publikacyjne
 
 7. [Autor treści](autor-tresci)
 8. [Redaktor treści](redaktor-tresci)
@@ -232,7 +232,7 @@ Systemowe organizowanie odpowiedzialności:
 12. [Osoba obsługująca zgłoszenia](osoba-obslugujaca-zgloszenia)
 13. [Programista / Twórca rozwiązań cyfrowych](programista-tworca-rozwiazan-cyfrowych)
 
-### Role wspierające
+#### 7.1.3 Role wspierające
 
 14. [Specjalista ds. wsparcia kompetencyjnego i rozwoju zdolności organizacji](specjalista-ds-wsparcia-kompetencyjnego)
 15. [Specjalista ds. komunikacji dostępnej](specjalista-ds-komunikacji-dostepnej)
@@ -240,13 +240,13 @@ Systemowe organizowanie odpowiedzialności:
 17. [Specjalista ds. zgodności i wsparcia prawnego](specjalista-ds-zgodnosci-i-wsparcia-prawnego)
 18. [Projektant usługi publicznej](projektant-uslugi-publicznej)
 
-### Role techniczne
+#### 7.1.4 Role techniczne
 
 19. [Administrator systemów publikacyjnych](administrator-systemow-publikacyjnych)
 20. [Specjalista ds. remediacji](specjalista-ds-remediacji)
 21. [Tester techniczny](tester-techniczny)
 
-### Role kontrolne i audytowe
+#### 7.1.5 Role kontrolne i audytowe
 
 22. [Operator testów automatycznych](operator-testow-automatycznych)
 23. [Weryfikator dostępności](weryfikator-dostepnosci)

@@ -1,6 +1,6 @@
 ---
 id: uproszczona-polityka-zatrudniania-osob-z-niepelnosprawnosciami
-title: Uproszczona polityka zatrudniania osób z niepełnosprawnościami
+title: Uproszczona wersja polityki zatrudniania osób z niepełnosprawnościami dla małych organizacji
 description: Uproszczona wersja polityki przeznaczona dla małych organizacji, określająca podstawowe zasady wspierania zatrudniania, rozwoju zawodowego i utrzymania zatrudnienia osób z niepełnosprawnościami.
 sidebar_label: Wersja uproszczona polityki
 sidebar_position: 2

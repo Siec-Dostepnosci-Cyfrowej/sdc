@@ -32,7 +32,7 @@ Pomimo szkoleń prowadzonych wewnątrz muzeum oraz możliwości bieżących kons
 ---
 
 ## Opis przeprowadzonych działań
-- Pierwszy krok: określenie zakresu zagadnień do opisania w podręczniku (tu: treści tekstowe - .doc, PDF; treści nietekstowe: audio, wideo, grafiki; Media Społecznościowe) oraz strukturę opisu każdego z nich (tu: opis "krok-po-kroku" czynności, które należy wykonać; checklista do sprawdzenia, czy wszystkie elementy opracowania zostały uwzględnione).
+- Pierwszy krok: określenie zakresu zagadnień do opisania w podręczniku (tu: treści tekstowe - .doc, PDF; treści nietekstowe: audio, wideo, grafiki; Media Społecznościowe) oraz strukturę opisu każdego z nich (tu: opis „krok-po-kroku" czynności, które należy wykonać; checklista do sprawdzenia, czy wszystkie elementy opracowania zostały uwzględnione).
 - Drugi krok: opracowanie tekstu wraz z materiałem graficznym z dbałością o elementy dostępne, czyli prosty język, opisy alternatywne itp.
 - Trzeci krok: testowanie, czyli wysłanie dokumentu losowo wybranym osobom do oceny przydatności w codziennej pracy.
 - Czwarty krok: wprowadzenie uwag wynikających z testowania.

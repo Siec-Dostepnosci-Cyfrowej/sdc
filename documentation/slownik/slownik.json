@@ -6,7 +6,7 @@
     {
       "term": "ACR",
       "abbreviation": "Accessibility Conformance Report",
-      "definition": "Raport zgodności z dostępnością. Dokument formalny pokazujący, jak dany produkt cyfrowy lub usługa technologii informacyjno-komunikacyjnych (TIK) spełnia międzynarodowe wytyczne i standardy dostępności. Powstaje on po wypełnieniu szablonu VPAT, który odnosi się do wytycznych takich jak WCAG czy norma EN 301 549. Ang. _Accessibility Conformance Report_ (ACR).",
+      "definition": "Raport zgodności z dostępnością. Oficjalny dokument techniczny, który szczegółowo opisuje poziom zgodności cyfrowego produktu (np. oprogramowania, aplikacji, strony internetowej lub sprzętu IT) z międzynarodowymi standardami dostępności, takimi jak WCAG, norma EN 301 549, Sekcja 508 (USA).",
       "relatedTerms": [ "Raport zgodności z dostępnością", "VPAT" ]
     },
     {
@@ -29,11 +29,7 @@
     },
     {
       "term": "audiodeskrypcja",
-      "definition": "Alternatywna ścieżka dźwiękowa stworzona z myślą o osobach niewidomych i słabowidzących. Stanowi ona werbalny opis treści przekazanej za pomocą obrazu. Audiodeskrypcja pozwala osobom niewidomym na możliwość odbioru sztuki wizualnej, np. malarstwa, czy gry aktorskiej, dlatego też stosowana jest m.in. w muzeach, produkcjach audiowizualnych, teatrze, oraz podczas widowisk sportowych."
-    },
-    {
-      "term": "audiodeskrypcja",
-      "definition": "Opis najważniejszych informacji wizualnych w materiale wideo, przekazywany głosem w przerwach między wypowiedziami lub jako osobna ścieżka. Audiodeskrypcja pomaga zrozumieć treść osobom, które nie widzą obrazu."
+      "definition": "Przekazywany głosem w przerwach między wypowiedziami lub jako osobna ścieżka dźwiękowa opis treści wizualnych w materiale wideo."
     },
     {
       "term": "audiodeskrypcja rozszerzona",
@@ -640,10 +636,6 @@
       "abbreviation": "Technologie informacyjno-komunikacyjne",
       "definition": "Technologia informatyczna i inny sprzęt, systemy, technologie lub procesy, których główną funkcją jest tworzenie, przetwarzanie, przechowywanie, wyświetlanie, odbieranie lub przesyłanie danych i informacji elektronicznych, a także wszelkiej powiązanej treści. Ang. _ICT (Information and Communication Technologies)_. ",
       "relatedTerms": [ "technologia informacyjno-komunikacyjna" ]
-    },
-    {
-      "term": "treść cyfrowa",
-      "definition": "Informacja udostępniana w postaci elektronicznej, na przykład tekst, obraz, nagranie, plik, formularz, wpis w mediach społecznościowych albo materiał opublikowany na stronie internetowej."
     },
     {
       "term": "transkrypcja",
