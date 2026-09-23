@@ -133,7 +133,7 @@ Brak takiego podejścia prowadzi do rozproszenia działań, niejasności odpowie
 
 ## 7. Załączniki
 
-1. [Warunki i zasoby dla dostępności cyfrowej](warunki-i-zasoby-dla-dostepnosci-cyfrowej)
-2. [Opis głównych procesów zapewniania dostępności cyfrowej](opis-procesow-dostepnosc-cyfrowa)
-3. [Poradnik wdrożeniowy — organizacja i wdrażanie procesów zapewniania dostępności cyfrowej](poradnik-wdrozeniowy-procesy-zapewniania-dostepnosci)
-4. [Monitoring i ocena dojrzałości organizacji w zakresie zapewniania dostępności cyfrowej](monitoring-i-ocena-dojrzalosci)
+1. [Opis głównych procesów zapewniania dostępności cyfrowej](opis-procesow-dostepnosc-cyfrowa.md)
+2. [Zapewnianie zasobów dla systemu dostępności cyfrowej](zapewnianie-zasobow-dla-systemu-dostepnosci-cyfrowej.md)
+3. [Monitoring i ocena dojrzałości organizacji w zakresie zapewniania dostępności cyfrowej](monitoring-i-ocena-dojrzalosci.md)
+4. [Poradnik wdrożeniowy — organizacja i wdrażanie procesów zapewniania dostępności cyfrowej](poradnik-wdrozeniowy-procesy-zapewniania-dostepnosci.md)
