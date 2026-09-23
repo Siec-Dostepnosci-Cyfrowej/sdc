@@ -1,9 +1,9 @@
 ---
 id: opis-procesow-dostepnosc-cyfrowa
 title: Opis głównych procesów zapewniania dostępności cyfrowej
+description: Referencyjny opis procesów zapewniania dostępności cyfrowej stosowany w pakiecie zaleceń Sieci Dostępności Cyfrowej.
 sidebar_label: Opis głównych procesów
 sidebar_position: 2
-description: Referencyjny opis procesów zapewniania dostępności cyfrowej stosowany w pakiecie zaleceń Sieci Dostępności Cyfrowej.
 keywords: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie, proces zapewniania dostępności]
 tags: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie, proces zapewniania dostępności]
 opracowanie: Stefan Wajda 
