@@ -1,9 +1,9 @@
 ---
 id: polityka-dostepnosci
 title: Ustanowienie polityki dostępności cyfrowej
+description: Zalecenie określa zasady ustanawiania, wdrażania i utrzymywania polityki dostępności cyfrowej jako podstawowego dokumentu wyznaczającego zobowiązania, cele i zasady działania organizacji w zakresie dostępności cyfrowej.
 sidebar_label: Zalecenie
 sidebar_position: 0
-description: Kierownictwo organizacji powinno ustanowić politykę zapewniania dostępności cyfrowej
 keywords: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie]
 tags: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie]
 opracowanie: Anna Czekalska, Stefan Wajda 
@@ -13,66 +13,77 @@ ostatnia_aktualizacja: 24 września 2025 r.
 wersja_robocza: true
 ---
 
+## 1. Cel zalecenia
 
-## 1. Zalecenie
+Celem zalecenia jest zapewnienie, aby organizacja określiła i formalnie ustanowiła wspólne dla całej organizacji zobowiązania, cele i zasady dotyczące zapewniania dostępności cyfrowej, stanowiące punkt odniesienia dla podejmowanych decyzji i działań.
 
-Kierownictwo organizacji powinno ustanowić politykę zapewniania dostępności cyfrowej. Polityka powinna określać jasno cele, zakres i obowiązki dotyczące dostępności.
 
-Polityka dostępności cyfrowej może być odrębnym dokumentem lub częścią dokumentu obejmującego inne polityki. W przypadku niewielkich jednostek nie musi być tworzona oddzielnie.
+## 2. Zalecenie
 
-Niezależnie od tego, wszystkie podmioty powinny jasno określić swoje podejście do dostępności cyfrowej i sposób jej realizacji.
-
-W organizacjach złożonych z wielu podmiotów (np. gminach, powiatach itp.) polityka dostępności może być przyjmowana przez naczelny organ stanowiący lub zarządzający podmiotu nadrzędnego do stosowania przez wszystkie podległe jednostki.
+Kierownictwo organizacji ustanawia politykę dostępności cyfrowej określającą zobowiązania, cele i podstawowe zasady działania organizacji w zakresie zapewniania dostępności cyfrowej. Polityka obowiązuje w całej organizacji i stanowi punkt odniesienia dla decyzji, działań oraz innych wewnętrznych regulacji dotyczących dostępności cyfrowej.
 
 ---
 
-## 2. Rekomendacje
+## 3. Rekomendacje
 
-1. Polityka dostępności cyfrowej powinna obejmować i regulować istotne elementy funkcjonowania organizacji, które mają wpływ na kształtowanie kultury dostępności \[zapewnianie dostępności\], w tym:
-    - zobowiązanie i uzasadnienie zobowiązania do zapewniania dostępności \[cyfrowej\]
-    - zakres technologii i treści cyfrowych, do których polityka ma zastosowanie
-    - standard techniczny, z którym muszą być zgodne technologie i treści cyfrowe objęte zakresem oraz – jeśli standard przewiduje takie możliwości - normy podwyższone, które organizacja chce \[będzie\] respektować konsekwencje niezgodności z przyjętym standardem
-    - mechanizmy bieżących i okresowych pomiarów i ocen stanu zapewniania dostępności cyfrowej i realizacji celów polityki dostępności
-    - wyłączenia i dopuszczalne odstępstwa oraz zasady zatwierdzania wyjątków
-    - utworzenie zespołu zadaniowego \[komitetu, grupy roboczej\], którego zadaniem jest opracowywanie, proponowanie i zapewnianie warunków realizacji planów dotyczących dostępności cyfrowej
-    - odpowiedzialność za planowanie i wdrażanie praktyk służących zapewnianiu dostępności, w tym programów i planów wieloletnich, rocznych i okresowych
-    - uwzględnienie szkoleń oraz stałego podnoszenia wiedzy i kompetencji pracowników w zakresie dostępności cyfrowej
-    - kluczowe role organizacyjne oraz ich odpowiedzialność (uprawnienia i obowiązki)
-        - związane z zarządzaniem organizacją, koordynacją prac i nadzorem oraz
-        - związane z wykonywaniem zadań wymagających stosowania norm dostępności
-    - uwzględnienie wymogów i standardów dostępności w zakupach technologii i treści cyfrowych
-    - mechanizmy wnioskowania o dostosowania, racjonalne usprawnienia i dostęp alternatywny
-    - mechanizmy uzyskiwania opinii i wniosków dotyczących dostępności cyfrowej oraz ich rozstrzygania
-    - włączanie i angażowanie osób z niepełnosprawnościami i ich organizacji w procesy zapewniania dostępności
-    - zasady wspierania osób z niepełnosprawnościami w wykonywaniu zadań organizacji i korzystaniu z usług organizacji, w tym zasady obsługi
-    - tryb przeglądów i aktualizacji polityki dostępności
-    - plan \[harmonogram\] osiągania celów etapowych, w tym celów związanych z zapewnianiem dostępności wykorzystywanych technologii i zasobów cyfrowych
-2. Polityka dostępności powinna być sformułowana w podobny sposób, w podobnym stylu i na podobnym poziomie, co inne polityki, które definiują podstawowe zasady działania organizacji.
-3. Polityka dostępności powinna być opracowana przez zespół składający się z przedstawicieli kluczowych działów organizacji, w tym m.in. dział organizacyjny, prawny, kadry, finanse i inne oraz przedstawicieli osób z niepełnosprawnościami.
-4. Polityka dostępności powinna obowiązywać w całej organizacji i być konsekwentnie i właściwie egzekwowana.
-5. Polityka dostępności powinna być publikowana wraz z innymi dokumentami dotyczącymi polityk i stanowisk organizacji.
+### 3.1. Forma i umocowanie polityki
+
+Polityka dostępności cyfrowej może stanowić odrębny dokument albo być częścią dokumentu określającego szerszą politykę organizacji. Niezależnie od przyjętej formy jej postanowienia są jednoznacznie określone, formalnie ustanowione przez właściwy organ lub osobę oraz obowiązują w całej organizacji.
+
+Forma, sposób sformułowania i umocowanie polityki odpowiadają jej randze jako dokumentu określającego podstawowe zasady działania organizacji.
+
+### 3.2. Zobowiązania, cele i zasady
+
+Polityka określa w szczególności:
+
+- zobowiązanie organizacji do zapewniania dostępności cyfrowej;
+- cele, które organizacja zamierza osiągać;
+- zakres stosowania polityki;
+- zasady określania i stosowania wymagań i standardów dostępności cyfrowej;
+- wymagania i standardy przyjęte przez organizację;
+- podstawowe zasady odpowiedzialności za realizację polityki;
+- sposób kontrolowania realizacji polityki i osiągania jej celów;
+- zasady przeglądu i aktualizacji polityki.
+
+### 3.3. Powiązanie z systemowym zapewnianiem dostępności cyfrowej
+
+Polityka określa ramy systemowego zapewniania dostępności cyfrowej w organizacji. Jej postanowienia są uwzględniane w szczególności przy organizacji procesów, podziale ról i odpowiedzialności, zapewnianiu warunków i zasobów, kwalifikacji i wsparcia kompetencyjnego, kontrolowaniu rezultatów i ocenie skuteczności działania oraz doskonaleniu sposobu działania.
+
+### 3.4. Opracowanie polityki
+
+Organizacja zapewnia również możliwość uwzględnienia doświadczeń i potrzeb osób z niepełnosprawnościami oraz innych użytkowników napotykających bariery dostępności.
+
+W opracowaniu i przeglądach polityki uczestniczą osoby reprezentujące obszary działalności organizacji istotne dla zapewniania dostępności cyfrowej. Organizacja zapewnia również możliwość uwzględnienia doświadczeń i potrzeb osób z niepełnosprawnościami oraz innych użytkowników napotykających bariery dostępności.
+
+### 3.5. Wdrożenie polityki
+
+Organizacja wdraża politykę w sposób zapewniający stosowanie jej postanowień w odpowiednich procesach i obszarach działania. Zapewnia pracownikom dostęp do polityki oraz informacji, zasad, standardów i innych materiałów potrzebnych do jej stosowania.
+
+### 3.6. Kontrolowanie realizacji i aktualizacja polityki
+
+Organizacja okresowo dokonuje przeglądu polityki i odpowiednio ją aktualizuje. Przegląd przeprowadza także w przypadku istotnych zmian prawnych, organizacyjnych lub technologicznych oraz wtedy, gdy doświadczenia z realizacji polityki wskazują na potrzebę jej zmiany.
+
+### 3.7. Polityka w organizacji wielopodmiotowej
+
+W organizacji wielopodmiotowej jedna polityka może obowiązywać w wielu jednostkach, jeżeli organ lub osoba ją ustanawiająca posiada odpowiednie kompetencje. Polityka uwzględnia zakres samodzielności i odpowiedzialności poszczególnych jednostek oraz warunki ich działania.
+
+### 3.8. Publikowanie polityki
+
+Kierownictwo organizacji publicznie ogłasza politykę dostępności cyfrowej jako wyraz swojego zaangażowania w zapewnianie dostępności cyfrowej oraz zobowiązania organizacji do realizacji określonych w niej celów i zasad. Organizacja publikuje politykę w sposób zapewniający dostęp do niej pracownikom, użytkownikom jej usług oraz jej otoczeniu społecznemu.
+
+## 4. Uzasadnienie
+
+Polityka dostępności cyfrowej określa trwałe zobowiązania, cele i zasady, którymi organizacja kieruje się przy zapewnianiu dostępności cyfrowej. Tworzy wspólny punkt odniesienia dla decyzji podejmowanych w różnych obszarach organizacji i pozwala zachować spójność działania niezależnie od zmian personalnych, organizacyjnych i technologicznych.
+
+Zapewnianie dostępności cyfrowej obejmuje wiele procesów i obszarów działania organizacji oraz wymaga współdziałania osób pełniących różne role. Bez wspólnie określonych zasad poszczególne komórki i osoby mogą przyjmować odmienne sposoby działania, priorytety i wymagania. Polityka pozwala kierownictwu jednoznacznie określić oczekiwany sposób postępowania i powiązać działania podejmowane w różnych częściach organizacji.
+
+Polityka nie zastępuje planów, procedur, standardów ani innych rozwiązań służących zapewnianiu dostępności cyfrowej. Określa ramy, w których są one tworzone i stosowane, oraz zapewnia ich powiązanie z celami i zobowiązaniami organizacji.
+
+Samo ustanowienie polityki nie zapewnia dostępności cyfrowej. Jej znaczenie zależy od przełożenia przyjętych zasad na rzeczywiste procesy, decyzje i działania organizacji oraz od kontrolowania jej realizacji i okresowego doskonalenia.
 
 ---
 
-## 3. Uzasadnienie
-
-Chociaż przepisy prawa nie nakładają obowiązku opracowania własnej polityki dostępności jej przygotowanie i wdrożenie pomaga podmiotom publicznym skutecznie realizować dostępność cyfrową.
-
-Opracowanie Polityki dostępności stanowi fundament wszelkich działań w tym obszarze – wyznacza kierunki, określa cele dla całej instytucji oraz umożliwia spójne i świadome wdrażanie dostępności.
-
-Polityka dostępności powinna jasno wskazywać, że dostępność jest integralnym aspektem działań organizacji, a nie tylko dodatkiem. Włączenie jej do misji i wizji nadaje jej znaczenie strategiczne i podkreśla, że działania zapewniające dostępność wynikają z głębokiego przekonania o ich słuszności, użyteczności dla wszystkich, a nie wyłącznie z konieczności wypełniania obowiązków prawnych.
-
-Przyjęcie polityki dostępności wzmacnia etyczny fundament organizacji oraz wspiera budowanie kultury włączenia i różnorodności. Dokument ten pełni także funkcję edukacyjną – zwiększa świadomość pracowników. Pomaga kształtować postawy, które przekładają się na realne działania – tworzenie usług, informacji i przestrzeni cyfrowej dostępnych dla wszystkich.
-
-Polityka dostępności powinna też wskazywać standardy techniczne, sposoby monitorowania i oceny, zasady postępowania w przypadku niezgodności, udział osób z niepełnosprawnościami w podejmowaniu decyzji oraz wymagania dostępności w zamówieniach publicznych. Tak szeroki zakres zapisów zapewnia spójność działań i ułatwia ich egzekwowanie.
-
-Inwestycje w dostępność należy traktować jako długofalowe rozwiązania technologiczne i organizacyjne, które zwiększają jakość usług, efektywność procesów oraz satysfakcję użytkowników. Włączenie w politykę osobistych doświadczeń pracowników i odbiorców usług podkreśla uniwersalny charakter dostępności – dotyczy ona bowiem każdego, bez względu na wiek, stan zdrowia czy sytuację życiową.
-
-Polityka dostępności powinna mieć moc obowiązującą w całej organizacji, być uchwalana przez właściwy organ oraz publikowana wśród innych dokumentów strategicznych. Regularne przeglądy, aktualizacje i plan działań zapewniają jej aktualność oraz skuteczność, czyniąc z niej realne narzędzie wspierające rozwój kultury dostępności.
-
----
-
-## 4. Podstawa prawna
+## 5. Podstawy prawne
 
 - Art. 5 ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz. U. 2019 poz. 848)
 - Art. 4 pkt 3 ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. 2019 poz. 1696)
@@ -82,7 +93,7 @@ Polityka dostępności powinna mieć moc obowiązującą w całej organizacji, b
 
 ---
 
-## 5. Źródła, opracowania
+## 6. Źródła i opracowania
 
 1. Business Disability Forums, [Creating an IT accessibility policy](https://businessdisabilityforum.org.uk/resource/technology-toolkit/creating-it-a11y-policy/), dostęp: 14 lipca 2025
 2. GSA, [IT Accessibility Policy Framework](https://www.section508.gov/manage/policy-framework/introduction/), dostęp: 14 lipca 2025
@@ -94,19 +105,18 @@ Polityka dostępności powinna mieć moc obowiązującą w całej organizacji, b
 
 ---
 
-## 6. Załączniki
+## 7. Załączniki
 
 - [Wskazówki do opracowania preambuły polityki dostępności](manifest-dostepnosci.md)
 - [Przykładowa polityka dostępności cyfrowej - opracowanie W3C](kultura-przyklad-W3C.md)
 
 ---
 
-
 ## Historia wersji
 
-| **Wersja** | **Autor** | **Data** | **Opis zmian** |
-| --- | --- | --- | --- |
-| 0.9 | Anna Czekalska  | 14.07.2025 | Utworzenie |
-| RC  | Anna Czekalska  <br/>Stefan Wajda | 12.08.2025 | Projekt – kandydat do wydania |
+| Wersja | Data | Etap | Opis zmian |
+|---|---|---|---|
+| 0-RC1 | 24.09.2026 | Gotowy do publikacji | Przeprowadzono normalizację dokumentu. |
+
 
 
