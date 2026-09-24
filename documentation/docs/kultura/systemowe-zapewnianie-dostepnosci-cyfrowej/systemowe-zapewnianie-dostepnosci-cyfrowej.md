@@ -8,10 +8,9 @@ keywords: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna,
 tags: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie, proces zapewniania dostępności]
 opracowanie: Stefan Wajda 
 data_zgloszenia: 18 kwietnia 2026 r.
-ostatnia_aktualizacja: 18 maja 2026 r.
+ostatnia_aktualizacja: 24 września 2026 r.
 wersja_robocza: true
 ---
-
 
 ## 1. Cel zalecenia
 
@@ -137,3 +136,11 @@ Brak takiego podejścia prowadzi do rozproszenia działań, niejasności odpowie
 2. [Zapewnianie zasobów dla systemu dostępności cyfrowej](zapewnianie-zasobow-dla-systemu-dostepnosci-cyfrowej.md)
 3. [Monitoring i ocena dojrzałości organizacji w zakresie zapewniania dostępności cyfrowej](monitoring-i-ocena-dojrzalosci.md)
 4. [Poradnik wdrożeniowy — organizacja i wdrażanie procesów zapewniania dostępności cyfrowej](poradnik-wdrozeniowy-procesy-zapewniania-dostepnosci.md)
+
+---
+
+## Historia wersji
+
+| Wersja | Data | Etap | Opis zmian |
+|---|---|---|---|
+| 0-RC1 | 24.09.2026 | Gotowy do publikacji | Przeprowadzono normalizację dokumentu. |
