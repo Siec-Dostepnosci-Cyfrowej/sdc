@@ -96,7 +96,7 @@ Organizacja okresowo przegląda aktualność podziału ról i odpowiedzialności
 
 ### 3.7. Warunki wykonywania przypisanych zadań
 
-Organizacja zapewnia osobom, którym przypisano zadania i odpowiedzialność związaną z dostępnością cyfrową, warunki potrzebne do ich wykonywania, w szczególności dostęp do odpowiednich informacji, materiałów operacyjnych, wsparcia, konsultacji i możliwości współpracy.
+Organizacja zapewnia osobom, którym przypisano zadania i odpowiedzialność związaną z dostępnością cyfrową, warunki potrzebne do ich wykonywania, w szczególności odpowiednie uprawnienia, czas i zasoby oraz dostęp do informacji, materiałów operacyjnych, wsparcia, konsultacji i możliwości współpracy.
 
 ---
 
