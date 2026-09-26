@@ -225,7 +225,7 @@ Organizacja jest zdolna zapewniać osobom wykonującym zadania dostęp do aktual
 
 Organizacja jest zdolna utrzymywać potrzebną wiedzę i umiejętności mimo zmian kadrowych, organizacyjnych, technologicznych i prawnych oraz odpowiednio aktualizować je wraz ze zmianą sposobu działania.
 
-**WU-05 WU-05 Kumulowanie i utrwalanie wiedzy organizacyjnej**
+**WU-05 Kumulowanie i utrwalanie wiedzy organizacyjnej**
 
 Organizacja gromadzi i utrwala wiedzę wynikającą z doświadczeń, wypracowanych i sprawdzonych rozwiązań oraz sposobów działania, w szczególności w procesach, standardach, wzorcach, instrukcjach, materiałach operacyjnych i innych rozwiązaniach wspierających działanie.
 

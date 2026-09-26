@@ -14,7 +14,7 @@ wersja_robocza: true
 
 ## 1. Cel zalecenia
 
-Celem zalecenia jest włączenie planowania dostępności cyfrowej do zarządzania organizacją jako planowania zmian potrzebnych do rozwijania jej zdolności do trwałego zapewniania dostępności cyfrowej oraz osiągania i utrzymywania dostępności rozwiązań i treści cyfrowych.
+Celem zalecenia jest przeciwdziałanie planowaniu dostępności cyfrowej jako zbioru odrębnych działań, bez rozpoznania potrzebnych zmian sposobu funkcjonowania organizacji i powiązania ich z właściwymi mechanizmami planowania i zarządzania.
 
 ---
 
