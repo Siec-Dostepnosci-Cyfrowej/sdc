@@ -8,7 +8,7 @@ keywords: [dostępność cyfrowa, dokumenty cyfrowe, analiza prawna, ustawa o do
 tags: [dostępność cyfrowa, dokumenty cyfrowe, analiza prawna, legislacja]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 10 czerwca 2026 r.
-ostatnia_aktualizacja: 6 września 2026 r.
+ostatnia_aktualizacja: 26 września 2026 r.
 wersja_robocza: true
 ---
 
@@ -28,7 +28,7 @@ Zakres badania obejmuje regulację krajową, regulację unijną, relację pomię
 
 Ustawa o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych określa obowiązki podmiotów publicznych w zakresie zapewniania dostępności cyfrowej stron internetowych, aplikacji mobilnych oraz publikowanych treści cyfrowych. Jednym z elementów tej regulacji jest katalog wyłączeń spod obowiązku zapewnienia dostępności cyfrowej.
 
-W art. 3 ust. 2 pkt 4 ustawy ustawodawca przewidział wyłączenie odnoszące się do dokumentów tekstowych, tekstowo-graficznych, prezentacji multimedialnych oraz arkuszy kalkulacyjnych opublikowanych przed dniem 23 września 2018 r. Zgodnie z materiałem źródłowym analizowanym w projekcie dezyderatu wyłączenie to nie obejmuje jednak dokumentów, których zawartość jest niezbędna do realizacji bieżących zadań podmiotu publicznego.
+W art. 3 ust. 2 pkt 3 ustawy ustawodawca przewidział wyłączenie odnoszące się do dokumentów tekstowych, tekstowo-graficznych, prezentacji multimedialnych oraz arkuszy kalkulacyjnych opublikowanych przed dniem 23 września 2018 r. Zgodnie z materiałem źródłowym analizowanym w projekcie dezyderatu wyłączenie to nie obejmuje jednak dokumentów, których zawartość jest niezbędna do realizacji bieżących zadań podmiotu publicznego.
 
 Konstrukcja przepisu ma więc charakter dwustopniowy. Najpierw ustawodawca wskazuje kategorię dokumentów historycznych, które co do zasady mogą korzystać z wyłączenia. Następnie wprowadza wyjątek od tego wyłączenia, uzależniony od aktualnego znaczenia zawartości dokumentu dla działalności podmiotu publicznego.
 
