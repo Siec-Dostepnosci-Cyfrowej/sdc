@@ -207,37 +207,25 @@ buduje trwałą zdolność do systemowego zapewniania dostępności cyfrowej.
 
 ## 6. Źródła i opracowania
 
-- W3C WAI — Accessibility Roles and Responsibilities Mapping (ARRM)
-- W3C WAI — Planning and Managing Web Accessibility
-- Materiały Ministerstwa Cyfryzacji dotyczące dostępności cyfrowej
-- Model dojrzałości W3C Accessibility Maturity Model
-- Opracowania Sieci Dostępności Cyfrowej
+- [W3C WAI — Accessibility Roles and Responsibilities Mapping (ARRM)](https://www.w3.org/WAI/planning/arrm/)
+- [W3C WAI — Planning and Managing Web Accessibility](https://www.w3.org/WAI/planning-and-managing/)
 
 ---
 
-## 7. Załączniki (materiały wzorcowe)
+## 7. Załączniki
 
-### A. Dokumenty organizacyjne
-- Organizacja systemu wsparcia kompetencyjnego
-- Biblioteka dostępności
-- Onboarding pracowników w zakresie dostępności cyfrowej
+- [Organizacja systemu wsparcia kompetencyjnego](organizacja-systemu-wsparcia-kompetencyjnego.md)
+- [Biblioteka dostępności](biblioteka-dostepnosci.md)
+- [Organizacja onboardingu pracowników w zakresie dostępności cyfrowej](organizacja-onboardingu.md)
+- [Analiza luk kwalifikacyjnych i organizacyjnych](analiza-luk-kwalifikacyjnych-i-organizacyjnych.md)
+- [Matryca ról, kwalifikacji i wsparcia kompetencyjnego](matryca-rol-kwalifikacji-i-wsparcia-kompetencyjnego.md)
+- [Wykorzystanie mikropoświadczeń w systemie wsparcia kompetencyjnego](wykorzystanie-mikroposwiadczen.md)
+- [Kompetencje w zakresie dostępnej komunikacji cyfrowej i publikacji treści](kompetencje-w-zakresie-komunikacji-cyfrowej-i-publikacji-tresci.md)
 
-### B. Materiały operacyjne i organizacyjne
-- Wzorcowe instrukcje i listy kontrolne
-- Przykładowe standardy i procedury
-- Wzory planów rozwoju kwalifikacji
-- Wzory planów działań edukacyjnych
+---
 
-### C. Rozwój organizacji i monitorowanie
-- Matryca ról, kwalifikacji i wsparcia kompetencyjnego
-- Analiza luk kwalifikacyjnych i organizacyjnych
-- Wykorzystanie mikropoświadczeń w systemie wsparcia kompetencyjnego
-- Zestaw przykładowych mikropoświadczeń
-- Przykładowe ścieżki rozwoju kwalifikacji pracowników
+## Powiązane dokumenty
 
-### D. Opracowania powiązane
 - Monitoring i ocena dojrzałości organizacji w zakresie zapewniania dostępności cyfrowej
 - Zalecenie „Role, odpowiedzialność i zadania…”
 - Publiczny katalog mikropoświadczeń kompetencji
-
-

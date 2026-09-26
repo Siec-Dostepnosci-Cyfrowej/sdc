@@ -12,14 +12,16 @@ ostatnia_aktualizacja: 6 sierpnia 2026 r.
 wersja_robocza: true
 ---
 
-## Cel zalecenia
+## 1. Cel zalecenia
 
 Celem zalecenia jest zapewnienie użytkownikom skutecznych mechanizmów zgłaszania problemów związanych z dostępnością cyfrową oraz uzyskiwania pomocy w sytuacjach, gdy napotykają bariery uniemożliwiające lub utrudniające korzystanie z treści, usług lub technologii cyfrowych udostępnianych przez organizację.
 
 Zalecenie obejmuje zarówno obsługę zgłoszeń dotyczących problemów dostępności cyfrowej, jak i zapewnianie dostępu alternatywnego w przypadkach, gdy usunięcie bariery nie jest możliwe niezwłocznie. 
 Organizacja powinna mieć na uwadze przede wszystkim usunięcie przyczyny bariery. Dostęp alternatywny jest rozwiązaniem uzupełniającym stosowanym do czasu usunięcia problemu lub w sytuacjach przewidzianych przepisami.
 
-## Zalecenie
+---
+
+## 2. Zalecenie
 W praktyce do organizacji mogą wpływać różnego rodzaju informacje dotyczące dostępności. Na potrzeby niniejszego zalecenia rozróżnia się:
 - zgłoszenie problemu z dostępnością – przepisy nie określają terminu odpowiedzi. Zaleca się potwierdzenie otrzymania zgłoszenia bez zbędnej zwłoki oraz poinformowanie użytkownika o dalszym sposobie postępowania. Jeżeli zgłoszenie spełnia przesłanki formalnego żądania, powinno zostać rozpatrzone zgodnie z ustawą.
 - żądanie zapewnienia dostępności cyfrowej – podmiot publiczny zapewnia dostępność bez zbędnej zwłoki, nie później niż w terminie 7 dni od dnia otrzymania żądania. Jeżeli nie jest to możliwe, w tym samym terminie informuje o przyczynach opóźnienia i wskazuje nowy termin realizacji, nie dłuższy niż 2 miesiące od dnia złożenia żądania,
@@ -29,9 +31,9 @@ Organizacja wdraża procedurę obsługi zgłoszeń problemów dostępności cyfr
 
 ---
 
-## Rekomendacje
+## 3. Rekomendacje
 
-### Dostępne kanały zgłaszania problemów
+### 3.1. Dostępne kanały zgłaszania problemów
 
 Organizacja zapewnia użytkownikom możliwość zgłaszania problemów dotyczących dostępności cyfrowej za pomocą różnych kanałów komunikacji dostosowanych do potrzeb użytkowników.
 
@@ -45,7 +47,9 @@ Przykładowe kanały mogą obejmować:
 
 Informacje o sposobach zgłaszania problemów powinny być łatwo odnajdywalne i publikowane w szczególności w deklaracji dostępności oraz sekcji poświęconej dostępności.
 
-### Procedura obsługi zgłoszeń, żądań i skarg
+---
+
+### 3.2. Procedura obsługi zgłoszeń, żądań i skarg
 
 Procedura obsługi zgłoszeń powinna określać:
 
@@ -61,7 +65,9 @@ Procedura obsługi zgłoszeń powinna określać:
 - zasady dokumentowania rozpatrzenia skargi,
 - role i odpowiedzialności uczestników procesu.
 
-### Rejestrowanie i monitorowanie zgłoszeń i skarg
+---
+
+### 3.3. Rejestrowanie i monitorowanie zgłoszeń i skarg
 
 Organizacja prowadzi rejestr zgłoszeń dotyczących dostępności cyfrowej.
 
@@ -72,7 +78,9 @@ Rejestr umożliwia:
 - identyfikowanie problemów powtarzających się,
 - analizę skuteczności procesu obsługi zgłoszeń.
 
-### Analiza zgłoszeń
+---
+
+### 3.4. Analiza zgłoszeń
 
 Każde zgłoszenie jest analizowane pod kątem:
 
@@ -87,7 +95,9 @@ Jeżeli organizacja powołuje się na przesłankę nadmiernych kosztów, decyzja
 
 W przypadku odmowy zapewnienia dostępności z powodu nadmiernych kosztów podmiot publiczny powinien przedstawić uzasadnienie swojej decyzji oraz rozważyć możliwość zapewnienia skutecznego dostępu alternatywnego.
 
-### Dostęp alternatywny
+---
+
+### 3.5. Dostęp alternatywny
 
 Jeżeli usunięcie problemu nie jest możliwe niezwłocznie, organizacja zapewnia użytkownikowi dostęp alternatywny umożliwiający uzyskanie informacji lub realizację sprawy.
 
@@ -99,7 +109,7 @@ Dostęp alternatywny może obejmować między innymi:
 - wsparcie podczas korzystania z usługi cyfrowej,
 - inne rozwiązania odpowiadające potrzebom użytkownika.
 
-### Komunikacja z użytkownikiem
+### 3.6. Komunikacja z użytkownikiem
 
 Organizacja informuje użytkownika o:
 
@@ -111,7 +121,9 @@ Organizacja informuje użytkownika o:
 
 Komunikacja jest prowadzona w formie dostępnej dla użytkownika.
 
-### Doskonalenie organizacji
+---
+
+### 3.7. Doskonalenie organizacji
 
 Informacje uzyskane w procesie obsługi zgłoszeń są wykorzystywane do:
 
@@ -125,7 +137,7 @@ Powtarzające się zgłoszenia dotyczące tego samego problemu są traktowane ja
 
 ---
 
-## Uzasadnienie
+## 4. Uzasadnienie
 
 Pomimo stosowania standardów dostępności oraz prowadzenia działań związanych z oceną i poprawą dostępności cyfrowej, użytkownicy mogą nadal napotykać bariery utrudniające korzystanie z treści, usług lub systemów cyfrowych.
 
@@ -137,7 +149,7 @@ Obsługa zgłoszeń nie powinna być traktowana wyłącznie jako realizacja obow
 
 ---
 
-## Podstawa prawna
+## 5. Podstawa prawna
 
 - Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
 - Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami.
@@ -145,12 +157,14 @@ Obsługa zgłoszeń nie powinna być traktowana wyłącznie jako realizacja obow
 
 ---
 
-## Powiązane dokumenty
+## 6. Załączniki
 
-
-- [Procedura obsługi zgłoszeń i skarg dotyczących dostępności cyfrowej oraz zapewniania dostępu alternatywnego](./procedura-obslugi-zgłoszen-i-skarg-dotyczacych-dostepnosci-cyfrowej)
 - [Karta zgłoszenia problemu dostępności cyfrowej](karta-zgloszenia-problemu-dostepnosci-cyfrowej)
 - [Karta obsługi zgłoszenia problemu dostępności cyfrowej](karta-obslugi-zgloszenia-problemu-dostepnosci-cyfrowej)
 - [Schemat procesu obsługi zgłoszeń problemów dostępności cyfrowej i skarg](schemat-procesu-obslugi-zgloszen-i-skarg)
-- [Przetwarzanie i obsługa problemów z dostępnością cyfrową](../../cykltik/przetwarzanie-zgloszen/przetwarzanie-zgloszen-problemow-z-dostepnoscia)
 
+---
+
+## 7. Powiązane dokumenty
+- [Procedura obsługi zgłoszeń i skarg dotyczących dostępności cyfrowej oraz zapewniania dostępu alternatywnego](./procedura-obslugi-zgłoszen-i-skarg-dotyczacych-dostepnosci-cyfrowej)
+- [Przetwarzanie i obsługa problemów z dostępnością cyfrową](../../cykltik/przetwarzanie-zgloszen/przetwarzanie-zgloszen-problemow-z-dostepnoscia)

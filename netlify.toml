@@ -4,14 +4,11 @@
   command = "npm ci && npm run build"
  
 [build.environment]
-  NODE_VERSION = "20"
+  NODE_VERSION = "22"
   NPM_VERSION = "10"
 
  
 # Production deploy
-[context.production.environment]
-  NODE_ENV = "production"
- 
 # Preview deploys (Pull Requests)
 [context.deploy-preview]
   command = "npm ci && npm run build"

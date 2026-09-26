@@ -2,7 +2,7 @@ version: 2
 updates:
   # 1 NPM – tylko bezpośrednie zależności
   - package-ecosystem: "npm"
-    directory: "/documentation/" # lokalizacja package.json
+    directory: "/documentation/"
     schedule:
       interval: "daily"
     allow:
@@ -15,14 +15,22 @@ updates:
         update-types:
           - "minor"
           - "patch"
+
       docusaurus-major:
         patterns:
           - "@docusaurus/*"
         update-types:
-          - "major"   
-  # 2️ GitHub Actions – aktualizacje workflowów
+          - "major"
+
+      react:
+        patterns:
+          - "react"
+          - "react-dom"
+ 
+  # 2 GitHub Actions – aktualizacje workflowów
   - package-ecosystem: "github-actions"
-    directory: "/" # szuka w .github/workflows
+    directory: "/"
     schedule:
       interval: "daily"
     open-pull-requests-limit: 10
+ 

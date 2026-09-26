@@ -1,771 +1,2570 @@
 {
   "id": "slownik",
   "title": "Słownik podstawowych pojęć i terminów",
-  "description": "Słownik zawiera definicje podstawowych pojęć wykorzystywanych w modelu zapewniania dostępności cyfrowej opracowywanym przez Sieć Dostępności Cyfrowej. Nie jest słownikiem wszystkich terminów związanych z dostępnością cyfrową ani podręcznikiem tej dziedziny.",
+  "description": "Słownik zawiera kanoniczne definicje pojęć wykorzystywanych w modelu zapewniania dostępności cyfrowej i zaleceniach Sieci Dostępności Cyfrowej. Definicje prawne i normatywne zachowują znaczenie wynikające ze wskazanych źródeł, a definicje oznaczone jako SDC zostały przyjęte na potrzeby modelu Sieci.",
   "terms": [
     {
-      "term": "ACR",
-      "abbreviation": "Accessibility Conformance Report",
-      "definition": "Raport zgodności z dostępnością. Oficjalny dokument techniczny, który szczegółowo opisuje poziom zgodności cyfrowego produktu (np. oprogramowania, aplikacji, strony internetowej lub sprzętu IT) z międzynarodowymi standardami dostępności, takimi jak WCAG, norma EN 301 549, Sekcja 508 (USA).",
-      "relatedTerms": [ "Raport zgodności z dostępnością", "VPAT" ]
+      "term": "alternatywa tekstowa",
+      "definition": "Tekst programowo powiązany z treścią nietekstową albo wskazany z tekstu programowo powiązanego z tą treścią, służący jako jej tekstowy odpowiednik.",
+      "definitionType": "normative",
+      "relatedTerms": [
+        "treść nietekstowa",
+        "tekst alternatywny",
+        "opis rozszerzony",
+        "element graficzny",
+        "element dekoracyjny",
+        "obraz tekstu",
+        "treść równoważna"
+      ],
+      "references": [
+        {
+          "label": "W3C WCAG 2.2 – Non-text Content – SC 1.1.1 i słownik",
+          "url": "https://www.w3.org/WAI/WCAG22/Understanding/non-text-content"
+        }
+      ]
     },
     {
-      "term": "alternatywa tekstowa",
-      "definition": "Tekstowy odpowiednik informacji nietekstowej, na przykład obrazu, wykresu, nagrania lub elementu interaktywnego. Alternatywa tekstowa powinna przekazywać funkcję albo znaczenie elementu, a nie tylko opisywać jego wygląd."
+      "term": "alternatywny sposób dostępu",
+      "definition": "Sposób zapewnienia dostępu do elementu strony internetowej lub aplikacji mobilnej, gdy podmiot publiczny nie jest w stanie zapewnić jego dostępności cyfrowej, realizowany w szczególności przez kontakt telefoniczny, korespondencyjny, środki komunikacji elektronicznej albo z wykorzystaniem tłumacza języka migowego lub tłumacza-przewodnika.",
+      "definitionType": "legal",
+      "references": [
+        {
+          "label": "Ustawa z 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (t.j. Dz.U. 2023 poz. 1440) – art. 7",
+          "url": "https://eli.gov.pl/api/acts/DU/2023/1440/text.html"
+        }
+      ]
     },
-
     {
       "term": "aplikacja mobilna",
-      "definition": "Publicznie dostępne oprogramowanie z interfejsem dotykowym zaprojektowane do wykorzystania na przenośnych urządzeniach elektronicznych, z wyłączeniem aplikacji przeznaczonych do użytku na przenośnych komputerach osobistych."
+      "definition": "Publicznie dostępne oprogramowanie z interfejsem dotykowym zaprojektowane do wykorzystania na przenośnych urządzeniach elektronicznych, z wyłączeniem aplikacji przeznaczonych do użytku na przenośnych komputerach osobistych.",
+      "definitionType": "legal",
+      "references": [
+        {
+          "label": "Ustawa z 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (t.j. Dz.U. 2023 poz. 1440) – art. 4 pkt 1",
+          "url": "https://eli.gov.pl/api/acts/DU/2023/1440/text.html"
+        }
+      ]
     },
     {
       "term": "archiwizacja formalna",
-      "definition": "Postępowanie z dokumentacją zgodnie z instrukcją kancelaryjną, JRWA, instrukcją archiwalną, przepisami archiwalnymi i decyzjami właściwego archiwum państwowego.",
-      "relatedTerms": [ "JRWA", "archiwizacja operacyjna" ]
+      "definition": "Postępowanie z dokumentacją wynikające z przepisów kancelaryjno-archiwalnych, w tym kwalifikacja, przechowywanie i przekazywanie.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "archiwizacja operacyjna",
+        "materiał archiwalny",
+        "zasób archiwalny",
+        "zasób archiwalny dostępny cyfrowo",
+        "migracja danych",
+        "migracja zasobu z zachowaniem dostępności",
+        "elektroniczne zarządzanie dokumentacją (EZD)"
+      ]
     },
     {
       "term": "archiwizacja operacyjna",
-      "definition": "Organizacyjne zachowanie zasobu, metadanych, kontekstu i informacji o dostępności cyfrowej na potrzeby dalszego zarządzania, dostępu, odtworzenia informacji albo rozliczalności decyzji."
+      "definition": "Przeniesienie zasobu z bieżącego obiegu lub głównego miejsca publikacji do stanu lub miejsca dla zasobów nieaktualnych lub rzadziej wykorzystywanych, bez przesądzania statusu archiwalnego.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "archiwizacja formalna",
+        "materiał archiwalny",
+        "zasób archiwalny",
+        "zasób archiwalny dostępny cyfrowo",
+        "migracja danych",
+        "migracja zasobu z zachowaniem dostępności",
+        "elektroniczne zarządzanie dokumentacją (EZD)"
+      ]
     },
     {
       "term": "audiodeskrypcja",
-      "definition": "Przekazywany głosem w przerwach między wypowiedziami lub jako osobna ścieżka dźwiękowa opis treści wizualnych w materiale wideo."
+      "definition": "Narracja opisująca istotne informacje wizualne nieprzekazywane przez podstawową ścieżkę dźwiękową.",
+      "definitionType": "normative",
+      "relatedTerms": [
+        "multimedia",
+        "materiał audio",
+        "materiał wideo",
+        "media zsynchronizowane",
+        "napisy rozszerzone",
+        "napisy zamknięte",
+        "napisy otwarte"
+      ],
+      "references": [
+        {
+          "label": "W3C Web Content Accessibility Guidelines (WCAG) 2.2 – SC 1.2.3/1.2.5 i słownik",
+          "url": "https://www.w3.org/TR/WCAG22/"
+        }
+      ]
     },
     {
       "term": "audiodeskrypcja rozszerzona",
-      "definition": "Audiodeskrypcja przygotowana tak, aby można było zatrzymać lub wydłużyć materiał i dodać więcej opisu niż pozwalają naturalne przerwy w nagraniu. Może być potrzebna przy materiałach z dużą liczbą informacji wizualnych."
+      "definition": "Audiodeskrypcja, dla której materiał jest okresowo zatrzymywany, aby umożliwić przekazanie potrzebnego opisu.",
+      "definitionType": "normative",
+      "relatedTerms": [
+        "multimedia",
+        "materiał audio",
+        "materiał wideo",
+        "media zsynchronizowane",
+        "napisy rozszerzone",
+        "napisy zamknięte",
+        "napisy otwarte"
+      ],
+      "references": [
+        {
+          "label": "W3C Web Content Accessibility Guidelines (WCAG) 2.2 – SC 1.2.7",
+          "url": "https://www.w3.org/TR/WCAG22/"
+        }
+      ]
     },
     {
-      "term": "autor materiału",
-      "definition": "Osoba przygotowująca treść merytoryczną materiału. Autor odpowiada za poprawność informacji, jasność komunikatu i przekazanie treści potrzebnych do przygotowania dostępnej publikacji."
+      "term": "audyt dostępności cyfrowej",
+      "definition": "Sformalizowane badanie dostępności wykonywane przez osobę posiadającą odpowiednie kompetencje i zakończone udokumentowaną oceną wyników.",
+      "definitionType": "official",
+      "relatedTerms": [
+        "badanie dostępności cyfrowej",
+        "test dostępności",
+        "procedura testowa",
+        "ocena",
+        "ocena dostępności",
+        "ocena zgodności",
+        "audyt weryfikujący"
+      ],
+      "references": [
+        {
+          "label": "Ministerstwo Cyfryzacji – Audyt ekspercki dostępności cyfrowej – audyt ekspercki i audyt weryfikujący",
+          "url": "https://www.gov.pl/web/dostepnosc-cyfrowa/czym-jest-audyt-ekspercki-dostepnosci-cyfrowej-i-jak-go-zorganizowac"
+        }
+      ]
+    },
+    {
+      "term": "audyt weryfikujący",
+      "definition": "Ponowne badanie służące sprawdzeniu skuteczności działań naprawczych oraz wykryciu ewentualnych nowych problemów.",
+      "definitionType": "official",
+      "relatedTerms": [
+        "badanie dostępności cyfrowej",
+        "test dostępności",
+        "procedura testowa",
+        "ocena",
+        "ocena dostępności",
+        "ocena zgodności",
+        "audyt dostępności cyfrowej"
+      ],
+      "references": [
+        {
+          "label": "Ministerstwo Cyfryzacji – Audyt ekspercki dostępności cyfrowej – audyt ekspercki i audyt weryfikujący",
+          "url": "https://www.gov.pl/web/dostepnosc-cyfrowa/czym-jest-audyt-ekspercki-dostepnosci-cyfrowej-i-jak-go-zorganizowac"
+        }
+      ]
+    },
+    {
+      "term": "autor treści",
+      "definition": "Osoba przygotowująca merytoryczną treść materiału.",
+      "definitionType": "sdc",
+      "aliases": [
+        "autor materiału"
+      ],
+      "relatedTerms": [
+        "rola",
+        "odpowiedzialność",
+        "kierownictwo organizacji",
+        "koordynator do spraw dostępności",
+        "właściciel procesu",
+        "właściciel merytoryczny",
+        "właściciel rozwiązania cyfrowego"
+      ]
+    },
+    {
+      "term": "badanie dostępności cyfrowej",
+      "definition": "Czynności służące zebraniu informacji o dostępności cyfrowej rozwiązania lub jego części z wykorzystaniem określonej metody albo zestawu metod.",
+      "definitionType": "official",
+      "relatedTerms": [
+        "test dostępności",
+        "procedura testowa",
+        "ocena",
+        "ocena dostępności",
+        "ocena zgodności",
+        "audyt dostępności cyfrowej",
+        "audyt weryfikujący"
+      ],
+      "references": [
+        {
+          "label": "Ministerstwo Cyfryzacji – Badania i testy dostępności cyfrowej – badania i testy",
+          "url": "https://www.gov.pl/web/dostepnosc-cyfrowa/badania-i-testy-dostepnosci-cyfrowej"
+        }
+      ]
     },
     {
       "term": "bariera",
-      "definition": "Przeszkoda lub ograniczenie architektoniczne, cyfrowe lub informacyjno-komunikacyjne, które uniemożliwia lub utrudnia użytkownikowi udział w różnych sferach życia na zasadzie równości z innymi osobami."
+      "definition": "Przeszkoda lub ograniczenie architektoniczne, cyfrowe lub informacyjno-komunikacyjne, które uniemożliwia lub utrudnia osobom ze szczególnymi potrzebami udział w różnych sferach życia na zasadzie równości z innymi osobami.",
+      "definitionType": "legal",
+      "relatedTerms": [
+        "dostępność",
+        "dostępność cyfrowa",
+        "zapewnianie dostępności cyfrowej",
+        "bariera dostępności cyfrowej",
+        "wymaganie dostępności",
+        "zgodność",
+        "systemowe zapewnianie dostępności cyfrowej"
+      ],
+      "references": [
+        {
+          "label": "Ustawa z 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (t.j. Dz.U. 2024 poz. 1411) – art. 2 pkt 1",
+          "url": "https://eli.gov.pl/api/acts/DU/2024/1411/text.html"
+        }
+      ]
     },
     {
       "term": "bariera dostępności cyfrowej",
-      "definition": "Cecha materiału lub sposobu publikacji, która utrudnia lub uniemożliwia użytkownikowi zapoznanie się z informacją lub wykonanie zadania. Przykłady barier: brak tekstu alternatywnego, brak napisów rozszerzonych, brak struktury dokumentu, tekst tylko na grafice, niski kontrast albo brak możliwości odczytu przez technologie wspomagające.",
-      "relatedTerms": [ "dostępność", "dostępność cyfrowa" ]
+      "definition": "Właściwość albo brak właściwości rozwiązania cyfrowego, która uniemożliwia lub utrudnia użytkownikowi korzystanie z informacji, funkcji albo usługi.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "dostępność",
+        "dostępność cyfrowa",
+        "zapewnianie dostępności cyfrowej",
+        "bariera",
+        "wymaganie dostępności",
+        "zgodność",
+        "systemowe zapewnianie dostępności cyfrowej"
+      ]
     },
     {
-      "term": "błąd krytyczny",
-      "definition": "Błąd, który uniemożliwia znaczącej grupie odbiorców zrozumienie podstawowej treści materiału. Przykładem jest publikacja filmu informacyjnego bez napisów albo infografiki bez tekstowego odpowiednika."
+      "term": "cykl życia rozwiązania cyfrowego",
+      "definition": "Okres od rozpoznania potrzeby rozwiązania, przez pozyskanie lub wytworzenie, wdrożenie, eksploatację, utrzymanie i rozwój, aż do wycofania albo zastąpienia.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "zasób cyfrowy",
+        "rozwiązanie cyfrowe",
+        "produkt cyfrowy",
+        "usługa cyfrowa",
+        "treść cyfrowa",
+        "cykl życia zasobu cyfrowego",
+        "cykl życia treści"
+      ]
     },
     {
-      "term": "błąd powtarzalny",
-      "definition": "Błąd pojawiający się regularnie w wielu materiałach lub kanałach. Błędy powtarzalne zwykle wskazują na problem w procesie, brak standardu, brak szkolenia albo niewystarczającą weryfikację."
+      "term": "cykl życia treści",
+      "definition": "Okres od powstania lub pozyskania treści, przez opracowanie, publikację, utrzymanie i aktualizację, aż do archiwizacji albo wycofania.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "zasób cyfrowy",
+        "rozwiązanie cyfrowe",
+        "produkt cyfrowy",
+        "usługa cyfrowa",
+        "treść cyfrowa",
+        "cykl życia rozwiązania cyfrowego",
+        "cykl życia zasobu cyfrowego"
+      ]
     },
     {
-      "term": "cykl życia umowy",
-      "definition": "Cały proces związany z umową od jej wstępnego sporządzenia i negocjacji, poprzez jej wykonanie, aktywne funkcjonowanie, aż po ostateczne wygaśnięcie lub rozwiązanie. Obejmuje zarządzanie wszystkimi etapami w celu zapewnienia zgodności umowy z przepisami, maksymalizacji wartości i minimalizacji ryzyka. Ang. _contract lifecycle_."
+      "term": "cykl życia zasobu cyfrowego",
+      "definition": "Okres od utworzenia lub pozyskania zasobu, przez jego wykorzystywanie i utrzymywanie, aż do archiwizacji, migracji, wycofania albo usunięcia.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "zasób cyfrowy",
+        "rozwiązanie cyfrowe",
+        "produkt cyfrowy",
+        "usługa cyfrowa",
+        "treść cyfrowa",
+        "cykl życia rozwiązania cyfrowego",
+        "cykl życia treści"
+      ]
     },
     {
       "term": "decyzja",
-      "definition": "Rozstrzygnięcie podejmowane na podstawie informacji utrzymywanych przez SZDC. Decyzje prowadzą do działań wpływających na stan dostępności i zgodności lub na rozwój systemu zapewniania dostępności cyfrowej.",
-      "relatedTerms": [ "decyzja publikacyjna", "dostępność cyfrowa" ]
+      "definition": "Rozstrzygnięcie podejmowane na podstawie informacji dotyczących dostępności cyfrowej i sposobu jej zapewniania. Decyzje prowadzą do działań wpływających na stan dostępności i zgodności lub na doskonalenie sposobu działania organizacji.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "organizacja",
+        "organizacja wielopodmiotowa",
+        "procedura",
+        "plan",
+        "działanie",
+        "problem",
+        "stan"
+      ]
     },
     {
       "term": "decyzja publikacyjna",
-      "definition": "Udokumentowane rozstrzygnięcie określające sposób postępowania z materiałem przeznaczonym do publikacji, w szczególności publikację, odmowę publikacji, działania uzupełniające albo zastosowanie wyłączenia.",
-      "relatedTerms": [ "publikacja", "decyzja" ]
+      "definition": "Udokumentowane rozstrzygnięcie dotyczące materiału przeznaczonego do publikacji, określające sposób dalszego postępowania.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "publikacja",
+        "kanał publikacji",
+        "kontrola przed publikacją",
+        "publikacja warunkowa",
+        "kwalifikacja materiału",
+        "ponowna kwalifikacja",
+        "odmowa publikacji"
+      ]
     },
-
     {
-      "term": "dług dostępnościowy",
-      "definition": "Nagromadzenie materiałów opublikowanych z błędami dostępności, które wymagają późniejszej poprawy. Dług dostępnościowy zwiększa koszty utrzymania komunikacji i utrudnia zapewnienie równego dostępu do informacji."
+      "term": "deklaracja dostępności",
+      "definition": "Dokument publikowany przez podmiot publiczny dla strony internetowej lub aplikacji mobilnej, zawierający wymagane prawem informacje o jej dostępności cyfrowej oraz sposobach kontaktu i postępowania.",
+      "definitionType": "legal",
+      "references": [
+        {
+          "label": "Ustawa z 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (t.j. Dz.U. 2023 poz. 1440) – art. 8 ust. 4 oraz art. 10–11",
+          "url": "https://eli.gov.pl/api/acts/DU/2023/1440/text.html"
+        }
+      ]
     },
     {
       "term": "dobra praktyka",
       "definition": "Sprawdzone działanie, dzięki któremu w konkretnej organizacji konkretny prosty lub złożony problem związany z zapewnianiem dostępności cyfrowej przestaje istnieć. Opis skutecznego działania zgłoszonego i przedstawionego jako wzór postępowania, sporządzony na podstawie doświadczeń konkretnej organizacji (wraz z materiałami wzorcowymi).",
-      "relatedTerms": [ "wymiar dostępności", "dostępność cyfrowa" ]
-    },
-    {
-      "term": "dokumentowanie decyzji",
-      "definition": "Utrwalenie najważniejszych informacji dotyczących oceny materiału i podjętej decyzji, w szczególności wyniku oceny dostępności, zastosowanych działań, uzasadnienia oraz osoby odpowiedzialnej.",
-      "relatedTerms": [ "publikacja", "decyzja", "decyzja publikacyjna" ]
-    },
-    {
-      "term": "dojrzałość",
-      "definition": "Stopień sformalizowania i optymalizacji procesów. Obejmuje poziomy od działań _ad hoc_ (doraźnych), przez formalnie zdefiniowane kroki, po zarządzane metryki wyników i aktywną optymalizację procesów. ",
-      "relatedTerms": [ "dojrzałość organizacyjna", "model dojrzałości dostępności" ]
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "organizacja",
+        "organizacja wielopodmiotowa",
+        "procedura",
+        "plan",
+        "decyzja",
+        "działanie",
+        "problem"
+      ]
     },
     {
       "term": "dojrzałość organizacyjna",
-      "definition": "Zdolność organizacji do efektywnego i skutecznego działania osiągana poprzez rozwój procesów, struktur i kultury organizacyjnej. Oznacza, że organizacja jest w stanie konsekwentnie osiągać cele, adaptować się do zmian i ciągle doskonalić swoje funkcjonowanie.",
-      "relatedTerms": [ "dojrzałość", "model dojrzałości dostępności" ]
+      "definition": "Stopień, w jakim zdolności organizacji są ustanowione, stosowane, mierzone i doskonalone w sposób systematyczny i trwały.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "organizacja",
+        "organizacja wielopodmiotowa",
+        "procedura",
+        "plan",
+        "decyzja",
+        "działanie",
+        "problem"
+      ]
+    },
+    {
+      "term": "dokument cyfrowy",
+      "definition": "Wyodrębniony dokument przeznaczony do odczytu, przetwarzania lub udostępniania za pomocą urządzeń i oprogramowania cyfrowego.",
+      "definitionType": "sdc"
     },
     {
       "term": "dokument elektroniczny",
-      "definition": "Plik do pobrania, który może być przeglądany, drukowany lub wypełniany przez użytkowników w trybie off-line lub on-line.",
-      "relatedTerms": [ "strona internetowa" ]
+      "definition": "Stanowiący odrębną całość znaczeniową zbiór danych uporządkowanych w określonej strukturze wewnętrznej i zapisany na informatycznym nośniku danych.",
+      "definitionType": "legal",
+      "references": [
+        {
+          "label": "Ustawa o informatyzacji działalności podmiotów realizujących zadania publiczne (t.j. Dz.U. 2025 poz. 1703) – art. 3 pkt 2",
+          "url": "https://eli.gov.pl/eli/DU/2025/1703/ogl"
+        }
+      ]
+    },
+    {
+      "term": "dokument tekstowy",
+      "definition": "Dokument cyfrowy, którego podstawową treść stanowi tekst, mogący zawierać również grafiki, tabele lub formularze.",
+      "definitionType": "sdc"
+    },
+    {
+      "term": "dokumentacja dostępności rozwiązania",
+      "definition": "Uporządkowany zbiór informacji i dowodów dotyczących wymagań dostępności mających zastosowanie do rozwiązania, jego stanu dostępności i zgodności, przeprowadzonych ocen, znanych ograniczeń oraz podjętych działań.",
+      "definitionType": "sdc"
     },
     {
       "term": "dostęp alternatywny",
-      "definition": "Sposób zapewnienia użytkownikowi dostępu do informacji albo usługi w formie innej niż pierwotna, jeżeli pełne dostosowanie zasobu nie jest możliwe, byłoby nieproporcjonalne albo wynika to z potrzeb użytkownika.",
-      "relatedTerms": [ "dostępność", "dostępność cyfrowa" ]
-    },
-    {
-      "term": "dostęp do informacji",
-      "definition": "Możliwość rzeczywistego zapoznania się z treścią informacji niezależnie od sposobu odbioru, technologii wspomagających albo formy publikacji materiału.",
-      "relatedTerms": [ "dostępność cyfrowa" ]
-    },
-
-    {
-      "term": "dostępna alternatywa",
-      "definition": "Inna forma dostępu do tej samej informacji, zapewniona wtedy, gdy materiał pierwotny nie jest w pełni dostępny. Alternatywa powinna być łatwa do znalezienia, aktualna i dostępna w czasie potrzebnym odbiorcom."
-    },
-    {
-      "term": "dostępne uzupełnienie",
-      "definition": "Dodatkowa treść publikowana razem z materiałem w celu zapewnienia użytkownikowi dostępu do informacji zawartych w materiale niedostępnym albo częściowo dostępnym.",
-      "relatedTerms": [ "dostępność cyfrowa", "publikacja", "decyzja publikacyjna" ]
+      "definition": "Sposób zapewnienia osobie ze szczególnymi potrzebami dostępu w indywidualnym przypadku, gdy podmiot publiczny nie jest w stanie zapewnić dostępności architektonicznej lub informacyjno-komunikacyjnej, polegający w szczególności na wsparciu innej osoby, wsparciu technicznym albo zmianie organizacji podmiotu w niezbędnym zakresie.",
+      "definitionType": "legal",
+      "references": [
+        {
+          "label": "Ustawa z 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (t.j. Dz.U. 2024 poz. 1411) – art. 7",
+          "url": "https://eli.gov.pl/api/acts/DU/2024/1411/text.html"
+        }
+      ]
     },
     {
       "term": "dostępność",
-      "definition": "Zakres, w jakim produkty, systemy, usługi, środowiska i obiekty mogą być używane przez ludzi z populacji o najszerszym zakresie cech i możliwości, aby osiągnąć określony cel w określonym kontekście użytkowania (ISO TC 159). Właściwość środowiska (przestrzeni fizycznej, rzeczywistości cyfrowej, systemów informacyjno-komunikacyjnych, produktów, usług), która pozwala osobom z trudnościami funkcjonalnymi (fizycznymi, poznawczymi) na korzystanie z niego na zasadzie równości z innymi.",
-      "relatedTerms": [ "wymiar dostępności", "dostępność cyfrowa" ]
+      "definition": "Dostępność architektoniczna, cyfrowa oraz informacyjno-komunikacyjna, co najmniej w zakresie określonym przez minimalne wymagania ustawowe, będąca wynikiem uwzględnienia uniwersalnego projektowania albo zastosowania racjonalnego usprawnienia.",
+      "definitionType": "legal",
+      "relatedTerms": [
+        "dostępność cyfrowa",
+        "zapewnianie dostępności cyfrowej",
+        "bariera",
+        "bariera dostępności cyfrowej",
+        "wymaganie dostępności",
+        "zgodność",
+        "systemowe zapewnianie dostępności cyfrowej"
+      ],
+      "references": [
+        {
+          "label": "Ustawa z 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (t.j. Dz.U. 2024 poz. 1411) – art. 2 pkt 2",
+          "url": "https://eli.gov.pl/api/acts/DU/2024/1411/text.html"
+        }
+      ]
     },
     {
       "term": "dostępność cyfrowa",
-      "definition": "Właściwość rozwiązań wykorzystujących technologie informacyjno-komunikacyjne polegająca na możliwości korzystania z nich przez możliwie najszerszy krąg użytkowników, w tym osoby z niepełnosprawnościami, bez potrzeby stosowania szczególnych adaptacji lub przy wykorzystaniu technologii wspomagających. Ang. _accessibility_, ",
-      "relatedTerms": [ "wymiar dostępności", "dostępność" ]
+      "definition": "Dostępność cyfrowa strony internetowej i aplikacji mobilnej polega na zapewnieniu ich funkcjonalności, kompatybilności, postrzegalności i zrozumiałości.",
+      "definitionType": "legal",
+      "relatedTerms": [
+        "dostępność",
+        "zapewnianie dostępności cyfrowej",
+        "bariera",
+        "bariera dostępności cyfrowej",
+        "wymaganie dostępności",
+        "zgodność",
+        "systemowe zapewnianie dostępności cyfrowej"
+      ],
+      "references": [
+        {
+          "label": "Ustawa z 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (t.j. Dz.U. 2023 poz. 1440) – art. 5 ust. 2",
+          "url": "https://eli.gov.pl/api/acts/DU/2023/1440/text.html"
+        }
+      ]
+    },
+    {
+      "term": "dostępność cyfrowa dokumentu",
+      "definition": "Właściwość dokumentu umożliwiająca skuteczne zapoznanie się z jego treścią, strukturą i funkcjami, także przy użyciu technologii wspomagających.",
+      "definitionType": "sdc"
     },
     {
       "term": "dostępność komunikacji",
       "definition": "Zapewnienie, że komunikaty publiczne mogą być odebrane, zrozumiane i wykorzystane przez możliwie szerokie grono osób, w tym osoby z niepełnosprawnościami, osoby starsze, osoby korzystające z technologii wspomagających oraz osoby odbierające treści w różnych warunkach technicznych.",
-      "relatedTerms": [ "dostępność" ]
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "komunikacja publiczna w kanałach cyfrowych",
+        "komunikacja pilna",
+        "komunikacja kryzysowa",
+        "informacja krytyczna czasowo",
+        "prosty język",
+        "tekst łatwy do czytania i zrozumienia (ETR)"
+      ]
     },
     {
-      "term": "dostosowanie materiału",
-      "definition": "Działanie polegające na poprawie materiału albo sposobu jego publikacji tak, aby spełniał wymagania dostępności cyfrowej.",
-      "relatedTerms": [ "dostępność cyfrowa", "publikacja", "decyzja publikacyjna" ]
+      "term": "dostosowanie cyfrowe",
+      "definition": "Zmiana sposobu korzystania z technologii, oprogramowania, treści lub środowiska cyfrowego służąca usunięciu albo ograniczeniu bariery utrudniającej określonej osobie wykonywanie zadań lub korzystanie z rozwiązania.",
+      "definitionType": "sdc"
     },
     {
       "term": "działanie",
-      "definition": "Zaplanowana czynność realizowana w odpowiedzi na podjętą decyzję. Działania mogą prowadzić do usunięcia problemów, ograniczenia ryzyka, poprawy dostępności lub doskonalenia SZDC.",
-      "relatedTerms": [ "wymiar dostępności", "dostępność" ]
+      "definition": "Zaplanowana czynność realizowana w odpowiedzi na podjętą decyzję. Działania mogą prowadzić do usunięcia problemów, ograniczenia ryzyka, poprawy dostępności lub doskonalenia systemowego zapewniania dostępności cyfrowej.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "organizacja",
+        "organizacja wielopodmiotowa",
+        "procedura",
+        "plan",
+        "decyzja",
+        "problem",
+        "stan"
+      ]
     },
-
     {
-      "term": "działanie korygujące",
-      "definition": "Działanie podejmowane po wykryciu błędu, na przykład poprawa napisów, dodanie transkrypcji, wymiana grafiki, aktualizacja opisu lub zmiana sposobu publikacji."
-    },
-    {
-      "term": "działania uzupełniające",
-      "definition": "Działania podejmowane obok publikacji materiału, na przykład przygotowanie dostępnego uzupełnienia, oznaczenie ograniczeń dostępności, przekazanie informacji w innej formie albo obsługa żądania zapewnienia dostępności.",
-      "relatedTerms": [ "dostępność cyfrowa", "publikacja", "decyzja publikacyjna" ]
-    },
-    {
-      "term": "EAA",
-      "abbreviation": "Europejska ustawa o dostępności",
-      "definition": "Akt prawny Unii Europejskiej (dyrektywa (UE) 2019/882), którego celem jest poprawa dostępności produktów i usług dla osób z niepełnosprawnościami. Wprowadził prawne wymogi dotyczące projektowania z uwzględnieniem dostępności w kluczowych sektorach, takich jak handel elektroniczny, bankowość internetowa oraz usługi sprzedaży biletów telefonicznych i transportowych. EAA wymaga, aby witryny i firmy objęte wymogiem dostępności, zatrudniające ponad 10 pracowników lub osiągające przychody powyżej 2 mln euro, zapewniły dostępność, a nieprzestrzeganie tego wymogu wiąże się z konsekwencjami prawnymi."
+      "term": "działanie naprawcze",
+      "definition": "Działanie podejmowane w celu usunięcia stwierdzonej niezgodności albo problemu dostępności i doprowadzenia przedmiotu do wymaganego stanu.",
+      "definitionType": "sdc",
+      "aliases": [
+        "działanie korygujące"
+      ]
     },
     {
       "term": "ekstranet",
-      "definition": "Niepubliczna sieć telekomunikacyjną, do której dostęp może być uzyskiwany z punktów dostępu usytuowanych w więcej niż jednej strukturze organizacyjnej lub organizacji"
+      "definition": "Niepubliczna sieć telekomunikacyjną, do której dostęp może być uzyskiwany z punktów dostępu usytuowanych w więcej niż jednej strukturze organizacyjnej lub organizacji",
+      "definitionType": "legal",
+      "references": [
+        {
+          "label": "Ustawa z 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (t.j. Dz.U. 2023 poz. 1440) – art. 4 pkt 2",
+          "url": "https://eli.gov.pl/api/acts/DU/2023/1440/text.html"
+        }
+      ]
     },
     {
-      "term": "element aplikacji mobilnej",
-      "definition": "Tekst, grafika, wykres, mapa, multimedia, animacje, pliki oraz narzędzia do interaktywnego przesyłania danych."
+      "term": "elektroniczne zarządzanie dokumentacją (EZD)",
+      "definition": "System wykonywania czynności kancelaryjnych, dokumentowania przebiegu załatwiania i rozstrzygania spraw oraz gromadzenia i tworzenia dokumentacji w postaci elektronicznej z wykorzystaniem systemu teleinformatycznego.",
+      "definitionType": "legal",
+      "aliases": [
+        "EZD"
+      ],
+      "relatedTerms": [
+        "archiwizacja formalna",
+        "archiwizacja operacyjna",
+        "materiał archiwalny",
+        "zasób archiwalny",
+        "zasób archiwalny dostępny cyfrowo",
+        "migracja danych",
+        "migracja zasobu z zachowaniem dostępności"
+      ],
+      "references": [
+        {
+          "label": "Ustawa z 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach – art. 6 ust. 1a",
+          "url": "https://eli.gov.pl/api/acts/DU/2020/164/text.html"
+        }
+      ]
     },
     {
       "term": "element dekoracyjny",
-      "definition": "Element wizualny, który nie przekazuje ważnej informacji i pełni wyłącznie funkcję estetyczną. Element dekoracyjny nie wymaga opisu znaczeniowego, ale nie powinien zakłócać odbioru treści."
+      "definition": "Element niemający znaczenia informacyjnego ani funkcjonalnego, którego pominięcie nie zmienia informacji lub możliwości działania użytkownika.",
+      "definitionType": "normative",
+      "relatedTerms": [
+        "treść nietekstowa",
+        "alternatywa tekstowa",
+        "tekst alternatywny",
+        "opis rozszerzony",
+        "element graficzny",
+        "obraz tekstu",
+        "treść równoważna"
+      ],
+      "references": [
+        {
+          "label": "W3C WCAG 2.2 – Non-text Content – SC 1.1.1 i słownik",
+          "url": "https://www.w3.org/WAI/WCAG22/Understanding/non-text-content"
+        }
+      ]
     },
     {
-      "term": "element strony internetowej",
-      "definition": "Tekst, grafika, wykres, mapa, multimedia, animacje, pliki oraz narzędzia do interaktywnego przesyłania danych."
+      "term": "element graficzny",
+      "definition": "Nietekstowy element wizualny, np. zdjęcie, grafika, ikona, logo, wykres lub schemat.",
+      "definitionType": "official",
+      "relatedTerms": [
+        "treść nietekstowa",
+        "alternatywa tekstowa",
+        "tekst alternatywny",
+        "opis rozszerzony",
+        "element dekoracyjny",
+        "obraz tekstu",
+        "treść równoważna"
+      ],
+      "references": [
+        {
+          "label": "Ministerstwo Cyfryzacji – Elementy graficzne – elementy graficzne",
+          "url": "https://www.gov.pl/web/dostepnosc-cyfrowa/elementy-graficzne"
+        }
+      ]
     },
     {
-      "term": "emoji",
-      "definition": "Znak graficzny używany w komunikacji cyfrowej. Emoji powinny być stosowane oszczędnie, ponieważ technologie wspomagające odczytują ich nazwy, co może wydłużać i utrudniać odbiór komunikatu."
+      "term": "element strony internetowej lub aplikacji mobilnej",
+      "definition": "Tekst, grafika, wykresy, mapy, multimedia, animacje, pliki oraz narzędzia do interaktywnego przesyłania danych.",
+      "definitionType": "legal",
+      "aliases": [
+        "element strony internetowej",
+        "element aplikacji mobilnej"
+      ],
+      "references": [
+        {
+          "label": "Ustawa z 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (t.j. Dz.U. 2023 poz. 1440) – art. 4 pkt 3",
+          "url": "https://eli.gov.pl/api/acts/DU/2023/1440/text.html"
+        }
+      ]
     },
     {
-      "term": "ERG",
-      "abbreviation": "Employee Resource Group",
-      "definition": "Grupa Zasobów Pracowniczych. Dobrowolny zespół pracowników wewnątrz firmy, którzy łączą się na podstawie wspólnych cech, doświadczeń lub celów. Grupy te wspierają kulturę różnorodności i pomagają w rozwoju organizacji."
+      "term": "EN 301 549",
+      "definition": "Europejska norma określająca wymagania dostępności dla produktów i usług technologii informacyjno-komunikacyjnych oraz powiązane procedury testowe i metody oceny.",
+      "definitionType": "normative",
+      "aliases": [
+        "ETSI EN 301 549"
+      ],
+      "relatedTerms": [
+        "wymaganie dostępności",
+        "produkt cyfrowy",
+        "odbiór rozwiązania cyfrowego",
+        "odbiór warunkowy",
+        "warunki odbioru"
+      ],
+      "references": [
+        {
+          "label": "ETSI EN 301 549 V4.1.1 (2026-09) – V4.1.1 (2026-09), klauzula 1 Scope",
+          "url": "https://www.etsi.org/technical-groups/hf/"
+        }
+      ]
     },
     {
-      "term": "ETR",
-      "abbreviation": "tekst łatwy do czytania",
-      "definition": "Oznaczenie tekstu do łatwego do czytania i zrozumienia przeznaczonego dla osób z niepełnosprawnością intelektualną, potrafiących czytać. Skrót od angielskich słów easy-to-read. "
-    },
-    {
-      "term": "EZD",
-      "abbreviation": "System elektronicznego zarządzania dokumentacją",
-      "definition": "System elektronicznego zarządzania dokumentacją wykorzystywany do prowadzenia spraw, dokumentacji i obiegu dokumentów w podmiocie."
+      "term": "Europejski akt o dostępności (EAA)",
+      "definition": "Dyrektywa Parlamentu Europejskiego i Rady (UE) 2019/882 z dnia 17 kwietnia 2019 r. w sprawie wymogów dostępności produktów i usług.",
+      "definitionType": "legal",
+      "aliases": [
+        "EAA",
+        "European Accessibility Act"
+      ],
+      "references": [
+        {
+          "label": "Dyrektywa Parlamentu Europejskiego i Rady (UE) 2019/882 – art. 1 oraz tytuł dyrektywy",
+          "url": "https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:32019L0882"
+        }
+      ]
     },
     {
       "term": "fokus klawiatury",
-      "definition": "Zaznaczenie - skupienie uwagi systemu na wybranym elemencie na stronie internetowej lub aplikacji za pomocą klawisza tabulacji TAB lub w przypadku aplikacji mobilnej za pomocą dotyku, odwzorowane za pomocą wskaźnika wizualnego np. w postaci ramki wokół elementu."
+      "definition": "Zaznaczenie - skupienie uwagi systemu na wybranym elemencie na stronie internetowej lub aplikacji za pomocą klawisza tabulacji TAB lub w przypadku aplikacji mobilnej za pomocą dotyku, odwzorowane za pomocą wskaźnika wizualnego np. w postaci ramki wokół elementu.",
+      "definitionType": "normative",
+      "references": [
+        {
+          "label": "W3C Web Content Accessibility Guidelines (WCAG) 2.2 – SC 2.4.7 i słownik",
+          "url": "https://www.w3.org/TR/WCAG22/"
+        }
+      ]
     },
     {
       "term": "funkcjonalność",
       "definition": "Właściwość strony internetowej lub aplikacji mobilnej umożliwiającą użytkownikowi skorzystanie ze wszystkich oferowanych przez nie funkcji",
-      "relatedTerms": [ "dostępność cyfrowa", "WCAG", "zasady dostępności" ]
+      "definitionType": "legal",
+      "references": [
+        {
+          "label": "Ustawa z 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (t.j. Dz.U. 2023 poz. 1440) – art. 4 pkt 4",
+          "url": "https://eli.gov.pl/api/acts/DU/2023/1440/text.html"
+        }
+      ]
     },
     {
-      "term": "grafika informacyjna",
-      "definition": "Materiał wizualny przekazujący dane, zależności, instrukcje, wyniki, procesy albo inne informacje. Grafika informacyjna wymaga alternatywy tekstowej, a w przypadku złożonej treści także opisu rozszerzonego."
-
-    },
-    {
-      "term": "Grupa Zasobów Pracowniczych",
-      "definition": "Dobrowolny zespół pracowników wewnątrz firmy, którzy łączą się na podstawie wspólnych cech, doświadczeń lub celów. Grupy te wspierają kulturę różnorodności i pomagają w rozwoju organizacji. Ang. _Employee Resource Group_ (ERG)."
-    },
-    {
-      "term": "hashtag",
-      "definition": "Słowo lub wyrażenie poprzedzone znakiem `#`, używane do oznaczania tematu publikacji. Hashtagi wielowyrazowe warto zapisywać wielką literą na początku każdego wyrazu, na przykład `#DostępnośćCyfrowa`, aby ułatwić ich odczyt."
-    },
-
-    {
-      "term": "identyfikacja mówcy",
-      "definition": "Wskazanie, kto wypowiada daną treść. Jest ważna w napisach i transkrypcjach, szczególnie gdy w materiale występuje więcej niż jedna osoba."
-    },
-
-    {
-      "term": "infografika",
-      "definition": "Grafika, która łączy tekst, dane, symbole i układ wizualny w celu wyjaśnienia tematu. Infografika powinna mieć treść równoważną, ponieważ sama warstwa wizualna często nie jest dostępna dla wszystkich odbiorców."
-    },
-    {
-      "term": "informacja istotna wizualnie",
-      "definition": "Informacja przekazana obrazem, planszą, gestem, ruchem, wykresem, napisem w kadrze albo innym elementem wizualnym, która jest potrzebna do zrozumienia materiału. Taka informacja powinna mieć odpowiednik dostępny bez wzroku."
-    },
-    {
-      "term": "informacja istotna dźwiękowo",
-      "definition": "Informacja przekazana wyłącznie dźwiękiem, na przykład wypowiedź, sygnał, komunikat głosowy, efekt dźwiękowy albo muzyka mająca znaczenie dla treści. Taka informacja powinna mieć odpowiednik tekstowy lub wizualny."
-    },
-    {
-      "term": "informacja przekazywana kolorem",
-      "definition": "Informacja, której znaczenie wynika wyłącznie z koloru. Nie należy polegać tylko na kolorze; trzeba dodać tekst, symbol, etykietę, wzór albo inne rozróżnienie."
-    },
-    {
-      "term": "istotny efekt dźwiękowy",
-      "definition": "Dźwięk inny niż mowa, który ma znaczenie dla zrozumienia materiału. Może to być sygnał ostrzegawczy, dźwięk zdarzenia, reakcja publiczności albo muzyka pełniąca funkcję informacyjną."
+      "term": "informacja krytyczna czasowo",
+      "definition": "Informacja, której użyteczność lub znaczenie dla bezpieczeństwa, praw albo działań odbiorcy istotnie zależą od czasu jej przekazania.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "dostępność komunikacji",
+        "komunikacja publiczna w kanałach cyfrowych",
+        "komunikacja pilna",
+        "komunikacja kryzysowa",
+        "prosty język",
+        "tekst łatwy do czytania i zrozumienia (ETR)"
+      ]
     },
     {
       "term": "intranet",
-      "definition": "Niepubliczna sieć telekomunikacyjna, do której dostęp może być uzyskiwany z punktów dostępu usytuowanych w jednej strukturze organizacyjnej lub organizacji"
+      "definition": "Niepubliczna sieć telekomunikacyjna, do której dostęp może być uzyskiwany z punktów dostępu usytuowanych w jednej strukturze organizacyjnej lub organizacji",
+      "definitionType": "legal",
+      "references": [
+        {
+          "label": "Ustawa z 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (t.j. Dz.U. 2023 poz. 1440) – art. 4 pkt 5",
+          "url": "https://eli.gov.pl/api/acts/DU/2023/1440/text.html"
+        }
+      ]
     },
     {
-      "term": "jakość dźwięku",
-      "definition": "Cecha nagrania wpływająca na zrozumiałość wypowiedzi. Dobra jakość dźwięku oznacza między innymi wyraźną mowę, odpowiednią głośność, ograniczony szum tła i brak zakłóceń utrudniających odbiór."
-    },
-    {
-      "term": "JRWA",
-      "abbreviation": "Jednolity rzeczowy wykaz akt",
-      "definition": "Jednolity rzeczowy wykaz akt stosowany do klasyfikowania i kwalifikowania dokumentacji zgodnie z właściwymi przepisami."
+      "term": "jednolity rzeczowy wykaz akt (JRWA)",
+      "definition": "Wykaz haseł rzeczowych akt oznaczonych symbolami klasyfikacyjnymi oraz kwalifikacją archiwalną, służący klasyfikowaniu, oznaczaniu, rejestrowaniu i grupowaniu dokumentacji.",
+      "definitionType": "legal",
+      "aliases": [
+        "JRWA"
+      ],
+      "relatedTerms": [
+        "archiwizacja formalna",
+        "archiwizacja operacyjna",
+        "materiał archiwalny",
+        "zasób archiwalny",
+        "zasób archiwalny dostępny cyfrowo",
+        "migracja danych",
+        "migracja zasobu z zachowaniem dostępności"
+      ],
+      "references": [
+        {
+          "label": "Rozporządzenie Prezesa Rady Ministrów z 18 stycznia 2011 r. w sprawie instrukcji kancelaryjnej, jednolitych rzeczowych wykazów akt oraz instrukcji w sprawie organizacji i zakresu działania archiwów zakładowych – załączniki nr 2–5; zasady klasyfikacji w instrukcji kancelaryjnej",
+          "url": "https://eli.gov.pl/api/acts/DU/2011/67/text/I/D20110067.pdf"
+        }
+      ]
     },
     {
       "term": "kanał publikacji",
-      "definition": "Miejsce lub narzędzie, przez które materiał jest udostępniany odbiorcom. Kanałem publikacji może być strona WWW, BIP, YouTube, Facebook, LinkedIn, Instagram, platforma webinarowa, system mailingowy albo aplikacja mobilna."
+      "definition": "Środowisko lub sposób cyfrowego udostępniania treści określonym odbiorcom.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "publikacja",
+        "kontrola przed publikacją",
+        "decyzja publikacyjna",
+        "publikacja warunkowa",
+        "kwalifikacja materiału",
+        "ponowna kwalifikacja",
+        "odmowa publikacji"
+      ]
     },
     {
-      "term": "karuzela",
-      "definition": "Publikacja składająca się z kilku grafik lub slajdów przeglądanych kolejno przez użytkownika. Karuzela powinna mieć opis tekstowy obejmujący najważniejsze informacje ze wszystkich slajdów."
-    },
-    {
-      "term": "kierownictwo",
+      "term": "kierownictwo organizacji",
       "definition": "Osoba albo organ odpowiedzialny za zatwierdzenie zasad postępowania, zapewnienie warunków organizacyjnych oraz rozstrzyganie przypadków wymagających decyzji zarządczej.",
-      "relatedTerms": [ "rola", "odpowiedzialność", "zapewnianie dostępności" ]
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "rola",
+        "odpowiedzialność",
+        "koordynator do spraw dostępności",
+        "właściciel procesu",
+        "właściciel merytoryczny",
+        "właściciel rozwiązania cyfrowego",
+        "autor treści"
+      ]
     },
     {
       "term": "kompatybilność",
       "definition": "Właściwość strony internetowej lub aplikacji mobilnej umożliwiającą tej stronie lub aplikacji współpracę z możliwie największą liczbą programów, w tym z narzędziami i programami wspomagającymi osoby niepełnosprawne",
-      "relatedTerms": [ "dostępność cyfrowa", "WCAG", "zasady dostępności" ]
+      "definitionType": "legal",
+      "references": [
+        {
+          "label": "Ustawa z 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (t.j. Dz.U. 2023 poz. 1440) – art. 4 pkt 6",
+          "url": "https://eli.gov.pl/api/acts/DU/2023/1440/text.html"
+        }
+      ]
     },
     {
-      "term": "komunikat kluczowy",
-      "definition": "Najważniejsza informacja, którą odbiorca powinien zrozumieć po zapoznaniu się z materiałem. Komunikat kluczowy powinien być dostępny bez konieczności odtwarzania całego nagrania lub analizowania złożonej grafiki."
+      "term": "komunikacja kryzysowa",
+      "definition": "Komunikacja prowadzona w związku z sytuacją kryzysową, obejmująca przekazywanie odbiorcom informacji, ostrzeżeń, zaleceń lub instrukcji istotnych dla bezpieczeństwa i właściwego działania.",
+      "definitionType": "official",
+      "relatedTerms": [
+        "dostępność komunikacji",
+        "komunikacja publiczna w kanałach cyfrowych",
+        "komunikacja pilna",
+        "informacja krytyczna czasowo",
+        "prosty język",
+        "tekst łatwy do czytania i zrozumienia (ETR)"
+      ],
+      "references": [
+        {
+          "label": "Rządowe Centrum Bezpieczeństwa – sygnały alarmowe i komunikaty ostrzegawcze – komunikaty ostrzegawcze i alarmowanie",
+          "url": "https://www.gov.pl/web/rcb/sygnaly-alarmowe3"
+        }
+      ]
+    },
+    {
+      "term": "komunikacja pilna",
+      "definition": "Komunikacja wymagająca przekazania informacji szybciej niż w zwykłym procesie publikacji ze względu na znaczenie informacji, jej aktualność albo potrzebę szybkiego działania odbiorcy.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "dostępność komunikacji",
+        "komunikacja publiczna w kanałach cyfrowych",
+        "komunikacja kryzysowa",
+        "informacja krytyczna czasowo",
+        "prosty język",
+        "tekst łatwy do czytania i zrozumienia (ETR)"
+      ]
     },
     {
       "term": "komunikacja publiczna w kanałach cyfrowych",
-      "definition": "Komunikacja kierowana do szerokiego grona odbiorców, zwykle przez stronę internetową, Biuletyn Informacji Publicznej, media społecznościowe, newsletter, platformę wideo, transmisję, kampanię informacyjną albo inny publiczny kanał cyfrowy."
+      "definition": "Komunikacja kierowana do szerokiego grona odbiorców, zwykle przez stronę internetową, Biuletyn Informacji Publicznej, media społecznościowe, newsletter, platformę wideo, transmisję, kampanię informacyjną albo inny publiczny kanał cyfrowy.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "dostępność komunikacji",
+        "komunikacja pilna",
+        "komunikacja kryzysowa",
+        "informacja krytyczna czasowo",
+        "prosty język",
+        "tekst łatwy do czytania i zrozumienia (ETR)"
+      ]
     },
     {
       "term": "kontrast",
-      "definition": "Różnica jasności między tekstem lub elementem graficznym a tłem. Odpowiedni kontrast ułatwia odczyt osobom słabowidzącym, użytkownikom urządzeń mobilnych i osobom korzystającym z treści w trudnych warunkach oświetleniowych."
+      "definition": "Różnica jasności między tekstem lub elementem graficznym a tłem. Odpowiedni kontrast ułatwia odczyt osobom słabowidzącym, użytkownikom urządzeń mobilnych i osobom korzystającym z treści w trudnych warunkach oświetleniowych.",
+      "definitionType": "normative",
+      "references": [
+        {
+          "label": "W3C Web Content Accessibility Guidelines (WCAG) 2.2 – SC 1.4.3 i 1.4.11",
+          "url": "https://www.w3.org/TR/WCAG22/"
+        }
+      ]
     },
     {
-      "term": "koordynator dostępności",
-      "definition": "Osoba albo rola wspierająca ocenę dostępności, analizę przypadków problemowych, przygotowanie rozwiązań alternatywnych oraz obsługę zgłoszeń dotyczących dostępności.",
-      "relatedTerms": [ "rola", "odpowiedzialność", "zapewnianie dostępności" ]
+      "term": "kontrola przed publikacją",
+      "definition": "Sprawdzenie materiału bezpośrednio przed udostępnieniem, służące ustaleniu, czy spełnia wymagania procesu publikacji i jaki powinien być dalszy sposób postępowania.",
+      "definitionType": "sdc",
+      "aliases": [
+        "weryfikacja przed publikacją"
+      ],
+      "relatedTerms": [
+        "publikacja",
+        "kanał publikacji",
+        "decyzja publikacyjna",
+        "publikacja warunkowa",
+        "kwalifikacja materiału",
+        "ponowna kwalifikacja",
+        "odmowa publikacji"
+      ]
     },
     {
-      "term": "klient",
-      "definition": "Zewnętrzny lub wewnętrzny użytkownik produktu lub usługi danej organizacji, w tym między innymi studenci, członkowie społeczeństwa, pracownicy i kontrahenci. Ang. _customer_.",
-      "relatedTerms": [ "nabywca" ]
+      "term": "koordynator do spraw dostępności",
+      "definition": "Osoba wyznaczona do pełnienia funkcji koordynatora do spraw dostępności, której zadania obejmują w szczególności wsparcie osób ze szczególnymi potrzebami, przygotowanie i koordynację wdrożenia planu działania oraz monitorowanie zapewniania dostępności.",
+      "definitionType": "legal",
+      "aliases": [
+        "koordynator dostępności",
+        "koordynator ds. dostępności"
+      ],
+      "relatedTerms": [
+        "rola",
+        "odpowiedzialność",
+        "kierownictwo organizacji",
+        "właściciel procesu",
+        "właściciel merytoryczny",
+        "właściciel rozwiązania cyfrowego",
+        "autor treści"
+      ],
+      "references": [
+        {
+          "label": "Ustawa z 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (t.j. Dz.U. 2024 poz. 1411) – art. 14",
+          "url": "https://eli.gov.pl/api/acts/DU/2024/1411/text.html"
+        }
+      ]
+    },
+    {
+      "term": "kwalifikacja archiwalna",
+      "definition": "Ustalenie kategorii archiwalnej dokumentacji zgodnie z właściwymi przepisami i JRWA lub innym kwalifikatorem.",
+      "definitionType": "legal",
+      "relatedTerms": [
+        "archiwizacja formalna",
+        "archiwizacja operacyjna",
+        "materiał archiwalny",
+        "zasób archiwalny",
+        "zasób archiwalny dostępny cyfrowo",
+        "migracja danych",
+        "migracja zasobu z zachowaniem dostępności"
+      ],
+      "references": [
+        {
+          "label": "Rozporządzenie Prezesa Rady Ministrów z 18 stycznia 2011 r. w sprawie instrukcji kancelaryjnej, JRWA oraz instrukcji archiwalnej – § 1 ust. 1 pkt 2",
+          "url": "https://eli.gov.pl/api/acts/DU/2011/67/text/I/D20110067.pdf"
+        }
+      ]
     },
     {
       "term": "kwalifikacja materiału",
-      "definition": "Ocena materiału przed publikacją obejmująca między innymi pochodzenie materiału, możliwość jego modyfikacji, obowiązek publikacji oraz możliwość zapewnienia dostępu do informacji.",
-      "relatedTerms": [ "dostępność cyfrowa", "publikacja", "decyzja publikacyjna" ]
+      "definition": "Ocena materiału służąca ustaleniu wymagań, zasad i sposobu dalszego postępowania przed publikacją.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "publikacja",
+        "kanał publikacji",
+        "kontrola przed publikacją",
+        "decyzja publikacyjna",
+        "publikacja warunkowa",
+        "ponowna kwalifikacja",
+        "odmowa publikacji"
+      ]
     },
-
     {
-      "term": "lista kontrolna",
-      "definition": "Zestaw pytań lub kryteriów używany przed publikacją materiału. Lista kontrolna pomaga potwierdzić, czy materiał spełnia minimalne wymagania dostępności."
+      "term": "materiał archiwalny",
+      "definition": "Dokumentacja, bez względu na sposób jej wytworzenia i postać, mająca znaczenie jako źródło informacji o wartości historycznej dotyczącej działalności państwa, organów i jednostek publicznych, życia społecznego i gospodarczego, nauki, kultury, sztuki oraz innych dziedzin wskazanych w ustawie, wchodząca do narodowego zasobu archiwalnego.",
+      "definitionType": "legal",
+      "relatedTerms": [
+        "archiwizacja formalna",
+        "archiwizacja operacyjna",
+        "zasób archiwalny",
+        "zasób archiwalny dostępny cyfrowo",
+        "migracja danych",
+        "migracja zasobu z zachowaniem dostępności",
+        "elektroniczne zarządzanie dokumentacją (EZD)"
+      ],
+      "references": [
+        {
+          "label": "Ustawa o narodowym zasobie archiwalnym i archiwach – art. 1",
+          "url": "https://eli.gov.pl/api/acts/DU/2020/164/text.html"
+        }
+      ]
     },
     {
       "term": "materiał audio",
-      "definition": "Nagranie dźwiękowe publikowane jako samodzielna treść, na przykład podcast, komunikat głosowy, wywiad, zapis debaty albo nagranie instruktażowe."
+      "definition": "Nagranie dźwiękowe publikowane jako samodzielna treść, na przykład podcast, komunikat głosowy, wywiad, zapis debaty albo nagranie instruktażowe.",
+      "definitionType": "normative",
+      "relatedTerms": [
+        "multimedia",
+        "materiał wideo",
+        "media zsynchronizowane",
+        "napisy rozszerzone",
+        "napisy zamknięte",
+        "napisy otwarte",
+        "napisy na żywo"
+      ],
+      "references": [
+        {
+          "label": "W3C Web Content Accessibility Guidelines (WCAG) 2.2 – słownik i SC 1.2.x",
+          "url": "https://www.w3.org/TR/WCAG22/"
+        }
+      ]
     },
     {
       "term": "materiał dowodowy",
-      "definition": "Informacja lub artefakt potwierdzający prawdziwość obserwacji albo ocen. Materiałami dowodowymi mogą być między innymi wyniki testów, zrzuty ekranu, nagrania, dokumenty, logi systemowe lub inne wiarygodne źródła informacji."
-    },
-    {
-      "term": "materiał multimedialny",
-      "definition": "Treść, która wykorzystuje więcej niż jedną formę przekazu, na przykład obraz, dźwięk, tekst, animację, grafikę, prezentację lub nagranie. Materiałem multimedialnym może być film, nagranie audio, transmisja, animacja, infografika albo post z grafiką."
-    },
-    {
-      "term": "materiał niedostępny",
-      "definition": "Materiał, który nie spełnia wymagań dostępności cyfrowej albo którego użytkownik nie może skutecznie wykorzystać przy użyciu technologii wspomagających lub alternatywnych sposobów odbioru.",
-      "relatedTerms": [ "dostępność cyfrowa", "publikacja", "decyzja publikacyjna" ]
+      "definition": "Informacja, zapis, wynik badania, dokument lub inny możliwy do zweryfikowania materiał wykorzystywany jako podstawa ustalenia stanu albo podjęcia decyzji.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "badanie dostępności cyfrowej",
+        "test dostępności",
+        "procedura testowa",
+        "ocena",
+        "ocena dostępności",
+        "ocena zgodności",
+        "audyt dostępności cyfrowej"
+      ]
     },
     {
       "term": "materiał pochodzący od innego podmiotu",
-      "definition": "Materiał przekazany do publikacji przez podmiot inny niż podmiot publiczny prowadzący serwis internetowy, aplikację mobilną albo Biuletyn Informacji Publicznej.",
-      "relatedTerms": [ "dostępność cyfrowa", "publikacja", "decyzja publikacyjna" ]
+      "definition": "Materiał przygotowany poza organizacją publikującą i przekazany jej w celu udostępnienia albo wykorzystania w publikacji.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "publikacja",
+        "kanał publikacji",
+        "kontrola przed publikacją",
+        "decyzja publikacyjna",
+        "publikacja warunkowa",
+        "kwalifikacja materiału",
+        "ponowna kwalifikacja"
+      ]
+    },
+    {
+      "term": "materiał wideo",
+      "definition": "Treść cyfrowa, w której podstawowym sposobem przekazywania informacji jest ruchomy lub sekwencyjny obraz, z dźwiękiem albo bez niego.",
+      "definitionType": "normative",
+      "relatedTerms": [
+        "multimedia",
+        "materiał audio",
+        "media zsynchronizowane",
+        "napisy rozszerzone",
+        "napisy zamknięte",
+        "napisy otwarte",
+        "napisy na żywo"
+      ],
+      "references": [
+        {
+          "label": "W3C Web Content Accessibility Guidelines (WCAG) 2.2 – słownik i SC 1.2.x",
+          "url": "https://www.w3.org/TR/WCAG22/"
+        }
+      ]
     },
     {
       "term": "materiał źródłowy",
-      "definition": "Pierwotna postać materiału przekazana do publikacji, na przykład dokument, skan, nagranie, grafika, prezentacja albo formularz.",
-      "relatedTerms": [ "dostępność cyfrowa", "publikacja", "decyzja publikacyjna" ]
+      "definition": "Materiał otrzymany lub przygotowany przed jego redakcyjnym, technicznym lub dostępnościowym opracowaniem do publikacji.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "publikacja",
+        "kanał publikacji",
+        "kontrola przed publikacją",
+        "decyzja publikacyjna",
+        "publikacja warunkowa",
+        "kwalifikacja materiału",
+        "ponowna kwalifikacja"
+      ]
+    },
+    {
+      "term": "media zsynchronizowane",
+      "definition": "Dźwięk lub wideo zsynchronizowane z innym formatem prezentowania informacji lub z interaktywnymi komponentami zależnymi od czasu, z wyjątkiem wyraźnie oznaczonej alternatywy medialnej dla tekstu.",
+      "definitionType": "normative",
+      "relatedTerms": [
+        "multimedia",
+        "materiał audio",
+        "materiał wideo",
+        "napisy rozszerzone",
+        "napisy zamknięte",
+        "napisy otwarte",
+        "napisy na żywo"
+      ],
+      "references": [
+        {
+          "label": "W3C Web Content Accessibility Guidelines (WCAG) 2.2 – słownik i SC 1.2.x",
+          "url": "https://www.w3.org/TR/WCAG22/"
+        }
+      ]
     },
     {
       "term": "metadane",
-      "definition": "Informacje opisujące zasób, w szczególności jego tytuł, właściciela, daty, wersję, lokalizację, status, podstawę publikacji, relacje z innymi zasobami i sposób dalszego postępowania."
+      "definition": "Dane opisujące zasób, dokument lub sprawę, umożliwiające identyfikację, klasyfikację, wyszukiwanie, przetwarzanie lub zarządzanie nimi.",
+      "definitionType": "legal",
+      "relatedTerms": [
+        "archiwizacja formalna",
+        "archiwizacja operacyjna",
+        "materiał archiwalny",
+        "zasób archiwalny",
+        "zasób archiwalny dostępny cyfrowo",
+        "migracja danych",
+        "migracja zasobu z zachowaniem dostępności"
+      ],
+      "references": [
+        {
+          "label": "Rozporządzenie Prezesa Rady Ministrów z 18 stycznia 2011 r. w sprawie instrukcji kancelaryjnej, JRWA oraz instrukcji archiwalnej – § 2 pkt 5",
+          "url": "https://eli.gov.pl/api/acts/DU/2011/67/text/I/D20110067.pdf"
+        }
+      ]
     },
     {
       "term": "miganie",
-      "definition": "Szybka zmiana jasności, koloru lub obrazu, która może powodować dyskomfort, utrudniać odbiór albo stwarzać ryzyko dla osób wrażliwych na bodźce świetlne. Materiały nie powinny zawierać elementów migających częściej niż trzy razy na sekundę."
+      "definition": "Szybka zmiana jasności, koloru lub obrazu, która może powodować dyskomfort, utrudniać odbiór albo stwarzać ryzyko dla osób wrażliwych na bodźce świetlne. Materiały nie powinny zawierać elementów migających częściej niż trzy razy na sekundę.",
+      "definitionType": "normative",
+      "references": [
+        {
+          "label": "W3C Web Content Accessibility Guidelines (WCAG) 2.2 – SC 2.3.1",
+          "url": "https://www.w3.org/TR/WCAG22/"
+        }
+      ]
     },
     {
       "term": "migracja danych",
-      "definition": "Przeniesienie danych lub zasobów do innego systemu, formatu, repozytorium albo środowiska z zachowaniem czytelności, metadanych, kontekstu i możliwości dalszego wykorzystania."
+      "definition": "Przeniesienie danych lub zasobów do innego systemu, formatu, repozytorium albo środowiska z zachowaniem czytelności, metadanych, kontekstu i możliwości dalszego wykorzystania.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "archiwizacja formalna",
+        "archiwizacja operacyjna",
+        "materiał archiwalny",
+        "zasób archiwalny",
+        "zasób archiwalny dostępny cyfrowo",
+        "migracja zasobu z zachowaniem dostępności",
+        "elektroniczne zarządzanie dokumentacją (EZD)"
+      ]
     },
     {
       "term": "migracja zasobu z zachowaniem dostępności",
-      "definition": "Przeniesienie zasobu do innego systemu, formatu albo repozytorium z zachowaniem elementów istotnych dla dostępności cyfrowej. Dotyczy to w szczególności struktury treści, metadanych, tekstów alternatywnych, napisów, transkrypcji, audiodeskrypcji i relacji między dokumentami."
-    },
-
-    {
-      "term": "miniatura",
-      "definition": "Obraz zapowiadający film, nagranie, transmisję lub link. Miniatura nie powinna być jedynym miejscem przekazania istotnej informacji o materiale."
-    },
-
-    {
-      "term": "minimalny standard publikowania",
-      "definition": "Zestaw podstawowych zasad organizacyjnych i działań stosowanych przy publikowaniu materiałów pochodzących od innych podmiotów.",
-      "relatedTerms": [ "dostępność cyfrowa", "publikacja", "decyzja publikacyjna" ]
-    },
-    {
-      "term": "multimedia",
-      "definition": "Dźwięk, wideo, prezentowane również w sposób interaktywny, lub połączenie tych form przekazu"
+      "definition": "Migracja przeprowadzona tak, aby nie powodowała utraty potrzebnych właściwości dostępności albo aby zostały one odtworzone w środowisku docelowym.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "archiwizacja formalna",
+        "archiwizacja operacyjna",
+        "materiał archiwalny",
+        "zasób archiwalny",
+        "zasób archiwalny dostępny cyfrowo",
+        "migracja danych",
+        "elektroniczne zarządzanie dokumentacją (EZD)"
+      ]
     },
     {
       "term": "monitoring dostępności",
-      "definition": "Systematyczne sprawdzanie, czy publikowane materiały spełniają przyjęte wymagania dostępności. Monitoring może obejmować przeglądy próbek publikacji, analizę zgłoszeń odbiorców i okresową ocenę procesu."
+      "definition": "Systematyczne zbieranie i analizowanie informacji o stanie dostępności oraz skuteczności działań służących jej zapewnianiu, prowadzone w organizacji na potrzeby zarządzania i doskonalenia.",
+      "definitionType": "sdc"
     },
     {
-      "term": "nabywca",
-      "definition": "Osoba (fizyczna lub prawna), która nabywa (kupuje) dobra materialne lub usługi od sprzedawcy. Obejmuje nie tylko osobę podpisującą umowę, ale także decydentów, osoby wpływowe, właścicieli produktów i inne osoby bezpośrednio odpowiedzialne za wprowadzanie technologii do organizacji. Często używane zamiennie z „kupujący”.",
-      "relatedTerms": [ "klient" ]
+      "term": "multimedia",
+      "definition": "Dźwięk, wideo, prezentowane również w sposób interaktywny, lub połączenie tych form przekazu.",
+      "definitionType": "legal",
+      "aliases": [
+        "materiał multimedialny"
+      ],
+      "relatedTerms": [
+        "materiał audio",
+        "materiał wideo",
+        "media zsynchronizowane",
+        "napisy rozszerzone",
+        "napisy zamknięte",
+        "napisy otwarte",
+        "napisy na żywo"
+      ],
+      "references": [
+        {
+          "label": "Ustawa z 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (t.j. Dz.U. 2023 poz. 1440) – art. 4 pkt 7",
+          "url": "https://eli.gov.pl/api/acts/DU/2023/1440/text.html"
+        }
+      ]
     },
-
     {
       "term": "napisy automatyczne",
-      "definition": "Napisy wygenerowane przez system rozpoznawania mowy. Mogą być materiałem roboczym, ale przed publikacją wymagają sprawdzenia i korekty, ponieważ często zawierają błędy merytoryczne, językowe lub interpunkcyjne.",
-      "relatedTerms": [ "napisy na żywo", "napisy rozszerzone", "napisy zamknięte" ]
+      "definition": "Napisy generowane automatycznie przez system rozpoznawania mowy; samo ich wygenerowanie nie oznacza spełnienia wymagań jakościowych.",
+      "definitionType": "official",
+      "relatedTerms": [
+        "multimedia",
+        "materiał audio",
+        "materiał wideo",
+        "media zsynchronizowane",
+        "napisy rozszerzone",
+        "napisy zamknięte",
+        "napisy otwarte"
+      ],
+      "references": [
+        {
+          "label": "Ministerstwo Cyfryzacji – Multimedia – sekcje dotyczące dostępności multimediów",
+          "url": "https://www.gov.pl/web/dostepnosc-cyfrowa/multimedia"
+        }
+      ]
     },
     {
       "term": "napisy na żywo",
-      "definition": "Napisy tworzone w czasie trwania transmisji lub wydarzenia online. Stosuje się je wtedy, gdy materiał jest nadawany na żywo i odbiorcy potrzebują dostępu do treści dźwiękowej w czasie rzeczywistym.",
-      "relatedTerms": [ "napisy rozszerzone", "napisy zamknięte", "napisy automatyczne" ]
+      "definition": "Napisy tworzone i prezentowane w czasie rzeczywistym podczas transmisji lub wydarzenia na żywo.",
+      "definitionType": "normative",
+      "relatedTerms": [
+        "multimedia",
+        "materiał audio",
+        "materiał wideo",
+        "media zsynchronizowane",
+        "napisy rozszerzone",
+        "napisy zamknięte",
+        "napisy otwarte"
+      ],
+      "references": [
+        {
+          "label": "W3C Web Content Accessibility Guidelines (WCAG) 2.2 – SC 1.2.4",
+          "url": "https://www.w3.org/TR/WCAG22/"
+        }
+      ]
     },
     {
       "term": "napisy otwarte",
-      "definition": "Napisy osadzone na stałe w obrazie. Nie można ich wyłączyć ani dostosować w odtwarzaczu, dlatego wymagają szczególnej dbałości o kontrast, wielkość i położenie.",
-      "relatedTerms": [ "napisy rozszerzone", "napisy zamknięte", "napisy na żywo", "napisy automatyczne" ]
+      "definition": "Napisy trwale widoczne, których użytkownik nie może wyłączyć.",
+      "definitionType": "normative",
+      "relatedTerms": [
+        "multimedia",
+        "materiał audio",
+        "materiał wideo",
+        "media zsynchronizowane",
+        "napisy rozszerzone",
+        "napisy zamknięte",
+        "napisy na żywo"
+      ],
+      "references": [
+        {
+          "label": "W3C Web Content Accessibility Guidelines (WCAG) 2.2 – SC 1.2.2 i słownik",
+          "url": "https://www.w3.org/TR/WCAG22/"
+        }
+      ]
     },
     {
       "term": "napisy rozszerzone",
-      "definition": "Tekstowa wersja ścieżki dźwiękowej materiału wideo lub transmisji. Napisy powinny obejmować wypowiedzi, ważne dźwięki, identyfikację mówców, a w razie potrzeby także informacje o muzyce lub efektach dźwiękowych.",
-      "relatedTerms": [ "napisy zamknięte", "napisy otwarte", "napisy na żywo", "napisy automatyczne" ]
+      "definition": "Zsynchronizowana tekstowa prezentacja mowy oraz istotnych informacji dźwiękowych potrzebnych do zrozumienia materiału.",
+      "definitionType": "normative",
+      "relatedTerms": [
+        "multimedia",
+        "materiał audio",
+        "materiał wideo",
+        "media zsynchronizowane",
+        "napisy zamknięte",
+        "napisy otwarte",
+        "napisy na żywo"
+      ],
+      "references": [
+        {
+          "label": "W3C Web Content Accessibility Guidelines (WCAG) 2.2 – SC 1.2.2 i słownik",
+          "url": "https://www.w3.org/TR/WCAG22/"
+        }
+      ]
     },
     {
       "term": "napisy zamknięte",
-      "definition": "Napisy, które użytkownik może włączyć lub wyłączyć w odtwarzaczu. Są preferowane, gdy platforma umożliwia ich poprawne dodanie i obsługę.",
-      "relatedTerms": [ "napisy rozszerzone", "napisy na żywo", "napisy otwarte", "napisy automatyczne" ]
+      "definition": "Napisy rozszerzone, które użytkownik może włączyć lub wyłączyć.",
+      "definitionType": "normative",
+      "relatedTerms": [
+        "multimedia",
+        "materiał audio",
+        "materiał wideo",
+        "media zsynchronizowane",
+        "napisy rozszerzone",
+        "napisy otwarte",
+        "napisy na żywo"
+      ],
+      "references": [
+        {
+          "label": "W3C Web Content Accessibility Guidelines (WCAG) 2.2 – SC 1.2.2 i słownik",
+          "url": "https://www.w3.org/TR/WCAG22/"
+        }
+      ]
     },
     {
       "term": "nawigacja",
-      "definition": "Zespół funkcji obejmujących menu oraz linki do elementów strony internetowej lub aplikacji mobilnej, takich jak nagłówki, listy lub tabele, pozwalających użytkownikowi na przemieszczanie się między elementami strony internetowej lub aplikacji mobilnej"
+      "definition": "Zespół funkcji obejmujących menu oraz linki do elementów strony internetowej lub aplikacji mobilnej, takich jak nagłówki, listy lub tabele, pozwalających użytkownikowi na przemieszczanie się między elementami strony internetowej lub aplikacji mobilnej",
+      "definitionType": "legal",
+      "references": [
+        {
+          "label": "Ustawa z 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (t.j. Dz.U. 2023 poz. 1440) – art. 4 pkt 8",
+          "url": "https://eli.gov.pl/api/acts/DU/2023/1440/text.html"
+        }
+      ]
     },
     {
-      "term": "obowiązek publikacji",
-      "definition": "Okoliczność wskazująca, że publikacja materiału wynika z przepisów prawa, obowiązków informacyjnych albo innych wiążących podstaw.",
-      "relatedTerms": [ "dostępność cyfrowa", "publikacja", "decyzja publikacyjna" ]
+      "term": "nieproporcjonalne obciążenie",
+      "definition": "Obciążenie związane ze spełnieniem określonego wymagania dostępności, które na podstawie oceny uwzględniającej w szczególności relację kosztów do kosztów działalności, szacowane koszty i korzyści dla podmiotu oraz osób ze szczególnymi potrzebami, a także relację kosztów do przychodów, zostaje uznane za nieproporcjonalne dla podmiotu gospodarczego.",
+      "definitionType": "legal",
+      "references": [
+        {
+          "label": "Ustawa z 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze – art. 21",
+          "url": "https://eli.gov.pl/api/acts/DU/2024/731/text.html"
+        }
+      ]
+    },
+    {
+      "term": "niezgodność",
+      "definition": "Stwierdzone niespełnienie wymagania mającego zastosowanie do ocenianego przedmiotu.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "badanie dostępności cyfrowej",
+        "test dostępności",
+        "procedura testowa",
+        "ocena",
+        "ocena dostępności",
+        "ocena zgodności",
+        "audyt dostępności cyfrowej"
+      ]
+    },
+    {
+      "term": "obraz tekstu",
+      "definition": "Tekst przedstawiony w formie nietekstowej, na przykład jako obraz, w celu osiągnięcia określonego efektu wizualnego.",
+      "definitionType": "normative",
+      "aliases": [
+        "tekst w obrazie"
+      ],
+      "relatedTerms": [
+        "treść nietekstowa",
+        "alternatywa tekstowa",
+        "tekst alternatywny",
+        "opis rozszerzony",
+        "element graficzny",
+        "element dekoracyjny",
+        "treść równoważna"
+      ],
+      "references": [
+        {
+          "label": "W3C Web Content Accessibility Guidelines (WCAG) 2.2 – SC 1.4.5 i słownik",
+          "url": "https://www.w3.org/TR/WCAG22/"
+        }
+      ]
     },
     {
       "term": "obserwacja",
-      "definition": "Pojedyncza informacja pozyskana podczas realizacji procesu. Obserwacje stanowią podstawowy materiał wykorzystywany do budowania wiedzy utrzymywanej w rejestrach."
+      "definition": "Pojedyncza informacja pozyskana podczas realizacji procesu. Obserwacje stanowią podstawowy materiał wykorzystywany do budowania wiedzy utrzymywanej w rejestrach.",
+      "definitionType": "sdc"
     },
     {
       "term": "ocena",
-      "definition": "Wynik analizy informacji prowadzący do sformułowania wniosku stanowiącego podstawę podjęcia decyzji. Ocena może dotyczyć między innymi stanu dostępności i zgodności, skuteczności działań, dojrzałości organizacji, ryzyka lub możliwości zapewnienia dostępności."
+      "definition": "Działanie polegające na interpretacji informacji i materiału dowodowego w odniesieniu do określonych kryteriów w celu ustalenia stanu lub podjęcia decyzji.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "badanie dostępności cyfrowej",
+        "test dostępności",
+        "procedura testowa",
+        "ocena dostępności",
+        "ocena zgodności",
+        "audyt dostępności cyfrowej",
+        "audyt weryfikujący"
+      ]
     },
     {
-      "term": "oczekiwanie",
-      "definition": "Subiektywna wizja, żądanie lub wyobrażenie interesariusza dotyczące tego, jak, kiedy i w jakiej formie ma zostać rozwiązany jego problem lub zrealizowany cel. Na przykład: potrzeba to posiadanie pokrojonego chleba, żeby zrobić kanapkę. Natomiast oczekiwanie: Użytkownik chce, aby chleb był pokrojony na równe, 1-centymetrowe kromki za pomocą elektrycznej krajalnicy w kolorze czerwonym. O ile potrzeba określa niezbędny rezultat (pokrojony chleb), oczekiwanie określa osobiste, szczegółowe wyobrażenie o procesie i wyglądzie rozwiązania (konkretna grubość, typ i kolor urządzenia).",
-      "relatedTerms": [ "potrzeba biznesowa" ]
+      "term": "ocena dostępności",
+      "definition": "Ocena właściwości rozwiązania mających wpływ na możliwość korzystania z niego przez użytkowników, prowadzona w określonym celu i zakresie.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "badanie dostępności cyfrowej",
+        "test dostępności",
+        "procedura testowa",
+        "ocena",
+        "ocena zgodności",
+        "audyt dostępności cyfrowej",
+        "audyt weryfikujący"
+      ]
     },
     {
-      "term": "odbiorca",
-      "definition": "Osoba korzystająca z opublikowanego materiału. Odbiorca może korzystać z treści wzrokowo, słuchowo, dotykowo, za pomocą technologii wspomagających, na urządzeniu mobilnym albo w warunkach ograniczonej uwagi.",
-      "relatedTerms": [ "publikacja", "treść cyfrowa" ]
+      "term": "ocena zgodności",
+      "definition": "Ocena służąca ustaleniu, czy i w jakim zakresie przedmiot oceny spełnia określone wymagania.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "badanie dostępności cyfrowej",
+        "test dostępności",
+        "procedura testowa",
+        "ocena",
+        "ocena dostępności",
+        "audyt dostępności cyfrowej",
+        "audyt weryfikujący"
+      ]
+    },
+    {
+      "term": "odbiór rozwiązania cyfrowego",
+      "definition": "Proces sprawdzenia, czy dostarczone rozwiązanie spełnia warunki odbioru, oraz podjęcia udokumentowanej decyzji dotyczącej jego przyjęcia.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "wymaganie dostępności",
+        "produkt cyfrowy",
+        "odbiór warunkowy",
+        "warunki odbioru",
+        "raport zgodności z dostępnością (ACR)"
+      ]
+    },
+    {
+      "term": "odbiór warunkowy",
+      "definition": "Odbiór rozwiązania mimo pozostających do usunięcia niezgodności lub niespełnionych warunków, po udokumentowaniu braków, sposobu i terminu ich usunięcia oraz zasad ponownej weryfikacji.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "wymaganie dostępności",
+        "produkt cyfrowy",
+        "odbiór rozwiązania cyfrowego",
+        "warunki odbioru",
+        "raport zgodności z dostępnością (ACR)"
+      ]
     },
     {
       "term": "odmowa publikacji",
       "definition": "Rozstrzygnięcie polegające na nieopublikowaniu materiału z powodu braku podstaw publikacji, istotnych braków formalnych, problemów dostępności albo innych uzasadnionych przyczyn.",
-      "relatedTerms": [ "dostępność cyfrowa", "publikacja", "decyzja publikacyjna" ]
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "publikacja",
+        "kanał publikacji",
+        "kontrola przed publikacją",
+        "decyzja publikacyjna",
+        "publikacja warunkowa",
+        "kwalifikacja materiału",
+        "ponowna kwalifikacja"
+      ]
     },
     {
-      "term": "osoba publikująca",
-      "definition": "Osoba odpowiedzialna za techniczne udostępnienie materiału w wybranym kanale. Powinna sprawdzić, czy w kanale publikacji dodano wymagane elementy dostępności, na przykład napisy, tekst alternatywny, opis lub transkrypcję."
-    },
-    {
-      "term": "osoba weryfikująca",
-      "definition": "Osoba sprawdzająca materiał przed publikacją na podstawie wymagań, standardu albo listy kontrolnej. Weryfikacja powinna obejmować zarówno treść, jak i sposób udostępnienia w danym kanale."
-    },
-    {
-      "term": "opis posta",
-      "definition": "Tekst towarzyszący publikacji w mediach społecznościowych. Powinien przekazywać najważniejszą informację, wyjaśniać kontekst materiału i zapewniać alternatywę dla informacji widocznych tylko na grafice lub w filmie."
+      "term": "odpowiedzialność",
+      "definition": "Przypisanie roli lub podmiotowi obowiązku doprowadzenia do określonego rezultatu, podjęcia decyzji albo zapewnienia wykonania działań.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "rola",
+        "kierownictwo organizacji",
+        "koordynator do spraw dostępności",
+        "właściciel procesu",
+        "właściciel merytoryczny",
+        "właściciel rozwiązania cyfrowego",
+        "autor treści"
+      ]
     },
     {
       "term": "opis rozszerzony",
-      "definition": "Dłuższy opis treści wizualnej, stosowany wtedy, gdy krótki tekst alternatywny nie wystarcza. Opis rozszerzony może być potrzebny dla infografik, schematów, map, wykresów, instrukcji obrazkowych albo złożonych ilustracji.",
-      "relatedTerms": [ "tekst alternatywny", "alternatywa tekstowa" ]
+      "definition": "Szczegółowy tekstowy opis złożonej treści nietekstowej, przekazujący informacje, których nie da się wystarczająco przedstawić krótkim tekstem alternatywnym.",
+      "definitionType": "official",
+      "relatedTerms": [
+        "treść nietekstowa",
+        "alternatywa tekstowa",
+        "tekst alternatywny",
+        "element graficzny",
+        "element dekoracyjny",
+        "obraz tekstu",
+        "treść równoważna"
+      ],
+      "references": [
+        {
+          "label": "Ministerstwo Cyfryzacji – Elementy graficzne – elementy graficzne",
+          "url": "https://www.gov.pl/web/dostepnosc-cyfrowa/elementy-graficzne"
+        }
+      ]
     },
     {
       "term": "organizacja",
-      "definition": "Grupa ludzi, instytucja lub państwo, które działają razem, by osiągnąć wspólne cele, posiadając ustaloną strukturę. Zobacz także: podmiot publiczny",
-      "relatedTerms": [ "podmiot publiczny" ]
+      "definition": "Grupa ludzi, instytucja lub państwo działające wspólnie w celu osiągania określonych celów w ramach ustalonej struktury.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "organizacja wielopodmiotowa",
+        "procedura",
+        "plan",
+        "decyzja",
+        "działanie",
+        "problem",
+        "stan"
+      ]
     },
     {
-      "term": "osoby ze szczególnymi potrzebami",
+      "term": "organizacja wielopodmiotowa",
+      "definition": "Umowne określenie organizacji lub organu wykonującego zadania z udziałem wielu organizacyjnie lub prawnie wyodrębnionych jednostek albo podmiotów i pełniącego wobec nich określoną rolę. Nie jest to odrębna kategoria prawna.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "organizacja",
+        "procedura",
+        "plan",
+        "decyzja",
+        "działanie",
+        "problem",
+        "stan"
+      ]
+    },
+    {
+      "term": "osoba publikująca",
+      "definition": "Rola wykonująca techniczne udostępnienie materiału w określonym kanale publikacji.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "rola",
+        "odpowiedzialność",
+        "kierownictwo organizacji",
+        "koordynator do spraw dostępności",
+        "właściciel procesu",
+        "właściciel merytoryczny",
+        "właściciel rozwiązania cyfrowego"
+      ]
+    },
+    {
+      "term": "osoba z niepełnosprawnością",
+      "definition": "Osoba mająca długotrwale naruszoną sprawność fizyczną, umysłową, intelektualną lub sensoryczną, co w oddziaływaniu z różnymi barierami może utrudniać jej pełny i skuteczny udział w życiu społecznym na zasadzie równości z innymi osobami.",
+      "definitionType": "legal",
+      "aliases": [
+        "osoby z niepełnosprawnościami"
+      ],
+      "references": [
+        {
+          "label": "Konwencja o prawach osób niepełnosprawnych (Dz.U. 2012 poz. 1169) – art. 1",
+          "url": "https://eli.gov.pl/api/acts/DU/2012/1169/text/T/D20121169L.pdf"
+        }
+      ]
+    },
+    {
+      "term": "osoba ze szczególnymi potrzebami",
       "definition": "Osoby, które ze względu na swoje cechy lub okoliczności w których się znajdują muszą podjąć dodatkowe działania w celu przezwyciężenia barier uniemożliwiających lub utrudniających im udział w różnych sferach życia na równi z pozostałymi osobami.",
-      "relatedTerms": [ "osoby z niepełnosprawnościami" ]
+      "definitionType": "legal",
+      "aliases": [
+        "osoby ze szczególnymi potrzebami"
+      ],
+      "references": [
+        {
+          "label": "Ustawa z 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (t.j. Dz.U. 2024 poz. 1411) – art. 2 pkt 3",
+          "url": "https://eli.gov.pl/api/acts/DU/2024/1411/text.html"
+        }
+      ]
     },
     {
-      "term": "osoby z niepełnosprawnościami",
-      "definition": "Osoby, które mają długotrwałą niepełnosprawność fizyczną, umysłową, intelektualną lub sensoryczną, która w oddziaływaniu z różnymi barierami mogą utrudniać im pełne i skuteczne uczestnictwo w życiu społecznym na równych zasadach z innymi osobami.",
-      "relatedTerms": [ "osoba ze szczególnymi potrzebami" ]
-    },
-    {
-      "term": "oznaczenie ograniczeń dostępności",
-      "definition": "Informacja publikowana razem z materiałem wskazująca, że materiał może nie być w pełni dostępny cyfrowo oraz określająca sposób uzyskania dostępu do informacji w innej formie.",
-      "relatedTerms": [ "dostępność cyfrowa", "publikacja", "decyzja publikacyjna" ]
-    },
-    {
-      "term": "platforma zewnętrzna",
-      "definition": "Usługa lub serwis nienależący bezpośrednio do podmiotu publikującego, ale wykorzystywany do udostępniania treści, na przykład platforma wideo, serwis społecznościowy albo narzędzie do transmisji online.",
-      "relatedTerms": [ "komunikacja", "publikacja" ]
-    },
-    {
-      "term": "plansza",
-      "definition": "Statyczny kadr lub grafika w materiale wideo, zwykle zawierająca tytuł, dane, cytat, instrukcję albo podsumowanie. Informacje z planszy powinny być dostępne również w napisach, audiodeskrypcji, transkrypcji albo opisie materiału."
-    },
-    {
-      "term": "podcast",
-      "definition": "Cykl albo pojedynczy materiał audio publikowany w internecie. Podcast powinien mieć dostępny tytuł, opis, transkrypcję oraz informacje umożliwiające szybkie rozpoznanie tematu i zawartości odcinka.",
-      "relatedTerms": [ "materiał audio" ]
-    },
-
-    {
-      "term": "post",
-      "definition": "Pojedyncza publikacja w mediach społecznościowych. Post może zawierać tekst, grafikę, film, link, ankietę, dokument lub kilka typów treści jednocześnie."
-
+      "term": "plan",
+      "definition": "Dokument określający zamierzone rezultaty, działania, odpowiedzialności, terminy i, jeśli potrzebne, zasoby oraz sposób monitorowania wykonania.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "organizacja",
+        "organizacja wielopodmiotowa",
+        "procedura",
+        "decyzja",
+        "działanie",
+        "problem",
+        "stan"
+      ]
     },
     {
       "term": "podmiot przekazujący",
       "definition": "Podmiot przekazujący materiał do publikacji wraz z informacjami potrzebnymi do jego oceny i publikacji.",
-      "relatedTerms": [ "podmiot publiczny", "organizacja", "publikacja", "decyzja publikacyjna" ]
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "publikacja",
+        "kanał publikacji",
+        "kontrola przed publikacją",
+        "decyzja publikacyjna",
+        "publikacja warunkowa",
+        "kwalifikacja materiału",
+        "ponowna kwalifikacja"
+      ]
     },
     {
       "term": "podmiot publiczny",
-      "definition": "Podmiot, o którym jest mowa w ustawie o dostępności cyfrowej, ale także każda organizacja, która chce wdrażać dostępność cyfrową.",
-      "relatedTerms": [ "organizacja" ]
+      "definition": "Podmiot należący do kategorii wskazanych w art. 2 ustawy o dostępności cyfrowej, posiadający stronę internetową lub aplikację mobilną albo zarządzający ich elementami zamieszczonymi w środowisku umożliwiającym zapewnienie dostępności cyfrowej treści.",
+      "definitionType": "legal",
+      "references": [
+        {
+          "label": "Ustawa z 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (t.j. Dz.U. 2023 poz. 1440) – art. 2",
+          "url": "https://eli.gov.pl/api/acts/DU/2023/1440/text.html"
+        }
+      ]
     },
     {
       "term": "ponowna kwalifikacja",
       "definition": "Powrót do oceny materiału po uzyskaniu nowych informacji, nowej wersji materiału albo dodatkowych wyjaśnień.",
-      "relatedTerms": [ "organizacja", "publikacja", "decyzja publikacyjna" ]
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "publikacja",
+        "kanał publikacji",
+        "kontrola przed publikacją",
+        "decyzja publikacyjna",
+        "publikacja warunkowa",
+        "kwalifikacja materiału",
+        "odmowa publikacji"
+      ]
     },
     {
       "term": "postrzegalność",
       "definition": "Właściwość strony internetowej lub aplikacji mobilnej umożliwiającą jej odbiór przez użytkownika za pomocą zmysłu słuchu, wzroku lub dotyku",
-      "relatedTerms": [ "dostępność cyfrowa", "WCAG", "zasady dostępności" ]
+      "definitionType": "legal",
+      "references": [
+        {
+          "label": "Ustawa z 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (t.j. Dz.U. 2023 poz. 1440) – art. 4 pkt 9",
+          "url": "https://eli.gov.pl/api/acts/DU/2023/1440/text.html"
+        }
+      ]
     },
     {
-      "term": "potrzeba biznesowa",
-      "definition": "Powód, dla którego potrzebujemy rozwiązania – obiektywny brak lub problem, który organizacja musi rozwiązać, aby osiągnąć cel. Na przykład: potrzeba to posiadanie pokrojonego chleba, żeby zrobić kanapkę. Potrzebą nie jest pozyskanie krajalnicy do chleba - jest to jeden z możliwych sposobów zaspokojenia tej potrzeby. Możliwość krojenia chleba przy użyciu krajalnicy jest właściwością tego konkretnego rozwiązania.",
-      "relatedTerms": [ "oczekiwanie" ]
-    },
-    {
-      "term": "poziomy dojrzałości",
+      "term": "poziom dojrzałości",
       "definition": "Etapy cząstkowe używane do oznaczania osiągnięcia lub nieosiągnięcia określonego poziomu dojrzałości",
-      "relatedTerms": [ "Model dojrzałości dostępności" ]
+      "definitionType": "sdc",
+      "aliases": [
+        "poziomy dojrzałości"
+      ],
+      "relatedTerms": [
+        "organizacja",
+        "organizacja wielopodmiotowa",
+        "procedura",
+        "plan",
+        "decyzja",
+        "działanie",
+        "problem"
+      ]
     },
     {
       "term": "problem",
-      "definition": "Udokumentowana sytuacja wymagająca podjęcia działań. Problem może dotyczyć zarówno stanu dostępności i zgodności zasobów, jak i sposobu funkcjonowania SZDC."
+      "definition": "Udokumentowana sytuacja wymagająca podjęcia działań. Problem może dotyczyć zarówno stanu dostępności i zgodności zasobów, jak i sposobu działania organizacji wpływającego na zapewnianie dostępności cyfrowej.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "organizacja",
+        "organizacja wielopodmiotowa",
+        "procedura",
+        "plan",
+        "decyzja",
+        "działanie",
+        "stan"
+      ]
     },
     {
-      "term": "procedura postępowania w sytuacjach wyjątkowych",
-      "definition": "Ustalony sposób postępowania, gdy materiał nie może spełnić wszystkich wymagań przed publikacją. Procedura powinna wskazywać powód wyjątku, osobę decyzyjną, termin uzupełnienia braków i sposób zapewnienia odbiorcom dostępu do informacji."
+      "term": "problem dostępności cyfrowej",
+      "definition": "Właściwość albo sytuacja utrudniająca lub uniemożliwiająca użytkownikowi skuteczne korzystanie z rozwiązania cyfrowego; nie jest automatycznie niezgodnością.",
+      "definitionType": "sdc"
     },
     {
-      "term": "proces",
-      "definition": "Powtarzalny sposób realizacji działań prowadzący do pozyskania, wykorzystania lub udostępnienia informacji oraz do podejmowania decyzji. Procesy są podstawowym mechanizmem funkcjonowania SZDC."
+      "term": "procedura",
+      "definition": "Opis ustalonego sposobu realizacji procesu lub jego części, określający czynności, kolejność, role, warunki i sposób dokumentowania działań.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "organizacja",
+        "organizacja wielopodmiotowa",
+        "plan",
+        "decyzja",
+        "działanie",
+        "problem",
+        "stan"
+      ]
+    },
+    {
+      "term": "procedura testowa",
+      "definition": "Opis sposobu wykonania testu, obejmujący cel, warunki, czynności, oczekiwany rezultat oraz sposób określenia wyniku.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "badanie dostępności cyfrowej",
+        "test dostępności",
+        "ocena",
+        "ocena dostępności",
+        "ocena zgodności",
+        "audyt dostępności cyfrowej",
+        "audyt weryfikujący"
+      ]
+    },
+    {
+      "term": "produkt cyfrowy",
+      "definition": "Rozwiązanie cyfrowe wytwarzane, dostarczane lub nabywane jako wyodrębniony przedmiot świadczenia, zamówienia albo oferty.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "zasób cyfrowy",
+        "rozwiązanie cyfrowe",
+        "usługa cyfrowa",
+        "treść cyfrowa",
+        "cykl życia rozwiązania cyfrowego",
+        "cykl życia zasobu cyfrowego",
+        "cykl życia treści"
+      ]
     },
     {
       "term": "prosty język",
-      "definition": "Sposób tworzenia treści, który ułatwia szybkie zrozumienie komunikatu. Obejmuje krótkie zdania, jasną strukturę, znane słowa, wyjaśnianie skrótów i unikanie niepotrzebnego żargonu."
+      "definition": "Standard komunikacji polegający na takim doborze języka, struktury i sposobu przedstawienia informacji, aby odbiorca mógł łatwo ją znaleźć, zrozumieć i wykorzystać.",
+      "definitionType": "official",
+      "relatedTerms": [
+        "dostępność komunikacji",
+        "komunikacja publiczna w kanałach cyfrowych",
+        "komunikacja pilna",
+        "komunikacja kryzysowa",
+        "informacja krytyczna czasowo",
+        "tekst łatwy do czytania i zrozumienia (ETR)"
+      ],
+      "references": [
+        {
+          "label": "Ministerstwo Cyfryzacji – Prosty język – sekcja „Prosty język”",
+          "url": "https://www.gov.pl/web/cyfryzacja/prosty-jezyk"
+        }
+      ]
     },
     {
-      "term": "przesłanki wyłączenia",
-      "definition": "Okoliczności, które mogą uzasadniać zastosowanie wyłączenia przewidzianego w przepisach dotyczących dostępności cyfrowej.",
-      "relatedTerms": [ "organizacja", "publikacja", "decyzja publikacyjna" ]
+      "term": "przesłanka wyłączenia",
+      "definition": "Określona przepisami okoliczność, której spełnienie pozwala zastosować dane wyłączenie.",
+      "definitionType": "legal",
+      "references": [
+        {
+          "label": "Ustawa z 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (t.j. Dz.U. 2023 poz. 1440) – art. 3 ust. 2",
+          "url": "https://eli.gov.pl/api/acts/DU/2023/1440/text.html"
+        }
+      ]
+    },
+    {
+      "term": "publikacja",
+      "definition": "Udostępnienie treści lub zasobu cyfrowego określonym odbiorcom w wybranym kanale cyfrowym.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "kanał publikacji",
+        "kontrola przed publikacją",
+        "decyzja publikacyjna",
+        "publikacja warunkowa",
+        "kwalifikacja materiału",
+        "ponowna kwalifikacja",
+        "odmowa publikacji"
+      ]
     },
     {
       "term": "publikacja warunkowa",
-      "definition": "Publikacja materiału mimo występowania ograniczeń dostępności, po przeprowadzeniu oceny sytuacji, udokumentowaniu decyzji oraz zastosowaniu działań uzupełniających.",
-      "relatedTerms": [ "organizacja", "publikacja", "decyzja publikacyjna" ]
+      "definition": "Wyjątkowe udostępnienie materiału mimo udokumentowanych braków, po określeniu warunków dalszego postępowania, odpowiedzialności i terminu usunięcia braków, jeżeli możliwy do określenia.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "publikacja",
+        "kanał publikacji",
+        "kontrola przed publikacją",
+        "decyzja publikacyjna",
+        "kwalifikacja materiału",
+        "ponowna kwalifikacja",
+        "odmowa publikacji"
+      ]
     },
     {
       "term": "punkt dowodowy",
-      "definition": "Kryterium dojrzałości dostępności poparte dowodami (ang. _prof point_).",
-      "relatedTerms": [ "Model dojrzałości dostępności" ]
+      "definition": "Kryterium lub obserwowalny rezultat wykorzystywany jako dowód osiągnięcia określonego poziomu dojrzałości.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "organizacja",
+        "organizacja wielopodmiotowa",
+        "procedura",
+        "plan",
+        "decyzja",
+        "działanie",
+        "problem"
+      ]
     },
     {
       "term": "racjonalne usprawnienie",
-      "definition": "Konieczne i odpowiednie zmiany i dostosowania, nie nakładające nieproporcjonalnego lub nadmiernego obciążenia, jeśli jest to potrzebne w konkretnym przypadku, w celu zapewnienia osobom niepełnosprawnym możliwości korzystania z wszelkich praw człowieka i podstawowych wolności oraz ich wykonywania na zasadzie równości z innymi osobami."
+      "definition": "Konieczne i odpowiednie zmiany oraz dostosowania, które nie nakładają nieproporcjonalnego lub nadmiernego obciążenia i są potrzebne w konkretnym przypadku, aby zapewnić osobom z niepełnosprawnościami możliwość korzystania z praw człowieka i podstawowych wolności na zasadzie równości z innymi osobami.",
+      "definitionType": "legal",
+      "references": [
+        {
+          "label": "Konwencja o prawach osób niepełnosprawnych (Dz.U. 2012 poz. 1169) – art. 2; por. art. 2 pkt 5 ustawy o zapewnianiu dostępności",
+          "url": "https://eli.gov.pl/api/acts/DU/2012/1169/text/T/D20121169L.pdf"
+        }
+      ]
     },
     {
-      "term": "raport zgodności z dostępnością",
-      "definition": "Dokument pokazujący, jak dany produkt cyfrowy lub informatyczny spełnia normy dostępności dla osób z niepełnosprawnościami. Powstaje on po wypełnieniu szablonu VPAT, który odnosi się do wytycznych takich jak WCAG czy norma EN 301 549.",
-      "relatedTerms": [ "ACR", "VPAT" ]
+      "term": "raport zgodności z dostępnością (ACR)",
+      "definition": "Raport zgodności z dostępnością. Oficjalny dokument techniczny, który szczegółowo opisuje poziom zgodności cyfrowego produktu (np. oprogramowania, aplikacji, strony internetowej lub sprzętu IT) z międzynarodowymi standardami dostępności, takimi jak WCAG, norma EN 301 549, Sekcja 508 (USA).",
+      "definitionType": "industry",
+      "aliases": [
+        "ACR",
+        "Accessibility Conformance Report",
+        "raport zgodności z dostępnością"
+      ],
+      "relatedTerms": [
+        "wymaganie dostępności",
+        "produkt cyfrowy",
+        "odbiór rozwiązania cyfrowego",
+        "odbiór warunkowy",
+        "warunki odbioru"
+      ],
+      "references": [
+        {
+          "label": "Information Technology Industry Council – VPAT / Accessibility Conformance Report – VPAT FAQ / różnica między VPAT i ACR",
+          "url": "https://www.itic.org/policy/accessibility/vpat"
+        }
+      ]
     },
     {
-      "term": "redaktor",
-      "definition": "Osoba opracowująca materiał pod kątem języka, struktury, kompletności i zgodności z przyjętym standardem. Redaktor może uzupełniać opisy, porządkować komunikat i przygotowywać treści równoważne.",
-      "relatedTerms": [ "rola", "odpowiedzialnośc" ]
+      "term": "redaktor treści",
+      "definition": "Rola przygotowująca treść do udostępnienia zgodnie z przyjętymi zasadami językowymi, strukturalnymi, redakcyjnymi i dostępnościowymi.",
+      "definitionType": "sdc",
+      "aliases": [
+        "redaktor"
+      ],
+      "relatedTerms": [
+        "rola",
+        "odpowiedzialność",
+        "kierownictwo organizacji",
+        "koordynator do spraw dostępności",
+        "właściciel procesu",
+        "właściciel merytoryczny",
+        "właściciel rozwiązania cyfrowego"
+      ]
+    },
+    {
+      "term": "regresja dostępności",
+      "definition": "Pogorszenie dostępności rozwiązania wskutek zmiany, powodujące powstanie nowego problemu albo ponowne wystąpienie problemu wcześniej usuniętego.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "badanie dostępności cyfrowej",
+        "test dostępności",
+        "procedura testowa",
+        "ocena",
+        "ocena dostępności",
+        "ocena zgodności",
+        "audyt dostępności cyfrowej"
+      ]
+    },
+    {
+      "term": "rejestr",
+      "definition": "Uporządkowany i aktualizowany zbiór powiązanych informacji wykorzystywanych w zapewnianiu dostępności cyfrowej. Rejestr stanowi źródło informacji wykorzystywanych w procesach, raportowaniu i publikowaniu informacji.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "organizacja",
+        "organizacja wielopodmiotowa",
+        "procedura",
+        "plan",
+        "decyzja",
+        "działanie",
+        "problem"
+      ]
+    },
+    {
+      "term": "rejestr decyzji",
+      "definition": "Uporządkowany zapis decyzji podejmowanych w procesie wraz z danymi pozwalającymi ustalić przedmiot, wynik, podstawę i dalsze działania.",
+      "definitionType": "sdc"
+    },
+    {
+      "term": "rejestr niezgodności",
+      "definition": "Uporządkowany zapis stwierdzonych niezgodności oraz informacji potrzebnych do zarządzania ich obsługą, naprawą, weryfikacją i zamknięciem.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "badanie dostępności cyfrowej",
+        "test dostępności",
+        "procedura testowa",
+        "ocena",
+        "ocena dostępności",
+        "ocena zgodności",
+        "audyt dostępności cyfrowej"
+      ]
+    },
+    {
+      "term": "rejestr zasobów cyfrowych",
+      "definition": "Uporządkowany wykaz zasobów cyfrowych zawierający dane potrzebne do zarządzania nimi w czasie.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "zasób cyfrowy",
+        "rozwiązanie cyfrowe",
+        "produkt cyfrowy",
+        "usługa cyfrowa",
+        "treść cyfrowa",
+        "cykl życia rozwiązania cyfrowego",
+        "cykl życia zasobu cyfrowego"
+      ]
     },
     {
       "term": "rekomendacja",
       "definition": "Część zalecenia – sugestia, aby zastosować określony sposób działania lub uwzględnić albo rozważyć określone aspekty działania. Rekomendacja opisuje szczegółowiej, w jaki sposób optymalnie można zrealizować zalecenie lub jego część. Może wskazywać na polecane sprawdzone rozwiązanie, dobrą praktykę lub kilka dobrych praktyk jako sposoby skutecznego wdrożenia zalecenia.",
-      "relatedTerms": [ "zalecenie", "rozwiązanie systemowe" ]
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "organizacja",
+        "organizacja wielopodmiotowa",
+        "procedura",
+        "plan",
+        "decyzja",
+        "działanie",
+        "problem"
+      ]
     },
     {
-      "term": "rejestr",
-      "definition": "Centralnie utrzymywany zbiór powiązanych informacji wykorzystywany przez SZDC. Rejestr jest stale aktualizowany i stanowi podstawowe źródło informacji wykorzystywane przez procesy, raporty oraz publikacje."
+      "term": "reprezentatywna próbka",
+      "definition": "Celowo dobrany zbiór elementów odzwierciedlający istotne typy treści, funkcje, widoki, procesy i technologie w zakresie potrzebnym do realizacji celu oceny.",
+      "definitionType": "normative",
+      "relatedTerms": [
+        "badanie dostępności cyfrowej",
+        "test dostępności",
+        "procedura testowa",
+        "ocena",
+        "ocena dostępności",
+        "ocena zgodności",
+        "audyt dostępności cyfrowej"
+      ],
+      "references": [
+        {
+          "label": "W3C Website Accessibility Conformance Evaluation Methodology (WCAG-EM) 2.0 – kroki 1 i 3 metodyki",
+          "url": "https://www.w3.org/TR/WCAG-EM/"
+        }
+      ]
+    },
+    {
+      "term": "rola",
+      "definition": "Wyodrębniona funkcja w organizacji lub procesie, z którą powiązane są określone zadania, uprawnienia lub odpowiedzialności; rola nie musi odpowiadać stanowisku.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "odpowiedzialność",
+        "kierownictwo organizacji",
+        "koordynator do spraw dostępności",
+        "właściciel procesu",
+        "właściciel merytoryczny",
+        "właściciel rozwiązania cyfrowego",
+        "autor treści"
+      ]
     },
     {
       "term": "rozwiązanie cyfrowe",
-      "definition": "Produkt, usługa, system, dokument, komponent lub inny przedmiot wykorzystujący technologie cyfrowe, dla którego organizacja określa wymagania dostępności, prowadzi ocenę stanu dostępności i zgodności oraz podejmuje decyzje dotyczące jego nabywania, odbioru, utrzymania lub rozwoju.",
-      "relatedTerms": [ "dostępność cyfrowa", "stan dostępności i zgodności", "ocena dostępności", "raport stopnia zgodności", "dokumentacja dostępności rozwiązania" ]
+      "definition": "Zasób cyfrowy lub powiązany zestaw zasobów realizujący określoną funkcję albo umożliwiający wykonanie zadania przez użytkownika lub organizację.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "zasób cyfrowy",
+        "produkt cyfrowy",
+        "usługa cyfrowa",
+        "treść cyfrowa",
+        "cykl życia rozwiązania cyfrowego",
+        "cykl życia zasobu cyfrowego",
+        "cykl życia treści"
+      ]
     },
     {
       "term": "rozwiązanie systemowe",
-      "definition": "Zaplanowany ogół działań, dzięki któremu jakiś problem (prosty lub złożony) wdrażania dostępności cyfrowej może przestać istnieć. Ang. _systems solution_. Zobacz: Wykład P. Magnuszewskiego: Nie potrafimy przewidzieć przyszłości, ale możemy ją zaprojektować (https://www.youtube.com/watch?v=pmS4QeQy4HI).",
-      "relatedTerms": [ "zalecenie", "rekomendacja" ]
+      "definition": "Zaplanowany i powtarzalny sposób działania obejmujący powiązane procesy, role, zasoby lub narzędzia, służący trwałemu rozwiązaniu określonego problemu związanego z zapewnianiem dostępności cyfrowej.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "organizacja",
+        "organizacja wielopodmiotowa",
+        "procedura",
+        "plan",
+        "decyzja",
+        "działanie",
+        "problem"
+      ]
     },
     {
       "term": "ryzyko publikacyjne",
-      "definition": "Możliwość opublikowania materiału, który nie spełnia wymagań dostępności, jest niekompletny, niezrozumiały albo trudny do poprawienia po publikacji. Ryzyko publikacyjne powinno być ograniczane przez listy kontrolne i jasny podział odpowiedzialności."
+      "definition": "Ryzyko negatywnego skutku związanego z publikacją lub utrzymywaniem materiału, w szczególności wskutek niedostępności, nieaktualności, niekompletności albo błędnej kwalifikacji.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "publikacja",
+        "kanał publikacji",
+        "kontrola przed publikacją",
+        "decyzja publikacyjna",
+        "publikacja warunkowa",
+        "kwalifikacja materiału",
+        "ponowna kwalifikacja"
+      ]
+    },
+    {
+      "term": "samodzielna weryfikacja ekspercka",
+      "definition": "Sprawdzenie wyniku systemu AI przez osobę posiadającą odpowiednie kompetencje, wykonane na materiale źródłowym i niezależnie od wyniku systemu AI.",
+      "definitionType": "sdc"
+    },
+    {
+      "term": "specjalistyczne wsparcie użytkownika",
+      "definition": "Indywidualna pomoc udzielana użytkownikowi, który z powodu bariery dostępności lub szczególnej potrzeby nie może skutecznie skorzystać ze standardowego sposobu obsługi rozwiązania lub usługi cyfrowej.",
+      "definitionType": "sdc"
     },
     {
       "term": "społeczność praktyków",
-      "definition": "Grupa osób, które łączy wspólny obszar zainteresowań, zawód lub pasja, i które regularnie spotykają się, aby dzielić się wiedzą, doświadczeniami i najlepszymi praktykami w tej dziedzinie.  Celem takiej społeczności jest rozwój zawodowy jej członków, doskonalenie umiejętności oraz budowanie wiedzy i innowacji w danym obszarze. Ang. _community of practice_ (CoP)."
+      "definition": "Grupa osób związanych wspólnym obszarem praktyki, które regularnie wymieniają wiedzę i doświadczenia oraz wspólnie rozwijają sposoby działania w tym obszarze.",
+      "definitionType": "sdc"
     },
     {
       "term": "stan",
-      "definition": "Aktualny, udokumentowany opis określonego obiektu w danym momencie. W SZDC pojęcie stanu odnosi się przede wszystkim do stanu dostępności i zgodności zasobów oraz stanu systemu zapewniania dostępności cyfrowej."
+      "definition": "Aktualny, udokumentowany opis określonego obiektu w danym momencie. W zapewnianiu dostępności cyfrowej pojęcie stanu odnosi się przede wszystkim do stanu dostępności i zgodności zasobów oraz do sposobu funkcjonowania organizacji w obszarach wpływających na zapewnianie dostępności cyfrowej.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "organizacja",
+        "organizacja wielopodmiotowa",
+        "procedura",
+        "plan",
+        "decyzja",
+        "działanie",
+        "problem"
+      ]
+    },
+    {
+      "term": "stan dostępności i zgodności",
+      "definition": "Aktualna, udokumentowana wiedza o dostępności rozwiązania cyfrowego oraz o stopniu spełniania mających do niego zastosowanie wymagań.",
+      "definitionType": "sdc"
+    },
+    {
+      "term": "standard dostępności",
+      "definition": "Ustalony zestaw zasad, wymagań lub kryteriów służących określeniu oczekiwanego poziomu dostępności określonego rodzaju rozwiązań, treści, usług lub procesów.",
+      "definitionType": "sdc"
+    },
+    {
+      "term": "standard treści",
+      "definition": "Ustalony zestaw zasad dotyczących przygotowania, redagowania, struktury, formy i publikowania określonego rodzaju treści.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "publikacja",
+        "kanał publikacji",
+        "kontrola przed publikacją",
+        "decyzja publikacyjna",
+        "publikacja warunkowa",
+        "kwalifikacja materiału",
+        "ponowna kwalifikacja"
+      ]
     },
     {
       "term": "status dostępnościowy zasobu",
-      "definition": "Informacja o tym, czy zasób jest dostępny cyfrowo, wymaga dostosowania, wymaga dostępu alternatywnego, jest archiwalny z ograniczeniami, został wycofany z publikacji albo jest migrowany z wymaganiem zachowania elementów dostępnościowych."
+      "definition": "Informacja o tym, czy zasób jest dostępny cyfrowo, wymaga dostosowania, wymaga dostępu alternatywnego, jest archiwalny z ograniczeniami, został wycofany z publikacji albo jest migrowany z wymaganiem zachowania elementów dostępnościowych.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "zasób cyfrowy",
+        "rozwiązanie cyfrowe",
+        "produkt cyfrowy",
+        "usługa cyfrowa",
+        "treść cyfrowa",
+        "cykl życia rozwiązania cyfrowego",
+        "cykl życia zasobu cyfrowego"
+      ]
     },
     {
       "term": "strona internetowa",
-      "definition": "Zbiór uporządkowanych logicznie, połączonych ze sobą przez nawigację oraz linki, elementów prezentowanych za pomocą przeglądarki internetowej pod jednolitym adresem elektronicznym. Cały zbiór plików elektronicznych, które są dostępne za pośrednictwem nazwy domeny. Obejmuje to wszystkie strony i strony główne witryny (w tym aplikacje i usługi sieci Web oraz zawartość generowaną dynamicznie), do których odwołują się strony główne witryny, oraz aplikacje internetowe dostępne z takich stron internetowych.",
-      "relatedTerms": [ "zasób cyfrowy", "aplikacja mobilna" ]
+      "definition": "Zbiór uporządkowanych logicznie, połączonych ze sobą przez nawigację oraz linki, elementów prezentowanych za pomocą przeglądarki internetowej pod jednolitym adresem elektronicznym.",
+      "definitionType": "legal",
+      "references": [
+        {
+          "label": "Ustawa z 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (t.j. Dz.U. 2023 poz. 1440) – art. 4 pkt 10",
+          "url": "https://eli.gov.pl/api/acts/DU/2023/1440/text.html"
+        }
+      ]
     },
     {
-      "term": "struktura komunikatu",
-      "definition": "Logiczny układ informacji w publikacji. Dobra struktura wskazuje najpierw temat i najważniejszą informację, a następnie rozwinięcie, szczegóły, warunki, terminy i działania wymagane od odbiorcy.",
-      "relatedTerms": [ "komunikat", "treść cyfrowa", "komunikat kluczowy" ]
+      "term": "system AI",
+      "definition": "System maszynowy zaprojektowany do działania z różnym poziomem autonomii po wdrożeniu, mogący wykazywać zdolność adaptacji po wdrożeniu, który dla wyraźnych lub dorozumianych celów wnioskuje, jak generować na podstawie otrzymanych danych wejściowych wyniki, takie jak predykcje, treści, zalecenia lub decyzje mogące wpływać na środowisko fizyczne lub wirtualne.",
+      "definitionType": "legal",
+      "references": [
+        {
+          "label": "Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2024/1689 w sprawie sztucznej inteligencji (AI Act) – art. 3 pkt 1",
+          "url": "https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:32024R1689"
+        }
+      ]
     },
     {
-      "term": "synchronizacja napisów",
-      "definition": "Dopasowanie napisów rozszerzonych do momentu, w którym pojawia się odpowiadająca im wypowiedź lub dźwięk. Dobra synchronizacja ułatwia śledzenie materiału i zmniejsza ryzyko niezrozumienia wypowiedzi.",
-      "relatedTerms": [ "napisy rozszerzone", "napisy na żywo", "napisy otwarte", "napisy automatyczne" ]
+      "term": "system EZD",
+      "definition": "System teleinformatyczny umożliwiający wykonywanie czynności kancelaryjnych, dokumentowanie przebiegu spraw oraz gromadzenie i tworzenie dokumentacji elektronicznej.",
+      "definitionType": "legal",
+      "relatedTerms": [
+        "archiwizacja formalna",
+        "archiwizacja operacyjna",
+        "materiał archiwalny",
+        "zasób archiwalny",
+        "zasób archiwalny dostępny cyfrowo",
+        "migracja danych",
+        "migracja zasobu z zachowaniem dostępności"
+      ],
+      "references": [
+        {
+          "label": "Rozporządzenie Prezesa Rady Ministrów z 18 stycznia 2011 r. w sprawie instrukcji kancelaryjnej, JRWA oraz instrukcji archiwalnej – § 2 (definicje)",
+          "url": "https://eli.gov.pl/api/acts/DU/2011/67/text/I/D20110067.pdf"
+        }
+      ]
     },
     {
-      "term": "SZDC",
-      "abbreviation": "system zapewniania dostępności cyfrowej",
-      "definition": "Zorganizowany sposób działania organizacji, obejmujący role, odpowiedzialności, decyzje, procesy, zasoby oraz mechanizmy monitorowania i doskonalenia, dzięki któremu organizacja nabywa i rozwija zdolność do skutecznego zapewniania, utrzymywania i doskonalenia dostępności cyfrowej swoich rozwiązań i usług."
+      "term": "systemowe zapewnianie dostępności cyfrowej",
+      "definition": "Sposób działania organizacji, w którym role, odpowiedzialności, procesy, zasoby i mechanizmy oceny są wzajemnie powiązane i skoordynowane, tak aby organizacja trwale zapewniała dostępność cyfrową.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "dostępność",
+        "dostępność cyfrowa",
+        "zapewnianie dostępności cyfrowej",
+        "bariera",
+        "bariera dostępności cyfrowej",
+        "wymaganie dostępności",
+        "zgodność"
+      ]
     },
     {
-      "term": "technologia informacyjno-komunikacyjna",
-      "definition": "Technologia informatyczna i inny sprzęt, systemy, technologie lub procesy, których główną funkcją jest tworzenie, przetwarzanie, przechowywanie, wyświetlanie, odbieranie lub przesyłanie danych i informacji elektronicznych, a także wszelkiej powiązanej treści. TIK obejmują szeroki zakres sprzętu komputerowego i oprogramowania, urządzeń i komputerów, formatów i systemów, które umożliwiają komunikację za pomocą środków elektronicznych. TIK urządzenia i systemy służące do przechowywania, przetwarzania i wyszukiwania informacji elektronicznych na szeregu urządzeń i oprogramowania wykorzystywanych do pobierania tych informacji, a także tych, które służą do komunikowania się w czasie rzeczywistym z innymi osobami.",
-      "relatedTerms": [ "TIK" ]
+      "term": "środek wspierający",
+      "definition": "Narzędzie, procedura, wzór, instrukcja, standard, rejestr lub inny element wspomagający stosowanie zalecenia albo działanie organizacji w zakresie dostępności cyfrowej.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "organizacja",
+        "organizacja wielopodmiotowa",
+        "procedura",
+        "plan",
+        "decyzja",
+        "działanie",
+        "problem"
+      ]
+    },
+    {
+      "term": "technologia informacyjno-komunikacyjna (TIK)",
+      "definition": "Technologie, sprzęt, systemy i procesy, których główną funkcją jest tworzenie, przetwarzanie, przechowywanie, prezentowanie, odbieranie lub przesyłanie danych i informacji elektronicznych oraz powiązanych treści.",
+      "definitionType": "normative",
+      "aliases": [
+        "TIK",
+        "ICT"
+      ],
+      "references": [
+        {
+          "label": "ETSI EN 301 549 V4.1.1 (2026-09) – V4.1.1 (2026-09), klauzula 1 Scope",
+          "url": "https://www.etsi.org/technical-groups/hf/"
+        }
+      ]
+    },
+    {
+      "term": "technologia wspomagająca",
+      "definition": "Sprzęt lub oprogramowanie, które zapewnia osobom z niepełnosprawnościami funkcje wspierające korzystanie z technologii, wykraczające poza funkcje oferowane standardowo przez głównego klienta użytkownika.",
+      "definitionType": "normative",
+      "aliases": [
+        "technologia asystująca"
+      ],
+      "references": [
+        {
+          "label": "W3C Web Content Accessibility Guidelines (WCAG) 2.2 – słownik / pojęcia powiązane",
+          "url": "https://www.w3.org/TR/WCAG22/"
+        }
+      ]
     },
     {
       "term": "tekst alternatywny",
-      "definition": "Krótki opis obrazu, grafiki, zdjęcia, ikony lub wykresu, który jest odczytywany przez technologie wspomagające albo wyświetlany, gdy obraz nie jest dostępny. Tekst alternatywny powinien być zwięzły i dopasowany do kontekstu publikacji."
+      "definition": "Tekst pełniący funkcję alternatywy dla określonej treści nietekstowej.",
+      "definitionType": "normative",
+      "relatedTerms": [
+        "treść nietekstowa",
+        "alternatywa tekstowa",
+        "opis rozszerzony",
+        "element graficzny",
+        "element dekoracyjny",
+        "obraz tekstu",
+        "treść równoważna"
+      ],
+      "references": [
+        {
+          "label": "W3C WCAG 2.2 – Non-text Content – SC 1.1.1 i słownik",
+          "url": "https://www.w3.org/WAI/WCAG22/Understanding/non-text-content"
+        }
+      ]
     },
     {
-      "term": "tekst w obrazie",
-      "definition": "Tekst umieszczony jako część grafiki, zdjęcia, planszy lub filmu. Należy go ograniczać, a istotne informacje przekazywać także jako zwykły tekst w treści publikacji, opisie albo transkrypcji."
+      "term": "tekst łatwy do czytania i zrozumienia (ETR)",
+      "definition": "Sposób opracowania i przedstawienia informacji przeznaczony szczególnie dla osób mających trudności z czytaniem i rozumieniem tekstu.",
+      "definitionType": "official",
+      "aliases": [
+        "ETR"
+      ],
+      "relatedTerms": [
+        "dostępność komunikacji",
+        "komunikacja publiczna w kanałach cyfrowych",
+        "komunikacja pilna",
+        "komunikacja kryzysowa",
+        "informacja krytyczna czasowo",
+        "prosty język"
+      ],
+      "references": [
+        {
+          "label": "Biuro Pełnomocnika Rządu ds. Osób Niepełnosprawnych – standardy ETR – materiały urzędowe dotyczące ETR",
+          "url": "https://niepelnosprawni.gov.pl/publikacja-opracowania-standardow-tekstu-latwego-do-czytania-i-zrozumienia-etr/"
+        }
+      ]
     },
     {
-      "term": "TIK",
-      "abbreviation": "Technologie informacyjno-komunikacyjne",
-      "definition": "Technologia informatyczna i inny sprzęt, systemy, technologie lub procesy, których główną funkcją jest tworzenie, przetwarzanie, przechowywanie, wyświetlanie, odbieranie lub przesyłanie danych i informacji elektronicznych, a także wszelkiej powiązanej treści. Ang. _ICT (Information and Communication Technologies)_. ",
-      "relatedTerms": [ "technologia informacyjno-komunikacyjna" ]
+      "term": "test dostępności",
+      "definition": "Wykonanie określonych czynności sprawdzających w celu ustalenia, czy badany element spełnia określony warunek lub wymaganie dostępności.",
+      "definitionType": "official",
+      "relatedTerms": [
+        "badanie dostępności cyfrowej",
+        "procedura testowa",
+        "ocena",
+        "ocena dostępności",
+        "ocena zgodności",
+        "audyt dostępności cyfrowej",
+        "audyt weryfikujący"
+      ],
+      "references": [
+        {
+          "label": "Ministerstwo Cyfryzacji – Badania i testy dostępności cyfrowej – badania i testy",
+          "url": "https://www.gov.pl/web/dostepnosc-cyfrowa/badania-i-testy-dostepnosci-cyfrowej"
+        }
+      ]
+    },
+    {
+      "term": "tłumaczenie na PJM",
+      "definition": "Przekład treści mówionej lub pisanej na polski język migowy. Tłumaczenie na PJM może być zapewniane w nagraniach, transmisjach, materiałach informacyjnych lub wydarzeniach online.",
+      "definitionType": "official",
+      "aliases": [
+        "tłumaczenie na polski język migowy"
+      ],
+      "relatedTerms": [
+        "multimedia",
+        "materiał audio",
+        "materiał wideo",
+        "media zsynchronizowane",
+        "napisy rozszerzone",
+        "napisy zamknięte",
+        "napisy otwarte"
+      ],
+      "references": [
+        {
+          "label": "Ministerstwo Cyfryzacji – Multimedia – sekcje dotyczące dostępności multimediów",
+          "url": "https://www.gov.pl/web/dostepnosc-cyfrowa/multimedia"
+        }
+      ]
     },
     {
       "term": "transkrypcja",
-      "definition": "Tekstowy zapis treści dźwiękowej, na przykład wypowiedzi z nagrania, podcastu, filmu lub transmisji. Transkrypcja powinna być kompletna, uporządkowana i możliwa do odczytania bez odtwarzania materiału."
+      "definition": "Tekstowa wersja informacji przekazywanych w ścieżce dźwiękowej materiału, obejmująca wypowiedzi i informacje dźwiękowe potrzebne do zrozumienia treści.",
+      "definitionType": "official",
+      "relatedTerms": [
+        "multimedia",
+        "materiał audio",
+        "materiał wideo",
+        "media zsynchronizowane",
+        "napisy rozszerzone",
+        "napisy zamknięte",
+        "napisy otwarte"
+      ],
+      "references": [
+        {
+          "label": "Ministerstwo Cyfryzacji – Multimedia – sekcje dotyczące dostępności multimediów",
+          "url": "https://www.gov.pl/web/dostepnosc-cyfrowa/multimedia"
+        }
+      ]
     },
     {
       "term": "transkrypcja rozszerzona",
-      "definition": "Transkrypcja, która oprócz wypowiedzi zawiera także istotne informacje wizualne i dźwiękowe, na przykład opis plansz, wykresów, działań widocznych w kadrze, muzyki lub ważnych efektów dźwiękowych."
-    },
-    {
-      "term": "tłumaczenie na polski język migowy",
-      "definition": "Przekład treści mówionej lub pisanej na polski język migowy. Tłumaczenie na PJM może być zapewniane w nagraniach, transmisjach, materiałach informacyjnych lub wydarzeniach online."
+      "definition": "Transkrypcja uzupełniona o tekstowy opis informacji wizualnych potrzebnych do zrozumienia materiału.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "multimedia",
+        "materiał audio",
+        "materiał wideo",
+        "media zsynchronizowane",
+        "napisy rozszerzone",
+        "napisy zamknięte",
+        "napisy otwarte"
+      ]
     },
     {
       "term": "treść cyfrowa",
-      "definition": "Informacja udostępniana w postaci elektronicznej, na przykład tekst, obraz, nagranie, plik, formularz, wpis w mediach społecznościowych albo materiał opublikowany na stronie internetowej."
+      "definition": "Informacja lub przekaz utrzymywany i udostępniany w postaci cyfrowej, w tym tekst, grafika, dźwięk, wideo lub ich połączenie.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "zasób cyfrowy",
+        "rozwiązanie cyfrowe",
+        "produkt cyfrowy",
+        "usługa cyfrowa",
+        "cykl życia rozwiązania cyfrowego",
+        "cykl życia zasobu cyfrowego",
+        "cykl życia treści"
+      ]
+    },
+    {
+      "term": "treść nietekstowa",
+      "definition": "Treść, która nie jest programowo określaną sekwencją znaków wyrażającą język naturalny.",
+      "definitionType": "normative",
+      "relatedTerms": [
+        "alternatywa tekstowa",
+        "tekst alternatywny",
+        "opis rozszerzony",
+        "element graficzny",
+        "element dekoracyjny",
+        "obraz tekstu",
+        "treść równoważna"
+      ],
+      "references": [
+        {
+          "label": "W3C WCAG 2.2 – Non-text Content – SC 1.1.1 i słownik",
+          "url": "https://www.w3.org/WAI/WCAG22/Understanding/non-text-content"
+        }
+      ]
     },
     {
       "term": "treść równoważna",
-      "definition": "Treść przekazująca ten sam sens i najważniejsze informacje w innej formie niż materiał pierwotny. Przykładem jest transkrypcja nagrania, opis wykresu, tekst alternatywny grafiki albo streszczenie informacji wizualnych z filmu., plik, formularz, wpis w mediach społecznościowych albo materiał opublikowany na stronie internetowej."
-    },
-    {
-      "term": "UDC",
-      "abbreviation": "Ustawa o dostępności cyfrowej stron internetowych podmiotów publicznych i aplikacji mobilnych",
-      "definition": "Ustawa z dnia 15 czerwca 2021 r. o dostępności cyfrowej stron internetowych podmiotów publicznych i aplikacji mobilnych."
+      "definition": "Treść przekazująca informacje i umożliwiająca realizację celu odpowiadającego treści przedstawionej w innej formie.",
+      "definitionType": "normative",
+      "relatedTerms": [
+        "treść nietekstowa",
+        "alternatywa tekstowa",
+        "tekst alternatywny",
+        "opis rozszerzony",
+        "element graficzny",
+        "element dekoracyjny",
+        "obraz tekstu"
+      ],
+      "references": [
+        {
+          "label": "W3C Web Content Accessibility Guidelines (WCAG) 2.2 – słownik / pojęcia powiązane",
+          "url": "https://www.w3.org/TR/WCAG22/"
+        }
+      ]
     },
     {
       "term": "uniwersalne projektowanie",
-      "definition": "Projektowanie produktów, środowiska, programów i usług w taki sposób, by były użyteczne dla wszystkich, w możliwie największym stopniu, bez potrzeby adaptacji lub specjalistycznego projektowania. Rozwiązania przestrzenne uniwersalnego projektowania przewidują, że podstawowe działania będą z założenia odpowiadały potrzebom wszystkich użytkowników."
+      "definition": "Projektowanie produktów, środowiska, programów i usług w taki sposób, aby były użyteczne dla wszystkich w możliwie największym stopniu bez potrzeby adaptacji lub specjalistycznego projektowania. Uniwersalne projektowanie nie wyklucza pomocy technicznych dla szczególnych grup osób z niepełnosprawnościami, jeżeli są potrzebne.",
+      "definitionType": "legal",
+      "references": [
+        {
+          "label": "Konwencja o prawach osób niepełnosprawnych (Dz.U. 2012 poz. 1169) – art. 2; por. art. 2 pkt 4 ustawy o zapewnianiu dostępności",
+          "url": "https://eli.gov.pl/api/acts/DU/2012/1169/text/T/D20121169L.pdf"
+        }
+      ]
+    },
+    {
+      "term": "usługa cyfrowa",
+      "definition": "Usługa, której istotna część jest realizowana za pomocą rozwiązania cyfrowego i wymaga od użytkownika korzystania z interfejsu, treści lub funkcji cyfrowych.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "zasób cyfrowy",
+        "rozwiązanie cyfrowe",
+        "produkt cyfrowy",
+        "treść cyfrowa",
+        "cykl życia rozwiązania cyfrowego",
+        "cykl życia zasobu cyfrowego",
+        "cykl życia treści"
+      ]
+    },
+    {
+      "term": "ustawa o dostępności cyfrowej (UDC)",
+      "definition": "Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.",
+      "definitionType": "legal",
+      "aliases": [
+        "UDC"
+      ],
+      "references": [
+        {
+          "label": "Ustawa z 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (t.j. Dz.U. 2023 poz. 1440) – tytuł ustawy",
+          "url": "https://eli.gov.pl/api/acts/DU/2023/1440/text.html"
+        }
+      ]
+    },
+    {
+      "term": "utrzymanie rozwiązania cyfrowego",
+      "definition": "Działania wykonywane podczas eksploatacji rozwiązania w celu zachowania jego funkcjonalności, bezpieczeństwa, aktualności i dostępności oraz reagowania na wykryte problemy.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "zasób cyfrowy",
+        "rozwiązanie cyfrowe",
+        "produkt cyfrowy",
+        "usługa cyfrowa",
+        "treść cyfrowa",
+        "cykl życia rozwiązania cyfrowego",
+        "cykl życia zasobu cyfrowego"
+      ]
+    },
+    {
+      "term": "utrzymanie treści",
+      "definition": "Działania podejmowane po publikacji w celu zachowania aktualności, poprawności, dostępności i użyteczności treści przez okres jej udostępniania.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "publikacja",
+        "kanał publikacji",
+        "kontrola przed publikacją",
+        "decyzja publikacyjna",
+        "publikacja warunkowa",
+        "kwalifikacja materiału",
+        "ponowna kwalifikacja"
+      ]
     },
     {
       "term": "użytkownik",
-      "definition": "osoba, która wchodzi w interakcję z produktem, usługą lub środowiskiem"
+      "definition": "Osoba, która korzysta z produktu, usługi, rozwiązania cyfrowego lub środowiska albo wchodzi z nimi w interakcję.",
+      "definitionType": "sdc"
     },
     {
-      "term": "wersja edytowalna",
-      "definition": "Postać materiału umożliwiająca jego modyfikację albo dostosowanie do wymagań dostępności cyfrowej.",
-      "relatedTerms": [ "publikacja", "decyzja publikacyjna" ]
+      "term": "Voluntary Product Accessibility Template (VPAT)",
+      "definition": "Szablon opracowany przez Information Technology Industry Council służący do sporządzania raportu zgodności z dostępnością (ACR).",
+      "definitionType": "industry",
+      "aliases": [
+        "VPAT"
+      ],
+      "relatedTerms": [
+        "wymaganie dostępności",
+        "produkt cyfrowy",
+        "odbiór rozwiązania cyfrowego",
+        "odbiór warunkowy",
+        "warunki odbioru"
+      ],
+      "references": [
+        {
+          "label": "Information Technology Industry Council – VPAT / Accessibility Conformance Report – VPAT FAQ / różnica między VPAT i ACR",
+          "url": "https://www.itic.org/policy/accessibility/vpat"
+        }
+      ]
+    },
+    {
+      "term": "warunki odbioru",
+      "definition": "Wcześniej określone wymagania, kryteria, dowody i inne przesłanki, których ocena stanowi podstawę decyzji odbiorowej.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "wymaganie dostępności",
+        "produkt cyfrowy",
+        "odbiór rozwiązania cyfrowego",
+        "odbiór warunkowy",
+        "raport zgodności z dostępnością (ACR)"
+      ]
+    },
+    {
+      "term": "weryfikacja",
+      "definition": "Sprawdzenie informacji, wyniku, działania albo stanu w celu potwierdzenia jego poprawności, zgodności z określonym kryterium lub skuteczności.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "badanie dostępności cyfrowej",
+        "test dostępności",
+        "procedura testowa",
+        "ocena",
+        "ocena dostępności",
+        "ocena zgodności",
+        "audyt dostępności cyfrowej"
+      ]
     },
     {
       "term": "weryfikacja dostępności",
       "definition": "Ocena materiału przeprowadzana przed publikacją w zakresie adekwatnym do rodzaju materiału, ryzyka wystąpienia barier oraz sposobu publikacji.",
-      "relatedTerms": [ "weryfikacja kompletności", "publikacja", "decyzja publikacyjna" ]
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "badanie dostępności cyfrowej",
+        "test dostępności",
+        "procedura testowa",
+        "ocena",
+        "ocena dostępności",
+        "ocena zgodności",
+        "audyt dostępności cyfrowej"
+      ]
     },
     {
-      "term": "weryfikacja przed publikacją",
-      "definition": "Sprawdzenie materiału przed jego publicznym udostępnieniem. Weryfikacja powinna potwierdzić kompletność napisów, opisów, transkrypcji, alternatyw tekstowych, linków, metadanych i innych elementów wymaganych dla danego formatu."
+      "term": "weryfikator dostępności",
+      "definition": "Osoba posiadająca kompetencje do sprawdzania określonych właściwości dostępności materiału lub rozwiązania i dokumentowania wyniku weryfikacji.",
+      "definitionType": "sdc",
+      "aliases": [
+        "osoba weryfikująca"
+      ],
+      "relatedTerms": [
+        "rola",
+        "odpowiedzialność",
+        "kierownictwo organizacji",
+        "koordynator do spraw dostępności",
+        "właściciel procesu",
+        "właściciel merytoryczny",
+        "właściciel rozwiązania cyfrowego"
+      ]
     },
     {
       "term": "właściciel merytoryczny",
-      "definition": "Osoba albo komórka organizacyjna odpowiedzialna za treść informacji, jej poprawność, znaczenie oraz zasadność publikacji.",
-      "relatedTerms": [ "publikacja", "decyzja publikacyjna" ]
+      "definition": "Rola odpowiadająca za merytoryczną poprawność, aktualność, cel i zasadność utrzymywania lub publikowania określonej treści.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "zasób cyfrowy",
+        "rozwiązanie cyfrowe",
+        "produkt cyfrowy",
+        "usługa cyfrowa",
+        "treść cyfrowa",
+        "cykl życia rozwiązania cyfrowego",
+        "cykl życia zasobu cyfrowego"
+      ]
     },
     {
       "term": "właściciel procesu",
-      "definition": "Osoba lub rola odpowiedzialna za działanie całego procesu publikacji, w tym za wymagania, podział odpowiedzialności, monitorowanie błędów i działania korygujące."
-
+      "definition": "Rola odpowiedzialna za ustanowienie, funkcjonowanie, monitorowanie i doskonalenie procesu oraz jego rezultaty.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "rola",
+        "odpowiedzialność",
+        "kierownictwo organizacji",
+        "koordynator do spraw dostępności",
+        "właściciel merytoryczny",
+        "właściciel rozwiązania cyfrowego",
+        "autor treści"
+      ]
+    },
+    {
+      "term": "właściciel rozwiązania cyfrowego",
+      "definition": "Rola odpowiadająca za utrzymywanie rozwiązania w stanie umożliwiającym realizację jego celu oraz za decyzje dotyczące rozwoju, zmian i wycofania.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "zasób cyfrowy",
+        "rozwiązanie cyfrowe",
+        "produkt cyfrowy",
+        "usługa cyfrowa",
+        "treść cyfrowa",
+        "cykl życia rozwiązania cyfrowego",
+        "cykl życia zasobu cyfrowego"
+      ]
     },
     {
       "term": "wskaźnik",
-      "definition": "Miara opisująca wybrany aspekt funkcjonowania SZDC. Wskaźniki służą monitorowaniu zmian, ocenie skuteczności działań oraz wspieraniu decyzji kierownictwa."
+      "definition": "Miara opisująca wybrany aspekt sposobu działania organizacji lub osiąganych rezultatów związanych z zapewnianiem dostępności cyfrowej. Wskaźniki służą obserwowaniu zmian, ocenie skuteczności działania oraz wspieraniu podejmowania decyzji.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "organizacja",
+        "organizacja wielopodmiotowa",
+        "procedura",
+        "plan",
+        "decyzja",
+        "działanie",
+        "problem"
+      ]
+    },
+    {
+      "term": "wycofanie rozwiązania cyfrowego",
+      "definition": "Zakończenie eksploatacji systemu teleinformatycznego, obejmujące decyzje dotyczące danych, metadanych, dokumentacji, integracji, kont, uprawnień, logów i dalszego przechowywania.",
+      "definitionType": "sdc",
+      "aliases": [
+        "wycofanie systemu"
+      ]
     },
     {
       "term": "wycofanie z publikacji",
-      "definition": "Zakończenie publicznego udostępniania treści w serwisie, BIP, aplikacji albo innym kanale publikacji. Wycofanie nie jest równoznaczne z usunięciem dokumentacji ani z prawidłowym zapewnieniem dostępności cyfrowej."
+      "definition": "Zaprzestanie publicznego lub określonego udostępniania zasobu bez konieczności jego usunięcia z systemów organizacji.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "publikacja",
+        "kanał publikacji",
+        "kontrola przed publikacją",
+        "decyzja publikacyjna",
+        "publikacja warunkowa",
+        "kwalifikacja materiału",
+        "ponowna kwalifikacja"
+      ]
     },
     {
-      "term": "wycofanie systemu",
-      "definition": "Zakończenie eksploatacji systemu teleinformatycznego, obejmujące decyzje dotyczące danych, metadanych, dokumentacji, integracji, kont, uprawnień, logów i dalszego przechowywania."
+      "term": "wyłączenie z obowiązku zapewnienia dostępności cyfrowej",
+      "definition": "Przypadek określony w przepisach, w którym do wskazanej strony, aplikacji, treści lub ich elementu nie stosuje się określonego obowiązku zapewnienia dostępności cyfrowej.",
+      "definitionType": "legal",
+      "references": [
+        {
+          "label": "Ustawa z 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (t.j. Dz.U. 2023 poz. 1440) – art. 3 ust. 2",
+          "url": "https://eli.gov.pl/api/acts/DU/2023/1440/text.html"
+        }
+      ]
+    },
+    {
+      "term": "wymaganie dostępności",
+      "definition": "Warunek dotyczący dostępności, który powinien zostać spełniony przez określony produkt, usługę, rozwiązanie, treść lub proces.",
+      "definitionType": "sdc",
+      "aliases": [
+        "wymogi dostępności"
+      ],
+      "relatedTerms": [
+        "dostępność",
+        "dostępność cyfrowa",
+        "zapewnianie dostępności cyfrowej",
+        "bariera",
+        "bariera dostępności cyfrowej",
+        "zgodność",
+        "systemowe zapewnianie dostępności cyfrowej"
+      ]
     },
     {
       "term": "wymiar dostępności",
-      "definition": "Aspekt, na podstawie którego organizacja mierzy swoją dojrzałość w zakresie dostępności",
-      "relatedTerms": [ "dojrzałość" ]
-    },
-
-    {
-      "term": "wymaganie obowiązkowe",
-      "definition": "Wymaganie, które musi zostać spełnione przed publikacją materiału, chyba że uruchomiono i udokumentowano procedurę postępowania w sytuacji wyjątkowej."
-    },
-
-    {
-      "term": "wymaganie warunkowe",
-      "definition": "Wymaganie stosowane wtedy, gdy występuje określony typ materiału, kanału albo sytuacji. Przykładem może być potrzeba audiodeskrypcji, gdy film zawiera informacje istotne wizualnie."
-    },
-    {
-      "term": "wymaganie zalecane",
-      "definition": "Wymaganie lub praktyka, która zwiększa dostępność i jakość komunikacji, ale nie zawsze jest traktowana jako minimalny warunek publikacji."
+      "definition": "Aspekt, na podstawie którego organizacja mierzy swoją dojrzałość w zakresie dostępności.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "organizacja",
+        "organizacja wielopodmiotowa",
+        "procedura",
+        "plan",
+        "decyzja",
+        "działanie",
+        "problem"
+      ]
     },
     {
-      "term": "wymogi dostępności",
-      "definition": "Dokładne i możliwe do przetestowania i weryfikacji  opisy każdej cechy rozwiązania (produktu) cyfrowego, które ma zostać zamówione. Inaczej: wymagania dostępności.",
-      "relatedTerms": [ "WCAG", "EN 301 549" ]
+      "term": "wynik systemu AI",
+      "definition": "Treść, predykcja, zalecenie, decyzja albo inny rezultat wygenerowany przez system AI na podstawie danych wejściowych.",
+      "definitionType": "sdc"
     },
     {
-      "term": "VPAT",
-      "abbreviation": "Voluntary Product Accessibility Template",
-      "definition": "Szablon dokumentu używany przez dostawców do oceny, w jakim stopniu dany produkt spełnia poszczególne wymagania dotyczące dostępności. Od ang. _Voluntary Product Accessibility Template®_, VPAT®. Opracowany przez Radę ds. Technologii Informatycznych (ITI).",
-      "relatedTerms": [ "ACR", "raport zgodności z dostępnością" ]
+      "term": "Wytyczne dla dostępności treści internetowych (WCAG)",
+      "definition": "Standard W3C Web Content Accessibility Guidelines określający testowalne kryteria dostępności treści internetowych i interfejsów cyfrowych.",
+      "definitionType": "normative",
+      "aliases": [
+        "WCAG",
+        "Web Content Accessibility Guidelines"
+      ],
+      "references": [
+        {
+          "label": "W3C Web Content Accessibility Guidelines (WCAG) 2.2 – dokument główny",
+          "url": "https://www.w3.org/TR/WCAG22/"
+        }
+      ]
+    },
+    {
+      "term": "zakres oceny",
+      "definition": "Określenie przedmiotu, celu, mających zastosowanie wymagań oraz granic prowadzonej oceny.",
+      "definitionType": "normative",
+      "relatedTerms": [
+        "badanie dostępności cyfrowej",
+        "test dostępności",
+        "procedura testowa",
+        "ocena",
+        "ocena dostępności",
+        "ocena zgodności",
+        "audyt dostępności cyfrowej"
+      ],
+      "references": [
+        {
+          "label": "W3C Website Accessibility Conformance Evaluation Methodology (WCAG-EM) 2.0 – kroki 1 i 3 metodyki",
+          "url": "https://www.w3.org/TR/WCAG-EM/"
+        }
+      ]
     },
     {
       "term": "zalecenie",
-      "definition": "Wystąpienie o charakterze służbowym adresowane do organizacji, podstawowa forma dokumentu Sieci. ",
-      "relatedTerms": [ "rekomendacja", "rozwiązanie systemowe", "dobra praktyka" ]
+      "definition": "Wystąpienie o charakterze służbowym adresowane do organizacji, podstawowa forma dokumentu Sieci.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "organizacja",
+        "organizacja wielopodmiotowa",
+        "procedura",
+        "plan",
+        "decyzja",
+        "działanie",
+        "problem"
+      ]
+    },
+    {
+      "term": "zapewnianie dostępności cyfrowej",
+      "definition": "Ciągłe działania organizacji służące tworzeniu, nabywaniu, utrzymywaniu, ocenianiu i poprawianiu dostępności jej rozwiązań, treści i usług cyfrowych.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "dostępność",
+        "dostępność cyfrowa",
+        "bariera",
+        "bariera dostępności cyfrowej",
+        "wymaganie dostępności",
+        "zgodność",
+        "systemowe zapewnianie dostępności cyfrowej"
+      ]
+    },
+    {
+      "term": "zapewnienie dostępu",
+      "definition": "Działania umożliwiające użytkownikowi uzyskanie tej samej informacji lub skorzystanie z tej samej usługi pomimo występowania problemu dostępności; pojęcie szersze niż ustawowy alternatywny sposób dostępu.",
+      "definitionType": "sdc"
+    },
+    {
+      "term": "zasób archiwalny",
+      "definition": "Zasób cyfrowy wycofany z bieżącego wykorzystania, zachowany ze względów prawnych, informacyjnych, dowodowych lub historycznych; nie oznacza automatycznie materiału archiwalnego w rozumieniu ustawy.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "archiwizacja formalna",
+        "archiwizacja operacyjna",
+        "materiał archiwalny",
+        "zasób archiwalny dostępny cyfrowo",
+        "migracja danych",
+        "migracja zasobu z zachowaniem dostępności",
+        "elektroniczne zarządzanie dokumentacją (EZD)"
+      ]
     },
     {
       "term": "zasób archiwalny dostępny cyfrowo",
-      "definition": "Zasób oznaczony jako archiwalny, który pozostaje publicznie dostępny i może być używany przez użytkowników zgodnie z wymaganiami dostępności cyfrowej albo z zapewnionym dostępem alternatywnym."
+      "definition": "Zasób oznaczony jako archiwalny, który pozostaje publicznie dostępny i może być używany przez użytkowników zgodnie z wymaganiami dostępności cyfrowej albo z zapewnionym dostępem alternatywnym.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "archiwizacja formalna",
+        "archiwizacja operacyjna",
+        "materiał archiwalny",
+        "zasób archiwalny",
+        "migracja danych",
+        "migracja zasobu z zachowaniem dostępności",
+        "elektroniczne zarządzanie dokumentacją (EZD)"
+      ]
     },
     {
       "term": "zasób cyfrowy",
-      "definition": "Treść, dokument, plik, dane, metadane, wpis, załącznik, multimedia albo inny element utrzymywany w postaci cyfrowej w systemie, serwisie, repozytorium lub innym środowisku teleinformatycznym."
+      "definition": "Wyodrębniony element utrzymywany w postaci cyfrowej i podlegający zarządzaniu przez organizację, np. treść, dokument, dane, multimedia, strona, aplikacja lub system.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "rozwiązanie cyfrowe",
+        "produkt cyfrowy",
+        "usługa cyfrowa",
+        "treść cyfrowa",
+        "cykl życia rozwiązania cyfrowego",
+        "cykl życia zasobu cyfrowego",
+        "cykl życia treści"
+      ]
     },
     {
       "term": "zdolność organizacji",
-      "definition": "Możliwość trwałego zapewniania dostępności cyfrowej. Zdolność organizacji wynika ze stanu systemu zapewniania dostępności cyfrowej, a nie z pojedynczych działań lub pojedynczych osób."
+      "definition": "Możliwość trwałego wykonywania określonych działań i osiągania oczekiwanych rezultatów dzięki połączeniu kompetencji, procesów, ról, narzędzi i zasobów.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "organizacja",
+        "organizacja wielopodmiotowa",
+        "procedura",
+        "plan",
+        "decyzja",
+        "działanie",
+        "problem"
+      ]
     },
     {
       "term": "zgodność",
-      "definition": "Stopień spełnienia określonych wymagań dotyczących dostępności cyfrowej. Ocena zgodności jest jednym ze źródeł informacji wykorzystywanych przez SZDC, lecz nie wyczerpuje wiedzy o rzeczywistej dostępności."
+      "definition": "Stopień spełnienia określonych wymagań dotyczących dostępności cyfrowej. Ocena zgodności jest jednym ze źródeł informacji wykorzystywanych w zapewnianiu dostępności cyfrowej, lecz nie wyczerpuje wiedzy o rzeczywistej dostępności.",
+      "definitionType": "sdc",
+      "relatedTerms": [
+        "dostępność",
+        "dostępność cyfrowa",
+        "zapewnianie dostępności cyfrowej",
+        "bariera",
+        "bariera dostępności cyfrowej",
+        "wymaganie dostępności",
+        "systemowe zapewnianie dostępności cyfrowej"
+      ]
     },
     {
       "term": "zrozumiałość",
       "definition": "Właściwość strony internetowej lub aplikacji mobilnej umożliwiającą użytkownikowi tych stron i aplikacji zrozumienie treści i sposobu ich prezentacji.",
-      "relatedTerms": [ "dostępność cyfrowa", "WCAG", "zasady dostępności" ]
+      "definitionType": "legal",
+      "references": [
+        {
+          "label": "Ustawa z 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (t.j. Dz.U. 2023 poz. 1440) – art. 4 pkt 11",
+          "url": "https://eli.gov.pl/api/acts/DU/2023/1440/text.html"
+        }
+      ]
     },
     {
       "term": "żądanie zapewnienia dostępności",
       "definition": "Wniosek użytkownika dotyczący zapewnienia dostępności określonej treści, dokumentu albo informacji opublikowanej przez podmiot publiczny.",
-      "relatedTerms": [ "dojrzałość organizacyjna", "model dojrzałości dostępności" ]
+      "definitionType": "legal",
+      "references": [
+        {
+          "label": "Ustawa z 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (t.j. Dz.U. 2023 poz. 1440) – art. 18",
+          "url": "https://eli.gov.pl/api/acts/DU/2023/1440/text.html"
+        }
+      ]
     }
   ]
 }

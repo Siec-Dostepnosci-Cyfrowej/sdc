@@ -1,0 +1,44 @@
+.glossaryTermWrapper {
+  position: relative;
+  display: inline;
+}
+
+.glossaryTerm {
+  text-decoration: underline dotted;
+  cursor: help;
+}
+
+/* Wskaźnik fokusu — widoczny kontur zgodny z WCAG 2.4.11 */
+.glossaryTerm:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+.tooltip {
+  position: fixed;
+  z-index: 999;
+  width: 320px;
+  max-width: calc(100vw - 16px);
+  background: var(--ifm-background-surface-color, #fff);
+  border: 1px solid var(--ifm-color-emphasis-300, #ccc);
+  border-radius: 6px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  padding: 10px 12px;
+  font-size: 0.85rem;
+  line-height: 1.5;
+  color: var(--ifm-font-color-base);
+  pointer-events: none;
+  visibility: hidden;
+  opacity: 0;
+}
+
+.tooltipVisible {
+  visibility: visible;
+  opacity: 1;
+  pointer-events: auto; /* WCAG 1.4.13: tooltip nie może znikać po najechaniu myszą */
+}
+
+.tooltipTop {}
+.tooltipBottom {}
+.tooltipFloating {}

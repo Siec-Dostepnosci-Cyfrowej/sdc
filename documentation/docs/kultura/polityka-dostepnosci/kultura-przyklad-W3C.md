@@ -1,23 +1,11 @@
 ---
 id: kultura-przyklad-W3C
-title: Przykład kompleksowej polityki dostępności
+title: Przykładowa polityka dostępności cyfrowej - opracowanie W3C
 sidebar_label: Przykładowa polityka
 sidebar_position: 2
 description: Przykładowa polityka dostępności cyfrowej - opracowanie W3C
-keywords: [
-        polityka dostępności,
-        dostępność cyfrowa,
-        kultura organizacyjna,
-		zarządzanie,
-		dobra praktyka
-]
-tags: [
-        polityka dostępności,
-        dostępność cyfrowa,
-        kultura organizacyjna,
-		zarządzanie,
-		dobra praktyka
-]
+keywords: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie, dobra praktyka]
+tags: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie, dobra praktyka]
 translation: Stefan Wajda
 data_zgloszenia: 14 lipca 2025 r.
 ostatnia_aktualizacja: 24 września 2025 r.

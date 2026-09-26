@@ -17,11 +17,15 @@ wersja_robocza: true
 
 Celem zalecenia jest zapewnienie pracownikom możliwości efektywnego wykonywania obowiązków służbowych poprzez dostosowywanie środowiska pracy do ich potrzeb związanych z korzystaniem z technologii, treści i usług cyfrowych.
 
+---
+
 ## 2. Zalecenie
 
 Organizacja ustanawia i stosuje proces identyfikowania potrzeb, planowania, wdrażania oraz monitorowania dostosowań i racjonalnych usprawnień związanych z korzystaniem z technologii, treści i usług cyfrowych wykorzystywanych podczas wykonywania pracy.
 
 Proces powinien umożliwiać indywidualne rozpatrywanie potrzeb pracowników oraz dobór rozwiązań adekwatnych do charakteru wykonywanej pracy i możliwości organizacji.
+
+---
 
 ## 3. Rekomendacje
 
@@ -37,6 +41,8 @@ Organizacja powinna określić:
 
 Proces powinien być dostępny cyfrowo i łatwo dostępny dla pracowników.
 
+---
+
 ### 3.2. Źródła informacji o potrzebach
 
 Podstawą planowania dostosowań mogą być w szczególności:
@@ -47,6 +53,8 @@ Podstawą planowania dostosowań mogą być w szczególności:
 - wyniki ocen środowiska pracy;
 - wyniki analiz barier cyfrowych;
 - obserwacje przełożonych i osób wspierających pracownika.
+
+---
 
 ### 3.3. Rodzaje dostosowań i usprawnień
 
@@ -61,6 +69,8 @@ Dostosowania i racjonalne usprawnienia mogą obejmować między innymi:
 - dostosowanie organizacji pracy związanej z wykorzystaniem technologii cyfrowych;
 - zapewnienie dodatkowego wsparcia technicznego lub organizacyjnego.
 
+---
+
 ### 3.4. Indywidualizacja rozwiązań
 
 Organizacja powinna dobierać rozwiązania indywidualnie, uwzględniając:
@@ -70,6 +80,8 @@ Organizacja powinna dobierać rozwiązania indywidualnie, uwzględniając:
 - dostępne rozwiązania techniczne;
 - skuteczność proponowanych działań;
 - możliwość zastosowania rozwiązań alternatywnych.
+
+---
 
 ### 3.5. Współpraca
 
@@ -82,6 +94,8 @@ W proces zapewniania dostosowań powinny być zaangażowane odpowiednio:
 - koordynator dostępności;
 - inne osoby posiadające kompetencje niezbędne do oceny i realizacji zgłoszenia.
 
+---
+
 ### 3.6. Monitorowanie skuteczności
 
 Po wdrożeniu dostosowania organizacja powinna ocenić, czy zastosowane rozwiązanie:
@@ -90,6 +104,8 @@ Po wdrożeniu dostosowania organizacja powinna ocenić, czy zastosowane rozwiąz
 - jest skuteczne i użyteczne;
 - wymaga modyfikacji;
 - wymaga działań uzupełniających.
+
+---
 
 ### 3.7. Doskonalenie systemowe
 
@@ -154,21 +170,9 @@ Wdrożenie formalnych zasad dostępności wzmacnia kulturę organizacyjną, wspi
    - [Fundacja Aktywizacja, Poradnik dla pracodawców, o tym jak tworzyć dostępne miejsce pracy](https://aktywizacja.org.pl/wp-content/uploads/2024/06/Fundacja-Aktywizacja_Poradnik-dla-pracodawcow-o-tym-jak-tworzyc-dostepne-miejsce-pracy.pdf)
    - [Fundacja Aktywizacja, Osoba z niepełnosprawnością w Twojej firmie – Niezbędnik pracodawcy](https://aktywizacja.org.pl/wiedza/publikacje/osoba-z-niepelnosprawnoscia-w-twojej-firmie-niezbednik-pracodawcy/) 
 
-
-## 7. Załączniki
-
-1. Procedura zapewniania pracownikom dostosowań i racjonalnych usprawnień cyfrowych.
-2. Uproszczona procedura dla małych organizacji.
-3. Wzór wniosku o dostosowanie lub racjonalne usprawnienie cyfrowe.
-4. Instrukcja dla pracowników.
-5. Lista kontrolna realizacji wniosku.
-6. Przykłady dostosowań i racjonalnych usprawnień cyfrowych.
-
 ---
 
-
-
-## Powiązane dokumenty
+## 7. Załączniki
 
 - [Załącznik: Projekt procedury zapewniania pracownikom dostosowań i racjonalnych usprawnień cyfrowych](zapewnianie-dostosowan-procedura-projekt)
 - [Załącznik: Uproszczona procedura zapewniania pracownikom dostosowań i usprawnień cyfrowych)](zapewnianie-dostosowan-procedura-uproszczona)
@@ -179,3 +183,5 @@ Wdrożenie formalnych zasad dostępności wzmacnia kulturę organizacyjną, wspi
 - [Załącznik: Wzór instrukcji dla pracowników (duża organizacja)](zapewnianie-dostosowan-instrukcja-duza-organizacja)
 - [Załącznik: Wzór instrukcji dla pracowników (mała organizacja)](zapewnianie-dostosowan-instrukcja-mala-organizacja)
 - [Załącznik: Lista kontrolna realizacji wniosku o dostosowanie / racjonalne usprawnienie cyfrowe](zapewnianie-dostosowan-lista-kontrolna)
+
+---

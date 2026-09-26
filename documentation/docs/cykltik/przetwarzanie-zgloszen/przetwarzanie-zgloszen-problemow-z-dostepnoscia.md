@@ -1,8 +1,8 @@
 ---
 id: przetwarzanie-zgloszen-problemow-z-dostepnoscia
 title: Przetwarzanie i obsługa problemów z dostępnością cyfrową
-sidebar_label: Projekt zalecenia
-sidebar_position: 3
+sidebar_label: Zalecenie
+sidebar_position: 1
 keywords: [inwentaryzacja, zgłoszenia, dostępność cyfrowa, koordynator dostępności cyfrowej, planowanie, projektowanie, wdrożenie, eksploatacja, archiwizacja]
 tags: [inwentaryzacja, zgłoszenia, dostępność cyfrowa, koordynator dostępności cyfrowej, planowanie, projektowanie, wdrożenie, eksploatacja, archiwizacja]
 opracowanie: Cezary Tomczyk
@@ -23,7 +23,7 @@ Podmioty publiczne zobowiązane są do systematycznego identyfikowania, rejestro
 
 ---
 
-## 3. Rekomendacje dotyczące realizacji zalecenia
+## 3. Rekomendacje
 
 ### 3.1. Organizacja procesu
 
@@ -91,9 +91,15 @@ Połączenie zgłoszeń użytkowników z wynikami monitoringu, audytów i przegl
 
 ---
 
-## 5. Źródła i opracowania
+## 5. Podstawy prawne
 
-- [Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych (Dz.U. z 2023 r. poz. 1446) (wersja pdf)](https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20190000848/T/D20190848L.pdf).
+1. Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
+
+---
+
+## 6. Źródła i opracowania
+
+
 - [Dyrektywa (UE) 2016/2102 Parlamentu Europejskiego i Rady](https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:32016L2102).
 - Wytyczne [W3C WCAG 2.1 (wersja angielska)](https://www.w3.org/TR/WCAG21/) i [EN 301 549 v3.2.1 (wersja angielska)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf).
 

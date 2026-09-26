@@ -102,23 +102,23 @@ Organizacja powinna:
 
 ---
 
-## 4. Podstawa prawna
-
-- Konwencja ONZ o prawach osób niepełnosprawnych, w szczególności art. 9 i art. 27.
-- Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami.
-- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
-- Kodeks pracy.
-- Norma PN-EN 301 549 „Wymagania dostępności dla produktów i usług ICT”.
-
----
-
-## 5. Uzasadnienie
+## 4. Uzasadnienie
 
 Możliwość zatrudniania osób z niepełnosprawnościami zależy nie tylko od dostępności procesu rekrutacji, lecz również od dostępności technologii, narzędzi i systemów wykorzystywanych podczas wykonywania pracy.
 
 Organizacja może nieświadomie tworzyć bariery ograniczające możliwości zatrudniania wykwalifikowanych kandydatów, jeżeli wykorzystywane systemy teleinformatyczne nie współpracują z technologiami wspomagającymi lub wymagają sposobów obsługi niedostępnych dla części użytkowników.
 
 Systematyczna analiza takich barier pozwala organizacji lepiej planować rozwój środowiska pracy, podejmować bardziej świadome decyzje zakupowe oraz zwiększać możliwości zatrudniania osób z niepełnosprawnościami.
+
+---
+
+## 5. Podstawa prawna
+
+- Konwencja ONZ o prawach osób niepełnosprawnych, w szczególności art. 9 i art. 27.
+- Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami.
+- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
+- Kodeks pracy.
+- Norma PN-EN 301 549 „Wymagania dostępności dla produktów i usług ICT”.
 
 ---
 

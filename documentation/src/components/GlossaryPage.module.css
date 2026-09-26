@@ -1,0 +1,232 @@
+.glossaryContainer {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.glossaryHeader {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.glossaryHeader h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.glossaryDescription {
+  font-size: 1.1rem;
+  color: var(--ifm-color-emphasis-700);
+  margin-bottom: 2rem;
+}
+
+.searchContainer {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.searchLabel {
+  display: block;
+  font-size: 0.95rem;
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+  color: var(--ifm-font-color-base);
+  text-align: left;
+}
+
+.searchInput {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  border: 2px solid var(--ifm-color-emphasis-300);
+  border-radius: 0.5rem;
+  background: var(--ifm-background-color);
+  color: var(--ifm-font-color-base);
+  transition: border-color 0.2s;
+}
+
+/* Widoczny wskaźnik fokusu — nie usuwamy outline bez zastąpienia (WCAG 2.4.11) */
+.searchInput:focus {
+  outline: none;
+  border-color: var(--ifm-color-primary);
+}
+
+.searchInput:focus-visible {
+  outline: 3px solid var(--ifm-color-primary);
+  outline-offset: 2px;
+  border-color: var(--ifm-color-primary);
+}
+
+.noResults {
+  text-align: center;
+  padding: 3rem 1rem;
+  color: var(--ifm-color-emphasis-600);
+}
+
+.glossaryContent {
+  margin-top: 2rem;
+}
+
+.letterNav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background: var(--ifm-color-emphasis-100);
+  border-radius: 0.5rem;
+}
+
+.letterLink {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  font-weight: bold;
+  color: var(--ifm-color-primary);
+  text-decoration: none;
+  border-radius: 0.25rem;
+  transition: all 0.2s;
+}
+
+.letterLink:hover {
+  background: var(--ifm-color-primary);
+  color: white;
+}
+
+.letterSection {
+  margin-bottom: 3rem;
+}
+
+.letterHeading {
+  font-size: 2rem;
+  color: var(--ifm-color-primary);
+  border-bottom: 2px solid var(--ifm-color-emphasis-300);
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.termList {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.termItem {
+  padding: 1.5rem;
+  background: var(--ifm-card-background-color);
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 0.5rem;
+  transition: all 0.2s;
+}
+
+.termItem:hover {
+  border-color: var(--ifm-color-primary);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.termName {
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: var(--ifm-heading-color);
+  margin-bottom: 0.75rem;
+}
+
+.abbreviation {
+  font-size: 0.9rem;
+  color: var(--ifm-color-emphasis-600);
+  font-weight: normal;
+}
+
+.definitionTypeBadge {
+  display: inline-block;
+  font-size: 0.6em;
+  font-weight: 600;
+  line-height: 1;
+  padding: 3px 7px;
+  border-radius: 3px;
+  margin-left: 8px;
+  vertical-align: middle;
+  background: var(--ifm-color-emphasis-100);
+  color: var(--ifm-color-emphasis-700);
+  border: 1px solid var(--ifm-color-emphasis-300);
+  white-space: nowrap;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+[data-theme='dark'] .definitionTypeBadge {
+  background: var(--ifm-color-emphasis-200);
+  color: var(--ifm-color-emphasis-600);
+  border-color: var(--ifm-color-emphasis-400);
+}
+
+.termDefinition {
+  margin: 0;
+  line-height: 1.6;
+  color: var(--ifm-color-emphasis-800);
+}
+
+.documentation,
+.references,
+.relatedTerms {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--ifm-color-emphasis-200);
+  font-size: 0.9rem;
+  color: var(--ifm-color-emphasis-700);
+}
+
+.documentation a,
+.references a,
+.relatedTerms a {
+  color: var(--ifm-color-primary);
+  text-decoration: none;
+}
+
+.documentation a:hover,
+.references a:hover,
+.relatedTerms a:hover {
+  text-decoration: underline;
+}
+
+.glossaryFooter {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--ifm-color-emphasis-200);
+  text-align: center;
+  color: var(--ifm-color-emphasis-600);
+}
+
+[data-theme='dark'] .termItem {
+  background: var(--ifm-background-surface-color);
+}
+
+[data-theme='dark'] .searchInput {
+  background: var(--ifm-background-surface-color);
+}
+
+@media (max-width: 768px) {
+  .glossaryHeader h1 {
+    font-size: 2rem;
+  }
+
+  .letterNav {
+    gap: 0.25rem;
+  }
+
+  .letterLink {
+    width: 1.75rem;
+    height: 1.75rem;
+    font-size: 0.9rem;
+  }
+
+  .termItem {
+    padding: 1rem;
+  }
+
+  .termName {
+    font-size: 1.1rem;
+  }
+}

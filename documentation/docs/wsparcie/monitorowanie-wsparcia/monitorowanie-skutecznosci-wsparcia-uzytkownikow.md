@@ -2,7 +2,7 @@
 id: monitorowanie-skutecznosci-wsparcia-uzytkownikow
 title: Monitorowanie skuteczności wsparcia użytkowników
 description: Organizacja monitoruje skuteczność wsparcia użytkowników i wykorzystuje wyniki analiz do doskonalenia usług, procedur oraz systemu zapewniania dostępności cyfrowej.
-sidebar_label: Monitorowanie skuteczności wsparcia
+sidebar_label: Zalecenie
 sidebar_position: 1
 keywords: [monitorowanie wsparcia,obsługa użytkowników,skuteczność wsparcia,doskonalenie usług]
 tags: [wsparcie]

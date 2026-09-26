@@ -6,22 +6,23 @@ import type { Config } from '@docusaurus/types';
 import { themes as prismThemes } from 'prism-react-renderer';
 import remarkMermaidStatic from '@barrierenlos/docusaurus-prerender-mermaid/remark';
 
-import path from 'path';
 import { createRequire } from 'module';
 
 // Zamiast getRemarkPlugin z paczki — nasz plugin z linkOnlyFirstOccurrence
 // Używamy createRequire bo jiti na Windows nie obsługuje dynamic import .mjs
 const _require = createRequire(__filename);
-const remarkGlossaryFirstOccurrence = _require('./src/remark/glossary-first-occurrence.cjs');
+const remarkGlossarySdc = _require('./src/remark/glossary-sdc.cjs');
+const glossaryPageOverride = _require('./src/plugins/glossary-page-override.cjs');
+const baseUrl = process.env.BASE_URL || '/sdc/';
 const glossaryOptions = {
     glossaryPath: 'slownik/slownik.json',
-    routePath: './slownik',
-    siteDir: __dirname,
-    expandAcronymsOnFirstUse: true,
+    routePath: '/sdc/slownik',
+  siteDir: __dirname,
+    expandAcronymsOnFirstUse: false,
     linkOnlyFirstOccurrence: true,   // ← tylko pierwsze wystąpienie na plik
 };
 
-const glossaryRemarkPlugin = [remarkGlossaryFirstOccurrence, glossaryOptions] as const;
+const glossaryRemarkPlugin = [remarkGlossarySdc, glossaryOptions] as const;
 
 // ==============================
 //  KONFIGURACJA GŁÓWNA SIECI
@@ -38,8 +39,15 @@ const config: Config = {
     trailingSlash: false,
     staticDirectories: ['static'],
 
-    onBrokenLinks: 'warn',
-    onBrokenMarkdownLinks: 'warn',
+    onBrokenLinks: 'throw',
+
+    markdown: {
+        hooks: {
+            onBrokenMarkdownLinks: 'warn',
+        },
+    },
+
+
 
     future: {
         v4: false,
@@ -53,7 +61,9 @@ const config: Config = {
     // =====================================
 
     plugins: [
-        path.resolve(__dirname, 'plugins/alias-plugin'),
+
+        // Podmienia GlossaryPage z pluginu na naszą wersję (NormalModuleReplacementPlugin)
+        glossaryPageOverride,
 
         [
             '@barrierenlos/docusaurus-prerender-mermaid',
@@ -183,13 +193,13 @@ const config: Config = {
                     label: 'Generatory',
                     position: 'left',
                     items: [
-                        { label: 'Generator zaleceń', to: '/generator-zalecen' },
-                        { label: 'Generator opisów praktyk', to: '/generator-dobrej-praktyki' },
-                        { label: 'Word na Markdown', to: '/generator-docx-markdown' },
+                        { label: 'Generator zaleceń', href: 'https://siec-dostepnosci-cyfrowej.github.io/generatory/generator-zalecen/' },
+                        { label: 'Generator opisów praktyk', href: 'https://siec-dostepnosci-cyfrowej.github.io/generatory/generator-dobrej-praktyki/' },
+                        { label: 'Word na Markdown', href: 'https://siec-dostepnosci-cyfrowej.github.io/generatory/generator-docx-markdown/' },
 
                     ],
                 },
-                { to: '/slownik', label: 'Słownik', position: 'left' },
+                { href: 'https://siec-dostepnosci-cyfrowej.github.io/sdc/slownik', label: 'Słownik', position: 'left' },
                 { to: '/blog', label: 'Blog', position: 'left' },
                 {
                     href: 'https://github.com/Siec-Dostepnosci-Cyfrowej/sdc',

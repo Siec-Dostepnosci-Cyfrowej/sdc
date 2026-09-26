@@ -2,7 +2,7 @@
 id: specjalista-w procesie-zakupowym
 title: Zapewnienie udziału specjalisty ds. dostępności cyfrowej w procesie zakupów 
 description:  Organizacja zapewnia udział specjalisty ds. dostępności cyfrowej w procesie zakupów technologii i treści cyfrowych
-sidebar_label: Projekt zalecenia
+sidebar_label: Zalecenia
 sidebar_position: 0
 keywords: [udział specjalisty]
 tags: [udział specjalisty]
@@ -24,7 +24,7 @@ Zaleca się, aby specjalista ds. dostępności cyfrowej był zaangażowany na ws
 - stron internetowych i aplikacji mobilnych,
 - platform e-usług,
 - treści cyfrowych (np. dokumentów, e-learningu, multimediów).
-### Rekomendowany zakres udziału specjalisty ds. dostępności:
+### 2.1 Rekomendowany zakres udziału specjalisty ds. dostępności:
 1. **Etap planowania i analizy potrzeb**
 - określenie wymagań dotyczących dostępności zgodnie ze wskazaniami zawartymi w załączniku do Ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych i obowiązującymi przepisami,
 - wpisanie wymagań dostępności do opisu zamówienia,
@@ -52,7 +52,7 @@ Zaleca się, aby specjalista ds. dostępności cyfrowej był zaangażowany na ws
 - kontrola dostarczonego rozwiązania pod kątem zasad dostępności,
 - wskazywanie działań naprawczych i sposobów utrzymania dostępności.
 
-### Kompetencje specjalisty ds. dostępności cyfrowej
+### 2.2 Kompetencje specjalisty ds. dostępności cyfrowej
 Organizacja określa minimalne kompetencje specjalisty ds. dostępności cyfrowej.
 
 **Kompetencje merytoryczne**

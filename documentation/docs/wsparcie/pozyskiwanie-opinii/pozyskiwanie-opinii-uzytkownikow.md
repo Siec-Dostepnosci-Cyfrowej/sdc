@@ -2,7 +2,7 @@
 id: pozyskiwanie-opinii-uzytkownikow
 title: Aktywne pozyskiwanie opinii użytkowników o dostępności cyfrowej
 description: Dobre praktyki i zalecenia przy zbieraniu opinii o dostępności cyfrowej
-sidebar_label: Projekt zalecenia
+sidebar_label: Zalecenie
 sidebar_position: 1
 keywords: [cykl życia TIK, dostępność cyfrowa, dobre praktyki, zalecenia, opinie]
 tags: [cykl życia TIK, dostępność cyfrowa, dobre praktyki, zalecenia, opinie]
@@ -42,13 +42,9 @@ W szczególności należy zapewnić:
 
 Te działania mają charakter obowiązkowy i powinny być utrzymywane w sposób ciągły.
 
----
-
 ### 3.2. Formy polecane (dobre praktyki)
 
 Oprócz ustawowego minimum, zaleca się stosowanie **różnorodnych i aktywnych metod pozyskiwania opinii od użytkowników**, podzielonych na dwie grupy:
-
----
 
 #### A. Informacje uzyskiwane za pomocą formularzy, ankiet i innych narzędzi interaktywnych
 
@@ -60,8 +56,6 @@ Oprócz ustawowego minimum, zaleca się stosowanie **różnorodnych i aktywnych 
 - **Okresowe badania satysfakcji użytkowników** – prowadzone online, np. raz w roku lub po wprowadzeniu istotnych zmian w strukturze serwisu lub systemu.  
 - **Analiza zgłoszeń i komentarzy w mediach społecznościowych**, forach lub innych kanałach kontaktu z użytkownikami, jeśli dotyczą problemów z dostępnością treści lub funkcji serwisu.  
 
----
-
 #### B. Ukierunkowane badania z udziałem osób z niepełnosprawnościami
 
 - **Konsultacje z organizacjami społecznymi** działającymi na rzecz osób z niepełnosprawnościami – np. zaproszenie przedstawicieli organizacji do przeglądu strony, testu lub warsztatu.  
@@ -72,11 +66,28 @@ Oprócz ustawowego minimum, zaleca się stosowanie **różnorodnych i aktywnych 
 
 ---
 
-## 4. Integracja informacji zwrotnych w działaniach organizacji
+### 3.4. Integracja informacji zwrotnych w działaniach organizacji
 
 - Zaleca się, aby osoba lub zespół ds. dostępności był odpowiedzialny za **koordynację pozyskiwania opinii użytkowników** oraz analizę i archiwizowanie zgłoszeń.  
 - Wnioski z analizy opinii powinny być **uwzględniane przy aktualizacji deklaracji dostępności** i planów poprawy dostępności.  
 - Dane o zgłoszeniach i działaniach naprawczych warto ująć w **raporcie z monitorowania dostępności cyfrowej**, publikowanym co najmniej raz w roku.
+
+---
+
+## 4. Uzasadnienie
+
+Formalne audyty i testy techniczne stanowią ważny element zapewniania dostępności cyfrowej, jednak nie zastąpią **bezpośredniego doświadczenia użytkowników**, którzy korzystają z usług publicznych na co dzień. Aktywne pozyskiwanie opinii od rzeczywistych użytkowników, w tym osób z niepełnosprawnościami, stanowi kluczowy element doskonalenia dostępności i pozwala na szybkie reagowanie na wykryte bariery.
+
+Aktywne pozyskiwanie opinii:
+
+- pozwala wykryć problemy, których testy automatyczne nie identyfikują,  
+- buduje zaufanie do instytucji publicznych,  
+- sprzyja uczeniu się organizacyjnemu i podnoszeniu dojrzałości w zakresie dostępności,  
+- umożliwia udoskonalanie działań naprawczych i rozwojowych,  
+- **realizuje zasadę dostępności jako procesu**, a nie jednorazowego działania,  
+- **umożliwia użytkownikom aktywne uczestnictwo** w doskonaleniu usług publicznych,  
+- **pozwala na szybsze wykrycie i usunięcie barier**, które mogą nie być widoczne w testach automatycznych,  
+- **stanowi dowód należytej staranności** w przypadku kontroli lub rozpatrywania skarg dotyczących dostępności cyfrowej.
 
 ---
 
@@ -97,39 +108,23 @@ Oprócz ustawowego minimum, zaleca się stosowanie **różnorodnych i aktywnych 
 
 ---
 
-## 6. Uzasadnienie
+## 6. Źródła i opracowania
 
-Formalne audyty i testy techniczne stanowią ważny element zapewniania dostępności cyfrowej, jednak nie zastąpią **bezpośredniego doświadczenia użytkowników**, którzy korzystają z usług publicznych na co dzień. Aktywne pozyskiwanie opinii od rzeczywistych użytkowników, w tym osób z niepełnosprawnościami, stanowi kluczowy element doskonalenia dostępności i pozwala na szybkie reagowanie na wykryte bariery.
-
-Aktywne pozyskiwanie opinii:
-
-- pozwala wykryć problemy, których testy automatyczne nie identyfikują,  
-- buduje zaufanie do instytucji publicznych,  
-- sprzyja uczeniu się organizacyjnemu i podnoszeniu dojrzałości w zakresie dostępności,  
-- umożliwia udoskonalanie działań naprawczych i rozwojowych,  
-- **realizuje zasadę dostępności jako procesu**, a nie jednorazowego działania,  
-- **umożliwia użytkownikom aktywne uczestnictwo** w doskonaleniu usług publicznych,  
-- **pozwala na szybsze wykrycie i usunięcie barier**, które mogą nie być widoczne w testach automatycznych,  
-- **stanowi dowód należytej staranności** w przypadku kontroli lub rozpatrywania skarg dotyczących dostępności cyfrowej.
-
----
-
-## 7. Źródła i opracowania
-
-1. [W3C WAI: *Involving Users in Evaluating Web Accessibility](https://www.w3.org/WAI/test-evaluate/involving-users/) 
+1. [W3C WAI: Involving Users in Evaluating Web Accessibility](https://www.w3.org/WAI/test-evaluate/involving-users/) 
 2. [Ustawa o dostępności cyfrowej z dnia 4 kwietnia 2019 r.](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000848)
 3. [Dyrektywa (UE) 2016/2102](https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX%3A32016L2102)
 4. [Europejski Akt o Dostępności - Rozporządzenie (UE) 2019/882](https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX%3A32019L0882)
 5. [Złóż wniosek o zapewnienie dostępności cyfrowej strony internetowej lub aplikacji mobilnej](https://www.gov.pl/web/gov/zloz-wniosek-o-zapewnienie-dostepnosci-cyfrowej-strony-internetowej-lub-aplikacji-mobilnej)
 
+---
 
-## 8. Załączniki
+## 7. Załączniki
 
-1. [**Wzór rejestru zgłoszeń dotyczących dostępności cyfrowej**](zgloszenia-uzytkownikow-wzor-rejestru)  
+1. [Wzór rejestru zgłoszeń dotyczących dostępności cyfrowej](zgloszenia-uzytkownikow-wzor-rejestru)  
 2. [Wzór rejestru zgłoszeń dotyczących dostępności cyfrowej, Excel](/wsparcie/pozyskiwanie-opinii/wzor-rejestru-zgloszen-dostepnosci-cyfrowej.xlsx)
-3. [**Instrukcja obsługi zgłoszeń dotyczących dostępności cyfrowej**](zgloszenia-uzytkownikow-instrukcja.md)
+3. [Instrukcja obsługi zgłoszeń dotyczących dostępności cyfrowej](zgloszenia-uzytkownikow-instrukcja.md)
 4. [Przykładowy formularz „Alert dostępności”](/wsparcie/pozyskiwanie-opinii/alert-dostepnosci-strona.txt) 
 5. [Przykładowy formularz „Alert dostępności” dla CMS](/wsparcie/pozyskiwanie-opinii/alert-dostepnosci-cms.txt)
 6. [O Przycisku Zgłoś problem z dostępnością](pozyskiwanie-opinii-o-przycisku)
 
-
+---

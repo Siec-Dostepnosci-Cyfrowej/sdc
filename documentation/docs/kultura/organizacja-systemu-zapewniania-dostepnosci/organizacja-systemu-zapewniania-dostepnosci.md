@@ -335,11 +335,8 @@ Dostępność cyfrowa staje się wówczas elementem zarządzania organizacją or
 
 ## 7. Załączniki
 
-1. Model organizacji odpowiedzialności w systemie zapewniania dostępności cyfrowej
-2. Słownik ról i odpowiedzialności
-3. Referencyjna mapa odpowiedzialności procesowej (RACI)
-4. Opis głównych procesów zapewniania dostępności cyfrowej
-5. Model wsparcia kompetencyjnego
-6. Zasady monitorowania, kontroli i raportowania
-7. Modele organizacyjne dla różnych typów podmiotów
-8. Powiązanie procesów z kompetencjami i rolami
+1. [Organizacja systemu zapewniania dostępności cyfrowej](organizacja-systemu-zapewniania-dostepnosci.md)
+2. [Zapewnianie zasobów dla systemu dostępności cyfrowej](zapewnianie-zasobow-dla-systemu-dostepnosci-cyfrowej.md)
+3. [Opis głównych procesów zapewniania dostępności cyfrowej](opis-procesow-dostepnosc-cyfrowa.md)
+4. [Poradnik wdrożeniowy — organizacja i wdrażanie procesów zapewniania dostępności cyfrowej](poradnik-wdrozeniowy-procesy-zapewniania-dostepnosci.md)
+5. [Monitoring i ocena dojrzałości organizacji w zakresie zapewniania dostępności cyfrowej](monitoring-i-ocena-dojrzalosci.md)
