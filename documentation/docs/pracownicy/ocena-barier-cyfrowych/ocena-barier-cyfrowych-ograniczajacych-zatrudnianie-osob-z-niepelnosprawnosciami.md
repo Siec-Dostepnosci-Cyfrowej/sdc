@@ -1,12 +1,13 @@
 ---
 id: ocena-barier-cyfrowych-ograniczajacych-zatrudnianie-osob-z-niepelnosprawnosciami
 title: Ocena barier cyfrowych ograniczających zatrudnianie osób z niepełnosprawnościami
-description: Organizacja identyfikuje i ocenia bariery cyfrowe mogące ograniczać możliwości zatrudniania oraz wykonywania pracy przez osoby z niepełnosprawnościami i wykorzystuje wyniki analiz do planowania działań zwiększających dostępność środowiska pracy.
+description: Organizacja rozpoznaje i ocenia bariery cyfrowe mogące ograniczać możliwości zatrudniania osób z niepełnosprawnościami i wykonywania przez nie pracy oraz wykorzystuje wyniki oceny do ograniczania barier i planowania zmian w cyfrowym środowisku pracy.
 sidebar_label: Zalecenie
 sidebar_position: 0
-keywords: [osoby z niepełnosprawnościami, zatrudnianie, bariery cyfrowe, środowisko pracy]
+keywords: [dostępność cyfrowa, osoby z niepełnosprawnościami, zatrudnianie, bariery cyfrowe, cyfrowe środowisko pracy, systemy informatyczne]
 tags: [osoby z niepełnosprawnościami, zatrudnianie, bariery cyfrowe, środowisko pracy]
 opracowanie: Stefan Wajda
+wspolpraca: Karolina Paluszek
 data_zgloszenia: 19 czerwca 2026 r.
 ostatnia_aktualizacja: 20 czerwca 2026 r.
 wersja_robocza: true
@@ -14,119 +15,123 @@ wersja_robocza: true
 
 ## 1. Cel zalecenia
 
-Celem zalecenia jest wspieranie organizacji w identyfikowaniu, analizowaniu i ograniczaniu barier cyfrowych, które mogą utrudniać lub uniemożliwiać zatrudnianie oraz wykonywanie pracy przez osoby z niepełnosprawnościami.
+Rozpoznawanie barier cyfrowych w środowisku pracy, które mogą ograniczać możliwości zatrudniania osób z niepełnosprawnościami i wykonywania przez nie pracy.
 
 ## 2. Zalecenie
 
-Organizacja okresowo identyfikuje, analizuje i ocenia bariery cyfrowe występujące w procesach rekrutacji, wdrażania pracowników oraz wykonywania pracy, a także ocenia gotowość środowiska pracy do zatrudniania osób z różnymi rodzajami niepełnosprawności.
-
-Wyniki analiz są wykorzystywane do planowania i realizacji działań zwiększających dostępność cyfrową środowiska pracy oraz możliwości zatrudniania osób z niepełnosprawnościami.
+Organizacja okresowo rozpoznaje i ocenia bariery cyfrowe w środowisku pracy, które mogą ograniczać możliwości zatrudniania osób z niepełnosprawnościami i wykonywania przez nie pracy. Wyniki oceny wykorzystuje do ograniczania zidentyfikowanych barier oraz planowania zmian w cyfrowym środowisku pracy.
 
 
 ## 3. Rekomendacje
 
-### 3.1. Analiza procesów zatrudniania
+### 3.1. Zakres oceny
 
-Organizacja powinna okresowo oceniać dostępność cyfrową procesów związanych z:
+Organizacja ocenia cyfrowe środowisko pracy pod kątem barier, które mogą ograniczać możliwości zatrudniania osób z niepełnosprawnościami i wykonywania przez nie pracy.
 
-- pozyskiwaniem kandydatów;
-- rekrutacją;
-- postępowaniami kwalifikacyjnymi;
-- wdrażaniem nowych pracowników;
-- szkoleniami wstępnymi;
-- komunikacją wewnętrzną.
+Ocena obejmuje w szczególności:
 
-Analiza powinna obejmować zarówno dostępność narzędzi cyfrowych, jak i sposób organizacji poszczególnych procesów.
+- systemy informatyczne i aplikacje wykorzystywane przez pracowników;
+- narzędzia komunikacji i współpracy;
+- dokumenty elektroniczne, formularze i inne treści cyfrowe potrzebne do wykonywania pracy;
+- urządzenia i interfejsy cyfrowe wykorzystywane na stanowiskach pracy;
+- mechanizmy uwierzytelniania, autoryzacji i inne rozwiązania warunkujące dostęp do środowiska cyfrowego;
+- współpracę wykorzystywanych rozwiązań z technologiami wspomagającymi oraz możliwość korzystania z nich różnymi sposobami.
 
-### 3.2. Ocena gotowości środowiska pracy
+Ocena nie ogranicza się do sprawdzenia formalnej zgodności poszczególnych rozwiązań z wymaganiami dostępności. Służy rozpoznaniu barier, które w praktyce mogą uniemożliwiać lub utrudniać wykonywanie pracy.
 
-Organizacja powinna identyfikować stanowiska pracy, których wykonywanie wymaga korzystania z technologii informacyjno-komunikacyjnych, a następnie oceniać możliwość wykonywania tych zadań przez osoby korzystające z technologii wspomagających.
+### 3.2. Systemy wewnętrzne i rozwiązania zewnętrzne
 
-Ocena powinna koncentrować się na rzeczywistych wymaganiach stanowiska pracy, a nie na założeniach dotyczących możliwości osób z określonym rodzajem niepełnosprawności.
+Organizacja rozpoznaje bariery zarówno w rozwiązaniach, nad którymi ma bezpośrednią kontrolę, jak i w rozwiązaniach dostarczanych lub utrzymywanych przez podmioty zewnętrzne.
 
-### 3.3. Ocena dostępności technologii wykorzystywanych przez pracowników
+W odniesieniu do własnych systemów, treści i konfiguracji określa możliwe działania służące usunięciu lub ograniczeniu zidentyfikowanych barier.
 
-Analiza powinna obejmować w szczególności:
+Jeżeli bariera występuje w rozwiązaniu zewnętrznym, którego organizacja nie może samodzielnie zmienić, w zależności od sytuacji:
 
-- systemy kadrowe;
-- systemy obiegu dokumentów;
-- systemy dziedzinowe;
-- intranet;
-- platformy szkoleniowe;
-- narzędzia komunikacji elektronicznej;
-- systemy wideokonferencyjne;
-- narzędzia pracy zespołowej;
-- oprogramowanie specjalistyczne wykorzystywane na poszczególnych stanowiskach.
+- zgłasza problem dostawcy lub podmiotowi odpowiedzialnemu za rozwiązanie i dąży do jego usunięcia;
+- uwzględnia problem przy podejmowaniu decyzji dotyczących dalszego wykorzystywania, rozwoju lub zastąpienia rozwiązania;
+- uwzględnia wymagania wynikające z rozpoznanego problemu przy kolejnych zakupach lub zamówieniach;
+- zapewnia rozwiązanie zastępcze, jeżeli jest ono potrzebne do umożliwienia wykonywania pracy do czasu usunięcia bariery lub zastąpienia niedostępnego rozwiązania.
 
-### 3.4. Ocena współpracy z technologiami wspomagającymi
+Zastosowanie rozwiązania zastępczego nie zastępuje działań zmierzających do trwałego usunięcia bariery.
 
-Organizacja powinna analizować możliwość korzystania z wykorzystywanych systemów i narzędzi przy użyciu:
+### 3.3. Sposób prowadzenia oceny
 
-- czytników ekranu;
-- monitorów i notatników brajlowskich;
-- programów powiększających;
-- sterowania głosowego;
-- alternatywnych urządzeń wejścia;
-- innych technologii wspomagających wykorzystywanych przez pracowników.
+Ocena wykorzystuje metody odpowiednie do rodzaju analizowanych rozwiązań i możliwych sposobów korzystania z nich. Może obejmować między innymi przegląd wymagań i dokumentacji dostępności, testy automatyczne i manualne, sprawdzanie współpracy z technologiami wspomagającymi oraz testowanie typowych zadań wykonywanych przez pracowników.
 
-### 3.5. Wykorzystywanie wyników analiz
+Na podstawie oceny organizacja ustala:
 
-Wyniki analiz powinny być wykorzystywane przy:
+- na czym polega bariera;
+- jakich sposobów korzystania z rozwiązania dotyczy;
+- jakie zadania lub czynności może ograniczać;
+- jakie mogą być jej skutki dla możliwości zatrudnienia i wykonywania pracy;
+- czy organizacja może usunąć lub ograniczyć barierę oraz jakie działania są w tym celu możliwe.
 
-- planowaniu zatrudnienia;
-- modernizacji środowiska pracy;
-- zakupach technologii informacyjno-komunikacyjnych;
-- planowaniu działań związanych z dostępnością cyfrową;
-- projektowaniu procesów rekrutacji i wdrażania pracowników;
-- przygotowywaniu planów usuwania barier.
+W ocenie warto wykorzystywać wiedzę i doświadczenie osób z niepełnosprawnościami oraz użytkowników technologii wspomagających. Ich udział uzupełnia ocenę techniczną i pomaga rozpoznawać bariery występujące podczas rzeczywistego wykonywania zadań.
 
-### 3.6. Udział użytkowników
+### 3.4. Priorytetyzacja problemów
 
-Organizacja powinna, w miarę możliwości, angażować w ocenę:
+Organizacja ocenia znaczenie rozpoznanych barier i ustala priorytety ich usuwania lub ograniczania.
 
-- pracowników z niepełnosprawnościami;
-- osoby korzystające z technologii wspomagających;
-- koordynatora dostępności;
-- pracowników odpowiedzialnych za systemy teleinformatyczne;
-- przedstawicieli działu kadr.
+Przy ustalaniu priorytetów uwzględnia w szczególności:
 
-### 3.7. Dokumentowanie i monitorowanie
+- zakres i dotkliwość ograniczeń powodowanych przez barierę;
+- znaczenie rozwiązania i wykonywanych za jego pomocą zadań dla pracy na danym stanowisku;
+- liczbę stanowisk, procesów i osób, których problem może dotyczyć;
+- możliwość wykonania zadania w inny dostępny sposób;
+- częstotliwość korzystania z rozwiązania;
+- możliwość i czas usunięcia bariery;
+- planowane zmiany, modernizacje, zakupy lub zastąpienie rozwiązania.
 
-Organizacja powinna:
+Wysoki priorytet otrzymują w szczególności bariery, które mogą uniemożliwiać wykonywanie podstawowych zadań na określonych stanowiskach albo istotnie ograniczać możliwość zatrudnienia osoby z niepełnosprawnością.
 
-1. Dokumentować wyniki analiz.
-2. Rejestrować zidentyfikowane bariery.
-3. Określać działania naprawcze i doskonalące.
-4. Monitorować skuteczność wdrażanych rozwiązań.
-5. Okresowo aktualizować ocenę w związku ze zmianami organizacyjnymi, zakupem nowych technologii lub zgłoszeniem nowych problemów.
+### 3.5. Wykorzystanie wyników oceny
+
+Wyniki oceny są dokumentowane i wykorzystywane do planowania działań służących usuwaniu i ograniczaniu barier cyfrowych w środowisku pracy.
+
+W zależności od charakteru problemu mogą prowadzić w szczególności do:
+
+- poprawy, aktualizacji lub zmiany konfiguracji wykorzystywanego rozwiązania;
+- zgłoszenia problemu dostawcy;
+- zaplanowania modernizacji lub zastąpienia niedostępnego rozwiązania;
+- określenia wymagań dostępności przy kolejnych zakupach i zamówieniach;
+- przygotowania rozwiązania zastępczego;
+- zmiany standardów, procedur lub sposobów tworzenia i udostępniania treści cyfrowych.
+
+W podmiotach objętych obowiązkiem przygotowania Planu działania na rzecz poprawy zapewniania dostępności osobom ze szczególnymi potrzebami wyniki oceny są uwzględniane podczas jego przygotowania i aktualizacji.
+
+### 3.6. Okresowość i aktualizacja oceny
+
+Organizacja określa częstotliwość kompleksowej oceny barier cyfrowych, uwzględniając charakter i skalę wykorzystywanego środowiska cyfrowego oraz częstotliwość i zakres zachodzących w nim zmian.
+
+Niezależnie od przyjętej częstotliwości ocena jest przeprowadzana lub odpowiednio aktualizowana, gdy zmiany mogą powodować powstanie nowych barier albo istotnie wpływać na możliwość wykonywania pracy przez osoby z niepełnosprawnościami, w szczególności w związku z:
+
+- wdrożeniem lub istotną zmianą systemu informatycznego albo innego rozwiązania cyfrowego;
+- zmianą podstawowych narzędzi lub technologii wykorzystywanych przez pracowników;
+- zmianą sposobu organizacji pracy mającą wpływ na korzystanie z rozwiązań cyfrowych;
+- ujawnieniem wcześniej nierozpoznanej bariery.
 
 ---
 
 ## 4. Uzasadnienie
 
-Możliwość zatrudniania osób z niepełnosprawnościami zależy nie tylko od dostępności procesu rekrutacji, lecz również od dostępności technologii, narzędzi i systemów wykorzystywanych podczas wykonywania pracy.
+Możliwość zatrudniania osób z niepełnosprawnościami zależy nie tylko od dostępności procesu rekrutacji, lecz również od dostępności cyfrowego środowiska pracy. Systemy informatyczne, aplikacje, narzędzia komunikacji i współpracy, dokumenty elektroniczne oraz inne rozwiązania cyfrowe wykorzystywane podczas wykonywania pracy mogą zawierać bariery, które ograniczają możliwość zatrudnienia osoby z niepełnosprawnością mimo posiadania przez nią wymaganych kwalifikacji.
 
-Organizacja może nieświadomie tworzyć bariery ograniczające możliwości zatrudniania wykwalifikowanych kandydatów, jeżeli wykorzystywane systemy teleinformatyczne nie współpracują z technologiami wspomagającymi lub wymagają sposobów obsługi niedostępnych dla części użytkowników.
+Organizacja nie zawsze dowiaduje się o takich barierach przed zatrudnieniem osoby, której mogą one dotyczyć. Jeżeli dostępność środowiska pracy jest oceniana dopiero w odpowiedzi na potrzeby konkretnego pracownika, część problemów ujawnia się dopiero po rozpoczęciu pracy, kiedy ich usunięcie może wymagać czasu, zmian technicznych lub współpracy z dostawcą rozwiązania. Okresowe rozpoznawanie barier pozwala organizacji wcześniej ocenić, w jakim zakresie wykorzystywane rozwiązania cyfrowe mogą ograniczać możliwość wykonywania pracy przez osoby korzystające z różnych sposobów obsługi i technologii wspomagających.
 
-Systematyczna analiza takich barier pozwala organizacji lepiej planować rozwój środowiska pracy, podejmować bardziej świadome decyzje zakupowe oraz zwiększać możliwości zatrudniania osób z niepełnosprawnościami.
+Ocena barier nie jest tym samym co ocena zgodności poszczególnych produktów lub usług cyfrowych z wymaganiami dostępności. Jej przedmiotem jest wpływ rozpoznanych problemów na możliwość wykonywania rzeczywistych zadań w środowisku pracy organizacji. Pozwala to ustalić znaczenie poszczególnych barier, określić priorytety ich usuwania oraz rozpoznać sytuacje, w których do czasu usunięcia problemu potrzebne jest inne dostępne rozwiązanie.
+
+Nie wszystkie bariery mogą zostać usunięte bezpośrednio przez organizację. Dotyczy to zwłaszcza systemów, aplikacji i usług dostarczanych lub utrzymywanych przez podmioty zewnętrzne. Rozpoznanie i udokumentowanie takich problemów umożliwia zgłaszanie ich dostawcom, uwzględnianie przy podejmowaniu decyzji o dalszym wykorzystywaniu lub zastąpieniu rozwiązania oraz formułowanie odpowiednich wymagań przy kolejnych zakupach i zamówieniach.
+
+Wyniki oceny stanowią źródło informacji potrzebnych do planowania rozwoju cyfrowego środowiska pracy. Pozwalają kierować działania w pierwszej kolejności na bariery, które najbardziej ograniczają możliwość zatrudnienia i wykonywania pracy, oraz uwzględniać potrzebne zmiany w planowaniu organizacyjnym, technologicznym i zakupowym. W podmiotach zobowiązanych do przygotowania Planu działania na rzecz poprawy zapewniania dostępności osobom ze szczególnymi potrzebami wyniki oceny są również uwzględniane podczas jego przygotowania i aktualizacji.
 
 ---
 
-## 5. Podstawa prawna
+## 5. Podstawy prawne
 
 - Konwencja ONZ o prawach osób niepełnosprawnych, w szczególności art. 9 i art. 27.
+- Kodeks pracy.
 - Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami.
 - Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
-- Kodeks pracy.
 - Norma PN-EN 301 549 „Wymagania dostępności dla produktów i usług ICT”.
 
 ---
-
-## 6. Powiązania z innymi zaleceniami
-
-- Dostępna rekrutacja i wdrażanie pracowników.
-- Aktywne pozyskiwanie i angażowanie osób z niepełnosprawnościami w działania związane z dostępnością cyfrową.
-- Rozpoznawanie potrzeb pracowników w zakresie dostępności cyfrowej.
-- Zapewnianie dostosowań i racjonalnych usprawnień.
-- Dostępność cyfrowa w polityce zakupowej.
-- Organizacja zapewniania dostępności systemów IT.
