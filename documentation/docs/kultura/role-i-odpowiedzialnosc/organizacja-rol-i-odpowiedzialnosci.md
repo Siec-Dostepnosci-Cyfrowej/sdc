@@ -76,7 +76,7 @@ Karty ról wspierają organizację pracy i współpracy, wdrażanie nowych praco
 Ustalona odpowiedzialność za zapewnianie dostępności cyfrowej jest odzwierciedlana w obowiązkach osób pełniących odpowiednie role w zakresie potrzebnym do ich rzeczywistego wykonywania.
 W zależności od sposobu organizacji pracy odpowiedzialność może być określana w szczególności w zakresach obowiązków lub czynności, opisach stanowisk, regulaminach organizacyjnych, procedurach, kartach ról, upoważnieniach albo innych dokumentach określających zadania i odpowiedzialność.
 Sposób dokumentowania odpowiedzialności powinien zapewniać osobie pełniącej daną rolę jednoznaczną informację o przypisanych jej zadaniach, zakresie odpowiedzialności i uprawnieniach związanych z ich wykonywaniem.
-### 3.4. Dokumentowanie odpowiedzialności w procesach
+### 3.5. Dokumentowanie odpowiedzialności w procesach
 
 Organizacja dokumentuje podział odpowiedzialności w kluczowych procesach w sposób umożliwiający jednoznaczne ustalenie odpowiedzialności poszczególnych ról za podejmowanie decyzji i wykonywanie działań w procesie. W tym celu może wykorzystywać mapy odpowiedzialności, model RACI lub inne odpowiednie narzędzia.
 
