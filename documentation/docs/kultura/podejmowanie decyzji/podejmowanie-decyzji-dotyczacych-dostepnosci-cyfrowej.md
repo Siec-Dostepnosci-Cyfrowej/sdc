@@ -16,7 +16,7 @@ wersja_robocza: true
 
 ## 1. Cel zalecenia
  
-Celem zalecenia jest zapewnienie, aby decyzje dotyczące dostępności cyfrowej były podejmowane przez osoby odpowiedzialne za zadania, procesy i obszary, których dotyczą, na poziomie organizacji odpowiednim do zakresu i skutków decyzji.
+Celem zalecenia jest przeciwdziałanie niejasności odpowiedzialności za decyzje dotyczące dostępności cyfrowej oraz przenoszeniu tych decyzji na osoby lub poziomy organizacji niewłaściwe ze względu na zakres odpowiedzialności za zadania, procesy i obszary, których decyzje dotyczą.
 
 ## 2. Zalecenie
  
