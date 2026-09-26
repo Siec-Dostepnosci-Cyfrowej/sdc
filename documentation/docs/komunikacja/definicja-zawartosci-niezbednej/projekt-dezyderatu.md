@@ -47,7 +47,7 @@ Celem rekomendowanych działań jest wybór rozwiązania prawnie właściwego i 
 
 ## 3. Uzasadnienie
 
-Art. 3 ust. 2 pkt 4 ustawy o dostępności cyfrowej obejmuje dokumenty tekstowe, tekstowo-graficzne, prezentacje multimedialne i arkusze kalkulacyjne opublikowane przed 23 września 2018 r. Dokumenty te mogą korzystać z wyłączenia spod obowiązku zapewnienia dostępności cyfrowej, chyba że ich zawartość jest niezbędna do realizacji bieżących zadań podmiotu publicznego.
+Art. 3 ust. 2 pkt 3 ustawy o dostępności cyfrowej obejmuje dokumenty tekstowe, tekstowo-graficzne, prezentacje multimedialne i arkusze kalkulacyjne opublikowane przed 23 września 2018 r. Dokumenty te mogą korzystać z wyłączenia spod obowiązku zapewnienia dostępności cyfrowej, chyba że ich zawartość jest niezbędna do realizacji bieżących zadań podmiotu publicznego.
 
 Ustawa nie wskazuje kryteriów pozwalających w sposób jednolity ocenić, kiedy zawartość dokumentu pozostaje „niezbędna”, co należy rozumieć przez „bieżące zadania” oraz z jakiej perspektywy należy oceniać aktualne znaczenie dokumentu. Powoduje to trudności przy kwalifikowaniu starszych dokumentów do audytu, remediacji i utrzymania dostępności cyfrowej.
 
@@ -69,7 +69,7 @@ Wypracowane kryteria i przykłady mają wspierać bardziej jednolite stosowanie 
 
 W dezyderacie uwzględniono poniżej wymienione przepisy:
 
-1. Art. 3 ust. 2 pkt 4 ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych, z późn. zmianami (Dz. U. z 2023 r. poz. 1440).
+1. Art. 3 ust. 2 pkt 3 ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych, z późn. zmianami (Dz. U. z 2023 r. poz. 1440).
 2. Art. 1 ust. 4 lit. a dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/2102 z dnia 26 października 2016 r. w sprawie dostępności stron internetowych i mobilnych aplikacji organów sektora publicznego (Dz. Urz. UE L 327 z 2.12.2016, s. 1, z późn. zm.).
 
 ## 5. Źródła i opracowania
