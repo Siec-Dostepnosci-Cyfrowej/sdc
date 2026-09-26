@@ -12,122 +12,95 @@ wersja: true
 
 ---
 
-
 ## 1. Cel zalecenia
 
-Celem zalecenia jest zapewnienie, że komunikacja organizacji jest zrozumiała dla wszystkich odbiorców poprzez systemowe stosowanie prostego języka jako standardu oraz tekstu łatwego do czytania i zrozumienia (ETR) jako formy uzupełniającej.
+Celem zalecenia jest ograniczenie barier wynikających z niezrozumiałości treści kierowanych do odbiorców oraz włączenie zasad zrozumiałej komunikacji do stałego sposobu działania organizacji.
 
 ---
 
 ## 2. Zalecenie
 
-**Organizacja ustanawia i wdraża standard dostępnej komunikacji, oparty na stosowaniu prostego języka jako podstawowej formy przekazu oraz tekstu łatwego do czytania i zrozumienia (ETR) jako formy uzupełniającej, wraz z procedurą tworzenia, testowania i publikowania treści.**
+Organizacja stosuje prosty język jako podstawowy sposób zwiększania zrozumiałości komunikacji oraz przygotowuje treści łatwe do czytania i zrozumienia (ETR), gdy potrzebna jest forma przekazu dostosowana do odbiorców mających szczególne trudności w rozumieniu informacji.
 
 ---
 
 ## 3. Rekomendacje
 
-### 3.1. Model dostępnej komunikacji
+### 3.1. Stosowanie prostego języka i ETR
 
-Organizacja przyjmuje następujący model komunikacji:
+Organizacja stosuje prosty język jako podstawowy sposób zwiększania zrozumiałości treści kierowanych do odbiorców. Tekst łatwy do czytania i zrozumienia (ETR) stosuje jako formę dostosowaną do potrzeb osób, dla których treść napisana prostym językiem może nie być wystarczająco zrozumiała.
 
-- **prosty język** – jako standard obowiązujący we wszystkich formach komunikacji,
-- **tekst łatwy do czytania i zrozumienia (ETR)** – jako forma uzupełniająca, stosowana w przypadkach, gdy prosty język nie zapewnia wystarczającej zrozumiałości.
-
-ETR nie zastępuje standardowych treści, lecz stanowi ich równoległą, uproszczoną wersję.
-
----
+Treść ETR może przedstawiać w uproszczonej formie najważniejsze informacje zawarte w treści podstawowej. Nie zastępuje treści podstawowej, jeżeli jej udostępnienie jest wymagane.
 
 ### 3.2. Zakres stosowania prostego języka
 
-Zasady prostego języka stosuje się w szczególności w:
+Organizacja stosuje zasady prostego języka w treściach, których zrozumienie jest potrzebne odbiorcom do uzyskania informacji, skorzystania z usług, wykonania obowiązków lub podejmowania decyzji.
 
-- korespondencji z użytkownikami (pisma, e-maile, odpowiedzi na wnioski),
-- treściach publikowanych na stronach internetowych i w mediach społecznościowych,
-- opisach usług publicznych i procedur,
-- instrukcjach wypełniania formularzy,
-- materiałach informacyjnych, edukacyjnych i szkoleniowych,
+Dotyczy to w szczególności:
+
+- korespondencji z odbiorcami, w tym pism i wiadomości e-mail;
+- treści publikowanych na stronach internetowych i w mediach społecznościowych;
+- opisów usług i sposobów korzystania z nich;
+- instrukcji, formularzy i informacji pomagających w ich wypełnianiu;
+- materiałów informacyjnych, edukacyjnych i szkoleniowych;
 - komunikacji wewnętrznej kierowanej do pracowników.
-
----
 
 ### 3.3. Zakres stosowania ETR
 
-Teksty ETR przygotowuje się w szczególności dla:
+Organizacja rozpoznaje informacje, dla których potrzebne jest przygotowanie treści ETR, uwzględniając ich znaczenie oraz potrzeby odbiorców.
 
-- podstawowych informacji o organizacji i sposobach kontaktu,
-- opisów usług publicznych i sposobu ich realizacji,
-- informacji dotyczących praw i obowiązków użytkowników,
-- komunikatów dotyczących zdrowia, bezpieczeństwa i sytuacji kryzysowych,
-- najważniejszych dokumentów (np. strategii, regulaminów, uchwał) – w formie uproszczonych streszczeń.
+Treści ETR przygotowuje w szczególności dla:
 
----
+- podstawowych informacji o organizacji i sposobach kontaktu;
+- informacji o usługach i sposobach korzystania z nich;
+- informacji dotyczących praw i obowiązków;
+- ważnych informacji dotyczących zdrowia, bezpieczeństwa i sytuacji kryzysowych;
+- najważniejszych informacji zawartych w dokumentach, których pełna treść może być trudna do zrozumienia.
 
-### 3.4. System wdrożenia
+### 3.4. Odpowiedzialność za stosowanie prostego języka i ETR
 
-Organizacja:
+Organizacja określa role i odpowiedzialność związane ze stosowaniem prostego języka oraz przygotowywaniem, weryfikowaniem, publikowaniem i aktualizowaniem treści ETR.
 
-1. **Wyznacza odpowiedzialność** za wdrożenie i utrzymanie standardu dostępnej komunikacji (np. koordynator dostępności, zespół ds. komunikacji).
-2. **Opracowuje standard prostego języka**, obejmujący:
-   - zasady redagowania treści,
-   - przykłady dobrych praktyk,
-   - listę najczęstszych błędów i ich poprawnych odpowiedników.
-3. **Opracowuje procedurę tworzenia treści ETR**, określającą:
-   - sposób identyfikowania potrzeby przygotowania ETR,
-   - proces tworzenia i weryfikacji treści,
-   - zasady publikacji i aktualizacji.
-4. **Zapewnia rozwój kompetencji pracowników**, w szczególności:
-   - szkolenia z prostego języka,
-   - szkolenia z tworzenia i testowania ETR.
-5. **Udostępnia narzędzia i materiały wspierające**, takie jak:
-   - poradniki,
-   - checklisty,
-   - wzory dokumentów,
-   - słowniki prostych sformułowań.
-6. **Wdraża testowanie zrozumiałości treści**, w tym:
-   - konsultacje z użytkownikami,
-   - testy z udziałem osób z niepełnosprawnością poznawczą.
-7. **Wdraża rozwiązania stopniowo**, rozpoczynając od najważniejszych informacji i usług.
+Odpowiedzialność jest powiązana z procesami tworzenia i udostępniania treści oraz z zadaniami osób uczestniczących w tych procesach.
 
----
+### 3.5. Standardy tworzenia treści
 
-### 3.5. Integracja z systemem zarządzania dostępnością
+Organizacja określa zasady stosowania prostego języka oraz przygotowywania treści ETR albo przyjmuje i dostosowuje odpowiednie istniejące standardy.
 
-Standard dostępnej komunikacji powinien być:
+Zasady określają odpowiednio:
 
-- częścią polityki dostępności organizacji,
-- powiązany z procesami tworzenia i publikowania informacji,
-- uwzględniony w projektowaniu i realizacji usług publicznych,
-- stosowany również w systemach informatycznych wykorzystywanych przez pracowników.
+- sposób redagowania treści prostym językiem;
+- sposób rozpoznawania potrzeby przygotowania treści ETR;
+- wymagania dotyczące przygotowania i weryfikowania treści ETR;
+- zasady publikowania i aktualizowania treści ETR.
 
----
+### 3.6. Kwalifikacje i wsparcie
 
-### 3.6. Wymagania jakościowe
+Organizacja zapewnia osobom odpowiedzialnym za tworzenie i kontrolowanie treści kwalifikacje i wsparcie potrzebne do stosowania prostego języka oraz przygotowywania treści ETR odpowiednio do wykonywanych zadań.
 
-Organizacja zapewnia, że:
+Udostępnia im odpowiednie materiały i narzędzia wspierające pracę, w szczególności poradniki, listy kontrolne, wzory i przykłady.
 
-- treści są zrozumiałe dla odbiorcy docelowego,
-- struktura i forma treści spełniają wymagania dostępności cyfrowej,
-- treści ETR są testowane z udziałem osób z niepełnosprawnością intelektualną,
-- publikowane materiały są zgodne z obowiązującymi przepisami dotyczącymi dostępności cyfrowej.
+### 3.7. Sprawdzanie zrozumiałości treści
+
+Organizacja sprawdza zrozumiałość treści odpowiednio do ich znaczenia, przeznaczenia i potrzeb odbiorców.
+
+W przypadku treści ETR zapewnia ich weryfikację z udziałem osób należących do grup odbiorców, dla których są przygotowywane.
+
+### 3.8. Planowanie stosowania prostego języka i ETR
+
+Organizacja planuje stosowanie prostego języka i ETR, uwzględniając znaczenie informacji i potrzeby odbiorców. Stosowanie ETR rozszerza również na informacje, dla których taka forma jest potrzebna ze względu na potrzeby odbiorców, mimo że obowiązek jej przygotowania nie wynika wprost z przepisów prawa.
+
+W pierwszej kolejności obejmuje działaniami treści szczególnie istotne dla odbiorców, w tym informacje potrzebne do korzystania z usług, wykonywania praw i obowiązków oraz podejmowania decyzji.
 
 ---
 
 ## 4. Uzasadnienie
 
-Brak zrozumiałości informacji stanowi jedną z najczęstszych barier w dostępie do usług publicznych. Nawet formalnie dostępne treści mogą być w praktyce niedostępne, jeśli są napisane językiem trudnym, specjalistycznym lub niejednoznacznym.
+Brak zrozumiałości informacji może ograniczać możliwość samodzielnego korzystania z informacji, usług i innych form komunikacji organizacji. Nawet treści spełniające wymagania dostępności cyfrowej mogą być trudne do wykorzystania, jeżeli są napisane językiem złożonym, specjalistycznym lub niejednoznacznym.
 
-Stosowanie prostego języka:
+Prosty język ułatwia szybkie i prawidłowe zrozumienie informacji, ogranicza ryzyko błędów i nieporozumień oraz może zmniejszać potrzebę dodatkowych wyjaśnień i obsługi zapytań.
 
-- umożliwia szybsze i poprawne zrozumienie informacji,
-- ogranicza liczbę błędów i nieporozumień,
-- zmniejsza obciążenie organizacji związane z obsługą zapytań i wyjaśnień.
-
-Tekst łatwy do czytania i zrozumienia (ETR):
-
-- zapewnia dostęp do informacji osobom z największymi trudnościami poznawczymi,
-- zwiększa samodzielność użytkowników,
-- umożliwia podejmowanie świadomych decyzji.
+Tekst łatwy do czytania i zrozumienia (ETR) odpowiada na potrzeby osób, dla których treść napisana prostym językiem nadal może być zbyt trudna. Ułatwia im samodzielne korzystanie z informacji i podejmowanie decyzji na jej podstawie.
 
 Łączne stosowanie prostego języka i ETR tworzy system komunikacji inkluzywnej, który odpowiada na zróżnicowane potrzeby odbiorców i wspiera realizację zasady równego dostępu do informacji.
 
@@ -152,11 +125,14 @@ Tekst łatwy do czytania i zrozumienia (ETR):
 - [Tekst łatwy do czytania i zrozumienia. Instrukcja (ZPE)](https://zpe.gov.pl/b/tekst-latwy-do-czytania-i-zrozumienia-instrukcja/P17Ib7LYC)
 - [Poradnik dla autorów tekstów łatwych do czytania i rozumienia (POWER)](https://cdn.innowacjespoleczne.pl/app/public/docs/innovations/14869/1.%20Poradnik%20dla%20autor%C3%B3w%20tekst%C3%B3w.pdf)
 
+---
 
-## 7. Historia wersji
+## Historia wersji
 
-| **Wersja** | **Autor** | **Data** | **Opis zmian** |
-| --- | --- | --- | --- |
-| RC | Anna Dybiec, Anna Bizub-Jechna | 6.08.2025 | Projekt – kandydat do wydania |
-| RC | Edyta Boratyńska-Karpiej | 26.03.2026 | Projekt – kandydat do wydania |
-| RC | zespół | 4.04.2026 | Projekt – kandydat do wydania |
+| Wersja | Data | Etap | Opis zmian |
+|---|---|---|---|
+| 0-RC1 | 22.09.2026 | Gotowy do publikacji | Przeprowadzono normalizację dokumentu. Przebudowano rozdział Rekomendacje. Wyodrębniono w szczególności odpowiedzialność, standardy tworzenia treści, kwalifikacje i wsparcie oraz sprawdzanie zrozumiałości treści. Zrezygnowano również z odrębnej rekomendacji dotyczącej „integracji z systemem zarządzania dostępnością”, a jej potrzebne elementy powiązano z właściwymi rekomendacjami. 
+Zmiana porządkuje przedmiot zalecenia i usuwa sugestię, że prosty język i ETR tworzą „model dostępnej komunikacji” albo wymagają odrębnego „systemu wdrożenia”. Prosty język i ETR są elementami dostępnej komunikacji, które powinny być stosowane w zwykłych procesach organizacji. Każda rekomendacja wskazuje obecnie konkretne rozwiązanie lub działanie organizacyjne potrzebne do ich trwałego stosowania.|
+
+
+
