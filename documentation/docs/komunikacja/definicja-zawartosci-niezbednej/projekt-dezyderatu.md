@@ -10,7 +10,7 @@ typ: dezyderat
 wymiar: Komunikacja
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 10 czerwca 2026 r.
-ostatnia_aktualizacja: 16 września 2026 r.
+ostatnia_aktualizacja: 26 września 2026 r.
 wersja_robocza: true
 ---
 
@@ -89,6 +89,7 @@ W dezyderacie uwzględniono poniżej wymienione przepisy:
 | 0.2 | 06.09.2026 | Aktualizacja po dyskusji | Rezygnacja z przesądzania definicji legalnej jako rozwiązania oraz uwzględnienie opinii prawnej, rozwiązań pozalegislacyjnych i kryteriów interpretacyjnych. |
 | 0.3 | 09.09.2026 | Aktualizacja po weryfikacji | Dostosowanie dezyderatu do wspólnej struktury i języka dokumentów SDC, uporządkowanie postulatu, rekomendacji, podstaw prawnych, źródeł i historii wersji. |
 | 0.4 | 16.09.2026 | Aktualizacja po dyskusji | Poprawienie podstawy prawnej, doprecyzowanie charakteru analizy prawnej oraz ograniczenie stosowania kryteriów pomocniczych do wyłączenia dotyczącego starszych dokumentów. |
+| 0.5 | 26.09.2026 | Przygotowanie do scalenia | Ujednolicono odwołania do art. 3 ust. 2 pkt 3 ustawy w całym pakiecie materiałów. |
 
 ## Załączniki
 
