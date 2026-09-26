@@ -2,6 +2,7 @@
   "label": "Kontrola dostępności przed publikacją",
   "position": 3,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "Kontrola przed udostępnieniem treści ogranicza ryzyko przekazywania odbiorcom materiałów zawierających bariery dostępności. Zalecenie określa sposób włączenia kontroli do procesu pracy, ustalenia ról i odpowiedzialności, doboru sposobu kontroli, dokumentowania wyników oraz postępowania z wykrytymi problemami. Pomaga organizacjom ustanowić kontrolę jako stały i skuteczny element procesu tworzenia i udostępniania treści cyfrowych."
   }
 }

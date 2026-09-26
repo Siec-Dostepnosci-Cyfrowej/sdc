@@ -37,5 +37,5 @@ Pełniejszą kontrolę należy rozważyć szczególnie wtedy, gdy materiał słu
 
 ## Powiązane dokumenty
 
-- [Procedura kontroli dostępności](./procedura-wdrozeniowa-kontroli-dostepnosci-przed-publikacja.md)
-- [Zestaw list kontrolnych](./listy-kontrolne-index.md)
+1. [Procedura kontroli dostępności przed publikacją](procedura-wdrozeniowa-kontroli-dostepnosci-przed-publikacja.md)
+

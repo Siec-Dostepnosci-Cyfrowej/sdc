@@ -42,6 +42,5 @@ W większej organizacji warto okresowo analizować najczęstsze typy błędów, 
 
 ## Powiązane dokumenty
 
-- [Procedura kontroli dostępności](./procedura-wdrozeniowa-kontroli-dostepnosci-przed-publikacja.md)
-- [Mapa ról i odpowiedzialności](./mapa-odpowiedzialnosci.md)
-- [Zestaw list kontrolnych](./listy-kontrolne-index.md)
+1. [Procedura kontroli dostępności przed publikacją](procedura-wdrozeniowa-kontroli-dostepnosci-przed-publikacja.md)
+3. [Mapa ról i odpowiedzialności w procesie publikacji](mapa-odpowiedzialnosci.md)

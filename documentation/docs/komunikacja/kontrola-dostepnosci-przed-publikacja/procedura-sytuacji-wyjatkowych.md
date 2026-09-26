@@ -82,6 +82,5 @@ Niedotrzymanie terminu poprawy wymaga ponownej decyzji: wyznaczenia nowego termi
 
 ## Powiązane dokumenty
 
-- [Kontrola dostępności treści cyfrowych przed publikacją](./procedura-kontroli-dostepnosci-przed-publikacja.md)
-- [Procedura kontroli dostępności](./procedura-wdrozeniowa-kontroli-dostepnosci-przed-publikacja.md)
-- [Wzór karty kontroli](./wzor-karty-kontroli-dostepnosci.md)
+- [Procedura kontroli dostępności przed publikacją](procedura-wdrozeniowa-kontroli-dostepnosci-przed-publikacja.md)
+- [Wzór karty kontroli dostępności przed publikacją](wzor-karty-kontroli-dostepnosci.md)
