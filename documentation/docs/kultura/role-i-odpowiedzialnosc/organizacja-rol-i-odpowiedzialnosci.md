@@ -82,7 +82,7 @@ Organizacja dokumentuje podział odpowiedzialności w kluczowych procesach w spo
 
 ---
 
-### 3.5. Integracja odpowiedzialności z procesami organizacyjnymi
+### 3.6. Integracja odpowiedzialności z procesami organizacyjnymi
 
 Podział ról i odpowiedzialności jest powiązany z rzeczywistymi procesami organizacji, w szczególności z tworzeniem i publikowaniem informacji i dokumentów elektronicznych, realizacją usług publicznych, projektowaniem, pozyskiwaniem i utrzymaniem rozwiązań cyfrowych, monitorowaniem dostępności, działaniami naprawczymi oraz wsparciem kompetencyjnym.
 
