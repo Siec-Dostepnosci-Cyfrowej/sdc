@@ -8,7 +8,7 @@ keywords: [dostępność cyfrowa,dokumenty cyfrowe,Sieć Dostępności Cyfrowej,
 tags: [dostępność cyfrowa,dokumenty cyfrowe,Sieć Dostępności Cyfrowej,dezyderat,legislacja]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 10 czerwca 2026 r.
-ostatnia_aktualizacja: 6 września 2026 r.
+ostatnia_aktualizacja: 26 września 2026 r.
 wersja_robocza: true
 ---
 
@@ -18,7 +18,7 @@ wersja_robocza: true
 
 Przedmiotem zgłoszenia jest propozycja podjęcia przez Sieć Dostępności Cyfrowej dyskusji nad problemem interpretacji pojęcia „zawartości niezbędnej do realizacji bieżących zadań podmiotu publicznego”.
 
-Pojęcie to występuje w art. 3 ust. 2 pkt 4 ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych. Przepis ten dotyczy dokumentów tekstowych, tekstowo-graficznych, prezentacji multimedialnych oraz arkuszy kalkulacyjnych opublikowanych przed dniem 23 września 2018 r.
+Pojęcie to występuje w art. 3 ust. 2 pkt 3 ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych. Przepis ten dotyczy dokumentów tekstowych, tekstowo-graficznych, prezentacji multimedialnych oraz arkuszy kalkulacyjnych opublikowanych przed dniem 23 września 2018 r.
 
 Projekt dezyderatu przygotowany w tej sprawie wskazuje, że od sposobu rozumienia analizowanego pojęcia zależy kwalifikacja dokumentów jako objętych wyłączeniem albo nadal podlegających obowiązkowi zapewnienia dostępności cyfrowej. Zgłoszenie dotyczy zatem nie samej decyzji o kierunku zmian, lecz potrzeby omówienia problemu, który może mieć znaczenie dla praktycznego stosowania ustawy.
 
