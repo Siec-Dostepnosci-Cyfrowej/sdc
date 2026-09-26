@@ -1,9 +1,9 @@
 ---
-id: organizacja-systemu-odpowiedzialnosci
-title: Organizacja systemu odpowiedzialności za dostępność cyfrową
+id: organizacja-odpowiedzialnosci-za-dostepnosc
+title: Organizacja odpowiedzialności za dostępność cyfrową
 sidebar_position: 3
-sidebar_label: Organizacja systemu odpowiedzialności
-description: Poradnik wdrożeniowy dotyczący organizacji ról, odpowiedzialności i współpracy w systemie zapewniania dostępności cyfrowej
+sidebar_label: Organizacja odpowiedzialności
+description: Poradnik wdrożeniowy dotyczący organizacji ról, odpowiedzialności i współpracy w systemowym zapewnianiu dostępności cyfrowej
 keywords: [dostępność cyfrowa, role i odpowiedzialności,RACI,zarządzanie dostępnością,procesy organizacyjne]
 tags: [dostępność cyfrowa, role i odpowiedzialności,RACI,zarządzanie dostępnością,procesy organizacyjne]
 opracowanie: Stefan Wajda

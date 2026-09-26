@@ -133,9 +133,10 @@ Jasne określenie ról i odpowiedzialności ułatwia współpracę, podejmowanie
 ## 7. Załączniki
 
 - [Słownik ról i odpowiedzialności w zapewnianiu dostępności cyfrowej](slownik-rol-i-odpowiedzialnosci-dostepnosc-cyfrowa.md)
-- [Organizacja odpowiedzialności za dostępność cyfrową](organizacja-odpowiedzialnosci-za-dostepnosc.md)
 - [Referencyjna mapa odpowiedzialności procesowej (RACI)](referencyjna-mapa-odpowiedzialnosci-procesowej-raci.md)
 - [Wzór karty roli](wzor-karty-roli.md)
+- [Organizacja odpowiedzialności za dostępność cyfrową](organizacja-odpowiedzialnosci-za-dostepnosc.md)
+
 
 ### 7.1. Karty ról
 
