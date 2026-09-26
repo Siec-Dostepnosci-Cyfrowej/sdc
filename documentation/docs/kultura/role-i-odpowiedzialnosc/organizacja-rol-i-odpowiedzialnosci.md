@@ -88,7 +88,7 @@ Podział ról i odpowiedzialności jest powiązany z rzeczywistymi procesami org
 
 ---
 
-### 3.6. Przegląd i aktualizacja ról i odpowiedzialności
+### 3.7. Przegląd i aktualizacja ról i odpowiedzialności
 
 Organizacja okresowo przegląda aktualność podziału ról i odpowiedzialności oraz skuteczność współpracy między rolami. Przegląd przeprowadza także po istotnych zmianach organizacyjnych, zmianach sposobu realizacji procesów lub wdrożeniu nowych rozwiązań cyfrowych oraz wtedy, gdy ujawnione problemy wskazują na niejasny albo nieskuteczny podział odpowiedzialności.
 
