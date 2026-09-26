@@ -8,7 +8,7 @@ keywords: [dostępność cyfrowa, dokumenty cyfrowe, materiały źródłowe, ust
 tags: [dostępność cyfrowa, dokumenty cyfrowe, materiały źródłowe, legislacja]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 10 czerwca 2026 r.
-ostatnia_aktualizacja: 6 września 2026 r.
+ostatnia_aktualizacja: 26 września 2026 r.
 wersja_robocza: true
 ---
 
@@ -36,7 +36,7 @@ Projekt dezyderatu stanowi punkt wyjścia dla niniejszego zestawienia. Materiał
 
 Podstawowym źródłem prawa krajowego jest ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
 
-Znaczenie ustawy dla dezyderatu polega na tym, że to w niej występuje analizowane pojęcie „zawartości niezbędnej do realizacji bieżących zadań podmiotu publicznego”. Kluczowe znaczenie ma art. 3 ust. 2 pkt 4 ustawy, który dotyczy wyłączenia określonych dokumentów opublikowanych przed dniem 23 września 2018 r.
+Znaczenie ustawy dla dezyderatu polega na tym, że to w niej występuje analizowane pojęcie „zawartości niezbędnej do realizacji bieżących zadań podmiotu publicznego”. Kluczowe znaczenie ma art. 3 ust. 2 pkt 3 ustawy, który dotyczy wyłączenia określonych dokumentów opublikowanych przed dniem 23 września 2018 r.
 
 Zgodnie z ustaleniami przyjętymi w projekcie dezyderatu przepis odnosi się do dokumentów tekstowych, tekstowo-graficznych, prezentacji multimedialnych oraz arkuszy kalkulacyjnych opublikowanych przed dniem 23 września 2018 r., z wyjątkiem dokumentów, których zawartość jest niezbędna do realizacji bieżących zadań podmiotu publicznego.
 
@@ -140,13 +140,13 @@ W katalogu `documentation/static/cykltik/przeglad-i-aktualizacja-deklaracji/` zn
 
 ### 5.5. Materiały SDC wymagające ostrożnego wykorzystania
 
-Część materiałów SDC zawiera tabele lub ma charakter roboczy, szkoleniowy albo kompetencyjny. Mogą one wspierać analizę praktyczną, ale nie powinny być traktowane jako źródła wykładni art. 3 ust. 2 pkt 4 ustawy.
+Część materiałów SDC zawiera tabele lub ma charakter roboczy, szkoleniowy albo kompetencyjny. Mogą one wspierać analizę praktyczną, ale nie powinny być traktowane jako źródła wykładni art. 3 ust. 2 pkt 3 ustawy.
 
 Nie zidentyfikowano w repozytorium materiału SDC, który bezpośrednio definiowałby pojęcie „zawartości niezbędnej do realizacji bieżących zadań podmiotu publicznego” albo ustanawiał oficjalne kryteria kwalifikowania dokumentów opublikowanych przed dniem 23 września 2018 r.
 
 ## 6. Dokumenty i wytyczne, których należy poszukiwać w dalszych pracach
 
-W dalszych pracach warto zweryfikować istnienie oficjalnych wytycznych Ministerstwa Cyfryzacji dotyczących dokumentów opublikowanych przed dniem 23 września 2018 r. oraz stosowania art. 3 ust. 2 pkt 4 ustawy o dostępności cyfrowej.
+W dalszych pracach warto zweryfikować istnienie oficjalnych wytycznych Ministerstwa Cyfryzacji dotyczących dokumentów opublikowanych przed dniem 23 września 2018 r. oraz stosowania art. 3 ust. 2 pkt 3 ustawy o dostępności cyfrowej.
 
 Należy również poszukiwać objaśnień prawnych, stanowisk administracji publicznej, materiałów szkoleniowych dotyczących dokumentów historycznych oraz interpretacji odnoszących się do relacji pomiędzy pojęciem „aktywnych procedur administracyjnych” a pojęciem „zawartości niezbędnej do realizacji bieżących zadań podmiotu publicznego”.
 
