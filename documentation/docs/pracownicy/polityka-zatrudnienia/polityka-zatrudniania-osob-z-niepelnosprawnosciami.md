@@ -1,133 +1,123 @@
 ---
 id: polityka-zatrudniania-osob-z-niepelnosprawnosciami
-title: Polityka zatrudniania osób z niepełnosprawnościami
-description: Organizacja uwzględnia zatrudnianie osób z niepełnosprawnościami w polityce zatrudnienia oraz podejmuje działania zwiększające możliwości ich zatrudniania, rozwoju zawodowego i utrzymania zatrudnienia.
+title: Osoby z niepełnosprawnościami w polityce zatrudnienia
+description: Organizacja uwzględnia zatrudnianie osób z niepełnosprawnościami w polityce zatrudnienia oraz podejmuje działania zwiększające ich możliwości podejmowania pracy, rozwoju zawodowego i pozostawania w zatrudnieniu.
 sidebar_label: Zalecenie
 sidebar_position: 0
-keywords: [osoby z niepełnosprawnościami, zatrudnianie, polityka zatrudnienia]
-tags: [pracownicy, zatrudnianie]
+keywords: [osoby z niepełnosprawnościami,zatrudnianie,polityka zatrudnienia,rekrutacja,rozwój zawodowy,utrzymanie zatrudnienia,dostępność cyfrowa]
+tags: [zatrudnianie, osoby z niepełnosprawnościami, polityka zatrudnienia]
 opracowanie: Stefan Wajda
+wspolpraca: Karolina Paluszek
 data_zgloszenia: 20 marca 2026 r.
-ostatnia_aktualizacja: 20 czerwca 2026 r.
+ostatnia_aktualizacja: 26 września 2026 r.
 wersja_robocza: true
 ---
 
 ## 1. Cel zalecenia
 
-Celem zalecenia jest wspieranie organizacji w tworzeniu warunków sprzyjających zatrudnianiu, rozwojowi zawodowemu i utrzymaniu zatrudnienia osób z niepełnosprawnościami, a także wykorzystywanie ich kompetencji i doświadczeń w budowaniu zdolności organizacji do zapewniania dostępności cyfrowej.
-
----
+Zwiększenie udziału osób z niepełnosprawnościami w zatrudnieniu na różnych stanowiskach, poziomach odpowiedzialności i w różnych obszarach działalności organizacji.
 
 ## 2. Zalecenie
 
-Organizacja uwzględnia zatrudnianie osób z niepełnosprawnościami w polityce zatrudnienia oraz podejmuje działania zwiększające możliwości ich zatrudniania, rozwoju zawodowego i utrzymania zatrudnienia, w szczególności na stanowiskach związanych z zapewnianiem dostępności cyfrowej.
-
-Polityka zatrudnienia obejmuje działania związane z identyfikowaniem barier ograniczających zatrudnianie osób z niepełnosprawnościami, zapewnianiem dostępności procesów rekrutacyjnych i środowiska pracy oraz wspieraniem rozwoju zawodowego pracowników.
+Organizacja uwzględnia zatrudnianie osób z niepełnosprawnościami w polityce zatrudnienia i podejmuje działania zwiększające ich możliwości podejmowania pracy, rozwoju zawodowego i pozostawania w zatrudnieniu.
 
 ---
 
 ## 3. Rekomendacje
 
-### 3.1. Uwzględnianie zatrudniania osób z niepełnosprawnościami w polityce organizacji
+### 3.1. Włączenie do polityki zatrudnienia
 
-Organizacja:
+Organizacja uwzględnia zatrudnianie osób z niepełnosprawnościami w celach, zasadach i działaniach składających się na politykę zatrudnienia.
 
-1. Uwzględnia zatrudnianie osób z niepełnosprawnościami w polityce zatrudnienia, polityce różnorodności lub innych dokumentach określających zasady zarządzania personelem.
-2. Traktuje zatrudnianie osób z niepełnosprawnościami jako element budowania kompetencji i potencjału organizacji.
-3. Określa cele oraz działania wspierające zwiększanie możliwości zatrudniania osób z niepełnosprawnościami.
+Polityka obejmuje cały przebieg zatrudnienia: pozyskiwanie kandydatów i rekrutację, podejmowanie pracy i wdrażanie, rozwój zawodowy i awans oraz utrzymanie zatrudnienia. Dotyczy różnych rodzajów stanowisk, poziomów odpowiedzialności i obszarów działalności organizacji.
 
-### 3.2. Planowanie zatrudnienia
+### 3.2. Rozpoznawanie sytuacji i planowanie działań
 
-Organizacja:
+Organizacja rozpoznaje sytuację osób z niepełnosprawnościami w zatrudnieniu oraz czynniki wpływające na możliwości podejmowania przez nie pracy, rozwoju zawodowego i pozostawania w zatrudnieniu.
 
-1. Analizuje potrzeby kompetencyjne związane z realizacją zadań organizacji, w tym z zapewnianiem dostępności cyfrowej.
-2. Identyfikuje stanowiska pracy, na których kompetencje i doświadczenia osób z niepełnosprawnościami mogą stanowić szczególną wartość dla organizacji.
-3. Uwzględnia możliwość zatrudniania osób z niepełnosprawnościami podczas planowania zasobów kadrowych.
+Na tej podstawie określa cele i działania odpowiednie do swojej sytuacji. Może w szczególności analizować:
 
-### 3.3. Identyfikowanie i ograniczanie barier
+- udział osób z niepełnosprawnościami w zatrudnieniu, z uwzględnieniem rodzajów stanowisk, poziomów odpowiedzialności i obszarów działalności;
+- udział osób z niepełnosprawnościami w rekrutacji, rozwoju zawodowym i awansach;
+- przyczyny trudności w pozyskiwaniu lub utrzymywaniu pracowników z niepełnosprawnościami;
+- bariery występujące w procesach zatrudnienia i środowisku pracy;
+- możliwości zwiększenia udziału osób z niepełnosprawnościami w zatrudnieniu.
 
-Organizacja:
+Organizacja gromadzi wyłącznie informacje potrzebne do przeprowadzenia takiej analizy; nie wymaga od pracowników ujawniania informacji o niepełnosprawności, jeżeli nie jest to niezbędne do określonego celu.
 
-1. Identyfikuje bariery utrudniające zatrudnianie osób z niepełnosprawnościami.
-2. Analizuje wpływ wykorzystywanych technologii, procesów i sposobów organizacji pracy na możliwość zatrudniania osób z niepełnosprawnościami.
-3. Wykorzystuje wyniki analiz do planowania działań zwiększających dostępność środowiska pracy.
+### 3.3. Aktywne pozyskiwanie kandydatów
 
-Działania te powinny być realizowane zgodnie z zaleceniem „Ocena barier cyfrowych ograniczających zatrudnianie osób z niepełnosprawnościami”.
+Organizacja podejmuje działania zwiększające możliwość dotarcia z ofertami pracy do wykwalifikowanych kandydatów z niepełnosprawnościami.
 
-### 3.4. Pozyskiwanie kandydatów
+W zależności od potrzeb może między innymi:
 
-Organizacja:
+- korzystać z różnych dostępnych kanałów publikowania ofert pracy;
+- współpracować z organizacjami reprezentującymi osoby z niepełnosprawnościami, uczelniami, instytucjami rynku pracy i innymi podmiotami wspierającymi aktywność zawodową;
+- informować o dostępności procesu rekrutacji i możliwości uzyskania potrzebnych dostosowań;
+- zachęcać osoby z niepełnosprawnościami spełniające wymagania stanowiska do udziału w rekrutacji.
 
-1. Dociera z informacjami o prowadzonych rekrutacjach do środowisk osób z niepełnosprawnościami.
-2. Współpracuje z organizacjami społecznymi, uczelniami, instytucjami rynku pracy i innymi podmiotami wspierającymi aktywizację zawodową osób z niepełnosprawnościami.
-3. Promuje możliwość zatrudnienia osób z niepełnosprawnościami na stanowiskach związanych z zapewnianiem dostępności cyfrowej.
-4. Zachęca osoby z niepełnosprawnościami do udziału w procesach rekrutacyjnych.
+Działania te nie ograniczają się do stanowisk związanych z zapewnianiem dostępności cyfrowej.
 
-### 3.5. Rekrutacja i wdrażanie pracowników
+Organizacja prowadzi takie działania z uwzględnieniem przepisów dotyczących równego traktowania w zatrudnieniu i ochrony danych osobowych.
 
-Organizacja zapewnia dostępność procesów rekrutacyjnych i wdrożeniowych oraz uwzględnia potrzeby kandydatów i nowo zatrudnianych pracowników.
+### 3.4. Dostępność procesów zatrudnienia i środowiska pracy
 
-Działania te powinny być realizowane zgodnie z zaleceniem „Dostępna rekrutacja i wdrażanie pracowników”.
+Realizacja polityki zatrudniania osób z niepełnosprawnościami wymaga tworzenia warunków umożliwiających im rzeczywiste uczestnictwo w procesach zatrudnienia i wykonywanie pracy.
 
-### 3.6. Rozwój zawodowy
+Organizacja zapewnia w szczególności dostępność rekrutacji i wdrażania pracowników, rozpoznaje bariery cyfrowe w środowisku pracy oraz zapewnia potrzebne dostosowania i racjonalne usprawnienia.
 
-Organizacja zapewnia pracownikom z niepełnosprawnościami możliwość:
+Szczegółowe rozwiązania w tych obszarach określają odpowiednie zalecenia dotyczące dostępnej rekrutacji i wdrażania pracowników, oceny barier cyfrowych, rozpoznawania potrzeb pracowników oraz zapewniania dostosowań i racjonalnych usprawnień.
 
-- udziału w szkoleniach;
-- podnoszenia kwalifikacji;
-- zdobywania certyfikatów i mikropoświadczeń;
-- uczestniczenia w projektach związanych z dostępnością cyfrową;
-- rozwoju zawodowego na zasadach równych z innymi pracownikami.
+### 3.5. Rozwój zawodowy i awans
 
-### 3.7. Utrzymanie zatrudnienia
+Organizacja zapewnia pracownikom z niepełnosprawnościami równe możliwości rozwoju zawodowego, podnoszenia kwalifikacji, podejmowania nowych zadań i ról oraz ubiegania się o awans.
 
-Organizacja tworzy warunki umożliwiające długoterminowe wykonywanie pracy przez osoby z niepełnosprawnościami, w szczególności poprzez:
+Analizuje bariery, które mogą ograniczać korzystanie z tych możliwości, w tym bariery wynikające z niedostępności cyfrowych narzędzi pracy, materiałów, szkoleń, procesów oceny lub rekrutacji wewnętrznej, i podejmuje działania służące ich usuwaniu.
 
-- rozpoznawanie potrzeb pracowników;
-- zapewnianie dostosowań i racjonalnych usprawnień;
-- rozwijanie dostępnego środowiska pracy;
-- usuwanie zidentyfikowanych barier.
+### 3.6. Utrzymanie zatrudnienia
 
-### 3.8. Stanowiska związane z dostępnością cyfrową
+Polityka zatrudnienia obejmuje działania sprzyjające pozostawaniu osób z niepełnosprawnościami w zatrudnieniu, również wtedy, gdy potrzeba dostosowania warunków pracy pojawia się lub zmienia w trakcie zatrudnienia.
 
-Szczególną uwagę należy poświęcać stanowiskom związanym z:
+Organizacja rozpoznaje przyczyny utrudniające dalsze wykonywanie pracy i, odpowiednio do sytuacji, dostosowuje środowisko, narzędzia lub organizację pracy, zapewnia potrzebne wsparcie albo umożliwia zmianę zadań lub roli zawodowej.
 
-- koordynacją dostępności;
-- testowaniem dostępności;
-- oceną dostępności technologii;
-- tworzeniem i publikowaniem treści cyfrowych;
-- szkoleniami dotyczącymi dostępności;
-- wsparciem użytkowników;
-- rozwojem usług cyfrowych.
+### 3.7. Wykorzystanie kompetencji i doświadczeń pracowników
 
-Organizacja powinna rozważać możliwość wykorzystywania kompetencji i doświadczeń osób z niepełnosprawnościami podczas obsadzania takich stanowisk.
+Organizacja tworzy warunki do wykorzystywania kompetencji, wiedzy i doświadczeń pracowników z niepełnosprawnościami w różnych obszarach swojej działalności, w tym w działaniach związanych z zapewnianiem dostępności cyfrowej.
 
-### 3.9. Ocena i doskonalenie polityki
+Pracownicy z niepełnosprawnościami mogą uczestniczyć między innymi w opiniowaniu i testowaniu rozwiązań cyfrowych, doskonaleniu procesów, ocenie warunków pracy oraz konsultowaniu działań dotyczących dostępności. Zaangażowanie to odpowiada ich kwalifikacjom, roli zawodowej i zakresowi odpowiedzialności.
 
-Organizacja uwzględnia ocenę skuteczności polityki zatrudniania osób z niepełnosprawnościami w okresowych przeglądach swojego systemu zarządzania oraz wykorzystuje wyniki tych ocen do planowania działań doskonalących.
+Szczegółowe rozwiązania dotyczące takiego udziału określa zalecenie dotyczące angażowania pracowników z niepełnosprawnościami w zapewnianie dostępności cyfrowej.
 
-- zatrudniania osób z niepełnosprawnościami, w tym zmian liczby zatrudnionych pracowników;
-- dostępności i skuteczności procesów rekrutacji oraz wdrażania nowych pracowników;
-- możliwości rozwoju zawodowego pracowników z niepełnosprawnościami, w tym ich udziału w szkoleniach, projektach i awansach;
-- przypadków zakończenia zatrudnienia oraz przyczyn odejść pracowników, jeżeli mogą wskazywać na bariery w środowisku pracy;
-- barier utrudniających zatrudnianie, wykonywanie pracy i rozwój zawodowy osób z niepełnosprawnościami;
-- dostępności środowiska pracy oraz skuteczności działań podejmowanych w celu jego doskonalenia.
+### 3.8. Ocena realizacji polityki
 
-Wyniki oceny organizacja wykorzystuje do aktualizacji polityki zatrudniania, planowania działań doskonalących oraz określania priorytetów w zakresie zwiększania dostępności środowiska pracy.
+Organizacja okresowo ocenia realizację polityki zatrudniania osób z niepełnosprawnościami oraz osiągane rezultaty.
+
+Ocena może uwzględniać w szczególności:
+
+- zmiany udziału osób z niepełnosprawnościami w zatrudnieniu;
+- udział osób z niepełnosprawnościami w rekrutacji, rozwoju zawodowym i awansach;
+- skuteczność działań służących pozyskiwaniu i utrzymywaniu pracowników;
+- rozpoznane bariery i sposób ich usuwania;
+- doświadczenia pracowników i kandydatów;
+- stopień osiągania celów przyjętych w polityce zatrudnienia.
+
+Wyniki oceny są wykorzystywane do doskonalenia polityki i podejmowanych działań.
 
 ---
 
 ## 4. Uzasadnienie
 
-Osoby z niepełnosprawnościami stanowią istotną część potencjalnych pracowników organizacji. Ich zatrudnianie przyczynia się do zwiększania różnorodności zespołów, wzmacniania kompetencji organizacji oraz lepszego rozumienia potrzeb użytkowników o zróżnicowanych potrzebach.
+Zatrudnianie osób z niepełnosprawnościami na różnych stanowiskach, poziomach odpowiedzialności i w różnych obszarach działalności zwiększa różnorodność wiedzy, doświadczeń i perspektyw obecnych w organizacji. Ma to znaczenie również dla zapewniania dostępności cyfrowej. Osoby z niepełnosprawnościami mogą wnosić doświadczenia związane z korzystaniem z technologii cyfrowych, napotykanymi barierami i sposobami ich przezwyciężania, także wtedy, gdy dostępność cyfrowa nie jest przedmiotem ich obowiązków zawodowych.
 
-W obszarze dostępności cyfrowej szczególnie wartościowe mogą być kompetencje wynikające z doświadczeń związanych z korzystaniem z technologii wspomagających, pokonywaniem barier cyfrowych oraz praktyczną oceną dostępności technologii, treści i usług cyfrowych.
+Znaczenie tej perspektywy nie ogranicza się do testowania dostępności ani do stanowisk bezpośrednio związanych z jej zapewnianiem. Obecność osób z niepełnosprawnościami w różnych częściach organizacji pozwala uwzględniać ich doświadczenia przy podejmowaniu decyzji, organizowaniu pracy, tworzeniu treści, projektowaniu i rozwijaniu rozwiązań cyfrowych oraz świadczeniu usług. Szczególne znaczenie ma również ich udział na stanowiskach kierowniczych i innych stanowiskach związanych z podejmowaniem decyzji.
 
-Skuteczne zatrudnianie osób z niepełnosprawnościami wymaga jednak nie tylko prowadzenia dostępnych procesów rekrutacyjnych, lecz również świadomego identyfikowania barier, tworzenia dostępnego środowiska pracy oraz wspierania rozwoju zawodowego pracowników.
+Samo deklarowanie równych szans zatrudnienia nie zapewnia jednak rzeczywistego udziału osób z niepełnosprawnościami w organizacji. Możliwość podjęcia i utrzymania pracy zależy między innymi od dostępności procesu rekrutacji, cyfrowego środowiska pracy, możliwości uzyskania potrzebnych dostosowań, dostępu do rozwoju zawodowego i awansu oraz sposobu reagowania organizacji na pojawiające się bariery. Dlatego zatrudnianie osób z niepełnosprawnościami powinno być przedmiotem świadomie prowadzonej polityki obejmującej cały przebieg zatrudnienia.
+
+Polityka taka nie oznacza preferowania osób z niepełnosprawnościami niezależnie od kwalifikacji wymaganych na danym stanowisku ani kierowania ich przede wszystkim do zadań związanych z dostępnością. Jej celem jest tworzenie warunków, w których wykwalifikowane osoby z niepełnosprawnościami mogą podejmować pracę, rozwijać się zawodowo i pozostawać w zatrudnieniu na różnych stanowiskach i poziomach odpowiedzialności. Pozwala to organizacji pełniej korzystać z ich kompetencji i doświadczeń, również w systemowym zapewnianiu dostępności cyfrowej.
 
 ---
 
-## 5. Podstawa prawna
+## 5. Podstawy prawne
 
 - Konwencja o prawach osób niepełnosprawnych, w szczególności art. 27.
 - Ustawa z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych.
@@ -137,7 +127,6 @@ Skuteczne zatrudnianie osób z niepełnosprawnościami wymaga jednak nie tylko p
 
 ---
 
-
 ## 6. Załączniki
 
 1. [Wzór polityki zatrudniania osób z niepełnosprawnościami](wzor-polityki-zatrudniania-osob-z-niepelnosprawnosciami)
@@ -145,11 +134,3 @@ Skuteczne zatrudnianie osób z niepełnosprawnościami wymaga jednak nie tylko p
 3. [Lista kontrolna przeglądu polityki zatrudnienia pod kątem osób z niepełnosprawnościami](lista-kontrolna-przegladu-polityki-zatrudnienia)
 
 ---
-
-## 7. Powiązania z innymi zaleceniami
-
-- Ocena barier cyfrowych ograniczających zatrudnianie osób z niepełnosprawnościami.
-- Dostępna rekrutacja i wdrażanie pracowników.
-- Systemowe rozpoznawanie i uwzględnianie potrzeb pracowników w zakresie dostępności cyfrowej.
-- Zapewnianie pracownikom dostosowań i racjonalnych usprawnień cyfrowych.
-- Angażowanie osób z niepełnosprawnościami w działania związane z dostępnością cyfrową.
