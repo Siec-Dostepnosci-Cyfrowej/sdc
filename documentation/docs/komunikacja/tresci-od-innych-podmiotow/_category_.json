@@ -1,7 +1,8 @@
 {
-  "label": "Treści od innych podmiotów",
+  "label": "Publikowanie treści od innych podmiotów",
   "position": 5,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "Pochodzenie treści od innego podmiotu może wpływać na możliwość jej modyfikacji i sposób zapewnienia dostępności, ale samo w sobie nie zwalnia organizacji z odpowiedzialności za sposób jej udostępnienia. Zalecenie określa sposób ustalania statusu materiału, obowiązku jego publikacji, możliwości pozyskania lub przygotowania dostępnej wersji oraz przesłanek ewentualnego wyłączenia z wymagań dostępności. Pomaga organizacjom podejmować uzasadnione decyzje o sposobie postępowania z materiałami otrzymywanymi od innych podmiotów."
   }
 }
