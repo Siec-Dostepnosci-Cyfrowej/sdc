@@ -8,26 +8,26 @@ keywords: [dostępność cyfrowa,cykl życia rozwiązania,proces użytkownika,ci
 tags: [dostępność cyfrowa,cykl życia rozwiązania,proces użytkownika,ciągłość wymagań,zmiana rozwiązania]
 opracowanie: Paulina Wysakowska
 data_zgloszenia: 19 sierpnia 2026 r.
-ostatnia_aktualizacja: 17 września 2026 r.
+ostatnia_aktualizacja: 28 września 2026 r.
 wersja_robocza: true
 ---
 
 
-## Cel zalecenia
+## 1. Cel zalecenia
 
-Utrzymanie dostępności cyfrowej w całym cyklu życia rozwiązania cyfrowego: od etapu rozpoznania potrzeby, przez wprowadzanie zmian, do etapu wycofania rozwiązania z użytkowania.
+Celem zalecenia jest przeciwdziałanie utracie dostępności cyfrowej rozwiązania w kolejnych momentach decyzyjnych jego cyklu życia, gdy decyzje dotyczące rozwiązania zapadają bez rozpoznania ich skutków dla dostępności, a wymagania, wiedza o stanie rozwiązania, podjęte decyzje i zobowiązania wykonawców nie są przenoszone między tymi momentami.
 
 
-## 1. Zalecenie
+## 2. Zalecenie
 
 Organizacja uwzględnia dostępność cyfrową w decyzjach dotyczących rozwiązania cyfrowego, również wtedy, gdy dostępność nie jest przedmiotem tego rozwiązania, i przed podjęciem takiej decyzji rozpoznaje jej skutki dla dostępności cyfrowej.
 
 Organizacja zapewnia ciągłość dostępności cyfrowej oraz wiedzy o jej stanie między kolejnymi etapami cyklu życia rozwiązania cyfrowego, niezależnie od zmiany osób, wykonawców i wersji rozwiązania.
 
 
-## 2. Rekomendacje
+## 3. Rekomendacje
 
-### 2.1 Etapy cyklu życia rozwiązania cyfrowego i decyzje o przejściu między nimi
+### 3.1 Etapy cyklu życia rozwiązania cyfrowego i decyzje o przejściu między nimi
 
 Organizacja rozpoznaje etapy cyklu życia użytkowanego rozwiązania cyfrowego oraz decyzje, które rozstrzygają o przejściu do kolejnego etapu. Etapy te obejmują:
 
@@ -39,11 +39,11 @@ Organizacja rozpoznaje etapy cyklu życia użytkowanego rozwiązania cyfrowego o
 
 Przed podjęciem każdej z tych decyzji organizacja ustala, jakie informacje o dostępności są potrzebne, oraz sprawdza, czy nimi dysponuje. Jeżeli informacji brakuje, organizacja je uzyskuje albo odnotowuje, że decyzja zapada bez pełnego rozpoznania, wskazując, jakich informacji zabrakło.
 
-Sposób prowadzenia działań na poszczególnych etapach określają odrębne dokumenty Sieci wskazane w sekcji Powiązane dokumenty. Przedmiotem tego zalecenia są decyzje rozstrzygające o przejściu do kolejnego etapu oraz zachowanie ciągłości dostępności i wiedzy o jej stanie między etapami.
+Sposób prowadzenia działań na poszczególnych etapach określają odrębne dokumenty Sieci. Przedmiotem tego zalecenia są decyzje rozstrzygające o przejściu do kolejnego etapu oraz zachowanie ciągłości dostępności i wiedzy o jej stanie między etapami.
 
 <!-- TODO: podział cyklu życia rozwiązania cyfrowego na etapy nie występuje w innych dokumentach Sieci. To zalecenie wprowadza go jako pierwsze. Do rozstrzygnięcia: przyjąć ten podział i zgłosić go do uzgodnienia z pozostałymi pakietami albo oprzeć się na podziale przyjętym w Modelu dojrzałości dostępności dla wymiaru Cykl życia TIK. -->
 
-### 2.2 Ciągłość dostępności i wiedzy o jej stanie między etapami
+### 3.2 Ciągłość dostępności i wiedzy o jej stanie między etapami
 
 Organizacja zapewnia, że przy przejściu do kolejnego etapu cyklu życia zachowane zostają: określone wcześniej wymagania dostępności, wiedza o stanie dostępności rozwiązania wraz ze znanymi barierami, podjęte decyzje wraz z ich przyczynami oraz zobowiązania przyjęte przez organizację, wykonawcę lub podmiot utrzymujący rozwiązanie.
 
@@ -59,7 +59,7 @@ Stan dostępności potwierdzony na wcześniejszym etapie stanowi punkt odniesien
 
 <!-- TODO: nazwa roli do uzgodnienia z pozostałymi dokumentami Sieci. To zalecenie używa sformułowania "osoba odpowiedzialna za rozwiązanie", które nie występuje w repozytorium ani razu. Istnieje karta roli "Właściciel systemu IT" z podtytułem "(oprogramowania, strony internetowej, aplikacji mobilnej)", której cel obejmuje zapewnienie jakości, stabilności, użyteczności i dostępności systemu IT, w tym strony internetowej, aplikacji mobilnej lub innego rozwiązania cyfrowego. Termin "właściciel rozwiązania" występuje raz, w dokumencie o rolach w procesie przeglądu i aktualizacji deklaracji, i nie jest zdefiniowany. Karta "Właściciel systemu IT" nie została przy tym ujęta w słowniku ról, który w sekcjach od 4.1 do 4.7 wymienia inne role. Do rozstrzygnięcia: przyjąć termin "właściciel systemu IT" wraz z odnośnikiem do karty roli albo świadomie wprowadzić nowy termin i zgłosić go do słownika ról. Rozstrzygnięcie dotyczy wszystkich wystąpień w dokumencie -->
 
-### 2.3 Procesy realizowane w kilku rozwiązaniach cyfrowych
+### 3.3 Procesy realizowane w kilku rozwiązaniach cyfrowych
 
 Organizacja ustala, które kluczowe procesy przebiegają kolejno przez kilka rozwiązań cyfrowych, na przykład gdy użytkownik informację o sposobie załatwienia sprawy uzyskuje w serwisie internetowym, wniosek składa w innym systemie, a potwierdzenie otrzymuje w kolejnym. Ustala także, w których miejscach użytkownik przechodzi z jednego rozwiązania do drugiego.
 
@@ -69,7 +69,7 @@ Ocena zgodności każdego rozwiązania z osobna nie jest wystarczającą podstaw
 
 Jeżeli rozwiązania uczestniczące w procesie pozostają w gestii różnych podmiotów, organizacja współdziała z tymi podmiotami przy określaniu wymagań dostępności dla miejsc przejścia, przy sprawdzaniu ich spełnienia oraz przy usuwaniu stwierdzonych barier.
 
-### 2.4 Zachowanie dostępności podczas konfiguracji i zmian w używanym rozwiązaniu cyfrowym
+### 3.4 Zachowanie dostępności podczas konfiguracji i zmian w używanym rozwiązaniu cyfrowym
 
 Organizacja uwzględnia, że dostępność rozwiązania zależy nie tylko od jego dostarczonej postaci, lecz także od sposobu skonfigurowania i użytkowania go w organizacji, w szczególności od wyboru i modyfikacji szablonów, włączonych modułów i wtyczek, ustawień edytora treści oraz wzorów dokumentów i formularzy udostępnianych użytkownikom.
 
@@ -82,7 +82,7 @@ Do rozstrzygnięcia: zawęzić odesłanie, zgłosić potrzebę rozszerzenia zakr
 
 Zasady rozpoznawania zmian i ustalania potrzeby oceny doraźnej określa dokument [Ocena zmian mogących mieć wpływ na dostępność cyfrową](../przeglad-i-aktualizacja-deklaracji/ocena-zmian-mogacych-miec-wplyw-na-dostepnosc-cyfrowa).
 
-### 2.5 Rozwiązania pozostające poza kontrolą organizacji
+### 3.5 Rozwiązania pozostające poza kontrolą organizacji
 
 Organizacja ustala, w jakim zakresie może wpływać na dostępność każdego użytkowanego rozwiązania. Rozróżnia rozwiązania, w których może samodzielnie usunąć barierę, rozwiązania, w których usunięcie bariery wymaga działania wykonawcy lub dostawcy, oraz rozwiązania udostępnione przez inny podmiot, których organizacja nie może zmienić.
 
@@ -97,7 +97,7 @@ W przypadku rozwiązania pozostającego poza jej kontrolą organizacja:
 Brak możliwości samodzielnego usunięcia bariery nie zwalnia organizacji z obowiązku zapewnienia dostępu do usługi ani z rozpoznania stanu rozwiązania.
 
 
-### 2.6 Odpowiedzialność za rozwiązanie w cyklu życia
+### 3.6 Odpowiedzialność za rozwiązanie w cyklu życia
 
 Organizacja wskazuje dla każdego rozwiązania cyfrowego osobę odpowiedzialną za uwzględnianie dostępności w decyzjach dotyczących tego rozwiązania, uprawnioną do decydowania o jego nabyciu, zakresie zamówienia, odbiorze, zmianach i dalszym użytkowaniu.
 
@@ -105,7 +105,7 @@ Odpowiedzialność ta obejmuje przekazanie wymagań, wiedzy o stanie i podjętyc
 
 Powierzenie prac wykonawcy, dostawcy albo podmiotowi utrzymującemu rozwiązanie nie przenosi na nich odpowiedzialności organizacji za określenie wymagań, ocenę uzyskanych informacji i podjęcie decyzji.
 
-### 2.7 Dokumentowanie wymagań, decyzji i zobowiązań
+### 3.7 Dokumentowanie wymagań, decyzji i zobowiązań
 
 Organizacja utrzymuje dla rozwiązania cyfrowego informacje umożliwiające odtworzenie, jakie wymagania dostępności określono, jakie zobowiązania przyjął wykonawca, jakie decyzje podjęto, w tym decyzje o odstępstwach wraz z ich przyczynami, oraz kto jest odpowiedzialny za rozwiązanie.
 
@@ -115,7 +115,7 @@ Zakres utrzymywanych informacji organizacja ogranicza do potrzebnych przy podejm
 
 <!-- TODO: relacja terminów do uzgodnienia. To zalecenie posługuje się terminem "rozwiązanie cyfrowe", a dokumenty powiązane terminami "zasób cyfrowy" i "produkt cyfrowy". W tej rekomendacji terminy stykają się bezpośrednio, bo informacje o rozwiązaniu mają trafiać do rejestru zasobów. Zalecenie o inwentaryzacji obejmuje rejestrem strony internetowe, aplikacje internetowe i mobilne, dokumenty cyfrowe, materiały multimedialne oraz systemy wewnętrzne i interfejsy API, więc zasób jest pojęciem szerszym niż rozwiązanie. Do czasu powstania słownika globalnego do rozważenia jedno zdanie ustalające, że rozwiązanie cyfrowe jest zasobem cyfrowym w rozumieniu rejestru. -->
 
-### 2.8 Dostosowanie sposobu działania do możliwości organizacji
+### 3.8 Dostosowanie sposobu działania do możliwości organizacji
 
 Organizacja dostosowuje sposób postępowania do liczby i złożoności użytkowanych rozwiązań, znaczenia realizowanych za ich pomocą usług oraz posiadanych zasobów i kompetencji.
 
@@ -124,37 +124,23 @@ Organizacja, która nie prowadzi własnych prac projektowych ani wytwórczych, k
 Dostosowanie sposobu działania nie oznacza ograniczenia obowiązujących wymagań dostępności.
 
 
-## 3. Uzasadnienie
+## 4. Uzasadnienie
 
 Poszczególne opracowania Sieci określają sposób zapewniania dostępności cyfrowej na konkretnych etapach cyklu życia rozwiązania cyfrowego. Same w sobie nie określają natomiast, w jaki sposób przy przejściu między tymi etapami zachowane zostaną wymagania, wiedza o stanie dostępności i przyjęte zobowiązania ani w jaki sposób utrzymany będzie osiągnięty poziom dostępności cyfrowej.
 
 Niniejsze zalecenie określa obowiązki organizacji w zakresie zachowania tych informacji i utrzymania osiągniętego poziomu dostępności w całym cyklu życia rozwiązania cyfrowego.
 
 
-## 4. Podstawy prawne
+## 5. Podstawy prawne
 
 - [Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000848)
 
 
-## 5. Źródła i opracowania
+## 6. Źródła i opracowania
 
 - [PN-ETSI EN 301 549 V3.2.1:2021 Wymagania dotyczące dostępności produktów i usług ICT](https://sklep.pkn.pl/pn-etsi-en-301-549-v3-2-1-2021-09p.html)
 
 
-## 6. Historia wersji
+## 7. Historia wersji
 
 - Wersja 0.1, projekt wstępny
-
-
-## Powiązane dokumenty
-
-- [Inwentaryzacja zasobów cyfrowych](../inwentaryzacja/rejestr-zasobow-cyfrowych)
-- [Obserwowanie i ocenianie stanu dostępności i zgodności rozwiązań cyfrowych](../obserwowanie-i-ocenianie-dostepnosci-i-zgodnosci/obserwowanie-i-ocenianie-stanu-dostepnosci-i-zgodnosci-rozwiazan-cyfrowych)
-- [Ocena zmian mogących mieć wpływ na dostępność cyfrową](../przeglad-i-aktualizacja-deklaracji/ocena-zmian-mogacych-miec-wplyw-na-dostepnosc-cyfrowa)
-- [Systemowe rozwiązywanie problemów dostępności cyfrowej](../systemowe-rozwiazywanie-problemow-dostepnosci-cyfrowej/systemowe-rozwiazywanie-problemow)
-- [Zapewnianie dostępu do treści i usług w przypadku braku dostępności cyfrowej](../dostep-przy-braku-dostepnosci-cyfrowej/dostep-przy-braku-dostepnosci-cyfrowej)
-- [Zapewnianie dostępności cyfrowej zasobów archiwalnych, migrowanych i wycofywanych](../archiwizacja-i-wycofywanie-zasobow-cyfrowych/archiwizacja-i-wycofywanie-zasobow-cyfrowych)
-- [Wsparcie użytkowników podczas realizacji złożonych spraw cyfrowych](../../wsparcie/wsparcie-podczas-zalatwiania-zlozonych-spraw/wsparcie-uzytkownikow-podczas-realizacji-zlozonych-spraw-cyfrowych)
-- [Szablon wymagań dostępności w zakupach rozwiązań zawierających technologie i treści cyfrowe](../../zaopatrzenie/zasady-oceny-ofert/zasady-oceny-ofert-szablon-wymagan)
-- [Stosowanie klauzul umownych dotyczących zapewnienia i utrzymania dostępności cyfrowej produktów cyfrowych](../../zaopatrzenie/klauzule-umowne/klauzule-umowne-zalecenie)
-- [Organizacja ról i odpowiedzialności w systemie zapewniania dostępności cyfrowej](../../kultura/role-zadania-odpowiedzialnosc/organizacja-rol-i-odpowiedzialnosci)
