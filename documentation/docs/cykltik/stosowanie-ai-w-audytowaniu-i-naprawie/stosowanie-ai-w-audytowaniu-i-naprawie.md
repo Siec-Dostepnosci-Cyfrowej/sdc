@@ -1,15 +1,15 @@
 ---
+---
 id: stosowanie-ai-w-audytowaniu-i-naprawie
-title: Zasady wykorzystania sztucznej inteligencji (AI) w procesach oceny dostępności cyfrowej oraz pracach naprawczych i doskonalących
-description: Zalecenie określa ramowe cele oraz zasady bezpiecznego, świadomego i przejrzystego wykorzystywania sztucznej inteligencji jako narzędzia wspomagającego ocenę dostępności cyfrowej oraz prace naprawcze i doskonalące
+title: Zasady wykorzystania sztucznej inteligencji AI w procesach oceniania dostępności cyfrowej oraz pracach naprawczych i doskonalących
+description: Zalecenie określa ramowe cele oraz zasady bezpiecznego, świadomego i przejrzystego wykorzystywania sztucznej inteligencji jako narzędzia wspomagającego ocenianie dostępności cyfrowej oraz prace naprawcze i doskonalące
 sidebar_label: Zalecenie
 sidebar_position: 3
-keywords: [dostępność cyfrowa, cykl życia TIK, deklaracja dostępności, monitoring dostępności, przegląd dostępności, przegląd diagnostyczny, audyt zgodności, ocena stanu zgodności]
-tags: [dostępność cyfrowa, cykl życia TIK, deklaracja dostępności, monitoring dostępności, przegląd dostępności, przegląd diagnostyczny, audyt zgodności, ocena stanu zgodności]
-opracowanie: Maciej Budzisz, Cezary Tomczyk
-wspolpraca: Stefan Wajda
+keywords: [dostępność cyfrowa,cykl życia TIK,deklaracja dostępności, monitoring dostępności, przegląd dostępności, przegląd diagnostyczny, audyt zgodności, ocena stanu zgodności]
+tags: [dostępność cyfrowa,cykl życia TIK,deklaracja dostępności, monitoring dostępności, przegląd dostępności, przegląd diagnostyczny, audyt zgodności, ocena stanu zgodności]
+opracowanie: Maciej Budzisz, Cezary Tomczyk, Stefan Wajda
 data_zgloszenia: 22 maja 2026 r.
-ostatnia_aktualizacja: 15 września 2026 r.
+ostatnia_aktualizacja: 03 sierpnia 2026 r.
 wersja_robocza: true
 ---
 
@@ -99,11 +99,27 @@ Użycie AI uznaje się za wpływające na wynik prac, jeżeli rezultat działani
 Jeżeli wykorzystanie AI miało wpływ na zakres analizy, treść raportu, przygotowanie poprawki lub sposób jej weryfikacji, odbiorca powinien otrzymać informację o:
 
 1. celu wykorzystania AI;
-2. rodzaju zadań powierzonych systemowi;
+Zastosowania AI w ocenie i naprawie dostępności dzielą się na:
+
+1. diagnostyczne – analiza kodu, interfejsu lub dokumentów i wskazywanie potencjalnych problemów;
+2. dokumentacyjne – grupowanie ustaleń, przygotowywanie zestawień oraz wspieranie redagowania raportu;
+3. naprawcze – proponowanie, generowanie lub modyfikowanie kodu, treści i innych elementów rozwiązania;
+4. testowe – przygotowywanie scenariuszy, generowanie testów, wykonywanie testów automatycznych i analizowanie ich wyników.
 3. zakresie wpływu wyników AI na wykonane prace;
 4. sposobie przeprowadzenia weryfikacji eksperckiej;
 5. zastosowanych testach manualnych;
-6. nazwie i wersji wykorzystanego modelu lub usługi.
+Wykorzystanie AI w ocenie albo naprawie dostępności obejmuje:
+
+1. zakwalifikowanie zadania do odpowiedniej kategorii;
+2. ocenę danych, uprawnień systemu i skutków możliwego błędu;
+3. wybór modelu, narzędzi i zakresu ich działania;
+4. określenie dopuszczalnego poziomu autonomii;
+5. wykonanie analizy albo przygotowanie propozycji poprawki;
+6. ocenę kompletności, spójności i wiarygodności wyniku;
+7. niezależną weryfikację ekspercką na podstawie materiału źródłowego;
+8. przeprowadzenie testów manualnych i, jeżeli są wymagane, testów z technologiami asystującymi;
+9. kontrolę regresji po wdrożeniu zmiany;
+10. udokumentowanie wykorzystanego systemu, przebiegu weryfikacji i ostatecznego rezultatu.
 
 Przykład informacji w raporcie:
 
@@ -126,23 +142,37 @@ Weryfikacja powinna uwzględniać także ryzyko błędu automatyzacji (ang. auto
 ### 3.6. Bezpieczeństwo i ochrona zasobów informacyjnych
 
 Z powodów bezpieczeństwa, ochrony prywatności oraz zachowania poufności zasobów informacyjnych korzystanie z zewnętrznych systemów sztucznej inteligencji, w szczególności modeli językowych przetwarzających dane poza organizacją, musi odbywać się w sposób kontrolowany.
+W procesie wykorzystującym AI należy wskazać:
 
+1. wykonawcę oceny – odpowiedzialnego za przeprowadzenie badania i udokumentowanie ustaleń;
+2. eksperta weryfikującego – odpowiedzialnego za niezależne sprawdzenie wyników AI;
+3. osobę wdrażającą zmianę – odpowiedzialną za sposób wykonania poprawki;
+4. osobę odbierającą pracę – odpowiedzialną za potwierdzenie wykonania wymaganych testów i podjęcie decyzji o odbiorze.
+
+Jedna osoba może pełnić więcej niż jedną rolę, jeżeli nie narusza to wymaganej niezależności weryfikacji. Skorzystanie z zewnętrznego systemu AI nie przenosi na jego dostawcę odpowiedzialności za ocenę zgodności, treść raportu ani skutki wdrożenia przygotowanej poprawki.
 Do zewnętrznych systemów AI nie należy przekazywać danych osobowych, informacji poufnych, danych uwierzytelniających ani innych chronionych zasobów, chyba że organizacja wcześniej zweryfikowała zgodność takiego przetwarzania z obowiązującymi przepisami, polityką bezpieczeństwa oraz warunkami korzystania z danego systemu.
 
 W przypadku kodu źródłowego, konfiguracji, logów lub innych informacji dotyczących infrastruktury należy ocenić ryzyko ich ujawnienia oraz zasady przetwarzania tych danych przez dostawcę systemu.
 
 Analizę taką należy przeprowadzić przed rozpoczęciem korzystania z danego systemu, a nie po wystąpieniu zdarzenia. Odpowiedzialność za właściwą klasyfikację danych, przeprowadzenie tej analizy oraz dobór bezpiecznych kanałów przetwarzania ponosi wykonawca oceny.
-
+Jeżeli badane wymaganie dotyczy zachowania interfejsu, obsługi klawiaturą, kolejności i widoczności fokusu, komunikowania zmian lub współpracy z technologiami asystującymi, weryfikacja obejmuje odpowiednie testy manualne, w tym – zależnie od badanego wymagania – testy z użyciem technologii asystujących. Sama analiza kodu, struktury DOM, treści dokumentu lub zrzutu ekranu nie stanowi wystarczającej podstawy oceny takich elementów.
 ## 4. Kategorie narzędzi wspierających ocenę i naprawę
 
 Na potrzeby niniejszego zalecenia należy odróżnić systemy AI od walidatorów regułowych i innych narzędzi automatycznych. Walidator regułowy wykonuje zdefiniowane testy i zwraca wyniki wynikające z określonych reguł. System AI generuje albo klasyfikuje wyniki na podstawie modelu, którego odpowiedzi mogą zależeć od kontekstu, konfiguracji i przekazanych instrukcji oraz mogą być niepełne, niepowtarzalne lub błędne. Zasady dotyczące AI stosuje się do funkcji, które rzeczywiście wykorzystują takie modele, a nie automatycznie do całego produktu, w którym funkcje te zostały umieszczone.
 
 W procesie oceny i naprawy dostępności mogą być wykorzystywane:
 
-1. walidatory regułowe – sprawdzające jednoznaczne właściwości techniczne na podstawie zdefiniowanych reguł;
-2. modele językowe i wizyjne – wspierające analizę kodu, treści, dokumentów i interfejsów;
-3. asystenci programistyczni – proponujący lub generujący zmiany w kodzie;
-4. agenci AI – wykonujący wieloetapowe zadania z wykorzystaniem udostępnionych narzędzi;
+Przed przekazaniem danych do systemu AI organizacja przeprowadza ocenę dopuszczalności ich przetwarzania. Ocena obejmuje co najmniej:
+
+1. klasyfikację informacji i określenie ich poufności;
+2. ograniczenie zakresu danych do niezbędnego minimum;
+3. anonimizację lub pseudonimizację, jeżeli jest możliwa;
+4. cel i podstawę przetwarzania danych osobowych;
+5. okres przechowywania danych;
+6. zasady wykorzystywania danych do trenowania modeli;
+7. miejsce przetwarzania, podwykonawców i warunki umowne;
+8. kontrolę dostępu i rejestrowanie operacji.
+Dopuszcza się korzystanie z zatwierdzonych usług zewnętrznych, jeżeli spełniają wymagania organizacji dotyczące bezpieczeństwa i ochrony danych. Hasła, klucze API, tokeny, dane uwierzytelniające i inne informacje umożliwiające dostęp do systemów nie mogą być przekazywane do systemu AI.
 5. narzędzia korzystające z MCP – uzyskujące dostęp do zewnętrznych funkcji i źródeł danych;
 6. narzędzia generujące lub wykonujące testy.
 
@@ -155,11 +185,20 @@ Niniejsze zalecenie odnosi się do etapu cyklu życia systemów i serwisów inte
 Jasne reguły pracy z AI pozwalają zachować ciągłość kontroli jakości oraz spójność procesów utrzymaniowych, a jednocześnie zapewniają, że ostateczne decyzje dotyczące wdrażania zmian pozostają w gestii ekspertów odpowiedzialnych za utrzymanie systemu.
 
 ## 6. Porównanie podejścia narzędziowego i regułowego
+Zasady określone w zaleceniu stosuje się na wszystkich etapach cyklu życia rozwiązania cyfrowego, na których wykorzystywane jest AI:
 
-W procesie oceny dostępności cyfrowej narzędzia automatyczne oraz rozwiązania oparte na sztucznej inteligencji pełnią odmienne funkcje i wymagają odmiennego podejścia metodologicznego. Poniższe zestawienie obrazuje kluczowe różnice między klasycznymi walidatorami regułowymi a narzędziami AI wykorzystywanymi jako wsparcie eksperckie.
+1. planowanie – do analizy wymagań i identyfikowania ryzyk;
+2. projektowanie – do wspierania tworzenia interfejsów i wzorców interakcji;
+3. tworzenie treści – do generowania i przekształcania tekstów, opisów oraz dokumentów;
+4. programowanie – do generowania i modyfikowania kodu;
+5. testowanie – do przygotowywania, wykonywania i analizowania testów;
+6. odbiór – do wspierania oceny spełnienia wymagań;
+7. utrzymanie i monitorowanie – do wykrywania regresji i nowych problemów;
+8. przebudowa – do analizy istniejącego rozwiązania i przygotowania zmian.
 
+Dla każdego etapu należy oddzielnie określić cel użycia AI, możliwe skutki błędu, wymagany poziom nadzoru oraz sposób niezależnej weryfikacji.
 ### Charakter działania
-
+## 6. Porównanie metod badania
 Walidatory regułowe sprawdzają zgodność na podstawie z góry ustalonych reguł i list kontrolnych.
 
 Narzędzia AI analizują kontekst, interpretują znaczenie elementów i potrafią wychwycić problemy, które nie wynikają bezpośrednio z prostych reguł.
@@ -186,7 +225,7 @@ W przypadku narzędzi AI konieczne jest jednoznaczne poinformowanie odbiorcy rap
 * dyrektywa Parlamentu Europejskiego i Rady (UE) 2016/2102 z dnia 26 października 2016 r. w sprawie dostępności stron internetowych i mobilnych aplikacji organów sektora publicznego;
 * decyzja wykonawcza Komisji (UE) 2018/1524 z dnia 11 października 2018 r. ustanawiająca metodykę monitorowania oraz zasady przekazywania przez państwa członkowskie sprawozdań – w zakresie, w jakim zalecenie dotyczy metod oceny;
 * w odpowiednim zakresie – dyrektywa Parlamentu Europejskiego i Rady (UE) 2019/882 (Europejski Akt o Dostępności) oraz ustawa z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze.
-
+Walidatory regułowe, systemy AI i testy manualne nie są metodami wymiennymi. Automatyzacja może wspierać badanie, ale nie zastępuje testów manualnych w obszarach wymagających sprawdzenia zachowania interfejsu, obsługi klawiaturą, fokusu, komunikatów lub współpracy z technologiami asystującymi.
 ### 7.2. Normy i standardy techniczne
 
 * WCAG;
