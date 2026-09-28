@@ -119,7 +119,7 @@ Oświadczenie wskazuje datę jego sporządzenia oraz wersję lub stan rozwiązan
 
 ### 3.9. Wykorzystanie oświadczenia przez organizację
 
-Organizacja może wykorzystywać oświadczenie oraz dokumentację stanowiącą jego podstawę przy ocenie ofert, odbiorze rozwiązania, ocenie jego zgodności oraz podczas późniejszego użytkowania i rozwoju rozwiązania.
+Organizacja wykorzystuje oświadczenie oraz dokumentację stanowiącą jego podstawę odpowiednio do celu, w którym zostały pozyskane, w szczególności przy ocenie ofert, odbiorze rozwiązania, ocenie jego zgodności oraz podczas późniejszego użytkowania i rozwoju rozwiązania.
 
 Oświadczenie nie zastępuje weryfikacji zgodności przez organizację, jeżeli taka weryfikacja jest wymagana albo uzasadniona charakterem rozwiązania, sposobem jego wykorzystania lub warunkami zamówienia.
 
