@@ -7,7 +7,7 @@ sidebar_position: 0
 keywords: [dostępność cyfrowa, pracownicy z niepełnosprawnościami, angażowanie pracowników, kompetencje, konsultacje, testowanie, ERG]
 tags: [pracownicy z niepełnosprawnościami, angażowanie pracowników]
 opracowanie: Stefan Wajda
-wspolpfraca: Anna Bizub-Jechna
+wspolpraca: Anna Bizub-Jechna
 data_zgloszenia: 20 marca 2026 r.
 ostatnia_aktualizacja: 26 września 2026 r.
 wersja_robocza: true
