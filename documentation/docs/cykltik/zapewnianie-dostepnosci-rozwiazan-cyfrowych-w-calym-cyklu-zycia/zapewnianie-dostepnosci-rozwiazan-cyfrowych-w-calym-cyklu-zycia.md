@@ -65,7 +65,7 @@ Organizacja ustala, które kluczowe procesy przebiegają kolejno przez kilka roz
 
 Wymagania dostępności określane dla każdego rozwiązania z osobna nie obejmują miejsc przejścia między rozwiązaniami. Dla procesu obejmującego kilka rozwiązań organizacja określa wymagania obejmujące również te miejsca i uwzględnia je w decyzjach dotyczących każdego z uczestniczących rozwiązań, w szczególności przy zamawianiu, odbiorze i wprowadzaniu zmian.
 
-Ocena zgodności każdego rozwiązania z osobna nie jest wystarczającą podstawą do stwierdzenia dostępności cyfrowej całego procesu. Zakres oceny obejmującej proces użytkownika określa dokument [Profile i zakres ocen stanu dostępności i zgodności](../obserwowanie-i-ocenianie-dostepnosci-i-zgodnosci/profile-i-zakres-ocen-stanu-dostepnosci-i-zgodnosci).
+Ocena zgodności każdego rozwiązania z osobna nie jest wystarczającą podstawą do stwierdzenia dostępności cyfrowej całego procesu. Zakres oceny obejmującej proces użytkownika określa dokument [Profile i zakres ocen stanu dostępności i zgodności](../obserwowanie-i-ocenianie-dostepnosci-i-zgodnosci/profile-i-zakres-ocen-stanu-dostepnosci-i-zgodnosci.md).
 
 Jeżeli rozwiązania uczestniczące w procesie pozostają w gestii różnych podmiotów, organizacja współdziała z tymi podmiotami przy określaniu wymagań dostępności dla miejsc przejścia, przy sprawdzaniu ich spełnienia oraz przy usuwaniu stwierdzonych barier.
 
@@ -80,7 +80,7 @@ Jeżeli zmianę wprowadza wykonawca lub podmiot utrzymujący rozwiązanie, organ
 <!-- TODO: zakres dokumentu "Ocena zmian mogących mieć wpływ na dostępność cyfrową" jest węższy niż to odesłanie. Tamten dokument dotyczy zmian stron internetowych i aplikacji mobilnych, jest osadzony w procesie przeglądu i aktualizacji deklaracji dostępności i w punkcie 5 określa się jako załącznik. To zalecenie przywołuje go dla dowolnego rozwiązania cyfrowego i dowolnej zmiany w cyklu życia, także przed wdrożeniem. 
 Do rozstrzygnięcia: zawęzić odesłanie, zgłosić potrzebę rozszerzenia zakresu tamtego dokumentu albo pozostawić różnicę świadomie i odnotować ją w opisie PR. -->
 
-Zasady rozpoznawania zmian i ustalania potrzeby oceny doraźnej określa dokument [Ocena zmian mogących mieć wpływ na dostępność cyfrową](../przeglad-i-aktualizacja-deklaracji/ocena-zmian-mogacych-miec-wplyw-na-dostepnosc-cyfrowa).
+Zasady rozpoznawania zmian i ustalania potrzeby oceny doraźnej określa dokument [Ocena zmian mogących mieć wpływ na dostępność cyfrową](../przeglad-i-aktualizacja-deklaracji/ocena-zmian-mogacych-miec-wplyw-na-dostepnosc-cyfrowa.md).
 
 ### 3.5 Rozwiązania pozostające poza kontrolą organizacji
 
@@ -109,7 +109,7 @@ Powierzenie prac wykonawcy, dostawcy albo podmiotowi utrzymującemu rozwiązanie
 
 Organizacja utrzymuje dla rozwiązania cyfrowego informacje umożliwiające odtworzenie, jakie wymagania dostępności określono, jakie zobowiązania przyjął wykonawca, jakie decyzje podjęto, w tym decyzje o odstępstwach wraz z ich przyczynami, oraz kto jest odpowiedzialny za rozwiązanie.
 
-Informacje te organizacja utrzymuje wraz z pozostałymi informacjami o rozwiązaniu w [rejestrze zasobów cyfrowych](../inwentaryzacja/rejestr-zasobow-cyfrowych), rozszerzając zakres prowadzonych w nim informacji, bez tworzenia odrębnego rejestru.
+Informacje te organizacja utrzymuje wraz z pozostałymi informacjami o rozwiązaniu w [rejestrze zasobów cyfrowych](../inwentaryzacja/rejestr-zasobow-cyfrowych.md), rozszerzając zakres prowadzonych w nim informacji, bez tworzenia odrębnego rejestru.
 
 Zakres utrzymywanych informacji organizacja ogranicza do potrzebnych przy podejmowaniu decyzji w cyklu życia rozwiązania.
 
