@@ -30,7 +30,7 @@ Zaangażowanie pracowników z niepełnosprawnościami w działania związane z z
 
 Organizacja tworzy warunki, w których zainteresowani pracownicy mogą zgłaszać gotowość udziału w działaniach związanych z dostępnością cyfrową oraz wnosić do nich swoją wiedzę, kompetencje i doświadczenia.
 
-Sposób angażowania pracowników uwzględnia ich zainteresowania, kompetencje, doświadczenia oraz charakter podejmowanych działań. Organizacja nie wymaga od pracownika ujawniania informacji o niepełnosprawności, które nie są potrzebne do organizacji jego udziału.
+Sposób angażowania pracowników uwzględnia ich zainteresowania, kompetencje, doświadczenia oraz charakter podejmowanych działań. Udział w tych działaniach nie wymaga ujawniania informacji o niepełnosprawności, chyba że pracownik sam przekazuje informacje potrzebne do zapewnienia mu odpowiednich warunków udziału.
 
 ### 3.2. Obszary angażowania pracowników
 
