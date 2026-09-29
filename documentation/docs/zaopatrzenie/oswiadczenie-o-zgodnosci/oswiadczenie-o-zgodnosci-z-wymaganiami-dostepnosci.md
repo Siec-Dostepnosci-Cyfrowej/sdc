@@ -47,7 +47,7 @@ W zależności od charakteru rozwiązania identyfikacja może obejmować w szcze
 - nazwę rozwiązania;
 - producenta lub wytwórcę;
 - wersję, wydanie lub datę określającą stan rozwiązania;
-- konfigurację;
+- konfigurację mającą wpływ na spełnienie wymagań dostępności;
 - komponenty lub części rozwiązania objęte oświadczeniem;
 - środowiska, platformy lub inne warunki użytkowania mające znaczenie dla oceny zgodności.
 
