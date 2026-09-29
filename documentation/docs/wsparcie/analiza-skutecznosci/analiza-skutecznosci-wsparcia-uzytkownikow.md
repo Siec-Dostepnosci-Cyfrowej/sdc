@@ -28,7 +28,7 @@ Organizacja obserwuje wsparcie użytkowników i analizuje jego skuteczność ora
 
 ### 3.1. Obserwowanie funkcjonowania wsparcia
 
-Organizacja obserwuje funkcjonowanie różnych form wsparcia użytkowników i pozyskuje informacje pozwalające ocenić ich rzeczywistą skuteczność.
+Organizacja obserwuje funkcjonowanie różnych form wsparcia użytkowników (zarówno wewnątrz swojej organizacji jak i klientów zewnętrznych) i pozyskuje informacje pozwalające ocenić ich rzeczywistą skuteczność. 
 
 Obserwacja dotyczy w szczególności tego:
 
