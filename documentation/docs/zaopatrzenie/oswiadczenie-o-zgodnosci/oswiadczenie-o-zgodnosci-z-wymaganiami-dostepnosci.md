@@ -20,7 +20,7 @@ Celem zalecenia jest zapewnienie, aby oświadczenie dostawcy o zgodności rozwi�
 
 ## 2. Zalecenie
 
-Organizacja wymaga od dostawcy oświadczenia o zgodności rozwiązania cyfrowego z określonymi wymaganiami dostępności, opartego na przeprowadzonej ocenie zgodności i dokumentacji potwierdzającej jej wyniki.
+Organizacja wymaga od dostawcy oświadczenia o zgodności rozwiązania cyfrowego z wymaganiami dostępności mającymi zastosowanie do tego rozwiązania, opartego na przeprowadzonej ocenie zgodności i dokumentacji potwierdzającej wyniki tej oceny.
 
 Oświadczenie jednoznacznie określa przedmiot i zakres deklarowanej zgodności, wymagania stanowiące podstawę oceny oraz podmiot odpowiedzialny za złożenie oświadczenia.
 
