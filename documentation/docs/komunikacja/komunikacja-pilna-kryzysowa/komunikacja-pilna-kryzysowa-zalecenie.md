@@ -125,7 +125,7 @@ W zaleceniu uwzględniono poniżej wymienione przepisy:
 
 ## 7. Powiązania z innymi dokumentami Sieci
 
-Zalecenie jest bezpośrednio powiązane z dokumentem [„Zarządzanie standardami tworzenia i publikacji treści cyfrowych”](../komunikacja-masowa/komunikacja-masowa-zalecenie). Standardy dotyczące tworzenia treści, struktury komunikatu, mediów społecznościowych, grafik, treści alternatywnych, audio i wideo określają sposób przygotowania poszczególnych typów materiałów. Niniejsze zalecenie określa natomiast organizację procesu w sytuacjach wymagających szybkiego i skoordynowanego przekazywania informacji.
+Zalecenie jest bezpośrednio powiązane z dokumentem „Zarządzanie standardami tworzenia i publikacji treści cyfrowych”. Standardy dotyczące tworzenia treści, struktury komunikatu, mediów społecznościowych, grafik, treści alternatywnych, audio i wideo określają sposób przygotowania poszczególnych typów materiałów. Niniejsze zalecenie określa natomiast organizację procesu w sytuacjach wymagających szybkiego i skoordynowanego przekazywania informacji.
 
 ## 8. Załączniki
 
