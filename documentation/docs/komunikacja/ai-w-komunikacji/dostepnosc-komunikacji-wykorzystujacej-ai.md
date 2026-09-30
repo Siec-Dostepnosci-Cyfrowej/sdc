@@ -120,7 +120,7 @@ Zasady obejmują sposób wykorzystywania AI do tworzenia lub przekształcania tr
 
 AI jest wykorzystywana do tworzenia tekstów, dokumentów, opisów alternatywnych, napisów, transkrypcji, grafik i innych materiałów komunikacyjnych. Może także prowadzić bezpośrednią interakcję z użytkownikiem albo dynamicznie zmieniać treść i sposób prezentacji interfejsu. Rezultat działania AI staje się wówczas częścią komunikacji cyfrowej i podlega wymaganiom dostępności właściwym dla sposobu jego udostępnienia.
 
-System AI może wygenerować materiał pozornie dostępny, który zawiera nieprawidłową strukturę, nieadekwatny opis alternatywny, błędne napisy albo uproszczenie usuwające informacje niezbędne do dostępnego odbioru treści. Automatyczna kontrola również nie obejmuje wszystkich elementów dostępności. Nie ocenia w pełni sensu kolejności, jakości tekstu alternatywnego, zrozumiałości komunikatu ani rzeczywistego sposobu współpracy interfejsu z technologiami asystującymi.
+System AI może wygenerować materiał pozornie dostępny, który zawiera nieprawidłową strukturę, nieadekwatny opis alternatywny, błędne napisy albo uproszczenie usuwające informacje niezbędne użytkownikowi dla odbioru czy zrozumienia treści. Automatyczna kontrola również nie obejmuje wszystkich elementów dostępności. Nie ocenia w pełni sensu kolejności, jakości tekstu alternatywnego, zrozumiałości komunikatu ani rzeczywistego sposobu współpracy interfejsu z technologiami asystującymi.
 
 Treści przygotowywane przed publikacją, takie jak dokumenty, opisy alternatywne, napisy, transkrypcje i grafiki, mogą zostać sprawdzone przed udostępnieniem użytkownikom. Właściwy jest dla nich istniejący proces kontroli dostępności przed publikacją.
 
