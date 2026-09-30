@@ -18,7 +18,7 @@ wersja_robocza: true
 
 Celem zalecenia jest rozwiązanie problemu braku spójnych zasad zapewniania dostępności cyfrowej podczas wykorzystywania AI do tworzenia, przekształcania i przekazywania treści oraz w interfejsach komunikacyjnych.
 
-Brak takich zasad prowadzi do sytuacji, w których rezultaty działania AI są publikowane lub udostępniane bez odpowiedniej kontroli, interfejsy tworzą nowe bariery, a odpowiedzialność za rozpoznawanie i usuwanie problemów dostępności pozostaje nieokreślona.
+Brak takich zasad prowadzi do sytuacji, w których rezultaty działań AI są publikowane lub udostępniane bez odpowiedniej kontroli, w wyniku czego interfejsy tworzą nowe bariery, a odpowiedzialność za rozpoznawanie i usuwanie problemów dostępności pozostaje nieokreślona.
 
 ## 2. Zalecenie
 
