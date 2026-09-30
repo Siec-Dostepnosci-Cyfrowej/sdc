@@ -22,7 +22,12 @@ Brak takich zasad prowadzi do sytuacji, w których rezultaty działań AI są pu
 
 ## 2. Zalecenie
 
-Organizacja obejmuje wykorzystanie AI w komunikacji cyfrowej swoim systemem zapewniania dostępności. Stosuje standardy dostępności do treści i interfejsów wykorzystujących AI, kontroluje rezultaty przed ich publikacją lub udostępnieniem, gdy jest to możliwe, oraz monitoruje dostępność rezultatów powstających podczas interakcji z użytkownikiem, z uwzględnieniem ich dynamicznego i zmiennego charakteru.
+Organizacja obejmuje wykorzystanie AI w komunikacji cyfrowej swoim systemem zapewniania dostępności. W ramach systemu:
+
+- stosuje standardy dostępności do treści i interfejsów wykorzystujących AI, 
+- kontroluje rezultaty przed ich publikacją lub udostępnieniem, gdy jest to możliwe, oraz 
+- monitoruje dostępność rezultatów powstających podczas interakcji z użytkownikiem, z uwzględnieniem ich dynamicznego i zmiennego charakteru.
+
 
 ## 3. Rekomendacje
 
