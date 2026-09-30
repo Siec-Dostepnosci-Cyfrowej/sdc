@@ -79,7 +79,7 @@ Zasady obejmują sposób wykorzystywania AI do tworzenia lub przekształcania tr
 
 7. **Dostępność informacji o wykorzystaniu AI.** Jeżeli przekazanie informacji o wykorzystaniu AI wynika z przepisów albo organizacja przekazuje ją dobrowolnie, zapewnia jej dostępność zgodnie z wymaganiami właściwymi dla strony, aplikacji, produktu albo usługi. W szczególności informacja ma:
    - być możliwa do odebrania przez użytkowników technologii asystujących;
-   - nie opiera się wyłącznie na ikonie, kolorze, kształcie albo położeniu;
+   - nie opierać się wyłącznie na ikonie, kolorze, kształcie albo położeniu;
    - pozostaje czytelna po powiększeniu i zmianie układu;
    - być prawidłowo prezentowana technologiom asystującym, jeżeli pojawia się dynamicznie;
    - być przekazywana kanałem odpowiadającym sposobowi prowadzenia interakcji.
