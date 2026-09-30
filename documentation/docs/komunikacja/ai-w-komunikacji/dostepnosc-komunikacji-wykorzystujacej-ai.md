@@ -55,7 +55,7 @@ Zasady obejmują sposób wykorzystywania AI do tworzenia lub przekształcania tr
 
    Organizacja łączy kontrolę automatyczną, ręczną i ekspercką odpowiednio do rodzaju materiału lub rozwiązania. Narzędzia automatyczne wykorzystuje do elementów możliwych do jednoznacznej analizy maszynowej. Kontrolę ręczną stosuje do elementów wymagających oceny znaczenia, kontekstu, kolejności, zrozumiałości albo współpracy z technologiami asystującymi. Ocenę osoby posiadającej kompetencje dostępnościowe zapewnia dla materiałów i rozwiązań złożonych, nietypowych, istotnych dla realizacji zadania użytkownika lub obciążonych większym ryzykiem. Wynik kontroli dokumentuje w zakresie odpowiednim do znaczenia i złożoności materiału albo rozwiązania.
 
-4. **Interfejsy komunikacyjne wykorzystujące AI.** Organizacja kontroluje dostępność chatbotów, asystentów tekstowych i głosowych oraz innych interaktywnych elementów komunikacji. Kontrola obejmuje:
+4. **Interfejsy komunikacyjne wykorzystujące AI.** Organizacja kontroluje dostępność chatbotów, asystentów tekstowych i głosowych oraz innych interaktywnych elementów komunikacji wykorzystywanych w organizacji. Kontrola obejmuje:
    - obsługę klawiaturą;
    - współpracę z technologiami asystującymi;
    - prawidłową semantykę i zarządzanie fokusem;
