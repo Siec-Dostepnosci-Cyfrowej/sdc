@@ -77,7 +77,7 @@ Zasady obejmują sposób wykorzystywania AI do tworzenia lub przekształcania tr
 
 6. **Generowanie i modyfikowanie treści lub interfejsu.** Każdy wariant treści lub interfejsu wygenerowany albo zmodyfikowany przez AI i udostępniony użytkownikowi podlega wymaganiom dostępności właściwym dla danego rodzaju treści, interfejsu i sposobu jego udostępnienia.
 
-7. **Dostępność informacji o wykorzystaniu AI.** Jeżeli przekazanie informacji o wykorzystaniu AI wynika z przepisów albo organizacja przekazuje ją dobrowolnie, zapewnia jej dostępność zgodnie z wymaganiami właściwymi dla strony, aplikacji, produktu albo usługi. W szczególności informacja:
+7. **Dostępność informacji o wykorzystaniu AI.** Jeżeli przekazanie informacji o wykorzystaniu AI wynika z przepisów albo organizacja przekazuje ją dobrowolnie, zapewnia jej dostępność zgodnie z wymaganiami właściwymi dla strony, aplikacji, produktu albo usługi. W szczególności informacja ma:
    - jest możliwa do odebrania przez użytkowników technologii asystujących;
    - nie opiera się wyłącznie na ikonie, kolorze, kształcie albo położeniu;
    - pozostaje czytelna po powiększeniu i zmianie układu;
