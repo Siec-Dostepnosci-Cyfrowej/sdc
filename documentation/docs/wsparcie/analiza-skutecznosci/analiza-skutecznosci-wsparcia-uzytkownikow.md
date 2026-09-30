@@ -20,7 +20,7 @@ Zapobieganie sytuacjom, w których organizacja utrzymuje nieskuteczne lub niedos
 
 ## 2. Zalecenie
 
-Organizacja obserwuje wsparcie użytkowników i analizuje jego skuteczność oraz wykorzystuje wnioski z analizy do doskonalenia sposobów udzielania pomocy i rozpoznawania problemów wymagających innych działań organizacji.
+Organizacja obserwuje wsparcie użytkowników i analizuje jego skuteczność oraz wykorzystuje wnioski z analizy do doskonalenia sposobów udzielania pomocy i rozpoznawania problemów wymagających innych działań organizacji
 
 ---
 
