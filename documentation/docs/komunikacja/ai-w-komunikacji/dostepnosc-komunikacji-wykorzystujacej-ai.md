@@ -62,7 +62,7 @@ Zasady obejmują sposób wykorzystywania AI do tworzenia lub przekształcania tr
 
 4. **Interfejsy komunikacyjne wykorzystujące AI.** Organizacja kontroluje dostępność chatbotów, asystentów tekstowych i głosowych oraz innych interaktywnych elementów komunikacji wykorzystywanych w organizacji. Kontrola obejmuje:
    - obsługę rozwiązania z klawiatury i myszy;
-   - współpracę z technologiami asystującymi;
+   - współpracę rozwiązania z technologiami asystującymi, między innymi: czytnikami ekranu i sterowania głosowego.
    - prawidłową semantykę i zarządzanie fokusem;
    - dostęp do historii rozmowy i aktualnej odpowiedzi;
    - udostępnianie dynamicznych komunikatów i zmian stanu;
