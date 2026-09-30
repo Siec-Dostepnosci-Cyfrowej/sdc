@@ -81,7 +81,7 @@ Zasady obejmują sposób wykorzystywania AI do tworzenia lub przekształcania tr
    - być możliwa do odebrania przez użytkowników technologii asystujących;
    - nie opiera się wyłącznie na ikonie, kolorze, kształcie albo położeniu;
    - pozostaje czytelna po powiększeniu i zmianie układu;
-   - jest prawidłowo udostępniana technologiom asystującym, jeżeli pojawia się dynamicznie;
+   - być prawidłowo prezentowana technologiom asystującym, jeżeli pojawia się dynamicznie;
    - jest przekazywana w kanale odpowiadającym sposobowi prowadzenia interakcji.
 
    Art. 50 AI Act określa obowiązki przejrzystości dla wskazanych zastosowań AI. Jego art. 50 ust. 5 wymaga, aby informacje wynikające z ust. 1–4 odpowiadały mającym zastosowanie wymaganiom dostępności. Wymagania te wynikają z reżimu właściwego dla konkretnej strony, aplikacji, produktu albo usługi.
