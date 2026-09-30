@@ -4,24 +4,23 @@ title: Utworzenie repozytorium wiedzy o cyfrowej dostępności
 sidebar-position: 1
 sidebar-label: Zalecenie 
 description: Propozycja utworzenia repozytorium wiedzy o dostępności cyfrowej
-keywords: [
-        wiedza i umiejętności,
-		repozytorium wiedzy,
-]
-tagss: [
-        wiedza i umiejętności,
-		repozytorium wiedzy,
-]
+keywords: [wiedza i umiejętności, repozytorium wiedzy]
+tagss: [wiedza i umiejętności, repozytorium wiedzy]
 opracowanie: Jacek Zadrożny 
 data_zgloszenia: 12 czerwca 2025 r.
-data_aktualizacji:  20 września 2025 r.
+data_aktualizacji:  30 września 2026 r.
 wersja_robocza: true
 ---
 
-## Zalecenie
-Minister właściwy do spraw informatyzacji powinien utworzyć repozytorium wiedzy na temat cyfrowej dostępności. Repozytorium powinno być dostępne dla wszystkich, w tym do wykorzystania przez boty internetowe i narzędzia oparte o sztuczną inteligencję. Repozytorium powinno zawierać informacje pozwalające na jednoznaczne interpretowanie wytycznych dotyczących dostępności, w tym przede wszystkim \[WCAG\]
+## 1. Cel zalecenia
 
-## Rekomendacje
+Celem zalecenia jest zapewnienie jednolitego i wiarygodnego źródła wiedzy o cyfrowej dostępności, które umożliwi podmiotom publicznym, ich pracownikom oraz dostawcom rozwiązań cyfrowych jednoznaczne interpretowanie wytycznych dotyczących dostępności, w tym przede wszystkim \[WCAG\].
+
+## 2. Zalecenie
+
+Minister właściwy do spraw informatyzacji powinien utworzyć repozytorium wiedzy na temat cyfrowej dostępności. Repozytorium powinno być dostępne dla wszystkich, w tym do wykorzystania przez boty internetowe i narzędzia oparte o sztuczną inteligencję. Repozytorium powinno zawierać informacje pozwalające na jednoznaczne interpretowanie wytycznych dotyczących dostępności, w tym przede wszystkim \[WCAG\].
+
+## 3. Rekomendacje
 
 1. Dokumenty w repozytorium powinny być wolne od praw autorskich lub przynajmniej udostępnione na otwartej licencji.
 2. Repozytorium powinno być przygotowane w taki sposób, aby było łatwe do pobrania i wykorzystywania. Może być opublikowane na platformie Github lub innej analogicznej.
@@ -29,11 +28,11 @@ Minister właściwy do spraw informatyzacji powinien utworzyć repozytorium wied
 4. Treść dokumentów powinna być konsultowana w środowisku specjalistów cyfrowej dostępności, aby uniknąć błędów i niejasności.
 5. Wzorami dla repozytorium mogą być [objaśnienia do WCAG](https://www.w3.org/WAI/WCAG22/Understanding/text-alternatives.html) i [instrukcje US Access Board](https://www.section508.gov/create/)
 
-## Podstawa prawna
+## 4. Podstawa prawna
 
 Art. 12 ust. 4 ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych
 
-## Uzasadnienie
+## 5. Uzasadnienie
 
 Minister właściwy do spraw informatyzacji powinien utworzyć repozytorium wiedzy na temat cyfrowej dostępności, ponieważ zapewni ono jednolite i precyzyjne interpretacje wytycznych dotyczących dostępności, w tym WCAG. Takie repozytorium będzie kluczowym narzędziem wspierającym podmioty publiczne w spełnianiu wymagań prawnych oraz technicznych związanych z dostępnością cyfrową.
 
@@ -46,9 +45,3 @@ Obserwacje z ostatnich kilku lat wdrażania cyfrowej dostępności pokazują, ż
 - Wadliwe implementowanie zabezpieczeń typu CAPTCHA z wersją dźwiękową w języku innym niż polski.
 
 Ministerstwo Cyfryzacji rozpoczęło już pracę nad podobnym repozytorium i należy je dalej rozwijać. Jednak obecnie są to rozdziały podręcznika, w których informacje mogą się szybko zdezaktualizować. Nie ma też żadnej koncepcji na dalszy rozwój, w szczególności w obszarze użyteczności zasobów dla modeli językowych i organicznego rozwoju.
-
-## Historia wersji
-
-| **Wersja** | **Autor** | **Data** | **Opis zmian** |
-| --- | --- | --- | --- |
-| RC | Jacek Zadrożny | 12.06.2025 | Projekt – kandydat do wydania |
