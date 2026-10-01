@@ -39,5 +39,5 @@ Lista służy do wstępnej kontroli dokumentów udostępnianych jako pliki do po
 
 ## Powiązane dokumenty
 
-- [Zasady projektowania list kontrolnych](./projektowanie-list-kontrolnych-dostepnosci-tresci.md)
-- [Tryb publikacji warunkowej](./procedura-sytuacji-wyjatkowych.md)
+- [Zasady projektowania list kontrolnych dostępności treści](projektowanie-list-kontrolnych-dostepnosci-tresci.md)
+- [Tryb publikacji warunkowej i rejestr publikacji warunkowych](procedura-sytuacji-wyjatkowych.md)

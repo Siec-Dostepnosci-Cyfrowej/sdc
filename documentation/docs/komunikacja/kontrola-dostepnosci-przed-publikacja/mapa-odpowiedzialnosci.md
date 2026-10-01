@@ -40,5 +40,5 @@ Podmiot powinien określić, kto otrzymuje materiał na poszczególnych etapach,
 
 ## Powiązane dokumenty
 
-- [Procedura kontroli dostępności](./procedura-wdrozeniowa-kontroli-dostepnosci-przed-publikacja.md)
-- [Tryb publikacji warunkowej](./procedura-sytuacji-wyjatkowych.md)
+- [Procedura kontroli dostępności przed publikacją](procedura-wdrozeniowa-kontroli-dostepnosci-przed-publikacja.md)
+- [Tryb publikacji warunkowej i rejestr publikacji warunkowych](procedura-sytuacji-wyjatkowych.md)
