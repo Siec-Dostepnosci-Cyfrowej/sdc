@@ -128,13 +128,13 @@ Organizacja wskazuje dla każdego rozwiązania cyfrowego osobę odpowiedzialną 
 
 Odpowiedzialność ta obejmuje przekazanie wymagań, wiedzy o stanie i podjętych ustaleń przy zmianie osób, wykonawców i podmiotów utrzymujących rozwiązanie. Powierzenie prac wykonawcy, dostawcy albo podmiotowi utrzymującemu rozwiązanie nie przenosi na nich odpowiedzialności organizacji za określenie wymagań, ocenę uzyskanych informacji i podjęcie decyzji.
 
-Organizacja może powiązać tę odpowiedzialność z rolą [właściciela systemu IT](../../kultura/role-i-odpowiedzialnosc/role-wlasciciel-obszaru-tematycznego/wlasciciel-systemu-it.md) albo inną równoważną rolą wskazaną w organizacji.
+Organizacja może powiązać tę odpowiedzialność z rolą „[Właściciel systemu IT](../../kultura/role-i-odpowiedzialnosc/role-wlasciciel-obszaru-tematycznego/wlasciciel-systemu-it.md)” albo inną równoważną rolą wskazaną w organizacji.
 
 ### 3.9 Dokumentowanie wymagań, decyzji i zobowiązań
 
 Organizacja utrzymuje dla rozwiązania cyfrowego informacje umożliwiające odtworzenie, jakie wymagania dostępności określono, jaki był stan dostępności i zakres jego rozpoznania, jakie zobowiązania przyjął wykonawca, jakie decyzje podjęto, w tym decyzje o odstępstwach, o warunkowym dopuszczeniu i o kontynuowaniu użytkowania mimo znanych barier, obniżenia wcześniej potwierdzonego stanu dostępności albo braku pełnej wiedzy o stanie dostępności, wraz z ich przyczynami, oraz kto jest odpowiedzialny za rozwiązanie.
 
-Informacje te organizacja utrzymuje wraz z pozostałymi informacjami o rozwiązaniu w [rejestrze zasobów cyfrowych](../inwentaryzacja/rejestr-zasobow-cyfrowych.md) oraz, w zakresie wiedzy o stanie dostępności i zgodności, w rejestrze prowadzonym zgodnie z dokumentem [Zasady prowadzenia rejestru stanu dostępności i zgodności](../obserwowanie-i-ocenianie-dostepnosci-i-zgodnosci/zasady-prowadzenia-rejestru-stanu-dostepnosci-i-zgodnosci.md). Organizacja nie tworzy odrębnego rejestru, jeżeli istniejące rejestry pozwalają zachować wymagane informacje i relacje między nimi.
+Informacje te organizacja utrzymuje wraz z pozostałymi informacjami o rozwiązaniu w rejestrze zasobów cyfrowych, o którym mowa w zaleceniu [Inwentaryzacja zasobów cyfrowych](../inwentaryzacja/rejestr-zasobow-cyfrowych.md), oraz, w zakresie wiedzy o stanie dostępności i zgodności, w rejestrze prowadzonym zgodnie z dokumentem [Zasady prowadzenia rejestru stanu dostępności i zgodności](../obserwowanie-i-ocenianie-dostepnosci-i-zgodnosci/zasady-prowadzenia-rejestru-stanu-dostepnosci-i-zgodnosci.md). Organizacja nie tworzy odrębnego rejestru, jeżeli istniejące rejestry pozwalają zachować wymagane informacje i relacje między nimi.
 
 Zakres utrzymywanych informacji organizacja ogranicza do potrzebnych przy podejmowaniu decyzji w cyklu życia rozwiązania. Rozwiązanie cyfrowe, o którym mowa w tym zaleceniu, może być ujmowane w rejestrze zasobów cyfrowych jako zasób cyfrowy albo jako część szerszego zasobu, jeżeli pozwala to zachować spójność informacji.
 
@@ -164,6 +164,16 @@ Niniejsze zalecenie określa zasadę zachowania tych informacji i utrzymania osi
 - [PN-ETSI EN 301 549 V3.2.1:2021 Wymagania dotyczące dostępności produktów i usług ICT](https://sklep.pkn.pl/pn-etsi-en-301-549-v3-2-1-2021-09p.html)
 
 
-## 7. Historia wersji
+## 7. Powiązania z innymi dokumentami Sieci
+
+- [Profile i zakres ocen stanu dostępności i zgodności](../obserwowanie-i-ocenianie-dostepnosci-i-zgodnosci/profile-i-zakres-ocen-stanu-dostepnosci-i-zgodnosci.md)
+- [Ocena zmian mogących mieć wpływ na dostępność cyfrową](../przeglad-i-aktualizacja-deklaracji/ocena-zmian-mogacych-miec-wplyw-na-dostepnosc-cyfrowa.md)
+- [Zapewnianie dostępności cyfrowej zasobów archiwalnych, migrowanych i wycofywanych](../archiwizacja-i-wycofywanie-zasobow-cyfrowych/archiwizacja-i-wycofywanie-zasobow-cyfrowych.md)
+- [Właściciel systemu IT](../../kultura/role-i-odpowiedzialnosc/role-wlasciciel-obszaru-tematycznego/wlasciciel-systemu-it.md)
+- [Inwentaryzacja zasobów cyfrowych](../inwentaryzacja/rejestr-zasobow-cyfrowych.md)
+- [Zasady prowadzenia rejestru stanu dostępności i zgodności](../obserwowanie-i-ocenianie-dostepnosci-i-zgodnosci/zasady-prowadzenia-rejestru-stanu-dostepnosci-i-zgodnosci.md)
+
+
+## 8. Historia wersji
 
 - Wersja 0.1, projekt wstępny
