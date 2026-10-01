@@ -109,7 +109,7 @@ W zaleceniu uwzględniono poniżej wymienione przepisy:
 ## 7. Powiązania z innymi dokumentami Sieci
 
 1. [Standard tworzenia treści cyfrowych](../standardy-tworzenia-i-publikacji/01-standard-tworzenia-tresci-cyfrowych)
-2. [Standardy tworzenia i publikacji treści cyfrowych](../standardy-tworzenia-i-publikacji/00-standardy-tworzenia-i-publikacji-tresci)
+2. [Standardy tworzenia i publikacji treści cyfrowych](../standardy-tworzenia-i-publikacji/standardy-tworzenia-i-publikacji-tresci-cyfrowych)
 3. [Kontrola dostępności treści cyfrowych przed publikacją](../kontrola-dostepnosci-przed-publikacja/procedura-kontroli-dostepnosci-przed-publikacja)
 4. [Kompetencje w zakresie dostępnej komunikacji cyfrowej i publikacji treści](../../wiedza/zarzadzanie-kompetencjami/kompetencje-w-zakresie-komunikacji-cyfrowej-i-publikacji-tresci)
 
