@@ -307,11 +307,11 @@ W zaleceniu uwzględniono poniżej wymienione przepisy i dokumenty. Przepisy te 
 
 ## 7. Powiązania z innymi dokumentami Sieci
 
-1. [Obserwowanie i ocenianie stanu dostępności i zgodności rozwiązań cyfrowych](../obserwowanie-i-ocenianie-dostepnosci-i-zgodnosci/obserwowanie-i-ocenianie-stanu-dostepnosci-i-zgodnosci-rozwiazan-cyfrowych.md) - określa zasady uzyskiwania i dokumentowania wiedzy o stanie dostępności i zgodności, która zasila dane rejestrowe.
-2. [Przegląd i aktualizacja deklaracji dostępności cyfrowej](../przeglad-i-aktualizacja-deklaracji/przeglad-i-aktualizacja-deklaracji-dostepnosci.md) - opisuje proces wykorzystujący aktualną wiedzę o stronie internetowej lub aplikacji mobilnej, w tym dane o zasobie i jego stanie.
-3. [Systemowe rozwiązywanie problemów dostępności cyfrowej](../systemowe-rozwiazywanie-problemow-dostepnosci-cyfrowej/systemowe-rozwiazywanie-problemow.md) - dotyczy obsługi problemów, które mogą aktualizować informacje o stanie zasobu, ryzykach i działaniach naprawczych.
-4. [Zapewnianie dostępności cyfrowej zasobów archiwalnych, migrowanych i wycofywanych](../archiwizacja-i-wycofywanie-zasobow-cyfrowych/archiwizacja-i-wycofywanie-zasobow-cyfrowych.md) - rozwija zasady postępowania z zasobami w końcowych etapach cyklu życia.
-5. [Dostępność cyfrowa w polityce zakupowej](../../zaopatrzenie/polityka-zakupowa/dostepnosc-cyfrowa-w-polityce-zakupowej.md) - wskazuje zasady uwzględniania dostępności cyfrowej przy nabywaniu technologii i treści, które po zakupie stają się elementem inwentaryzacji.
+1. **Obserwowanie i ocenianie stanu dostępności i zgodności rozwiązań** - określa zasady uzyskiwania i dokumentowania wiedzy o stanie dostępności i zgodności, która zasila dane rejestrowe.
+2. **Przegląd i aktualizacja deklaracji dostępności cyfrowej** - opisuje proces wykorzystujący aktualną wiedzę o stronie internetowej lub aplikacji mobilnej, w tym dane o zasobie i jego stanie.
+3. **Systemowe rozwiązywanie problemów dostępności** - dotyczy obsługi problemów, które mogą aktualizować informacje o stanie zasobu, ryzykach i działaniach naprawczych.
+4. **Zapewnianie dostępności cyfrowej zasobów archiwalnych, migrowanych i wycofywanych** - rozwija zasady postępowania z zasobami w końcowych etapach cyklu życia.
+5. **Dostępność cyfrowa w polityce zakupowej** - wskazuje zasady uwzględniania dostępności cyfrowej przy nabywaniu technologii i treści, które po zakupie stają się elementem inwentaryzacji.
 
 ---
 
