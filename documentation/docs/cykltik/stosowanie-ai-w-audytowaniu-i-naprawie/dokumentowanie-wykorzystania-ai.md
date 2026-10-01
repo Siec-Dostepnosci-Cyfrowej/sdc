@@ -6,6 +6,7 @@ sidebar_label: Dokumentowanie wykorzystania AI
 sidebar_position: 3
 keywords: [dostępność cyfrowa, sztuczna inteligencja, AI, dokumentowanie, wyniki AI, weryfikacja, odpowiedzialność]
 tags: [dostępność cyfrowa, sztuczna inteligencja, dokumentowanie, weryfikacja]
+opracowanie: Maciej Budzisz , Stefan Wajda
 wersja_robocza: true
 ---
 
