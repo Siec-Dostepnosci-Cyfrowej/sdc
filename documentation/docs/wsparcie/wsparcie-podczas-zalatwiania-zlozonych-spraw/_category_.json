@@ -1,8 +1,8 @@
 {
-  "label": "Wsparcie podczas złożonych spraw",
+  "label": "Wsparcie podczas realizacji złożonych spraw",
   "position": 6,
   "link": {
-        "type": "generated-index",
-	"description": "Realizacja wielu usług cyfrowych wymaga od użytkowników przejścia przez złożone procesy obejmujące wiele etapów, systemów i czynności. Zalecenie pomaga organizacjom publicznym organizować wsparcie dla użytkowników podczas realizacji takich spraw, w szczególności poprzez identyfikowanie procesów wymagających dodatkowej pomocy, informowanie o dostępnych formach wsparcia, przygotowywanie materiałów pomocniczych oraz zapewnianie pomocy na poszczególnych etapach realizacji usługi. Wspiera zwiększanie skuteczności korzystania z usług cyfrowych, ograniczanie barier napotykanych przez użytkowników oraz wykorzystywanie ich doświadczeń do doskonalenia procesów i usług."
+    "type": "generated-index",
+    "description": "Realizacja złożonej sprawy może wymagać od użytkownika wykonania wielu powiązanych czynności z wykorzystaniem różnych rozwiązań cyfrowych, a trudność na jednym z etapów może uniemożliwić jej dokończenie. Zalecenie wskazuje, jak zapewniać pomoc na poszczególnych etapach sprawy, zachowywać ciągłość wsparcia oraz uruchamiać jego odpowiednią formę, gdy rozwiązanie problemu wymaga innych kompetencji lub działań. Pomaga organizacji ograniczać sytuacje, w których użytkownik pozostaje bez skutecznej pomocy pomiędzy kolejnymi etapami, rozwiązaniami cyfrowymi lub formami wsparcia."
   }
 }
