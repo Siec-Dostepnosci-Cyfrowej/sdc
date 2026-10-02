@@ -1,6 +1,6 @@
 ---
 id: repozytorium-wiedzy-dezyderat
-title: "Dezyderat: Utworzenie oficjalnego, otwartego portalu wiedzy o dostępności cyfrowej wraz z repozytorium źródeł i interpretacji"
+title: Utworzenie oficjalnego, otwartego portalu wiedzy o dostępności cyfrowej wraz z repozytorium źródeł i interpretacji
 sidebar-position: 1
 sidebar-label: Dezyderat
 description: Propozycja utworzenia oficjalnego, otwartego portalu wiedzy o dostępności cyfrowej wraz z repozytorium źródeł i interpretacji
@@ -8,7 +8,7 @@ keywords: [wiedza i umiejętności, repozytorium wiedzy]
 tagss: [wiedza i umiejętności, repozytorium wiedzy]
 opracowanie: Scalona propozycja 
 data_zgloszenia: 22 listopada 2025 r.
-data_aktualizacji:  6 grudnia 2025 r.
+data_aktualizacji:  2 października 2026 r.
 wersja_robocza: true
 ---
 
