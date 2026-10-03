@@ -10,6 +10,7 @@ typ: zalecenie
 wymiar: Komunikacja
 opracowanie: Bartłomiej Wilk
 wspolpraca: Damian Żłobicki
+wspolpraca: Damian Żłobicki
 data_zgloszenia: 21 września 2026 r.
 ostatnia_aktualizacja: 1 października 2026 r.
 wersja_robocza: true
