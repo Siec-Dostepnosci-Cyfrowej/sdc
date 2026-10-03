@@ -5,7 +5,7 @@ description: Zalecenie określające sposób uwzględniania dostępności cyfrow
 sidebar_label: Zalecenie
 sidebar_position: 0
 keywords: [sztuczna inteligencja, AI, komunikacja cyfrowa, dostępność cyfrowa, kontrola dostępności]
-tags: [sztuczna inteligencja, AI, komunikacja cyfrowa, dostępność cyfrowa, kontrola dostępności]
+tags: [sztuczna inteligencja, AI, komunikacja cyfrowa, kontrola dostępności]
 typ: zalecenie
 wymiar: Komunikacja
 opracowanie: Bartłomiej Wilk
