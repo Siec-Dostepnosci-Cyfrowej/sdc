@@ -8,13 +8,13 @@ keywords: [dostępność cyfrowa, ocena dostępności, ocena zgodności, oceny p
 tags: [dostępność cyfrowa, ocena dostępności, ocena zgodności, oceny planowe, oceny doraźne, profile oceny, zakres oceny, scenariusze testów]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 lipca 2026 r.
-ostatnia_aktualizacja: 29 lipca 2026 r.
+ostatnia_aktualizacja: 30 września 2026 r.
 wersja_robocza: true
 ---
 
 ## 1. Cel dokumentu
 
-Dokument określa zasady rozróżniania ocen planowych i doraźnych, ustalania zakresu oceny oraz stosowania profilu wstępnego, rozszerzonego i pogłębionego.
+Dokument określa zasady rozróżniania ocen planowych i doraźnych, określania celu i zakresu ocen oraz stosowania profilu wstępnego, rozszerzonego i pogłębionego podczas ocen planowych.
 
 Wyjaśnia również różnicę między profilem oceny planowej a najniższym profilem stosowania scenariusza testu.
 
@@ -22,161 +22,157 @@ Wyjaśnia również różnicę między profilem oceny planowej a najniższym pro
 
 ## 2. Oceny planowe i doraźne
 
-Organizacja uzyskuje wiedzę o stanie dostępności i zgodności rozwiązania cyfrowego w wyniku różnych ocen prowadzonych w całym okresie jego użytkowania.
+Organizacja ocenia stan dostępności i zgodności rozwiązania cyfrowego w celu uzyskania, potwierdzenia, uzupełnienia lub aktualizacji wiedzy potrzebnej do zapewniania jego dostępności.
 
 Ze względu na sposób określania celu i zakresu wyróżnia się:
 
 1. **oceny planowe**;
 2. **oceny doraźne**.
 
-Rozróżnienie to ma znaczenie dla sposobu ustalania zakresu oceny.
-
-Profile wstępny, rozszerzony i pogłębiony stosuje się do ocen planowych. Zakres ocen doraźnych wynika natomiast z konkretnego zdarzenia lub potrzeby informacyjnej.
+Profile wstępny, rozszerzony i pogłębiony stosuje się do ocen planowych. Zakres oceny doraźnej wynika z konkretnego zdarzenia lub potrzeby informacyjnej.
 
 ### 2.1. Oceny planowe
 
-Oceny planowe są prowadzone w ramach systematycznego rozpoznawania stanu dostępności i zgodności rozwiązania cyfrowego.
+Oceny planowe służą systematycznemu rozpoznawaniu i aktualizowaniu wiedzy o stanie dostępności i zgodności rozwiązania.
 
-Służą w szczególności:
+Mogą służyć w szczególności:
 
 - uzyskaniu pierwszego uporządkowanego obrazu stanu;
-- planowemu zwiększaniu zakresu wiedzy;
-- obejmowaniu oceną kolejnych wymagań dostępności;
-- zwiększaniu zakresu funkcjonalnego ocen;
-- zwiększaniu liczby i zróżnicowania ocenianych obiektów oraz reprezentatywności badanej próby;
+- uzupełnianiu rozpoznania stanu w obszarach dotychczas nieocenionych albo rozpoznanych w niewystarczającym zakresie;
 - aktualizowaniu lub weryfikowaniu wcześniejszej wiedzy;
+- zwiększaniu zakresu rozpoznania stanu w jednym lub kilku jego wymiarach;
 - pogłębianiu rozpoznania wybranych zagadnień;
 - ocenianiu wymagań dodatkowych.
 
-Zakres oceny planowej określa się z zastosowaniem profilu odpowiedniego do celu oceny i aktualnego zakresu udokumentowanej wiedzy.
+Cel i zakres oceny planowej określa się z uwzględnieniem aktualnej i udokumentowanej wiedzy o stanie rozwiązania oraz zakresie jego rozpoznania.
 
 ### 2.2. Oceny doraźne
 
-Oceny doraźne są podejmowane w związku z określonym zdarzeniem albo potrzebą uzyskania, potwierdzenia, aktualizacji, uzupełnienia lub zweryfikowania informacji o stanie.
+Oceny doraźne są wykonywane w odpowiedzi na zdarzenie, zmianę, rozpoznany problem lub inną potrzebę uzyskania, potwierdzenia, uzupełnienia albo aktualizacji informacji o stanie rozwiązania.
 
 Przyczyną oceny doraźnej może być w szczególności:
 
-- zmiana mogąca mieć wpływ na dostępność cyfrową;
+- zmiana mogąca wpływać na dostępność cyfrową;
 - zgłoszenie lub skarga użytkownika;
-- stwierdzenie możliwego problemu;
+- informacja wskazująca możliwość występowania problemu;
 - odbiór rozwiązania albo jego części;
-- zakończenie działania naprawczego lub doskonalącego;
+- zakończenie działania naprawczego;
 - rozbieżność między posiadanymi informacjami;
-- potrzeba uzyskania podstawy do podjęcia decyzji.
+- potrzeba uzyskania informacji niezbędnej do podjęcia decyzji.
 
-Zakres oceny doraźnej wynika z jej celu oraz charakteru zdarzenia lub potrzeby.
+Zakres oceny doraźnej wynika z jej celu oraz charakteru zdarzenia lub potrzeby. Może obejmować jeden lub kilka testów, określony obiekt, grupę obiektów, funkcję, proces użytkownika, obszar funkcjonalny albo szerszy zakres rozwiązania.
 
-Ocena doraźna może obejmować jeden test, kilka testów, określony obiekt, grupę obiektów, proces użytkownika, obszar funkcjonalny albo szerszy zakres rozwiązania.
-
-Do ocen doraźnych nie stosuje się wymagań dotyczących profili ocen planowych, minimalnej próby ani planowego zwiększania zakresu rozpoznania stanu.
+Do ocen doraźnych nie stosuje się profili ocen planowych. Stosowane metody i zakres oceny dobiera się odpowiednio do informacji, które organizacja potrzebuje uzyskać.
 
 ---
 
-## 3. Zakres oceny
+## 3. Określanie zakresu oceny
 
-Zakres oceny określa, czego organizacja zamierza się dowiedzieć oraz jakie wymagania, części rozwiązania i warunki korzystania zostaną objęte badaniem.
+Zakres oceny określa, czego organizacja zamierza się dowiedzieć o stanie dostępności i zgodności rozwiązania oraz czego będą dotyczyć uzyskane wyniki i wnioski.
 
-Nie wyznacza go wyłącznie liczba wykonanych testów ani liczba ocenianych obiektów.
+Zakresu oceny nie wyznacza wyłącznie liczba wykonanych testów ani liczba ocenionych obiektów.
 
-Zakres oceny obejmuje pięć podstawowych wymiarów:
+Zakres oceny rozpatruje się w pięciu wzajemnie uzupełniających się wymiarach:
 
-1. **zakres wymagań**;
-2. **zakres funkcjonalny**;
-3. **zakres strukturalny**;
-4. **zakres użytkowy**;
-5. **zakres środowisk użytkowania**.
+1. **zakresie wymagań**;
+2. **zakresie funkcjonalnym**;
+3. **zakresie strukturalnym**;
+4. **zakresie użytkowym**;
+5. **zakresie środowisk użytkowania**.
 
-Wymiary te należy rozpatrywać łącznie. Ocena może obejmować szeroki zestaw wymagań, ale bardzo wąską próbę obiektów. Może również szczegółowo obejmować określony proces użytkownika, ale tylko w jednym środowisku użytkowania. Z kolei ocena dużej liczby stron nie musi obejmować najczęściej wykorzystywanych funkcji ani najważniejszych procesów użytkownika.
+Wymiary te rozpatruje się łącznie. Szeroki zakres ocenionych wymagań nie oznacza szerokiego rozpoznania stanu, jeżeli ocena dotyczyła niewielkiej lub niereprezentatywnej części rozwiązania. Podobnie szeroka próba obiektów nie oznacza szerokiego rozpoznania, jeżeli oceniono jedynie niewielką część mających zastosowanie wymagań.
+
+Ocena może mieć różny zakres w poszczególnych wymiarach odpowiednio do jej celu i potrzeb informacyjnych organizacji.
+
+**Zakres oceny nie może mieć charakteru symbolicznego. Powinien być wystarczający do osiągnięcia celu oceny i uzyskania wiedzy, którą organizacja zamierza wykorzystać.**
 
 ### 3.1. Zakres wymagań
 
-Zakres wymagań określa, jakie wymagania dostępności podlegają ocenie.
+Zakres wymagań określa, jakie wymagania dostępności i zgodności podlegają ocenie.
 
 Może obejmować w szczególności:
 
-- mające zastosowanie obowiązkowe wymagania dostępności;
+- wszystkie albo wybrane mające zastosowanie obowiązkowe wymagania dostępności;
 - wymagania dotychczas nieobjęte oceną;
-- wymagania, których wcześniejsze wyniki wymagają aktualizacji albo weryfikacji;
+- wymagania, których wcześniejsza ocena wymaga aktualizacji lub weryfikacji;
 - wymagania dodatkowe przyjęte przez organizację;
-- wymagania odpowiednie do określonego problemu, zmiany lub procesu użytkownika.
+- wymagania związane z określoną funkcją, procesem, zmianą lub problemem.
 
-Wyniku oceny wymagania nie należy uogólniać poza zakres obiektów i funkcji objętych badaniem.
+Wyniku oceny określonego wymagania nie uogólnia się poza zakres rozwiązania, dla którego uzyskano wystarczające informacje.
 
 ### 3.2. Zakres funkcjonalny
 
-Zakres funkcjonalny określa, jakie części rozwiązania oraz sposoby korzystania z niego podlegają ocenie.
+Zakres funkcjonalny określa, jakie funkcje, obszary funkcjonalne, zadania i procesy użytkownika podlegają ocenie.
 
 Może obejmować w szczególności:
 
-- obszary funkcjonalne;
-- funkcje;
+- obszary funkcjonalne rozwiązania;
+- funkcje dostępne użytkownikom;
+- zadania wykonywane za pomocą rozwiązania;
 - procesy użytkownika;
-- procesy realizacji usług lub załatwiania spraw;
-- komponenty;
-- dokumenty;
-- rodzaje treści;
-- wspólne mechanizmy i szablony.
+- procesy realizacji usług lub załatwiania spraw.
 
-Zakres funkcjonalny powinien uwzględniać znaczenie poszczególnych funkcji i procesów dla użytkowników.
+Zakres funkcjonalny uwzględnia zależności między poszczególnymi etapami i funkcjami potrzebnymi do wykonania zadania.
 
-Ocena pojedynczych stron lub ekranów nie zastępuje oceny procesu użytkownika, jeżeli dostępność rozwiązania zależy od możliwości wykonania całego zadania.
+Ocena pojedynczych stron, ekranów lub innych obiektów nie zastępuje oceny procesu użytkownika, jeżeli możliwość wykonania zadania zależy od dostępności całego procesu.
 
 ### 3.3. Zakres strukturalny
 
-Zakres badanej próby określa, jakie konkretne obiekty są bezpośrednio oceniane.
-
-Próba może obejmować w szczególności:
-
-- strony;
-- ekrany;
-- widoki;
-- komponenty;
-- elementy;
-- dokumenty;
-- treści;
-- etapy procesów użytkownika.
-
-Przy doborze próby należy uwzględniać nie tylko liczbę obiektów, ale również ich zróżnicowanie i reprezentatywność.
-
-Ocena wielu podobnych obiektów wykorzystujących ten sam szablon może dostarczyć mniej nowej wiedzy niż ocena mniejszej liczby różniących się funkcji, komponentów, procesów lub rodzajów treści.
-
-### 3.4. Zakres użytkowy
-
-Zakres użytkowy określa, w jakim stopniu ocena obejmuje części rozwiązania rzeczywiście wykorzystywane przez użytkowników.
-
-Może uwzględniać w szczególności:
-
-- najczęściej odwiedzane strony lub ekrany;
-- najczęściej wykonywane procesy użytkownika;
-- usługi o największym znaczeniu dla użytkowników;
-- obiekty, których dotyczą zgłoszenia użytkowników;
-- obszary o podwyższonym ryzyku występowania problemów;
-- nowe lub istotnie zmienione funkcje rozwiązania.
-
-Uwzględnienie zakresu użytkowego pozwala skoncentrować ocenę na tych częściach rozwiązania, których dostępność ma największe znaczenie dla rzeczywistych użytkowników.
-
-### 3.5. Zakres środowisk użytkowania
-
-Zakres środowisk użytkowania określa, w jakich warunkach oceniana jest dostępność rozwiązania.
+Zakres strukturalny określa, jakie części i obiekty rozwiązania są bezpośrednio objęte oceną.
 
 Może obejmować w szczególności:
 
-- różne systemy operacyjne;
-- różne przeglądarki internetowe;
+- strony;
+- ekrany i widoki;
+- komponenty i szablony;
+- dokumenty;
+- treści;
+- formularze;
+- multimedia;
+- inne wyodrębnione części rozwiązania.
+
+Jeżeli ocena obejmuje próbę obiektów, jej dobór uwzględnia odpowiednio ich zróżnicowanie, reprezentatywność, znaczenie oraz związki z ocenianymi funkcjami i procesami.
+
+Ocena wielu podobnych obiektów wykorzystujących te same rozwiązania może dostarczyć mniej nowej wiedzy niż ocena mniejszej liczby odpowiednio zróżnicowanych obiektów.
+
+### 3.4. Zakres użytkowy
+
+Zakres użytkowy określa, w jakim stopniu ocena obejmuje funkcje, procesy i części rozwiązania istotne z punktu widzenia jego rzeczywistego użytkowania.
+
+Przy określaniu zakresu użytkowego uwzględnia się odpowiednio:
+
+- częstotliwość korzystania z poszczególnych funkcji i części rozwiązania;
+- znaczenie funkcji, procesów i usług dla użytkowników;
+- znaczenie możliwości wykonania określonych zadań i załatwienia spraw;
+- informacje o sposobie rzeczywistego wykorzystywania rozwiązania;
+- zgłoszenia, potrzeby i doświadczenia użytkowników;
+- szczególne znaczenie określonych części rozwiązania wynikające z jego przeznaczenia.
+
+Zakres użytkowy pozwala uwzględnić znaczenie ocenianych funkcji, procesów i części rozwiązania, którego nie pokazuje sam zakres funkcjonalny ani strukturalny. Ocena wielu rzadko wykorzystywanych obiektów może dostarczać mniej wiedzy o dostępności rzeczywistego użytkowania rozwiązania niż ocena kluczowych funkcji i procesów.
+
+
+### 3.5. Zakres środowisk użytkowania
+
+Zakres środowisk użytkowania określa, w jakich warunkach technicznych i konfiguracjach oceniana jest dostępność rozwiązania.
+
+Może obejmować w szczególności:
+
+- systemy operacyjne;
+- przeglądarki internetowe;
 - urządzenia mobilne i komputery;
 - różne wielkości ekranów i układy responsywne;
 - technologie wspomagające;
-- inne środowiska mające znaczenie dla korzystania z rozwiązania.
+- konfiguracje i inne środowiska mające znaczenie dla korzystania z rozwiązania.
 
-Dobór środowisk użytkowania powinien uwzględniać charakter rozwiązania, sposób korzystania z niego oraz środowiska istotne dla jego użytkowników.
+Dobór środowisk uwzględnia charakter rozwiązania, sposób jego udostępniania i użytkowania oraz środowiska istotne dla jego użytkowników.
 
-Ocena wykonana wyłącznie w jednym środowisku nie powinna być automatycznie uogólniana na wszystkie środowiska użytkowania.
+Wyników uzyskanych w jednym środowisku nie uogólnia się automatycznie na środowiska, których ocena nie obejmowała.
 
 ---
 
 ## 4. Funkcja profili ocen planowych
 
-Profile służą określaniu funkcji i zasad planowania zakresu ocen planowych.
+Profile pomagają określać funkcję i planować zakres ocen planowych odpowiednio do aktualnej wiedzy organizacji i potrzeb dalszego rozpoznania stanu.
 
 Stosuje się trzy profile:
 
@@ -184,47 +180,48 @@ Stosuje się trzy profile:
 2. **profil rozszerzony**;
 3. **profil pogłębiony**.
 
-| Profil          | Podstawowa funkcja                                                                                         |
-| --------------- | ---------------------------------------------------------------------------------------------------------- |
-| **Wstępny**    | Uzyskanie pierwszego uporządkowanego obrazu stanu w podstawowym zakresie                                   |
-| **Rozszerzony**| Planowe zwiększanie zakresu udokumentowanej wiedzy o stanie i zgodności                                    |
-| **Pogłębiony** | Ocena wymagań dodatkowych oraz zagadnień wymagających specjalistycznej wiedzy lub bardziej złożonych metod |
+| Profil | Podstawowa funkcja |
+| --- | --- |
+| **Wstępny** | Uzyskanie pierwszego uporządkowanego obrazu stanu |
+| **Rozszerzony** | Planowe uzupełnianie, rozszerzanie i aktualizowanie wiedzy o stanie |
+| **Pogłębiony** | Rozpoznawanie wymagań i zagadnień wymagających specjalistycznej wiedzy, dodatkowych metod lub większej szczegółowości oceny |
 
-Profile nie są trzema wielkościami tego samego audytu ani poziomami jakości wykonania oceny.
+Profile nie oznaczają trzech wielkości tego samego audytu ani trzech poziomów jakości lub wiarygodności oceny.
 
 Profil określa funkcję oceny planowej i sposób ustalania jej zakresu. Nie przesądza o zastosowaniu jednej określonej metody.
 
-Ocena planowa może wykorzystywać między innymi:
+W ocenie mogą być wykorzystywane odpowiednio między innymi:
 
 - scenariusze testów;
-- testy automatyczne;
-- ocenę ekspercką;
-- audyt;
+- analizy automatyczne;
+- testy manualne i funkcjonalne;
+- oceny eksperckie;
 - badania z użytkownikami;
-- analizę dokumentacji;
-- inne odpowiednio udokumentowane metody.
+- analiza dokumentacji;
+- inne metody odpowiednie do celu i zakresu oceny.
 
 ---
 
 ## 5. Dobór profilu oceny planowej
 
-Profil oceny planowej dobiera się odpowiednio do:
+Profil oceny planowej dobiera się odpowiednio do jej celu oraz aktualnej wiedzy o stanie rozwiązania i zakresie jego rozpoznania.
 
-- celu oceny;
-- zakresu aktualnej i wiarygodnej wiedzy o stanie;
-- wymagań i części rozwiązania dotychczas objętych ocenami;
-- luk w zakresie rozpoznania stanu;
-- znaczenia rozwiązania, funkcji i procesów dla użytkowników;
-- rodzaju i złożoności rozwiązania;
-- przyjętych wymagań dodatkowych;
-- ryzyka związanego z niedostępnością;
-- kompetencji i zasobów potrzebnych do przeprowadzenia oceny.
+Uwzględnia się w szczególności:
+
+- zakres i aktualność posiadanej wiedzy;
+- luki w zakresie rozpoznania stanu;
+- potrzebę uzyskania pierwszego uporządkowanego obrazu stanu;
+- potrzebę uzupełnienia, rozszerzenia, aktualizacji lub weryfikacji wiedzy;
+- potrzebę oceny wymagań lub zagadnień wymagających pogłębionego rozpoznania;
+- charakter i złożoność rozwiązania;
+- znaczenie funkcji i procesów dla użytkowników;
+- informacje o problemach i zmianach rozwiązania.
 
 Profile nie tworzą obowiązkowej sekwencji kolejnych ocen.
 
 Organizacja nie musi rozpoczynać systematycznego oceniania od odrębnej oceny w profilu wstępnym, jeżeli posiada już aktualną, wiarygodną i odpowiednio udokumentowaną wiedzę zapewniającą pierwsze uporządkowane rozpoznanie stanu.
 
-W takim przypadku organizacja ocenia zakres i wiarygodność posiadanych informacji, uzupełnia je w razie potrzeby oraz planuje dalsze oceny odpowiednio do rozpoznanych braków wiedzy.
+W takim przypadku analizuje zakres posiadanej wiedzy i planuje dalsze oceny odpowiednio do rozpoznanych luk i potrzeb jej aktualizacji.
 
 ---
 
@@ -232,53 +229,48 @@ W takim przypadku organizacja ocenia zakres i wiarygodność posiadanych informa
 
 ### 6.1. Funkcja profilu wstępnego
 
-Profil wstępny służy uzyskaniu pierwszego uporządkowanego obrazu stanu dostępności i zgodności rozwiązania cyfrowego, gdy organizacja nie posiada jeszcze wystarczającej i udokumentowanej wiedzy.
+Profil wstępny służy uzyskaniu pierwszego uporządkowanego obrazu stanu dostępności i zgodności rozwiązania, gdy organizacja nie posiada jeszcze wystarczającej i udokumentowanej wiedzy.
 
-Ocena w profilu wstępnym powinna umożliwić:
+Ocena w profilu wstępnym służy w szczególności:
 
-- rozpoznanie najważniejszych i często występujących problemów dostępności;
-- objęcie oceną głównych obszarów funkcjonalnych;
-- uzyskanie podstawowych informacji o kluczowych procesach użytkownika;
-- utworzenie punktu wyjścia do dalszego obserwowania i oceniania;
-- wskazanie obszarów wymagających dalszej oceny.
+- rozpoznaniu podstawowych i często występujących problemów dostępności;
+- objęciu oceną głównych funkcji i procesów użytkownika;
+- uzyskaniu informacji o stanie odpowiednio zróżnicowanej części rozwiązania;
+- uzyskaniu informacji o podstawowych sposobach korzystania z rozwiązania i istotnych środowiskach użytkowania;
+- utworzeniu punktu wyjścia do dalszego obserwowania i oceniania;
+- rozpoznaniu obszarów wymagających dalszej oceny.
 
-Profil wstępny nie określa docelowego zakresu wiedzy o zgodności rozwiązania.
+Profil wstępny nie służy potwierdzeniu pełnej zgodności rozwiązania ani nie określa docelowego zakresu wiedzy o jego stanie.
 
 ### 6.2. Zakres wymagań
 
-Ocena w profilu wstępnym obejmuje zestaw scenariuszy pozwalających rozpoznać podstawowe problemy dotyczące co najmniej:
+Ocena w profilu wstępnym obejmuje zestaw wymagań i scenariuszy pozwalających rozpoznać podstawowe problemy dostępności istotne dla danego rodzaju rozwiązania.
 
-- percepcji i prezentacji informacji;
-- struktury, semantyki i orientacji;
-- nawigacji i obsługi przy użyciu klawiatury;
-- widoczności i kolejności fokusu;
-- formularzy, etykiet, instrukcji i komunikatów;
-- podstawowej współpracy z technologiami wspomagającymi;
-- problemów możliwych do wykrycia przy użyciu narzędzi automatycznych.
+Zakres dobiera się tak, aby dostarczał informacji o najważniejszych aspektach postrzegania, rozumienia i obsługi rozwiązania oraz jego współpracy z odpowiednimi technologiami wspomagającymi.
+
+Uwzględnia się również problemy, które mogą być wiarygodnie wykrywane za pomocą analiz automatycznych.
 
 Scenariusze przeznaczone do pierwszego uporządkowanego rozpoznania stanu mają najniższy profil stosowania „wstępny”.
 
-### 6.3. Zakres funkcjonalny i badana próba
 
-Ocena w profilu wstępnym obejmuje próbę reprezentującą główne części i sposoby korzystania z rozwiązania.
+### 6.3. Pozostałe wymiary zakresu
 
-W zależności od rodzaju rozwiązania powinna obejmować co najmniej:
+Ocena w profilu wstępnym obejmuje zakres pozwalający uzyskać pierwszy uporządkowany obraz głównych sposobów korzystania z rozwiązania.
 
-- stronę główną, ekran główny albo inny główny punkt rozpoczęcia korzystania;
-- główne obszary funkcjonalne;
-- kluczowe procesy użytkownika;
-- procesy realizacji usług lub załatwiania spraw, jeżeli występują;
-- co najmniej pięć dodatkowych stron, ekranów, funkcji, dokumentów lub innych obiektów.
+Obejmuje odpowiednio:
 
-Dobór próby powinien uwzględniać:
+- główne obszary funkcjonalne, funkcje i kluczowe procesy użytkownika;
+- zróżnicowaną próbę reprezentującą istotne części, komponenty, szablony, dokumenty, rodzaje treści lub inne obiekty rozwiązania;
+- podstawowe sposoby korzystania z rozwiązania istotne z punktu widzenia dostępności;
+- środowiska użytkowania odpowiednie do charakteru rozwiązania.
 
-- znaczenie funkcji i procesów dla użytkowników;
-- różnorodność treści, mechanizmów i szablonów;
-- najczęstsze sposoby korzystania z rozwiązania;
-- dostępne informacje o problemach;
-- ryzyko występowania barier.
+Dobór zakresu uwzględnia znaczenie funkcji i procesów, zróżnicowanie rozwiązania, dostępne informacje o problemach oraz sposób jego rzeczywistego wykorzystywania.
 
-Ocena w profilu wstępnym powinna zapewnić uporządkowany obraz stanu, a nie jedynie wykonanie określonej liczby testów.
+O wystarczającym zakresie oceny wstępnej nie przesądza określona liczba testów ani obiektów.
+
+Dobór próby zapewnia odpowiednie zróżnicowanie ocenianych obiektów i umożliwia rozpoznanie głównych funkcji, procesów, typów treści, komponentów i innych istotnych części rozwiązania.
+
+Ocena dostarcza wiedzy pozwalającej rozpoznać podstawowy stan rozwiązania i zaplanować dalsze ocenianie.
 
 ---
 
@@ -286,80 +278,80 @@ Ocena w profilu wstępnym powinna zapewnić uporządkowany obraz stanu, a nie je
 
 ### 7.1. Funkcja profilu rozszerzonego
 
-Profil rozszerzony służy planowemu zwiększaniu zakresu aktualnej i udokumentowanej wiedzy o stanie dostępności i zgodności.
+Profil rozszerzony służy planowemu uzupełnianiu, rozszerzaniu i aktualizowaniu wiedzy o stanie dostępności i zgodności.
 
-Ocena w profilu rozszerzonym wykorzystuje wyniki wcześniejszych obserwacji i ocen. Nie polega na każdorazowym tworzeniu od początku nowego obrazu stanu.
+Ocena w profilu rozszerzonym wykorzystuje posiadaną wiedzę o stanie i zakresie jego rozpoznania. Nie polega na każdorazowym tworzeniu od początku nowego obrazu stanu.
 
-Może służyć:
+Może służyć w szczególności:
 
 - objęciu oceną kolejnych obowiązkowych wymagań dostępności;
-- rozszerzeniu oceny na kolejne obszary funkcjonalne;
-- ocenie kolejnych procesów użytkownika;
-- zwiększeniu liczby i zróżnicowania ocenianych obiektów;
+- rozszerzeniu zakresu funkcjonalnego;
+- rozszerzeniu zakresu strukturalnego i zwiększeniu reprezentatywności próby;
+- rozszerzeniu zakresu rozpoznania o funkcje, procesy i części rozwiązania istotne z punktu widzenia jego rzeczywistego użytkowania;
+- uwzględnieniu kolejnych istotnych środowisk użytkowania;
 - uzupełnieniu wiedzy w obszarach rozpoznanych częściowo;
-- aktualizacji lub weryfikacji wcześniejszych ustaleń;
-- zwiększeniu reprezentatywności dotychczasowej próby.
+- aktualizacji lub weryfikacji wcześniejszych ustaleń.
 
-Ocena w profilu rozszerzonym powinna prowadzić do możliwego do wykazania zwiększenia zakresu rozpoznania stanu.
+Ocena w profilu rozszerzonym powinna odpowiadać na rozpoznaną potrzebę informacyjną i prowadzić do uzupełnienia, rozszerzenia albo aktualizacji wiedzy potrzebnej organizacji.
 
 ### 7.2. Planowanie zakresu
 
-Przed określeniem zakresu oceny w profilu rozszerzonym organizacja ustala:
+Przed określeniem zakresu oceny w profilu rozszerzonym organizacja analizuje posiadaną wiedzę w pięciu wymiarach zakresu rozpoznania.
 
-- jakie wymagania zostały dotychczas ocenione;
-- jakie części rozwiązania objęto ocenami;
-- jakie procesy użytkownika zostały rozpoznane;
-- jakie obiekty tworzyły dotychczasową próbę;
+Ustala w szczególności:
+
+- jakie wymagania zostały ocenione i w jakim zakresie;
+- jakie funkcje i procesy użytkownika zostały rozpoznane;
+- jakie części i obiekty rozwiązania zostały objęte ocenami;
+- w jakim stopniu oceny objęły funkcje, procesy i części rozwiązania istotne z punktu widzenia jego rzeczywistego użytkowania;
+- jakie środowiska użytkowania objęto ocenami;
 - które informacje pozostają aktualne i wiarygodne;
 - które informacje wymagają aktualizacji lub weryfikacji;
-- jakie są najważniejsze luki w wiedzy.
+- gdzie występują istotne luki w wiedzy.
 
-Na tej podstawie organizacja wybiera wymagania, obszary funkcjonalne, procesy i obiekty, których ocena dostarczy najbardziej potrzebnej nowej wiedzy.
+Na tej podstawie ustala cel i zakres oceny tak, aby dostarczała informacji potrzebnych do uzupełnienia, rozszerzenia albo aktualizacji wiedzy.
 
 ### 7.3. Rozszerzanie zakresu wymagań
 
-Ocena w profilu rozszerzonym obejmuje kolejne mające zastosowanie wymagania dostępności, które nie zostały dotychczas ocenione albo zostały ocenione w niewystarczającym zakresie.
+Ocena w profilu rozszerzonym może obejmować kolejne mające zastosowanie wymagania dostępności, które nie zostały dotychczas ocenione albo zostały ocenione w niewystarczającym zakresie.
 
-Scenariusze testów dobiera się odpowiednio do:
+Scenariusze testów i inne metody dobiera się odpowiednio do:
 
-- zidentyfikowanych luk w wiedzy;
+- rozpoznanych luk w wiedzy;
 - rodzaju i funkcji rozwiązania;
 - stwierdzonych problemów;
 - zmian mogących wpływać na aktualność wcześniejszych ustaleń;
 - znaczenia poszczególnych funkcji i procesów;
-- ryzyka występowania problemów dostępności.
+- zakresu, w jakim dane wymaganie zostało już rozpoznane.
 
-Nie należy określać wartości oceny wyłącznie liczbą dodatkowych scenariuszy. Podstawowym kryterium jest rzeczywiste zwiększenie zakresu rozpoznania stanu.
+Wartości oceny nie określa liczba dodatkowych scenariuszy. Istotne jest, jakiej nowej lub zaktualizowanej wiedzy dostarcza ocena.
 
-### 7.4. Rozszerzanie zakresu funkcjonalnego i badanej próby
+### 7.4. Rozszerzanie pozostałych wymiarów zakresu
 
-Ocena w profilu rozszerzonym obejmuje obszary, procesy lub obiekty, które:
+Ocena w profilu rozszerzonym może rozszerzać zakres funkcjonalny, strukturalny, użytkowy lub zakres środowisk użytkowania, obejmując w szczególności funkcje, procesy, obiekty i środowiska, które:
 
 - nie były wcześniej oceniane;
-- zostały ocenione tylko częściowo;
-- nie były reprezentowane w dotychczasowej próbie;
-- wykorzystują inne mechanizmy, technologie, szablony lub rodzaje treści;
-- mają szczególne znaczenie dla użytkowników;
-- wiążą się z podwyższonym ryzykiem niedostępności;
+- zostały rozpoznane tylko częściowo;
+- nie były odpowiednio reprezentowane w dotychczasowych ocenach;
+- różnią się od wcześniej ocenionych sposobem działania, strukturą lub technologią;
+- mają szczególne znaczenie z punktu widzenia rzeczywistego użytkowania rozwiązania;
 - wymagają aktualizacji lub weryfikacji wcześniejszej wiedzy.
 
-Do czasu uzyskania odpowiedniego zakresu rozpoznania rozwiązania każda kolejna planowa ocena w profilu rozszerzonym powinna zwiększać badaną próbę co najmniej o trzy dodatkowe strony, ekrany, funkcje, dokumenty lub inne obiekty.
+Zakres kolejnej oceny ustala się na podstawie potrzeb dalszego rozpoznania stanu. Nie jest wymagane mechaniczne zwiększanie liczby ocenianych obiektów, jeżeli nie prowadziłoby to do uzyskania potrzebnej wiedzy.
 
-Dobór dodatkowych obiektów powinien zwiększać zakres rozpoznania stanu albo reprezentatywność badanej próby. Uwzględnia się przy tym dotychczasową wiedzę o rozwiązaniu oraz wyniki analizy zakresu rozpoznania.
+### 7.5. Rozpoznanie obowiązkowych wymagań
 
-
-### 7.5. Dochodzenie do rozpoznania wszystkich obowiązkowych wymagań
-
-Kolejne oceny w profilu rozszerzonym organizacja planuje w sposób umożliwiający docelowo uzyskanie aktualnej i wiarygodnej wiedzy o:
+Kolejne oceny organizacja planuje w sposób umożliwiający uzyskanie wiedzy wystarczającej do podejmowania decyzji dotyczących dostępności rozwiązania, w tym odpowiednio wiedzy o:
 
 - zgodności ze wszystkimi mającymi zastosowanie obowiązkowymi wymaganiami;
-- stanie głównych i istotnych obszarów funkcjonalnych;
-- dostępności kluczowych procesów użytkownika;
-- stanie reprezentatywnej próby stron, ekranów, dokumentów, komponentów i innych obiektów.
+- stanie głównych i istotnych funkcji i procesów użytkownika;
+- stanie odpowiednio zróżnicowanych i reprezentatywnych części rozwiązania;
+- stanie funkcji, procesów i części rozwiązania istotnych z punktu widzenia jego rzeczywistego użytkowania;
+- działaniu rozwiązania w istotnych środowiskach użytkowania.
 
-Organizacja może uzyskać taką wiedzę w wyniku jednej szerokiej oceny, w tym audytu, albo przez planowe rozszerzanie zakresu kolejnych ocen.
+Wiedza ta może powstać w wyniku jednej szerokiej oceny albo być budowana i aktualizowana w wyniku wielu ocen oraz informacji pochodzących z innych źródeł.
 
-Uzyskanie wiedzy o zgodności ze wszystkimi obowiązkowymi wymaganiami nie kończy obserwowania i oceniania stanu. Wiedza wymaga utrzymywania aktualności odpowiednio do zachodzących zmian i pojawiających się informacji.
+Uzyskanie szerokiego rozpoznania stanu nie kończy obserwowania i oceniania. Wiedza wymaga aktualizowania odpowiednio do zmian rozwiązania i nowych informacji.
 
 ---
 
@@ -367,17 +359,18 @@ Uzyskanie wiedzy o zgodności ze wszystkimi obowiązkowymi wymaganiami nie końc
 
 ### 8.1. Funkcja profilu pogłębionego
 
-Profil pogłębiony służy ocenie:
+Profil pogłębiony służy rozpoznawaniu wymagań i zagadnień wymagających specjalistycznej wiedzy, dodatkowych metod albo większej szczegółowości oceny.
+
+Może dotyczyć w szczególności:
 
 - wymagań wykraczających poza obowiązkowy poziom zgodności;
+- złożonych funkcji, komponentów, interakcji i procesów użytkownika;
 - zagadnień wymagających specjalistycznej wiedzy;
-- złożonych komponentów, interakcji i procesów użytkownika;
-- obszarów wymagających zastosowania bardziej złożonych metod;
-- zagadnień wymagających szczegółowej analizy technicznej albo badania z użytkownikami.
+- zagadnień wymagających zastosowania bardziej złożonych metod;
+- obszarów wymagających szczegółowej analizy technicznej;
+- zagadnień wymagających badań z użytkownikami.
 
-Profil pogłębiony nie jest równoznaczny z pełnym audytem całego rozwiązania.
-
-Może dotyczyć wybranego wymagania, funkcji, komponentu, procesu użytkownika, rodzaju treści albo obszaru funkcjonalnego.
+Profil pogłębiony nie jest równoznaczny z pełnym audytem całego rozwiązania. Może dotyczyć wybranego wymagania, funkcji, komponentu, procesu, sposobu korzystania, środowiska użytkowania albo innego ściśle określonego zagadnienia.
 
 ### 8.2. Zakres wymagań
 
@@ -386,11 +379,11 @@ Ocena w profilu pogłębionym może obejmować w szczególności:
 - kryteria sukcesu WCAG na poziomie AAA;
 - wymagania dodatkowe przyjęte przez organizację;
 - wymagania wynikające ze specyfiki rozwiązania;
-- wymagania wynikające ze szczególnych potrzeb użytkowników;
+- wymagania związane ze szczególnymi potrzebami użytkowników;
 - wymagania dotyczące narzędzi autorskich;
-- zagadnienia wymagające pogłębionej interpretacji lub analizy.
+- wymagania lub zagadnienia wymagające pogłębionej interpretacji albo analizy.
 
-### 8.3. Zagadnienia wymagające pogłębionej oceny
+### 8.3. Zakres pogłębionego rozpoznania
 
 Profil pogłębiony może być wykorzystywany między innymi do oceny:
 
@@ -400,30 +393,31 @@ Profil pogłębiony może być wykorzystywany między innymi do oceny:
 - współpracy z różnymi technologiami wspomagającymi;
 - nietypowych sposobów prezentowania lub wprowadzania informacji;
 - multimediów, wizualizacji i złożonych dokumentów;
-- obszarów o wysokim ryzyku dla użytkowników;
-- problemów wymagających badań z użytkownikami.
+- sposobów korzystania wymagających szczególnego rozpoznania;
+- działania rozwiązania w specyficznych środowiskach użytkowania;
+- zagadnień wymagających badań z użytkownikami.
 
 Zakres oceny ustala się odpowiednio do zagadnienia wymagającego pogłębionego rozpoznania.
 
 ### 8.4. Stosowanie profilu pogłębionego
 
-Profil pogłębiony może być stosowany niezależnie od stopnia objęcia rozwiązania ocenami w profilu rozszerzonym.
+Profil pogłębiony może być stosowany niezależnie od stopnia rozpoznania rozwiązania w pozostałych profilach.
 
-Organizacja nie musi najpierw zakończyć oceny wszystkich obowiązkowych wymagań, jeżeli wcześniej powstaje potrzeba pogłębionej oceny określonego komponentu, procesu albo zagadnienia.
+Organizacja nie musi najpierw zakończyć oceniania wszystkich obowiązkowych wymagań, jeżeli wcześniej powstaje potrzeba pogłębionego rozpoznania określonego wymagania, funkcji, procesu, komponentu lub innego zagadnienia.
 
-Oceny w profilu pogłębionym mogą być prowadzone równolegle z planowym rozszerzaniem wiedzy o zgodności z obowiązkowymi wymaganiami.
+Oceny w profilu pogłębionym mogą być prowadzone równolegle z ocenami służącymi rozszerzaniu wiedzy o zgodności z obowiązkowymi wymaganiami.
 
 ---
 
 ## 9. Najniższy profil stosowania scenariusza testu
 
-Każdy scenariusz testu ma przypisany jeden najniższy profil stosowania:
+Każdy scenariusz testu w Bibliotece testów dostępności ma przypisany jeden najniższy profil stosowania:
 
 - wstępny;
 - rozszerzony;
 - pogłębiony.
 
-Najniższy profil stosowania określa najwcześniejszy etap planowego rozszerzania zakresu oceny, na którym scenariusz powinien być uwzględniany.
+Najniższy profil stosowania określa najwcześniejszy profil oceny planowej, w którym scenariusz jest standardowo uwzględniany przy ustalaniu zakresu oceny.
 
 Przy przypisywaniu scenariusza do profilu uwzględnia się w szczególności:
 
@@ -440,10 +434,10 @@ Najniższy profil stosowania nie określa:
 
 - znaczenia wymagania dla użytkowników;
 - możliwego wpływu problemu;
-- priorytetu usunięcia problemu;
+- priorytetu rozwiązania problemu;
 - maksymalnego zakresu zastosowania scenariusza.
 
-Scenariusz o najniższym profilu stosowania „wstępny” może ujawnić problem stanowiący poważną barierę. Scenariusz o najniższym profilu „pogłębiony” może natomiast dotyczyć zagadnienia występującego tylko w określonym, wąskim zakresie.
+Scenariusz o najniższym profilu stosowania „wstępny” może ujawnić problem stanowiący poważną barierę. Scenariusz o najniższym profilu „pogłębiony” może natomiast dotyczyć zagadnienia występującego tylko w określonym zakresie.
 
 ---
 
@@ -453,13 +447,13 @@ Profil oceny planowej i najniższy profil stosowania scenariusza testu są poję
 
 **Profil oceny** określa funkcję i zasady planowania zakresu całej oceny planowej.
 
-**Najniższy profil stosowania scenariusza** określa miejsce danego scenariusza w systemie planowego rozszerzania zakresu ocen.
+**Najniższy profil stosowania scenariusza** określa najwcześniejszy profil oceny planowej, w którym dany scenariusz jest standardowo uwzględniany.
 
 W ocenie w profilu wstępnym stosuje się przede wszystkim scenariusze o najniższym profilu stosowania „wstępny”.
 
 W ocenie w profilu rozszerzonym można stosować:
 
-- scenariusze o najniższym profilu „wstępny”, jeżeli potrzebna jest ponowna ocena, aktualizacja wiedzy albo objęcie nimi nowych obiektów;
+- scenariusze o najniższym profilu „wstępny”, jeżeli potrzebna jest ponowna ocena, aktualizacja wiedzy albo zastosowanie ich do innych obiektów;
 - scenariusze o najniższym profilu „rozszerzony”;
 - scenariusze o najniższym profilu „pogłębiony”, jeżeli są potrzebne do osiągnięcia celu oceny.
 
@@ -473,13 +467,12 @@ Profil całej oceny wynika z jej celu i funkcji, a nie z najwyższego profilu za
 
 Oceny doraźne nie są prowadzone w profilu wstępnym, rozszerzonym ani pogłębionym.
 
-Scenariusze testów dobiera się do nich odpowiednio do:
+Scenariusze testów i inne metody dobiera się odpowiednio do:
 
 - zdarzenia albo potrzeby uruchamiającej ocenę;
 - pytania, na które ocena ma odpowiedzieć;
-- obiektów, funkcji i procesów, których może dotyczyć problem lub zmiana;
-- wymagań związanych z przedmiotem oceny;
-- poziomu szczegółowości i wiarygodności potrzebnego do podjęcia decyzji.
+- zakresu, którego może dotyczyć problem lub zmiana, rozpatrywanego odpowiednio w wymiarze wymagań, funkcjonalnym, strukturalnym, użytkowym i środowisk użytkowania;
+- zakresu i wiarygodności informacji potrzebnych do podjęcia decyzji.
 
 Ocena doraźna może wykorzystywać:
 
@@ -490,30 +483,45 @@ Ocena doraźna może wykorzystywać:
 
 Zastosowanie scenariusza o najniższym profilu stosowania „pogłębiony” podczas oceny doraźnej nie oznacza przeprowadzenia oceny w profilu pogłębionym.
 
-Przykładowo:
-
-- zgłoszenie problemu z obsługą przycisku za pomocą klawiatury może wymagać wykonania jednego testu o najniższym profilu „wstępny”;
-- zmiana formularza może wymagać zastosowania scenariuszy o najniższym profilu „wstępny” i „rozszerzony”;
-- zmiana złożonego komponentu może wymagać zastosowania scenariuszy o najniższym profilu „pogłębiony”.
-
 ---
 
-## 12. Wykorzystywanie wcześniejszej wiedzy
+## 12. Wykorzystywanie posiadanej wiedzy
 
-Przy określaniu profilu i zakresu oceny planowej organizacja wykorzystuje aktualną i wiarygodną wiedzę uzyskaną podczas wcześniejszych obserwacji i ocen.
+Przy określaniu profilu i zakresu oceny planowej organizacja wykorzystuje aktualną i wiarygodną wiedzę o stanie rozwiązania oraz zakresie jego rozpoznania, niezależnie od źródła tej wiedzy.
 
-Kolejna ocena nie powinna bez potrzeby powtarzać wcześniej przeprowadzonych badań. Jej zakres ustala się z uwzględnieniem tego, co już wiadomo o stanie rozwiązania, jakie informacje wymagają aktualizacji lub weryfikacji oraz jakie wymagania i części rozwiązania nie zostały jeszcze ocenione w wystarczającym zakresie.
+Kolejna ocena nie powinna bez potrzeby powtarzać wcześniej wykonanych badań. Jej zakres ustala się z uwzględnieniem:
 
-Szczegółowe zasady identyfikowania luk w wiedzy i ustalania potrzeb dalszej oceny określa załącznik „Analiza zakresu rozpoznania stanu dostępności i zgodności”.
+- tego, co już wiadomo o stanie rozwiązania;
+- podstaw i zakresu posiadanej wiedzy;
+- informacji wymagających aktualizacji lub weryfikacji;
+- rozpoznanych luk w wiedzy;
+- zmian mogących wpływać na aktualność wcześniejszych ustaleń.
+
+Informacje uzyskane podczas wcześniejszych ocen, odbiorów, rozwiązywania problemów, weryfikacji działań, od użytkowników, wykonawców i dostawców oraz z innych wiarygodnych źródeł mogą stanowić podstawę planowania kolejnej oceny.
+
+Szczegółowe zasady identyfikowania luk w wiedzy i ustalania potrzeb dalszego oceniania określa załącznik **Analiza zakresu rozpoznania stanu dostępności i zgodności**.
+
+---
 
 ## 13. Dokumentowanie zakresu oceny
 
-Zakres przeprowadzonej oceny dokumentuje się w sposób umożliwiający ustalenie, jakie wymagania, części rozwiązania i obiekty zostały objęte oceną.
+Zakres przeprowadzonej oceny dokumentuje się w sposób umożliwiający prawidłową interpretację uzyskanych wyników i wniosków oraz ustalenie, czego dotyczą.
+
+Dokumentacja określa odpowiednio:
+
+- cel oceny;
+- zakres wymagań;
+- zakres funkcjonalny;
+- zakres strukturalny;
+- zakres użytkowy;
+- zakres środowisk użytkowania;
+- zastosowane metody;
+- czas przeprowadzenia oceny.
 
 W przypadku oceny planowej dokumentuje się również zastosowany profil.
 
-Profil jest właściwością oceny planowej, a najniższy profil stosowania — właściwością scenariusza testu. Nie są one właściwościami obserwacji ani wyniku oceny zgodności.
+Profil jest właściwością oceny planowej, a najniższy profil stosowania — właściwością scenariusza testu. Nie są one właściwościami pojedynczej obserwacji ani wyniku oceny zgodności.
 
-Szczegółowe zasady dokumentowania ocen i ich zakresu określa załącznik „Zasady prowadzenia rejestru stanu dostępności i zgodności”.
+Informacje o zakresie oceny stanowią podstawę do ustalenia, w jakim zakresie jej wyniki mogą aktualizować wiedzę o stanie rozwiązania oraz zakres jego rozpoznania.
 
----
+Szczegółowe zasady utrzymywania i aktualizowania wiedzy określa załącznik **Dokumentowanie wiedzy o stanie dostępności i zgodności**.

@@ -5,18 +5,18 @@ description: Zasady przekształcania informacji uzyskanych podczas obserwowania 
 sidebar_label: Przetwarzanie wyników
 sidebar_position: 3
 keywords: [dostępność cyfrowa, obserwacja, wynik testu, ocena zgodności, ocena wpływu, materiały dowodowe, wiedza o stanie]
-tags: [dostępność cyfrowa, obserwacja, ocena dostępności, ocena zgodności, ocena wpływu, materiały dowodowe]
+tags: [dostępność cyfrowa, obserwacja, ocena dostępności, ocena zgodności, ocena wpływu, materiały dowodowe, wiedza o stanie]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 lipca 2026 r.
-ostatnia_aktualizacja: 29 lipca 2026 r.
+ostatnia_aktualizacja: 30 września 2026 r.
 wersja_robocza: true
 ---
 
-## 1.Cel dokumentu
+## 1. Cel dokumentu
 
-Dokument określa zasady przekształcania informacji uzyskanych podczas obserwowania i oceniania w udokumentowaną wiedzę o stanie dostępności i zgodności rozwiązania cyfrowego.
+Dokument określa zasady przetwarzania informacji uzyskanych podczas obserwowania i oceniania w udokumentowaną wiedzę o stanie dostępności i zgodności rozwiązania cyfrowego.
 
-Wyjaśnia różnicę między czynnością służącą uzyskaniu informacji, jej wynikiem, obserwacją i oceną oraz określa zasady odnoszenia nowych informacji do dotychczasowej wiedzy.
+Wyjaśnia różnicę między czynnością służącą uzyskaniu informacji, jej wynikiem, obserwacją i oceną oraz określa zasady odnoszenia nowych informacji do posiadanej wiedzy.
 
 ---
 
@@ -24,29 +24,33 @@ Wyjaśnia różnicę między czynnością służącą uzyskaniu informacji, jej 
 
 Informacje o stanie dostępności i zgodności rozwiązania cyfrowego mogą pochodzić z różnych źródeł i być uzyskiwane za pomocą różnych metod.
 
-Samo wykonanie testu, uzyskanie wyniku narzędzia automatycznego, otrzymanie zgłoszenia użytkownika albo przeprowadzenie audytu nie prowadzi automatycznie do powstania uporządkowanej wiedzy o stanie rozwiązania.
+Samo wykonanie testu, uzyskanie wyniku narzędzia automatycznego, otrzymanie zgłoszenia użytkownika, przeprowadzenie badania albo otrzymanie raportu nie oznacza jeszcze uzyskania wiedzy pozwalającej ocenić stan rozwiązania.
 
-Uzyskane informacje wymagają przetworzenia polegającego na:
+Informacje przetwarza się odpowiednio przez:
 
-1. ustaleniu, czego dotyczy informacja i jaki stan został stwierdzony;
-2. wyodrębnieniu obserwacji;
-3. powiązaniu obserwacji z materiałami dowodowymi;
-4. dokonaniu odpowiednich ocen;
-5. odniesieniu nowych informacji do dotychczasowej wiedzy;
-6. ustaleniu wynikającej z nich zmiany wiedzy o stanie.
+1. ustalenie, czego dotyczą i jaki stan wskazują;
+2. wyodrębnienie istotnych obserwacji;
+3. ustalenie podstawy dokonanych ustaleń;
+4. dokonanie odpowiednich ocen;
+5. odniesienie nowych informacji do posiadanej wiedzy;
+6. ustalenie, w jaki sposób wpływają na wiedzę o stanie rozwiązania.
 
-Przetwarzanie wyników powinno zachować możliwość ustalenia związku między źródłem informacji, stwierdzonym stanem, podstawą dokonanego ustalenia, oceną oraz wynikającą z nowych informacji zmianą wiedzy.
+Sposób przetwarzania informacji zapewnia możliwość ustalenia ich źródła, podstawy dokonanych ustaleń, zakresu, którego dotyczą, oraz związku między stwierdzonym stanem a wynikającymi z niego ocenami.
+
+Stopień szczegółowości dokumentowania dostosowuje się do charakteru informacji i sposobu jej wykorzystania. Nie każda informacja wymaga utworzenia odrębnych zapisów dla wszystkich wymienionych elementów.
 
 ---
 
 ## 3. Czynność, wynik, obserwacja i ocena
 
-Podczas przetwarzania informacji należy rozróżniać:
+Podczas przetwarzania informacji rozróżnia się odpowiednio:
 
 - **czynność służącą uzyskaniu informacji**;
 - **wynik czynności**;
 - **obserwację**;
 - **ocenę**.
+
+Rozróżnienie to służy prawidłowej interpretacji informacji. Nie oznacza obowiązku dokumentowania każdego z tych elementów jako odrębnej jednostki danych.
 
 ### 3.1. Czynność służąca uzyskaniu informacji
 
@@ -58,13 +62,14 @@ Czynnością służącą uzyskaniu informacji może być w szczególności:
 - przeprowadzenie badania z użytkownikiem;
 - analiza zgłoszenia lub skargi;
 - analiza dokumentacji;
+- sprawdzenie rezultatu działania naprawczego;
 - zastosowanie innej metody pozwalającej uzyskać informacje o stanie.
 
-Czynność jest sposobem uzyskania informacji. Nie jest obserwacją ani oceną stanu.
+Czynność określa sposób uzyskania informacji. Sama informacja o wykonaniu czynności nie określa jeszcze stanu rozwiązania ani jego zgodności.
 
 ### 3.2. Wynik czynności
 
-Wynik dokumentuje przebieg lub rezultat czynności służącej uzyskaniu informacji.
+Wynik przedstawia rezultat czynności służącej uzyskaniu informacji.
 
 Może nim być w szczególności:
 
@@ -73,24 +78,25 @@ Może nim być w szczególności:
 - wynik badania z użytkownikiem;
 - ustalenie audytu;
 - wynik analizy zgłoszenia;
-- wynik weryfikacji działania naprawczego.
+- wynik analizy dokumentacji;
+- wynik sprawdzenia działania naprawczego.
 
-Jedna czynność może nie dostarczyć informacji wymagającej udokumentowania jako nowa obserwacja, potwierdzić wcześniejsze ustalenia albo dostarczyć podstawy do udokumentowania jednej lub wielu obserwacji.
+Wynik może nie dostarczyć nowej informacji o stanie, potwierdzić wcześniejsze ustalenie albo stanowić podstawę jednej lub wielu obserwacji i ocen.
 
 ### 3.3. Obserwacja
 
-Obserwacja jest udokumentowaną informacją o stwierdzonym stanie cechy określonego obiektu.
+Obserwacja opisuje stwierdzony stan określonej cechy rozwiązania.
 
-Powinna umożliwiać ustalenie:
+W zależności od potrzeb umożliwia ustalenie:
 
-- jakiego obiektu dotyczy;
+- czego dotyczy;
 - jaka cecha została zaobserwowana;
-- jaki stan cechy stwierdzono;
-- kiedy dokonano obserwacji;
+- jaki stan stwierdzono;
+- kiedy dokonano ustalenia;
 - z jakiego źródła pochodzi informacja;
-- na jakiej podstawie dokonano ustalenia.
+- jaka jest podstawa ustalenia.
 
-Obserwacja opisuje stwierdzony stan, a nie sposób przeprowadzenia badania ani jego ogólny wynik.
+Obserwacja opisuje stwierdzony stan, a nie jedynie sposób przeprowadzenia badania lub jego ogólny wynik.
 
 Przykład:
 
@@ -98,7 +104,7 @@ Przykład:
 >
 > **Obserwacja:** pole „Adres poczty elektronicznej” w formularzu rejestracji nie ma programowo określonej etykiety.
 
-Pierwszy zapis opisuje wynik czynności. Drugi wskazuje obiekt, cechę i stwierdzony stan, dlatego może stanowić podstawę dalszych ocen i aktualizowania wiedzy.
+Pierwszy zapis przedstawia wynik wykonanej czynności. Drugi określa, czego dotyczy informacja i jaki stan został stwierdzony, dzięki czemu może stanowić podstawę oceny i aktualizacji wiedzy.
 
 ### 3.4. Ocena
 
@@ -110,38 +116,38 @@ Przykład:
 
 > **Obserwacja:** pole „Adres poczty elektronicznej” nie ma programowo określonej etykiety.
 >
-> **Ocena zgodności:** niespełnione mające zastosowanie wymaganie dostępności.
+> **Ocena zgodności:** niespełnione kryterium sukcesu WCAG 2.2 4.1.2 Nazwa, rola, wartość.
 >
-> **Ocena wpływu:** przeszkoda dla użytkowników czytników ekranu.
+> **Ocena wpływu:** stan utrudnia korzystanie z pola użytkownikom czytników ekranu.
 
-Obserwacja i jej oceny są odrębnymi, powiązanymi informacjami.
+Obserwacja i ocena nie są tym samym. Obserwacja określa stwierdzony stan, natomiast ocena nadaje temu stanowi znaczenie w odniesieniu do określonego kryterium lub sposobu korzystania z rozwiązania.
 
 ---
 
 ## 4. Wyodrębnianie obserwacji
 
-Informacje uzyskane podczas obserwowania i oceniania analizuje się w celu ustalenia:
+Informacje uzyskane podczas obserwowania i oceniania analizuje się w stopniu potrzebnym do ustalenia:
 
-- przedmiotu obserwacji;
-- zaobserwowanej cechy;
-- stwierdzonego stanu;
-- czasu dokonania obserwacji;
-- źródła informacji;
-- podstawy dokonanego ustalenia.
+- czego dotyczą;
+- jaka cecha rozwiązania została zaobserwowana;
+- jaki stan stwierdzono;
+- kiedy dokonano ustalenia;
+- skąd pochodzi informacja;
+- jaka jest podstawa ustalenia.
 
-Obserwacja powinna opisywać stan na tyle precyzyjnie, aby można było ją zrozumieć i wykorzystać niezależnie od opisu czynności, podczas której stan został stwierdzony.
+Obserwację formułuje się na tyle precyzyjnie, aby można było prawidłowo zrozumieć stwierdzony stan i wykorzystać informację niezależnie od ogólnego wyniku czynności, podczas której została uzyskana.
 
-Nie należy sprowadzać obserwacji do ogólnego wyniku testu, nazwy niespełnionego wymagania ani informacji o występowaniu błędu.
+Nie sprowadza się obserwacji wyłącznie do ogólnego wyniku testu, nazwy niespełnionego wymagania ani informacji o występowaniu błędu.
 
-Przedmiot obserwacji powinien być określony odpowiednio do charakteru stwierdzonego stanu. Może nim być pojedynczy element, komponent, dokument, strona, ekran, proces użytkownika, obszar funkcjonalny albo jednoznacznie określona grupa obiektów.
+Przedmiot obserwacji określa się odpowiednio do charakteru stwierdzonego stanu. Może nim być pojedynczy element, komponent, dokument, strona, ekran, proces użytkownika, obszar funkcjonalny albo jednoznacznie określona grupa obiektów.
+
+Nie każda informacja wymaga jednak formalnego wyodrębnienia odrębnej obserwacji. Jest ono potrzebne przede wszystkim wtedy, gdy umożliwia prawidłową ocenę, aktualizowanie wiedzy albo późniejsze wykorzystanie ustalenia.
 
 ---
 
 ## 5. Jedna czynność a wiele obserwacji
 
-Jedna czynność służąca uzyskaniu informacji może prowadzić do udokumentowania wielu obserwacji.
-
-Jeżeli stwierdzone informacje dotyczą różnych obiektów, cech albo stanów, powinny być rozpatrywane odrębnie.
+Jedna czynność służąca uzyskaniu informacji może prowadzić do stwierdzenia wielu odrębnych stanów.
 
 Przykładowo ocena formularza może wykazać:
 
@@ -150,9 +156,9 @@ Przykładowo ocena formularza może wykazać:
 - brak identyfikacji błędu;
 - brak programowego powiązania komunikatu o błędzie z polem.
 
-Każdy z tych stanów może wymagać odrębnej obserwacji, nawet jeżeli został stwierdzony podczas wykonywania jednego scenariusza testu.
+Stany rozpatruje się odrębnie, jeżeli różnią się przedmiotem, cechą, znaczeniem lub mogą wymagać odrębnego aktualizowania wiedzy.
 
-Rozdzielenie obserwacji powinno umożliwiać ich niezależne ocenianie, aktualizowanie oraz wykorzystywanie jako podstawy decyzji i działań.
+Nie jest natomiast konieczne tworzenie odrębnych zapisów, jeżeli nie zwiększa to precyzji wiedzy ani możliwości jej późniejszego wykorzystania.
 
 ---
 
@@ -160,27 +166,23 @@ Rozdzielenie obserwacji powinno umożliwiać ich niezależne ocenianie, aktualiz
 
 Ten sam stan może występować w wielu miejscach rozwiązania.
 
-W zależności od charakteru i przyczyny stwierdzonego stanu można:
+W zależności od jego charakteru, przyczyny i zakresu można:
 
 - udokumentować odrębne obserwacje dotyczące poszczególnych obiektów;
 - udokumentować obserwację dotyczącą jednoznacznie określonej grupy obiektów;
-- udokumentować wspólny stan wynikający z zastosowania tego samego komponentu, szablonu, mechanizmu albo sposobu tworzenia treści.
+- opisać wspólny stan wynikający z zastosowania tego samego komponentu, szablonu, mechanizmu albo sposobu tworzenia treści.
 
-Sposób wyodrębnienia obserwacji powinien umożliwiać ustalenie rzeczywistego zakresu występowania stanu oraz jego późniejsze aktualizowanie.
+Sposób dokumentowania umożliwia ustalenie rzeczywistego lub rozpoznanego zakresu występowania stanu.
 
-Nie należy tworzyć wielu identycznych obserwacji, jeżeli nie zwiększa to wiedzy o stanie ani możliwości jej wykorzystania.
-
-Nie należy również łączyć w jednej obserwacji odrębnych stanów, jeżeli utrudnia to ich ocenianie, aktualizowanie lub powiązanie z decyzjami i działaniami.
+Nie tworzy się wielu identycznych zapisów, jeżeli nie zwiększa to wiedzy o stanie ani możliwości jej wykorzystania. Nie łączy się również informacji w sposób utrudniający ustalenie, gdzie określony stan rzeczywiście występuje.
 
 ---
 
-## 7. Materiały dowodowe
+## 7. Podstawa ustaleń i materiały dowodowe
 
-Każda obserwacja powinna mieć możliwą do wskazania podstawę dowodową.
+Ustalenia dotyczące stanu rozwiązania mają możliwą do wskazania podstawę.
 
-Materiał dowodowy powinien umożliwiać potwierdzenie stwierdzonego stanu albo sposobu dokonania ustalenia.
-
-Materiałem dowodowym może być w szczególności:
+Podstawą może być w szczególności:
 
 - wynik lub zapis wykonania testu;
 - zrzut ekranu;
@@ -192,11 +194,13 @@ Materiałem dowodowym może być w szczególności:
 - dokumentacja techniczna;
 - zgłoszenie lub skarga użytkownika;
 - wynik badania z użytkownikami;
-- korespondencja z wykonawcą.
+- dokumentacja lub informacja przekazana przez wykonawcę albo dostawcę.
 
-Jedna obserwacja może być powiązana z wieloma materiałami dowodowymi, a jeden materiał dowodowy może stanowić podstawę wielu obserwacji.
+Rodzaj i zakres zachowywanych materiałów dowodowych dostosowuje się do charakteru ustalenia, jego znaczenia oraz sposobu wykorzystania wynikającej z niego wiedzy.
 
-Rodzaj i zakres materiałów dowodowych powinien być odpowiedni do charakteru obserwacji oraz sposobu wykorzystania wynikającej z niej wiedzy.
+Nie każda obserwacja wymaga tworzenia odrębnego materiału dowodowego. Organizacja zachowuje jednak możliwość ustalenia podstawy istotnych wniosków dotyczących stanu i zgodności rozwiązania.
+
+Materiały pochodzące z zewnętrznych źródeł wykorzystuje się z uwzględnieniem ich zakresu, aktualności i wiarygodności.
 
 ---
 
@@ -204,105 +208,100 @@ Rodzaj i zakres materiałów dowodowych powinien być odpowiedni do charakteru o
 
 Ocena zgodności określa relację stwierdzonego stanu do mającego zastosowanie wymagania dostępności.
 
-Przed dokonaniem oceny należy ustalić:
+Przed dokonaniem oceny ustala się:
 
 - jakie wymaganie ma zastosowanie;
-- jakiego obiektu albo zakresu dotyczy ocena;
-- czy posiadane informacje i materiały dowodowe są wystarczające do dokonania oceny.
+- jakiego zakresu rozwiązania dotyczy ocena;
+- czy posiadane informacje stanowią wystarczającą podstawę do dokonania oceny.
 
-Wynik oceny zgodności może wskazywać:
+Wynik oceny zgodności może wskazywać odpowiednio:
 
-- spełnione;
-- niespełnione;
-- nie dotyczy;
-- brak wystarczających danych do dokonania oceny.
+- wymaganie spełnione;
+- wymaganie niespełnione;
+- wymaganie nie ma zastosowania;
+- brak wystarczających informacji do dokonania oceny.
 
-Wynik odnosi się do wymagania oraz zakresu, dla którego uzyskano wystarczające informacje.
+Ocena zgodności odnosi się wyłącznie do zakresu, dla którego uzyskano wystarczające informacje.
 
-Nie należy automatycznie uogólniać wyniku poza oceniony zakres.
+Wyniku nie uogólnia się na inne obiekty, funkcje, procesy, sposoby korzystania lub środowiska użytkowania bez podstawy pozwalającej na takie uogólnienie.
 
-Jedna obserwacja może stanowić podstawę oceny zgodności z więcej niż jednym wymaganiem. Jedno wymaganie może być oceniane na podstawie wielu obserwacji.
+Jedna obserwacja może stanowić podstawę oceny zgodności z więcej niż jednym wymaganiem. Ocena jednego wymagania może natomiast opierać się na wielu obserwacjach.
 
 ---
 
 ## 9. Ocena wpływu na użytkowników
 
-Ocena wpływu określa znaczenie stwierdzonego stanu dla możliwości korzystania z rozwiązania.
+Ocena wpływu określa znaczenie stwierdzonego stanu dla możliwości korzystania z rozwiązania przez użytkowników.
 
-Przy ocenie wpływu można uwzględniać w szczególności:
+Przy ocenie można uwzględniać w szczególności:
 
-- strategie korzystania z rozwiązania;
+- sposoby korzystania z rozwiązania;
 - użytkowników, których może dotyczyć stwierdzony stan;
 - znaczenie funkcji lub procesu;
-- częstotliwość występowania problemu;
+- zakres i częstotliwość występowania problemu;
 - możliwość wykonania zadania;
-- możliwość zastosowania sposobu obejścia problemu.
+- konsekwencje niewykonania zadania;
+- możliwość skorzystania z innego dostępnego sposobu wykonania zadania.
 
-Wynik oceny wpływu dokumentuje się według przyjętej w SZDC skali:
-
-- brak istotnego wpływu;
-- kłopot;
-- przeszkoda;
-- bariera.
+Sposób dokumentowania oceny wpływu organizacja dostosowuje do potrzeb jej wykorzystania. Może stosować przyjętą skalę wpływu, jeżeli pomaga ona porównywać problemy i podejmować decyzje.
 
 Ocena wpływu jest odrębna od oceny zgodności.
 
-Niezgodności z tym samym wymaganiem mogą mieć różny wpływ zależnie od miejsca, funkcji i kontekstu ich występowania. Stan zgodny z obowiązkowymi wymaganiami może natomiast ujawniać problem istotny dla użytkowników i wymagający uwagi organizacji.
+Niezgodności z tym samym wymaganiem mogą mieć różny wpływ zależnie od miejsca, funkcji i kontekstu ich występowania. Również stan zgodny z obowiązkowymi wymaganiami może ujawniać problem istotny dla użytkowników, który organizacja uwzględnia w dalszych działaniach.
 
 ---
 
-## 10. Odnoszenie nowych informacji do dotychczasowej wiedzy
+## 10. Odnoszenie nowych informacji do posiadanej wiedzy
 
-Nowe informacje należy odnosić do wiedzy uzyskanej wcześniej.
+Nowe informacje odnosi się do aktualnej, udokumentowanej wiedzy o stanie rozwiązania.
 
-Organizacja ustala, czy nowa informacja:
+Organizacja ustala odpowiednio, czy nowa informacja:
 
 - potwierdza wcześniejsze ustalenie;
 - aktualizuje wiedzę o stanie;
 - uzupełnia brakujące informacje;
-- podważa aktualność wcześniejszego ustalenia;
+- rozszerza zakres rozpoznania stanu;
 - wskazuje zmianę stanu;
+- wskazuje, że wcześniejsze ustalenie mogło utracić aktualność;
+- jest sprzeczna z wcześniejszym ustaleniem;
 - wskazuje potrzebę dodatkowej lub ponownej oceny.
 
-Odnoszenie nowych informacji do wcześniejszej wiedzy zapobiega tworzeniu kolejnych niezależnych zbiorów wyników i umożliwia utrzymywanie rozwijanego obrazu stanu rozwiązania.
+Odnoszenie nowych informacji do posiadanej wiedzy zapobiega tworzeniu kolejnych niezależnych zbiorów wyników i umożliwia utrzymywanie aktualnego obrazu stanu rozwiązania.
+
+Rozbieżności między nowymi i wcześniejszymi informacjami nie rozstrzyga się automatycznie na korzyść informacji nowszej. Uwzględnia się ich zakres, podstawę, aktualność, wiarygodność oraz zmiany rozwiązania, które mogły nastąpić między poszczególnymi ustaleniami.
 
 ---
 
-## 11. Dokumentowanie nowego stanu i zmiany stanu
+## 11. Dokumentowanie zmiany stanu
 
-Nową obserwację dokumentuje się, jeżeli:
+Jeżeli nowe informacje wskazują zmianę wcześniej rozpoznanego stanu, organizacja:
 
-- stwierdzono wcześniej nieudokumentowany stan;
-- nowa informacja dotyczy innego obiektu lub cechy;
-- ponowna ocena wykazała zmianę stanu;
-- zachowanie odrębnego zapisu jest potrzebne do odtworzenia historii zmian.
+1. ustala, czego dotyczy zmiana;
+2. wskazuje podstawę stwierdzenia nowego stanu;
+3. dokonuje potrzebnych ocen;
+4. aktualizuje wiedzę o obecnym stanie;
+5. zachowuje wcześniejsze informacje w zakresie potrzebnym do odtworzenia podstaw i historii istotnych ustaleń.
 
-Jeżeli nowa informacja wskazuje zmianę wcześniej udokumentowanego stanu:
+Sposób dokumentowania zmiany nie wymaga tworzenia odrębnej obserwacji dla każdego kolejnego stanu, jeżeli zastosowany sposób utrzymywania wiedzy pozwala ustalić stan obecny oraz — gdy jest to potrzebne — wcześniejsze istotne ustalenia.
 
-1. dokumentuje się nową obserwację;
-2. wiąże się ją z wcześniejszym ustaleniem;
-3. wskazuje się podstawę stwierdzenia nowego stanu;
-4. dokonuje się potrzebnych ocen;
-5. aktualizuje się wiedzę o obecnym stanie.
-
-Wcześniejszej obserwacji nie nadpisuje się nowym stanem. Pozostaje ona historycznym zapisem ustalenia dokonanego w określonym czasie.
+Nie nadpisuje się informacji w sposób powodujący utratę wiedzy potrzebnej do ustalenia podstaw wcześniejszych ocen, przebiegu istotnej zmiany albo skuteczności podjętych działań.
 
 ---
 
-## 12. Potwierdzanie wcześniejszego stanu
+## 12. Potwierdzanie wcześniejszych ustaleń
 
-Ponowne wykonanie testu albo zastosowanie innej metody może potwierdzić stan udokumentowany wcześniej.
+Ponowne wykonanie testu albo zastosowanie innej metody może potwierdzić wcześniejsze ustalenie.
 
-W takim przypadku należy zachować możliwość ustalenia:
+W takim przypadku zachowuje się odpowiednio możliwość ustalenia:
 
-- co zostało ponownie ocenione;
-- za pomocą jakiej metody;
+- czego dotyczyło ponowne sprawdzenie;
+- za pomocą jakiej metody zostało wykonane;
 - na jakiej podstawie potwierdzono wcześniejsze ustalenie;
 - kiedy dokonano potwierdzenia.
 
-Samo potwierdzenie wcześniejszego stanu nie wymaga tworzenia kolejnej identycznej obserwacji, jeżeli wynik ponownej oceny i jego podstawa mogą zostać jednoznacznie powiązane z wcześniejszym ustaleniem.
+Potwierdzenie wcześniejszego stanu nie wymaga tworzenia kolejnej identycznej obserwacji, jeżeli wynik ponownej oceny i jego podstawa mogą zostać jednoznacznie odniesione do posiadanej wiedzy.
 
-Nową obserwację należy udokumentować, jeżeli jest to potrzebne do zachowania historii zmian albo prawidłowego przedstawienia zakresu przeprowadzonej oceny.
+Potwierdzenie może natomiast wpływać na ocenę aktualności i wiarygodności wcześniejszych informacji.
 
 ---
 
@@ -318,66 +317,71 @@ Informacja może w szczególności:
 - nie pozwalać na jednoznaczne ustalenie stanu;
 - nie dostarczać wystarczającej podstawy do oceny zgodności lub wpływu.
 
-W takim przypadku informację należy zachować odpowiednio do jej znaczenia oraz wskazać potrzebę jej weryfikacji lub przeprowadzenia dalszej oceny.
+Taką informację zachowuje się, jeżeli może mieć znaczenie dla wiedzy o stanie, oraz odpowiednio oznacza potrzebę jej weryfikacji lub przeprowadzenia dalszej oceny.
 
-Brak wystarczających danych nie stanowi podstawy do uznania wymagania za spełnione.
+Brak wystarczających informacji nie stanowi podstawy ani do uznania wymagania za spełnione, ani za niespełnione.
 
-Informacja, której nie można jeszcze przekształcić w jednoznaczną obserwację lub ocenę, nie powinna być odrzucana, jeżeli może mieć znaczenie dla wiedzy o stanie rozwiązania.
+Informacja, której nie można jeszcze przekształcić w jednoznaczną obserwację lub ocenę, może stanowić istotny element wiedzy o zakresie rozpoznania stanu.
 
 ---
 
 ## 14. Aktualizowanie wiedzy o stanie
 
-Po przetworzeniu nowych informacji należy ustalić, w jaki sposób wpływają one na dotychczasową wiedzę o stanie rozwiązania.
+Po przetworzeniu nowych informacji ustala się, w jaki sposób wpływają one na posiadaną wiedzę o stanie rozwiązania i zakresie jego rozpoznania.
 
-W zależności od uzyskanych wyników może być potrzebne:
+W zależności od uzyskanych informacji może być potrzebne:
 
-- udokumentowanie nowej obserwacji;
+- udokumentowanie nowego ustalenia;
 - powiązanie nowej informacji z wcześniejszym ustaleniem;
-- udokumentowanie oceny zgodności lub wpływu;
-- powiązanie obserwacji i ocen z materiałami dowodowymi;
+- dokonanie lub aktualizacja oceny zgodności;
+- dokonanie oceny wpływu;
+- powiązanie ustaleń z ich podstawą i materiałami dowodowymi;
 - potwierdzenie aktualności wcześniejszej wiedzy;
-- wskazanie, że wcześniejsze ustalenie wymaga weryfikacji;
-- wskazanie utraty aktualności wcześniejszego ustalenia;
+- oznaczenie wcześniejszego ustalenia jako wymagającego weryfikacji;
+- stwierdzenie utraty aktualności wcześniejszego ustalenia;
 - zaktualizowanie wiedzy o obecnym stanie;
+- uzupełnienie wiedzy o zakresie rozpoznania;
 - wskazanie potrzeby dalszej oceny.
 
-Przetworzenie wyników kończy się ustaleniem, co na podstawie uzyskanych informacji można obecnie wiarygodnie powiedzieć o stanie dostępności i zgodności rozwiązania.
+Rezultatem przetwarzania jest ustalenie, co na podstawie dostępnych informacji można wiarygodnie powiedzieć o obecnym stanie dostępności i zgodności rozwiązania oraz jakiego zakresu rozwiązania to ustalenie dotyczy.
 
-Szczegółowe zasady organizowania, aktualizowania i utrzymywania wiedzy określa załącznik „Zasady prowadzenia rejestru stanu dostępności i zgodności”.
+Szczegółowe zasady organizowania, dokumentowania i aktualizowania wiedzy określa załącznik **Dokumentowanie wiedzy o stanie dostępności i zgodności**.
 
 ---
 
-## 15. Schemat przetwarzania wyników
+## 15. Schemat przetwarzania informacji
 
-```mermaid
+```mermaid id="2q8b5x"
 flowchart TD
-    A[Źródło informacji lub czynność] --> B[Wynik]
-    B --> C[Ustalenie obiektu, cechy i stwierdzonego stanu]
-    C --> D[Obserwacja]
-    D --> E[Powiązanie z materiałami dowodowymi]
+    A[Źródło informacji lub czynność] --> B[Uzyskana informacja lub wynik]
+    B --> C[Ustalenie, czego informacja dotyczy i jaki stan wskazuje]
 
-    E --> F[Ocena zgodności]
-    E --> G[Ocena wpływu]
+    C --> D{Czy informacja pozwala ustalić stan?}
 
-    F --> H[Odniesienie do wcześniejszej wiedzy]
-    G --> H
+    D -->|Tak| E[Obserwacja lub inne ustalenie stanu]
+    D -->|Nie| F[Informacja wymagająca weryfikacji]
 
-    H --> I{Znaczenie nowej informacji}
+    E --> G[Ustalenie podstawy i zakresu informacji]
+    G --> H[Potrzebne oceny]
 
-    I -->|Potwierdza| J[Potwierdzenie wcześniejszego ustalenia]
-    I -->|Aktualizuje| K[Aktualizacja wiedzy o stanie]
-    I -->|Uzupełnia| L[Uzupełnienie wiedzy]
-    I -->|Wskazuje zmianę| M[Udokumentowanie nowego stanu]
-    I -->|Podważa aktualność| N[Oznaczenie potrzeby weryfikacji]
-    I -->|Niewystarczająca| O[Wskazanie potrzeby dalszej oceny]
+    H --> I[Odniesienie do posiadanej wiedzy]
+    F --> I
 
-    J --> P[Aktualizacja wiedzy o stanie]
-    K --> P
-    L --> P
-    M --> P
-    N --> P
-    O --> P
+    I --> J{Znaczenie nowej informacji}
+
+    J -->|Potwierdza| K[Potwierdzenie wcześniejszego ustalenia]
+    J -->|Aktualizuje| L[Aktualizacja wiedzy]
+    J -->|Uzupełnia| M[Uzupełnienie wiedzy]
+    J -->|Rozszerza| N[Rozszerzenie zakresu rozpoznania]
+    J -->|Wskazuje zmianę| O[Udokumentowanie zmiany stanu]
+    J -->|Podważa aktualność| P[Wskazanie potrzeby weryfikacji]
+    J -->|Niewystarczająca| R[Wskazanie potrzeby dalszej oceny]
+
+    K --> S[Aktualna udokumentowana wiedza o stanie i zakresie jego rozpoznania]
+    L --> S
+    M --> S
+    N --> S
+    O --> S
+    P --> S
+    R --> S
 ```
-
----
