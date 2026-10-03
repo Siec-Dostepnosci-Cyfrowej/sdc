@@ -7,12 +7,11 @@ sidebar_position: 7
 keywords: [deklaracja dostępności, role, odpowiedzialność, przegląd deklaracji, aktualizacja deklaracji]
 tags: [deklaracja dostępności, role, odpowiedzialność, przegląd deklaracji, aktualizacja deklaracji]
 opracowanie: Stefan Wajda
-wspolpraca: Tomasz Szymczak, Damian Żłobicki 
+wspolpraca: Tomasz Szymczak, Damian Żłobicki
 data_zgloszenia: 9 lipca 2026 r.
-ostatnia_aktualizacja: 9 lipca 2026 r.
+ostatnia_aktualizacja: 1 października 2026 r.
 wersja_robocza: true
 ---
-
 
 ## Cel dokumentu
 
@@ -20,7 +19,7 @@ Dokument wspiera organizację w przypisaniu zadań i odpowiedzialności potrzebn
 
 Nie jest konieczne tworzenie odrębnych stanowisk ani powierzanie każdego zadania innej osobie. Jedna osoba lub komórka organizacyjna może wykonywać kilka grup zadań.
 
-Najważniejsze jest zapewnienie, aby proces został przeprowadzony od rozpoczęcia do zakończenia, deklaracja była oparta na aktualnej i udokumentowanej wiedzy, a odpowiedzialność za jej zatwierdzenie i publikację była jednoznacznie przypisana.
+Najważniejsze jest zapewnienie, aby proces został przeprowadzony od rozpoczęcia do zakończenia, deklaracja była oparta na aktualnej, wiarygodnej i wystarczającej wiedzy, a odpowiedzialność za jej zatwierdzenie i publikację była jednoznacznie przypisana.
 
 ## 1. Podstawowe zadania i odpowiedzialności
 
@@ -59,11 +58,11 @@ Organizacja zapewnia udział osoby lub osób posiadających kompetencje potrzebn
 
 Do ich zadań może należeć w szczególności:
 
-- wspieranie ustalenia aktualnego zakresu rozpoznania stanu rozwiązania;
+- ustalanie, czy posiadana wiedza jest aktualna, wiarygodna i wystarczająca do przeprowadzenia przeglądu;
 - ocena możliwości wykorzystania istniejącej wiedzy i dokumentacji otrzymanej wraz z rozwiązaniem;
 - planowanie lub przeprowadzanie potrzebnych ocen;
 - dokumentowanie wyników ocen zgodnie z zasadami obserwowania i oceniania stanu dostępności i zgodności;
-- zapewnienie uwzględnienia wyników ocen w rejestrze stanu dostępności i zgodności;
+- zapewnienie uwzględnienia wyników ocen w aktualnej wiedzy o stanie dostępności i zgodności;
 - wskazywanie informacji i materiałów stanowiących podstawę ustaleń;
 - wspieranie interpretacji wiedzy wykorzystywanej podczas przeglądu deklaracji.
 
@@ -90,7 +89,7 @@ Organizacja wskazuje osobę uprawnioną do zatwierdzenia deklaracji do publikacj
 Przed zatwierdzeniem osoba ta upewnia się, że:
 
 - proces został przeprowadzony zgodnie z przyjętą procedurą;
-- deklaracja została przygotowana na podstawie aktualnej i udokumentowanej wiedzy;
+- deklaracja została przygotowana na podstawie aktualnej, wiarygodnej i wystarczającej wiedzy;
 - uwzględniono ustalony zakres zmian;
 - przeprowadzono wymaganą weryfikację treści;
 - możliwe jest ustalenie podstaw najważniejszych informacji zamieszczonych w deklaracji.
@@ -154,10 +153,10 @@ Wyznaczony pracownik:
 
 Pracownik organizacji albo specjalista zewnętrzny:
 
-- pomaga ustalić, czy organizacja dysponuje wiedzą potrzebną do przeglądu deklaracji;
+- pomaga ustalić, czy organizacja dysponuje aktualną, wiarygodną i wystarczającą wiedzą potrzebną do przeglądu deklaracji;
 - przeprowadza lub wspiera przeprowadzenie potrzebnych ocen;
 - pomaga wykorzystać wyniki wcześniejszych ocen i dokumentację otrzymaną wraz z rozwiązaniem;
-- zapewnia udokumentowanie wyników ocen;
+- zapewnia udokumentowanie wyników ocen i uwzględnienie ich w aktualnej wiedzy o stanie dostępności i zgodności;
 - wspiera prawidłową interpretację wiedzy o stanie dostępności i zgodności.
 
 ### Kierownik organizacji
@@ -165,7 +164,7 @@ Pracownik organizacji albo specjalista zewnętrzny:
 Kierownik:
 
 - zapoznaje się z wynikiem przeglądu;
-- upewnia się, że deklaracja została przygotowana na podstawie aktualnej i udokumentowanej wiedzy;
+- upewnia się, że deklaracja została przygotowana na podstawie aktualnej, wiarygodnej i wystarczającej wiedzy;
 - zatwierdza deklarację do publikacji.
 
 W szczególnie małej organizacji osoba prowadząca proces może wykonywać większość czynności związanych z przeglądem, przygotowaniem i publikacją deklaracji, a specjalistyczne oceny dostępności mogą być wykonywane przez osobę lub podmiot zewnętrzny.
@@ -175,7 +174,8 @@ W szczególnie małej organizacji osoba prowadząca proces może wykonywać wię
 1. Organizacja przypisuje zadania i odpowiedzialności, ale nie musi tworzyć odrębnych stanowisk ani rozbudowanej struktury organizacyjnej.
 2. Ktoś powinien odpowiadać za doprowadzenie procesu od rozpoczęcia do zakończenia.
 3. Wiedza o stanie dostępności i zgodności powinna być zapewniana przez osoby posiadające odpowiednie kompetencje.
-4. Informacje o zmianach rozwiązania powinny trafiać do osób prowadzących proces i zapewniających wiedzę o jego stanie.
-5. Zaktualizowana deklaracja powinna zostać zatwierdzona przez uprawnioną osobę.
-6. Odpowiedzialność za prawidłową i terminową publikację powinna być jednoznacznie przypisana.
-7. Powierzenie specjalistycznych czynności podmiotowi zewnętrznemu nie przenosi na niego odpowiedzialności organizacji za wiarygodność i publikację deklaracji.
+4. Wyniki potrzebnych ocen powinny być udokumentowane i uwzględnione w aktualnej wiedzy o stanie dostępności i zgodności.
+5. Informacje o zmianach rozwiązania powinny trafiać do osób prowadzących proces i zapewniających wiedzę o jego stanie.
+6. Zaktualizowana deklaracja powinna zostać zatwierdzona przez uprawnioną osobę.
+7. Odpowiedzialność za prawidłową i terminową publikację powinna być jednoznacznie przypisana.
+8. Powierzenie specjalistycznych czynności podmiotowi zewnętrznemu nie przenosi na niego odpowiedzialności organizacji za wiarygodność i publikację deklaracji.

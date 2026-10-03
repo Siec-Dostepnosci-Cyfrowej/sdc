@@ -1,15 +1,15 @@
 ---
 id: ocena-zmian-mogacych-miec-wplyw-na-dostepnosc-cyfrowa
 title: Ocena zmian mogących mieć wpływ na dostępność cyfrową
-description: Zasady rozpoznawania zmian stron internetowych i aplikacji mobilnych, oceny ich możliwego wpływu na dostępność cyfrową oraz ustalania potrzeby przeprowadzenia oceny doraźnej i aktualizacji deklaracji dostępności.
+description: Zasady rozpoznawania zmian stron internetowych i aplikacji mobilnych, ustalania ich możliwego wpływu na dostępność cyfrową oraz potrzeby przeprowadzenia oceny doraźnej i aktualizacji deklaracji dostępności.
 sidebar_label: Ocena zmian
 sidebar_position: 5
-keywords: [dostępność cyfrowa, zmiana rozwiązania, ocena wpływu zmiany, ocena doraźna, deklaracja dostępności]
-tags: [dostępność cyfrowa, zmiana rozwiązania, ocena wpływu zmiany, ocena doraźna, deklaracja dostępności]
+keywords: [dostępność cyfrowa, zmiana rozwiązania, wpływ zmiany, ocena doraźna, deklaracja dostępności]
+tags: [dostępność cyfrowa, zmiana rozwiązania, wpływ zmiany, ocena doraźna, deklaracja dostępności]
 opracowanie: Stefan Wajda
-wspolpraca: Tomasz Szymczak, Damian Żłobicki 
+wspolpraca: Tomasz Szymczak, Damian Żłobicki
 data_zgloszenia: 9 lipca 2026 r.
-ostatnia_aktualizacja: 9 lipca 2026 r.
+ostatnia_aktualizacja: 1 października 2026 r.
 wersja_robocza: true
 ---
 
@@ -19,9 +19,9 @@ Dokument wspiera rozpoznawanie zmian stron internetowych i aplikacji mobilnych, 
 
 Pomaga przejść od informacji o zmianie do:
 
-1. oceny jej możliwego wpływu na dostępność cyfrową;
+1. ustalenia jej możliwego wpływu na dostępność cyfrową;
 2. ustalenia potrzeby przeprowadzenia oceny doraźnej;
-3. aktualizacji wiedzy o stanie dostępności i zgodności;
+3. uzyskania lub zaktualizowania potrzebnej wiedzy o stanie dostępności i zgodności;
 4. ustalenia, czy zmiana powoduje potrzebę aktualizacji deklaracji dostępności.
 
 Dokument nie określa metod ani szczegółowego zakresu ocen doraźnych. Oceny te są planowane, przeprowadzane i dokumentowane zgodnie z zasadami obserwowania i oceniania stanu dostępności i zgodności.
@@ -35,15 +35,13 @@ Zmiana może jednak spowodować, że wcześniejsza wiedza o stanie rozwiązania 
 Dlatego organizacja:
 
 1. rozpoznaje zmianę;
-2. ocenia jej możliwy wpływ na dostępność cyfrową;
+2. ustala jej możliwy wpływ na dostępność cyfrową;
 3. ustala, czy potrzebna jest ocena doraźna;
-4. w razie potrzeby przeprowadza ocenę doraźną i aktualizuje wiedzę o stanie dostępności i zgodności;
+4. w razie potrzeby przeprowadza ocenę doraźną i uzupełnia lub aktualizuje wiedzę o stanie dostępności i zgodności;
 5. porównuje aktualną wiedzę z treścią deklaracji;
 6. ustala, czy deklaracja wymaga aktualizacji.
 
-Proces przebiega według następującego ciągu:
-
-**zmiana → ocena możliwego wpływu → w razie potrzeby ocena doraźna → aktualizacja wiedzy w rejestrze → porównanie z deklaracją → ustalenie potrzeby aktualizacji.**
+Proces przebiega według następującego ciągu: **zmiana → ustalenie możliwego wpływu → w razie potrzeby ocena doraźna → uzupełnienie lub aktualizacja wiedzy → porównanie z deklaracją → ustalenie potrzeby aktualizacji.**
 
 ## 2. Rozpoznanie zmiany
 
@@ -68,7 +66,7 @@ Zmiana może dotyczyć w szczególności:
 
 Nie jest konieczne tworzenie odrębnego opisu zmiany, jeżeli informacje potrzebne do jej rozpoznania są dostępne w systemie zarządzania zmianami, systemie zgłoszeń, dokumentacji technicznej, rejestrze lub innym narzędziu organizacji.
 
-## 3. Ocena możliwego wpływu zmiany
+## 3. Ustalenie możliwego wpływu zmiany
 
 Po rozpoznaniu zmiany osoba odpowiedzialna ustala, czy może ona mieć wpływ na dostępność cyfrową.
 
@@ -83,11 +81,11 @@ Uwzględnia w szczególności:
 - czy zmiana może wpływać na aktualność wcześniejszych obserwacji i wyników ocen;
 - czy organizacja posiada aktualne i wystarczające informacje pozwalające ustalić skutki zmiany.
 
-Ocena możliwego wpływu służy ustaleniu dalszego postępowania. Nie zastępuje oceny stanu dostępności i zgodności.
+Ustalenie możliwego wpływu służy określeniu dalszego postępowania. Nie zastępuje oceny stanu dostępności i zgodności.
 
 ## 4. Ustalenie potrzeby oceny doraźnej
 
-Na podstawie rozpoznania zmiany i oceny jej możliwego wpływu organizacja ustala, czy potrzebne jest przeprowadzenie oceny doraźnej.
+Na podstawie rozpoznania zmiany i ustalenia jej możliwego wpływu organizacja ustala, czy potrzebne jest przeprowadzenie oceny doraźnej.
 
 ### 4.1. Ocena doraźna jest potrzebna
 
@@ -114,11 +112,11 @@ Może to dotyczyć w szczególności sytuacji, gdy:
 - dostępne wyniki testów, odbioru, kontroli lub innych ocen zapewniają wystarczającą wiedzę o stanie po zmianie;
 - aktualne materiały dowodowe pozwalają potwierdzić, że wcześniejsze ustalenia pozostają aktualne.
 
-Brak potrzeby przeprowadzenia odrębnej oceny doraźnej nie oznacza braku obowiązku uwzględnienia informacji o zmianie i jej skutkach w aktualnej wiedzy o stanie rozwiązania.
+Brak potrzeby przeprowadzenia odrębnej oceny doraźnej nie oznacza pominięcia informacji o zmianie i jej skutkach. Organizacja uwzględnia je w aktualnej wiedzy o stanie rozwiązania w zakresie odpowiednim do ich znaczenia.
 
 ## 5. Ustalenie zakresu potrzebnej oceny doraźnej
 
-Jeżeli ocena doraźna jest potrzebna, organizacja określa informacje, które należy uzyskać, potwierdzić, zaktualizować, uzupełnić albo zweryfikować.
+Jeżeli ocena doraźna jest potrzebna, organizacja określa informacje, które trzeba uzyskać, potwierdzić, zaktualizować, uzupełnić albo zweryfikować.
 
 Wskazuje w szczególności:
 
@@ -132,9 +130,9 @@ Na tej podstawie organizacja zleca lub przeprowadza ocenę doraźną zgodnie z z
 
 Załącznik nie określa scenariuszy testów, metod ani wielkości badanej próby. Są one dobierane odpowiednio do celu i zakresu oceny doraźnej.
 
-## 6. Aktualizacja wiedzy o stanie
+## 6. Uzupełnienie i aktualizacja wiedzy o stanie
 
-Wyniki oceny doraźnej są dokumentowane i wykorzystywane do aktualizacji wiedzy w rejestrze stanu dostępności i zgodności.
+Wyniki oceny doraźnej są dokumentowane i wykorzystywane do uzupełnienia lub aktualizacji wiedzy o stanie dostępności i zgodności.
 
 Nowe informacje mogą:
 
@@ -144,7 +142,7 @@ Nowe informacje mogą:
 - wskazywać utratę aktualności wcześniejszych informacji;
 - wskazywać potrzebę przeprowadzenia dalszych ocen.
 
-Organizacja nie tworzy na potrzeby procesu aktualizacji deklaracji odrębnego zbioru wyników ocen, jeżeli odpowiednie informacje są utrzymywane w rejestrze stanu dostępności i zgodności.
+Informacje są dokumentowane zgodnie z przyjętym w organizacji sposobem dokumentowania wiedzy o stanie dostępności i zgodności. Nie jest wymagane tworzenie na potrzeby aktualizacji deklaracji odrębnego zbioru wyników ocen ani przenoszenie informacji do jednego określonego rejestru.
 
 ## 7. Porównanie aktualnej wiedzy z deklaracją
 
@@ -176,15 +174,15 @@ Organizacja dokumentuje wynik porównania i podstawę ustalenia, czy deklaracja 
 Organizacja dokumentuje informacje potrzebne do ustalenia:
 
 - jakiej zmiany dotyczył proces;
-- jaki możliwy wpływ zmiany na dostępność cyfrową rozpoznano;
+- jaki możliwy wpływ zmiany na dostępność cyfrową ustalono;
 - czy potrzebna była ocena doraźna;
 - jeżeli przeprowadzono ocenę — gdzie udokumentowano jej zakres i wyniki;
-- w jaki sposób wyniki zostały uwzględnione w aktualnej wiedzy o stanie;
+- w jaki sposób uzyskane informacje zostały uwzględnione w wiedzy o stanie dostępności i zgodności;
 - czy zmiana spowodowała potrzebę aktualizacji deklaracji.
 
 Nie jest wymagane tworzenie odrębnego dokumentu dla każdej zmiany.
 
-Informacje mogą być dokumentowane w rejestrze stanu dostępności i zgodności, systemie zarządzania zmianami, systemie zgłoszeń, Karcie przeglądu i aktualizacji deklaracji dostępności albo innym narzędziu organizacji, jeżeli możliwe jest odtworzenie przebiegu procesu i podstaw dokonanych ustaleń.
+Informacje mogą być dokumentowane w systemie zarządzania zmianami, systemie zgłoszeń, dokumentacji rozwiązania, Karcie przeglądu i aktualizacji deklaracji dostępności, rejestrze lub innym narzędziu organizacji, jeżeli możliwe jest odtworzenie przebiegu procesu i podstaw dokonanych ustaleń.
 
 ## 10. Schemat postępowania
 
@@ -196,7 +194,7 @@ Ustal:
 - jaki jest jej zakres;
 - jakie części rozwiązania mogą być objęte jej skutkami.
 
-### Krok 2. Oceń możliwy wpływ
+### Krok 2. Ustal możliwy wpływ
 
 Ustal:
 
@@ -210,9 +208,9 @@ Jeżeli dostępne informacje nie pozwalają wiarygodnie ustalić skutków zmiany
 
 Jeżeli aktualne i wystarczające informacje są już dostępne, wykorzystaj je bez powtarzania oceny.
 
-### Krok 4. Zaktualizuj wiedzę
+### Krok 4. Uzupełnij lub zaktualizuj wiedzę
 
-Udokumentuj nowe ustalenia i uwzględnij je w rejestrze stanu dostępności i zgodności.
+Udokumentuj nowe ustalenia i uwzględnij je w wiedzy o stanie dostępności i zgodności rozwiązania.
 
 ### Krok 5. Porównaj wiedzę z deklaracją
 
