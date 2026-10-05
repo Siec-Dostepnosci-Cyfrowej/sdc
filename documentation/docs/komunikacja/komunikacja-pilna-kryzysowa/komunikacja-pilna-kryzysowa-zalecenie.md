@@ -17,7 +17,7 @@ wersja_robocza: true
 
 ## 1. Cel zalecenia
 
-Celem zalecenia jest ograniczenie ryzyka opóźnienia, niespójności lub niedostępności informacji przekazywanych w sytuacjach wymagających pilnej komunikacji przez wcześniejsze przygotowanie organizacji do ich szybkiego i dostępnego przekazywania.
+Ograniczenie ryzyka opóźnienia, niespójności lub niedostępności informacji przekazywanych w sytuacjach wymagających pilnej komunikacji przez wcześniejsze przygotowanie organizacji do ich szybkiego i dostępnego przekazywania.
 
 Zalecenie dotyczy sytuacji, w których opóźnienie albo trudność w odbiorze lub zrozumieniu informacji może zwiększyć ryzyko szkody albo utrudnić odbiorcy podjęcie właściwego działania.
 
