@@ -40,7 +40,7 @@ Scenariusze są dobierane odpowiednio do potrzeby informacyjnej, celu i zakresu 
 
 Przy doborze scenariuszy uwzględnia się odpowiednio:
 
-- mające zastosowanie wymagania dostępności;
+- zakres wymagań;
 - zakres funkcjonalny;
 - zakres strukturalny;
 - zakres użytkowy;
