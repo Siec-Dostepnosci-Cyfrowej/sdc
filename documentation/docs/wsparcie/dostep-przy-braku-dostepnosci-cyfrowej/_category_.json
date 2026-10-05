@@ -1,0 +1,8 @@
+{
+  "label": "Dostęp przy braku dostępności cyfrowej",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Brak dostępności cyfrowej treści, funkcjonalności lub usługi nie może pozostawiać użytkownika bez możliwości uzyskania potrzebnej informacji lub skorzystania z usługi. Zalecenie porządkuje sposoby zapewniania dostępu w takich sytuacjach, w tym usuwanie niedostępności, stosowanie zgodnych wersji alternatywnych i alternatywnych sposobów dostępu oraz postępowanie w przypadku nieproporcjonalnego obciążenia. Pomaga organizacji działać spolegliwie wobec użytkowników i skutecznie zapewniać im dostęp także wtedy, gdy podstawowa treść, funkcjonalność lub usługa nie jest dostępna cyfrowo."
+  }
+}
