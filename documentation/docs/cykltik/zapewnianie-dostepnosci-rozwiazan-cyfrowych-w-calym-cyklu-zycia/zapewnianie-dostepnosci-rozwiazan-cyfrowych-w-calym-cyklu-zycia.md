@@ -22,8 +22,7 @@ Celem zalecenia jest przeciwdziałanie utracie dostępności cyfrowej rozwiązan
 
 Organizacja uwzględnia dostępność cyfrową w decyzjach dotyczących rozwiązania cyfrowego, również wtedy, gdy decyzje te nie dotyczą bezpośrednio jego dostępności, i przed ich podjęciem rozpoznaje ich możliwy wpływ na dostępność cyfrową.
 
-Organizacja zapewnia ciągłość zarządzania dostępnością cyfrową między kolejnymi etapami cyklu życia rozwiązania cyfrowego. Obejmuje to w szczególności ciągłość wymagań dostępności, wiedzy o stanie dostępności, podjętych decyzji oraz przyjętych zobowiązań, niezależnie od zmian personelu, wykonawców lub wersji rozwiązania.
-
+Organizacja zapewnia ciągłość dostępności cyfrowej oraz wiedzy o jej stanie między kolejnymi momentami decyzyjnymi cyklu życia rozwiązania cyfrowego, niezależnie od zmiany osób, wykonawców i wersji rozwiązania.
 
 
 ## 3. Rekomendacje
