@@ -15,14 +15,14 @@ wersja_robocza: true
 
 Skuteczne zapewnianie dostępności cyfrowej przez jednostki organizacji wielopodmiotowej dzięki zapewnianiu warunków potrzebnych do wykonywania ich obowiązków, organizowaniu wsparcia i współpracy, wykorzystaniu możliwości wspólnego działania oraz odpowiedniemu korzystaniu z kompetencji organizacji
 
-Organizacja wykorzystuje możliwości wynikające ze swojej roli do wspierania jednostek, koordynowania współpracy i wspólnych działań oraz – jeżeli ma odpowiednie kompetencje – do kontroli lub nadzoru.
-
 **2. Zalecenie**
 
 Organizacja wielopodmiotowa i jej jednostki współdziałają w zapewnianiu dostępności cyfrowej, odpowiednio do swoich ról i odpowiedzialności. Organizacja zapewnia warunki i wsparcie potrzebne jednostkom, organizuje współpracę i wspólne działania oraz wykorzystuje swoje kompetencje do skutecznego rozwiązywania problemów dostępności cyfrowej.
 
 **3. Rekomendacje**
 **3.1. Rola organizacji i zakres działania**
+
+Organizacja wykorzystuje możliwości wynikające ze swojej roli do wspierania jednostek, koordynowania współpracy i wspólnych działań oraz – jeżeli ma odpowiednie kompetencje – do kontroli lub nadzoru.
 
 Zalecenie dotyczy organizacji, która wykonuje swoje zadania z udziałem wielu organizacyjnie lub prawnie wyodrębnionych jednostek albo podmiotów i pełni wobec nich określoną rolę.
 
