@@ -19,9 +19,7 @@ Organizacja wykorzystuje możliwości wynikające ze swojej roli do wspierania j
 
 **2. Zalecenie**
 
-Organizacja wykorzystuje swoją rolę wobec wielu jednostek lub podmiotów do organizowania wsparcia, współpracy i wspólnych działań służących zapewnianiu dostępności cyfrowej.
-
-Rodzaj i zakres działania wobec konkretnej jednostki wynikają z charakteru relacji oraz posiadanych kompetencji. Organizacja ocenia skuteczność działań na podstawie ich rezultatów.
+Organizacja wielopodmiotowa i jej jednostki współdziałają w zapewnianiu dostępności cyfrowej, odpowiednio do swoich ról i odpowiedzialności. Organizacja zapewnia warunki i wsparcie potrzebne jednostkom, organizuje współpracę i wspólne działania oraz wykorzystuje swoje kompetencje do skutecznego rozwiązywania problemów dostępności cyfrowej.
 
 **3. Rekomendacje**
 **3.1. Rola organizacji i zakres działania**
