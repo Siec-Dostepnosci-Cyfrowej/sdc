@@ -11,16 +11,16 @@ ostatnia_aktualizacja: 22 września 2026 r.
 wersja_robocza: true
 ---
 
-**1. Cel zalecenia**
+ ## 1. Cel zalecenia 
 
 Skuteczne zapewnianie dostępności cyfrowej przez jednostki organizacji wielopodmiotowej dzięki zapewnianiu warunków potrzebnych do wykonywania ich obowiązków, organizowaniu wsparcia i współpracy, wykorzystaniu możliwości wspólnego działania oraz odpowiedniemu korzystaniu z kompetencji organizacji
 
-**2. Zalecenie**
+ ## 2. Zalecenie 
 
 Organizacja wielopodmiotowa i jej jednostki współdziałają w zapewnianiu dostępności cyfrowej, odpowiednio do swoich ról i odpowiedzialności. Organizacja zapewnia warunki i wsparcie potrzebne jednostkom, organizuje współpracę i wspólne działania oraz wykorzystuje swoje kompetencje do skutecznego rozwiązywania problemów dostępności cyfrowej.
 
-**3. Rekomendacje**
-**3.1. Rola organizacji i zakres działania**
+ ## 3. Rekomendacje 
+ ### 3.1. Rola organizacji i zakres działania 
 
 Organizacja wykorzystuje możliwości wynikające ze swojej roli do wspierania jednostek, koordynowania współpracy i wspólnych działań oraz – jeżeli ma odpowiednie kompetencje – do kontroli lub nadzoru.
 
@@ -38,7 +38,7 @@ Organizacja ustala:
 
 Samo istnienie relacji nie tworzy kompetencji. Finansowanie jednostki, współpraca z nią albo korzystanie z tego samego systemu cyfrowego nie przesądza o prawie do wydawania poleceń, prowadzenia kontroli lub sprawowania nadzoru.
 
-**3.2. Zasady współpracy**
+ ### 3.2. Zasady współpracy 
 
 Organizacja określa zasady współpracy w sposób, który pozwala jednostkom rozpoznać własną odpowiedzialność, dostępne formy wsparcia oraz sytuacje wymagające wspólnego działania.
 
@@ -54,7 +54,7 @@ Organizacja nie tworzy na potrzeby tego zalecenia odrębnych wymagań dotyczący
 
 Ustalenia dotyczą przede wszystkim sprawnego organizowania wsparcia, współpracy i działań obejmujących więcej niż jedną jednostkę.
 
-**3.3. Warunki i wsparcie potrzebne do realizacji zadań**
+ ### 3.3. Warunki i wsparcie potrzebne do realizacji zadań 
 
 Problemy z dostępnością nie zawsze wynikają z niewykonywania obowiązków przez jednostkę. Ich przyczyną może być brak wiedzy, czasu, narzędzi, środków albo dostępu do specjalistycznego wsparcia.
 
@@ -64,7 +64,7 @@ Organizacja może zapewniać między innymi konsultacje, szkolenia, materiały, 
 
 Zakres wsparcia odpowiada rzeczywistym potrzebom i możliwościom jednostki. Wsparcie pomaga jednostce wykonywać jej zadania, ale nie przejmuje jej odpowiedzialności.
 
-**3.4. Wspólne działania**
+ ### 3.4. Wspólne działania 
 
 Organizacja wykorzystuje możliwość wspólnego działania, jeżeli pozwala ono skuteczniej zaspokoić podobne potrzeby kilku jednostek.
 
@@ -74,7 +74,7 @@ Organizacja może również ułatwiać wymianę doświadczeń, łączyć osoby w
 
 Wspólne działanie jest uzasadnione wtedy, gdy pozwala lepiej wykorzystać zasoby, ułatwia realizację zadań albo pomaga rozwiązać problem występujący w kilku jednostkach. Nie oznacza to potrzeby ujednolicania wszystkich sposobów działania.
 
-**3.5. Wykorzystanie istniejących informacji**
+ ### 3.5. Wykorzystanie istniejących informacji 
 
 Organizacja wykorzystuje informacje, które pozwalają rozpoznać istotne problemy, potrzeby jednostek oraz sytuacje wymagające działania obejmującego więcej niż jedną jednostkę.
 
@@ -84,7 +84,7 @@ Informacje powinny być porównywalne w zakresie potrzebnym do podejmowania decy
 
 Jeżeli potrzebne informacje są już dostępne w systemie, dokumentacji zadania lub innym narzędziu, organizacja wykorzystuje je zamiast tworzyć równoległy rejestr lub dodatkowy system raportowania.
 
-**3.6. Rozwiązywanie problemów u źródła**
+ ### 3.6. Rozwiązywanie problemów u źródła 
 
 Organizacja ustala znaczenie problemu dla użytkownika, jego przyczynę oraz podmiot, który może go skutecznie usunąć.
 
@@ -96,7 +96,7 @@ W przypadku wspólnej przyczyny organizacja dąży do jej usunięcia tam, gdzie 
 
 Wspólny system cyfrowy może być źródłem problemu występującego w kilku jednostkach. Sam fakt korzystania z tego samego systemu nie tworzy jednak relacji objętej zaleceniem.
 
-**3.7. Dobór sposobu działania do roli i kompetencji**
+ ### 3.7. Dobór sposobu działania do roli i kompetencji 
 
 Wsparcie, współpraca, koordynacja, kontrola i nadzór są różnymi sposobami działania. Organizacja dobiera je do swojej roli, charakteru problemu oraz posiadanych kompetencji.
 
@@ -108,7 +108,7 @@ Brak możliwości wydania wiążącego polecenia nie oznacza braku możliwości 
 
 Akt wewnętrzny może porządkować sposób działania organizacji w granicach posiadanych kompetencji. Nie tworzy jednak nowych uprawnień wobec innych podmiotów.
 
-**3.8. Ocena rezultatów**
+ ### 3.8. Ocena rezultatów 
 
 Organizacja sprawdza rezultaty podjętych działań.
 
@@ -120,7 +120,7 @@ Liczba przeprowadzonych szkoleń, kontroli, sporządzonych raportów lub wydanyc
 
 Powtarzające się bariery wskazują na potrzebę ponownego przeanalizowania ich przyczyny i sposobu działania.
 
-**4. Podstawy prawne**
+ ## 4. Podstawy prawne 
 
 Zakres działania organizacji wobec poszczególnych jednostek lub podmiotów zależy od ich statusu prawnego, charakteru relacji z organizacją oraz wynikających z niej kompetencji.
 
@@ -132,9 +132,9 @@ Przy stosowaniu zalecenia uwzględnia się przepisy dotyczące dostępności cyf
 
 Zalecenie nie stanowi podstawy prawnej do działania wobec jednostek i nie tworzy nowych kompetencji. Podstawa oraz zakres konkretnego działania wynikają z przepisów lub innych podstaw właściwych dla danej relacji.
 
-**5. Uzasadnienie**
+ ## 5. Uzasadnienie 
 
-Na potrzeby zalecenia określenie **„organizacja wielopodmiotowa”** oznacza umownie organizację lub organ wykonujący zadania z udziałem wielu organizacyjnie lub prawnie wyodrębnionych jednostek albo podmiotów i pełniący wobec nich określoną rolę.
+Na potrzeby zalecenia określenie  „organizacja wielopodmiotowa”  oznacza umownie organizację lub organ wykonujący zadania z udziałem wielu organizacyjnie lub prawnie wyodrębnionych jednostek albo podmiotów i pełniący wobec nich określoną rolę.
 
 Nie jest to odrębna kategoria prawna. Określenie nie oznacza również jednolitej hierarchicznej struktury ani jednakowego rodzaju relacji ze wszystkimi jednostkami.
 
@@ -144,7 +144,7 @@ Organizacja działająca z wieloma jednostkami może łączyć podobne potrzeby,
 
 Takie działanie nie zmienia odpowiedzialności jednostek za realizację ich obowiązków. Pozwala natomiast wykorzystać wspólne zasoby i możliwości organizacji tam, gdzie może to poprawić skuteczność zapewniania dostępności cyfrowej.
 
-**6. Powiązania z innymi dokumentami Sieci**
+ ## 6. Powiązania z innymi dokumentami Sieci 
 
 Zalecenie korzysta z rozwiązań opisanych w innych dokumentach Sieci, w szczególności dotyczących podziału odpowiedzialności, zasobów, badania dostępności, obsługi zgłoszeń, zamówień i odbiorów, rozwoju kompetencji oraz cyklu życia TIK.
 
