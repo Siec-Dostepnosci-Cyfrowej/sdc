@@ -13,7 +13,7 @@ wersja_robocza: true
 
 **1. Cel zalecenia**
 
-Celem zalecenia jest zwiększenie skuteczności zapewniania dostępności cyfrowej w organizacji działającej z wieloma wyodrębnionymi jednostkami lub podmiotami.
+Skuteczne zapewnianie dostępności cyfrowej przez jednostki organizacji wielopodmiotowej dzięki zapewnianiu warunków potrzebnych do wykonywania ich obowiązków, organizowaniu wsparcia i współpracy, wykorzystaniu możliwości wspólnego działania oraz odpowiedniemu korzystaniu z kompetencji organizacji
 
 Organizacja wykorzystuje możliwości wynikające ze swojej roli do wspierania jednostek, koordynowania współpracy i wspólnych działań oraz – jeżeli ma odpowiednie kompetencje – do kontroli lub nadzoru.
 
