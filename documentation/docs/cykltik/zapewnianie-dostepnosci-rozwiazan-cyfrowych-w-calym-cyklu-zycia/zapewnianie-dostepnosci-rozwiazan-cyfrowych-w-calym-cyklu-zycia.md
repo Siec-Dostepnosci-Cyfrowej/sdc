@@ -1,5 +1,5 @@
 ---
-id: zapewnianie-dostepnosci-rozwiazan-cyfrowych-w-calym-cyklu-zycia
+id: dostepnosc-w-cyklu-zycia-rozwiazania-cyfrowego
 title: Zapewnianie dostępności rozwiązań cyfrowych w całym cyklu życia
 description: Zalecenie dotyczące zachowania ciągłości dostępności cyfrowej i wiedzy o jej stanie między momentami decyzyjnymi cyklu życia rozwiązania cyfrowego, od rozpoznania potrzeby do wycofania z użytkowania.
 sidebar_position: 0
