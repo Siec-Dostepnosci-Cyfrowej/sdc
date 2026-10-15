@@ -7,7 +7,7 @@ sidebar_position: 2
 
 opracowanie: Stefan Wajda
 data_zgloszenia: 25 maja 2026 r.
-data_aktualizacji: 3 maja 2026 r.
+ostatnia_aktualizacja: 3 maja 2026 r.
 ---
 
 ## Cel

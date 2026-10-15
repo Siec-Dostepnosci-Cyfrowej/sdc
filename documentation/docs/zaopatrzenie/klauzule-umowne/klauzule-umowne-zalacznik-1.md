@@ -8,7 +8,7 @@ keywords: [zamówienia publiczne, zaopatrzenie, klauzule umowne]
 tags: [zamówienia publiczne, zaopatrzenie, klauzule umowne]
 opracowanie: Tomasz Bartel, Stefan Wajda
 data_zgloszenia: 12 października 2025 r.
-data_aktualizacji:  10 listopada 2025 r.
+ostatnia_aktualizacja: 10 listopada 2025 r.
 wersja_robocza: true
 ---
 

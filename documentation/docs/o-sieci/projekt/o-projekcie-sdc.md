@@ -3,6 +3,7 @@ id: o-projekcie-sdc
 title: O projekcie Sieć dostępności cyfrowej
 sidebar_label: O projekcie SDC
 sidebar_position: 1 
+ostatnia_aktualizacja: 15 października 2026 r.
 ---
 
 # O projekcie Sieć dostępności cyfrowej

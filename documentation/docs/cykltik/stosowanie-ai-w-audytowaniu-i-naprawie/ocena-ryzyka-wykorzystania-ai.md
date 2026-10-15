@@ -7,6 +7,7 @@ sidebar_position: 1
 keywords: [dostępność cyfrowa, sztuczna inteligencja, AI, ocena ryzyka, nadzór, weryfikacja]
 tags: [dostępność cyfrowa, sztuczna inteligencja, ocena ryzyka, nadzór, weryfikacja]
 opracowanie: Maciej Budzisz , Stefan Wajda
+ostatnia_aktualizacja: 15 października 2026 r.
 wersja_robocza: true
 ---
 

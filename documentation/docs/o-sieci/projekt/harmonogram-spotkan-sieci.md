@@ -3,6 +3,7 @@ id: harmonogram-spotkan-sieci
 title: Harmonogram spotkań Sieci
 sidebar_label: Harmonogram spotkań Sieci
 sidebar_position: 2 
+ostatnia_aktualizacja: 15 października 2026 r.
 ---
 
 # Harmonogram spotkań Sieci dostępności cyfrowej

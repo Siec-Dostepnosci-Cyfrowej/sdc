@@ -7,7 +7,7 @@ description: Uproszczony wzór polityki wspierającej małe organizacje w uwzgl�
 keywords: [polityka dostępności,zamówienia publiczne,zaopatrzenie]
 tags: [polityka dostępności,zamówienia publiczne,zaopatrzenie]
 data_zgloszenia: 14 lipca 2025 r.
-ostatnia_aktualizacja: 12 czerwca 2026,
+ostatnia_aktualizacja: 12 czerwca 2026 r.
 opracowanie: [Anna Czekalska, Stefan Wajda]
 wspolpraca: [Jadwiga Kost, Joanna Nietupska]
 wersja_robocza: true

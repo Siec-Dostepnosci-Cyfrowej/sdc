@@ -7,6 +7,7 @@ sidebar_position: 12
 keywords: [kompetencje,komunikacja cyfrowa,publikacja treści,dostępność cyfrowa,role,szkolenia,]
 tags: [kompetencje,komunikacja cyfrowa,publikacja treści,dostępność cyfrowa,role,szkolenia,]
 opracowanie: Stefan Wajda
+ostatnia_aktualizacja: 15 października 2026 r.
 wersja_robocza: true
 ---
 
