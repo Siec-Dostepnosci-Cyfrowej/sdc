@@ -3,123 +3,123 @@ id: przeglad-i-aktualizacja-deklaracji-dostepnosci
 title: Przegląd i aktualizacja deklaracji dostępności cyfrowej
 sidebar_label: Zalecenie
 sidebar_position: 0
-description: Organizacja utrzymuje wiarygodność deklaracji dostępności przez jej przegląd i aktualizację na podstawie aktualnej i udokumentowanej wiedzy o stanie dostępności i zgodności strony internetowej lub aplikacji mobilnej.
-keywords: [cykl życia TIK,dostępność cyfrowa,deklaracja dostępności,przegląd deklaracji,aktualizacja deklaracji]
-tags: [cykl życia TIK,dostępność cyfrowa,deklaracja dostępności,przegląd deklaracji,aktualizacja deklaracji]
+description: Organizacja utrzymuje aktualność i wiarygodność deklaracji dostępności przez jej przegląd i aktualizację na podstawie aktualnej i udokumentowanej wiedzy o stanie dostępności i zgodności strony internetowej lub aplikacji mobilnej.
+keywords: [cykl życia TIK, dostępność cyfrowa, deklaracja dostępności, przegląd deklaracji, aktualizacja deklaracji]
+tags: [cykl życia TIK, dostępność cyfrowa, deklaracja dostępności, przegląd deklaracji, aktualizacja deklaracji]
 opracowanie: Stefan Wajda
 wspolpraca: Tomasz Szymczak, Damian Żłobicki
 data_zgloszenia: 4 listopada 2025 r.
-ostatnia_aktualizacja: 9 lipca 2026 r.
+ostatnia_aktualizacja: 1 października 2026 r.
 wersja_robocza: true
 ---
 
 ## 1. Cel zalecenia
 
-Celem zalecenia jest zapewnienie, aby deklaracja dostępności przez cały okres publikacji pozostawała aktualnym i wiarygodnym źródłem informacji o dostępności cyfrowej strony internetowej lub aplikacji mobilnej.
+Zapewnienie aktualności i wiarygodności informacji o dostępności cyfrowej strony internetowej lub aplikacji mobilnej publikowanych w deklaracji dostępności.
 
 ---
 
 ## 2. Zalecenie
 
-Organizacja utrzymuje wiarygodność deklaracji dostępności przez jej przegląd i aktualizację na podstawie aktualnej i udokumentowanej wiedzy o stanie dostępności i zgodności strony internetowej lub aplikacji mobilnej.
-
-Proces jest uruchamiany przez coroczny termin przeglądu albo zmianę mogącą mieć wpływ na dostępność cyfrową i prowadzi do aktualizacji deklaracji lub, w przypadku zmiany rozwiązania, udokumentowanego ustalenia, że aktualizacja nie jest potrzebna.
+Organizacja utrzymuje aktualność i wiarygodność deklaracji dostępności przez jej przegląd i aktualizację na podstawie aktualnej i udokumentowanej wiedzy o stanie dostępności i zgodności strony internetowej lub aplikacji mobilnej.
 
 ---
 
 ## 3. Rekomendacje
 
-### 3.1. Utrzymywanie wiarygodności deklaracji
+### 3.1. Utrzymywanie aktualności i wiarygodności deklaracji
 
-Organizacja traktuje przegląd i aktualizację deklaracji jako proces utrzymywania jej wiarygodności przez cały okres publikacji.
+Organizacja traktuje przegląd i aktualizację deklaracji jako proces utrzymywania jej aktualności i wiarygodności przez cały okres publikacji.
 
 Proces jest uruchamiany przez:
 
 1. termin corocznego przeglądu;
 2. zmianę strony internetowej lub aplikacji mobilnej mogącą mieć wpływ na dostępność cyfrową.
 
-W obu przypadkach organizacja wykorzystuje aktualną i udokumentowaną wiedzę o stanie dostępności i zgodności rozwiązania, porównuje ją z treścią deklaracji i ustala potrzebne działania.
+W obu przypadkach organizacja wykorzystuje aktualną i udokumentowaną wiedzę o stanie dostępności i zgodności oraz ustala, czy informacje opublikowane w deklaracji wymagają aktualizacji.
 
-Coroczny przegląd zawsze kończy się aktualizacją i opublikowaniem deklaracji. Jeżeli nie stwierdzono potrzeby zmiany innych informacji, aktualizacja obejmuje co najmniej odnotowanie daty przeprowadzenia przeglądu i aktualizacji.
+Coroczny przegląd kończy się aktualizacją i opublikowaniem deklaracji. Jeżeli nie stwierdzono potrzeby zmiany innych informacji, aktualizacja obejmuje co najmniej odnotowanie daty przeprowadzenia przeglądu i aktualizacji.
 
-W przypadku zmiany rozwiązania deklaracja jest aktualizowana, jeżeli aktualna wiedza wskazuje na potrzebę zmiany opublikowanych informacji.
-
----
+W przypadku zmiany rozwiązania deklaracja jest aktualizowana, jeżeli dokonane ustalenia wskazują na potrzebę zmiany opublikowanych informacji.
 
 ### 3.2. Wykorzystanie wiedzy o stanie dostępności i zgodności
 
-Podstawą przeglądu deklaracji jest aktualna i udokumentowana wiedza o stanie dostępności i zgodności rozwiązania, utrzymywana zgodnie z zasadami obserwowania i oceniania tego stanu.
+Podstawą weryfikowania informacji o dostępności cyfrowej zawartych w deklaracji jest aktualna i udokumentowana wiedza o stanie dostępności i zgodności rozwiązania.
 
-Organizacja wykorzystuje istniejącą wiedzę, w szczególności informacje utrzymywane w rejestrze stanu dostępności i zgodności, oraz ustala, czy jest ona aktualna i wystarczająca do zweryfikowania deklaracji.
+Organizacja wykorzystuje posiadaną wiedzę i ustala, czy jest ona aktualna, wiarygodna i wystarczająca do zweryfikowania informacji opublikowanych w deklaracji.
 
-Jeżeli posiadana wiedza jest niewystarczająca lub wymaga aktualizacji, uzupełnienia albo zweryfikowania, organizacja zapewnia przeprowadzenie potrzebnej oceny zgodnie z zasadami obserwowania i oceniania stanu dostępności i zgodności.
+Jeżeli posiadana wiedza jest niewystarczająca albo wymaga aktualizacji, uzupełnienia lub weryfikacji, organizacja przeprowadza potrzebną ocenę zgodnie z zasadami obserwowania i oceniania stanu dostępności i zgodności.
 
----
+Przegląd deklaracji nie wymaga przeprowadzania odrębnej oceny dostępności, jeżeli posiadana wiedza jest wystarczająca do zweryfikowania publikowanych informacji.
 
 ### 3.3. Reagowanie na zmiany rozwiązania
 
 Organizacja zapewnia uzyskiwanie informacji o zmianach strony internetowej lub aplikacji mobilnej mogących mieć wpływ na dostępność cyfrową.
 
-Po uzyskaniu informacji o zmianie organizacja ocenia jej możliwy wpływ na dostępność cyfrową. Jeżeli dostępna wiedza nie pozwala wiarygodnie ustalić skutków zmiany, przeprowadza odpowiednią ocenę doraźną i aktualizuje wiedzę o stanie dostępności i zgodności.
+Po uzyskaniu informacji o zmianie ustala, czy może ona wpływać na stan dostępności i zgodności. Jeżeli posiadana wiedza nie pozwala wiarygodnie ustalić stanu rozwiązania po zmianie, organizacja przeprowadza odpowiednią ocenę doraźną i aktualizuje wiedzę o stanie.
 
-Następnie porównuje aktualną wiedzę z treścią deklaracji i ustala, czy opublikowane informacje wymagają zmiany.
+Następnie porównuje aktualną wiedzę z treścią deklaracji i ustala, czy informacje o dostępności cyfrowej wymagają zmiany.
 
-Sama zmiana rozwiązania nie oznacza zmiany stanu dostępności ani konieczności aktualizacji deklaracji. Powoduje jednak potrzebę ustalenia jej możliwego wpływu, a następnie sprawdzenia, czy deklaracja nadal odpowiada aktualnej wiedzy.
+Sama zmiana rozwiązania nie oznacza zmiany stanu dostępności ani konieczności zmiany informacji opublikowanych w deklaracji.
 
----
+### 3.4. Przegląd treści deklaracji
 
-### 3.4. Porównanie aktualnej wiedzy z deklaracją
+Podczas corocznego przeglądu organizacja porównuje informacje o dostępności cyfrowej zawarte w deklaracji z aktualną i udokumentowaną wiedzą o stanie dostępności i zgodności oraz sprawdza aktualność pozostałych informacji zawartych w deklaracji.
 
-Podczas corocznego przeglądu organizacja porównuje aktualną i udokumentowaną wiedzę z całą treścią deklaracji.
+W przypadku przeglądu rozpoczętego w związku ze zmianą rozwiązania weryfikacja może zostać ograniczona do informacji, na które zmiana mogła mieć wpływ, chyba że dokonane ustalenia wskazują na potrzebę rozszerzenia przeglądu.
 
-W przypadku procesu rozpoczętego w związku ze zmianą rozwiązania porównanie może zostać ograniczone do informacji, na które zmiana mogła mieć wpływ, chyba że dokonane ustalenia wskazują na potrzebę rozszerzenia przeglądu.
+Organizacja weryfikuje odpowiednio:
 
-Organizacja ustala, czy aktualizacji wymagają w szczególności status zgodności, informacje o treściach i funkcjach niedostępnych cyfrowo, wyłączeniach spod stosowania wymagań, zastosowaniu nieproporcjonalnego obciążenia oraz pozostałe informacje wymagane w deklaracji.
-
----
+- status zgodności;
+- informacje o treściach i funkcjach niedostępnych cyfrowo;
+- informacje o treściach wyłączonych spod stosowania wymagań;
+- informacje dotyczące zastosowania nieproporcjonalnego obciążenia;
+- aktualność pozostałych informacji wymaganych w deklaracji.
 
 ### 3.5. Dokumentowanie podstaw i wyniku procesu
 
-Organizacja zapewnia możliwość ustalenia, na jakiej wiedzy oparto najważniejsze informacje zamieszczone w deklaracji oraz wynik przeprowadzonego przeglądu.
+Organizacja zapewnia możliwość ustalenia podstaw najważniejszych informacji o dostępności cyfrowej zamieszczonych w deklaracji oraz wyniku przeprowadzonego przeglądu.
 
-Dokumentuje przebieg i wynik procesu w zakresie umożliwiającym ustalenie jego przyczyny, wykorzystanej wiedzy, przeprowadzonych ocen, najważniejszych ustaleń, informacji wymagających zmiany oraz podstaw podjętych decyzji.
+Dokumentuje przebieg i wynik procesu w zakresie umożliwiającym ustalenie:
 
-Nie wymaga to tworzenia odrębnego zbioru dokumentów ani kopiowania informacji i materiałów przechowywanych w rejestrach, repozytoriach i innych narzędziach organizacji.
+- przyczyny przeprowadzenia przeglądu;
+- wykorzystanej wiedzy o stanie dostępności i zgodności;
+- przeprowadzonych dodatkowych ocen, jeżeli były potrzebne;
+- najważniejszych ustaleń;
+- informacji wymagających zmiany;
+- podstaw ustalenia wyniku przeglądu.
 
-Organizacja zachowuje możliwość odtworzenia podstaw kolejnych wersji deklaracji oraz, w przypadku procesu rozpoczętego w związku ze zmianą rozwiązania, podstaw ustalenia, że aktualizacja deklaracji nie była potrzebna.
+Nie wymaga to tworzenia odrębnego zbioru dokumentów ani kopiowania informacji i materiałów udokumentowanych w innych zasobach organizacji.
 
----
+Organizacja zachowuje informacje potrzebne do odtworzenia podstaw kolejnych wersji deklaracji oraz — w przypadku przeglądu rozpoczętego wskutek zmiany rozwiązania — podstaw ustalenia, że zmiana informacji opublikowanych w deklaracji nie była potrzebna.
 
 ### 3.6. Organizacja procesu, zatwierdzenie i publikacja
 
-Organizacja przypisuje zadania i odpowiedzialności potrzebne do przeprowadzenia procesu od jego rozpoczęcia do zakończenia, zapewnienia wiedzy o stanie rozwiązania, uzyskiwania informacji o zmianach, zatwierdzenia deklaracji oraz jej publikacji.
+Organizacja określa zadania i odpowiedzialności związane z przeglądem, aktualizacją, zatwierdzaniem i publikowaniem deklaracji oraz zapewnia przepływ informacji o zmianach rozwiązania i jego stanie dostępności.
 
-Jeżeli proces wymaga aktualizacji deklaracji, organizacja przygotowuje i weryfikuje jej treść, zapewnia zatwierdzenie przez uprawnioną osobę oraz publikuje zaktualizowaną deklarację w wymaganym terminie.
+Jeżeli deklaracja wymaga aktualizacji, organizacja przygotowuje i weryfikuje jej treść, zapewnia zatwierdzenie przez uprawnioną osobę oraz publikuje zaktualizowaną deklarację w wymaganym terminie.
 
-Po publikacji sprawdza jej poprawność, kompletność, dostępność cyfrową oraz prawidłowe powiązanie ze stroną internetową lub aplikacją mobilną.
+Po publikacji sprawdza poprawność, kompletność i dostępność cyfrową deklaracji oraz jej prawidłowe powiązanie ze stroną internetową lub aplikacją mobilną.
 
-Organizacja zachowuje poprzednią wersję deklaracji oraz informacje potrzebne do odtworzenia przebiegu i podstaw procesu.
+Organizacja zachowuje poprzednią wersję deklaracji oraz informacje potrzebne do odtworzenia podstaw jej aktualizacji.
 
 ---
 
-
 ## 4. Uzasadnienie
 
-Deklaracja dostępności jest informacją publiczną o dostępności cyfrowej strony internetowej lub aplikacji mobilnej. Jej wartość zależy przede wszystkim od wiarygodności: informacje opublikowane w deklaracji powinny odpowiadać aktualnej i udokumentowanej wiedzy organizacji.
+Deklaracja dostępności jest publiczną informacją o dostępności cyfrowej strony internetowej lub aplikacji mobilnej. Jej wartość zależy od aktualności i wiarygodności publikowanych informacji. Informacje o stanie dostępności i zgodności powinny odpowiadać aktualnej i udokumentowanej wiedzy organizacji.
 
-Obowiązek przeglądu i aktualizacji deklaracji służy utrzymywaniu tej wiarygodności. Ustawa o dostępności cyfrowej wymaga przeprowadzenia przeglądu i aktualizacji deklaracji do 31 marca każdego roku oraz jej niezwłocznej aktualizacji w każdym przypadku, gdy strona internetowa lub aplikacja mobilna podlega zmianom mogącym mieć wpływ na dostępność cyfrową.
+Obowiązek przeglądu i aktualizacji deklaracji służy utrzymywaniu jej aktualności i wiarygodności. Ustawa o dostępności cyfrowej wymaga przeprowadzenia przeglądu i aktualizacji deklaracji do 31 marca każdego roku oraz jej niezwłocznej aktualizacji w każdym przypadku, gdy strona internetowa lub aplikacja mobilna podlega zmianom mogącym mieć wpływ na dostępność cyfrową.
 
-Nie są to dwa odrębne procesy, lecz dwie przesłanki uruchamiające jeden proces utrzymywania wiarygodności deklaracji.
+Są to dwie przesłanki uruchamiające proces przeglądu i aktualizacji deklaracji.
 
-Podczas corocznego przeglądu organizacja wykorzystuje aktualną wiedzę o stanie dostępności i zgodności, w razie potrzeby zapewnia jej uzupełnienie lub zweryfikowanie, a następnie porównuje ją z całą treścią deklaracji. Coroczny przegląd zawsze kończy się aktualizacją deklaracji, nawet jeżeli jedyną zmianą jest odnotowanie daty przeprowadzenia przeglądu i aktualizacji.
+Podczas corocznego przeglądu organizacja wykorzystuje aktualną wiedzę o stanie dostępności i zgodności, w razie potrzeby zapewnia jej uzupełnienie lub weryfikację, a następnie porównuje ją z informacjami o dostępności cyfrowej opublikowanymi w deklaracji. Sprawdza również aktualność pozostałych informacji zawartych w deklaracji. Coroczny przegląd kończy się aktualizacją deklaracji, nawet jeżeli jedyną zmianą jest odnotowanie daty przeprowadzenia przeglądu i aktualizacji.
 
-W przypadku zmiany rozwiązania organizacja najpierw ocenia jej możliwy wpływ na dostępność cyfrową. Jeżeli ustalenie skutków zmiany wymaga dodatkowej wiedzy, przeprowadza odpowiednią ocenę doraźną. Następnie porównuje aktualną wiedzę z deklaracją i ustala, czy opublikowane informacje wymagają zmiany.
+W przypadku zmiany rozwiązania organizacja ustala, czy może ona wpływać na stan dostępności i zgodności. Jeżeli ustalenie stanu po zmianie wymaga dodatkowej wiedzy, przeprowadza odpowiednią ocenę doraźną. Następnie ustala, czy informacje opublikowane w deklaracji wymagają zmiany.
 
-Takie podejście rozdziela trzy powiązane mechanizmy systemu zapewniania dostępności cyfrowej: utrzymywanie wiedzy o stanie dostępności i zgodności, ocenę wpływu zmian oraz utrzymywanie wiarygodności deklaracji dostępności.
+Przegląd deklaracji nie jest odrębną oceną dostępności rozwiązania. Organizacja wykorzystuje wiedzę uzyskiwaną i aktualizowaną podczas obserwowania i oceniania stanu dostępności i zgodności. Dodatkowe oceny przeprowadza wtedy, gdy posiadana wiedza nie jest wystarczająca do wiarygodnego zweryfikowania deklaracji.
 
-Organizacja nie ustala stanu dostępności od początku wyłącznie dlatego, że zbliża się termin corocznego przeglądu. Wykorzystuje istniejącą wiedzę, systematycznie ją rozwija i aktualizuje, a następnie wykorzystuje do weryfikowania informacji opublikowanych w deklaracji.
-
-Dzięki temu deklaracja dostępności może przez cały okres publikacji pozostawać aktualnym i wiarygodnym źródłem informacji dla użytkowników.
+Takie podejście pozwala wykorzystywać tę samą udokumentowaną wiedzę zarówno w bieżącym zapewnianiu dostępności rozwiązania, jak i do utrzymywania wiarygodności informacji przekazywanych użytkownikom w deklaracji dostępności.
 
 ---
 
@@ -133,10 +133,10 @@ Dzięki temu deklaracja dostępności może przez cały okres publikacji pozosta
 
 ## 6. Załączniki
 
-- [Procedura przeglądu i aktualizacji deklaracji dostępności](procedura-przegladu-i-aktualizacji-deklaracji-dostepnosci)
-- [Karta przeglądu i aktualizacji deklaracji dostępności](karta-przegladu-i-aktualizacji-deklaracji-dostepnosci)
-- [Lista kontrolna przeglądu deklaracji dostępności](lista-kontrolna-przegladu-deklaracji-dostepnosci)
-- [Ocena zmian mogących mieć wpływ na dostępność cyfrową](ocena-zmian-mogacych-miec-wplyw-na-dostepnosc-cyfrowa)
-- [Zasady dokumentowania podstaw deklaracji dostępności](zasady-dokumentowania-podstaw-deklaracji-dostepnosci)
-- [Podział zadań i odpowiedzialności w procesie przeglądu i aktualizacji deklaracji](role-i-odpowiedzialnosci-w-procesie-przegladu-i-aktualizacji-deklaracji)
+- [Procedura przeglądu i aktualizacji deklaracji dostępności](procedura-przegladu-i-aktualizacji-deklaracji-dostepnosci.md)
+- [Karta przeglądu i aktualizacji deklaracji dostępności](karta-przegladu-i-aktualizacji-deklaracji-dostepnosci.md)
+- [Lista kontrolna przeglądu deklaracji dostępności](lista-kontrolna-przegladu-deklaracji-dostepnosci.md)
+- [Ocena zmian mogących mieć wpływ na dostępność cyfrową](ocena-zmian-mogacych-miec-wplyw-na-dostepnosc-cyfrowa.md)
+- [Zasady dokumentowania podstaw deklaracji dostępności](zasady-dokumentowania-podstaw-deklaracji-dostepnosci.md)
+- [Podział zadań i odpowiedzialności w procesie przeglądu i aktualizacji deklaracji](role-i-odpowiedzialnosci-w-procesie-przegladu-i-aktualizacji-deklaracji.md)
 
