@@ -3,6 +3,7 @@ id: opracowanie-zalecen-i-rekomendacji
 title: Opracowanie zaleceń i rekomendacji
 sidebar_label: Opracowanie zaleceń i rekomendacji
 sidebar_position: 2 
+ostatnia_aktualizacja: 15 października 2026 r.
 ---
 
 #  Opracowanie zaleceń i rekomendacji

@@ -8,7 +8,7 @@ keywords: [zarządzanie, dostępnośc cyfrowa, audyt, samoocena]
 tags: [zarządzanie, dostępnośc cyfrowa, audyt, samoocena]
 opracowanie: Stefan Wajda
 data_zgloszenia: 18 marca 2025 r.
-data_aktualizacji: 15 listopada 2025 r.
+ostatnia_aktualizacja: 15 listopada 2025 r.
 ---
 
 
