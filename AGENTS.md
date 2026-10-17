@@ -170,38 +170,123 @@ Serwis to przede wszystkim treść — 99% zmian to pliki Markdown w `documentat
   wskazują na osobny serwis `.../generatory/...`. Nie odtwarzaj ich bez prośby.
 - `documentation/tsconfig.json` ma `noEmit: true` i nie uczestniczy w buildzie Docusaurusa.
 
-## Code style
+## Code style basic rules
 
-Obowiązuje w kodzie TypeScript/JavaScript w `documentation/src`, `scripts`, `fixes`, `plugins`
-oraz w konfiguracji. Formatowanie dopasowuj do edytowanego pliku (w repo nie ma formatyera;
-`src/` używa wcięcia 4-spacji, `scripts/` i `fixes/` 2-spacji) — nie przepisuj pliku na siłę.
+1. **Meaningful names** – avoid `data`, `temp`, `foo`.
+2. **Empty lines between logical sections** – add blank lines to separate logical blocks within functions (e.g., between variable declarations, conditionals, loops, and return statements). For example, put an empty line between an `if` block and a subsequent `const` declaration, or between a `const` and a `return`.
+3. **Object properties** sorted alphabetically.
+4. **No implicit coercion** – use strict `===` and `!==`. Avoid loose equality operators (`==`, `!=`).
+5. **Negation for boolean toggling** – the `!` operator is allowed and encouraged for boolean assignment and toggling (e.g., `flag = !isEnabled`, `item.hidden = !isVisible`). For conditional checks, follow rule 12 (use `if (value === false)` for false checks, not `if (!value)`).
+6. **Use `const` + arrow functions** for callbacks/standalone functions.
+7. **Optional chaining** allowed, but not to change control flow silently. Prefer explicit checks when null/undefined is an error state.
+8. **Callback functions** – extract the inline callbacks into named `const` functions. One-liners are fine inline. No large anonymous functions inline.
+9. **Context execution** – use `globalThis` instead of `window`, `global`, or `self` unless explicitly justified.
+10. **`await` must be wrapped in try-catch** – every `await` call must be inside a try-catch block. No unhandled promise rejections. If you don't need the error, at minimum log it with `console.error`.
+11. **Always use fully qualified global references** – don't rely on implicit globals. Use `globalThis.fetch` not `fetch`, `globalThis.setTimeout` not `setTimeout`, etc. Exceptions: `console` and `document` may be used without `globalThis`.
+12. **No negation in boolean conditions** – when checking a boolean value in a conditional (e.g., `if`, `while`, ternary), use `if (value)` for true checks and `if (value === false)` for false checks. Do not use the logical NOT operator (`!`) for false checks (e.g., `if (!value)` is forbidden). This makes the condition explicit and avoids subtle bugs.
+13. **No TypeScript typings in JavaScript files** – `.js` files should not contain type annotations. Keep types only in `.ts` files.
+14. **Parentheses around arrow function arguments** – always wrap arrow function arguments in parentheses, even for single parameters. Use `(x) => x * 2` not `x => x * 2`.
+15. **Prefer early returns over nested if blocks** – avoid large `if` blocks by inverting conditions and returning early. Keep nesting to a minimum (max 2-3 levels deep).
+16. **No async misuse at top-level** – wrap top-level async logic in an immediately invoked function expression (IIFE) or use a named function that gets called. Never leave top-level `await` unhandled.
+17. **Explicit type checking** – don't check just for `undefined`. Always validate that the value matches the expected type. Watch for the `null` trap: `typeof null === 'object'`. Always explicitly exclude `null` when checking for objects. For example, use `typeof value === 'object' && value !== null` instead of just `typeof value === 'object'`.
+    17.1. **Complete explicit types** – include all relevant runtime states in explicit type annotations, including `null` and `undefined` when an API can return them. For example, use `RegExpMatchArray | null` for `String.match()`, not only `RegExpMatchArray`.
+18. **Class member order** – maintain the following order within classes:
+    - Class properties: `protected`, `private`, `public` (alphabetically within each group)
+    - Constructor
+    - Methods: `protected`, `private`, `public` (alphabetically within each group)
+    - Angular lifecycle methods (e.g., `ngOnInit`, `ngOnDestroy`) must come after all public methods
+19. **Avoid hard-coded strings** – extract string literals into named constants or enums. This ensures consistency, prevents typos, and makes refactoring easier. Use, for example, `const ACTION_SAVE = 'save'` instead of repeating `'save'` throughout the codebase.
+20. **Pass function references directly** – when adding event listeners, pass the function reference directly instead of wrapping in an anonymous function. Use `addEventListener('click', handler)` not `addEventListener('click', () => handler())`. For class methods, use `this.method.bind(this)`.
+21. **Avoid self-explanatory comments** – don't comment what the code does if the code itself is clear. Comments should explain "why" (business logic, edge cases, workarounds) not "what". Exception: complex algorithms, non-obvious performance optimizations, or temporary // TODO comments.
+22. **Use `+= 1` for increments** – avoid the `++` operator. Use `i += 1` instead of `i++` in loops and counters. This makes increment behavior explicit and avoids confusion between post-increment and pre-increment.
+23. **Explicit array emptiness check** – when checking if an array has elements, use `Array.isArray(array) && array.length > 0`. Don't rely on truthiness or optional chaining alone, as they can be ambiguous with `null`, `undefined`, or empty arrays.
+24. **Multi-line object and array formatting** – when an object or array has more than one property/element, format it vertically with line breaks after the opening bracket and before the closing bracket. Each property/element on its own line. Single-property objects or single-element arrays may remain on one line.
+25. **Avoid `as unknown as Type` casting** – casting through `unknown` bypasses type safety and hides type mismatches. If you must cast, prefer `as Type` with a runtime check. Use `unknown` casting only as an absolute last resort when interfacing with truly untyped data (e.g., `JSON.parse`), and always add a comment explaining why.
+26. **No trailing commas** – avoid trailing commas in objects, arrays, function arguments, or any other syntax. Trailing commas can cause issues in older JavaScript environments and create inconsistent git diffs.
+27. **Indentation** – use 2 spaces for indentation. No tabs.
+28. **No underscore prefix for private members** – don't use underscore prefix (e.g., `_privateProperty`). TypeScript's `private` keyword already indicates visibility. Use standard naming without underscores.
+29. **Use template literals for string concatenation** – avoid `+` for string concatenation. Use template literals (backticks) instead. For example, use `${pct}%` not `pct + '%'`, and use `Hello ${name}` not `'Hello ' + name`.
+30. **Class property initialization in constructor** – all class properties must be initialized directly in the constructor. Do not initialize properties at declaration (e.g., `private count = 0`). The exceptions are `@Input()` properties (which are set by Angular), rule classes extending `AbstractRule` (where `selector` and `ruleConfig` are initialized at declaration), and properties using the `!` definite assignment assertion (with a comment explaining why). This ensures clear initialization flow and avoids the "not definitely assigned" error.
+31. **Use `Number.parseInt` instead of `parseInt`** – always use `Number.parseInt` rather than the bare `parseInt` function. This makes the global namespace explicit and avoids ambiguity. Always include the radix parameter (e.g., `Number.parseInt(value, 10)`).
+32. **Avoid long anonymous functions in `new Promise`** – when creating a new Promise, keep the executor function short (2-3 lines max). If the logic is longer, extract it to a named `const` function. This improves readability and reusability.
+33. **Use `addEventListener` instead of on-event properties** – avoid assigning event handlers directly to DOM element properties like `img.onload`, `button.onclick`, or `window.onload`. Use `addEventListener` instead. This allows multiple listeners, better cleanup, and avoids accidental overrides.
+34. **Use `{ once: true }` for one-time event listeners** – when an event listener is intended to run only once (e.g., `load`, `error`, `click` for a one‑time action), always pass the `{ once: true }` option. This automatically removes the listener after execution, preventing memory leaks and unintended multiple calls.
+35. **Interfaces** prefixed with `I` (e.g., `IAuditorReport`). Enforced by `@typescript-eslint/naming-convention`.
+36. **No implicit coercion with `!` on non‑booleans** – do not use the logical NOT operator (`!`) to coerce a non‑boolean value to a boolean (e.g., `if (!obj)`, `!!value`). Instead, use explicit type‑specific checks that validate the expected shape or type of the data. For example, use `typeof value === 'object' && value !== null` for objects, `Array.isArray(value)` for arrays, `value !== null && value !== undefined` for optional values, etc. The `!` operator is allowed only when the operand is already a boolean (e.g., toggling a flag: `flag = !flag`).
+37. **Keep object shapes stable** – always initialize object properties in the same order so objects share the same hidden class, and call each function with the same shape of objects so inline caches stay monomorphic. Do not add properties after initialization on hot paths or to objects all instances share; initialize such properties up front (even to `null`).
+38. **Avoid mixing types** – keep arrays homogeneous (no `[1, "two", { three: 3 }]`) and keep argument types stable per call site. Mixed types force V8 to deoptimise.
+39. **No `delete` on object properties** – `delete` switches an object into slow Dictionary Mode. Assign `undefined` or `null` instead. **Exception – header bags that cross the wire** (`IncomingHttpHeaders`, `Headers`, or any options object passed to `fetch`/`http.request`): when a key must be _absent_ rather than _present but empty_, `delete` is the only correct option and `null`/`undefined` is not a substitute. Verified against `undici`: a `null`/`undefined` header value is rejected outright (`TypeError: fetch failed`), and a stale `content-length` forwarded verbatim desynchronises the reader, which then hangs until the request aborts (too small) or the connection fails (too large). Omitting the key lets the HTTP layer derive the header from the body, which is the only correct outcome. Delete the key and let the transport recompute it. Outside that case, assign `undefined` or `null`.
+40. **Initialise every object property** – even properties that start as `null`, so the object's shape is fixed once and for all.
+41. **Write boring, predictable code** – V8 rewards stable, monomorphic code and penalises dynamic patterns that mutate shapes, add properties on the fly, or mix types.
+42. **No `void` prefix on test declarations** – call `describe()`, `it()`, `before()`, `after()`, `beforeEach()`, `afterEach()` directly in spec files. Do not write `void describe(...)`; the returned promise is handled by the test runner.
+43. **Keep array-iteration callbacks short (max 3 lines)** – a callback body of 3 lines or fewer may stay inline. Anything longer must be extracted into a named `const` arrow function and passed by reference (`metas.forEach(collectItem)`), never as a large anonymous block. This specialises rule 8 for `.forEach`/`.map`/`.filter`/`.reduce` iteration. A short name also documents intent better than a block whose purpose is only clear after reading it, and a long inline body makes the surrounding loop unreadable. Remember that `return` inside `.forEach` only skips the current iteration – extracting the callback makes that "continue" behaviour explicit.
 
-1. **Ścisłe porównania:** `===` / `!==`, nigdy `==` / `!=`.
-2. **`const` i strzałki** dla callbacków i funkcji pomocniczych; callback dłuższy niż 3 wiersze
-   wyciągaj do nazwanej stałej i przekazuj przez referencję (`metas.forEach(zbierzElement)`).
-3. **Każde `await` w `try`/`catch`** — bez nieobsługiwanych odrzuceń obietnic; jeśli błędu nie
-   obsługujesz, zaloguj go przez `console.error`.
-4. **Świadome odwołania do globali:** `globalThis.fetch`, `globalThis.setTimeout`, `globalThis.URL`
-   zamiast gołych nazw (wyjątki: `console`, `document`).
-5. **Brak niejawnej konwersji i brak `!` na nie-booleanach** w warunkach:
-   `if (wartosc === false)`, `if (wartosc === null)`, `Array.isArray(x) && x.length > 0`,
-   `typeof x === 'object' && x !== null`. `!` wolno stosować tylko do wartości logicznych.
-6. **Wczesne returny** zamiast zagnieżdżonych `if` (maks. 2–3 poziomy zagnieżdżenia).
-7. **Literały w stałych, nie w kodzie** — powtarzane ciągi (klucze front matter, ścieżki,
-   etykiety) wyciągaj do `const` lub enuma.
-8. **Template literals** zamiast konkatenacji `+`; `+= 1` zamiast `++`.
-9. **Wcięcie 2 spacje** w nowych plikach (dopasuj się do istniejących), tabulatory zabronione;
-   obiekty i tablice o więcej niż jednym polu rozwijaj w pionie; **bez przecinków na końcu**.
-10. **Alfabetyczna kolejność kluczy** w nowych obiektach; shape obiektów trzymaj stabilny
-    (inicjalizuj wszystkie pola od razu, także te `null`).
-11. **Komentarze wyjaśniają „dlaczego", nie „co"**; język komentarza jak w reszcie pliku
-    (w konfiguracji są po polsku).
-12. **React:** komponenty funkcyjne, w `src/theme/` tylko niezbędne swizzle, style w
-    `*.module.css`, hooki bez warunkowego wywoływania. Interfejsy bez prefiksu `I`
-    (obowiązuje istniejąca nazwa, np. `RootProps`).
-13. **Pliki `.js` bez adnotacji typów** — typy tylko w `.ts`/`.tsx`.
-14. **Nie kasuj właściwości przez `delete`** — przypisuj `undefined`/`null`
-    (wyjątek: nagłówki HTTP przekazywane do `fetch`, gdzie klucz musi być nieobecny).
+Bad:
+
+```ts
+metas.forEach((meta: HTMLMetaElement): void => {
+  const property: string | null = getOpenGraphProperty(meta);
+
+  if (property === null) {
+    return;
+  }
+
+  const content: string | null = meta.getAttribute('content');
+
+  items.push({
+    content: content === null ? '' : content.trim(),
+    property
+  });
+});
+```
+
+Good:
+
+```ts
+const collectItem = (meta: HTMLMetaElement): void => {
+  const property: string | null = getOpenGraphProperty(meta);
+
+  if (property === null) {
+    return;
+  }
+
+  const content: string | null = meta.getAttribute('content');
+
+  items.push({
+    content: content === null ? '' : content.trim(),
+    property
+  });
+};
+
+metas.forEach(collectItem);
+```
+
+44. **Named constants for boolean arguments** – when calling a function with a boolean parameter, never pass a bare `true`/`false` literal; pass a named constant defined next to the owning function (e.g. `export const CAN_UPDATE_ACCOUNT_STATUS: boolean = true`) so the call site states its intent: `updateUserData(userId, request, CAN_UPDATE_ACCOUNT_STATUS)`, not `updateUserData(userId, request, true)`. For caller-facing methods, prefer a required boolean parameter over a defaulted one so the compiler forces every caller to name its decision; a fail-closed default belongs only on lower-layer implementations.
+
+45. **No `!!` coercion** – never use the double-bang to coerce a value to a boolean; use `Boolean(value)` instead, or an explicit type check when the shape matters (rule 36). A bare `!` stays allowed only for boolean assignment/toggling (rule 5).
+
+## Before finishing: style self-audit
+
+MANDATORY: after any code change, audit your own diff against rules 1-45 in **Code style basic rules** above BEFORE presenting the work as done. Audit the diff you produced, not the whole repo.
+
+Procedure:
+
+1. Run `git diff` and re-read every added line against the rules list.
+2. Highest-frequency violations - check these explicitly first:
+   - Rule 10: every `await` is inside a `try`/`catch` block (also in `scripts/`, `fixes/`, `plugins/`).
+   - Rules 9/11: fully qualified globals (`globalThis.setTimeout`, `globalThis.fetch`, `globalThis.URL`) - exceptions only `console` and `document`.
+   - Rules 12/36/45: no `!` or `!!` on non-booleans in conditions - use `value === false`, `value === null`, `Array.isArray(value)`, `typeof` checks; use `Boolean(value)` instead of `!!`.
+   - Rule 3: new object literals keep properties in alphabetical order and initialise every property up front (rules 37/40), even to `null`.
+   - Rule 19: no repeated string literals - extract `const` constants (front matter keys, paths, labels).
+   - Rules 23/26/29: array emptiness as `Array.isArray(x) && x.length > 0`; no trailing commas; template literals instead of `+` concatenation.
+   - Rule 43: array-iteration callbacks (`.forEach`/`.map`/`.filter`/`.reduce`) longer than 3 lines are extracted into a named `const` function and passed by reference.
+   - Rule 44: no bare `true`/`false` positional arguments at call sites - pass named constants (`CAN_*`/`CANNOT_*`) defined next to the owning function.
+3. When `documentation/slownik/slownik.json` changed: entries stay sorted alphabetically by `term`, required fields are present (`term`, `definition`, `definitionType`, `relatedTerms[]`, `references[]`) and `definitionType` is one of `legal`, `normative`, `official`, `industry`, `sdc`.
+4. Run the checks from the **Verification** section, in order, from `documentation/`: `npm run lint:md`, `npm run typecheck`, `npm run build`. Report failures in files you did not touch honestly as pre-existing limitations instead of silently skipping them.
+5. Fix all found violations in the same pass, then re-run the checks.
+6. A violation that cannot be fixed in this pass goes to `documentation/todo/` (one open item per file, format described in `documentation/todo/README.md`) - never leave it unrecorded.
+
+The final summary must state that the self-audit was performed and list anything intentionally not fixed.
 
 ## Git
 

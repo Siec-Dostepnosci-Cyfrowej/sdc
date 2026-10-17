@@ -1,50 +1,62 @@
 import Heading from '@theme/Heading';
 import clsx from 'clsx';
 import type {ReactNode} from 'react';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './styles.module.css';
 
 type FeatureItem = {
   title: string;
-  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
+  svgId: string;
   description: ReactNode;
 };
 
+// SVGs are rendered as <use> references to static/img/images.svg (an SVG sprite),
+// not as inline SVG in the HTML document (SiteLint rule: svg_too_large).
+// To add a new SVG to the sprite, append a <symbol id="..."> to images.svg.
 const FeatureList: FeatureItem[] = [
   {
-        title: 'Zmierz się z nami z tym wyzwaniem!',
-        Svg: require('@site/static/img/joo-01.svg').default,
+    title: 'Zmierz się z nami z tym wyzwaniem!',
+    svgId: 'joo-01',
     description: (
       <>
-            Sieć pracuje nad systemem wdrażania dostępności cyfrowej w podmiotach publicznych w&nbsp;Polsce.
-      </>
-    ),
-  },
-    {
-        title: 'Miej wpływ na dostępność cyfrową!',
-        Svg: require('@site/static/img/joo-04.svg').default,
-
-    description: (
-      <>
-            Siłą Sieci dostępności cyfrowej jest doświadczenie i aktywność uczestniczek i uczestników.
+        Sieć pracuje nad systemem wdrażania dostępności cyfrowej w podmiotach publicznych w&nbsp;Polsce.
       </>
     ),
   },
   {
-      title: 'Dołącz do Sieci dostępności cyfrowej!',
-      Svg: require('@site/static/img/joo-03.svg').default,
+    title: 'Miej wpływ na dostępność cyfrową!',
+    svgId: 'joo-04',
     description: (
       <>
-            Jeśli chcesz mieć wpływ na tworzenie rozwiązań na rzecz dostępności cyfrowej, dołącz do nas!
+        Siłą Sieci dostępności cyfrowej jest doświadczenie i aktywność uczestniczek i uczestników.
+      </>
+    ),
+  },
+  {
+    title: 'Dołącz do Sieci dostępności cyfrowej!',
+    svgId: 'joo-03',
+    description: (
+      <>
+        Jeśli chcesz mieć wpływ na tworzenie rozwiązań na rzecz dostępności cyfrowej, dołącz do nas!
       </>
     ),
   },
 ];
 
-function Feature({title, Svg, description}: FeatureItem) {
+function Feature({title, svgId, description}: FeatureItem) {
+  const {siteConfig} = useDocusaurusContext();
+  const spriteUrl = `${siteConfig.baseUrl}img/images.svg#${svgId}`;
+
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" aria-hidden="true" focusable="false" />
+        <svg
+          className={styles.featureSvg}
+          role="img"
+          aria-hidden="true"
+          focusable="false">
+          <use href={spriteUrl} xlinkHref={spriteUrl} />
+        </svg>
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h2">{title}</Heading>
