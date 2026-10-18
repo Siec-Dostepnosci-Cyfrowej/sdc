@@ -1,6 +1,6 @@
 ---
 id: dostepnosc-w-cyklu-zycia-rozwiazania-cyfrowego
-title: Zapewnianie dostępności rozwiązań cyfrowych w całym cyklu życia
+title: Dostępność w cyklu życia rozwiązania cyfrowego
 description: Zalecenie dotyczące zachowania ciągłości dostępności cyfrowej i wiedzy o jej stanie między momentami decyzyjnymi cyklu życia rozwiązania cyfrowego, od rozpoznania potrzeby do wycofania z użytkowania.
 sidebar_position: 0
 sidebar_label: Zalecenie
@@ -20,8 +20,7 @@ Celem zalecenia jest przeciwdziałanie utracie dostępności cyfrowej rozwiązan
 
 ## 2. Zalecenie
 
-Organizacja uwzględnia dostępność cyfrową w decyzjach dotyczących rozwiązania cyfrowego, również wtedy, gdy decyzje te nie dotyczą bezpośrednio jego dostępności, i przed ich podjęciem rozpoznaje ich możliwy wpływ na dostępność cyfrową.
-
+Organizacja uwzględnia dostępność cyfrową w decyzjach dotyczących rozwiązania cyfrowego, także wtedy, gdy decyzje te nie dotyczą bezpośrednio jego dostępności. Przed podjęciem decyzji organizacja rozpoznaje jej możliwy wpływ na dostępność cyfrową rozwiązania.
 Organizacja zapewnia ciągłość dostępności cyfrowej oraz wiedzy o jej stanie między kolejnymi momentami decyzyjnymi cyklu życia rozwiązania cyfrowego, niezależnie od zmiany osób, wykonawców i wersji rozwiązania.
 
 
@@ -79,7 +78,7 @@ Decyzje projektowe, techniczne, konfiguracyjne i integracyjne, które mogą wpł
 
 Odbiór rezultatów zamówienia, zakończenie konfiguracji albo uruchomienie rozwiązania nie oznacza automatycznie dopuszczenia go do użytkowania. Przed dopuszczeniem rozwiązania organizacja weryfikuje stan dostępności w zakresie odpowiednim do rodzaju rozwiązania i jego znaczenia dla użytkowników, rozpoznaje pozostałe bariery, luki w wiedzy oraz ryzyko, a następnie podejmuje decyzję o dopuszczeniu, niedopuszczeniu albo warunkowym dopuszczeniu.
 
-Jeżeli rozwiązanie jest dopuszczane mimo znanych barier, obniżenia wcześniej potwierdzonego stanu dostępności albo braku pełnej wiedzy o stanie dostępności, organizacja dokumentuje przyczynę decyzji, przewidywane skutki dla użytkowników, osobę odpowiedzialną za dalsze postępowanie oraz sposób usunięcia bariery, ograniczenia ryzyka, zapewnienia obejścia albo ponownej weryfikacji.
+Jeżeli rozwiązanie jest dopuszczane mimo znanych barier, obniżenia wcześniej potwierdzonego stanu dostępności albo braku pełnej wiedzy o stanie dostępności, organizacja dokumentuje przyczynę decyzji, przewidywane skutki dla użytkowników, osobę odpowiedzialną za dalsze postępowanie oraz sposób usunięcia bariery, ograniczenia ryzyka, zapewnienia obejścia albo ponownej weryfikacji. Decyzja o dopuszczeniu rozwiązania nie zwalnia organizacji z obowiązku spełnienia wymagań dostępności cyfrowej, które mają do niego zastosowanie.
 
 ### 3.5 Zachowanie dostępności przy zmianach w używanym rozwiązaniu cyfrowym
 
@@ -105,7 +104,7 @@ W przypadku rozwiązania pozostającego poza jej kontrolą organizacja:
 - zapewnia dostęp do treści i usług w inny sposób;
 - wykorzystuje zgromadzone informacje przy najbliższej decyzji o dalszym korzystaniu z rozwiązania.
 
-Brak możliwości samodzielnego usunięcia bariery nie zwalnia organizacji z obowiązku zapewnienia dostępu do usługi ani z rozpoznania stanu rozwiązania, udokumentowania ryzyka i podjęcia decyzji o dalszym postępowaniu.
+Brak możliwości samodzielnego usunięcia bariery nie zwalnia organizacji z obowiązków wynikających z przepisów, które mają zastosowanie do danego rozwiązania, ani z rozpoznania stanu rozwiązania, udokumentowania ryzyka i podjęcia decyzji o dalszym postępowaniu.
 
 ### 3.7 Wycofanie, zastąpienie i migracja
 
@@ -123,7 +122,7 @@ Szczegółowe zasady archiwizacji, migracji i wycofywania zasobów cyfrowych okr
 
 ### 3.8 Odpowiedzialność za rozwiązanie w cyklu życia
 
-Organizacja wskazuje dla każdego rozwiązania cyfrowego osobę odpowiedzialną za uwzględnianie dostępności w decyzjach dotyczących tego rozwiązania, uprawnioną do decydowania o jego nabyciu, zakresie zamówienia, odbiorze, dopuszczeniu do użytkowania, zmianach i dalszym użytkowaniu.
+Organizacja określa, kto odpowiada za uwzględnianie dostępności cyfrowej w decyzjach dotyczących każdego rozwiązania cyfrowego. Jeżeli decyzje o nabyciu rozwiązania, zakresie zamówienia, odbiorze, dopuszczeniu do użytkowania, zmianach i dalszym użytkowaniu podejmują inne osoby, organizacja ustala zasady ich współpracy z osobą odpowiedzialną za uwzględnianie dostępności oraz przekazywania informacji o dostępności.
 
 Odpowiedzialność ta obejmuje przekazanie wymagań, wiedzy o stanie i podjętych ustaleń przy zmianie osób, wykonawców i podmiotów utrzymujących rozwiązanie. Powierzenie prac wykonawcy, dostawcy albo podmiotowi utrzymującemu rozwiązanie nie przenosi na nich odpowiedzialności organizacji za określenie wymagań, ocenę uzyskanych informacji i podjęcie decyzji.
 
