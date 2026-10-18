@@ -3,7 +3,8 @@ id: nabor-do-sieci-dostepnosci-cyfrowej
 title: Nabór do Sieci dostępności cyfrowej
 sidebar_label: Nabór do Sieci
 sidebar_position: 3 
-ostatnia_aktualizacja: 15 października 2026 r.
+data_zgloszenia: 15 października 2025 r.
+ostatnia_aktualizacja: 15 października 2025 r.
 ---
 
 #  Nabór do Sieci dostępności cyfrowej
