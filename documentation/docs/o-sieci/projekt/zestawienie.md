@@ -3,7 +3,8 @@ title: Zestawienie propozycji tematów
 sidebar_label: Zestawienie tematów
 sidebar_position: 4
 opracowanie: Stefan Wajda
-ostatnia_aktualizacja: 15 października 2026 r.
+data_zgloszenia: 15 listopada 2025 r.
+ostatnia_aktualizacja: 15 listopada 2025 r.
 ---
 
 # Zestawienie propozycji tematów
