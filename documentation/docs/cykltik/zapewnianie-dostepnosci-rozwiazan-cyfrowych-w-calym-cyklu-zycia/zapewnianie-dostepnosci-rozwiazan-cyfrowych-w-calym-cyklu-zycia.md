@@ -118,7 +118,7 @@ Przed wycofaniem, zastąpieniem albo migracją organizacja ustala w szczególno�
 - jaki zakres weryfikacji jest potrzebny po migracji albo uruchomieniu rozwiązania zastępującego;
 - jak zostanie zapewniona ciągłość procesu użytkownika oraz dostęp do informacji lub usługi w okresie przejściowym.
 
-Szczegółowe zasady archiwizacji, migracji i wycofywania zasobów cyfrowych określa zalecenie [Zapewnianie dostępności cyfrowej zasobów archiwalnych, migrowanych i wycofywanych](../archiwizacja-i-wycofywanie-zasobow-cyfrowych/archiwizacja-i-wycofywanie-zasobow-cyfrowych.md).
+Szczegółowe zasady archiwizacji, migracji i wycofywania zasobów cyfrowych określa zalecenie [Zapewnianie dostępności cyfrowej zasobów archiwalnych, migrowanych i wycofywanych](../archiwizacja-i-wycofywanie-zasobow-cyfrowych/archiwizacja-migracja-i-wycofywanie-zasobow-cyfrowych.md).
 
 ### 3.8 Odpowiedzialność za rozwiązanie w cyklu życia
 
@@ -170,7 +170,7 @@ Niniejsze zalecenie określa zasadę zachowania tych informacji i utrzymania osi
 ## 7. Powiązania z innymi dokumentami Sieci
 
 1. [Ocena zmian mogących mieć wpływ na dostępność cyfrową](../przeglad-i-aktualizacja-deklaracji/ocena-zmian-mogacych-miec-wplyw-na-dostepnosc-cyfrowa.md): określa zasady rozpoznawania zmian i ustalania potrzeby oceny doraźnej, przywoływane w rekomendacji 3.5.
-2. [Zapewnianie dostępności cyfrowej zasobów archiwalnych, migrowanych i wycofywanych](../archiwizacja-i-wycofywanie-zasobow-cyfrowych/archiwizacja-i-wycofywanie-zasobow-cyfrowych.md): określa szczegółowe zasady postępowania przy wycofaniu, zastąpieniu i migracji, o których mowa w rekomendacji 3.7.
+2. [Zapewnianie dostępności cyfrowej zasobów archiwalnych, migrowanych i wycofywanych](../archiwizacja-i-wycofywanie-zasobow-cyfrowych/archiwizacja-migracja-i-wycofywanie-zasobow-cyfrowych.md): określa szczegółowe zasady postępowania przy wycofaniu, zastąpieniu i migracji, o których mowa w rekomendacji 3.7.
 3. [Inwentaryzacja zasobów cyfrowych](../inwentaryzacja/rejestr-zasobow-cyfrowych.md): określa rejestr zasobów cyfrowych, w którym organizacja utrzymuje informacje o rozwiązaniu zgodnie z rekomendacją 3.9.
 4. [Zasady prowadzenia rejestru stanu dostępności i zgodności](../obserwowanie-i-ocenianie-dostepnosci-i-zgodnosci/zasady-prowadzenia-rejestru-stanu-dostepnosci-i-zgodnosci.md): określa sposób utrwalania wiedzy o stanie dostępności i zgodności, której ciągłość zapewnia zalecenie.
 
