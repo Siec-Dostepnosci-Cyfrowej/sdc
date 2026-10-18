@@ -38,5 +38,5 @@ Jeżeli podmiot publiczny publikuje informację na stronie internetowej lub w ap
 
 ## Powiązane dokumenty
 
-- [Zasady projektowania list kontrolnych](./projektowanie-list-kontrolnych-dostepnosci-tresci.md)
-- [Tryb publikacji warunkowej](./procedura-sytuacji-wyjatkowych.md)
+- [Zasady projektowania list kontrolnych dostępności treści](projektowanie-list-kontrolnych-dostepnosci-tresci.md)
+- [Tryb publikacji warunkowej i rejestr publikacji warunkowych](procedura-sytuacji-wyjatkowych.md)

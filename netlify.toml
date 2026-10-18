@@ -2,6 +2,7 @@
   base = "documentation"
   publish = "build"
   command = "npm ci && npm run build"
+  ignore = "if [ \"$CONTEXT\" = \"production\" ]; then exit 0; fi"
  
 [build.environment]
   NODE_VERSION = "22"

@@ -1,7 +1,8 @@
 {
-  "label": "Archiwizacja i wycofywanie zasobów cyfrowych",
+  "label": "Archiwizacja, migracja i wycofywanie zasobów cyfrowych",
   "position": 7,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "Archiwizacja, migracja lub wycofanie zasobu cyfrowego może prowadzić do utraty jego dostępności albo ograniczenia dostępu do nadal potrzebnych treści i informacji. Pakiet przedstawia zasady uwzględniania dostępności przy dalszym postępowaniu z zasobem, w szczególności zachowania dostępności podczas migracji, postępowania z zasobami pozostającymi w użyciu oraz zapewnienia dostępu po ich archiwizacji lub wycofaniu. Pomaga organizacji zachować dostępność cyfrową i ciągłość dostępu do zasobów na kolejnych etapach ich cyklu życia."
   }
 }

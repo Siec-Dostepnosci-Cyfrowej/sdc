@@ -71,5 +71,4 @@ Listy należy okresowo aktualizować na podstawie wyników kontroli, zgłoszeń 
 
 ## Powiązane dokumenty
 
-- [Procedura kontroli dostępności](./procedura-wdrozeniowa-kontroli-dostepnosci-przed-publikacja.md)
-- [Zestaw list kontrolnych](./listy-kontrolne-index.md)
+- [Procedura kontroli dostępności przed publikacją](procedura-wdrozeniowa-kontroli-dostepnosci-przed-publikacja.md)

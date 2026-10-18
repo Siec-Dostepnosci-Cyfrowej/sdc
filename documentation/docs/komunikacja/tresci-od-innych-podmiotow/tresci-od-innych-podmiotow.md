@@ -1,68 +1,94 @@
 ---
-id: tresci-od-innych-podmiotow
-title: Publikowanie treści pochodzących od innych podmiotów
-description: Zalecenie określające dodatkowy sposób postępowania z treściami pochodzącymi od innych podmiotów.
+id: publikowanie-tresci-od-innych-podmiotow
+title: Publikowanie treści od innych podmiotów
+description: Zalecenie określa sposób ustalania statusu materiału, obowiązku jego publikacji, możliwości pozyskania lub przygotowania dostępnej wersji oraz przesłanek ewentualnego wyłączenia z wymagań dostępności.
 sidebar_label: Zalecenie
-sidebar_position: 1
-keywords: [dostępność cyfrowa, publikacja treści, treści zewnętrzne, BIP, informacja publiczna, wyłączenia ustawowe]
-tags: [komunikacja, dostępność cyfrowa, publikacja, administracja publiczna]
-typ: zalecenie
-wymiar: Komunikacja
+sidebar_position: 0
+keywords: [treści od innych podmiotów, dostępność cyfrowa, publikacja treści, materiały zewnętrzne, wyłączenia ustawowe]
+tags: [treści od innych podmiotów, dostępność cyfrowa, publikacja treści, materiały zewnętrzne, wyłączenia ustawowe]
 opracowanie: Bartłomiej Wilk, Stefan Wajda
 wspolpraca: Mateusz Ciborowski, Damian Żłobicki, Hanna Pasterna
 data_zgloszenia: 16 kwietnia 2026 r.
-ostatnia_aktualizacja: 16 września 2026 r.
+ostatnia_aktualizacja: 22 września 2026 r.
 wersja_robocza: true
 ---
 
-# Zalecenie: Publikowanie treści pochodzących od innych podmiotów
-
 ## 1. Cel zalecenia
 
-Celem zalecenia jest uporządkowanie sposobu postępowania z treściami przekazywanymi do publikacji przez inne podmioty, tak aby ich pochodzenie nie prowadziło do automatycznego uznawania materiału za wyłączony z wymagań dostępności cyfrowej. Zalecenie wspiera podmioty publiczne w ustalaniu obowiązku publikacji, możliwości modyfikacji materiału oraz właściwego sposobu postępowania w przypadku stwierdzenia problemów z dostępnością.
+Celem zalecenia jest uporządkowanie sposobu postępowania z treściami pochodzącymi od innych podmiotów, aby ich pochodzenie nie prowadziło do nieuzasadnionego publikowania materiałów niedostępnych cyfrowo ani automatycznego stosowania wyłączeń z wymagań dostępności. Zalecenie obejmuje ustalanie warunków wykorzystania i modyfikacji materiału, obowiązku jego publikacji oraz sposobu postępowania w przypadku problemów z dostępnością.
 
 ## 2. Zalecenie
 
-Podmioty publiczne wdrażają procedurę postępowania z treściami pochodzącymi od innych podmiotów, która pozwala ustalić warunki ich wykorzystania i modyfikacji, obowiązek publikacji oraz sposób postępowania w przypadku braku dostępności cyfrowej.
+Organizacja określa i stosuje sposób postępowania z treściami pochodzącymi od innych podmiotów, który pozwala ustalić warunki ich wykorzystania i modyfikacji, obowiązek publikacji oraz sposób postępowania w przypadku braku dostępności cyfrowej.
 
 ## 3. Rekomendacje
 
-Procedura określa dodatkowe działania wynikające z faktu, że materiał przeznaczony do publikacji został wytworzony lub przekazany przez inny podmiot.
+### 3.1. Ustalenie statusu materiału
 
-1. **Ustalenie statusu materiału.** Procedura zapewnia ustalenie przed publikacją:
-   - kto wytworzył i przekazał materiał;
-   - czy materiał został wytworzony na rzecz podmiotu publicznego;
-   - czy materiał został sfinansowany lub nabyty przez podmiot publiczny;
-   - czy podmiot publiczny jest uprawniony do jego modyfikacji;
-   - czy dostępna jest wersja źródłowa, edytowalna lub dostępna cyfrowo.
-2. **Ustalenie obowiązku publikacji.** Procedura rozdziela ustalenie obowiązku publikacji materiału od oceny obowiązku zapewnienia jego dostępności cyfrowej. Jeżeli publikacja materiału wynika z przepisów prawa albo innego wiążącego obowiązku, okoliczność ta jest uwzględniana przy wyborze sposobu dalszego postępowania z materiałem.
-3. **Pozyskanie materiału umożliwiającego dostępną publikację.** W przypadku stwierdzenia problemów z dostępnością procedura obejmuje:
-   - pozyskanie poprawionej albo dostępnej cyfrowo wersji materiału;
-   - pozyskanie wersji źródłowej lub edytowalnej, jeżeli może być potrzebna do zgodnego z prawem dostosowania materiału;
-   - uzyskanie od podmiotu przekazującego informacji lub elementów niezbędnych do zapewnienia dostępności, odpowiednich do rodzaju materiału;
-   - udokumentowanie odmowy przekazania wersji dostępnej albo braku odpowiedzi na prośbę o jej przekazanie;
-   - uzupełnienie lub dostosowanie materiału przez podmiot publiczny, jeżeli jest on uprawniony do dokonania takich zmian.
+Organizacja ustala przed udostępnieniem materiału od innego podmiotu okoliczności mające znaczenie dla sposobu dalszego postępowania.
 
-   Odmowa przekazania wersji dostępnej albo brak odpowiedzi podmiotu przekazującego nie stanowią samodzielnej podstawy zastosowania wyłączenia z wymagań dostępności cyfrowej.
-4. **Ocena możliwości modyfikacji.** Procedura umożliwia ustalenie, czy ograniczenie możliwości zmiany materiału wynika z rzeczywistych okoliczności prawnych lub faktycznych. Sam fakt, że materiał pochodzi od innego podmiotu, nie jest traktowany jako wystarczająca podstawa do uznania, że podmiot publiczny nie może go zmodyfikować albo zapewnić jego dostępności cyfrowej.
-5. **Ocena przesłanek wyłączenia.** Procedura zapewnia indywidualną ocenę przesłanek wyłączenia określonych w przepisach o dostępności cyfrowej. Pochodzenie materiału od innego podmiotu nie jest samoistną podstawą zastosowania wyłączenia. Ocena uwzględnia w szczególności sposób wytworzenia, sfinansowania lub nabycia materiału oraz uprawnienie podmiotu publicznego do dokonania modyfikacji niezbędnej do zapewnienia dostępności cyfrowej.
-6. **Postępowanie z materiałem wymagającym uzupełnienia lub poprawy.** Procedura określa dalszy sposób postępowania odpowiednio do ustalonego obowiązku publikacji, możliwości modyfikacji materiału oraz wyniku oceny przesłanek wyłączenia. Sposób postępowania obejmuje odpowiednio:
-   - przekazanie materiału do uzupełnienia lub poprawy;
-   - pozyskanie innej wersji materiału;
-   - dostosowanie materiału przez podmiot publiczny;
-   - przygotowanie dostępnego przedstawienia zawartych w nim informacji;
-   - publikację materiału w zakresie dopuszczonym przez przepisy;
-   - wstrzymanie publikacji materiału, jeżeli jego publikacja nie jest obowiązkowa i nie zostały spełnione warunki pozwalające na jego prawidłowe udostępnienie.
+Ustala w szczególności:
+
+- kto wytworzył i przekazał materiał;
+- czy materiał został wytworzony na rzecz organizacji;
+- czy został przez nią sfinansowany lub nabyty;
+- czy organizacja jest uprawniona do jego modyfikacji;
+- czy dostępna jest wersja źródłowa, edytowalna lub dostępna cyfrowo.
+
+### 3.2. Ustalenie obowiązku publikacji
+
+Organizacja ustala obowiązek publikacji materiału niezależnie od oceny obowiązku zapewnienia jego dostępności cyfrowej.
+
+Jeżeli publikacja wynika z przepisów prawa albo innego wiążącego obowiązku, organizacja uwzględnia tę okoliczność przy wyborze sposobu dalszego postępowania z materiałem.
+
+### 3.3. Pozyskanie materiału umożliwiającego dostępne udostępnienie
+
+Jeżeli przekazany materiał nie jest dostępny cyfrowo, organizacja podejmuje odpowiednie działania w celu uzyskania materiału umożliwiającego jego dostępne udostępnienie.
+
+W zależności od sytuacji:
+
+- pozyskuje poprawioną lub dostępną cyfrowo wersję;
+- pozyskuje wersję źródłową lub edytowalną potrzebną do dostosowania materiału;
+- uzyskuje informacje lub elementy niezbędne do zapewnienia dostępności;
+- dostosowuje materiał, jeżeli jest uprawniona do dokonania potrzebnych zmian.
+
+Organizacja odpowiednio dokumentuje odmowę przekazania dostępnej wersji albo brak odpowiedzi na prośbę o jej przekazanie. Sama odmowa lub brak odpowiedzi nie stanowią podstawy zastosowania wyłączenia z wymagań dostępności cyfrowej.
+
+### 3.4. Ocena możliwości modyfikacji
+
+Organizacja ustala, czy i w jakim zakresie może zmienić materiał w celu zapewnienia jego dostępności cyfrowej.
+
+Ograniczenie możliwości modyfikacji wynika z rzeczywistych okoliczności prawnych lub faktycznych. Sam fakt, że materiał został wytworzony lub przekazany przez inny podmiot, nie przesądza o braku możliwości jego modyfikacji.
+
+### 3.5. Ocena przesłanek wyłączenia
+
+Organizacja indywidualnie ocenia, czy w odniesieniu do materiału zachodzą określone w przepisach przesłanki wyłączenia z wymagań dostępności cyfrowej.
+
+Pochodzenie materiału od innego podmiotu nie stanowi samoistnej podstawy zastosowania wyłączenia. Ocena uwzględnia w szczególności sposób wytworzenia, sfinansowania lub nabycia materiału oraz uprawnienia organizacji do dokonania zmian potrzebnych do zapewnienia dostępności.
+
+### 3.6. Dalsze postępowanie z materiałem
+
+Organizacja ustala sposób dalszego postępowania odpowiednio do obowiązku publikacji, możliwości modyfikacji materiału oraz wyniku oceny przesłanek wyłączenia.
+
+Dalsze postępowanie może obejmować odpowiednio:
+
+- przekazanie materiału do uzupełnienia lub poprawy;
+- pozyskanie innej wersji materiału;
+- dostosowanie materiału przez organizację;
+- przygotowanie dostępnego przedstawienia zawartych w nim informacji;
+- publikację materiału w zakresie dopuszczonym przez przepisy;
+- wstrzymanie publikacji, jeżeli nie jest ona obowiązkowa i nie zostały spełnione warunki prawidłowego udostępnienia materiału.
 
 ## 4. Uzasadnienie
 
-Podmioty publiczne publikują treści, które nie zawsze zostały przez nie samodzielnie przygotowane. Materiały mogą pochodzić między innymi od innych instytucji publicznych, wykonawców, partnerów, organizacji społecznych lub innych podmiotów współpracujących. Mogą być przekazywane jako dokumenty, grafiki, prezentacje, multimedia lub inne elementy przeznaczone do umieszczenia na stronie internetowej albo w aplikacji mobilnej.
+Organizacje publikują treści, których nie przygotowały samodzielnie. Materiały mogą pochodzić między innymi od innych organizacji, wykonawców, partnerów lub innych podmiotów współpracujących. Mogą być przekazywane jako dokumenty, grafiki, prezentacje, multimedia lub inne treści przeznaczone do publikacji.
 
-Pochodzenie materiału od innego podmiotu może mieć znaczenie dla sposobu zapewnienia jego dostępności cyfrowej. W szczególności konieczne może być ustalenie, czy materiał został wytworzony, sfinansowany lub nabyty przez podmiot publiczny oraz czy podmiot jest uprawniony do dokonania modyfikacji niezbędnej do zapewnienia dostępności cyfrowej. Okoliczności te mają znaczenie dla oceny zastosowania wyłączenia przewidzianego w art. 3 ust. 2 pkt 5 ustawy o dostępności cyfrowej.
+Pochodzenie materiału od innego podmiotu może mieć znaczenie dla sposobu zapewnienia jego dostępności cyfrowej. W szczególności w przypadku stosowania art. 3 ust. 2 pkt 5 ustawy o dostępności cyfrowej znaczenie ma ustalenie, czy materiał został wytworzony, sfinansowany lub nabyty przez podmiot publiczny oraz czy podmiot ten jest uprawniony do dokonania modyfikacji niezbędnej do zapewnienia dostępności cyfrowej. Okoliczności te mają znaczenie dla oceny możliwości zastosowania wyłączenia określonego w tym przepisie.
 
-W praktyce samo zewnętrzne pochodzenie materiału może być błędnie traktowane jako wystarczająca podstawa do opublikowania go w przekazanej postaci albo do automatycznego zastosowania wyłączenia z wymagań dostępności cyfrowej. Może również dochodzić do sytuacji odwrotnej – rezygnacji z publikacji materiału bez wcześniejszego ustalenia, czy jego publikacja jest obowiązkowa oraz czy możliwe jest pozyskanie, przygotowanie lub udostępnienie jego dostępnej wersji.
+W praktyce samo zewnętrzne pochodzenie materiału może być błędnie traktowane jako wystarczająca podstawa do opublikowania go w przekazanej postaci albo do automatycznego zastosowania wyłączenia z wymagań dostępności cyfrowej. Może również dochodzić do sytuacji odwrotnej – rezygnacji z publikacji materiału bez wcześniejszego ustalenia, czy jego publikacja jest obowiązkowa oraz czy możliwe jest pozyskanie lub przygotowanie dostępnej wersji albo dostępne udostępnienie zawartych w nim informacji.
 
-Wdrożenie procedury pozwala każdorazowo ustalić okoliczności charakterystyczne dla materiałów pochodzących od innych podmiotów i na tej podstawie wybrać właściwy sposób dalszego postępowania. Ogranicza to ryzyko nieuzasadnionego stosowania wyłączeń, publikowania niedostępnych materiałów bez analizy oraz rezygnacji z działań, które mogłyby umożliwić dostępne udostępnienie informacji.
+Stosowanie określonego sposobu postępowania pozwala każdorazowo ustalić okoliczności mające znaczenie dla sposobu postępowania z materiałem od innego podmiotu i na tej podstawie wybrać właściwe działanie. Ogranicza to ryzyko nieuzasadnionego stosowania wyłączeń, publikowania niedostępnych materiałów bez analizy oraz rezygnacji z działań, które mogłyby umożliwić dostępne udostępnienie informacji.
+
 
 ## 5. Podstawy prawne
 
@@ -76,26 +102,22 @@ W zaleceniu uwzględniono poniżej wymienione przepisy:
 1. Dyrektywa Parlamentu Europejskiego i Rady (UE) 2016/2102 z dnia 26 października 2016 r. w sprawie dostępności stron internetowych i mobilnych aplikacji organów sektora publicznego.
 2. ETSI EN 301 549 V3.2.1:2021, *Accessibility requirements for ICT products and services*.
 
-## 7. Historia wersji
+## 7. Załączniki
+
+Materiały wdrożeniowe wspierają stosowanie zalecenia i mogą być dostosowywane do sposobu działania organizacji.
+
+1. [Procedura postępowania z materiałem pochodzącym od innego podmiotu](procedura-postepowania-z-materialem-zewnetrznym.md)
+2. [Karta oceny materiału pochodzącego od innego podmiotu](ocena-materialu-przed-publikacja.md)
+3. [Formularz przekazania materiału](formularz-przekazania-materialu.md)
+4. [Lista kontrolna materiału pochodzącego od innego podmiotu](lista-kontrolna-weryfikacji-przed-publikacja.md)
+5. [Instrukcja dla podmiotów przekazujących materiały](instrukcja-dla-podmiotow-zewnetrznych.md)
+6. [Informacja o ograniczeniach dostępności](informacja-o-ograniczeniach-dostepnosci.md)
+
+---
+
+## Historia wersji
 
 | Wersja | Data | Etap | Opis zmian |
 |---|---|---|---|
-| 0.1 | 16.04.2026 | Projekt roboczy | Opracowanie pierwszej wersji koncepcji dotyczącej postępowania z treściami przekazywanymi do publikacji przez inne podmioty. Projekt obejmował szeroki model przyjmowania, kwalifikowania, oceny i publikowania takich materiałów. |
-| 0.2 | 29.04.2026 | Projekt roboczy | Przekształcenie materiału w projekt zalecenia Sieci. Oddzielono dokument główny od materiałów wdrożeniowych i rozpoczęto porządkowanie zasad postępowania z materiałami niedostępnymi, niemodyfikowalnymi oraz podlegającymi obowiązkowej publikacji. |
-| 0.3 | 03.08.2026 | Projekt roboczy | Uproszczenie pierwotnego modelu. Zrezygnowano z części rozbudowanych konstrukcji i klasyfikacji, ograniczono liczbę materiałów pomocniczych oraz mocniej powiązano sposób postępowania z oceną obowiązku publikacji, możliwości modyfikacji materiału i przesłanek zastosowania wyłączenia ustawowego. |
-| 0.4 | 06.09.2026 | Projekt roboczy | Uporządkowanie dokumentu głównego według struktury zalecenia, rozbudowanie uzasadnienia i podstaw merytorycznych oraz dalsze ograniczenie powtarzających się elementów materiałów wdrożeniowych. |
-| 0.5 | 09.09.2026 | Aktualizacja po recenzji | Zasadnicze zawężenie przedmiotu zalecenia do dodatkowych działań wynikających z pochodzenia materiału. |
-| 0.6 | 09.09.2026 | Aktualizacja po weryfikacji | Dostosowanie struktury, języka rekomendacji, podstaw prawnych i historii wersji do zasad formowania zaleceń SDC. |
-| 0.7 | 12.09.2026 | Aktualizacja struktury | Dodanie sekcji „Cel zalecenia” na początku dokumentu i dostosowanie numeracji dalszych części. |
-| 0.8 | 16.09.2026 | Aktualizacja po dyskusji | Doprecyzowanie postępowania w przypadku odmowy przekazania wersji dostępnej lub braku odpowiedzi oraz roli wersji źródłowej i edytowalnej. |
+| 0-RC1 | 22.09.2026 | Gotowy do publikacji | Przeprowadzono normalizację dokumentu. Przeredagowano rozdział Rekomendacje. Zachowano dotychczasową sekwencję postępowania. Doprecyzowano kwestie zakresu możliwej modyfikacji. Zasadnicza koncepcja - bez zmian.|
 
-## Załączniki
-
-Materiały wdrożeniowe wspierają stosowanie zalecenia i mogą być dostosowywane do organizacji pracy podmiotu.
-
-1. [Procedura postępowania z materiałem pochodzącym od innego podmiotu](./procedura-postepowania-z-materialem-zewnetrznym.md)
-2. [Karta oceny materiału pochodzącego od innego podmiotu](./ocena-materialu-przed-publikacja.md)
-3. [Formularz przekazania materiału](./formularz-przekazania-materialu.md)
-4. [Lista kontrolna materiału pochodzącego od innego podmiotu](./lista-kontrolna-weryfikacji-przed-publikacja.md)
-5. [Instrukcja dla podmiotów przekazujących materiały](./instrukcja-dla-podmiotow-zewnetrznych.md)
-6. [Informacja o ograniczeniach dostępności](./informacja-o-ograniczeniach-dostepnosci.md)
