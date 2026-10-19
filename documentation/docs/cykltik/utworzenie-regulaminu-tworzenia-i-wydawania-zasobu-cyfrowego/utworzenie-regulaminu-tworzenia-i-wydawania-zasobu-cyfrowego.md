@@ -12,73 +12,53 @@ wersja_robocza: true
 
   ## 1. Cel zalecenia 
 
-Brak jednolitych zasad tworzenia i wydawania zasobów cyfrowych może prowadzić do rozproszenia odpowiedzialności, pomijania wymagań dostępności cyfrowej oraz niejasności dotyczących dalszego utrzymania i wycofywania zasobów.
+Celem zalecenia jest zapewnienie ciągłości realizacji obowiązków związanych z dostępnością cyfrową zasobów, niezależnie od zmian organizacyjnych, personalnych lub sposobu ich utrzymania.
 
-Celem zalecenia jest zapewnienie ciągłości odpowiedzialności organizacji za zasób cyfrowy, od zgłoszenia zapotrzebowania na jego utworzenie lub pozyskanie, przez realizację i udostępnienie, aż do archiwizacji albo wycofania.
+W zarządzaniu jednym zasobem cyfrowym mogą uczestniczyć różne osoby, komórki organizacyjne i podmioty zewnętrzne. Brak jasno określonych zasad podziału i przekazywania obowiązków może prowadzić do sytuacji, w której nie wiadomo, kto odpowiada za utrzymanie dostępności zasobu lub usunięcie stwierdzonych niezgodności.
 
   ## 2. Zalecenie 
 
-Organizacja ustanawia i stosuje regulamin tworzenia i wydawania zasobów cyfrowych, określający zasady postępowania z zasobami na wszystkich etapach ich cyklu życia.
+Zaleca się formalne określenie i stosowanie zasad odpowiedzialności za dostępność cyfrową zasobów, umożliwiających jednoznaczne wskazanie osób, komórek organizacyjnych lub podmiotów zewnętrznych realizujących poszczególne obowiązki oraz sposobu ich przekazywania w przypadku zmian organizacyjnych lub personalnych.
 
-Regulamin określa role i odpowiedzialność, sposób podejmowania decyzji oraz wymagania dotyczące dostępności cyfrowej, z uwzględnieniem rodzaju zasobu, jego przeznaczenia i znaczenia dla użytkowników.
+Preferowanym rozwiązaniem jest zebranie tych zasad w jednym wewnętrznym regulaminie. Jeżeli zostały już odpowiednio określone w obowiązujących dokumentach organizacji, nie ma potrzeby tworzenia odrębnego regulaminu.
 
  ## 3. Rekomendacje 
 
- ### 3.1. Zakres regulaminu 
+ ### 3.1. Przypisanie odpowiedzialności 
 
-Organizacja określa zakres regulaminu, uwzględniając zasoby cyfrowe, za których utworzenie, pozyskanie, udostępnianie lub utrzymanie odpowiada w całości albo w części.
+Organizacja powinna określić, kto odpowiada za realizację zadań związanych z dostępnością cyfrową poszczególnych zasobów.
 
-Regulamin obejmuje zasoby tworzone wewnętrznie oraz pozyskiwane od podmiotów zewnętrznych. Uwzględnia rozróżnienie zasobów głównych i ich elementów, zgodnie z przyjętymi zasadami inwentaryzacji.
+Przy podziale obowiązków należy uwzględnić osoby i komórki organizacyjne podejmujące decyzje dotyczące zasobu, zarządzające jego treścią oraz odpowiadające za utrzymanie techniczne.
 
- ### 3.2. Zgłoszenie zapotrzebowania i decyzja o utworzeniu zasobu 
+Jeżeli w realizacji tych zadań uczestniczą podmioty zewnętrzne, zakres ich obowiązków powinien być jednoznacznie określony w odpowiednich umowach lub innych dokumentach.
 
-Regulamin określa sposób zgłaszania zapotrzebowania na zasób cyfrowy oraz podejmowania decyzji o jego utworzeniu, pozyskaniu lub rozwoju istniejącego rozwiązania.
+Podział zadań nie zwalnia organizacji z odpowiedzialności za realizację ciążących na niej obowiązków w zakresie dostępności cyfrowej.
 
-Na tym etapie organizacja ustala cel zasobu, jego użytkowników, odpowiedzialność za realizację i późniejsze utrzymanie oraz mające zastosowanie wymagania dostępności cyfrowej.
+ ### 3.2. Zapewnienie ciągłości obowiązków
 
- ### 3.3 Tworzenie i pozyskiwanie zasobu 
+Organizacja powinna ustalić sposób przekazywania obowiązków związanych z dostępnością cyfrową w przypadku zmiany osób odpowiedzialnych, reorganizacji lub przekazania zasobu do utrzymania innemu podmiotowi.
 
-Organizacja określa zasady realizacji zasobu, w tym odpowiedzialność za przygotowanie, projektowanie, wykonanie lub zakup.
+Przekazaniu powinny towarzyszyć informacje niezbędne do dalszego zapewniania dostępności zasobu, w szczególności dotyczące:
 
-Wymagania dostępności cyfrowej powinny być uwzględniane od początku prac i przekazywane wszystkim uczestnikom procesu, odpowiednio do powierzonych im zadań.
+ - aktualnego stanu jego dostępności cyfrowej;
+ - stwierdzonych niezgodności i niezakończonych działań naprawczych;
+ - obowiązujących ustaleń i zobowiązań dotyczących dostępności.
 
- ### 3.4. Zatwierdzanie i wydawanie zasobu 
+Sposób przekazania należy udokumentować tak, aby można było ustalić, komu i kiedy powierzono dalszą realizację obowiązków.
 
-Regulamin wskazuje, kto odpowiada za weryfikację i zatwierdzenie zasobu przed jego publikacją, uruchomieniem lub przekazaniem do użytkowania.
+ ### 3.3 Formalne określenie zasad 
 
-Organizacja określa warunki wydania zasobu, uwzględniając wyniki kontroli dostępności cyfrowej oraz sposób postępowania w przypadku stwierdzenia niezgodności.
+Przyjęte zasady powinny zostać udostępnione osobom, których dotyczą, oraz aktualizowane w przypadku zmian wpływających na podział obowiązków.
 
-Zakres weryfikacji powinien odpowiadać rodzajowi zasobu i ryzyku związanemu z jego niedostępnością.
+Niezależnie od formy ich dokumentowania należy zapewnić spójność z obowiązującymi procedurami dotyczącymi dostępności cyfrowej, bez powielania ich treści.
+ 
+ ## 4. Uzasadnienie
 
- ### 3.5. Utrzymanie i rozwój zasobu 
+Zapewnienie dostępności cyfrowej wymaga nie tylko określenia ról i obowiązków, ale również zachowania ciągłości ich realizacji. Zmiany organizacyjne, personalne lub przekazanie zasobu innemu podmiotowi mogą prowadzić do utraty informacji o jego dostępności i niezakończonych działaniach naprawczych.
 
-Regulamin określa odpowiedzialność za zasób po jego wydaniu, w szczególności za aktualizację, utrzymanie dostępności cyfrowej, obsługę zgłoszeń i wprowadzanie zmian.
+Istniejące zalecenia Sieci Dostępności Cyfrowej odnoszą się do poszczególnych obszarów zarządzania zasobami. Niniejsze zalecenie koncentruje się na ciągłości realizacji obowiązków związanych z dostępnością cyfrową, szczególnie w sytuacjach zmiany osób i podmiotów uczestniczących w zarządzaniu zasobem.
 
-Zmiana osoby lub komórki odpowiedzialnej za zasób powinna wiązać się z jednoznacznym przekazaniem odpowiedzialności za jego dalsze funkcjonowanie.
-
- ### 3.6. Archiwizacja i wycofanie zasobu 
-
-Organizacja określa zasady inicjowania i zatwierdzania decyzji o migracji, archiwizacji lub wycofaniu zasobu.
-
-Regulamin powinien wskazywać odpowiedzialność za te decyzje oraz odwoływać się do właściwych procedur zapewniających zachowanie informacji, metadanych, elementów dostępności cyfrowej i możliwości dalszego dostępu, jeżeli jest wymagany.
-
- ### 3.7. Dokumentowanie i powiązanie procesów 
-
-Regulamin określa sposób dokumentowania istotnych decyzji dotyczących zasobu, pozwalający ustalić ich podstawę, datę i odpowiedzialność za wykonanie.
-
-Organizacja powinna wykorzystywać istniejące rejestry, procedury i narzędzia, w szczególności związane z inwentaryzacją, zarządzaniem zmianą, bezpieczeństwem informacji i archiwizacją.
-
-Szczegółowość regulaminu i sposób dokumentowania powinny być dostosowane do wielkości organizacji, rodzaju zasobów i związanego z nimi ryzyka. Regulamin może stanowić odrębny dokument albo część obowiązujących uregulowań wewnętrznych.
-
- ## 4. Uzasadnienie 
-
-Zasoby cyfrowe powstają i funkcjonują przy udziale różnych komórek organizacyjnych, pracowników i wykonawców zewnętrznych. Poszczególne osoby mogą odpowiadać za zgłoszenie potrzeby, przygotowanie rozwiązania, jego publikację lub techniczne utrzymanie, nie mając wpływu na pozostałe etapy.
-
-Bez wspólnych zasad trudno ustalić, kto podejmuje decyzje dotyczące zasobu i kto odpowiada za jego dostępność cyfrową. Problemy pojawiają się zwłaszcza przy przekazywaniu zasobu między komórkami, zmianach technologicznych i zakończeniu jego użytkowania.
-
-Regulamin porządkuje ten proces i pozwala zachować ciągłość odpowiedzialności od podjęcia decyzji o utworzeniu zasobu do zakończenia jego użytkowania. Łączy istniejące procedury organizacji, nie zastępując szczegółowych zasad tworzenia treści, kontroli dostępności, inwentaryzacji ani archiwizacji.
-
-Sposób wdrożenia powinien odpowiadać rzeczywistym potrzebom organizacji. W małym podmiocie kilka ról może pełnić jedna osoba, a dokumentowanie decyzji może odbywać się w ramach istniejących czynności. W większej organizacji regulamin może łączyć wiele procesów i komórek. Istotne jest, aby odpowiedzialność za zasób była określona na każdym etapie, bez tworzenia zbędnych procedur.
+Formalne ustalenie tych zasad ogranicza ryzyko przerw w realizacji obowiązków, usprawnia współpracę między komórkami organizacyjnymi i pozwala zachować odpowiedzialność za dostępność zasobu niezależnie od zachodzących zmian.
 
 ## 5. Podstawy prawne 
 
@@ -90,7 +70,7 @@ Sposób wdrożenia powinien odpowiadać rzeczywistym potrzebom organizacji. W ma
 
  - Rozporządzenie Rady Ministrów z dnia 21 maja 2024 r. w sprawie Krajowych Ram Interoperacyjności, minimalnych wymagań dla rejestrów publicznych i wymiany informacji w postaci elektronicznej oraz minimalnych wymagań dla systemów teleinformatycznych.
 
-Przepisy te nie nakładają ogólnego obowiązku posiadania odrębnego regulaminu tworzenia i wydawania zasobów cyfrowych. Zalecenie wskazuje rozwiązanie organizacyjne wspierające realizację obowiązków dotyczących dostępności cyfrowej i zarządzania zasobami.
+Wskazane przepisy nie ustanawiają ogólnego obowiązku przyjęcia odrębnego regulaminu odpowiedzialności za dostępność cyfrową zasobów. Zalecenie wskazuje rozwiązanie organizacyjne wspierające realizację obowiązków w zakresie dostępności cyfrowej.
 
   ## 6. Źródła i opracowania 
 
