@@ -9,7 +9,7 @@ tags: [cykl życia TIK,archiwizacja,zasoby cyfrowe,wycofywanie treści,migracja 
 opracowanie: Bartłomiej Wilk
 wspolpraca: Stefan Wajda
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 23 maja 2026 r.
+ostatnia_aktualizacja: 23 maja 2026 r.
 wersja_robocza: true
 ---
 

@@ -7,7 +7,7 @@ keywords: [System zapewniania dostępności cyfrowej,SZDC]
 tags: [System zapewniania dostępności cyfrowej,SZDC]
 opracowanie: Stefan Wajda
 data_zgłoszenia: 6 lipca 2026 r.
-data_aktualizacji: 6 lipca 2026 r.
+ostatnia_aktualizacja: 6 lipca 2026 r.
 ---
 
 **Projekt, wersja 0.2**

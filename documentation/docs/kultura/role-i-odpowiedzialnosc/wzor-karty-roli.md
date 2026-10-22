@@ -8,7 +8,7 @@ keywords: [wiedza, umiejętności, kompetencje, kwalifikacje, role, odpowiedzial
 tags:  [wiedza, umiejętności, kompetencje, kwalifikacje, role, odpowiedzialności, pracownicy]
 opracowanie: Stefan Wajda 
 data_zgloszenia: 17 maja 2026 r.
-data_aktualizacji:  17 maja 2026 r.
+ostatnia_aktualizacja: 17 maja 2026 r.
 wersja_robocza: true
 ---
 

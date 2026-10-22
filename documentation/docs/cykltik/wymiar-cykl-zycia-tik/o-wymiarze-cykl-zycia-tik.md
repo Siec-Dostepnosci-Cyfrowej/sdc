@@ -5,7 +5,7 @@ sidebar_label: O wymiarze Cykl życia TIK
 sidebar_position: 0
 opracowanie: Stefan Wajda
 data_zgloszenia: 28 lipca 2025 r.
-ostatnia_aktualizacja: 19 listopada 2025
+ostatnia_aktualizacja: 19 listopada 2025 r.
 wersja_robocza: true
 
 ---
