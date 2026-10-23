@@ -1,8 +1,8 @@
 {
-  "label": "Pozyskiwanie opinii",
+  "label": "Pozyskiwanie opinii użytkowników",
   "position": 1,
   "link": {
     "type": "generated-index",
-	"description": "Pozyskiwanie opinii użytkowników jest jednym z podstawowych źródeł informacji wykorzystywanych do monitorowania i doskonalenia dostępności cyfrowej. Zalecenie wraz z zestawem załączników pomaga organizacjom publicznym wdrożyć mechanizmy aktywnego zbierania informacji zwrotnej dotyczącej dostępności cyfrowej oraz wykorzystywania jej w procesach planowania, oceny i doskonalenia usług. Obejmuje organizację badań, konsultacji, ankiet oraz innych form dialogu z użytkownikami, a także zasady analizy i wykorzystania uzyskanych informacji. Dzięki temu decyzje dotyczące dostępności mogą być podejmowane z uwzględnieniem doświadczeń i oczekiwań osób korzystających z zasobów cyfrowych organizacji."
+    "description": "Doświadczenia i satysfakcja użytkowników są ważnym źródłem wiedzy o mocnych i słabych stronach dostępności. Zalecenie określa zasady systematycznego pozyskiwania i analizowania opinii użytkowników z wykorzystaniem różnych metod oraz z uwzględnieniem osób o zróżnicowanych potrzebach i sposobach korzystania z rozwiązań cyfrowych. Pomaga organizacji wykorzystywać wiedzę pochodzącą od użytkowników do rozpoznawania problemów, utrwalania dobrze ocenianych rozwiązań i doskonalenia dostępności."
   }
 }
