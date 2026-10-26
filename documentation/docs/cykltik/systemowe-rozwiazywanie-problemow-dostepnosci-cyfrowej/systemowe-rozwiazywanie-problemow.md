@@ -7,7 +7,7 @@ sidebar_position: 0
 keywords: [rozwiązanie systemowe, cykl życia TIK]
 tags: [rozwiązanie systemowe, cykl życia TIK]
 opracowanie: Cezary Tomczyk
-data_zgloszenia: 30 marca 2026
+data_zgloszenia: 30 marca 2026 r.
 ostatnia_aktualizacja: 23 czerwca 2026 r.
 wersja_robocza: true
 ---
