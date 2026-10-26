@@ -9,7 +9,7 @@ tags: [formularz oceny niezbędności,niezbędność dokumentów,dokumenty urzę
 opracowanie: Bartłomiej Wilk
 wspolpraca: Stefan Wajda
 data_zgloszenia: 7 czerwca 2026 r.
-data_aktualziacji: 7 czerwca 2026 r.
+ostatnia_aktualizacja: 7 czerwca 2026 r.
 wersja_robocza: true
 ---
 
