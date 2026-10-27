@@ -6,7 +6,7 @@ sidebar_label: Filozofia SZDC
 keywords: [System zapewniania dostępności cyfrowej]
 tags: [System zapewniania dostępności cyfrowej]  
 opracowanie: Stefan Wajda
-data_zgłoszenia: 5 lipca 2026 r.
+data_zgloszenia: 5 lipca 2026 r.
 data_aktualizacji: 5 lipca 2026 r.
 ---
 

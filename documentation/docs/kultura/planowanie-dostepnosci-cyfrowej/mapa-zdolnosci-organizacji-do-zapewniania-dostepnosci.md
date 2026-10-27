@@ -7,7 +7,7 @@ sidebar_position: 1
 keywords: [zdolności organizacyjne, dostępność cyfrowa, planowanie]
 tags: [zdolności organizacyjne, planowanie, dostępność cyfrowa]
 opracowanie: Stefan Wajda
-data_zgloszenia: 20 września 2026
+data_zgloszenia: 20 września 2026 r.
 ostatnia_aktualizacja: 20 września 2026
 wersja_robocza: true
 ---

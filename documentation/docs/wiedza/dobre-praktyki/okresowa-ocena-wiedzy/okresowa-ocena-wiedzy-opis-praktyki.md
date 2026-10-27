@@ -7,7 +7,7 @@ description: Ocena stanu i aktualizacja podstawowej wiedzy pracowników o dostę
 keywords: [dobra praktyka,ocena wiedzy,wiedza,pracownicy]
 tags: [dobra praktyka,ocena wiedzy,wiedza,pracownicy]
 opracowanie: Stefan Wajda 
-data_zgloszenia: 12 czerwca 2025
+data_zgloszenia: 12 czerwca 2025 r.
 ostatnia_aktualizacja:  20 września 2025
 wersja_robocza: true
 ---

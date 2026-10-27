@@ -1,0 +1,113 @@
+---
+id: dostepnosc-komunikacji-wykorzystujacej-ai
+title: Zapewnianie dostępności cyfrowej w komunikacji wykorzystującej AI
+description: Zalecenie określające sposób uwzględniania dostępności cyfrowej podczas wykorzystywania AI do tworzenia i przekazywania treści oraz w interfejsach komunikacyjnych.
+sidebar_label: Zalecenie
+sidebar_position: 0
+tags: [sztuczna inteligencja, AI, komunikacja cyfrowa, kontrola dostępności]
+typ: zalecenie
+wymiar: Komunikacja
+opracowanie: Bartłomiej Wilk
+wspolpraca: Damian Żłobicki
+data_zgloszenia: 21 września 2026 r.
+ostatnia_aktualizacja: 12 października 2026 r.
+wersja_robocza: true
+---
+
+## 1. Cel zalecenia
+
+Zapewnienie dostępności cyfrowej treści i interfejsów komunikacyjnych wykorzystujących AI poprzez uwzględnianie wymagań dostępności na etapie ich tworzenia, przetwarzania, prezentowania i udostępniania.
+
+## 2. Zalecenie
+
+Organizacja uwzględnia wykorzystanie AI w działaniach związanych z zapewnianiem dostępności cyfrowej. Weryfikuje wpływ AI na dostępność treści i interfejsów użytkownika, a w przypadku rozwiązań generujących treści lub komunikujących się z użytkownikiem przeprowadza testy przed wdrożeniem oraz monitoruje ich funkcjonowanie po wdrożeniu.
+
+## 3. Rekomendacje
+
+### 3.1. Uwzględnianie AI w zapewnianiu dostępności cyfrowej
+
+Organizacja identyfikuje zastosowania AI wpływające na komunikację cyfrową, w tym tworzenie, przetwarzanie i udostępnianie treści oraz działanie interfejsów użytkownika.
+
+Użycie AI nie tworzy odrębnego standardu dostępności. Treści i interfejsy wykorzystujące AI podlegają tym samym wymaganiom dostępności cyfrowej co inne treści i interfejsy udostępniane w ramach danej strony internetowej, aplikacji, produktu lub usługi.
+
+Organizacja nie uznaje rezultatu za dostępny wyłącznie dlatego, że został wygenerowany przez określone narzędzie, model lub system deklarujący zgodność albo uzyskał pozytywny wynik kontroli automatycznej. Zakres sprawdzenia dostosowuje do rodzaju rezultatu, sposobu jego udostępnienia i ryzyka wystąpienia barier dostępności.
+
+### 3.2. Kontrola treści przed udostępnieniem
+
+Organizacja obejmuje treści przygotowane lub przekształcone z użyciem AI istniejącymi procesami kontroli dostępności treści cyfrowych przed ich udostępnieniem odbiorcom.
+
+Kontrola uwzględnia specyfikę AI, w szczególności ryzyko, że treść technicznie albo formalnie poprawna zawiera nieadekwatny opis alternatywny, błędne napisy lub transkrypcję, utraciła znaczenie, pomija ważne informacje, nieprawidłowo upraszcza treść albo zmienia strukturę lub kontekst informacji.
+
+### 3.3. Testowanie rozwiązań generujących treści podczas interakcji
+
+Przed wdrożeniem rozwiązania generującego treści podczas interakcji z użytkownikiem organizacja testuje jego działanie w komunikacji z użytkownikiem oraz elementy pozostające pod jej kontrolą. Testowanie obejmuje odpowiednio model lub mechanizm generowania odpowiedzi, konfigurację, instrukcje systemowe, ograniczenia działania, mechanizmy ograniczające zakres lub formę odpowiedzi, sposób prezentowania treści i reprezentatywne scenariusze użycia.
+
+Organizacja może ograniczać zachowanie rozwiązania przez konfigurację, instrukcje, zakres wiedzy, reguły odpowiedzi lub inne mechanizmy pozostające pod jej kontrolą. Takie ograniczenia są częścią oceny przed wdrożeniem, jeżeli wpływają na treść, formę albo dostępność komunikacji z użytkownikiem.
+
+Testowanie obejmuje również dostępność interfejsu, w tym współpracę z technologiami wspomagającymi, zachowanie interfejsu, obsługę z klawiatury, zarządzanie fokusem, komunikaty o stanie, kolejność odczytu, dostęp do historii rozmowy i aktualnej odpowiedzi oraz dynamiczne zmiany treści bez przeładowania strony.
+
+### 3.4. Dostępność informacji o wykorzystaniu AI
+
+Jeżeli informacja o wykorzystaniu AI jest przekazywana na podstawie przepisów albo dobrowolnie, organizacja udostępnia ją w sposób dostępny zgodnie z wymaganiami właściwymi dla kanału, strony internetowej, aplikacji, produktu albo usługi.
+
+Informacja jest przekazywana w kontekście korzystania z rozwiązania wykorzystującego AI i w formie dostępnej dla użytkowników tego rozwiązania.
+
+### 3.5. Role i odpowiedzialność
+
+Organizacja określa odpowiedzialność za warunki użycia AI w komunikacji, zakres testów przed wdrożeniem, decyzję o dopuszczeniu rozwiązania do użycia, sprawdzanie rezultatów po wdrożeniu oraz reagowanie na wykryte bariery.
+
+Jeżeli bariera wymaga zmian poza zakresem bieżącej obsługi, organizacja określa sposób eskalacji problemu do administratora, właściciela rozwiązania albo dostawcy.
+
+### 3.6. Kwalifikacje i wsparcie
+
+Organizacja zapewnia osobom wykorzystującym AI w komunikacji kwalifikacje i wsparcie potrzebne do oceny rezultatów AI, rozpoznawania ograniczeń narzędzia oraz rozumienia, że wynik poprawny technicznie nie musi być dostępny.
+
+Osoby te rozpoznają sytuacje wymagające dodatkowej kontroli lub wsparcia eksperckiego, zwłaszcza gdy rezultat AI zmienia znaczenie, strukturę, kontekst albo kompletność informacji.
+
+### 3.7. Obserwowanie działania i doskonalenie
+
+Po wdrożeniu organizacja obserwuje dostępność komunikacji wykorzystującej AI, sprawdza próbki rezultatów powstających podczas rzeczywistych interakcji oraz analizuje zgłoszenia użytkowników, regresje, powtarzające się scenariusze problemów i sytuacje, w których rozwiązanie zmienia zakres, formę lub znaczenie informacji przekazywanej użytkownikowi. Informacje te wykorzystuje do doskonalenia sposobu użycia AI.
+
+Organizacja ponawia testy rozwiązania po zmianach modelu, konfiguracji, interfejsu albo dostawcy, jeżeli zmiany mogą wpływać na treść, sposób prezentacji lub dostępność interakcji.
+
+Jeżeli narzędzie systematycznie generuje tę samą barierę, organizacja usuwa przyczynę w konfiguracji, sposobie użycia, szablonie albo rozwiązaniu technicznym, zamiast ograniczać się do poprawiania kolejnych pojedynczych rezultatów.
+
+## 4. Uzasadnienie
+
+Użycie AI w komunikacji nie zmienia wymagań dostępności właściwych dla treści, interfejsu, produktu albo usługi. Rezultat działania AI staje się częścią komunikacji cyfrowej organizacji i podlega wymaganiom właściwym dla sposobu jego udostępnienia.
+
+AI może generować błędy trudne do wykrycia automatycznie. Materiał może mieć poprawną strukturę techniczną, a jednocześnie zawierać nieadekwatny opis alternatywny, błędne napisy, niepełną transkrypcję, niewłaściwe uproszczenie, utratę znaczenia albo zmianę kontekstu informacji.
+
+Treści przygotowane przed udostępnieniem odbiorcom mogą zostać wcześniej sprawdzone. Właściwy jest dla nich istniejący proces kontroli dostępności treści cyfrowych przed udostępnieniem, uzupełniony o ocenę ryzyk charakterystycznych dla AI.
+
+Rozwiązania generujące treści podczas interakcji wymagają innego sposobu postępowania. Przed wdrożeniem organizacja testuje rozwiązanie, jego konfigurację, ograniczenia, reprezentatywne scenariusze działania oraz dostępność interfejsu. Po wdrożeniu sprawdza konkretne rezultaty powstające podczas rzeczywistych interakcji i reaguje na wykryte bariery.
+
+Czatbot, asystent lub inny interfejs komunikacyjny osadzony na stronie internetowej, w aplikacji albo w usłudze jest częścią tego rozwiązania. Bariery w odpowiedziach, historii rozmowy, polach wprowadzania danych, komunikatach o stanie, obsłudze z klawiatury lub zarządzaniu fokusem są barierami całej usługi.
+
+Powtarzalne problemy wskazują na potrzebę usunięcia przyczyny systemowej. Jeżeli przepisy wymagają przekazania informacji o użyciu AI, także ta informacja musi być udostępniona w sposób dostępny.
+
+## 5. Podstawy prawne
+
+W zaleceniu uwzględniono poniżej wymienione przepisy:
+
+1. Art. 5 ust. 1-3 ustawy z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych, z późniejszymi zmianami (Dz. U. z 2023 r. poz. 1440).
+2. Art. 50 ust. 1-5 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2024/1689 z dnia 13 czerwca 2024 r. w sprawie ustanowienia zharmonizowanych przepisów dotyczących sztucznej inteligencji, z późniejszymi zmianami.
+
+## 6. Źródła i opracowania
+
+1. [Rozporządzenie (UE) 2024/1689 - tekst skonsolidowany z 27 lipca 2026 r.](https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX:02024R1689-20260727), dostęp: 1 października 2026 r.
+2. [Komisja Europejska, *Guidelines on the implementation of the transparency obligations for certain AI systems under Article 50 of the AI Act*](https://digital-strategy.ec.europa.eu/en/library/guidelines-transparency-obligations-providers-and-deployers-ai-systems), dostęp: 1 października 2026 r.
+3. [Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych - tekst jednolity](https://eli.gov.pl/api/acts/DU/2023/1440/text.html), dostęp: 1 października 2026 r.
+4. PN-ETSI EN 301 549 V3.2.1:2021, *Wymagania dotyczące dostępności produktów i usług ICT*.
+5. [ETSI EN 301 549 V4.1.1:2026, *Accessibility requirements for ICT products and services*](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/04.01.01_60/en_301549v040101p.pdf), dostęp: 1 października 2026 r.
+
+## 7. Powiązania z innymi dokumentami Sieci
+
+1. Standard tworzenia treści cyfrowych
+2. Zarządzanie standardami tworzenia i publikacji treści cyfrowych
+3. Kontrola dostępności treści cyfrowych przed publikacją
+4. Kompetencje w zakresie dostępnej komunikacji cyfrowej i publikacji treści
+
+## 8. Załączniki
+
+Na tym etapie zalecenie nie zawiera załączników.

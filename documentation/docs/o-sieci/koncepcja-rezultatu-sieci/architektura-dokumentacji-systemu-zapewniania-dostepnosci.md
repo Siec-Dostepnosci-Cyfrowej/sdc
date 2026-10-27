@@ -6,7 +6,7 @@ sidebar_label: Architektura dokumentacji
 keywords: [System zapewniania dostępności cyfrowej,architektura SZDC]
 tags: [System zapewniania dostępności cyfrowej,architektura SZDC]
 opracowanie: Stefan Wajda
-data_zgłoszenia: 5 lipca 2026 r.
+data_zgloszenia: 5 lipca 2026 r.
 data_aktualizacji: 5 lipca 2026 r.
 ---
 

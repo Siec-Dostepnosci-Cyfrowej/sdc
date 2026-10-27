@@ -7,7 +7,7 @@ sidebar_position: 3
 keywords: [rozwiązanie systemowe, cykl życia TIK]
 tags: [rozwiązanie systemowe, cykl życia TIK]
 opracowanie: Stefan Wajda
-data_zgloszenia: 30 marca 2026
+data_zgloszenia: 30 marca 2026 r.
 data_aktualizacji:  30 marca 2026
 wersja_robocza: true
 ---

@@ -6,7 +6,7 @@ sidebar_label: Architektura środków wspierających
 keywords: [System zapewniania dostępności cyfrowej, architektura środków wspierających]
 tags: [System zapewniania dostępności cyfrowej, architektura środków wspierających]  
 opracowanie: Stefan Wajda
-data_zgłoszenia: 5 lipca 2026 r.
+data_zgloszenia: 5 lipca 2026 r.
 data_aktualizacji: 5 lipca 2026 r.
 ---
 

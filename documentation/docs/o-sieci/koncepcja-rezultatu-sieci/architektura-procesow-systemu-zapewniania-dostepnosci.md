@@ -6,7 +6,7 @@ sidebar_label: Architektura procesów
 keywords: [System zapewniania dostępności cyfrowej,SZDC,architektura procesów]
 tags: [System zapewniania dostępności cyfrowej,SZDC,architektura procesów] 
 opracowanie: Stefan Wajda
-data_zgłoszenia: 6 lipca 2026 r.
+data_zgloszenia: 6 lipca 2026 r.
 data_aktualizacji: 6 lipca 2026 r.
 ---
 

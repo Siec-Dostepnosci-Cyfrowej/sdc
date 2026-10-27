@@ -6,7 +6,7 @@ sidebar_label: Podstawy SZDC
 keywords: [System zapewniania dostępności cyfrowej,SZDC]
 tags: [System zapewniania dostępności cyfrowej,SZDC]
 opracowanie: Stefan Wajda
-data_zgłoszenia: 6 lipca 2026 r.
+data_zgloszenia: 6 lipca 2026 r.
 data_aktualizacji: 6 lipca 2026 r.
 ---
 
