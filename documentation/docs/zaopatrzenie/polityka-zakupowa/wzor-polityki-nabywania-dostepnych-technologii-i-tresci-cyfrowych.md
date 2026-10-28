@@ -4,10 +4,9 @@ title: Wzór polityki nabywania dostępnych technologii i treści cyfrowych
 sidebar_label: Wzór polityki zakupowej
 sidebar_position: 2
 description: Przykładowa polityka określająca zasady uwzględniania wymagań dostępności cyfrowej podczas nabywania technologii, produktów, usług i treści cyfrowych.
-keywords: [polityka dostępności,zamówienia publiczne,zaopatrzenie]
 tags: [polityka dostępności,zamówienia publiczne,zaopatrzenie]
 data_zgloszenia: 14 lipca 2025 r.
-ostatnia_aktualizacja: 12 czerwca 2026,
+ostatnia_aktualizacja: 28 października 2026 r.
 opracowanie: [Anna Czekalska, Stefan Wajda]
 wspolpraca: [Jadwiga Kost, Joanna Nietupska]
 wersja_robocza: true
@@ -72,11 +71,11 @@ Wymagania dostępności są uwzględniane na wszystkich etapach procesu zakupowe
 
 Organizacja stosuje normę PN-ETSI EN 301 549 jako podstawowy wzorzec określania wymagań dostępności dla technologii, produktów, usług i treści cyfrowych.
 
-Jeżeli dla danego rodzaju rozwiązania nie istnieją odpowiednie normy lub standardy techniczne, organizacja wykorzystuje funkcjonalne kryteria efektywności określone w normie PN-ETSI EN 301 549 jako podstawę definiowania wymagań dostępności.
+W przypadkach, w których brak szczegółowych wymagań technicznych odpowiednich dla danego rozwiązania, organizacja wykorzystuje funkcjonalne kryteria efektywności określone w PN-ETSI EN 301 549 do rozpoznawania potrzeb użytkowników i formułowania wymagań dostępności.
 
 ### 3.4. Proporcjonalność wymagań
 
-Zakres i sposób weryfikacji wymagań dostępności powinny być dostosowane do charakteru, skali i ryzyka związanego z nabywanym rozwiązaniem.
+Organizacja określa wymagania dostępności odpowiednio do przedmiotu zamówienia, a zakres i sposób weryfikacji ich spełnienia dostosowuje do charakteru, znaczenia i ryzyka związanego z nabywanym rozwiązaniem.
 
 ---
 
@@ -84,42 +83,50 @@ Zakres i sposób weryfikacji wymagań dostępności powinny być dostosowane do 
 
 ### Kierownictwo organizacji
 
-- ustanawia i aktualizuje politykę,
-- zapewnia warunki umożliwiające jej stosowanie,
-- monitoruje skuteczność jej realizacji.
-
-### Koordynator dostępności
-
-- wspiera wdrażanie polityki,
-- doradza w zakresie wymagań dostępności,
-- uczestniczy w doskonaleniu zasad i procedur.
+- ustanawia i aktualizuje politykę;
+- zapewnia warunki organizacyjne i zasoby potrzebne do jej stosowania;
+- nadzoruje stosowanie polityki i ocenia skuteczność przyjętych zasad.
 
 ### Osoby odpowiedzialne za zakupy
 
-- uwzględniają wymagania dostępności w prowadzonych postępowaniach,
-- dokumentują sposób realizacji wymagań,
-- współpracują z osobami odpowiedzialnymi za dostępność.
+- zapewniają uwzględnianie wymagań dostępności na właściwych etapach prowadzonych postępowań;
+- współpracują z właścicielami nabywanych rozwiązań i osobami zapewniającymi wsparcie specjalistyczne;
+- dokumentują realizację wymagań zgodnie z przyjętymi procedurami.
 
 ### Właściciele nabywanych rozwiązań
 
-- określają potrzeby i wymagania funkcjonalne,
-- uczestniczą w ocenie spełnienia wymagań dostępności,
-- odpowiadają za wykorzystanie i utrzymanie rozwiązań zgodnie z wymaganiami organizacji.
+- określają potrzeby użytkowników oraz wymagania dotyczące nabywanych rozwiązań;
+- uczestniczą w ocenie ofert, weryfikacji realizacji zamówienia i podejmowaniu decyzji o odbiorze;
+- odpowiadają, w zakresie swoich kompetencji, za utrzymywanie dostępności podczas użytkowania i rozwoju rozwiązań.
 
+
+### Osoba koordynująca zapewnianie dostępności cyfrowej
+- uczestniczy w opracowywaniu i doskonaleniu polityki;
+- wspiera uczestników procesów zakupowych w korzystaniu z odpowiednich kompetencji specjalistycznych;
+- uczestniczy w ocenie skuteczności stosowania polityki.
+
+W organizacjach wielojednostkowych wspólne zasady zakupowe obowiązują jednostki w zakresie wynikającym ze struktury organizacyjnej i kompetencji organów zarządzających. Jednostki mogą uzupełniać te zasady rozwiązaniami odpowiadającymi specyfice swoich zadań, bez obniżania przyjętego poziomu wymagań dostępności.
 ---
 
 ## 5. Wymagania wobec dostawców
 
-Organizacja oczekuje od dostawców i wykonawców:
+Organizacja określa w dokumentacji zamówień wymagania dostępności odpowiednie do ich przedmiotu oraz informacje i dowody, na podstawie których będzie oceniane ich spełnienie.
 
-- uwzględniania wymagań dostępności podczas projektowania, rozwijania i utrzymania oferowanych rozwiązań,
-- przedstawiania informacji o stopniu spełnienia wymagań dostępności,
-- współpracy podczas weryfikacji spełnienia wymagań,
-- usuwania stwierdzonych niezgodności zgodnie z warunkami umowy.
+W umowach określa zobowiązania wykonawców dotyczące zapewniania dostępności, dokumentowania zgodności, współpracy podczas weryfikacji oraz usuwania stwierdzonych niezgodności. Zakres tych zobowiązań obejmuje odpowiednio realizację zamówienia oraz przewidziane umową utrzymanie i rozwój rozwiązania.
 
 ---
 
-## 6. Monitorowanie i doskonalenie
+## 6. Postępowanie z niezgodnościami i odstępstwami
+
+Organizacja określa sposób postępowania w przypadku stwierdzenia niespełnienia wymagań dostępności na poszczególnych etapach procesu zakupowego.
+
+Decyzje dotyczące dopuszczenia odstępstw od wymagań dostępności są podejmowane wyłącznie w przypadkach prawnie i merytorycznie uzasadnionych, przez osoby posiadające odpowiednie uprawnienia. Organizacja dokumentuje podstawy decyzji, zakres odstępstwa, jego skutki dla użytkowników oraz przyjęty sposób dalszego postępowania.
+
+Stwierdzenie niezgodności nie oznacza automatycznie dopuszczalności odstępstwa od obowiązujących wymagań.
+
+---
+
+## 7. Monitorowanie i doskonalenie
 
 Organizacja okresowo ocenia skuteczność stosowania niniejszej polityki.
 
@@ -136,13 +143,15 @@ Wnioski z oceny są wykorzystywane do aktualizacji polityki, procedur, wzorów d
 
 ---
 
-## 7. Publikacja polityki
+## 8. Publikacja polityki
 
-Organizacja publikuje niniejszą politykę lub informację o przyjętych zasadach nabywania dostępnych technologii i treści cyfrowych w sposób umożliwiający zapoznanie się z nią pracownikom, dostawcom oraz innym zainteresowanym podmiotom.
+Organizacja udostępnia przyjęte zasady pracownikom uczestniczącym w procesach zakupowych oraz publikuje politykę lub informację o jej zasadach w sposób dostępny dla potencjalnych dostawców i wykonawców.
+
+Wymagania i warunki określane w dokumentacji poszczególnych zamówień pozostają spójne z przyjętą polityką.
 
 ---
 
-## 8. Postanowienia końcowe
+## 9. Postanowienia końcowe
 
 Polityka wchodzi w życie z dniem ............
 

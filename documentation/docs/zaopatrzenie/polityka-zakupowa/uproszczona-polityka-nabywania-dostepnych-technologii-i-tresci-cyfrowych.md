@@ -4,10 +4,9 @@ title: Uproszczona polityka nabywania dostępnych technologii i treści cyfrowyc
 sidebar_label: Uproszczony wzór
 sidebar_position: 3
 description: Uproszczony wzór polityki wspierającej małe organizacje w uwzględnianiu wymagań dostępności cyfrowej podczas nabywania technologii, produktów, usług i treści cyfrowych.
-keywords: [polityka dostępności,zamówienia publiczne,zaopatrzenie]
 tags: [polityka dostępności,zamówienia publiczne,zaopatrzenie]
 data_zgloszenia: 14 lipca 2025 r.
-ostatnia_aktualizacja: 12 czerwca 2026,
+ostatnia_aktualizacja: 28 października 2026 r.
 opracowanie: [Anna Czekalska, Stefan Wajda]
 wspolpraca: [Jadwiga Kost, Joanna Nietupska]
 wersja_robocza: true
@@ -16,7 +15,7 @@ wersja_robocza: true
 
 ## 1. Cel polityki
 
-Celem polityki jest zapewnienie, aby technologie, produkty, usługi i treści cyfrowe nabywane przez organizację były dostępne dla możliwie najszerszego grona użytkowników, w tym osób z niepełnosprawnościami i osób ze szczególnymi potrzebami.
+Celem polityki jest zapewnienie, że organizacja uwzględnia wymagania dostępności cyfrowej podczas nabywania technologii, produktów, usług i treści cyfrowych, tak aby nabywane rozwiązania odpowiadały potrzebom użytkowników, w tym osób z niepełnosprawnościami i osób ze szczególnymi potrzebami.
 
 ## 2. Zakres stosowania
 
@@ -37,23 +36,14 @@ Polityka obejmuje rozwiązania przeznaczone zarówno dla użytkowników usług o
 
 ## 3. Zasady
 
-Organizacja:
+1. Organizacja uwzględnia wymagania dostępności cyfrowej podczas przygotowania, realizacji i odbioru zakupów oraz w przewidzianym zakresie podczas utrzymania i rozwoju nabytych rozwiązań.
+2. Stosuje normę PN-ETSI EN 301 549 jako podstawowy wzorzec określania wymagań dostępności, dobierając odpowiednie wymagania do przedmiotu zakupu.
+3. W przypadkach braku odpowiednich szczegółowych wymagań technicznych wykorzystuje funkcjonalne kryteria efektywności określone w PN-ETSI EN 301 549.
+4. Określa wymagania dostępności oraz sposób wykazania ich spełnienia przed dokonaniem zakupu, odpowiednio do charakteru i znaczenia nabywanego rozwiązania.
+5. Weryfikuje spełnienie wymagań dostępności na podstawie informacji i dowodów przedstawionych przez dostawcę oraz, odpowiednio do ryzyka, sprawdzenia nabywanego rozwiązania.
+6. W umowach uwzględnia zobowiązania dostawców dotyczące dostępności, w tym usuwania stwierdzonych niezgodności.
+7. Dokumentuje stwierdzone niezgodności oraz decyzje dotyczące dalszego postępowania. Odstępstwa od wymagań dopuszcza wyłącznie w przypadkach prawnie i merytorycznie uzasadnionych.
 
-1. Uwzględnia wymagania dostępności cyfrowej podczas planowania i realizacji zakupów technologii, produktów, usług i treści cyfrowych.
-
-2. Stosuje normę PN-ETSI EN 301 549 jako podstawowy wzorzec określania wymagań dostępności.
-
-3. W przypadku braku odpowiednich norm lub standardów wykorzystuje funkcjonalne kryteria efektywności określone w PN-ETSI EN 301 549.
-
-4. Uwzględnia wymagania dostępności podczas:
-
-   - określania potrzeb,
-   - przygotowywania wymagań,
-   - wyboru dostawców,
-   - odbioru produktów i usług,
-   - utrzymania i rozwoju zakupionych rozwiązań.
-
-5. Dąży do nabywania rozwiązań spełniających wymagania dostępności oraz ogranicza zakup rozwiązań powodujących powstawanie barier dla użytkowników i pracowników.
 
 ## 4. Odpowiedzialność
 
@@ -63,17 +53,19 @@ Kierownik organizacji:
 - zapewnia warunki umożliwiające jej stosowanie,
 - nadzoruje jej realizację.
 
-Osoby realizujące zakupy są odpowiedzialne za uwzględnianie wymagań dostępności podczas przygotowania i realizacji zakupów.
+Osoby realizujące zakupy odpowiadają za uwzględnianie wymagań dostępności w prowadzonych postępowaniach.
 
-Koordynator dostępności lub osoba wyznaczona do realizacji zadań związanych z dostępnością wspiera pracowników w stosowaniu polityki.
+Osoby odpowiedzialne za nabywane rozwiązania określają potrzeby i wymagania oraz uczestniczą w ocenie ich spełnienia i podejmowaniu decyzji o odbiorze.
+
+Osoba koordynująca zapewnianie dostępności cyfrowej lub inna wyznaczona osoba wspiera stosowanie polityki i korzystanie z odpowiednich kompetencji specjalistycznych.
 
 ## 5. Komunikowanie zasad
 
-Organizacja udostępnia informacje o przyjętych zasadach pracownikom oraz, w miarę możliwości, dostawcom i wykonawcom.
+Organizacja udostępnia przyjęte zasady pracownikom uczestniczącym w zakupach oraz przekazuje odpowiednie informacje dostawcom i wykonawcom. Wymagania dotyczące konkretnego zakupu określa w jego dokumentacji.
 
 ## 6. Doskonalenie
 
-Organizacja okresowo analizuje doświadczenia związane z zakupami technologii, produktów, usług i treści cyfrowych oraz wykorzystuje je do doskonalenia sposobu uwzględniania dostępności.
+Organizacja analizuje doświadczenia związane z zakupami, w szczególności stwierdzone niezgodności, wyniki odbiorów, zgłoszenia użytkowników oraz problemy ujawnione podczas korzystania z nabytych rozwiązań. Wnioski wykorzystuje do doskonalenia zasad i praktyk zakupowych.
 
 ## 7. Postanowienia końcowe
 
