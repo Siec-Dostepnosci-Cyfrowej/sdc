@@ -127,11 +127,10 @@ Serwis to przede wszystkim treść — 99% zmian to pliki Markdown w `documentat
   description: Zwięzłe opis treści i celu
   sidebar_label: Etykieta w sidebarze
   sidebar_position: 3
-  keywords: [słowo kluczowe 1, słowo kluczowe 2]
   opracowanie: Imię i Nazwisko
   wspolpraca: Imię i Nazwisko        # opcjonalnie
-  data_zgloszenia: 19 września 2025 r.
-  ostatnia_aktualizacja: 19 września 2025 r.
+  data_zgloszenia: 19 września 2026 r.
+  ostatnia_aktualizacja: 19 września 2026 r.
   wersja_robocza: true
   ---
   ```
