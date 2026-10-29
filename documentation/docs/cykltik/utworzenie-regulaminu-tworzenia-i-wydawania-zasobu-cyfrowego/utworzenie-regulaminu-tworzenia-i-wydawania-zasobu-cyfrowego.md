@@ -1,8 +1,8 @@
 ---
 id: utworzenie-regulaminu-tworzenia-i-wydawania-zasobu-cyfrowego
-title: Zalecenie nakazujące utworzenie regulaminu tworzenia i wydawania zasobu cyfrowego
-sidebar_label: Projekt zalecenia
-sidebar_position: 0
+title: Utworzenie regulaminu tworzenia i wydawania zasobu cyfrowego
+sidebar_label: Zaleceni
+sidebar_position: 20
 keywords: [dostępność cyfrowa, zasoby cyfrowe, regulamin, cykl życia TIK, odpowiedzialność, tworzenie i wydawanie zasobów]
 tags: [dostępność cyfrowa, zasoby cyfrowe, regulamin, cykl życia TIK, odpowiedzialność, tworzenie i wydawanie zasobów]
 opracowanie: Angelika Sosnowska
