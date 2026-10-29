@@ -44,6 +44,7 @@ export default function DocItemContent({children}: Props): ReactNode {
   
     };
     const wersja_roboczaBanner = wersja_robocza === true;
+    const maDateZgloszenia = typeof data_zgloszenia === 'string' && data_zgloszenia !== '';
   return (
       <div className={clsx(ThemeClassNames.docs.docMarkdown, 'markdown')}>
           {wersja_roboczaBanner && (
@@ -74,10 +75,10 @@ export default function DocItemContent({children}: Props): ReactNode {
            {(data_zgloszenia || ostatnia_aktualizacja) && (                 
               <div className="datyPublikacji">
                   {/* Always show 'data_zgloszenia' if it exists */}
-                  {data_zgloszenia && <>Data zgłoszenia: {data_zgloszenia}</>}
+                  {maDateZgloszenia && <>Data zgłoszenia: {data_zgloszenia}</>}
 
                   {/* Optionally show 'ostatnia_aktualizacja' */}
-                  {ostatnia_aktualizacja && <>, ostatnia aktualizacja: {ostatnia_aktualizacja}</>}
+                  {ostatnia_aktualizacja && <>{maDateZgloszenia ? ', ostatnia aktualizacja' : 'Ostatnia aktualizacja'}: {ostatnia_aktualizacja}</>}
               </div>
           )}
 

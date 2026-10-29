@@ -3,6 +3,8 @@ id: o-projekcie-sdc
 title: O projekcie Sieć dostępności cyfrowej
 sidebar_label: O projekcie SDC
 sidebar_position: 1 
+data_zgloszenia: 15 października 2025 r.
+ostatnia_aktualizacja: 15 października 2025 r.
 ---
 
 # O projekcie Sieć dostępności cyfrowej

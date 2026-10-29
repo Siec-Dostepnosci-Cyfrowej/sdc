@@ -7,6 +7,7 @@ sidebar_position: 2
 keywords: [dostępność cyfrowa, sztuczna inteligencja, AI, klasyfikacja zastosowań, poziom kontroli, nadzór, weryfikacja]
 tags: [dostępność cyfrowa, sztuczna inteligencja, klasyfikacja zastosowań, poziom kontroli]
 opracowanie: Maciej Budzisz, Stefan Wajda
+ostatnia_aktualizacja: 15 października 2026 r.
 wersja_robocza: true
 ---
 

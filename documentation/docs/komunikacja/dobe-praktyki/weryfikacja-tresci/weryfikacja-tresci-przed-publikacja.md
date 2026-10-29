@@ -7,7 +7,7 @@ keywords: [weryfikacja treści]
 tags: [weryfikacja treści]
 opracowanie: Aleksandra Cybulska
 data_zgloszenia: 14 listopada 2025 r.
-data_aktualizacji:  18 listopada 2025 r.
+ostatnia_aktualizacja: 18 listopada 2025 r.
 wersja_robocza: true
 ---
 

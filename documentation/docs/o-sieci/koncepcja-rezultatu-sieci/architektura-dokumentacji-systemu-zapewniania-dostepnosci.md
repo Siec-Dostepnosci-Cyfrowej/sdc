@@ -7,7 +7,7 @@ keywords: [System zapewniania dostępności cyfrowej,architektura SZDC]
 tags: [System zapewniania dostępności cyfrowej,architektura SZDC]
 opracowanie: Stefan Wajda
 data_zgloszenia: 5 lipca 2026 r.
-data_aktualizacji: 5 lipca 2026 r.
+ostatnia_aktualizacja: 5 lipca 2026 r.
 ---
 
 **Projekt, wersja 0.3**

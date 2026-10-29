@@ -8,7 +8,7 @@ keywords: [wiedza i umiejętności, repozytorium wiedzy]
 tagss: [wiedza i umiejętności, repozytorium wiedzy]
 opracowanie: Scalona propozycja 
 data_zgloszenia: 22 listopada 2025 r.
-data_aktualizacji:  2 października 2026 r.
+ostatnia_aktualizacja: 2 października 2026 r.
 wersja_robocza: true
 ---
 
