@@ -8,12 +8,12 @@ keywords: [kultura organizacyjna, zarządzanie, koordynator ds. dostępności cy
 tags: [kultura organizacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępności cyfrowej, koordynacja dostępnością cyfrową]
 opracowanie: Stefan Wajda
 data_zgloszenia: 21 grudnia 2025 r.
-ostatnia_aktualizacja: 21 grudnia 2025 r.
+ostatnia_aktualizacja: 18 października 2026 r.
 wersja_robocza: true
 ---
 
 
-**w [nazwa podmiotu]**
+w [nazwa podmiotu]
 
 ## Wprowadzenie
 
@@ -26,7 +26,7 @@ Komentarz nie stanowi źródła prawa ani nie wprowadza dodatkowych obowiązków
 
 ## Komentarz do § 1 – Cel zarządzenia
 
-Paragraf ten wskazuje, że zapewnianie dostępności – w tym dostępności cyfrowej – jest traktowane jako **działanie planowe i systemowe**, a nie jako zbiór pojedynczych czynności lub reakcji na zgłoszenia.
+Paragraf ten wskazuje, że zapewnianie dostępności – w tym dostępności cyfrowej – jest traktowane jako działanie planowe i systemowe, a nie jako zbiór pojedynczych czynności lub reakcji na zgłoszenia.
 
 Podkreślenie roli struktury organizacyjnej i procesów zarządczych oznacza, że skuteczność działań zależy nie tylko od wiedzy technicznej, lecz także od sposobu organizacji pracy i podejmowania decyzji.
 
@@ -48,7 +48,7 @@ Model zespołowy ma na celu:
 
 ## Komentarz do § 3 – Zespół ds. Dostępności
 
-Cel Zespołu został sformułowany szeroko i jednoznacznie, aby jasno wskazać, że jego zadaniem nie jest wyłącznie bieżące rozwiązywanie problemów, lecz **projektowanie i utrwalanie zmian w funkcjonowaniu organizacji**.
+Cel Zespołu został sformułowany szeroko i jednoznacznie, aby jasno wskazać, że jego zadaniem nie jest wyłącznie bieżące rozwiązywanie problemów, lecz projektowanie i utrwalanie zmian w funkcjonowaniu organizacji.
 
 Ujęcie wszystkich rodzajów dostępności:
 - architektonicznej,
@@ -72,7 +72,7 @@ Dostosowanie składu Zespołu do specyfiki podmiotu jest elementem świadomego z
 
 ## Komentarz do § 5 – Koordynator ds. dostępności
 
-Rola Koordynatora została opisana jako **organizacyjna i integrująca**, a nie wykonawcza.  
+Rola Koordynatora została opisana jako organizacyjna i integrująca, a nie wykonawcza.  
 Koordynator:
 - inicjuje i porządkuje działania,
 - wspiera i łączy interesariuszy,
