@@ -1,5 +1,5 @@
 ---
-id: mdd
+id: model-dojrzalosci-dostepnosci
 title: Model dojrzałości dostępności W3C
 sidebar_label: Model dojrzałości dostępności W3C
 sidebar_position: 7
@@ -14,9 +14,9 @@ wersja_robocza: true
 
 
 
-**Tłumaczenie robocze, v. 1.0, oprac. Stefan Wajda**
+**Tłumaczenie robocze wersji opublikowanej 4 listopada 2025 r. jako nota W3C, oprac. Stefan Wajda**
 
-Źródło: [Model dojrzałości dostępności W3C](https://w3c.github.io/maturity-model/)
+Źródło: [Model dojrzałości dostępności W3C](https://www.w3.org/TR/maturity-model/)
 
 ## Streszczenie
 

@@ -357,7 +357,7 @@ Cykl życia TIK dba o to, żeby pozostały dostępne podczas użytkowania.**
 
 ## Opis wymiaru
 
-Wymiar **Zaopatrzenie** w [Modelu dojrzałości dostępności](../../o-sieci/projekt/mdd) obejmuje strategiczny proces skoncentrowany na znajdowaniu i&nbsp;nabywaniu przez organizację opłacalnych i&nbsp; potrzebnych organizacji produktów i&nbsp;usług z komponentem technologii i treści cyfrowych (technologii informacyjno-komunikacyjnych). 
+Wymiar **Zaopatrzenie** w Modelu dojrzałości dostępności obejmuje strategiczny proces skoncentrowany na znajdowaniu i nabywaniu przez organizację opłacalnych i potrzebnych organizacji produktów i usług z komponentem technologii i treści cyfrowych (technologii informacyjno-komunikacyjnych). 
 
 Gdy do procesów i dokumentów dotyczących nabywania technologii i treści cyfrowych włączone są kryteria dostępności, organizacja może być bardziej zdolna do dostarczania dostępnych produktów, usług i miejsc pracy.?
 

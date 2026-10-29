@@ -400,7 +400,7 @@ Wymiar „Wiedza i umiejętności” w zarządzaniu dostępnością cyfrową w o
 ::: 
 
 
-W opisie wymiaru **Wiedza i umiejętności** w [Modelu dojrzałości dostępności](../../o-sieci/projekt/mdd) wyspecyfikowano, że obejmuje on:
+W opisie wymiaru **Wiedza i umiejętności** w Modelu dojrzałości dostępności wyspecyfikowano, że obejmuje on:
 
 - kwestie motywacji i mobilizacji do uzyskania wymaganej zdolności
 - organizację i udział w zorganizowanych formach kształcenia (zdobywanie i&nbsp;podnoszenie kwalifikacji)

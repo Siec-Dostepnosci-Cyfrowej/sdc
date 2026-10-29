@@ -1,756 +1,283 @@
 ---
 id: opis-procesow-dostepnosc-cyfrowa
-title: Opis głównych procesów zapewniania dostępności cyfrowej
-description: Referencyjny opis procesów zapewniania dostępności cyfrowej stosowany w pakiecie zaleceń Sieci Dostępności Cyfrowej.
-sidebar_label: Opis głównych procesów
+title: Dostępność cyfrowa w procesach organizacji
+description: Opis głównych obszarów procesowych, w których organizacja uwzględnia wymagania dostępności cyfrowej, przypisuje odpowiedzialność i kontroluje rezultaty działań.
+sidebar_label: Dostępność w procesach
 sidebar_position: 2
-keywords: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie, proces zapewniania dostępności]
-tags: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie, proces zapewniania dostępności]
-opracowanie: Stefan Wajda 
+tags: [dostępność cyfrowa, zarządzanie, procesy organizacyjne]
+opracowanie: Stefan Wajda
 data_zgloszenia: 18 kwietnia 2026 r.
-ostatnia_aktualizacja: 18 maja 2026 r.
+ostatnia_aktualizacja: 27 października 2026 r.
 wersja_robocza: true
 ---
 
-## 1. Cel dokumentu
+## 1. Cel i przeznaczenie dokumentu
 
-Dokument przedstawia referencyjny model głównych procesów zapewniania dostępności usług publicznych z komponentami cyfrowymi.
+Dokument przedstawia główne obszary procesowe, w których organizacja uwzględnia wymagania dostępności cyfrowej. Wspiera rozpoznawanie procesów mających wpływ na dostępność, określanie działań i odpowiedzialności oraz włączanie wymagań dostępności w zwykły sposób funkcjonowania organizacji.
 
-Model służy do stosowania w całym pakiecie zaleceń Sieci Dostępności Cyfrowej jako wspólna podstawa dla:
+Opis służy w szczególności do:
 
-- opisu systemu zapewniania dostępności cyfrowej,
-- opisu ról, odpowiedzialności i zadań,
-- mapowania kompetencji,
-- projektowania procedur i załączników wdrożeniowych,
-- monitorowania, raportowania i doskonalenia działań,
-- oceny dojrzałości organizacji.
+- identyfikowania procesów, zadań i decyzji wpływających na dostępność cyfrową;
+- określania wymagań dostępności, działań, rezultatów i sposobów ich kontrolowania;
+- przypisywania odpowiedzialności osobom zarządzającym, właścicielom procesów, usług, treści i rozwiązań cyfrowych oraz wykonawcom zadań;
+- rozpoznawania potrzeb w zakresie zasobów, kwalifikacji i wsparcia kompetencyjnego;
+- planowania, monitorowania i doskonalenia sposobu działania organizacji.
 
-Procesy opisują sposób działania organizacji. Nie zastępują polityki, procedur, instrukcji ani map odpowiedzialności. Porządkują jednak ich wzajemne relacje i pokazują, jak decyzje kierownictwa są przekładane na działania operacyjne.
+Przedstawione obszary nie stanowią obowiązkowego katalogu odrębnych procesów ani projektu nowej struktury organizacyjnej. Organizacja odnosi je do własnych procesów, przyjętego podziału odpowiedzialności i rzeczywistego sposobu działania. Nie ma obowiązku ustanawiania ośmiu procesów, ośmiu właścicieli procesów ani odrębnego systemu zarządzania dostępnością cyfrową.
 
-Model odzwierciedla podejście, w którym dostępność cyfrowa nie jest traktowana jako odrębny problem techniczny. Jest elementem dostępności i jakości usług publicznych jako całości.
+Dostępność cyfrowa dotyczy zarówno usług publicznych i komunikacji z odbiorcami, jak i wewnętrznych procesów, treści, narzędzi oraz środowiska pracy organizacji.
 
----
+## 2. Założenia stosowania opisu
 
-## 2. Założenia modelu procesowego
+### 2.1. Dostępność w istniejących procesach
 
-### 2.1. Procesy jako element systemu organizacyjnego
+Organizacja zapewnia dostępność cyfrową w sposób systemowy, włączając związane z nią działania w zarządzanie organizacją oraz procesy tworzenia, pozyskiwania, udostępniania, wykorzystywania i utrzymywania treści, usług i rozwiązań cyfrowych.
 
-Procesy zapewniania dostępności usług publicznych z komponentami cyfrowymi stanowią element systemu zarządzania organizacją.
+Wymagania dostępności stają się częścią zwykłych działań: planowania, projektowania, zamawiania, tworzenia, publikowania, obsługi, kontrolowania, utrzymywania i doskonalenia. W razie potrzeby organizacja uzupełnia istniejące procedury, standardy, szablony i narzędzia. Odrębne czynności specjalistyczne, takie jak badanie zgodności, mogą wspierać te procesy, lecz nie zastępują uwzględniania dostępności w ich codziennej realizacji.
 
-Organizacja wykorzystuje je do:
+### 2.2. Odpowiedzialność związana z zadaniami
 
-- porządkowania działań,
-- przypisywania odpowiedzialności,
-- planowania pracy,
-- określania wymaganych kompetencji,
-- monitorowania jakości,
-- identyfikowania problemów,
-- doskonalenia sposobu działania.
+Odpowiedzialność za dostępność cyfrową jest przypisywana stosownie do rzeczywistych kompetencji decyzyjnych i wykonywanych zadań. Kierownictwo odpowiada za warunki działania i decyzje zarządcze; kierownicy komórek oraz właściciele procesów, usług, treści i rozwiązań cyfrowych odpowiadają za działania i rezultaty w powierzonych obszarach. Osoby wykonujące zadania realizują przypisane im wymagania i kontrole.
 
-Procesy nie funkcjonują wyłącznie jako dokumentacja. Są stosowane w praktyce i rozwijane wraz ze wzrostem dojrzałości organizacji.
+Koordynacja wspiera współdziałanie różnych obszarów, ale nie zastępuje odpowiedzialności właściwych osób. Funkcje koordynacyjne mogą być wykonywane w różny sposób, w tym bez ustanawiania odrębnego stanowiska. Wyznaczony koordynator podejmuje decyzje w imieniu kierownictwa wyłącznie w zakresie formalnego upoważnienia.
 
-### 2.2. Dostępność cyfrowa jako element dostępności usług publicznych
+Nazwy ról użyte w dalszej części dokumentu oznaczają funkcje i zakresy odpowiedzialności, niekoniecznie stanowiska pracy. Jedna osoba może pełnić kilka ról; jedna rola może być realizowana przez kilka osób lub komórek, o ile podział odpowiedzialności pozostaje jednoznaczny.
 
-Dostępność cyfrowa jest w tym modelu rozumiana jako warunek skutecznego korzystania z usług publicznych.
+### 2.3. Procesy, kwalifikacje i zasoby
 
-Współczesne usługi publiczne są realizowane z wykorzystaniem komponentów cyfrowych, takich jak:
+Wymagania dostępności są powiązane z kwalifikacjami potrzebnymi do wykonywania zadań, dostępnymi standardami, wzorcami, instrukcjami, konsultacjami i narzędziami. Organizacja rozpoznaje potrzeby zasobowe podczas zwykłego planowania pracy, budżetowania, przygotowywania zamówień i zmian oraz usuwania problemów.
 
-- strony internetowe,
-- Biuletyn Informacji Publicznej,
-- formularze elektroniczne,
-- dokumenty cyfrowe,
-- systemy informatyczne,
-- aplikacje,
-- komunikacja elektroniczna,
-- repozytoria i platformy usługowe,
-- systemy wykorzystywane przez pracowników do obsługi spraw.
+### 2.4. Kontrolowanie rezultatów i doskonalenie
 
-Niedostępność tych komponentów wpływa na dostępność usługi publicznej jako całości. Dlatego zapewnianie dostępności cyfrowej jest częścią organizacji, realizacji, utrzymania i doskonalenia usług publicznych.
+Organizacja kontroluje stan dostępności cyfrowej oraz sposób i rezultaty działań. Korzysta odpowiednio z monitorowania, kontroli jakości, testowania, przeglądów, audytów i informacji od użytkowników oraz pracowników. Wyniki trafiają do osób uprawnionych do podejmowania decyzji i są wykorzystywane do usuwania problemów oraz ich przyczyn.
 
-### 2.3. Powiązanie procesów z odpowiedzialnością
+Ocena dojrzałości organizacji może uzupełniać te działania, ale nie jest warunkiem prowadzenia skutecznego monitorowania i doskonalenia.
 
-Każdy proces ma określonego właściciela procesu oraz role uczestniczące w jego realizacji.
+## 3. Główne obszary procesowe
 
-Właściciel procesu odpowiada za to, że proces:
+Poniższe obszary pomagają rozpoznać miejsca, w których wymagania dostępności wpływają na działania organizacji:
 
-- ma określony cel i zakres,
-- ma przypisane role i odpowiedzialności,
-- posiada mechanizmy współpracy,
-- jest monitorowany,
-- dostarcza wyniki potrzebne organizacji,
-- jest doskonalony na podstawie danych i doświadczeń.
+1. Zarządzanie organizacją z uwzględnieniem dostępności cyfrowej.
+2. Tworzenie, udostępnianie i utrzymywanie treści cyfrowych.
+3. Projektowanie, realizacja i doskonalenie usług publicznych.
+4. Tworzenie, rozwój, pozyskiwanie i utrzymywanie rozwiązań cyfrowych.
+5. Obserwowanie, weryfikowanie, kontrolowanie i ocenianie dostępności cyfrowej.
+6. Zaopatrzenie i współpraca z wykonawcami.
+7. Rozwijanie kompetencji i zapewnianie wsparcia kompetencyjnego.
+8. Doskonalenie sposobu działania organizacji.
 
-Szczegółowe przypisanie odpowiedzialności jest określane w mapie RACI lub innym narzędziu stosowanym przez organizację.
+Obszary zachodzą na siebie i nie tworzą hierarchii, w której jeden proces jest nadrzędny wobec wszystkich pozostałych. Przykładowo dostępność usługi publicznej zależy od treści, rozwiązań cyfrowych, zamówień, kwalifikacji i decyzji zarządczych; dostępność wewnętrznego narzędzia pracy zależy od wielu tych samych obszarów, choć nie jest elementem usługi publicznej dla odbiorcy zewnętrznego.
 
-### 2.4. Powiązanie procesów z kompetencjami
+## 4. Opis obszarów procesowych
 
-Realizacja procesów wymaga kompetencji przypisanych do ról i zadań.
+### 4.1. Zarządzanie organizacją z uwzględnieniem dostępności cyfrowej
 
-Organizacja identyfikuje:
+**Znaczenie obszaru.** Dostępność cyfrowa jest uwzględniana w kierunkach działania, decyzjach zarządczych, podziale odpowiedzialności, planowaniu i zapewnianiu warunków realizacji zadań.
 
-- kompetencje wymagane do realizacji procesu,
-- luki kompetencyjne,
-- potrzeby szkoleniowe,
-- potrzeby wsparcia eksperckiego,
-- potrzeby w zakresie narzędzi, wzorców, instrukcji i materiałów pomocniczych.
+**Przykładowe działania:**
 
-Procesy są podstawą do tworzenia matrycy kompetencji oraz planowania rozwoju kompetencji organizacji.
+- określanie polityki i kierunków działania w zakresie dostępności cyfrowej;
+- uwzględnianie dostępności w decyzjach dotyczących organizacji pracy, usług, technologii i inwestycji;
+- przypisywanie odpowiedzialności za procesy, usługi, treści, rozwiązania cyfrowe i działania kontrolne;
+- organizowanie współpracy i koordynacji spraw przekraczających zakres pojedynczego obszaru;
+- uwzględnianie potrzeb dostępności w planowaniu, budżetowaniu i zapewnianiu zasobów;
+- rozpatrywanie raportów, problemów, ryzyk i propozycji działań;
+- podejmowanie decyzji o działaniach naprawczych i zmianach organizacyjnych.
 
-### 2.5. Powiązanie procesów z monitoringiem i doskonaleniem
+**Odpowiedzialność.** Kierownictwo organizacji oraz właściwi kierownicy i właściciele obszarów działalności. Osoby wykonujące zadania koordynacyjne przygotowują informacje i uzgodnienia w granicach powierzonych im zadań.
 
-Procesy dostarczają danych potrzebnych do oceny skuteczności systemu zapewniania dostępności usług publicznych z komponentami cyfrowymi.
+**Kontrolowanie rezultatów.** Ocena wykonania decyzji, skuteczności podziału odpowiedzialności, dostępności zasobów, współpracy i eliminowania przeszkód organizacyjnych.
 
-Organizacja wykorzystuje dane z procesów do:
+**Przykładowe rezultaty.** Decyzje uwzględniające dostępność, jednoznaczna odpowiedzialność, realne warunki wykonywania zadań i skuteczne rozwiązywanie spraw międzyobszarowych.
 
-- monitorowania jakości działań,
-- analizy błędów i problemów powtarzalnych,
-- oceny skuteczności napraw,
-- oceny poziomu dojrzałości,
-- planowania działań usprawniających,
-- podejmowania decyzji kierowniczych.
+### 4.2. Tworzenie, udostępnianie i utrzymywanie treści cyfrowych
 
----
+**Znaczenie obszaru.** Wymagania dostępności są uwzględniane w całym cyklu życia informacji i dokumentów, zarówno publikowanych na zewnątrz, jak i wykorzystywanych wewnątrz organizacji.
 
-## 3. Główne procesy zapewniania dostępności
+**Przykładowe działania:**
 
-W modelu referencyjnym wyróżnia się osiem głównych procesów:
+- przygotowywanie i aktualizowanie treści, dokumentów i materiałów multimedialnych;
+- stosowanie standardów redakcyjnych, dostępnych szablonów i narzędzi;
+- zapewnianie odpowiedniej struktury, tekstów alternatywnych, napisów i innych elementów dostępności;
+- kontrolowanie dostępności przed publikacją lub przekazaniem materiałów;
+- publikowanie i udostępnianie treści w serwisach, BIP, intranecie, repozytoriach i kanałach komunikacji;
+- rozpoznawanie warunków wykorzystania i dostępności treści pochodzących od innych podmiotów;
+- utrzymywanie, aktualizowanie, migrowanie, archiwizowanie i wycofywanie zasobów;
+- reagowanie na zgłoszenia problemów i organizowanie ich usuwania.
 
-1. Zarządzanie systemem dostępności cyfrowej.
-2. Zarządzanie treściami i dokumentami cyfrowymi.
-3. Projektowanie, rozwój i utrzymanie dostępnych usług publicznych.
-4. Zapewnianie dostępności systemów IT.
-5. Monitoring, kontrola i ocena dostępności.
-6. Zamówienia i współpraca z wykonawcami.
-7. Zarządzanie kompetencjami i wsparciem organizacyjnym.
-8. Doskonalenie systemu zapewniania dostępności.
+**Odpowiedzialność.** Właściciele informacji, kierownicy obszarów merytorycznych, autorzy, redaktorzy, osoby publikujące oraz osoby kontrolujące jakość i dostępność – stosownie do podziału zadań.
 
-Model może być dostosowany do wielkości i struktury organizacji. W małych podmiotach jedna osoba lub komórka organizacyjna może uczestniczyć w kilku procesach. W dużych podmiotach procesy mogą być rozwijane w bardziej szczegółowe podprocesy, procedury i instrukcje.
+**Kontrolowanie rezultatów.** Kontrola przed publikacją, przeglądy próbek treści, analiza zgłoszeń, ocena skuteczności korekt i problemów powtarzalnych.
 
-### 3.1. Centralna rola procesu zapewniania dostępności usług publicznych
+**Przykładowe rezultaty.** Dostępne i aktualne treści, dokumenty oraz materiały, które można skutecznie wykorzystywać w komunikacji i pracy.
 
-Proces projektowania, rozwoju i utrzymania dostępnych usług publicznych stanowi centralny proces operacyjny modelu.
+### 4.3. Projektowanie, realizacja i doskonalenie usług publicznych
 
-Pozostałe procesy wspierają jego realizację poprzez:
+**Znaczenie obszaru.** Dostępność cyfrowa jest elementem dostępności i jakości usługi publicznej, uwzględnianym w sposobie realizacji spraw i w wykorzystywanych kanałach komunikacji.
 
-- organizację systemu zarządzania,
-- zapewnianie dostępnych treści i dokumentów,
-- utrzymanie środowiska technicznego,
-- monitorowanie jakości i identyfikowanie problemów,
-- zapewnianie dostępnych zamówień,
-- rozwijanie kompetencji organizacji,
-- doskonalenie systemu działania.
+**Przykładowe działania:**
 
-Model odzwierciedla współczesne podejście, w którym dostępność cyfrowa stanowi element dostępności i jakości usług publicznych jako całości.
+- rozpoznawanie potrzeb użytkowników i sposobu załatwiania spraw;
+- identyfikowanie barier w przebiegu usługi i punktach kontaktu z organizacją;
+- projektowanie i zmienianie usług z uwzględnieniem dostępności kanałów, formularzy, dokumentów i komunikacji;
+- określanie wymagań dla rozwiązań cyfrowych wykorzystywanych w usłudze;
+- zapewnianie współpracy między właścicielami usług, treści, rozwiązań cyfrowych i obsługi użytkowników;
+- testowanie kluczowych scenariuszy korzystania z usługi;
+- analizowanie zgłoszeń, doświadczeń użytkowników i rezultatów realizacji spraw;
+- wprowadzanie i kontrolowanie usprawnień.
 
-### 3.2. Typy procesów w modelu
+**Odpowiedzialność.** Właściciele usług i procesów ich realizacji, kierownicy odpowiedzialnych komórek, projektanci, osoby obsługujące użytkowników oraz właściciele wykorzystywanych treści i rozwiązań.
 
-Procesy pełnią różne funkcje w systemie działania organizacji.
+**Kontrolowanie rezultatów.** Badanie dostępności kluczowych etapów usługi, analiza zgłoszeń i doświadczeń użytkowników, kontrola skuteczności obsługi oraz ocena zmian.
 
-| Typ procesu | Procesy |
-|---|---|
-| Proces zarządczy | 1. Zarządzanie systemem dostępności cyfrowej |
-| Centralny proces operacyjny | 3. Projektowanie, rozwój i utrzymanie dostępnych usług publicznych |
-| Procesy wspierające operacyjnie | 2. Zarządzanie treściami i dokumentami cyfrowymi; 4. Zapewnianie dostępności systemów IT; 6. Zamówienia i współpraca z wykonawcami; 7. Zarządzanie kompetencjami i wsparciem organizacyjnym |
-| Proces kontrolny i diagnostyczny | 5. Monitoring, kontrola i ocena dostępności |
-| Proces doskonalący | 8. Doskonalenie systemu zapewniania dostępności |
+**Przykładowe rezultaty.** Usługi, z których różne grupy użytkowników mogą skutecznie korzystać, oraz ograniczenie barier w realizacji spraw.
 
-Taki układ pokazuje, że system zapewniania dostępności nie koncentruje się wyłącznie na produktach cyfrowych. Koncentruje się na zdolności organizacji do projektowania, realizacji i utrzymywania dostępnych usług publicznych.
+### 4.4. Tworzenie, rozwój, pozyskiwanie i utrzymywanie rozwiązań cyfrowych
 
----
+**Znaczenie obszaru.** Wymagania dostępności są uwzględniane w całym cyklu życia stron internetowych, aplikacji, systemów informatycznych, formularzy, platform, narzędzi pracy i innych rozwiązań cyfrowych.
 
-## 4. Powiązanie procesów z wymiarami modelu dojrzałości
+**Przykładowe działania:**
 
-| Wymiar modelu dojrzałości | Powiązane procesy |
-|---|---|
-| Zarządzanie i kultura organizacyjna | 1, 8 |
-| Wiedza i umiejętności | 7 |
-| Informacja i komunikacja | 2, 3 |
-| Cykl życia TIK | 3, 4, 5 |
-| Zaopatrzenie | 6 |
-| Wsparcie | 2, 3, 5, 7 |
-| Personel | 1, 4, 7 |
+- określanie wymagań dostępności na etapie planowania i projektowania;
+- uwzględnianie dostępności w architekturze, projektowaniu interfejsów, implementacji i konfiguracji;
+- stosowanie dostępnych komponentów, wzorców i standardów technicznych;
+- testowanie podczas rozwoju, przed odbiorem i po istotnych zmianach;
+- dokumentowanie rozwiązań i znanych problemów dostępności;
+- zapewnianie dostępności systemów i narzędzi wykorzystywanych przez pracowników;
+- zapewnianie warunków dostępnego korzystania z rozwiązań cyfrowych, z uwzględnieniem ich konfiguracji, sposobu wykorzystywania i potrzeb użytkowników;
+- organizowanie utrzymania, obsługi zgłoszeń, usuwania błędów i testów regresyjnych;
+- uwzględnianie dostępności podczas modernizacji, migracji i wycofywania rozwiązań.
 
-Powiązanie procesów z wymiarami modelu dojrzałości umożliwia:
+**Odpowiedzialność.** Właściciele rozwiązań i produktów cyfrowych, kierownicy IT, zespoły projektowe i utrzymaniowe oraz wykonawcy, zgodnie z zakresem zadań i zobowiązań.
 
-- ocenę dojrzałości organizacji,
-- analizę luk organizacyjnych,
-- planowanie działań rozwojowych,
-- interpretację wyników monitorowania,
-- powiązanie samooceny z realnym sposobem działania organizacji.
+**Kontrolowanie rezultatów.** Przeglądy projektów, testy dostępności, kontrola zmian, oceny odbiorowe, analiza zgłoszeń i skuteczności napraw.
 
----
+**Przykładowe rezultaty.** Dostępne rozwiązania cyfrowe, ograniczenie ryzyka regresji oraz możliwość skutecznego korzystania z narzędzi zewnętrznych i wewnętrznych.
 
-## 5. Opis procesów
+### 4.5. Obserwowanie, weryfikowanie, kontrolowanie i ocenianie dostępności cyfrowej
 
-### Proces 1. Zarządzanie systemem dostępności cyfrowej
+**Znaczenie obszaru.** Organizacja uzyskuje wiarygodne informacje o stanie dostępności, przebiegu działań i ich skuteczności oraz wykorzystuje je do podejmowania decyzji.
 
-#### Cel procesu
+**Przykładowe działania:**
 
-Organizacja zapewnia spójny, trwały i nadzorowany system zarządzania dostępnością cyfrową jako elementem dostępności usług publicznych.
+- monitorowanie stanu treści, usług i rozwiązań cyfrowych oraz realizacji działań;
+- kontrolowanie przestrzegania przyjętych standardów i zasad oraz reagowanie na stwierdzone odstępstwa;
+- kontrolowanie jakości na etapach tworzenia, publikacji, wdrażania i utrzymania;
+- wykonywanie testów automatycznych, manualnych i scenariuszowych odpowiednio do przedmiotu oceny;
+- prowadzenie przeglądów i audytów, gdy uzasadnia to cel i zakres oceny;
+- zbieranie i analizowanie zgłoszeń oraz informacji od użytkowników i pracowników;
+- dokumentowanie wyników, rozpoznawanie przyczyn i problemów powtarzalnych;
+- przekazywanie istotnych ustaleń osobom odpowiedzialnym za decyzje i naprawy;
+- sprawdzanie skuteczności działań naprawczych.
 
-#### Zakres procesu
+**Odpowiedzialność.** Właściciele ocenianych procesów, treści, usług i rozwiązań odpowiadają za wykorzystanie wyników w swoich obszarach. Badania i analizy wykonują osoby o odpowiednich kwalifikacjach; zadania koordynacyjne mogą obejmować organizowanie współpracy i przepływu informacji.
 
-Proces obejmuje w szczególności:
+**Kontrolowanie rezultatów.** Ocena jakości i aktualności danych, pokrycia istotnych obszarów, terminowości reakcji oraz skuteczności usuwania problemów.
 
-- określanie polityki dostępności cyfrowej,
-- ustanawianie struktury odpowiedzialności,
-- przypisywanie właścicieli procesów,
-- planowanie działań,
-- zapewnianie zasobów,
-- organizację współpracy między komórkami,
-- nadzór nad realizacją działań,
-- raportowanie kierownicze.
+**Przykładowe rezultaty.** Rzetelne informacje o dostępności, rozpoznane ryzyka i przyczyny problemów, decyzje oraz potwierdzone efekty napraw.
 
-#### Główne role
+### 4.6. Zaopatrzenie i współpraca z wykonawcami
 
-W procesie uczestniczą w szczególności:
+**Znaczenie obszaru.** Organizacja uwzględnia dostępność w pozyskiwaniu produktów, usług, treści i rozwiązań cyfrowych oraz w egzekwowaniu zobowiązań wykonawców.
 
-- kierownictwo organizacji,
-- sponsor wykonawczy ds. dostępności,
-- koordynator ds. dostępności cyfrowej,
-- właściciele procesów,
-- kierownicy komórek organizacyjnych,
-- osoby odpowiedzialne za planowanie, kontrolę i sprawozdawczość.
+**Przykładowe działania:**
 
-#### Główne mechanizmy kontroli
+- określanie wymagań dostępności stosownie do przedmiotu zamówienia;
+- uwzględnianie ich w dokumentacji, warunkach realizacji i umowach;
+- ocenianie ofert i wiarygodności informacji o dostępności;
+- uzgadnianie sposobu dokumentowania zgodności i przedstawiania dowodów;
+- monitorowanie realizacji wymagań podczas wykonywania umowy;
+- organizowanie ocen i testów przed odbiorem;
+- podejmowanie uzasadnionych decyzji odbiorowych;
+- egzekwowanie usuwania wad oraz utrzymywania dostępności w okresach wsparcia i rozwoju.
 
-Organizacja stosuje w szczególności:
+**Odpowiedzialność.** Właściciele zamawianych rozwiązań, treści i usług, osoby prowadzące zamówienia, właściwi kierownicy, specjaliści i wykonawcy – stosownie do przyjętego podziału zadań.
 
-- przeglądy realizacji planów,
-- analizę raportów,
-- monitorowanie skuteczności systemu,
-- przeglądy odpowiedzialności,
-- ocenę realizacji decyzji kierownictwa.
+**Kontrolowanie rezultatów.** Weryfikacja wymagań w dokumentacji i umowach, ocena dowodów, testy odbiorowe oraz kontrola realizacji zobowiązań.
 
-#### Główne wyniki procesu
+**Przykładowe rezultaty.** Zamówienia i umowy umożliwiające egzekwowanie dostępności oraz pozyskiwane rozwiązania spełniające ustalone wymagania.
 
-Wynikami procesu są w szczególności:
+### 4.7. Rozwijanie kompetencji i zapewnianie wsparcia kompetencyjnego
 
-- polityka dostępności cyfrowej,
-- struktura ról i odpowiedzialności,
-- roczny lub okresowy plan działań,
-- decyzje kierownictwa,
-- raporty kierownicze,
-- działania organizacyjne wzmacniające system.
+**Znaczenie obszaru.** Organizacja rozwija i utrwala zdolność do wykonywania zadań z uwzględnieniem dostępności, niezależnie od wiedzy pojedynczych osób.
 
----
+**Przykładowe działania:**
 
-### Proces 2. Zarządzanie treściami i dokumentami cyfrowymi
+- określanie potrzeb kompetencyjnych wynikających z zadań i odpowiedzialności;
+- rozpoznawanie luk w kwalifikacjach osób oraz kompetencjach organizacji;
+- rozwijanie kwalifikacji pracowników, kadry kierowniczej i osób pełniących role specjalistyczne;
+- zapewnianie standardów, szablonów, instrukcji, narzędzi i materiałów operacyjnych;
+- organizowanie konsultacji, pomocy w rozwiązywaniu problemów i dostępu do ekspertów;
+- przekazywanie wiedzy nowym pracownikom i osobom obejmującym nowe zadania;
+- utrwalanie doświadczeń w repozytoriach, wzorcach i zasadach działania;
+- ocenianie skuteczności wsparcia na podstawie zdolności do wykonywania zadań.
 
-#### Cel procesu
+**Odpowiedzialność.** Kierownicy komórek i właściciele procesów określają potrzeby związane z zadaniami; osoby odpowiedzialne za rozwój pracowników i wsparcie kompetencyjne organizują odpowiednie formy pomocy; kierownictwo zapewnia warunki i zasoby.
 
-Organizacja zapewnia dostępność informacji publikowanych i udostępnianych w postaci cyfrowej.
+**Kontrolowanie rezultatów.** Ocena jakości wykonywania zadań, samodzielności pracowników, problemów powtarzalnych i przydatności materiałów oraz konsultacji.
 
-Proces wspiera realizację dostępnych usług publicznych poprzez zapewnianie dostępnej komunikacji, informacji i dokumentów wykorzystywanych przez użytkowników.
+**Przykładowe rezultaty.** Dostępne i wykorzystywane kompetencje, większa samodzielność zespołów oraz trwała wiedza organizacyjna.
 
-#### Zakres procesu
+### 4.8. Doskonalenie sposobu działania organizacji
 
-Proces obejmuje w szczególności:
+**Znaczenie obszaru.** Organizacja wykorzystuje wyniki kontroli, ocen i doświadczenia do trwałego ulepszania procesów, odpowiedzialności, zasobów i sposobów współpracy.
 
-- tworzenie treści,
-- redakcję i aktualizację materiałów,
-- przygotowanie dokumentów cyfrowych,
-- przygotowanie elementów dostępności, takich jak opisy alternatywne, napisy, transkrypcje, struktura nagłówków i metadane,
-- publikację w serwisach internetowych, BIP, intranecie, repozytoriach i innych kanałach cyfrowych,
-- kontrolę dostępności przed publikacją,
-- utrzymanie, aktualizację, wycofywanie i archiwizację materiałów,
-- reagowanie na zgłoszenia użytkowników dotyczące treści i dokumentów.
+**Przykładowe działania:**
 
-#### Główne role
+- analizowanie wyników monitorowania, kontroli, testów, przeglądów i audytów;
+- wykorzystywanie informacji od użytkowników i pracowników;
+- odróżnianie błędów jednostkowych od powtarzalnych problemów organizacyjnych;
+- rozpoznawanie przyczyn i zależności między procesami;
+- podejmowanie decyzji o zmianach zasad, standardów, procedur i podziału odpowiedzialności;
+- aktualizowanie narzędzi, wzorców i sposobów wsparcia kompetencyjnego;
+- planowanie i realizowanie działań naprawczych oraz doskonalących;
+- sprawdzanie skuteczności zmian i utrwalanie rozwiązań, które się sprawdziły.
 
-W procesie uczestniczą w szczególności:
+**Odpowiedzialność.** Kierownictwo i właściwi właściciele obszarów podejmują decyzje oraz odpowiadają za wdrażanie zmian w swoich kompetencjach. Osoby wykonujące zadania analityczne i koordynacyjne wspierają przygotowanie i uzgodnienie zmian.
 
-- autor treści,
-- właściciel informacji lub obszaru merytorycznego,
-- redaktor treści,
-- redaktor dokumentów,
-- osoba publikująca,
-- redaktor jakości,
-- weryfikator dostępności,
-- koordynator ds. dostępności cyfrowej.
+**Kontrolowanie rezultatów.** Ocena skuteczności wdrożonych zmian, spadku liczby problemów powtarzalnych, trwałości rozwiązań i jakości realizowanych zadań.
 
-#### Główne mechanizmy kontroli
+**Przykładowe rezultaty.** Utrwalone usprawnienia, lepsza współpraca, ograniczenie przyczyn problemów oraz rosnąca zdolność organizacji do systemowego zapewniania dostępności.
 
-Organizacja stosuje w szczególności:
+## 5. Współzależności między obszarami
 
-- kontrolę dostępności przed publikacją,
-- listy kontrolne,
-- przeglądy treści i dokumentów,
-- monitoring błędów,
-- analizę zgłoszeń użytkowników,
-- kontrolę materiałów pochodzących od innych podmiotów.
+Obszary opisane w rozdziale 4 przenikają się. Ich rozdzielenie służy analizie, a nie wyznaczeniu granic organizacyjnych. Przykładowe powiązania:
 
-#### Główne wyniki procesu
+| Sytuacja | Obszary współdziałania | Główna odpowiedzialność za rezultat |
+|---|---|---|
+| Publikacja dokumentu | Treści; kompetencje; kontrolowanie | Właściciel treści i osoby odpowiedzialne za publikację |
+| Uruchomienie usługi elektronicznej | Usługi; rozwiązania cyfrowe; treści; zaopatrzenie; kontrolowanie | Właściciel usługi oraz właściciele jej komponentów |
+| Zakup systemu do pracy wewnętrznej | Rozwiązania cyfrowe; zaopatrzenie; zarządzanie; kontrolowanie | Właściciel zamawianego systemu i osoby uprawnione do decyzji zakupowych i odbiorowych |
+| Powtarzające się błędy dostępności | Kontrolowanie; kompetencje; doskonalenie; właściwy obszar operacyjny | Właściciel obszaru, w którym powstają błędy |
+| Zgłoszenie bariery przez użytkownika | Właściwa usługa lub treść; rozwiązania cyfrowe; kontrolowanie; doskonalenie | Właściciel sprawy i odpowiedzialni za rozwiązanie problemu |
 
-Wynikami procesu są w szczególności:
+Współpraca między obszarami nie przenosi odpowiedzialności za decyzje na osobę koordynującą. Sprawy wymagające rozstrzygnięć przekraczających kompetencje uczestników są przedstawiane właściwym osobom lub gremiom decyzyjnym.
 
-- dostępne treści cyfrowe,
-- dostępne dokumenty,
-- kompletne elementy dostępności,
-- aktualne i możliwe do wykorzystania materiały,
-- ograniczenie liczby powtarzalnych błędów w publikacjach.
+## 6. Wykorzystanie opisu do analizy procesów organizacji
 
----
+Organizacja wykorzystuje przedstawiony opis odpowiednio do potrzeb i stopnia złożoności działalności. Analizie i opisaniu służy sześć punktów:
 
-### Proces 3. Projektowanie, rozwój i utrzymanie dostępnych usług publicznych
+1. **Rozpoznanie procesów i zadań.** Organizacja wskazuje procesy, usługi, treści i rozwiązania cyfrowe mające wpływ na dostępność, w tym procesy wewnętrzne.
+2. **Ustalenie wymagań i działań.** Dla istotnych procesów określa miejsca, w których uwzględnia się dostępność, potrzebne standardy, działania i kontrole.
+3. **Przypisanie odpowiedzialności.** Określa osoby odpowiedzialne za decyzje, realizację, współpracę i kontrolowanie rezultatów. Wykorzystuje istniejące opisy zadań, procedury lub inne narzędzia odpowiedzialności.
+4. **Zapewnienie warunków.** Rozpoznaje potrzeby zasobowe i kompetencyjne oraz uwzględnia je w zwykłym planowaniu i organizacji pracy.
+5. **Stosowanie w praktyce.** Włącza przyjęte wymagania do codziennych działań, zamiast traktować je jako niezależne zadania wykonywane po zakończeniu procesu.
+6. **Ocena i korekta.** Wykorzystuje wyniki kontroli, doświadczenia i zgłoszenia do usprawniania procesów i eliminowania przyczyn problemów.
 
-#### Cel procesu
+W niewielkiej organizacji działania te mogą być prowadzone bez rozbudowanej dokumentacji i bez ustanawiania nowych ról. W organizacji złożonej mogą wymagać bardziej szczegółowego opisu procesów, formalnych uzgodnień i narzędzi wspierających współpracę. O wyborze rozwiązań decydują rzeczywiste potrzeby, nie sama wielkość organizacji.
 
-Organizacja zapewnia dostępność usług publicznych poprzez uwzględnianie potrzeb użytkowników, wymagań dostępności oraz zasad projektowania włączającego na wszystkich etapach projektowania, rozwoju, wdrażania i utrzymania usług.
+## 7. Powiązane materiały
 
-Proces wspiera organizację w zapewnianiu, aby usługi publiczne mogły być skutecznie realizowane przez różne grupy użytkowników, niezależnie od sposobu kontaktu z organizacją oraz wykorzystywanych kanałów komunikacji i komponentów cyfrowych.
+Ten opis rozwija rekomendację dotyczącą uwzględniania dostępności cyfrowej w procesach organizacji zawartą w zaleceniu [Systemowe zapewnianie dostępności cyfrowej](systemowe-zapewnianie-dostepnosci-cyfrowej.md).
 
-#### Zakres procesu
+W jego stosowaniu pomocne mogą być również:
 
-Proces obejmuje w szczególności:
+- [Zapewnianie zasobów dla dostępności cyfrowej](zapewnianie-zasobow-dla-dostepnosci-cyfrowej.md) – rozpoznawanie i zapewnianie zasobów;
+- [Obserwowanie dostępności cyfrowej i ocena dojrzałości organizacji](obserwowanie-dostepnosci-cyfrowej-i-ocena-dojrzalosci-organizacji.md) – obserwowanie rezultatów i fakultatywna ocena dojrzałości;
+- [Włączanie dostępności cyfrowej w zarządzanie i procesy organizacji – poradnik wdrożeniowy](poradnik-wlaczanie-dostepnosci-cyfrowej-w-procesy-organizacji.md) – wskazówki praktyczne.
 
-- analizę sposobu realizacji usług publicznych,
-- analizę potrzeb i doświadczeń użytkowników,
-- identyfikowanie barier w korzystaniu z usług,
-- projektowanie usług z uwzględnieniem różnych sposobów realizacji spraw,
-- projektowanie wielokanałowego dostępu do usług,
-- definiowanie wymagań dostępności dla komponentów cyfrowych, organizacyjnych i komunikacyjnych,
-- projektowanie i rozwój stron internetowych, formularzy, systemów i aplikacji wspierających realizację usług,
-- zapewnianie dostępności komunikacji związanej z usługą,
-- zapewnianie dostępności dokumentów i materiałów używanych w usłudze,
-- testowanie usług i scenariuszy użytkownika,
-- wdrażanie i utrzymanie usług,
-- monitorowanie problemów i doświadczeń użytkowników,
-- doskonalenie usług po wdrożeniu.
+## 8. Uwagi końcowe
 
-#### Główne role
+Przedstawione obszary procesowe pomagają organizacji dostrzec zależności między działaniami, decyzjami i rezultatami. Nie zastępują istniejącego zarządzania ani nie ustanawiają równoległego systemu procesów dostępności cyfrowej.
 
-W procesie uczestniczą w szczególności:
-
-- właściciel usługi publicznej,
-- kierownik procesu lub produktu,
-- projektanci usług,
-- analitycy biznesowi i procesowi,
-- projektanci UX/UI,
-- programiści i specjaliści IT,
-- autorzy i redaktorzy treści,
-- testerzy dostępności,
-- koordynator ds. dostępności cyfrowej,
-- przedstawiciele użytkowników i interesariuszy.
-
-#### Główne mechanizmy kontroli
-
-Organizacja stosuje w szczególności:
-
-- analizę zgodności projektów z wymaganiami dostępności,
-- przeglądy projektów i procesów obsługi,
-- testy funkcjonalne i testy dostępności,
-- analizę scenariuszy użytkownika,
-- analizę zgłoszeń użytkowników,
-- monitoring problemów występujących podczas realizacji usług,
-- ocenę jakości i skuteczności usług po wdrożeniu.
-
-#### Główne wyniki procesu
-
-Wynikami procesu są w szczególności:
-
-- dostępne usługi publiczne,
-- ograniczenie barier w realizacji spraw,
-- zwiększenie skuteczności korzystania z usług,
-- poprawa doświadczeń użytkowników,
-- zmniejszenie liczby problemów dostępności po wdrożeniu,
-- zwiększenie spójności pomiędzy kanałami realizacji usług.
-
-#### Powiązania z innymi procesami
-
-Proces jest powiązany w szczególności z:
-
-- zarządzaniem treściami i dokumentami cyfrowymi,
-- zapewnianiem dostępności systemów IT,
-- monitoringiem, kontrolą i oceną dostępności,
-- zamówieniami i współpracą z wykonawcami,
-- zarządzaniem kompetencjami i wsparciem organizacyjnym,
-- doskonaleniem systemu zapewniania dostępności.
-
-#### Uwagi organizacyjne
-
-Proces nie ogranicza się do projektowania rozwiązań cyfrowych.
-
-Obejmuje organizację całego sposobu realizacji usługi publicznej, w tym relacje pomiędzy:
-
-- działaniami organizacyjnymi,
-- komunikacją,
-- komponentami cyfrowymi,
-- procesem obsługi użytkownika,
-- alternatywnymi sposobami realizacji spraw.
-
-Dostępność cyfrowa stanowi w tym modelu element dostępności i jakości usług publicznych jako całości.
-
----
-
-### Proces 4. Zapewnianie dostępności systemów IT
-
-#### Cel procesu
-
-Organizacja zapewnia techniczne warunki realizacji dostępnych usług publicznych poprzez utrzymanie dostępnych systemów informatycznych, aplikacji, środowisk publikacyjnych i narzędzi pracy.
-
-#### Zakres procesu
-
-Proces obejmuje w szczególności:
-
-- określanie wymagań dostępności dla systemów IT,
-- rozwój, konfigurację i utrzymanie systemów,
-- utrzymanie serwisów internetowych, BIP, intranetu, formularzy i aplikacji,
-- zapewnianie dostępności systemów wykorzystywanych przez pracowników,
-- współpracę z dostawcami i administratorami,
-- analizę i usuwanie problemów technicznych,
-- kontrolę zmian technicznych,
-- utrzymanie środowiska publikacyjnego.
-
-#### Główne role
-
-W procesie uczestniczą w szczególności:
-
-- właściciel systemu IT,
-- kierownik IT,
-- administratorzy systemów,
-- programiści,
-- dostawcy systemów,
-- testerzy techniczni,
-- specjaliści ds. remediacji,
-- koordynator ds. dostępności cyfrowej.
-
-#### Główne mechanizmy kontroli
-
-Organizacja stosuje w szczególności:
-
-- testy techniczne,
-- przeglądy zmian,
-- monitoring błędów technicznych,
-- analizę zgodności z wymaganiami,
-- testy regresji po zmianach,
-- kontrolę zgłoszeń serwisowych.
-
-#### Główne wyniki procesu
-
-Wynikami procesu są w szczególności:
-
-- systemy spełniające wymagania dostępności,
-- dostępne środowisko publikacyjne,
-- dostępne narzędzia pracy,
-- ograniczenie barier technicznych,
-- skuteczniejsze usuwanie problemów.
-
----
-
-### Proces 5. Monitoring, kontrola i ocena dostępności
-
-#### Cel procesu
-
-Organizacja zapewnia dane i informacje potrzebne do oceny stanu dostępności oraz skuteczności działań.
-
-#### Zakres procesu
-
-Proces obejmuje w szczególności:
-
-- monitoring dostępności,
-- kontrole przed publikacją lub wdrożeniem,
-- testowanie automatyczne i manualne,
-- przeglądy dostępności,
-- audyty dostępności,
-- analizę problemów i ich przyczyn,
-- analizę zgłoszeń użytkowników,
-- dokumentowanie wyników,
-- przekazywanie danych do raportowania i doskonalenia.
-
-#### Główne role
-
-W procesie uczestniczą w szczególności:
-
-- testerzy dostępności,
-- testerzy techniczni,
-- weryfikatorzy dostępności,
-- analitycy dostępności,
-- audytorzy,
-- właściciele badanych zasobów, systemów i usług,
-- koordynator ds. dostępności cyfrowej.
-
-#### Główne mechanizmy kontroli
-
-Organizacja stosuje w szczególności:
-
-- monitoring wskaźników,
-- analizę wyników testów,
-- analizę błędów powtarzalnych,
-- przeglądy jakości,
-- audyty dostępności,
-- kontrolę skuteczności napraw.
-
-#### Główne wyniki procesu
-
-Wynikami procesu są w szczególności:
-
-- raporty z testów, przeglądów i audytów,
-- dane monitoringowe,
-- rejestry błędów i zgłoszeń,
-- rekomendacje działań,
-- identyfikacja problemów systemowych,
-- dane wejściowe do oceny dojrzałości organizacji.
-
----
-
-### Proces 6. Zamówienia i współpraca z wykonawcami
-
-#### Cel procesu
-
-Organizacja zapewnia dostępność produktów, usług, systemów i rozwiązań nabywanych lub zamawianych u wykonawców.
-
-#### Zakres procesu
-
-Proces obejmuje w szczególności:
-
-- określanie wymagań dostępności,
-- przygotowanie dokumentacji zamówienia,
-- formułowanie warunków udziału, kryteriów oceny, opisów przedmiotu zamówienia i postanowień umownych,
-- ocenę ofert lub propozycji wykonawców,
-- współpracę z wykonawcami w trakcie realizacji umów,
-- odbiór produktów, usług, systemów i rozwiązań,
-- egzekwowanie wymagań dostępności,
-- dokumentowanie zgodności lub niezgodności.
-
-#### Główne role
-
-W procesie uczestniczą w szczególności:
-
-- właściciel zamawianego produktu, usługi, systemu lub rozwiązania,
-- specjalista ds. zamówień,
-- specjalista ds. dostępnych zamówień,
-- obsługa prawna,
-- analitycy dostępności,
-- testerzy dostępności,
-- koordynator ds. dostępności cyfrowej,
-- kierownictwo organizacji.
-
-#### Główne mechanizmy kontroli
-
-Organizacja stosuje w szczególności:
-
-- kontrolę wymagań dostępności w dokumentacji,
-- ocenę zgodności ofert,
-- testy odbiorowe,
-- analizę realizacji umowy,
-- kontrolę usuwania wad,
-- ocenę ryzyka zakupów niedostępnych rozwiązań.
-
-#### Główne wyniki procesu
-
-Wynikami procesu są w szczególności:
-
-- dokumentacja zamówień uwzględniająca wymagania dostępności,
-- produkty, usługi, systemy i rozwiązania spełniające wymagania dostępności,
-- umowy umożliwiające egzekwowanie dostępności,
-- ograniczenie ryzyka nabywania niedostępnych rozwiązań.
-
----
-
-### Proces 7. Zarządzanie kompetencjami i wsparciem organizacyjnym
-
-#### Cel procesu
-
-Organizacja zapewnia zdolność pracowników, zespołów i całej organizacji do skutecznego wykonywania zadań związanych z dostępnością.
-
-#### Zakres procesu
-
-Proces obejmuje w szczególności:
-
-- identyfikowanie potrzeb kompetencyjnych,
-- mapowanie kompetencji do ról, zadań i procesów,
-- analizę luk kompetencyjnych,
-- onboarding pracowników,
-- szkolenia, mikroszkolenia i mikropoświadczenia,
-- udostępnianie instrukcji, wzorców, list kontrolnych i przykładów,
-- organizację konsultacji i wsparcia eksperckiego,
-- wspieranie rozwiązywania problemów,
-- rozwijanie współpracy i wymiany doświadczeń,
-- ocenę skuteczności działań kompetencyjnych.
-
-#### Główne role
-
-W procesie uczestniczą w szczególności:
-
-- właściciel procesu wsparcia kompetencyjnego,
-- specjaliści ds. kadr lub rozwoju pracowników,
-- koordynator ds. dostępności cyfrowej,
-- eksperci dostępności,
-- trenerzy i mentorzy,
-- kierownicy zespołów,
-- właściciele procesów,
-- kierownictwo organizacji.
-
-#### Główne mechanizmy kontroli
-
-Organizacja stosuje w szczególności:
-
-- analizę luk kompetencyjnych,
-- ocenę skuteczności szkoleń i wsparcia,
-- analizę problemów powtarzalnych,
-- monitoring wykorzystania materiałów i konsultacji,
-- ocenę zdolności organizacji do samodzielnego działania.
-
-#### Główne wyniki procesu
-
-Wynikami procesu są w szczególności:
-
-- matryca kompetencji,
-- plan rozwoju kompetencji,
-- materiały wsparcia operacyjnego,
-- rozwój zdolności organizacji,
-- poprawa jakości działań,
-- ograniczenie problemów wynikających z braku wiedzy lub umiejętności,
-- wzrost samodzielności pracowników i zespołów.
-
----
-
-### Proces 8. Doskonalenie systemu zapewniania dostępności
-
-#### Cel procesu
-
-Organizacja zapewnia ciągłe doskonalenie systemu zapewniania dostępności na podstawie danych, doświadczeń i oceny skuteczności działań.
-
-#### Zakres procesu
-
-Proces obejmuje w szczególności:
-
-- analizę danych z monitoringu, kontroli, przeglądów i audytów,
-- analizę zgłoszeń użytkowników,
-- ocenę skuteczności działań,
-- ocenę poziomu dojrzałości organizacji,
-- identyfikowanie problemów systemowych,
-- analizę przyczyn problemów,
-- planowanie działań usprawniających,
-- aktualizację procesów, procedur, odpowiedzialności i kompetencji,
-- wdrażanie zmian organizacyjnych,
-- ocenę skuteczności wdrożonych zmian.
-
-#### Główne role
-
-W procesie uczestniczą w szczególności:
-
-- kierownictwo organizacji,
-- sponsor wykonawczy ds. dostępności,
-- koordynator ds. dostępności cyfrowej,
-- właściciele procesów,
-- analitycy,
-- audytorzy,
-- właściciele zasobów, systemów i usług,
-- osoby odpowiedzialne za planowanie i jakość.
-
-#### Główne mechanizmy kontroli
-
-Organizacja stosuje w szczególności:
-
-- analizę wskaźników,
-- ocenę realizacji działań,
-- ocenę poziomu dojrzałości,
-- przeglądy systemu,
-- raportowanie kierownicze,
-- kontrolę skuteczności działań doskonalących.
-
-#### Główne wyniki procesu
-
-Wynikami procesu są w szczególności:
-
-- rekomendacje działań doskonalących,
-- decyzje kierownictwa,
-- aktualizacja planów działań,
-- aktualizacja procesów i procedur,
-- aktualizacja odpowiedzialności,
-- rozwój systemu organizacyjnego,
-- wzrost dojrzałości organizacji,
-- zmniejszenie liczby problemów powtarzalnych.
-
----
-
-## 6. Relacje między procesami
-
-Procesy tworzą jeden system działania.
-
-Najważniejsze relacje między procesami są następujące:
-
-- proces zarządzania systemem zapewnia kierunek, odpowiedzialność i nadzór nad pozostałymi procesami;
-- proces zarządzania treściami i dokumentami odpowiada za dostępność informacji, komunikacji i dokumentów wykorzystywanych w usługach publicznych oraz publikowanych i udostępnianych przez organizację;
-- proces projektowania, rozwoju i utrzymania dostępnych usług publicznych zapewnia dostępność usług publicznych oraz integrację komponentów cyfrowych, organizacyjnych i komunikacyjnych związanych z realizacją usług;
-- proces zapewniania dostępności systemów IT zapewnia techniczne warunki realizacji usług, publikacji treści, pracy wewnętrznej i utrzymania środowiska cyfrowego;
-- proces monitoringu, kontroli i oceny dostarcza danych o stanie dostępności i skuteczności działań;
-- proces zamówień i współpracy z wykonawcami ogranicza ryzyko nabywania niedostępnych produktów, usług, systemów i rozwiązań;
-- proces zarządzania kompetencjami i wsparciem organizacyjnym zapewnia zdolność pracowników i zespołów do realizacji zadań;
-- proces doskonalenia wykorzystuje dane, doświadczenia i wyniki oceny do rozwoju całego systemu.
-
----
-
-## 7. Minimalny wariant wdrożenia
-
-W małej lub średniej organizacji model może być wdrażany w sposób uproszczony.
-
-Minimalny wariant obejmuje:
-
-1. wskazanie osoby lub zespołu koordynującego system dostępności;
-2. przypisanie właścicieli najważniejszych procesów;
-3. wskazanie właścicieli kluczowych usług publicznych z komponentami cyfrowymi;
-4. określenie podstawowych zasad publikacji treści i dokumentów;
-5. wprowadzenie kontroli dostępności przed publikacją najważniejszych materiałów;
-6. uwzględnianie wymagań dostępności w zamówieniach;
-7. prowadzenie prostego rejestru problemów, zgłoszeń i działań naprawczych;
-8. zapewnienie podstawowego wsparcia kompetencyjnego dla osób realizujących zadania;
-9. przygotowanie okresowego przeglądu wyników dla kierownictwa.
-
-Minimalny wariant nie zmienia logiki modelu. Ogranicza poziom szczegółowości, liczbę dokumentów i stopień formalizacji.
-
----
-
-## 8. Zasady stosowania modelu
-
-Organizacja:
-
-- stosuje procesy jako praktyczny model działania,
-- dostosowuje poziom szczegółowości procesów do swojej wielkości i złożoności,
-- przypisuje właścicieli procesów,
-- określa role i odpowiedzialności,
-- powiązuje procesy z kompetencjami,
-- monitoruje skuteczność procesów,
-- wykorzystuje wyniki monitorowania do doskonalenia,
-- aktualizuje procesy po zmianach organizacyjnych, technicznych i prawnych.
-
-Procesy stanowią wspólny punkt odniesienia dla zaleceń, procedur, ról, map RACI, matryc kompetencji, planów działań i narzędzi samooceny.
-
----
-
-## 9. Powiązane dokumenty pakietu zaleceń
-
-Model procesowy jest powiązany w szczególności z następującymi dokumentami:
-
-1. Organizacja systemu zapewniania dostępności cyfrowej.
-2. Role, odpowiedzialności i zadania w systemie zapewniania dostępności cyfrowej.
-3. Słownik ról i odpowiedzialności.
-4. Referencyjna mapa odpowiedzialności procesowej RACI.
-5. Matryca kompetencji.
-6. Model wsparcia kompetencyjnego.
-7. Zasady monitorowania, kontroli i raportowania.
-8. Model oceny dojrzałości organizacji.
-9. Procedury i załączniki wdrożeniowe dotyczące treści, dokumentów, usług publicznych, systemów IT i zamówień.
-
----
-
-## 10. Uwaga redakcyjna do stosowania w pakiecie zaleceń
-
-W całym pakiecie zaleceń stosuje się nazwy procesów w brzmieniu przyjętym w niniejszym dokumencie.
-
-Dopuszczalne jest używanie nazw skróconych w tabelach, schematach i mapach odpowiedzialności, o ile nie zmieniają one znaczenia procesu.
-
-Rekomendowane nazwy skrócone:
-
-| Pełna nazwa procesu | Nazwa skrócona |
-|---|---|
-| Zarządzanie systemem dostępności cyfrowej | Zarządzanie systemem |
-| Zarządzanie treściami i dokumentami cyfrowymi | Treści i dokumenty |
-| Projektowanie, rozwój i utrzymanie dostępnych usług publicznych | Usługi publiczne |
-| Zapewnianie dostępności systemów IT | Systemy IT |
-| Monitoring, kontrola i ocena dostępności | Monitoring i ocena |
-| Zamówienia i współpraca z wykonawcami | Zamówienia |
-| Zarządzanie kompetencjami i wsparciem organizacyjnym | Kompetencje i wsparcie |
-| Doskonalenie systemu zapewniania dostępności | Doskonalenie systemu |
+O skuteczności systemowego zapewniania dostępności cyfrowej świadczy nie liczba opisanych procesów lub ustanowionych ról, lecz to, czy wymagania dostępności są konsekwentnie uwzględniane w rzeczywistym działaniu organizacji, czy odpowiedzialność jest jednoznaczna, a wyniki ocen prowadzą do decyzji i trwałych usprawnień.

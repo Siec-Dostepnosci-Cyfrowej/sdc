@@ -432,7 +432,7 @@ Celem wymiaru Komunikacja jest zapewnienie, że:
 
 ## Opis wymiaru
 
-Wymiar **Komunikacja** w [Modelu dojrzałości dostępności](../../o-sieci/projekt/mdd) obejmuje rozwiązania i praktyki zapewniające dostępność cyfrową treści wytwarzanych przez organizację i&nbsp;adresowanych do różnych odbiorców. Dotyczy komunikatów, które mogą być: 
+Wymiar **Komunikacja** w Modelu dojrzałości dostępności obejmuje rozwiązania i praktyki zapewniające dostępność cyfrową treści wytwarzanych przez organizację i&nbsp;adresowanych do różnych odbiorców. Dotyczy komunikatów, które mogą być: 
 
 - zewnętrzne i wewnętrzne,
 - formalne i nieformalne,

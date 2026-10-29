@@ -1,26 +1,25 @@
 ---
 id: systemowe-zapewnianie-dostepnosci-cyfrowej
 title: Systemowe zapewnianie dostępności cyfrowej
-description: Zalecenie określa podstawowe elementy systemowego zapewniania dostępności cyfrowej, obejmujące procesy, role i odpowiedzialności, wsparcie kierownictwa, kompetencje, monitorowanie rezultatów oraz doskonalenie sposobu działania.
+description: Zalecenie określa podstawowe elementy systemowego zapewniania dostępności cyfrowej, obejmujące procesy, role i odpowiedzialności, wsparcie kierownictwa, kompetencje, obserwowanie i ocenianie rezultatów oraz doskonalenie sposobu działania.
 sidebar_position: 0
 sidebar_label: Zalecenie
-keywords: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie, proces zapewniania dostępności]
 tags: [polityka dostępności, dostępność cyfrowa, kultura organizacyjna, zarządzanie, proces zapewniania dostępności]
 opracowanie: Stefan Wajda 
 data_zgloszenia: 18 kwietnia 2026 r.
-ostatnia_aktualizacja: 24 września 2026 r.
+ostatnia_aktualizacja: 27 października 2026 r.
 wersja_robocza: true
 ---
 
 ## 1. Cel zalecenia
 
-Celem zalecenia jest przeciwdziałanie rozproszeniu i niespójności działań wpływających na dostępność cyfrową oraz sytuacji, w której osiąganie dostępności zależy od pojedynczych działań zamiast od trwałego sposobu funkcjonowania organizacji.
+Zapewnianie dostępności cyfrowej jako trwałego i integralnego elementu zarządzania organizacją oraz realizowanych przez nią zadań i procesów
 
 ---
 
 ## 2. Zalecenie
 
-Organizacja zapewnia dostępność cyfrową w sposób systemowy, włączając związane z nią działania w zarządzanie organizacją oraz w procesy, w których powstają, są pozyskiwane, wykorzystywane i utrzymywane rozwiązania cyfrowe. Określa role i odpowiedzialności, zapewnia potrzebne zasoby i kompetencje, kontroluje rezultaty i ocenia skuteczność działania oraz wykorzystuje wyniki do doskonalenia sposobu działania.
+Organizacja zapewnia dostępność cyfrową w sposób systemowy, włączając związane z nią działania w zarządzanie organizacją oraz procesy tworzenia, pozyskiwania, udostępniania, wykorzystywania i utrzymywania treści, usług i rozwiązań cyfrowych
 
 ---
 
@@ -28,16 +27,15 @@ Organizacja zapewnia dostępność cyfrową w sposób systemowy, włączając zw
 
 ### 3.1. Systemowy sposób zapewniania dostępności cyfrowej
 
-Organizacja określa, w jaki sposób zapewnianie dostępności cyfrowej jest włączone w jej funkcjonowanie, w szczególności w:
-
-- procesy organizacyjne;
+Organizacja włącza zapewnianie dostępności cyfrowej w zwykły sposób zarządzania i funkcjonowania, w szczególności w:
+- organizację i realizację procesów;
 - podział ról i odpowiedzialności;
-- zasady współpracy i podejmowania decyzji;
-- zapewnianie zasobów i kompetencji;
+- współpracę i podejmowanie decyzji;
+- planowanie i zapewnianie zasobów oraz kompetencji;
 - kontrolowanie rezultatów i ocenę skuteczności działania;
 - działania naprawcze i doskonalące.
 
-Systemowe zapewnianie dostępności cyfrowej obejmuje wszystkie obszary działalności organizacji, które wpływają na dostępność tworzonych, pozyskiwanych, wykorzystywanych lub utrzymywanych rozwiązań cyfrowych.
+Systemowe zapewnianie dostępności cyfrowej obejmuje wszystkie obszary działalności organizacji, które mają wpływ na dostępność tworzonych, pozyskiwanych, udostępnianych, wykorzystywanych i utrzymywanych treści, usług i rozwiązań cyfrowych.
 
 ---
 
@@ -49,7 +47,7 @@ Organizacja jednoznacznie przypisuje role i odpowiedzialności za działania zwi
 
 ### 3.3. Odpowiedzialność kierownictwa za warunki działania
 
-Kierownictwo organizacji zapewnia warunki niezbędne do skutecznego i trwałego zapewniania dostępności cyfrowej. W szczególności nadaje jej odpowiedni priorytet, zapewnia zasoby, wspiera współpracę między komórkami organizacyjnymi oraz usuwa bariery organizacyjne i decyzyjne.
+Kierownictwo organizacji uwzględnia dostępność cyfrową w podejmowanych decyzjach zarządczych oraz zapewnia warunki niezbędne do jej skutecznego i trwałego zapewniania. W szczególności nadaje jej odpowiedni priorytet, zapewnia zasoby, wspiera współpracę między komórkami organizacyjnymi oraz usuwa bariery organizacyjne i decyzyjne.
 
 Organizacja może wyznaczyć sponsora wykonawczego wspierającego działania związane z dostępnością cyfrową na poziomie kierownictwa.
 
@@ -65,7 +63,7 @@ Organizacja traktuje dostępność cyfrową jako element dostępności i jakośc
 
 Organizacja identyfikuje procesy mające wpływ na dostępność cyfrową i określa sposób uwzględniania w nich wymagań dostępności. Dla kluczowych procesów określa w szczególności podział odpowiedzialności, wymagane działania, oczekiwane rezultaty oraz sposób kontrolowania ich realizacji.
 
-Procesy są stosowane w praktyce i stanowią element zwykłego sposobu działania organizacji.
+Przyjęte zasady i działania są stosowane w praktyce jako integralna część procesów organizacji, a nie jako odrębne czynności wykonywane niezależnie od jej zwykłej działalności.
 
 ---
 
@@ -79,9 +77,9 @@ Wsparcie kompetencyjne obejmuje, odpowiednio do potrzeb, w szczególności stand
 
 ---
 
-### 3.7. Kontrolowanie rezultatów i ocena skuteczności działania
+### 3.7. Obserwowanie, weryfikowanie, kontrolowanie i ocenianie
 
-Organizacja kontroluje stan dostępności cyfrowej oraz sposób i rezultaty działań podejmowanych w celu jej zapewniania, a także ocenia skuteczność tych działań. Wykorzystuje w tym celu odpowiednio monitoring, kontrolę jakości, testowanie, przeglądy, audyty i inne formy oceny pozwalające identyfikować problemy oraz rozpoznawać potrzeby doskonalenia.
+Organizacja obserwuje stan dostępności cyfrowej, weryfikuje zgodność treści, usług i rozwiązań cyfrowych z wymaganiami dostępności, kontroluje przestrzeganie przyjętych wymagań i zasad oraz ocenia sposób i skuteczność działań podejmowanych w celu jej zapewniania. Wykorzystuje w tym celu odpowiednio monitorowanie, kontrolę jakości, testowanie, przeglądy, audyty i inne formy badania i oceny pozwalające identyfikować problemy oraz rozpoznawać potrzeby doskonalenia.
 
 ---
 
@@ -89,13 +87,13 @@ Organizacja kontroluje stan dostępności cyfrowej oraz sposób i rezultaty dzia
 
 Istotne informacje o stanie dostępności cyfrowej, realizowanych działaniach i ich skuteczności są raportowane osobom odpowiedzialnym za podejmowanie odpowiednich decyzji.
 
-Organizacja wykorzystuje wyniki monitorowania, kontroli i oceny do podejmowania decyzji zarządczych, planowania działań, korygowania sposobu działania, rozwoju kompetencji oraz usuwania przyczyn powtarzających się problemów.
+Organizacja wykorzystuje wyniki obserwowania, weryfikowania, kontroli i oceny w procesach zarządzania, w szczególności podczas podejmowania decyzji, planowania działań i zasobów, korygowania sposobu działania, rozwoju kompetencji oraz usuwania przyczyn powtarzających się problemów.
 
 ---
 
 ### 3.9. Doskonalenie sposobu działania
 
-Organizacja wykorzystuje doświadczenia, wyniki kontrolowania i oceny skuteczności działania oraz informacje od pracowników i użytkowników do ciągłego doskonalenia sposobu zapewniania dostępności cyfrowej. Doskonalenie obejmuje odpowiednio do potrzeb procesy, podział odpowiedzialności, zasoby, kompetencje, wsparcie oraz sposoby monitorowania i kontroli.
+Organizacja wykorzystuje doświadczenia, wyniki kontrolowania i oceny skuteczności działania oraz informacje od pracowników i użytkowników do ciągłego doskonalenia sposobu zapewniania dostępności cyfrowej. Doskonalenie obejmuje odpowiednio do potrzeb procesy, podział odpowiedzialności, zasoby, kompetencje, wsparcie oraz sposoby obserwowania, weryfikowania, kontrolowania i oceniania.
 
 ---
 
@@ -132,10 +130,11 @@ Brak takiego podejścia prowadzi do rozproszenia działań, niejasności odpowie
 
 ## 7. Załączniki
 
-1. [Opis głównych procesów zapewniania dostępności cyfrowej](opis-procesow-dostepnosc-cyfrowa.md)
-2. [Zapewnianie zasobów dla systemu dostępności cyfrowej](zapewnianie-zasobow-dla-systemu-dostepnosci-cyfrowej.md)
-3. [Monitoring i ocena dojrzałości organizacji w zakresie zapewniania dostępności cyfrowej](monitoring-i-ocena-dojrzalosci.md)
-4. [Poradnik wdrożeniowy — organizacja i wdrażanie procesów zapewniania dostępności cyfrowej](poradnik-wdrozeniowy-procesy-zapewniania-dostepnosci.md)
+1. [Dostępność cyfrowa w procesach organizacji](opis-procesow-dostepnosc-cyfrowa.md)
+2. [Zapewnianie zasobów dla dostępności cyfrowej](zapewnianie-zasobow-dla-dostepnosci-cyfrowej.md)
+3. [Obserwowanie dostępności cyfrowej i ocena dojrzałości organizacji](obserwowanie-dostepnosci-cyfrowej-i-ocena-dojrzalosci-organizacji.md)
+4. [W3C, Model Dojrzałości Dostępności - tłumaczenie nieoficjalne](model-dojrzalosci-dostepnosci.md)
+5. [Włączanie dostępności cyfrowej w zarządzanie i procesy organizacji – poradnik wdrożeniowy](poradnik-wlaczanie-dostepnosci-cyfrowej-w-procesy-organizacji.md)
 
 ---
 
@@ -143,4 +142,6 @@ Brak takiego podejścia prowadzi do rozproszenia działań, niejasności odpowie
 
 | Wersja | Data | Etap | Opis zmian |
 |---|---|---|---|
-| 0-RC1 | 24.09.2026 | Gotowy do publikacji | Przeprowadzono normalizację dokumentu. |
+| 0-RC1 | 24.09.2026 | Wersja robocza | Przeprowadzono normalizację dokumentu. |
+| 0-RC2 | 12.10.2026 | Wersja robocza po normalizacji | Poprawiono cel i treść zalecenia. Uspójniono załączniki. |
+| 0-RC3 | 27.10.2026 | Wersja robocza do zatwierdzenia | Przeprowadzono końcową normalizację redakcyjną zalecenia i załączników. |
