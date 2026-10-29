@@ -2,7 +2,7 @@
 
 ## Projekt
 
-**Sieć Dostępności Cyfrowej (SDC)** — serwis dokumentacji Sieci Dostępności Cyfrowej w Polsce:
+**sieć dostępności cyfrowej (SDC)** — serwis dokumentacji Sieci Dostępności Cyfrowej w Polsce:
 zalecenia dla Ministra Cyfryzacji, rozwiązania systemowe, opisy dobrych praktyk, słownik pojęć.
 Zbudowany na **Docusaurusie 3.10** (React 19, TypeScript 7, Tailwind 3).
 
