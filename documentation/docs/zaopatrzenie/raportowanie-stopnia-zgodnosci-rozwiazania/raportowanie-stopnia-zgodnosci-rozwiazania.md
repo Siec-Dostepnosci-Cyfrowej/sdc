@@ -1,22 +1,19 @@
 ---
 id: raportowanie-stopnia-zgodnosci-rozwiazania
 title: Raportowanie zamawiającemu stopnia zgodności rozwiązania z wymaganiami dostępności cyfrowej
-description: Zalecenie dotyczące przekazywania zamawiającemu informacji o stopniu zgodności rozwiązania cyfrowego z wymaganiami dostępności oraz materiałach stanowiących podstawę tej oceny.
-sidebar_label: Zalecenie
-sidebar_position: 1
-keywords: [raport stopnia zgodności,dostępność cyfrowa,zgodność,zamówienia publiczne,odbiór rozwiązania]
-tags: [raport stopnia zgodności,dostępność cyfrowa,zgodność,zamówienia publiczne,odbiór rozwiązania]
+sidebar_label: Raportowanie stopnia zgodności
+sidebar_position: 0
+description: Zalecenie dotyczące przekazywania zamawiającemu udokumentowanych wyników oceny stopnia zgodności rozwiązania cyfrowego z wymaganiami dostępności.
+tags: [zaopatrzenie, dostępność cyfrowa, raportowanie zgodności]
 opracowanie: Stefan Wajda
 data_zgloszenia: 31 lipca 2026 r.
-ostatnia_aktualizacja: 31 lipca 2026 r.
+ostatnia_aktualizacja: 28 października 2026 r.
 wersja_robocza: true
 ---
 
-## 1. Cel
+## 1. Cel zalecenia
 
-Zapewnienie skutecznej komunikacji pomiędzy wykonawcą a zamawiającym dotyczącej dostępności rozwiązania cyfrowego poprzez przekazywanie raportu przedstawiającego właściwości rozwiązania mające znaczenie dla jego dostępności, ocenę stopnia spełnienia wymagań oraz materiały stanowiące podstawę przedstawionych ocen.
-
----
+Zapewnienie skutecznej komunikacji między wykonawcą a zamawiającym dotyczącej dostępności rozwiązania cyfrowego poprzez przekazywanie uporządkowanych i możliwych do zweryfikowania informacji o sposobie realizacji wymagań dostępności, stopniu ich spełnienia oraz materiałach stanowiących podstawę oceny.
 
 ## 2. Zalecenie
 
@@ -24,116 +21,113 @@ Organizacja wymaga od wykonawców przekazania raportu stopnia zgodności rozwią
 
 Raport przedstawia właściwości dostępności rozwiązania, opisuje sposób realizacji mających zastosowanie wymagań dostępności, określa stopień ich spełnienia oraz wskazuje materiały dowodowe stanowiące podstawę przedstawionych ocen.
 
----
-
 ## 3. Rekomendacje
 
 ### 3.1. Określanie obowiązku przekazania raportu
 
-Organizacja określa w dokumentach zamówienia obowiązek przekazania raportu stopnia zgodności jako jednego z rezultatów realizacji zamówienia, jeżeli przedmiot zamówienia obejmuje rozwiązanie cyfrowe podlegające wymaganiom dostępności.
+Organizacja określa w dokumentacji zamówienia i umowie obowiązek opracowania, aktualizowania i przekazania raportu stopnia zgodności jako jednego z rezultatów realizacji zamówienia, jeżeli jego przedmiot obejmuje rozwiązanie cyfrowe podlegające wymaganiom dostępności.
 
-### 3.2. Zakres raportu
+Organizacja określa zakres raportowania, terminy przekazywania raportu oraz sposób udostępniania materiałów dowodowych, odpowiednio do przedmiotu i przebiegu realizacji zamówienia.
 
-Raport obejmuje wszystkie mające zastosowanie wymagania dostępności objęte zakresem zamówienia.
+### 3.2. Identyfikacja rozwiązania i zakres raportu
 
-Dla każdego wymagania raport zawiera:
+Raport jednoznacznie identyfikuje rozwiązanie, jego wersję lub stan, konfigurację oraz zakres objęty oceną, w stopniu odpowiednim do charakteru rozwiązania.
+
+Raport obejmuje wszystkie mające zastosowanie wymagania dostępności objęte zakresem zamówienia i ocenianej części rozwiązania. Wskazuje podstawę określenia tych wymagań, w tym odpowiednie normy, specyfikacje oraz wymagania uzupełniające ustalone w dokumentacji zamówienia i umowie.
+
+Jeżeli raport dotyczy części rozwiązania, określonego etapu realizacji lub wybranej konfiguracji, jednoznacznie wskazuje ograniczenia tego zakresu.
+
+### 3.3. Przedstawianie wyników oceny
+
+Dla każdego wymagania objętego raportem wykonawca przedstawia:
 
 - ocenę stopnia spełnienia wymagania;
-- opis sposobu realizacji wymagania, właściwości rozwiązania mających znaczenie dla jego dostępności oraz znanych ograniczeń;
-- planowane działania dotyczące stwierdzonych niezgodności, jeżeli wymaganie nie zostało spełnione w pełni;
+- opis sposobu realizacji wymagania, właściwości rozwiązania mających znaczenie dla dostępności oraz znanych ograniczeń;
+- informacje o stwierdzonych niezgodnościach i planowanych działaniach naprawczych, jeżeli wymaganie nie jest spełnione w pełni;
 - wskazanie materiałów dowodowych stanowiących podstawę oceny.
 
-### 3.3. Charakter ocen
+Raport wykorzystuje jednolity sposób przedstawiania wyników oceny. W odniesieniu do poszczególnych wymagań wskazuje jeden z następujących stanów:
 
-Raport wykorzystuje jednolity sposób przedstawiania stopnia spełnienia wymagań.
+- **spełnia** — wymaganie zostało spełnione w ocenianym zakresie;
+- **częściowo spełnia** — wymaganie jest spełnione tylko w części ocenianego zakresu;
+- **nie spełnia** — wymaganie nie zostało spełnione;
+- **nie dotyczy** — wymaganie nie ma zastosowania do ocenianego rozwiązania lub jego zakresu;
+- **nie oceniono** — nie przeprowadzono oceny wymagania lub brak wystarczających podstaw do określenia stopnia jego spełnienia.
 
-Ocena każdego wymagania wskazuje, czy rozwiązanie:
+W przypadku stanów „nie dotyczy” i „nie oceniono” raport przedstawia uzasadnienie. Stan „nie oceniono” nie oznacza ani spełnienia wymagania, ani braku jego zastosowania.
 
-- spełnia wymaganie;
-- częściowo spełnia wymaganie;
-- nie spełnia wymagania;
-- wymaganie nie dotyczy rozwiązania.
+Ocena stanowi syntetyczne podsumowanie opisu i dowodów dotyczących danego wymagania. Nie zastępuje opisu sposobu jego realizacji.
 
-Ocena stanowi syntetyczne podsumowanie opisu przedstawionego dla danego wymagania i nie zastępuje opisu sposobu realizacji wymagania.
+### 3.4. Dokumentowanie podstaw oceny
 
-### 3.4. Materiały dowodowe
+Raport wskazuje materiały dowodowe stanowiące podstawę przedstawionych ocen, w sposób umożliwiający powiązanie poszczególnych wyników z odpowiednimi dowodami.
 
-Raport wskazuje materiały dowodowe stanowiące podstawę przedstawionych ocen.
+Materiałami dowodowymi mogą być w szczególności wyniki badań i testów, udokumentowane obserwacje, wyniki badań z użytkownikami oraz inne materiały pozwalające zweryfikować właściwości lub działanie rozwiązania.
 
-Materiały dowodowe mogą stanowić załączniki do raportu lub być udostępniane zamawiającemu w inny uzgodniony sposób.
+Materiały dowodowe stanowią załączniki do raportu albo są udostępniane zamawiającemu w inny uzgodniony sposób. Raport wskazuje także istotne ograniczenia przeprowadzonych ocen i wykorzystanych dowodów.
 
-### 3.5. Wykorzystanie raportu
+### 3.5. Cykl życia raportu
 
-Raport stanowi podstawowy dokument komunikacji technicznej pomiędzy wykonawcą i zamawiającym dotyczący dostępności rozwiązania.
+Wykonawca opracowuje i aktualizuje raport stopnia zgodności podczas realizacji zamówienia, odpowiednio do postępu prac, przeprowadzanych ocen i zmian rozwiązania.
 
-Raport jest wykorzystywany przez zamawiającego podczas oceny rozwiązania i podejmowania decyzji w procesie jego odbioru, ale nie zastępuje procedury odbioru ani decyzji o odbiorze rozwiązania.
+Jeżeli zamówienie obejmuje odbiory częściowe, etapowe lub odbiór kolejnych wersji rozwiązania, wykonawca przed każdym odbiorem przekazuje aktualną wersję raportu dotyczącą zakresu objętego odbiorem. Raport umożliwia ustalenie zmian w stosunku do wcześniejszych ocen i zachowanie ciągłości informacji o stanie zgodności.
 
----
+Jeżeli umowa obejmuje utrzymanie, aktualizowanie lub rozwój rozwiązania, wykonawca aktualizuje raport w zakresie odpowiadającym wprowadzanym zmianom i zobowiązaniom wynikającym z umowy.
+
+### 3.6. Wykorzystanie raportu przez zamawiającego
+
+Raport stanowi podstawowy dokument komunikacji technicznej między wykonawcą a zamawiającym dotyczący stanu dostępności i zgodności rozwiązania.
+
+Organizacja wykorzystuje raport do oceny przedstawionych informacji i dowodów, ustalania zakresu własnej weryfikacji oraz podejmowania decyzji dotyczących odbioru. Raport nie zastępuje weryfikacji przeprowadzanej przez organizację ani decyzji o odbiorze rozwiązania.
+
+Jeżeli raport wskazuje niezgodności lub nie zawiera wystarczających podstaw do potwierdzenia spełnienia wymagań, organizacja postępuje zgodnie z warunkami odbioru określonymi w dokumentacji zamówienia i umowie. Sam raport nie stanowi podstawy do odstąpienia od uzgodnionych wymagań dostępności.
+
+Dokumentacja dostępności rozwiązania, w tym raport stopnia zgodności, może być następnie wykorzystywana podczas utrzymania, rozwoju i kolejnych ocen dostępności rozwiązania.
 
 ## 4. Uzasadnienie
 
-### 4.1. Potrzeba raportowania stopnia zgodności
+### 4.1. Potrzeba wiarygodnej komunikacji
 
-Określenie wymagań dostępności w dokumentach zamówienia nie zapewnia jeszcze wiedzy o stopniu ich spełnienia przez oferowane lub dostarczone rozwiązanie. Zamawiający potrzebuje rzetelnej informacji nie tylko o tym, czy rozwiązanie spełnia wymagania dostępności, ale także w jakim zakresie są one spełnione, jakie ograniczenia występują oraz jakie materiały stanowią podstawę przedstawionej oceny.
+Określenie wymagań dostępności w zamówieniu nie zapewnia jeszcze wiedzy o stopniu ich spełnienia przez dostarczane rozwiązanie. Zamawiający potrzebuje informacji o sposobie realizacji wymagań, stwierdzonych ograniczeniach oraz podstawach przedstawionych ocen. Samo ogólne zapewnienie wykonawcy o dostępności rozwiązania nie dostarcza wystarczających informacji do weryfikacji jego stanu.
 
-Raport stopnia zgodności umożliwia wykonawcy przekazanie tej wiedzy w jednolitej, uporządkowanej i udokumentowanej postaci. Nie zastępuje on raportów z testów ani dokumentacji technicznej, lecz syntetycznie przedstawia stan zgodności rozwiązania oraz wskazuje materiały dowodowe stanowiące podstawę przedstawionych ocen.
+Raport stopnia zgodności porządkuje tę wiedzę i umożliwia jej przekazywanie w jednolity sposób. Przedstawia zarówno rozwiązania zastosowane w celu zapewnienia dostępności, jak i znane niezgodności, ograniczenia oraz planowane działania naprawcze. Opisuje stan rozwiązania, a nie jedynie opinię wykonawcy o tym rozwiązaniu.
 
-Raport stopnia zgodności nie powinien być postrzegany jako dodatkowy obowiązek dokumentacyjny wykonawcy. Stanowi uporządkowany opis właściwości dostępności rozwiązania, ułatwiający komunikację pomiędzy wykonawcą i zamawiającym podczas odbioru rozwiązania oraz jego dalszego rozwoju i utrzymania.
+### 4.2. Funkcja raportu i jego relacja do pozostałej dokumentacji
 
-Dobrze przygotowany raport pozwala wielokrotnie wykorzystywać zgromadzoną wiedzę podczas kolejnych wdrożeń, odbiorów, rozwoju produktu oraz współpracy z innymi zamawiającymi.
+Raport przedstawia udokumentowane wyniki oceny stopnia spełnienia przez rozwiązanie mających zastosowanie wymagań dostępności oraz opisuje sposób ich realizacji. Łączy syntetyczną ocenę poszczególnych wymagań z opisem właściwości rozwiązania i wskazaniem odpowiednich materiałów dowodowych.
 
-### 4.2. Europejski model raportowania zgodności
+Raport nie zastępuje wyników badań i testów ani innych materiałów dowodowych. Nie jest również tożsamy z oświadczeniem dostawcy o zgodności: raport przedstawia wyniki oceny, natomiast oświadczenie zawiera formalne twierdzenie dostawcy o zgodności w określonym zakresie i wskazuje podmiot przyjmujący odpowiedzialność za to twierdzenie. Raport może stanowić jeden z dokumentów będących podstawą oświadczenia.
 
-Europejski model oceny zgodności stron internetowych i aplikacji mobilnych podmiotów publicznych odszedł od przedstawiania zgodności wyłącznie jako stanu „zgodne” lub „niezgodne”. Dyrektywa (UE) 2016/2102 oraz decyzja wykonawcza Komisji (UE) 2018/1523 przyjęły model, w którym zgodność może być także częściowa, a treści mogą być wyłączone z zakresu mających zastosowanie wymagań. Zalecenie przenosi to podejście na poziom poszczególnych wymagań: raport przedstawia, które wymagania są spełnione, które są spełnione częściowo, które nie są spełnione oraz które nie mają zastosowania do ocenianego rozwiązania.
+W przypadku rozwiązania istniejącego raport może przedstawiać jego stan oceniony przed złożeniem oferty. W przypadku rozwiązania, które ma dopiero powstać, informacje przedstawiane na etapie ofertowym dotyczą sposobu zapewnienia i wykazania zgodności, a nie wyników oceny nieistniejącego jeszcze rozwiązania.
 
-Zalecenie wykorzystuje ten model jako podstawę raportowania stopnia zgodności rozwiązania z wymaganiami dostępności cyfrowej.
+### 4.3. Znaczenie raportu w cyklu życia rozwiązania
 
-### 4.3. Europejski model odpowiedzialności
+Raport jest opracowywany i aktualizowany wraz z postępem realizacji zamówienia oraz kolejnymi ocenami rozwiązania. Dzięki temu może służyć nie tylko odbiorowi końcowemu, lecz także kontroli realizacji zobowiązań, odbiorom etapowym i dalszemu utrzymywaniu dostępności.
 
-Europejski Akt o Dostępności określa model odpowiedzialności producentów, importerów, dystrybutorów i usługodawców za zapewnienie zgodności produktów i usług z wymaganiami dostępności oraz za udokumentowanie tej zgodności.
+Podczas odbioru raport dostarcza organizacji wiedzy potrzebnej do oceny spełnienia warunków odbioru i ustalenia zakresu własnej weryfikacji. Nie przesądza jednak o decyzji odbiorowej. W szczególności stwierdzenie niezgodności lub brak wystarczających dowodów wymaga postępowania zgodnego z zasadami odbioru, w tym ewentualnego odbioru warunkowego, jeżeli został przewidziany w umowie.
 
-Choć obowiązki wynikające z Europejskiego Aktu o Dostępności nie dotyczą wszystkich postępowań o udzielenie zamówienia publicznego, przyjęty w nim model odpowiedzialności stanowi racjonalny wzorzec organizacji procesu zaopatrzenia. Wykonawca odpowiada nie tylko za zapewnienie dostępności oferowanego rozwiązania, lecz również za przekazanie zamawiającemu uporządkowanej wiedzy o właściwościach dostępności rozwiązania, sposobie realizacji wymagań oraz znanych ograniczeniach rozwiązania.
-
-### 4.4. Rola raportu w procesie zaopatrzenia
-
-Raport stopnia zgodności stanowi jeden z rezultatów realizacji zamówienia. Dostarcza zamawiającemu informacji niezbędnych do oceny rozwiązania oraz podjęcia świadomej decyzji w procesie jego odbioru.
-
-Raport nie rozstrzyga o odbiorze rozwiązania i nie zastępuje procedury odbioru. Jego zadaniem jest przedstawienie wiedzy o stanie zgodności rozwiązania wraz z uzasadnieniem ocen i wskazaniem materiałów dowodowych. Na tej podstawie zamawiający może ocenić skutki stwierdzonych niezgodności, podjąć decyzję dotyczącą odbioru rozwiązania, zaakceptować związane z nimi ryzyko lub określić działania niezbędne do jego ograniczenia, w szczególności usunięcie niezgodności, zapewnienie dostępu alternatywnego lub zastosowanie innych środków organizacyjnych i technicznych.
-
-Stosowanie raportu stopnia zgodności zapewnia zamawiającemu jednolitą i porównywalną informację o stanie zgodności rozwiązań oferowanych przez różnych wykonawców oraz ułatwia podejmowanie decyzji opartych na udokumentowanych informacjach.
-
-Raport zmienia charakter współpracy pomiędzy wykonawcą i zamawiającym. Zamiast ograniczać się do potwierdzenia zgodności lub przedstawienia listy stwierdzonych niezgodności, umożliwia wykonawcy przedstawienie właściwości dostępności rozwiązania, jego mocnych stron, znanych ograniczeń oraz planowanych kierunków rozwoju. Zamawiający otrzymuje informacje pozwalające zrozumieć rozwiązanie oraz zweryfikować każde istotne stwierdzenie na podstawie wskazanych materiałów dowodowych.
-
-Raport umożliwia prowadzenie merytorycznej rozmowy o właściwościach dostępności rozwiązania zamiast ograniczania komunikacji do potwierdzania zgodności lub wskazywania niezgodności.
-
-### 4.5. Znaczenie raportu
-
-Raport stopnia zgodności jest technicznym opisem właściwości rozwiązania mających znaczenie dla jego dostępności, przygotowanym przez producenta, dostawcę lub usługodawcę na potrzeby zamawiającego. Jego celem jest przekazanie uporządkowanej wiedzy o sposobie realizacji mających zastosowanie wymagań dostępności, stopniu ich spełnienia, ograniczeniach rozwiązania oraz materiałach umożliwiających weryfikację przedstawionych informacji.
-
-Raport opisuje stan rozwiązania, a nie opinię wykonawcy o tym rozwiązaniu. Stanowi udokumentowane zapewnienie producenta, dostawcy lub usługodawcy dotyczące stopnia spełnienia przez rozwiązanie mających zastosowanie wymagań dostępności oraz sposobu ich realizacji.
-
-Celem raportu nie jest wyłącznie wskazanie niezgodności. Raport powinien przedstawiać pełny obraz właściwości rozwiązania mających znaczenie dla jego dostępności, obejmujący zarówno zastosowane rozwiązania zapewniające dostępność, jak i znane ograniczenia oraz planowane kierunki rozwoju.
-
-Dzięki temu raport staje się przewodnikiem po dostępności rozwiązania oraz podstawowym dokumentem komunikacji technicznej pomiędzy wykonawcą i zamawiającym.
-
-Każda ocena przedstawiona w raporcie powinna wynikać z opisu sposobu realizacji wymagania i wskazywać stopień jego spełnienia. Opis powinien wyjaśniać zastosowane rozwiązania, znane ograniczenia oraz wskazywać materiały dowodowe stanowiące podstawę oceny. Jeżeli producent, dostawca lub usługodawca nie potrafi opisać sposobu realizacji wymagania ani wskazać materiałów stanowiących podstawę przedstawionej oceny, oznacza to, że nie dysponuje wiedzą pozwalającą wiarygodnie określić stopień zgodności rozwiązania.
-
-Raport nie zastępuje deklaracji zgodności, raportów z testów ani dokumentacji technicznej. Stanowi ich syntetyczne uzupełnienie, umożliwiające zamawiającemu zrozumienie właściwości rozwiązania mające znaczenie dla jego dostępności oraz podjęcie świadomej decyzji w procesie jego odbioru.
-
----
+Raport i powiązane z nim materiały stanowią część dokumentacji dostępności rozwiązania. Ich aktualizowanie umożliwia zachowanie i ponowne wykorzystywanie wiedzy o dostępności podczas zmian, kolejnych ocen i współpracy z dostawcą.
 
 ## 5. Podstawy prawne
 
-- Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
-- Ustawa z dnia 11 września 2019 r. Prawo zamówień publicznych, w szczególności art. 100 ust. 1 oraz art. 106.
+- [Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000848) — w zakresie wymagań dostępności mających zastosowanie do zamawianego rozwiązania.
+- [Ustawa z dnia 11 września 2019 r. – Prawo zamówień publicznych](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002019) — w zakresie określania wymagań przedmiotu zamówienia oraz dokumentów i środków dowodowych wymaganych od wykonawców, odpowiednio do etapu postępowania.
 
+Wskazane przepisy nie ustanawiają powszechnego obowiązku sporządzania raportu w formie opisanej w zaleceniu. Obowiązek jego przekazania wynika z wymagań określonych przez zamawiającego w dokumentacji zamówienia i umowie.
 
----
+## 6. Źródła i opracowania
 
-## 6. Powiązane dokumenty
+- PN-ETSI EN 301 549, *Wymagania dostępności produktów i usług ICT*.
+- [Dyrektywa Parlamentu Europejskiego i Rady (UE) 2016/2102](https://eur-lex.europa.eu/eli/dir/2016/2102/oj) — jako kontekst europejskich zasad oceniania i przedstawiania stanu zgodności stron internetowych i aplikacji mobilnych.
+- [Decyzja wykonawcza Komisji (UE) 2018/1523](https://eur-lex.europa.eu/eli/dec_impl/2018/1523/oj) — w zakresie metody monitorowania zgodności stron internetowych i aplikacji mobilnych podmiotów sektora publicznego.
 
-- Definiowanie i ocena wymagań dostępności cyfrowej w ofertach.
-- Specyfikacja raportu stopnia zgodności rozwiązania z wymaganiami dostępności cyfrowej.
-- [Szablon wymagań wobec ofert na usługi wsparcia eksperckiego w zakresie dostępności cyfrowej](https://siec-dostepnosci-cyfrowej.github.io/sdc/docs/zaopatrzenie/dobor-i-zamawianie-uslug-eksperckich/szablon-wymagan-wobec-ofert-na-uslugi-eksperckie)
-- [Wymagania dostępności cyfrowej w ofertach](https://siec-dostepnosci-cyfrowej.github.io/sdc/docs/category/wymagania-dost%C4%99pno%C5%9Bci-cyfrowej-w-ofertach)
-- Odbiór rozwiązań cyfrowych.
+## 7. Powiązania między dokumentami
+
+- **Określanie i ocena spełnienia wymagań dostępności cyfrowej w postępowaniach zakupowych** — określenie wymagań, informacji i dowodów oczekiwanych od oferentów.
+- **Stosowanie klauzul umownych dotyczących zapewniania i utrzymywania dostępności cyfrowej** — ustanowienie obowiązku opracowania, aktualizowania i przekazywania raportu.
+- **Oświadczenie dostawcy o zgodności rozwiązania cyfrowego z wymaganiami dostępności** — wykorzystanie wyników oceny przedstawionych w raporcie jako podstawy oświadczenia.
+- **Odbiór rozwiązań cyfrowych pod kątem dostępności cyfrowej** — weryfikacja raportu i innych dowodów oraz podejmowanie decyzji odbiorowych.
+
+## 8. Załączniki
+
+1. **Specyfikacja raportu stopnia zgodności rozwiązania z wymaganiami dostępności cyfrowej** — dokument określający szczegółowy zakres informacji, strukturę i sposób przedstawiania wyników oceny.
