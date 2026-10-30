@@ -38,18 +38,20 @@ W ramach testu należy zweryfikować:
 
 - czy wszystkie napisy pełniące funkcję nagłówków są oznaczone programowo jako nagłówki,
 - czy nagłówki opisują temat lub cel następującej po nich treści,
-- czy struktura nagłówków odzwierciedla strukturę treści strony.
+- czy struktura nagłówków odzwierciedla strukturę treści strony,
+- czy nagłówki i ich poziomy są poprawne także dla treści i nagłówków ujawnianych dynamicznie.
 
-Test koncentruje się przede wszystkim na znaczeniu i funkcji nagłówków, a nie wyłącznie na ich wyglądzie wizualnym.
+Test koncentruje się przede wszystkim na znaczeniu i funkcji nagłówków, a nie wyłącznie na ich wyglądzie wizualnym. Programowe oznaczenie nagłówków jest odrębnym zagadnieniem ocenianym w ramach KS 1.3.1; opisowość nagłówków – w ramach KS 2.4.6; stosowanie nagłówków do organizowania sekcji – w ramach KS 2.4.10 (AAA).
 
 ---
 
 ## 5. Mapowanie do standardów
 
-### WCAG 2.1
+### WCAG 2.2
 
-- **2.4.6 Nagłówki i etykiety (AA)**
-- **1.3.1 Informacje i relacje (A)**
+- **1.3.1 Informacje i relacje (A)** – programowe oznaczenie nagłówków i ich relacji
+- **2.4.6 Nagłówki i etykiety (AA)** – opisowość nagłówków
+- **2.4.10 Nagłówki sekcji (AAA)** – stosowanie nagłówków do organizowania sekcji treści
 
 ### EN 301 549
 
@@ -95,13 +97,17 @@ Za zgodną uznaje się stronę, dla której:
 
 - każdy tekst pełniący funkcję nagłówka został oznaczony jako nagłówek,
 - każdy nagłówek opisuje temat lub cel następującej po nim treści,
-- struktura nagłówków umożliwia zrozumienie organizacji treści.
+- struktura nagłówków umożliwia zrozumienie organizacji treści,
+- w przypadku stosowania programowo określonych nagłówków ich poziomy i rozmieszczenie odzwierciedlają relacje między częściami treści.
 
-Dodatkowo jako dobra praktyka:
+Dodatkowo jako dobra praktyka (poziom AAA, KS 2.4.10):
 
+- nagłówki są stosowane do organizowania treści w tematycznie wyodrębnione sekcje,
 - treść główna rozpoczyna się od nagłówka H1,
 - poziomy nagłówków odzwierciedlają hierarchię treści,
 - nie są pomijane poziomy nagłówków bez uzasadnienia.
+
+Uwaga: samo pominięcie poziomu nagłówka nie zawsze oznacza naruszenie WCAG, jeżeli poziomy odzwierciedlają rzeczywiste relacje nadrzędności i podrzędności.
 
 ---
 
@@ -137,31 +143,31 @@ Test ma szczególne znaczenie dla:
 
 ### Krok 1
 
-Otwórz stronę i zidentyfikuj wszystkie napisy pełniące funkcję tytułów lub śródtytułów.
+Otwórz stronę i zidentyfikuj wszystkie napisy pełniące funkcję tytułów lub śródtytułów, także w dodatkowych stanach interfejsu.
 
 ### Krok 2
 
-Uruchom walidator Nu HTML Checker lub inne narzędzie prezentujące strukturę nagłówków.
+Przeanalizuj organizację treści i ustal, jaką część treści tytułuje każdy nagłówek.
 
 ### Krok 3
 
-Przeanalizuj konspekt (outline) nagłówków wygenerowany przez narzędzie.
+Sprawdź, czy elementy pełniące funkcję nagłówków są rozpoznawalne programowo albo czy informacje o strukturze są dostępne w tekście.
 
 ### Krok 4
 
-Sprawdź, czy wszystkie widoczne nagłówki występują w strukturze nagłówków.
+Zweryfikuj, czy każdy nagłówek opisuje temat lub cel tytułowanej treści.
 
 ### Krok 5
 
-Sprawdź, czy w strukturze nie występują elementy oznaczone jako nagłówki, które nie pełnią tej funkcji wizualnie lub znaczeniowo.
+Sprawdź, czy poziomy programowo określonych nagłówków odzwierciedlają relacje między częściami treści.
 
 ### Krok 6
 
-Zweryfikuj, czy każdy nagłówek opisuje następującą po nim treść.
+Zidentyfikuj tematycznie wyodrębnione sekcje treści i sprawdź, czy są oznaczone nagłówkami (poziom AAA, KS 2.4.10).
 
 ### Krok 7
 
-Oceń logiczność struktury i hierarchii nagłówków.
+Powtórz sprawdzenie dla treści i nagłówków ujawnianych dynamicznie.
 
 ---
 
@@ -182,6 +188,7 @@ Oceń logiczność struktury i hierarchii nagłówków.
 - Istotna część nagłówków nie została oznaczona programowo.
 - Nagłówki nie opisują tytułowanej treści.
 - Elementy niebędące nagłówkami zostały oznaczone jako nagłówki.
+- Programowo określone poziomy nagłówków nie odzwierciedlają relacji między częściami treści.
 
 ---
 
@@ -246,8 +253,8 @@ lub
 ## 18. Powiązane testy
 
 - Tytuł strony
-- Język strony
-- Struktura strony
+- Struktura strony (informacje i relacje)
+- Nagłówki sekcji (AAA)
 - Obszary strony (landmarki)
 - Kolejność fokusu
 - Linki i ich cel

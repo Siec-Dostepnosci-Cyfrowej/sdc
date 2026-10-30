@@ -63,9 +63,6 @@ Nie wszystkie wymagania i nie wszystkie rodzaje dowodów będą jednakowo istotn
 10. **W-10. Komponenty stron trzecich**. Dostawca opisze dostępność komponentów i usług stron trzecich stanowiących część oferowanego rozwiązania oraz sposób zarządzania ryzykiem związanym z ich dostępnością.
 11. **W-11. Utrzymanie dostępności**. Dostawca opisze sposób utrzymywania dostępności rozwiązania po wdrożeniu, w tym proces zgłaszania, analizowania i usuwania problemów dostępności cyfrowej oraz sposób informowania nabywcy o zmianach mających wpływ na dostępność rozwiązania.
 
-- [Pobierz Szablon wymagań dostępności (Word)](zasady-oceny-ofert-szablon-wymagan.docx)
-- [Pobierz Szablon wymagań dostępności (PDF)](zasady-oceny-ofert-szablon-wymagan.pdf) 
-
 ## Szablon macierzy punktacji
 
 Pomocą w przeprowadzeniu oceny może być macierz punktacji, która definiuje różne poziomy i opcje odpowiedzi oraz podstawową skalę oceny.
