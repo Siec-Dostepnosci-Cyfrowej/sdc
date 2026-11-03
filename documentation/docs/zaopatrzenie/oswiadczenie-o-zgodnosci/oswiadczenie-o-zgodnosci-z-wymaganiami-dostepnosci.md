@@ -1,169 +1,112 @@
 ---
 id: oswiadczenie-o-zgodnosci-z-wymaganiami-dostepnosci
 title: Oświadczenie dostawcy o zgodności rozwiązania cyfrowego z wymaganiami dostępności
-description: Organizacja wymaga od dostawcy oświadczenia o zgodności rozwiązania cyfrowego z określonymi wymaganiami dostępności, opartego na przeprowadzonej ocenie zgodności i dokumentacji potwierdzającej jej wyniki
-sidebar_label: Zalecenie
-sidebar_position: 1 
-keywords: [polityka dostępności,zamówienia publiczne,zaopatrzenie,oświadczenie dostawcy,zgodność z dostępnością]
-tags: [polityka dostępności,zamówienia publiczne,zaopatrzenie,oświadczenie dostawcy,zgodność z dostępnością]
+description: Zalecenie określa zasady pozyskiwania od dostawców jednoznacznych, udokumentowanych i możliwych do zweryfikowania oświadczeń o zgodności rozwiązań cyfrowych z wymaganiami dostępności.
+sidebar_label: Oświadczenie dostawcy
+sidebar_position: 1
+tags: [zaopatrzenie, dostępność cyfrowa, oświadczenie dostawcy, ocena zgodności]
 opracowanie: Stefan Wajda
 data_zgloszenia: 28 września 2026 r.
-ostatnia_aktualizacja: 28 września 2026 r.
+ostatnia_aktualizacja: 28 października 2026 r.
 wersja_robocza: true
 ---
 
 ## 1. Cel zalecenia
 
-Celem zalecenia jest zapewnienie, aby oświadczenie dostawcy o zgodności rozwiązania cyfrowego z wymaganiami dostępności było jednoznacznym i możliwym do zweryfikowania twierdzeniem opartym na przeprowadzonej ocenie zgodności i udokumentowanych dowodach.
-
----
+Uzyskiwanie jednoznacznych i możliwych do zweryfikowania oświadczeń dostawców o zgodności rozwiązań cyfrowych z wymaganiami dostępności, opartych na przeprowadzonej ocenie zgodności i udokumentowanych dowodach.
 
 ## 2. Zalecenie
 
-Organizacja wymaga od dostawcy oświadczenia o zgodności rozwiązania cyfrowego z wymaganiami dostępności mającymi zastosowanie do tego rozwiązania, opartego na przeprowadzonej ocenie zgodności i dokumentacji potwierdzającej wyniki tej oceny.
-
-Oświadczenie jednoznacznie określa przedmiot i zakres deklarowanej zgodności, wymagania stanowiące podstawę oceny oraz podmiot odpowiedzialny za złożenie oświadczenia.
-
----
+Organizacja wymaga od dostawcy oświadczenia o zgodności rozwiązania cyfrowego z określonymi wymaganiami dostępności, opartego na przeprowadzonej ocenie zgodności i dokumentacji potwierdzającej jej wyniki. Oświadczenie jednoznacznie określa przedmiot i zakres deklarowanej zgodności, wymagania stanowiące podstawę oceny oraz podmiot przyjmujący odpowiedzialność za złożone oświadczenie.
 
 ## 3. Rekomendacje
 
-### 3.1. Oświadczenie jako wynik oceny zgodności
+### 3.1. Oświadczenie oparte na ocenie zgodności
 
-Oświadczenie o zgodności jest składane po przeprowadzeniu oceny zgodności rozwiązania z mającymi zastosowanie wymaganiami dostępności.
+Organizacja wymaga, by dostawca składał oświadczenie na podstawie przeprowadzonej oceny zgodności rozwiązania z mającymi zastosowanie wymaganiami dostępności. Oświadczenie przedstawia wynik tej oceny i wskazuje dokumentację umożliwiającą jego zweryfikowanie; nie zastępuje oceny ani dokumentacji stanowiącej jej podstawę.
 
-Oświadczenie nie zastępuje oceny zgodności ani dokumentacji stanowiącej podstawę tej oceny. Potwierdza wynik przeprowadzonej oceny i wskazuje dokumentację, na podstawie której można zweryfikować zawarte w nim twierdzenia.
+Organizacja nie uznaje samego oświadczenia za wystarczający dowód zgodności rozwiązania.
 
-Organizacja nie traktuje samego oświadczenia jako wystarczającego dowodu zgodności rozwiązania.
+### 3.2. Identyfikacja rozwiązania
 
----
+Oświadczenie jednoznacznie identyfikuje rozwiązanie i jego stan objęty oceną. W zależności od charakteru rozwiązania wskazuje w szczególności:
 
-### 3.2. Jednoznaczna identyfikacja rozwiązania
+- nazwę rozwiązania i jego wytwórcę lub producenta;
+- wersję, wydanie lub datę określającą oceniany stan;
+- objęte oświadczeniem komponenty lub części rozwiązania;
+- konfigurację, środowisko, platformę i inne warunki użytkowania istotne dla zgodności.
 
-Oświadczenie umożliwia jednoznaczne ustalenie, jakiego rozwiązania dotyczy.
+W przypadku rozwiązań rozwijanych w sposób ciągły oświadczenie określa stan rozwiązania, którego zgodność została oceniona.
 
-W zależności od charakteru rozwiązania identyfikacja może obejmować w szczególności:
+### 3.3. Wskazanie wymagań stanowiących podstawę oceny
 
-- nazwę rozwiązania;
-- producenta lub wytwórcę;
-- wersję, wydanie lub datę określającą stan rozwiązania;
-- konfigurację mającą wpływ na spełnienie wymagań dostępności;
-- komponenty lub części rozwiązania objęte oświadczeniem;
-- środowiska, platformy lub inne warunki użytkowania mające znaczenie dla oceny zgodności.
+Oświadczenie wskazuje wymagania dostępności, względem których przeprowadzono ocenę. W przypadku odwołania do normy EN 301 549 określa jej wersję oraz mające zastosowanie wymagania. Uwzględnia także inne wymagania wynikające z przepisów, dokumentacji zamówienia, umowy lub przyjętych specyfikacji, jeżeli są objęte oceną.
 
-Jeżeli rozwiązanie jest rozwijane lub zmieniane w sposób ciągły, oświadczenie wskazuje stan rozwiązania, dla którego przeprowadzono ocenę i wykazano zgodność.
+Oświadczenie nie przedstawia rozwiązania jako zgodnego z całą normą lub innym zbiorem wymagań, jeżeli wykazano zgodność jedynie w określonym zakresie. Rozróżnia wymagania ocenione od wymagań niemających zastosowania.
 
----
+### 3.4. Określenie zakresu deklarowanej zgodności
 
-### 3.3. Określenie wymagań stanowiących podstawę oświadczenia
+Zakres deklarowanej zgodności odpowiada zakresowi przeprowadzonej oceny i dostępnych dowodów. Oświadczenie określa elementy, funkcje, konfiguracje i warunki użytkowania, których dotyczy deklarowana zgodność, oraz wskazuje znane ograniczenia zakresu oceny.
 
-Oświadczenie wskazuje wymagania dostępności, względem których oceniono rozwiązanie i deklarowana jest jego zgodność.
+Organizacja wymaga jednoznacznego przedstawienia zakresu oświadczenia, bez rozszerzania deklaracji na elementy lub wymagania, których zgodności nie wykazano.
 
-Jeżeli podstawę oceny stanowi norma EN 301 549, oświadczenie wskazuje jej wersję oraz mające zastosowanie wymagania.
+### 3.5. Dokumentacja i dowody
 
-Jeżeli do rozwiązania mają zastosowanie również inne wymagania dostępności wynikające z przepisów, warunków zamówienia, umowy lub innych specyfikacji, oświadczenie określa je w zakresie objętym deklarowaną zgodnością.
+Dostawca wskazuje dokumentację stanowiącą podstawę oświadczenia, umożliwiającą ustalenie sposobu przeprowadzenia oceny i zweryfikowanie jej wyników. Dokumentacja obejmuje odpowiednio dokumentację dostępności rozwiązania, raport stopnia zgodności, raporty z badań, testów lub ocen oraz inne dowody dotyczące mających zastosowanie wymagań.
 
-Oświadczenie nie określa rozwiązania jako zgodnego z całym dokumentem normatywnym, jeżeli ocenie podlegała jedynie jego część albo część wymagań nie miała zastosowania.
+Oświadczenie identyfikuje dokumenty i ich wersje w sposób pozwalający powiązać deklarowaną zgodność z wynikami oceny. Zakres wymaganej dokumentacji odpowiada przedmiotowi zamówienia i zakresowi oświadczenia.
 
----
+### 3.6. Przeprowadzenie oceny zgodności
 
-### 3.4. Zakres deklarowanej zgodności
+Dostawca przeprowadza ocenę zgodności w zakresie niezbędnym do uzasadnienia składanego oświadczenia. Może wykorzystać wyniki badań, testów i ocen przeprowadzonych przez inne podmioty, jeżeli dotyczą właściwego rozwiązania, jego stanu i mających zastosowanie wymagań.
 
-Oświadczenie jednoznacznie określa zakres, w którym zgodność została wykazana.
-
-Zakres oświadczenia odpowiada zakresowi przeprowadzonej oceny. Obejmuje wyłącznie te elementy rozwiązania, wymagania, funkcje, konfiguracje i warunki użytkowania, dla których istnieją wystarczające podstawy do stwierdzenia zgodności.
-
-Oświadczenie wskazuje znane ograniczenia zakresu oceny oraz przypadki, w których wymagania uznano za niemające zastosowania.
-
----
-
-### 3.5. Podstawa dowodowa oświadczenia
-
-Dostawca opiera oświadczenie na dokumentacji umożliwiającej ustalenie sposobu przeprowadzenia oceny i zweryfikowanie jej wyników.
-
-Dokumentacja zawiera lub wskazuje odpowiednie dowody, w szczególności wyniki badań i testów, raport stopnia zgodności oraz inne informacje niezbędne do wykazania spełnienia mających zastosowanie wymagań.
-
-Oświadczenie identyfikuje dokumentację stanowiącą jego podstawę w sposób umożliwiający powiązanie deklarowanego wyniku z odpowiednimi dowodami.
-
----
-
-## 3.6. Przeprowadzenie oceny zgodności
-
-Dostawca przeprowadza ocenę zgodności rozwiązania z mającymi zastosowanie wymaganiami dostępności w zakresie niezbędnym do złożenia oświadczenia o zgodności.
-
-W przeprowadzeniu oceny może korzystać z wyników badań, testów i ocen wykonanych przez inne podmioty, jeżeli są odpowiednie do przedmiotu i zakresu składanego oświadczenia.
-
-Jeżeli podstawę oświadczenia stanowią w całości lub części wyniki oceny przeprowadzonej przez inny podmiot, dostawca identyfikuje ten podmiot oraz zakres wykonanej przez niego oceny. Wykorzystanie wyników oceny wykonanej przez inny podmiot nie zwalnia dostawcy z odpowiedzialności za treść składanego oświadczenia.
-
----
+Jeżeli oświadczenie opiera się na wynikach uzyskanych od innego podmiotu, dostawca identyfikuje ten podmiot i zakres przeprowadzonej oceny. Korzystanie z cudzych wyników nie przenosi odpowiedzialności za treść oświadczenia na podmiot wykonujący badania.
 
 ### 3.7. Odpowiedzialność za oświadczenie
 
-Dostawca składający oświadczenie przyjmuje odpowiedzialność za prawdziwość zawartych w nim twierdzeń oraz zgodność określonego w nim zakresu z wynikami przeprowadzonej oceny i dokumentacją stanowiącą jej podstawę.
+Oświadczenie identyfikuje podmiot składający je i przyjmujący odpowiedzialność za prawdziwość zawartych w nim twierdzeń, a także osobę upoważnioną do jego zatwierdzenia.
 
-Oświadczenie wskazuje podmiot, w którego imieniu zostało złożone, oraz osobę upoważnioną do jego zatwierdzenia.
+Jeżeli dostawca nie jest wytwórcą rozwiązania lub korzysta z komponentów innych podmiotów, określa zakres własnego oświadczenia i podstawy twierdzeń dotyczących tych elementów. Nie przedstawia ograniczenia swojej roli jako potwierdzenia zgodności, której nie wykazano.
 
-Jeżeli dostawca nie jest wytwórcą rozwiązania lub nie odpowiada za wszystkie jego elementy, oświadczenie jednoznacznie określa zakres, w którym dostawca przyjmuje odpowiedzialność za zawarte w nim twierdzenia.
+### 3.8. Aktualizowanie oświadczenia
 
----
+Oświadczenie zawiera datę sporządzenia i oznaczenie stanu rozwiązania, którego dotyczy. Dostawca aktualizuje ocenę i oświadczenie, gdy zmiany rozwiązania, wymagań, konfiguracji, środowiska lub sposobu użytkowania mogą wpływać na deklarowaną zgodność albo prawdziwość zawartych w nim informacji.
 
-### 3.8. Aktualność oświadczenia
+Warunki przekazywania aktualnych oświadczeń podczas realizacji zamówienia oraz w okresie utrzymania i rozwoju rozwiązania organizacja określa odpowiednio w dokumentacji zamówienia i umowie.
 
-Oświadczenie zachowuje aktualność w odniesieniu do stanu rozwiązania objętego oceną.
+### 3.9. Wykorzystanie i weryfikacja oświadczenia
 
-Dostawca aktualizuje ocenę i oświadczenie, jeżeli zmiany rozwiązania, mających zastosowanie wymagań, sposobu użytkowania lub innych okoliczności mogą wpływać na zgodność albo prawdziwość informacji zawartych w dotychczasowym oświadczeniu.
+Organizacja wykorzystuje oświadczenie i wskazane w nim dowody stosownie do etapu i celu ich pozyskania, w szczególności przy ocenie ofert, odbiorze rozwiązania oraz podczas jego utrzymania i rozwoju.
 
-Oświadczenie wskazuje datę jego sporządzenia oraz wersję lub stan rozwiązania, którego dotyczy.
-
----
-
-### 3.9. Wykorzystanie oświadczenia przez organizację
-
-Organizacja wykorzystuje oświadczenie oraz dokumentację stanowiącą jego podstawę odpowiednio do celu, w którym zostały pozyskane, w szczególności przy ocenie ofert, odbiorze rozwiązania, ocenie jego zgodności oraz podczas późniejszego użytkowania i rozwoju rozwiązania.
-
-Oświadczenie nie zastępuje weryfikacji zgodności przez organizację, jeżeli taka weryfikacja jest wymagana albo uzasadniona charakterem rozwiązania, sposobem jego wykorzystania lub warunkami zamówienia.
-
-Stwierdzenie rozbieżności między oświadczeniem a rzeczywistym stanem rozwiązania stanowi podstawę do odpowiednich działań przewidzianych w zamówieniu, umowie lub przepisach.
-
----
+Oświadczenie nie zastępuje weryfikacji prowadzonej przez organizację w zakresie wymaganym lub uzasadnionym charakterem rozwiązania i ryzykiem. W przypadku rozbieżności między treścią oświadczenia a wynikami weryfikacji organizacja podejmuje działania wynikające z dokumentacji zamówienia, umowy i obowiązujących przepisów.
 
 ## 4. Uzasadnienie
 
-Dostawcy rozwiązań cyfrowych mogą deklarować ich dostępność lub zgodność z wymaganiami dostępności bez jednoznacznego określenia zakresu takiego twierdzenia i bez przedstawienia podstaw pozwalających je zweryfikować. Utrudnia to organizacji ocenę rozwiązania, jego odbiór oraz weryfikację deklarowanej zgodności.
+Ogólna deklaracja dostawcy o dostępności rozwiązania nie pozwala ustalić, jakie wymagania zostały spełnione, na jakiej podstawie sformułowano takie twierdzenie ani kto przyjmuje za nie odpowiedzialność. Ogranicza to możliwość wiarygodnej oceny ofert, odbioru i dalszego nadzorowania dostępności rozwiązania.
 
-Oświadczenie o zgodności pozwala dostawcy w sposób jednoznaczny określić, w jakim zakresie rozwiązanie cyfrowe spełnia wymagania dostępności. Jego wiarygodność zależy jednak od tego, czy twierdzenie o zgodności jest wynikiem przeprowadzonej oceny i może zostać potwierdzone odpowiednią dokumentacją i dowodami.
+Oświadczenie o zgodności stanowi formalne twierdzenie dostawcy o wyniku oceny przeprowadzonej w określonym zakresie. Jego wartość zależy od jednoznacznego wskazania przedmiotu i wymagań, udokumentowania wyników oceny oraz możliwości zweryfikowania przedstawionych dowodów.
 
-Takie podejście odpowiada zasadom stosowanym w europejskich ramach oceny zgodności produktów. Decyzja Parlamentu Europejskiego i Rady nr 768/2008/WE przyjmuje zasadę, że producent sporządza dokumentację techniczną i przeprowadza odpowiednią procedurę oceny zgodności, a deklarację zgodności sporządza wówczas, gdy w wyniku tej procedury wykazano spełnienie mających zastosowanie wymagań. Deklaracja identyfikuje jej przedmiot, wskazuje wymagania i normy stanowiące podstawę deklarowanej zgodności oraz podmiot przyjmujący za nią odpowiedzialność.
+Przyjęte podejście wykorzystuje zasady znane z europejskich ram oceny zgodności produktów, opisanych w decyzji Parlamentu Europejskiego i Rady nr 768/2008/WE. Decyzja ta stanowi punkt odniesienia dla konstrukcji oświadczenia, nie zaś samodzielną podstawę ogólnego obowiązku sporządzania takiego dokumentu dla wszystkich rozwiązań cyfrowych.
 
-Rozwiązania cyfrowe wymagają dodatkowo jednoznacznego powiązania oświadczenia z określonym stanem rozwiązania. Zmiany oprogramowania, treści, komponentów, konfiguracji lub środowiska użytkowania mogą wpływać na dostępność i powodować utratę aktualności wcześniejszej oceny. Dlatego oświadczenie powinno określać stan rozwiązania objęty oceną i być aktualizowane, gdy zmiany mogą wpływać na deklarowaną zgodność.
+Oświadczenie pełni inną funkcję niż dokumentacja dostępności i raport stopnia zgodności. Dokumentacja gromadzi informacje i dowody, raport przedstawia wyniki oceny poszczególnych wymagań, natomiast oświadczenie zawiera formalne twierdzenie dostawcy o zgodności określonego rozwiązania w oznaczonym zakresie. Żaden z tych dokumentów nie zastępuje czynności weryfikacyjnych i odbiorowych organizacji.
 
-Oświadczenie pełni inną funkcję niż raport stopnia zgodności i dokumentacja dostępności rozwiązania. Dokumentacja gromadzi informacje i dowody umożliwiające ocenę zgodności, raport przedstawia wyniki oceny poszczególnych wymagań, natomiast oświadczenie zawiera formalne twierdzenie dostawcy o zgodności w określonym zakresie i wskazuje odpowiedzialność za to twierdzenie.
-
-Tak skonstruowane oświadczenie może być wykorzystywane przez organizację przy wyborze i odbiorze rozwiązania, a także podczas jego późniejszego użytkowania i rozwoju. Ułatwia weryfikację twierdzeń dostawcy, ale jej nie zastępuje.
-
----
+Powiązanie oświadczenia z wersją i konfiguracją rozwiązania pozwala również rozpoznać sytuacje, w których zmiany wymagają ponownej oceny. Ułatwia to utrzymywanie zgodności w okresie użytkowania i rozwoju rozwiązania.
 
 ## 5. Podstawy prawne
 
-- decyzja Parlamentu Europejskiego i Rady nr 768/2008/WE z dnia 9 lipca 2008 r. w sprawie wspólnych ram dotyczących wprowadzania produktów do obrotu, uchylająca decyzję Rady 93/465/EWG – w szczególności art. R2 i R10 załącznika I, moduł A załącznika II oraz wzór deklaracji zgodności określony w załączniku III;
-- ustawa z dnia 11 września 2019 r. – Prawo zamówień publicznych – w zakresie dokumentów i innych środków dowodowych wymaganych w postępowaniu o udzielenie zamówienia.
+- Decyzja Parlamentu Europejskiego i Rady nr 768/2008/WE z dnia 9 lipca 2008 r. w sprawie wspólnych ram dotyczących wprowadzania produktów do obrotu — jako wzorzec zasad dokumentowania i deklarowania zgodności, w szczególności art. R2 i R10 załącznika I, moduł A załącznika II oraz wzór deklaracji zgodności w załączniku III.
+- Ustawa z dnia 11 września 2019 r. – Prawo zamówień publicznych — w zakresie zasad określania i żądania środków dowodowych w postępowaniach o udzielenie zamówienia.
 
----
+Wskazane regulacje nie ustanawiają powszechnego obowiązku sporządzania oświadczenia opisanego w niniejszym zaleceniu dla każdego rozwiązania cyfrowego. Obowiązek przekazania takiego dokumentu wynika z odpowiednio określonych warunków zamówienia lub umowy, z uwzględnieniem właściwych przepisów.
 
 ## 6. Źródła i opracowania
 
-- EN 301 549, *Accessibility requirements for ICT products and services*;
-- decyzja Parlamentu Europejskiego i Rady nr 768/2008/WE z dnia 9 lipca 2008 r. w sprawie wspólnych ram dotyczących wprowadzania produktów do obrotu.
+- EN 301 549, *Accessibility requirements for ICT products and services*.
+- Decyzja Parlamentu Europejskiego i Rady nr 768/2008/WE z dnia 9 lipca 2008 r. w sprawie wspólnych ram dotyczących wprowadzania produktów do obrotu.
 
----
+## 7. Powiązania między dokumentami
 
-## 7. Powiązania z innymi dokumentami Sieci
-
-Oświadczenie o zgodności wykorzystuje wyniki oceny zgodności i dokumentację opracowaną zgodnie z zaleceniami dotyczącymi **raportowania stopnia zgodności** oraz **dokumentacji dostępności rozwiązania cyfrowego**.
-
-Oświadczenie może stanowić jeden z dokumentów przekazywanych i weryfikowanych podczas **odbioru rozwiązania cyfrowego**. Samo przedstawienie oświadczenia nie zastępuje czynności odbiorowych ani weryfikacji zgodności rozwiązania w zakresie określonym dla danego zamówienia.
-
----
+Zalecenie jest powiązane z opracowaniami dotyczącymi raportowania stopnia zgodności i dokumentacji dostępności rozwiązania cyfrowego, które dostarczają informacji i dowodów stanowiących podstawę oświadczenia. Oświadczenie może być wykorzystywane przy odbiorze rozwiązania cyfrowego, ale nie zastępuje oceny spełnienia wymagań i decyzji odbiorowej.
 
 ## 8. Załączniki (w planie)
 
