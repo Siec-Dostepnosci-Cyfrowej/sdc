@@ -1,31 +1,32 @@
 ---
 id: roczny-cykl-zespolu-ds-dostepnosci
-title: Ramowy roczny cykl pracy Zespołu / Komitetu ds. Dostępności
+title: Ramowy roczny cykl pracy zespołu lub komitetu ds. dostępności
 sidebar_label: Cykl pracy Zespołu 
 sidebar_position: 6
-description: Projekt rocznego cyklu pracy zespołu (komitetu) ds. dostępności cyfrowej
+description: Przedstawia ramowy roczny cykl pracy zespołu, komitetu lub innego gremium ds. dostępności, w tym etapy, działania i rezultaty oraz powiązanie planowania z procesem budżetowym.
 keywords: [kultura organizacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępności cyfrowej, koordynacja dostępnością cyfrową]
 tags: [kultura organizacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępności cyfrowej, koordynacja dostępnością cyfrową]
 opracowanie: Stefan Wajda
 data_zgloszenia: 21 grudnia 2025 r.
-ostatnia_aktualizacja: 21 grudnia 2025 r.
+ostatnia_aktualizacja: 18 października 2026 r.
 wersja_robocza: true
 ---
 
 
 ## 1. Cel cyklu
 
-Celem rocznego cyklu pracy Zespołu / Komitetu ds. Dostępności jest zapewnienie, aby działania w zakresie dostępności – w tym dostępności cyfrowej – były:
+Celem rocznego cyklu pracy gremium, o którym mowa w pkt 3.5 zalecenia [Koordynacja zapewniania dostępności cyfrowej](koordynacja-zapewniania-dostepnosci-cyfrowej) (stałego zespołu, komitetu lub innego odpowiednio umocowanego gremium), zwanego dalej „Zespołem”, jest zapewnienie, aby działania w zakresie dostępności, w tym dostępności cyfrowej, były:
 - planowane,
 - powiązane z procesem budżetowym,
 - systematycznie monitorowane,
 - okresowo oceniane i korygowane.
 
-Cykl pracy wspiera kierownictwo [nazwa podmiotu] w podejmowaniu decyzji opartych na analizie i współpracy międzyobszarowej.
+Cykl pracy wspiera kierownictwo [nazwa podmiotu] w podejmowaniu decyzji opartych na analizie i współpracy międzyobszarowej. Ma zastosowanie w organizacjach, w których koordynacja zapewniania dostępności cyfrowej jest prowadzona z udziałem stałego gremium, w szczególności w organizacjach średnich i dużych (pkt 3.5 i 3.6 zalecenia).
 
 ---
 
 ## 2. Etapy rocznego cyklu pracy
+<!-- TODO: Nagłówek sekcji obejmuje także monitoring bieżący, który nie jest etapem cyklu. Do ustalenia nowe brzmienie nagłówka. -->
 
 ### Etap I – Diagnoza i podsumowanie (I kwartał)
 
@@ -50,11 +51,12 @@ Wypracowanie propozycji kierunków i priorytetów działań.
 
 **Działania Zespołu:**
 - określenie priorytetowych obszarów wymagających działań,
-- przygotowanie projektu planu działań w zakresie dostępności,
-- identyfikacja działań wymagających zaangażowania różnych komórek organizacyjnych.
+- przygotowanie propozycji działań w zakresie dostępności do ujęcia w planach [nazwa podmiotu] albo, gdy jest to uzasadnione, projektu odrębnego planu działań w zakresie dostępności,
+- identyfikacja działań wymagających zaangażowania różnych komórek organizacyjnych,
+- powiązanie proponowanych działań z planem działania na rzecz poprawy zapewniania dostępności osobom ze szczególnymi potrzebami, jeżeli organizacja go opracowuje.
 
 **Rezultaty:**
-- projekt planu działań,
+- propozycje działań do ujęcia w planach albo projekt odrębnego planu działań,
 - lista kluczowych inicjatyw i projektów.
 
 ---
@@ -91,14 +93,14 @@ Przygotowanie organizacji do realizacji zaplanowanych działań w kolejnym roku.
 - przygotowanie organizacji do realizacji działań od początku kolejnego roku.
 
 **Rezultaty:**
-- zatwierdzony plan działań,
+- działania ujęte w zatwierdzonych planach,
 - gotowość organizacyjna do wdrażania.
 
 ---
 
-### Etap V – Monitoring bieżący (cały rok)
+### Monitoring bieżący (przez cały rok)
 
-**Cel etapu:**  
+**Cel:**  
 Zapewnienie ciągłej kontroli postępów i reagowania na problemy.
 
 **Działania Zespołu:**
@@ -115,7 +117,7 @@ Zapewnienie ciągłej kontroli postępów i reagowania na problemy.
 ## 3. Produkty pracy Zespołu w cyklu rocznym
 
 W ramach rocznego cyklu pracy Zespół przygotowuje w szczególności:
-- projekty planów działań,
+- propozycje działań do ujęcia w planach albo projekty odrębnych planów działań,
 - projekty propozycji budżetowych,
 - projekty raportów i sprawozdań,
 - rekomendacje dla kierownictwa [nazwa podmiotu].
@@ -127,7 +129,7 @@ W ramach rocznego cyklu pracy Zespół przygotowuje w szczególności:
 Roczny cykl pracy:
 - włącza dostępność w normalny rytm zarządzania i budżetowania,
 - zapewnia ciągłość i przewidywalność działań,
-- wzmacnia rolę Zespołu jako realnego zaplecza decyzyjnego,
+- wzmacnia rolę Zespołu w uzgadnianiu działań i przygotowywaniu spraw wymagających decyzji kierownictwa,
 - wspiera kierownictwo w odpowiedzialnym zarządzaniu dostępnością.
 
 ---

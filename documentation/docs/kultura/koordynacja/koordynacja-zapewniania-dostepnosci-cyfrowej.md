@@ -8,7 +8,7 @@ keywords: [kultura organizacyjna, zarządzanie, koordynacja dostępności cyfrow
 tags: [kultura organizacyjna, zarządzanie, koordynacja dostępności cyfrowej, zespół ds. dostępności cyfrowej]
 opracowanie: Stefan Wajda
 data_zgloszenia: 21 grudnia 2025 r.
-ostatnia_aktualizacja: 11 października 2026 r.
+ostatnia_aktualizacja: 18 października 2026 r.
 wersja_robocza: true
 ---
 
@@ -157,6 +157,6 @@ Odpowiednio zorganizowana koordynacja łączy zatem rozłożoną odpowiedzialno�
 - [Komentarz do zarządzenia](komentarz-do-zarzadzenia)
 - [Sponsor wykonawczy ds. dostępności](sponsor-wykonawczy)
 - [Zadania i umocowanie osoby koordynującej zapewnianie dostępności cyfrowej](osoba-koordynujaca-dostepnosc-cyfrowa)
-- [Tryb pracy Zespołu / Komitetu ds. Dostępności. Komentarz](tryb-pracy-zespolu-ds-dostepnosci-komentarz)
-- [Ramowy roczny cykl pracy Zespołu / Komitetu ds. Dostępności](roczny-cykl-zespolu-ds-dostepnosci)
+- [Tryb pracy zespołu lub komitetu ds. dostępności](tryb-pracy-zespolu-ds-dostepnosci-komentarz)
+- [Ramowy roczny cykl pracy zespołu lub komitetu ds. dostępności](roczny-cykl-zespolu-ds-dostepnosci)
 - [Wskazówki dla kierowników małych podmiotów publicznych w sprawie zapewniania dostępności cyfrowej](wskazowki-dla-kierownikow)

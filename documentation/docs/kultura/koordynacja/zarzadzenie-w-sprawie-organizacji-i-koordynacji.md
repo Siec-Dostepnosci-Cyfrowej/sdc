@@ -8,14 +8,14 @@ keywords: [kultura organizacyjna, zarządzanie, koordynator ds. dostępności cy
 tags: [kultura organizacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępności cyfrowej, koordynacja dostępnością cyfrową]
 opracowanie: Stefan Wajda
 data_zgloszenia: 21 grudnia 2025 r.
-ostatnia_aktualizacja: 20 lutego 2026 r.
+ostatnia_aktualizacja: 18 października 2026 r.
 wersja_robocza: true
 ---
 
 
-**Zarządzenie nr … [organ wydający] z dnia …………………**
+Zarządzenie nr … [organ wydający] z dnia …………………
 
-**w sprawie organizacji i koordynacji zapewniania dostępności w [nazwa podmiotu]**
+w sprawie organizacji i koordynacji zapewniania dostępności w [nazwa podmiotu]
 
 ---
 
@@ -36,8 +36,8 @@ wersja_robocza: true
 
 ## § 3. Powołanie zespołu ds. dostępności
 
-1. Powołuje się **Zespół ds. Dostępności**, zwany dalej „Zespołem”.
-2. **Celem Zespołu jest projektowanie, wprowadzanie i utrwalanie w funkcjonowaniu [nazwa podmiotu] zmian, które zapewnią możliwie najpełniejszą dostępność architektoniczną, cyfrową oraz informacyjno-komunikacyjną wszystkich realizowanych w [nazwa podmiotu] procesów i usług.**
+1. Powołuje się Zespół ds. Dostępności, zwany dalej „Zespołem”.
+2. Celem Zespołu jest projektowanie, wprowadzanie i utrwalanie w funkcjonowaniu [nazwa podmiotu] zmian, które zapewnią możliwie najpełniejszą dostępność architektoniczną, cyfrową oraz informacyjno-komunikacyjną wszystkich realizowanych w [nazwa podmiotu] procesów i usług.
 3. W celu realizacji wskazanego celu Zespół planuje, koordynuje i monitoruje działania związane z zapewnianiem dostępności, w szczególności w obszarze dostępności cyfrowej.
 4. Zespół pełni funkcję opiniodawczo-doradczą oraz koordynacyjną wobec kierownictwa [nazwa podmiotu].
 
@@ -58,7 +58,7 @@ wersja_robocza: true
 
 ## § 5. Koordynator ds. dostępności
 
-1. Wyznacza się **Koordynatora ds. dostępności**, który organizuje i prowadzi prace Zespołu.
+1. Wyznacza się Koordynatora ds. dostępności, który organizuje i prowadzi prace Zespołu.
 2. Do zadań Koordynatora należy w szczególności:
    1. inicjowanie i koordynowanie działań planistycznych w zakresie dostępności,
    2. wspieranie komórek organizacyjnych w realizacji działań związanych z dostępnością,
@@ -78,7 +78,7 @@ wersja_robocza: true
 
 ## § 7. Biuro ds. Dostępności
 
-1. W podmiotach publicznych o złożonej strukturze organizacyjnej lub znaczącej skali działalności koordynacja zapewniania dostępności może być wspierana przez **biuro ds. dostępności** lub inną wyodrębnioną komórkę organizacyjną.
+1. W podmiotach publicznych o złożonej strukturze organizacyjnej lub znaczącej skali działalności koordynacja zapewniania dostępności może być wspierana przez biuro ds. dostępności lub inną wyodrębnioną komórkę organizacyjną.
 2. Biuro ds. dostępności stanowi zaplecze organizacyjne i eksperckie Koordynatora ds. dostępności.
 3. Do zadań biura ds. dostępności może należeć w szczególności:
    - bieżąca koordynacja działań prowadzonych w ramach planów dostępności,
