@@ -1,14 +1,14 @@
 ---
-id: dostępny-proces-wprowadzenia-do-pracy
+id: dostepny-proces-wprowadzenia-do-pracy
 title: Dostępny cyfrowo proces wprowadzenia do pracy 
 description: Proces wdrażania nowych pracowników powinien uwzględniać zasady dostępności cyfrowej. 
-sidebar_label: Proces wprowadzenia do pracy 
+sidebar_label: Wprowadzenie do pracy 
 sidebar_position: 1
 keywords: [pracownicy,wprowadzanie do pracy,onboarding]
 tags: [pracownicy,wprowadzanie do pracy,onboarding]
 opracowanie: Stefan Wajda
 data_zgloszenia: 18 sierpnia 2025 r.
-ostatnia_aktualizacja: 18 sierpnia 2025 r.
+ostatnia_aktualizacja: 12 listopada 2025 r.
 wersja_robocza: true
 ---
 
