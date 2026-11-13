@@ -130,7 +130,7 @@ Możliwość składania aplikacji drogą elektroniczną ogranicza bariery związ
 
 Zapewnienie dostępności cyfrowej poszczególnych narzędzi i treści jest konieczne, ale nie zawsze wystarczające. Dostępność zależy również od sposobu zorganizowania całego procesu, możliwości zgłoszenia indywidualnych potrzeb, zapewnienia potrzebnych dostosowań oraz sprawnego reagowania na bariery ujawnione podczas rekrutacji lub wdrażania. Szczególne znaczenie ma postępowanie kwalifikacyjne, w którym sposób przeprowadzenia testu, zadania lub rozmowy nie powinien tworzyć bariery niezwiązanej z kwalifikacjami i wymaganiami ocenianymi na danym stanowisku.
 
-Dostępne wdrażanie do pracy pozwala pracownikowi od początku korzystać z potrzebnych narzędzi, informacji, szkoleń i komunikacji oraz wykonywać powierzone zadania. Uwzględnienie dostępności w całym procesie — od pierwszego kontaktu z kandydatem do rozpoczęcia przez niego pracy — wspiera realizację polityki zatrudniania osób z niepełnosprawnościami i zapobiega sytuacji, w której bariery cyfrowe ograniczają możliwość podjęcia zatrudnienia mimo posiadania wymaganych kwalifikacji.
+Dostępne wdrażanie do pracy pozwala pracownikowi od początku korzystać z potrzebnych narzędzi, informacji, szkoleń i komunikacji oraz wykonywać powierzone zadania. Uwzględnienie dostępności w całym procesie — od pierwszego kontaktu z kandydatem do zakończenia wdrażania do pracy — wspiera realizację polityki zatrudniania osób z niepełnosprawnościami i zapobiega sytuacji, w której bariery cyfrowe ograniczają możliwość podjęcia zatrudnienia mimo posiadania wymaganych kwalifikacji.
 
 ---
 
