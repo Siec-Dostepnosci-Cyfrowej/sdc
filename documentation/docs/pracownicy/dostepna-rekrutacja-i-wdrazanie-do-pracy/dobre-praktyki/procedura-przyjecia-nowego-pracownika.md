@@ -4,14 +4,12 @@ title: Procedura przyjęcia nowego pracownika
 sidebar_position: 2
 sidebar_label: Opis praktyki, Pszczyna
 description: Przygotowanie nowych pracowników do obowiązków związanych z zapewnianiem dostępności
-keywords: [wiedza i umiejętności,pracownicy,adaptacja pracowników,wprowadzanie do pracy,]
 tags: [wiedza i umiejętności,pracownicy,adaptacja pracowników,wprowadzanie do pracy,]
 podmiot_realizujacy: Starostwo Powiatowe w Pszczynie
 zglaszajacy: Katarzyna Granda, koordynator ds. dostępności cyfrowej
 opracowanie: Katarzyna Granda 
 data_zgloszenia: 25 czerwca 2025 r.
 ostatnia_aktualizacja: 18 sierpnia 2025 r.
-status: utrwalona # projekt, wdrażana, utrwalona
 wersja_robocza: true
 ---
 

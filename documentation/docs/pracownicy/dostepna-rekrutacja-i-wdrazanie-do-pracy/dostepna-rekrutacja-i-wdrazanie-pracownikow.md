@@ -4,11 +4,11 @@ title: Dostępna rekrutacja i wdrażanie pracowników
 description: Organizacja zapewnia dostępność rekrutacji i wdrażania pracowników, w tym wykorzystywanych rozwiązań cyfrowych, treści i komunikacji, oraz uwzględnia indywidualne potrzeby kandydatów i nowych pracowników.
 sidebar_label: Zalecenie
 sidebar_position: 0
-keywords: [dostępność cyfrowa, osoby z niepełnosprawnościami, rekrutacja, postępowanie kwalifikacyjne, wdrażanie pracowników, kandydaci, dostępne środowisko pracy]
-tags: [rekrutacja, wdrażanie pracowników, osoby z niepełnosprawnościami]
+tags: [rekrutacja, wdrażanie pracowników, osoby z niepełnosprawnościami, postępowanie kwalifikacyjne, dostępne środowisko pracy]
 opracowanie: Katarzyna Granda, Stefan Wajda
+wspolpraca: Hanna Pasterny
 data_zgloszenia: 19 czerwca 2026 r.
-ostatnia_aktualizacja: 26 września 2026 r.
+ostatnia_aktualizacja: 11 listopada 2026 r.
 wersja_robocza: true
 ---
 
@@ -20,7 +20,7 @@ Zapewnienie osobom z niepełnosprawnościami równych możliwości uczestnictwa 
 
 ## 2. Zalecenie
 
-Organizacja zapewnia dostępność procesów rekrutacji i wdrażania pracowników, w tym wykorzystywanych w nich rozwiązań cyfrowych, treści i komunikacji, oraz uwzględnia indywidualne potrzeby kandydatów i pracowników z niepełnosprawnościami.
+Organizacja zapewnia dostępność cyfrową procesów rekrutacji i wdrażania pracowników, w tym możliwość składania aplikacji drogą elektroniczną, oraz uwzględnia indywidualne potrzeby kandydatów i pracowników z niepełnosprawnościami.
 
 ---
       
@@ -67,6 +67,8 @@ Obejmuje to w szczególności:
 - pocztę elektroniczną i inne kanały komunikacji cyfrowej;
 - narzędzia wykorzystywane do spotkań i rozmów prowadzonych zdalnie;
 - informacje o przebiegu rekrutacji i możliwości zgłoszenia potrzeb związanych z dostępnością.
+
+Organizacja umożliwia kandydatom składanie aplikacji drogą elektroniczną. Zapewnia dostępność cyfrową sposobu składania aplikacji oraz przekazuje kandydatom jednoznaczne informacje o sposobie i warunkach aplikowania. Możliwość aplikowania drogą elektroniczną nie wyklucza innych sposobów składania zgłoszeń.
 
 Jeżeli organizacja korzysta z zewnętrznych platform, usług lub wykonawców, uwzględnia ich dostępność przy wyborze rozwiązania i organizowaniu procesu rekrutacji.
 
@@ -124,18 +126,37 @@ Wyniki oceny są wykorzystywane do doskonalenia kolejnych procesów rekrutacji i
 
 Rekrutacja i wdrażanie pracowników są w coraz większym stopniu realizowane z wykorzystaniem rozwiązań cyfrowych. Ogłoszenia o pracy, formularze aplikacyjne, komunikacja z kandydatami, spotkania i rozmowy prowadzone zdalnie, testy i zadania kwalifikacyjne, a następnie systemy informatyczne, dokumenty elektroniczne i materiały szkoleniowe wykorzystywane podczas wdrażania mogą tworzyć bariery uniemożliwiające lub utrudniające osobom z niepełnosprawnościami udział w tych procesach.
 
+Możliwość składania aplikacji drogą elektroniczną ogranicza bariery związane z koniecznością osobistego dostarczania dokumentów lub korzystania wyłącznie z tradycyjnych sposobów komunikacji. Samo udostępnienie kanału elektronicznego nie oznacza jednak zapewnienia dostępności cyfrowej. Znaczenie ma również dostępność wykorzystywanych narzędzi, formularzy, informacji i sposobu przekazywania dokumentów.
+
 Zapewnienie dostępności cyfrowej poszczególnych narzędzi i treści jest konieczne, ale nie zawsze wystarczające. Dostępność zależy również od sposobu zorganizowania całego procesu, możliwości zgłoszenia indywidualnych potrzeb, zapewnienia potrzebnych dostosowań oraz sprawnego reagowania na bariery ujawnione podczas rekrutacji lub wdrażania. Szczególne znaczenie ma postępowanie kwalifikacyjne, w którym sposób przeprowadzenia testu, zadania lub rozmowy nie powinien tworzyć bariery niezwiązanej z kwalifikacjami i wymaganiami ocenianymi na danym stanowisku.
 
-Dostępne wdrażanie do pracy pozwala pracownikowi od początku korzystać z potrzebnych narzędzi, informacji, szkoleń i komunikacji oraz wykonywać powierzone zadania. Uwzględnienie dostępności w całym procesie — od pierwszego kontaktu z kandydatem do rozpoczęcia przez niego pracy — wspiera realizację polityki zatrudniania osób z niepełnosprawnościami i zapobiega sytuacji, w której bariery cyfrowe ograniczają możliwość podjęcia zatrudnienia mimo posiadania wymaganych kwalifikacji.
+Dostępne wdrażanie do pracy pozwala pracownikowi od początku korzystać z potrzebnych narzędzi, informacji, szkoleń i komunikacji oraz wykonywać powierzone zadania. Uwzględnienie dostępności w całym procesie — od pierwszego kontaktu z kandydatem do zakończenia wdrażania do pracy — wspiera realizację polityki zatrudniania osób z niepełnosprawnościami i zapobiega sytuacji, w której bariery cyfrowe ograniczają możliwość podjęcia zatrudnienia mimo posiadania wymaganych kwalifikacji.
 
 ---
 
 ## 5. Podstawy prawne
 
 - Konwencja ONZ o prawach osób niepełnosprawnych, w szczególności art. 9 i art. 27.
-- Kodeks pracy.
+- Art. 94 pkt 1 i 2b, art. 11³, art. 18³a–18³b Kodeksu Pracy 
 - Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami.
 - Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
 - Norma PN-EN 301 549 „Wymagania dostępności dla produktów i usług ICT”.
+
+---
+
+## 6. Źródła, opracowania
+
+- [Stelmaszyk A., Adaptacja pracownika w pracy](https://gamfi.com/pl/blog/adaptacja-pracownika-w-pracy-etapy-uczestnicy-przyklady)
+
+---
+
+## 7. Załączniki
+
+- [Dostępny cyfrowo proces wprowadzenia do pracy](dostepny-proces-wprowadzenia-do-pracy)
+
+## 8. Dobre praktyki
+
+- [Procedura przyjęcia nowego pracownika](./dobre-praktyki/procedura-przyjecia-nowego-pracownika)
+- [Adaptacja zawodowa nowych pracowników](./dobre-praktyki/adaptacja-zawodowa-nowych-pracowników)
 
 ---
