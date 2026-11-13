@@ -1,121 +1,101 @@
 ---
-id: definiowanie-i-ocena-wymagan-dostepnosci-cyfrowej-w-ofertach 
-title: Definiowanie i ocena wymagań dostępności cyfrowej w ofertach
-description: Definiowanie wymagań dostępności cyfrowej oraz ocena wiarygodności deklaracji oferentów.
-sidebar_position: 0
+id: wymagania-dostepnosci-w-zamowieniach
+title: Określanie i ocena spełnienia wymagań dostępności cyfrowej w postępowaniach zakupowych
 sidebar_label: Zalecenie
-keywords: [zamówienia publiczne, zaopatrzenie]
-tags: [zamówienia publiczne, zaopatrzenie]
+sidebar_position: 0
+description: Zalecenie dotyczące określania wymagań dostępności cyfrowej w zamówieniach, pozyskiwania dowodów od oferentów oraz oceny wiarygodności ofert.
+tags: [zamówienia publiczne, zaopatrzenie, wymagania dostępności cyfrowej]
 opracowanie: Stefan Wajda
 data_zgloszenia: 12 czerwca 2025 r.
-ostatnia_aktualizacja: 26 sierpnia 2026 r.
+ostatnia_aktualizacja: 28 października 2026 r.
 wersja_robocza: true
 ---
 
 ## 1. Cel zalecenia
 
-Celem zalecenia jest zapewnienie, aby organizacja określała wymagania dostępności cyfrowej dla nabywanych produktów i usług cyfrowych oraz sposób wykazania przez oferentów zdolności do spełnienia tych wymagań. Zalecenie wspiera organizacje w ocenie wiarygodności deklaracji składanych przez oferentów, ograniczaniu ryzyka wyboru wykonawcy niezdolnego do zapewnienia i utrzymania dostępności cyfrowej oraz wzmacnianiu odpowiedzialności wykonawców za zgodność oferowanych rozwiązań z wymaganiami zamawiającego.
-
----
+Zapewnienie jednoznacznego określania wymagań dostępności cyfrowej w zamówieniach oraz możliwości wiarygodnej oceny ich spełnienia na podstawie ofert
 
 ## 2. Zalecenie
 
-Organizacja określa wymagania dostępności cyfrowej dla nabywanych produktów i usług cyfrowych oraz wskazuje sposób wykazania przez oferenta zdolności do spełnienia tych wymagań. Organizacja dokonuje oceny wiarygodności deklaracji oferentów na podstawie informacji i dowodów przedstawionych w ofercie.
-
----
+Organizacja określa wymagania dostępności cyfrowej odpowiednie do przedmiotu zamówienia oraz sposób wykazania ich spełnienia, a następnie ocenia informacje i dowody przedstawione przez oferentów.
 
 ## 3. Rekomendacje
 
-1. Organizacja określa wymagania dotyczące dostępności cyfrowej odpowiednie do rodzaju nabywanego produktu lub usługi cyfrowej.
-2. Organizacja definiuje wymagania w oparciu o Szablon wymagań dostępności w zakupach rozwiązań zawierających technologie i treści cyfrowe.
-3. Organizacja określa EN 301 549 jako podstawowy zbiór wymagań dostępności cyfrowej oraz, odpowiednio do charakteru nabywanego rozwiązania, dodatkowe wymagania dotyczące:
-   - utrzymania zgodności podczas rozwoju i aktualizacji rozwiązania,
-   - dostosowania rozwiązania do potrzeb organizacji,
-   - wspierania tworzenia dostępnych treści cyfrowych,
-   - wspierania pracowników z niepełnosprawnościami korzystających z rozwiązania,
-   - dostępności komponentów i usług stron trzecich,
-   - wykorzystywania produktów nakładkowych,
-   - dokumentowania zgodności rozwiązania,
-   - przygotowania deklaracji dostępności,
-   - udostępniania wskazówek użytkownikom technologii wspomagających,
-   - generowania dostępnych dokumentów i innych treści nieinternetowych,
-   - usuwania zgłoszonych lub wykrytych problemów dostępności cyfrowej.
-4. Organizacja może określić dodatkowe wymagania dostępności cyfrowej wykraczające poza minimalne wymagania określone w EN 301 549, jeżeli jest to uzasadnione potrzebami użytkowników, charakterem nabywanego rozwiązania lub sposobem jego wykorzystania.
-5. Dodatkowe wymagania mogą obejmować w szczególności wybrane kryteria sukcesu WCAG na poziomie AAA oraz inne wymagania zwiększające dostępność, użyteczność lub komfort korzystania z rozwiązania przez osoby z niepełnosprawnościami.
-6. Organizacja określa wymaganą formę dokumentacji dostepności rozwiązania oraz dowody potwierdzające spełnienie wymagań dostępności cyfrowej odpowiednie do rodzaju zamówienia, charakteru nabywanego rozwiązania oraz etapu postępowania.
-7. Organizacja określa sposób oceny informacji i dowodów przedstawionych przez oferentów na potwierdzenie spełnienia wymagań dostępności cyfrowej oraz zasady oceny kryteriów dodatkowych.
-8. Organizacja dokumentuje ocenę wiarygodności deklaracji oraz informacji i dowodów przedstawionych przez oferentów na potwierdzenie spełnienia wymagań dostępności cyfrowej.
+### 3.1. Dobór wymagań do przedmiotu zamówienia
 
----
+Organizacja rozpoznaje potrzeby użytkowników i sposób wykorzystania nabywanego rozwiązania, a następnie określa wymagania dostępności cyfrowej odpowiednie do rodzaju produktu, usługi, technologii lub treści cyfrowych. Uwzględnia przy tym wymagania prawne oraz znaczenie rozwiązania dla realizacji zadań organizacji.
+
+### 3.2. Stosowanie normy EN 301 549
+
+Organizacja przyjmuje odpowiednie postanowienia normy PN-ETSI EN 301 549 jako podstawowy wzorzec określania wymagań dostępności cyfrowej dla nabywanych rozwiązań. W dokumentacji zamówienia jednoznacznie wskazuje właściwe wymagania i ich zakres zastosowania, unikając nieuzasadnionego przepisywania lub parafrazowania postanowień normy.
+
+### 3.3. Wymagania uzupełniające
+
+Organizacja określa, odpowiednio do przedmiotu zamówienia, dodatkowe wymagania dotyczące w szczególności:
+
+- zapewniania i utrzymywania zgodności podczas realizacji, aktualizacji i rozwoju rozwiązania;
+- możliwości dostosowywania rozwiązania do potrzeb organizacji i użytkowników bez utraty dostępności;
+- wspierania tworzenia i publikowania dostępnych treści cyfrowych;
+- dostępności narzędzi wykorzystywanych przez pracowników, w tym osoby z niepełnosprawnościami;
+- dostępności komponentów i usług pochodzących od innych dostawców;
+- stosowania produktów nakładkowych (overlay) i ich wpływu na dostępność rozwiązania;
+- dostępności dokumentów i innych treści generowanych przez rozwiązanie;
+- informacji i wskazówek dla użytkowników technologii wspomagających;
+- dokumentowania dostępności i przygotowywania informacji potrzebnych do deklaracji dostępności;
+- zgłaszania i usuwania wykrytych niezgodności.
+
+Wymagania uzupełniające nie zastępują wymagań wynikających z normy i obowiązujących przepisów.
+
+### 3.4. Wymagania wykraczające poza poziom podstawowy
+
+Organizacja może określać wymagania zwiększające dostępność i użyteczność rozwiązania ponad obowiązujące minimum, jeżeli uzasadniają je potrzeby użytkowników i sposób wykorzystania rozwiązania. Wymagania obowiązkowe odróżnia od dodatkowych właściwości, które mogą stanowić kryteria oceny ofert, zgodnie z zasadami właściwymi dla danego postępowania.
+
+### 3.5. Informacje i dowody wymagane od oferentów
+
+Organizacja określa informacje, dokumentację dostępności i dowody, które oferenci przedstawiają w celu wykazania spełnienia wymagań. Ich rodzaj i szczegółowość dostosowuje do przedmiotu zamówienia, charakteru oferowanego rozwiązania i etapu postępowania. Rozróżnia dowody dotyczące istniejących właściwości rozwiązania od informacji o sposobie zapewnienia dostępności w rozwiązaniu, które dopiero zostanie wytworzone lub dostosowane.
+
+### 3.6. Zasady oceny ofert
+
+Organizacja przed rozpoczęciem oceny określa sposób weryfikowania informacji i dowodów przedstawianych przez oferentów oraz zasady stosowania dodatkowych kryteriów oceny. Ocenia spełnienie wymagań obowiązkowych odrębnie od właściwości wykraczających poza wymagane minimum. Nie przyznaje punktów za samo spełnienie wymagań, które stanowią warunek zgodności przedmiotu zamówienia.
+
+### 3.7. Ocena wiarygodności i dokumentowanie wyników
+
+Organizacja ocenia spójność, kompletność i wiarygodność deklaracji oferentów oraz przedstawionych informacji i dowodów. Dokumentuje podstawy oceny, stwierdzone braki, wątpliwości i rozstrzygnięcia. Uwzględnia ograniczenia dowodów przedstawionych na etapie oferty, w szczególności gdy przedmiot zamówienia ma dopiero powstać.
 
 ## 4. Uzasadnienie
 
-Zapewnienie dostępności cyfrowej nabywanych produktów i usług rozpoczyna się od właściwego określenia wymagań wobec wykonawców. Zamawiający nie jest jednak w stanie przed udzieleniem zamówienia potwierdzić, że oferowane rozwiązanie spełnia wszystkie wymagania dostępności. Może natomiast określić wymagania dostępności, wskazać sposób wykazania ich spełnienia oraz ocenić wiarygodność deklaracji złożonych przez oferentów.
+Zapewnianie dostępności cyfrowej nabywanych produktów i usług rozpoczyna się od prawidłowego określenia wymagań w dokumentacji zamówienia. Samo ogólne żądanie zgodności z zasadami dostępności nie zapewnia jednak możliwości porównania ofert ani sprawdzenia, czy oferent potrafi wykazać spełnienie wymagań.
 
-Ocena prowadzona w postępowaniu zakupowym nie zastępuje późniejszego odbioru rozwiązania ani oceny jego rzeczywistej dostępności. Jej celem jest ustalenie, czy oferent wykazał, że rozumie wymagania dostępności, dysponuje odpowiednimi kompetencjami, rozwiązaniami organizacyjnymi i technicznymi oraz jest zdolny do zapewnienia i utrzymania zgodności oferowanego rozwiązania z wymaganiami określonymi przez zamawiającego.
+Odwołanie do odpowiednich postanowień normy EN 301 549 ogranicza ryzyko pominięcia wymagań technicznych lub zmiany ich znaczenia wskutek swobodnego przepisywania. Wymagania uzupełniające pozwalają uwzględnić sposób wykorzystania rozwiązania, jego dalszy rozwój, potrzeby pracowników i użytkowników oraz dokumentowanie dostępności.
 
-Dlatego organizacja określa nie tylko wymagania dotyczące dostępności cyfrowej, lecz również oczekiwane informacje i dowody pozwalające ocenić wiarygodność deklaracji oferenta. Mogą one dotyczyć między innymi sposobu zapewniania zgodności z normą EN 301 549, utrzymania dostępności podczas rozwoju i aktualizacji rozwiązania, dostępności narzędzi dla pracowników, wspierania tworzenia dostępnych treści, dokumentowania zgodności oraz innych aspektów mających znaczenie dla zapewnienia dostępności w całym cyklu życia produktu lub usługi.
+W postępowaniu zakupowym organizacja ocenia informacje i dowody dostępne na etapie oferty. Nie jest to równoznaczne z potwierdzeniem rzeczywistej dostępności gotowego rozwiązania. W przypadku rozwiązań tworzonych na zamówienie istotna jest również ocena sposobu, w jaki wykonawca zamierza osiągnąć i wykazać zgodność. Kontrola realizacji zobowiązań i weryfikacja gotowego rozwiązania następują w toku wykonywania umowy i podczas odbioru.
 
-Takie podejście ogranicza ryzyko wyboru wykonawcy, który deklaruje spełnienie wymagań dostępności, lecz nie potrafi wykazać zdolności do ich realizacji i utrzymania. Jednocześnie wzmacnia odpowiedzialność wykonawców za przedstawiane deklaracje oraz sprzyja prowadzeniu postępowań zakupowych opartych na przejrzystych, obiektywnych i udokumentowanych kryteriach oceny.
+Rozdzielenie wymagań obowiązkowych od dodatkowych kryteriów oceny ofert oraz dokumentowanie podstaw rozstrzygnięć sprzyjają przejrzystości postępowania i ograniczają ryzyko nabycia rozwiązania, którego dostępności nie będzie można skutecznie zapewnić lub utrzymać.
 
----
+## 5. Podstawy prawne
 
-## Na czym polega proponowane podejście
+- [Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000848), w szczególności art. 5.
+- [Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001696), w zakresie obowiązków uwzględniania dostępności przy realizacji zadań publicznych.
+- [Ustawa z dnia 11 września 2019 r. – Prawo zamówień publicznych](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002019), w zakresie opisu przedmiotu zamówienia, środków dowodowych i kryteriów oceny ofert.
 
-W wielu postępowaniach wymagania dostępności cyfrowej są formułowane przez zamawiającego poprzez własne opisanie lub częściowe przepisanie wymagań określonych w normie EN 301 549 albo wytycznych WCAG.
+## 6. Źródła i opracowania
 
-Takie podejście może prowadzić do pominięcia części wymagań normy, niezamierzonej zmiany ich znaczenia, powstania niespójności pomiędzy dokumentacją zamówienia a normą lub przeniesienia na zamawiającego odpowiedzialności za poprawność interpretacji wymagań technicznych.
-
-Proponowane rozwiązanie opiera się na innej zasadzie. Organizacja wskazuje normę EN 301 549 jako podstawowy zbiór wymagań dostępności cyfrowej, a następnie określa dodatkowe wymagania dotyczące kwestii, które zwykle nie są wystarczająco opisane przez samo odwołanie do normy lub które wymagają uzyskania od wykonawcy dodatkowych informacji i zobowiązań.
-
-W szczególności dotyczy to:
-
-- sposobu zapewniania i utrzymywania zgodności rozwiązania z wymaganiami dostępności;
-- możliwości dostosowywania rozwiązania bez utraty dostępności;
-- wspierania tworzenia dostępnych treści cyfrowych;
-- dostępności narzędzi dla pracowników z niepełnosprawnościami;
-- stosowania produktów nakładkowych (overlay);
-- dokumentowania dostępności rozwiązania;
-- zapewniania wskazówek dla użytkowników technologii wspomagających;
-- dostępności dokumentów i innych treści nieinternetowych generowanych przez rozwiązanie;
-- dostępności komponentów i usług stron trzecich.
-
-Celem tych wymagań nie jest zastępowanie normy EN 301 549, lecz uzupełnienie jej o informacje niezbędne do oceny ryzyka zakupu oraz zdolności wykonawcy do zapewnienia i utrzymania dostępności cyfrowej w całym cyklu życia rozwiązania.
-
-Zalecenie nie rekomenduje przepisywania wymagań normy EN 301 549 do dokumentacji zamówienia własnymi słowami. Podstawowym wymaganiem powinno być odwołanie do normy, natomiast dodatkowe wymagania powinny dotyczyć informacji, dowodów i zobowiązań niezbędnych do oceny zdolności wykonawcy do zapewnienia i utrzymania dostępności.
-
----
-
-## 5. Podstawa prawna
-
-- Art. 5 ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych z dnia 4 kwietnia 2019 r. z późn. zmianami (Dz. U. 2019, poz. 848)
-- Art. 4 pkt. 3 ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami z dnia 19 lipca 2019 r. (Dz. U. 2019, poz. 1696)
-- Art. 5 pkt. 2 ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami z dnia 19 lipca 2019 r. (Dz. U. 2019, poz. 1696)
-- Art. 106 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych z późn. zmianami (Dz. U. 2019 poz. 2019)
-
----
-
-## 6. Źródła, opracowania
-
-1. [Procurement accessibility guidance](https://www.makethingsaccessible.com/guides/procurement-accessibility-guidance/)
-2. [Procurement scoring and maturity](https://www.makethingsaccessible.com/guides/procurement-scoring-and-maturity/)
-
----
+1. [Procurement accessibility guidance](https://www.makethingsaccessible.com/guides/procurement-accessibility-guidance/).
+2. [Procurement scoring and maturity](https://www.makethingsaccessible.com/guides/procurement-scoring-and-maturity/).
+3. PN-ETSI EN 301 549, *Wymagania dostępności produktów i usług ICT*.
 
 ## 7. Załączniki
 
-1. [Szablon wymagań dostępności w zakupach rozwiązań zawierających technologie i treści cyfrowe](zasady-oceny-ofert-szablon-wymagan.md)
-2. [Stosowanie szablonu wymagań dostępności cyfrowej](stosowanie-szablonu-wymagan.md)
-3. [Katalog dowodów dostępności cyfrowej](katalog-dowodow-dostepnosci-cyfrowej.md)
-4. [Szablon macierzy punktacji](zasady-oceny-ofert-macierz-punktacji.xlsx)
-
-
----
+1. [Szablon wymagań dostępności w zakupach rozwiązań zawierających technologie i treści cyfrowe](zasady-oceny-ofert-szablon-wymagan.md).
+2. [Stosowanie szablonu wymagań dostępności cyfrowej](stosowanie-szablonu-wymagan.md).
+3. [Katalog dowodów dostępności cyfrowej](katalog-dowodow-dostepnosci-cyfrowej.md).
+4. [Szablon macierzy punktacji](zasady-oceny-ofert-macierz-punktacji.xlsx).
 
 ## Historia wersji
 
-| **Wersja** | **Autor** | **Data** | **Opis zmian** |
+| Wersja | Autor | Data | Opis zmian |
 | --- | --- | --- | --- |
 | RC | Stefan Wajda | 12.06.2025 | Projekt – kandydat do wydania |
 | 1.0 | Stefan Wajda | 24.06.2026 | Wersja do publikacji |
 | 1.1 | Damian Żłobicki | 26.08.2026 | Dodanie załącznika dotyczącego dostępności narzędzi autorskich |
+| robocza | Stefan Wajda | 28.10.2026 | Normalizacja struktury i treści zalecenia |
