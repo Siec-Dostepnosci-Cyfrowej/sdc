@@ -1,91 +1,99 @@
 ---
 id: zasady-stosowania-biblioteki-testow-dostepnosci-cyfrowej
-title: Zasady stosowania biblioteki testów dostępności cyfrowej
-description: Zasady doboru i stosowania scenariuszy testów dostępności cyfrowej oraz dokumentowania i wykorzystywania wyników testów.
-sidebar_label: Zasady stosowania biblioteki
+title: Zasady stosowania Biblioteki testów dostępności cyfrowej
+description: Zasady doboru i stosowania scenariuszy testów dostępności cyfrowej oraz dokumentowania i wykorzystywania ustaleń z badań.
+sidebar_label: Zasady stosowania Biblioteki
 sidebar_position: 1
-keywords: [dostępność cyfrowa, biblioteka testów, scenariusze testów, dobór testów, testowanie dostępności]
 tags: [dostępność cyfrowa, biblioteka testów, scenariusze testów, dobór testów, testowanie dostępności]
 opracowanie: Stefan Wajda
 data_zgloszenia: 11 czerwca 2026 r.
-ostatnia_aktualizacja: 11 czerwca 2026 r.
+ostatnia_aktualizacja: 23 października 2026 r.
 wersja_robocza: true
 ---
 
 ## Cel dokumentu
 
-Dokument określa zasady doboru i stosowania scenariuszy z Biblioteki testów dostępności cyfrowej oraz dokumentowania i wykorzystywania uzyskanych wyników.
+Dokument określa zasady doboru i stosowania scenariuszy z Biblioteki testów dostępności cyfrowej oraz dokumentowania i wykorzystywania uzyskanych ustaleń.
 
-Biblioteka może być wykorzystywana w różnych procesach wymagających uzyskania informacji o dostępności i zgodności rozwiązań cyfrowych. Sposób doboru i stosowania testów zależy od celu i zakresu procesu, w którym są wykonywane.
+Biblioteka służy systematycznemu rozpoznawaniu stanu dostępności rozwiązań cyfrowych, wykrywaniu i diagnozowaniu problemów dostępności oraz ustalaniu zgodności z mającymi zastosowanie wymaganiami. Scenariusze mogą być wykorzystywane w różnych procesach zapewniania dostępności cyfrowej. Ich dobór i sposób stosowania wynikają z potrzeby informacyjnej oraz celu i zakresu badania.
 
 Dokument nie określa zasad opracowywania, klasyfikowania, weryfikowania, aktualizowania i wycofywania scenariuszy testów.
 
 ## 1. Biblioteka testów dostępności cyfrowej
 
-Biblioteka testów dostępności cyfrowej jest wspólnym, rozwijanym zbiorem udokumentowanych scenariuszy testów służącym standaryzacji metodyki badania dostępności i zgodności rozwiązań cyfrowych.
+Biblioteka testów dostępności cyfrowej jest wspólnym instrumentarium Sieci Dostępności Cyfrowej, udostępnianym i utrzymywanym jako narzędzie wspierające organizacje w systematycznym obserwowaniu, badaniu i ocenianiu stanu dostępności rozwiązań cyfrowych. Zawarte w niej scenariusze pomagają rozpoznawać i diagnozować problemy dostępności oraz ustalać zgodność z wymaganiami. Biblioteka nie stanowi obowiązującej metodyki badania i oceniania dostępności ani nie narzuca organizacjom określonego sposobu prowadzenia badań. Organizacje mogą wykorzystywać jej scenariusze odpowiednio do własnych potrzeb oraz celów i zakresu prowadzonych badań.
 
-Scenariusz testu opisuje powtarzalny sposób przeprowadzenia badania i uzyskania określonych informacji o dostępności lub zgodności rozwiązania cyfrowego albo jego części. Przedmiotem testu może być w szczególności cecha dostępności, obiekt albo proces użytkownika.
+Scenariusz testu opisuje powtarzalny sposób przeprowadzenia badania i uzyskania określonych informacji o dostępności rozwiązania cyfrowego albo jego części. Przedmiotem testu może być w szczególności określona cecha dostępności, obiekt albo proces użytkownika.
 
-Scenariusze z Biblioteki mogą być wykorzystywane w różnych procesach systemu zapewniania dostępności cyfrowej, w szczególności podczas:
+Przedmiotem rozpoznania są konkretne obiekty, ich właściwości, zachowania oraz warunki korzystania z nich. Wymagania dostępności stanowią podstawę oceniania zgodności i pomagają diagnozować problemy, ale nie ograniczają zakresu rozpoznawania barier dostępności. Problem może zostać stwierdzony i udokumentowany również wtedy, gdy nie można go jednoznacznie powiązać z określonym wymaganiem normatywnym.
+
+Scenariusze z Biblioteki mogą być wykorzystywane w różnych procesach zapewniania dostępności cyfrowej, w szczególności podczas:
 
 - ocen planowych i doraźnych;
 - odbiorów rozwiązań cyfrowych;
-- kontroli przed publikacją lub wdrożeniem;
-- testowania po zmianach i aktualizacjach;
+- sprawdzania rozwiązania przed publikacją lub wdrożeniem;
+- oceniania skutków zmian i aktualizacji;
 - rozpoznawania problemów zgłaszanych przez użytkowników;
 - weryfikowania skuteczności działań naprawczych;
 - audytów i innych ocen eksperckich.
 
-Korzystanie z Biblioteki nie oznacza konieczności wykonania wszystkich dostępnych testów.
+Korzystanie z Biblioteki nie oznacza konieczności wykonania wszystkich dostępnych testów. Scenariusze dobiera się odpowiednio do informacji potrzebnych w konkretnym badaniu.
 
 ## 2. Ustalenie potrzeby i dobór testów
 
-Przed doborem scenariuszy organizacja ustala, jakie informacje powinny zostać uzyskane w wyniku przeprowadzenia testów oraz jaki jest zakres planowanego badania.
+Przed doborem scenariuszy ustala się, jakie informacje mają zostać uzyskane w wyniku testów oraz jaki jest cel i zakres badania.
 
-Potrzeba wykonania testów może wynikać w szczególności z konieczności:
+Jeżeli potrzeba informacyjna, cel i zakres badania zostały określone w procesie, w którym testy są wykonywane, nie ustala się ich ponownie na potrzeby korzystania z Biblioteki.
+
+Potrzeba wykonania testów może wynikać w szczególności z potrzeby:
 
 - rozpoznania stanu dostępności i zgodności rozwiązania;
 - zbadania określonej cechy, obiektu lub procesu użytkownika;
 - oceny spełnienia określonych wymagań dostępności;
 - zweryfikowania skutków zmiany rozwiązania;
 - sprawdzenia rozwiązania przed odbiorem, wdrożeniem lub publikacją;
-- rozpoznania problemu zgłoszonego przez użytkownika;
+- wykrycia i zdiagnozowania problemów dostępności, w tym problemów zgłoszonych przez użytkowników;
 - zweryfikowania skuteczności działania naprawczego;
-- uzyskania, uzupełnienia, aktualizacji lub zweryfikowania określonej wiedzy.
+- uzyskania, uzupełnienia, zaktualizowania lub zweryfikowania wiedzy o stanie rozwiązania;
+- ustalenia przyczyn i zakresu występowania rozpoznanego problemu.
 
-Zakres badania może obejmować w szczególności rozwiązanie cyfrowe lub jego część, procesy użytkownika, widoki, strony lub ekrany, komponenty, elementy, treści, dokumenty, cechy dostępności, wymagania dostępności, strategie korzystania oraz technologie i środowiska badania.
+Przy doborze scenariuszy uwzględnia się odpowiednio:
 
-Jeżeli cel i zakres badania zostały określone w procesie, w którym testy są wykonywane, nie jest konieczne ich ponowne ustalanie na potrzeby korzystania z Biblioteki.
-
-Organizacja dobiera scenariusze umożliwiające uzyskanie informacji potrzebnych do osiągnięcia celu badania. Uwzględnia odpowiednio:
-
-- cel i zakres badania;
-- przedmiot testowania;
 - mające zastosowanie wymagania dostępności;
-- strategie korzystania z rozwiązania;
-- profil oceny, jeżeli został określony;
+- zakres funkcjonalny;
+- zakres strukturalny;
+- zakres użytkowy;
+- zakres środowisk użytkowania;
 - wcześniejsze obserwacje i wyniki ocen;
 - charakter i zakres zmian rozwiązania;
-- zgłoszone problemy;
-- informacje wymagające uzyskania, uzupełnienia, aktualizacji lub zweryfikowania.
+- rozpoznane problemy;
+- informacje, które mają zostać uzyskane, uzupełnione, zaktualizowane lub zweryfikowane;
+- najniższy profil stosowania scenariusza.
 
-Dobór testów nie powinien polegać wyłącznie na mechanicznym przypisaniu jednego scenariusza do jednego wymagania dostępności. Jedno wymaganie może wymagać wykonania kilku testów, a jeden test może dostarczać informacji istotnych dla oceny kilku wymagań.
+Organizacja dobiera scenariusze umożliwiające uzyskanie informacji potrzebnych do osiągnięcia celu badania.
 
-Jeżeli badanie obiektu lub procesu użytkownika wymaga zweryfikowania występowania lub poprawności określonej cechy dostępności, stosuje się odpowiedni scenariusz testu cechy, jeżeli jest dostępny w Bibliotece.
+Najniższy profil stosowania wspiera wyszukiwanie i dobór scenariuszy, ale nie określa zakresu badania ani obowiązku wykonania testu. Scenariusz może zostać zastosowany niezależnie od przypisanego mu profilu, jeżeli jest potrzebny do osiągnięcia celu badania.
+
+Dobór testów nie polega wyłącznie na mechanicznym przypisaniu jednego scenariusza do jednego wymagania dostępności. Jedno wymaganie może wymagać wykonania kilku testów, a jeden test może dostarczać informacji istotnych dla oceny kilku wymagań.
+
+Scenariusze testów cech dostępności oraz scenariusze testów obiektów i procesów użytkownika wzajemnie się uzupełniają. Scenariusz testu obiektu lub procesu może wykorzystywać scenariusze testów cech, jeżeli jest to potrzebne do rozpoznania jego dostępności, zdiagnozowania problemów lub ustalenia zgodności z wymaganiami.
 
 ## 3. Wykorzystanie zestawów testów
 
-W przypadku powtarzalnych zastosowań mogą być wykorzystywane zestawy scenariuszy przeznaczone do określonych celów lub rodzajów badań.
+W przypadku powtarzalnych zastosowań mogą być wykorzystywane zestawy scenariuszy przygotowane dla określonych celów, rodzajów rozwiązań lub typowych potrzeb badawczych.
 
 Zestawy mogą wspierać w szczególności:
 
-- oceny prowadzone według określonych profili;
+- badania o określonym celu lub zakresie;
+- badania wykorzystujące scenariusze o określonym najniższym profilu stosowania;
 - odbiory określonych rodzajów rozwiązań;
-- kontrole przed publikacją lub wdrożeniem;
-- sprawdzanie typowych zmian;
+- sprawdzanie przed publikacją lub wdrożeniem;
+- ocenianie skutków typowych zmian;
 - badanie określonych rodzajów obiektów lub procesów użytkownika.
 
 Zestaw testów ułatwia dobór scenariuszy, ale nie zastępuje ustalenia potrzeb konkretnego badania. W zależności od jego celu i zakresu zestaw może wymagać uzupełnienia, ograniczenia lub innego dostosowania.
+
+Wykorzystanie gotowego zestawu nie oznacza obowiązku wykonania każdego zawartego w nim scenariusza, jeżeli test nie ma zastosowania albo nie jest potrzebny do osiągnięcia celu badania.
 
 ## 4. Przygotowanie wykonania testów
 
@@ -93,79 +101,100 @@ Przed rozpoczęciem testowania organizacja zapewnia warunki potrzebne do prawid�
 
 W zależności od celu i zakresu badania ustala lub zapewnia w szczególności:
 
-- badane obiekty i próbę;
+- badane obiekty, ich części, stany i konteksty użytkowania oraz próbę badawczą;
 - środowisko testowe;
 - urządzenia, oprogramowanie i technologie wspomagające;
 - dane potrzebne do wykonania testów;
 - dostęp do funkcji i treści objętych badaniem;
 - osoby posiadające wymagane kompetencje;
-- sposób dokumentowania wyników.
+- sposób dokumentowania obserwacji, wykrytych problemów, ustaleń dotyczących zgodności i materiałów dowodowych.
 
-Jeżeli informacje te zostały określone w procesie, planie oceny, zleceniu, procedurze lub innym narzędziu organizacji, nie jest konieczne ich ponowne dokumentowanie.
+Jeżeli informacje te zostały określone w procesie, planie oceny, zleceniu, procedurze lub innym narzędziu organizacji, nie dokumentuje się ich ponownie wyłącznie na potrzeby korzystania z Biblioteki.
+
+Przygotowanie badania uwzględnia warunki określone w wybranych scenariuszach. Jeżeli wymaganych warunków nie można zapewnić, ustala się, czy scenariusz może zostać prawidłowo zastosowany i czy uzyskany wynik będzie przydatny do osiągnięcia celu badania.
 
 ## 5. Wykonywanie scenariuszy testów
 
-Osoba wykonująca test stosuje aktualną wersję scenariusza i postępuje zgodnie z opisanym sposobem badania.
+Osoba wykonująca test stosuje aktualną, opublikowaną wersję scenariusza i postępuje zgodnie z opisanym sposobem badania.
 
 Uwzględnia w szczególności cel i przedmiot testu, warunki jego stosowania, wymagane przygotowanie, czynności badawcze oraz zasady ustalania i dokumentowania wyniku.
 
 Jeżeli scenariusz dopuszcza wybór narzędzia, technologii, środowiska lub sposobu wykonania określonych czynności, osoba wykonująca test dokonuje wyboru odpowiednio do celu i zakresu badania.
 
+Osoba wykonująca test dokumentuje istotne obserwacje dotyczące badanego obiektu, w szczególności wykryte problemy dostępności oraz okoliczności ich występowania. Rozpoznany problem dokumentuje się niezależnie od tego, czy można go powiązać z niespełnieniem określonego wymagania normatywnego.
+
+Jeżeli wykonanie scenariusza pozwala ocenić spełnienie określonych wymagań dostępności, osoba wykonująca test dokumentuje odpowiednie ustalenia dotyczące zgodności, z uwzględnieniem przedmiotu i zakresu przeprowadzonego badania.
+
 Odstępstwa od scenariusza, które mogą mieć znaczenie dla wyniku lub jego interpretacji, są dokumentowane.
 
-Jeżeli scenariusz nie może zostać prawidłowo zastosowany albo nie pozwala uzyskać potrzebnych informacji, nie wymusza się ustalenia wyniku. Ograniczenie jest dokumentowane, a w razie potrzeby dobiera się inny scenariusz lub metodę badania.
+Jeżeli scenariusz nie może zostać prawidłowo zastosowany albo nie pozwala uzyskać potrzebnych informacji, nie formułuje się nieuzasadnionych rozstrzygnięć dotyczących dostępności lub zgodności. Ograniczenie jest dokumentowane, a w razie potrzeby dobiera się inny scenariusz lub metodę badania.
 
-## 6. Ustalanie, dokumentowanie i interpretowanie wyników
+## 6. Ustalanie, dokumentowanie i interpretowanie ustaleń z testów
 
-Wynik testu jest ustalany zgodnie z zasadami określonymi w scenariuszu i powinien wynikać z wykonanych czynności oraz uzyskanych informacji.
+Podstawowym rezultatem wykonania scenariusza są ustalenia dotyczące stanu dostępności badanego rozwiązania lub jego części. Ustalenia wynikają z wykonanych czynności badawczych, obserwacji i zgromadzonych dowodów.
 
-W zależności od charakteru testu wynik może wskazywać w szczególności:
+W zależności od przedmiotu, celu i zakresu testu ustalenia mogą obejmować w szczególności:
 
-- stwierdzony stan przedmiotu testu;
-- spełnienie albo niespełnienie warunku określonego w scenariuszu;
-- brak możliwości zastosowania testu;
-- brak możliwości ustalenia wyniku;
-- potrzebę przeprowadzenia dalszego badania.
+- stwierdzone właściwości i zachowania badanego obiektu;
+- wykryte problemy dostępności, ich lokalizację, okoliczności występowania i konsekwencje dla użytkowników;
+- rozpoznane lub przypuszczalne przyczyny problemów;
+- stwierdzone niezgodności z wymaganiami dostępności;
+- potwierdzenie spełnienia określonych wymagań w zbadanym zakresie;
+- kwestie nierozstrzygnięte, ograniczenia badania i potrzebę wykonania dodatkowych testów.
 
-Wyniki są dokumentowane w zakresie odpowiednim do celu procesu, w którym testy zostały wykonane. Dokumentacja powinna umożliwiać ustalenie co najmniej:
+Nie każda obserwacja oznacza problem dostępności, a nie każdy problem musi stanowić naruszenie określonego wymagania normatywnego. Ustalenia dotyczące problemów dostępności i ustalenia dotyczące zgodności z wymaganiami mogą się uzupełniać, ale nie są ze sobą tożsame.
+
+Wykonanie scenariusza nie wymaga formułowania jednej zbiorczej oceny testu jako spełnionego albo niespełnionego. Jeżeli scenariusz obejmuje kilka wymagań dostępności, ustalenia dotyczące zgodności formułuje się odrębnie dla poszczególnych wymagań, w zakresie, w jakim pozwalają na to przeprowadzone badanie i zgromadzone dowody.
+
+Ustalenia dokumentuje się w zakresie odpowiednim do celu procesu, w którym testy zostały wykonane. Dokumentacja powinna umożliwiać ustalenie co najmniej:
 
 - jaki scenariusz i jego wersję zastosowano;
-- co zostało zbadane;
-- jaki wynik uzyskano;
-- na jakiej podstawie ustalono wynik;
-- jakie informacje lub materiały dokumentują wynik;
+- jaki obiekt, jego część, stan lub proces zbadano;
+- jakie istotne obserwacje poczyniono, w tym jakie problemy dostępności wykryto lub jakie właściwości dostępności potwierdzono;
+- jakie ustalenia dotyczące wymagań dostępności wynikają z badania, jeżeli takie ustalenia były możliwe;
+- na jakiej podstawie sformułowano ustalenia;
+- jakie informacje lub materiały stanowią dowody;
 - czy wystąpiły ograniczenia lub istotne odstępstwa od scenariusza.
 
-Nie jest wymagane tworzenie odrębnego raportu z każdego testu. Wyniki mogą być dokumentowane bezpośrednio w rejestrze stanu dostępności i zgodności, systemie obsługi zgłoszeń, dokumentacji odbioru, raporcie z badania albo innym narzędziu właściwym dla procesu.
+Nie jest wymagane tworzenie odrębnego raportu z każdego testu. Ustalenia mogą być dokumentowane w dokumentacji oceny, systemie obsługi zgłoszeń, dokumentacji odbioru, raporcie z badania albo innym narzędziu właściwym dla procesu, w którym test został wykonany.
 
-Wyniki są interpretowane w kontekście celu i zakresu badania, badanej próby, warunków i środowiska badania, ograniczeń zastosowanej metody, powiązań z wymaganiami dostępności oraz innych dostępnych informacji o stanie rozwiązania.
+Ustalenia interpretuje się w kontekście celu i zakresu badania, badanej próby, warunków i środowiska badania, ograniczeń zastosowanej metody oraz innych dostępnych informacji o stanie rozwiązania.
 
-Wynik pojedynczego testu nie powinien być automatycznie utożsamiany z oceną spełnienia wymagania dostępności ani z oceną zgodności całego rozwiązania. Nie powinien również służyć do formułowania wniosków wykraczających poza zakres informacji uzyskanych w wyniku testu.
+Ustalenia odnoszą się do stanu badanego rozwiązania w czasie i warunkach przeprowadzenia testu. Przy ich późniejszym wykorzystywaniu uwzględnia się zmiany rozwiązania i inne okoliczności mogące wpływać na aktualność posiadanej wiedzy.
 
-## 7. Wykorzystywanie wyników w procesach SZDC
+Brak stwierdzonych problemów lub niezgodności w wykonanym teście nie oznacza automatycznie zgodności badanego obiektu ze wszystkimi mającymi zastosowanie wymaganiami. Podobnie potwierdzenie spełnienia określonego wymagania w zakresie pojedynczego testu nie przesądza o spełnieniu tego wymagania w całym rozwiązaniu.
 
-Wyniki testów są dokumentowane lub przekazywane w procesie, który spowodował potrzebę ich wykonania.
+Na podstawie ustaleń nie formułuje się wniosków wykraczających poza informacje, których uzyskanie umożliwiło przeprowadzone badanie.
+
+## 7. Wykorzystywanie ustaleń z testów
+
+Ustalenia z wykonanych testów są dokumentowane lub przekazywane w procesie, który spowodował potrzebę ich wykonania.
 
 W zależności od zastosowania mogą służyć w szczególności do:
 
-- tworzenia i aktualizowania obserwacji o stanie rozwiązania;
-- oceniania dostępności i zgodności;
-- podejmowania decyzji o odbiorze rozwiązania;
-- ustalania potrzeby działań naprawczych;
-- rozpoznawania i obsługi problemów zgłaszanych przez użytkowników;
-- weryfikowania skuteczności działań;
-- ustalania skutków zmian rozwiązania;
-- przygotowywania raportów i innych informacji o stanie dostępności.
+- rozpoznawania i diagnozowania problemów dostępności;
+- ustalania sposobów rozwiązywania problemów i planowania działań naprawczych;
+- sprawdzania skuteczności wykonanych napraw;
+- uzyskiwania, uzupełniania i aktualizowania wiedzy o stanie dostępności rozwiązania;
+- oceniania zgodności z wymaganiami dostępności;
+- podejmowania decyzji dotyczących odbioru rozwiązania;
+- oceniania skutków zmian rozwiązania;
+- przygotowywania raportów i innych informacji o stanie dostępności i zgodności;
+- planowania dalszych badań i ocen.
 
-Biblioteka określa sposób uzyskiwania informacji przez wykonywanie testów. Zasady dalszego przetwarzania i wykorzystywania wyników określa proces, w którym testy zostały zastosowane.
+Wykryte problemy dostępności powinny być dokumentowane w sposób umożliwiający ich identyfikację, analizę, podjęcie działań naprawczych oraz ponowne sprawdzenie. W przypadku problemów powtarzających się w wielu miejscach należy uwzględniać możliwość ich wspólnej przyczyny, na przykład w konstrukcji komponentu, szablonu lub mechanizmu wykorzystywanego w rozwiązaniu.
+
+Biblioteka określa sposób uzyskiwania informacji przez wykonywanie testów. Zasady dalszego przetwarzania, interpretowania i wykorzystywania ustaleń określa proces, w którym testy zostały zastosowane.
 
 ## Najważniejsze zasady
 
-1. Biblioteka testów dostępności cyfrowej jest wspólnym instrumentarium służącym standaryzacji metodyki badania dostępności i zgodności.
-2. Scenariusze są dobierane do potrzeby informacyjnej, celu i zakresu badania.
-3. Korzystanie z Biblioteki nie oznacza konieczności wykonania wszystkich dostępnych testów.
-4. Scenariusze mogą być wykorzystywane w różnych procesach systemu zapewniania dostępności cyfrowej.
-5. Jeżeli badanie obiektu lub procesu wymaga zbadania określonej cechy dostępności, wykorzystuje się odpowiedni test cechy dostępny w Bibliotece.
-6. Wyniki testów są dokumentowane w narzędziu właściwym dla procesu, w którym zostały wykonane.
-7. Wyniki są interpretowane w granicach celu, zakresu i warunków przeprowadzonego badania.
-8. Dalszy sposób przetwarzania i wykorzystywania wyników określa proces, który spowodował wykonanie testów.
+1. Biblioteka testów dostępności cyfrowej służy systematycznemu rozpoznawaniu stanu dostępności rozwiązań cyfrowych, wykrywaniu i diagnozowaniu problemów oraz ustalaniu zgodności z wymaganiami.
+2. Przedmiotem badania są konkretne obiekty, ich właściwości, zachowania i warunki korzystania z nich.
+3. Scenariusze dobiera się odpowiednio do potrzeby informacyjnej oraz celu i zakresu badania. Korzystanie z Biblioteki nie wymaga wykonania wszystkich dostępnych testów.
+4. Najniższy profil stosowania wspiera dobór scenariuszy, ale nie określa zakresu badania ani obowiązku wykonania testu.
+5. Scenariusze testów cech dostępności oraz scenariusze testów obiektów i procesów użytkownika wzajemnie się uzupełniają.
+6. Podstawowym rezultatem wykonania scenariusza są udokumentowane ustalenia dotyczące dostępności badanego obiektu, w szczególności wykryte problemy i stwierdzone niezgodności.
+7. Rozpoznanie i udokumentowanie problemu dostępności nie wymaga stwierdzenia niezgodności z określonym wymaganiem normatywnym.
+8. Wykonanie scenariusza nie wymaga formułowania jednej zbiorczej oceny testu jako spełnionego albo niespełnionego.
+9. Ustalenia interpretuje się w granicach celu, zakresu i warunków przeprowadzonego badania. Brak stwierdzonych problemów nie jest automatycznie potwierdzeniem zgodności.
+10. Ustalenia wykorzystuje się przede wszystkim do rozpoznawania i rozwiązywania problemów dostępności, sprawdzania skuteczności napraw i aktualizowania wiedzy o stanie rozwiązania, a także do oceniania zgodności z wymaganiami.

@@ -20,7 +20,7 @@ wersja_robocza: true
 
 **Nazwa ekranu aplikacji**
 
-# 3. Profil stosowania testu
+## 3. Profil stosowania testu
 
 Najniższy profil stosowania: **profil wstępny**
 
