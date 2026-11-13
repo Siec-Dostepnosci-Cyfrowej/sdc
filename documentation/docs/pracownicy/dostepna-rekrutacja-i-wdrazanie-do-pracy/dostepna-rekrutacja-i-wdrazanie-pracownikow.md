@@ -137,7 +137,7 @@ Dostępne wdrażanie do pracy pozwala pracownikowi od początku korzystać z pot
 ## 5. Podstawy prawne
 
 - Konwencja ONZ o prawach osób niepełnosprawnych, w szczególności art. 9 i art. 27.
-- Art. 94 pkt 1 Kodeksu Pracy (Dz.U. 1974 Nr 24 poz. 141)
+- Art. 94 pkt 1 i 2b, art. 11³, art. 18³a–18³b Kodeksu Pracy 
 - Ustawa z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami.
 - Ustawa z dnia 4 kwietnia 2019 r. o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych.
 - Norma PN-EN 301 549 „Wymagania dostępności dla produktów i usług ICT”.
