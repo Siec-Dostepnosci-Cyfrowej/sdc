@@ -520,6 +520,8 @@ Dokumentacja określa odpowiednio:
 - zakres środowisk użytkowania;
 - zastosowane metody;
 - czas przeprowadzenia oceny.
+- profil – w przypadku oceny planowej.
+
 
 W przypadku oceny planowej dokumentuje się również zastosowany profil.
 
