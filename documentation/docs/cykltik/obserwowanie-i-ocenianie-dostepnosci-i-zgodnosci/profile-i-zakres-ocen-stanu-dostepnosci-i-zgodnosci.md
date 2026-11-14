@@ -510,7 +510,9 @@ Zakres przeprowadzonej oceny dokumentuje się w sposób umożliwiający prawidł
 
 Dokumentacja określa odpowiednio:
 
+- rodzaj oceny (planowa albo doraźna)
 - cel oceny;
+- oceniający;
 - zakres wymagań;
 - zakres funkcjonalny;
 - zakres strukturalny;
