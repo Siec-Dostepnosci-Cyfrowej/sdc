@@ -518,7 +518,7 @@ Dokumentacja określa odpowiednio:
 - zakres strukturalny;
 - zakres użytkowy;
 - zakres środowisk użytkowania;
-- zastosowane metody;
+- zastosowane scenariusze testów i inne metody;
 - czas przeprowadzenia oceny.
 - profil – w przypadku oceny planowej.
 
