@@ -1,8 +1,8 @@
 {
   "label": "Obserwowanie i ocenianie stanu dostępności i zgodności",
-  "position": 7,
+  "position": 4,
   "link": {
     "type": "generated-index",
-	"description": "Pakiet przedstawia zasady systematycznego obserwowania i oceniania stanu dostępności i zgodności rozwiązań cyfrowych. Wspiera uzyskiwanie, aktualizowanie, rozszerzanie i pogłębianie wiedzy o stanie oraz jej dokumentowanie i wykorzystywanie w procesach zapewniania dostępności."
+    "description": "Aktualna i wiarygodna wiedza o stanie dostępności i zgodności jest podstawą podejmowania właściwych decyzji dotyczących rozwiązań cyfrowych. Pakiet przedstawia zasady systematycznego pozyskiwania, oceniania, dokumentowania i aktualizowania informacji o stanie rozwiązań oraz ustalania zakresu jego rozpoznania. Pomaga organizacji rozpoznawać luki w wiedzy, planować dalsze oceny i wykorzystywać zgromadzoną wiedzę w działaniach służących zapewnianiu dostępności cyfrowej."
   }
 }
