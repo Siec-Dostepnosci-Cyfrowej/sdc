@@ -1,93 +1,121 @@
 ---
 id: pozyskiwanie-opinii-uzytkownikow
-title: Aktywne pozyskiwanie opinii użytkowników o dostępności cyfrowej
-description: Dobre praktyki i zalecenia przy zbieraniu opinii o dostępności cyfrowej
+title: Pozyskiwanie opinii użytkowników o dostępności cyfrowej
+description: Organizacja systematycznie poznaje doświadczenia i satysfakcję użytkowników oraz wykorzystuje uzyskaną wiedzę do doskonalenia dostępności.
 sidebar_label: Zalecenie
-sidebar_position: 1
-keywords: [cykl życia TIK, dostępność cyfrowa, dobre praktyki, zalecenia, opinie]
-tags: [cykl życia TIK, dostępność cyfrowa, dobre praktyki, zalecenia, opinie]
+sidebar_position: 0
+keywords: [opinie użytkowników, doświadczenia użytkowników, satysfakcja użytkowników, dostępność cyfrowa, badania użytkowników, doskonalenie dostępności]
+tags: [opinie użytkowników, doświadczenia użytkowników, satysfakcja użytkowników, doskonalenie dostępności]
 opracowanie: Cezary Tomczyk
 wspolpraca: Stefan Wajda
 data_zgloszenia: 26 października 2025 r.
-ostatnia_aktualizacja: 10 lutego 2026 r.
+ostatnia_aktualizacja: 27 września 2026 r.
 wersja_robocza: true
 ---
 
-
 ## 1. Cel zalecenia
 
-Celem niniejszego zalecenia jest **wzmocnienie działań podmiotów publicznych w zakresie aktywnego pozyskiwania informacji zwrotnych od użytkowników** dotyczących dostępności cyfrowej stron internetowych, aplikacji mobilnych oraz publikowanych dokumentów i usług cyfrowych.
-
+Poznawanie doświadczeń i satysfakcji użytkowników z korzystania z informacji, usług i rozwiązań cyfrowych oraz wykorzystywanie tej wiedzy do rozpoznawania mocnych i słabych stron dostępności i jej doskonalenia.
 
 ---
 
 ## 2. Zalecenie
 
-Podmioty publiczne powinny **systematycznie i w sposób zorganizowany pozyskiwać opinie, uwagi i sugestie od użytkowników** swoich stron internetowych, aplikacji i dokumentów cyfrowych — zarówno w ramach obowiązków wynikających z przepisów prawa, jak i poprzez polecane działania dobrowolne.
+Organizacja systematycznie i w sposób zorganizowany pozyskuje informacje o doświadczeniach i satysfakcji użytkowników związanych z korzystaniem z informacji, usług i rozwiązań cyfrowych pod kątem ich dostępności. Analizuje uzyskane opinie i uwagi, rozpoznaje mocne i słabe strony dostępności oraz wykorzystuje wynikające z nich wnioski do jej doskonalenia.
 
 ---
 
-## 3. Formy pozyskiwania opinii
+## 3. Rekomendacje
 
-### 3.1. Formy obowiązkowe
+### 3.1. Systematyczne pozyskiwanie opinii użytkowników
 
-Każdy podmiot publiczny jest zobowiązany do zapewnienia użytkownikom możliwości zgłaszania uwag i żądań zapewnienia dostępności cyfrowej, zgodnie z przepisami **Ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych**.
+Organizacja planuje i systematycznie prowadzi działania służące poznawaniu doświadczeń i satysfakcji użytkowników z korzystania z informacji, usług i rozwiązań cyfrowych pod kątem ich dostępności.
 
-W szczególności należy zapewnić:
+Pozyskiwanie opinii nie ogranicza się do oczekiwania na zgłoszenia problemów. Organizacja stwarza użytkownikom możliwości przekazywania opinii oraz, odpowiednio do potrzeb i charakteru rozwiązania, aktywnie zwraca się do nich o ocenę doświadczeń związanych z korzystaniem z informacji, usług i rozwiązań cyfrowych.
 
-- **Publikację aktualnych danych kontaktowych** w deklaracji dostępności cyfrowej, umożliwiających zgłaszanie uwag i problemów z dostępnością (np. adres e-mail, numer telefonu, formularz kontaktowy).  
-- **Opis mechanizmu zgłaszania żądań zapewnienia dostępności** i składania skarg – zgodnie z wymogami rozporządzenia w sprawie deklaracji dostępności.  
-- **Rejestrowanie i rozpatrywanie zgłoszeń użytkowników** w sposób zapewniający ich dokumentowanie oraz terminową reakcję na każde żądanie.  
-- **Ujęcie informacji o wpływających zgłoszeniach** i sposobie ich obsługi w procesie monitorowania dostępności cyfrowej organizacji.  
+Intensywność i sposób prowadzenia tych działań są dostosowane do znaczenia, charakteru i skali wykorzystania informacji, usługi lub rozwiązania cyfrowego.
 
-Te działania mają charakter obowiązkowy i powinny być utrzymywane w sposób ciągły.
+### 3.2. Różnorodne sposoby pozyskiwania opinii
 
-### 3.2. Formy polecane (dobre praktyki)
+Organizacja dobiera sposoby pozyskiwania opinii odpowiednio do celu, rodzaju informacji, usługi lub rozwiązania cyfrowego oraz grup użytkowników, do których są one kierowane.
 
-Oprócz ustawowego minimum, zaleca się stosowanie **różnorodnych i aktywnych metod pozyskiwania opinii od użytkowników**, podzielonych na dwie grupy:
+Może wykorzystywać w szczególności:
 
-#### A. Informacje uzyskiwane za pomocą formularzy, ankiet i innych narzędzi interaktywnych
+- krótkie formularze umożliwiające przekazanie opinii bezpośrednio podczas korzystania z informacji, usługi lub rozwiązania;
+- ankiety dotyczące dostępności, łatwości korzystania i zrozumiałości;
+- badania satysfakcji użytkowników;
+- pytania o doświadczenia użytkownika po skorzystaniu z usługi;
+- konsultacje z użytkownikami i organizacjami reprezentującymi ich potrzeby;
+- spotkania, warsztaty i panele użytkowników;
+- testy z udziałem użytkowników;
+- wspólne przeglądy rozwiązań z udziałem użytkowników i osób posiadających wiedzę specjalistyczną;
+- analizę opinii i komentarzy przekazywanych za pośrednictwem dostępnych kanałów komunikacji.
 
-- **Alert dostępności** – niewielki formularz umieszczony na każdej stronie internetowej w witrynie, za pomocą którego użytkownik może **zgłosić problem z dostępnością**.  
-  Formularz powinien umożliwiać zarówno **anonimowe zgłoszenie napotkanego problemu**, a także **formalny wniosek o zapewnienie dostępności cyfrowej**.  
-  Rekomenduje się, aby przycisk uruchamiający alert był widoczny i dostępny z poziomu klawiatury oraz technologii asystujących.  
-- **Ankieta lub formularz oceny dostępności**, zamieszczony na stronie internetowej (krótki, prosty, dostępny dla wszystkich).  
-  Może służyć do zbierania opinii o łatwości korzystania z serwisu lub zrozumiałości treści.  
-- **Okresowe badania satysfakcji użytkowników** – prowadzone online, np. raz w roku lub po wprowadzeniu istotnych zmian w strukturze serwisu lub systemu.  
-- **Analiza zgłoszeń i komentarzy w mediach społecznościowych**, forach lub innych kanałach kontaktu z użytkownikami, jeśli dotyczą problemów z dostępnością treści lub funkcji serwisu.  
+Organizacja może łączyć różne metody, aby uzyskać zarówno informacje o ogólnej ocenie i satysfakcji użytkowników, jak i bardziej szczegółową wiedzę o ich doświadczeniach.
 
-#### B. Ukierunkowane badania z udziałem osób z niepełnosprawnościami
+### 3.3. Opinie użytkowników o zróżnicowanych potrzebach
 
-- **Konsultacje z organizacjami społecznymi** działającymi na rzecz osób z niepełnosprawnościami – np. zaproszenie przedstawicieli organizacji do przeglądu strony, testu lub warsztatu.  
-- **Testy z udziałem użytkowników** – prowadzone w sposób zaplanowany, z udziałem osób korzystających z technologii wspomagających (czytników ekranu, powiększania, klawiatury).  
-  Testy te powinny obejmować scenariusze rzeczywistego korzystania z serwisu lub aplikacji.  
-- **Spotkania, warsztaty lub panele użytkowników**, organizowane okresowo w ramach działań edukacyjnych i konsultacyjnych, podczas których użytkownicy dzielą się doświadczeniami i wskazują bariery napotykane w praktyce.  
-- **Wspólne przeglądy dostępności** (ang. *co-review sessions*) z udziałem ekspertów technicznych i użytkowników, pozwalające na wspólne omówienie i weryfikację problemów.  
+Organizacja dąży do poznawania doświadczeń użytkowników o różnych potrzebach i sposobach korzystania z informacji, usług i rozwiązań cyfrowych.
 
----
+W zależności od przedmiotu i celu badania uwzględnia w szczególności doświadczenia osób korzystających z technologii wspomagających, alternatywnych sposobów komunikacji lub innych rozwiązań umożliwiających albo ułatwiających korzystanie z treści i usług cyfrowych.
 
-### 3.4. Integracja informacji zwrotnych w działaniach organizacji
+Sposoby przekazywania opinii i udziału w badaniach są dostępne dla osób, których doświadczenia organizacja chce poznać.
 
-- Zaleca się, aby osoba lub zespół ds. dostępności był odpowiedzialny za **koordynację pozyskiwania opinii użytkowników** oraz analizę i archiwizowanie zgłoszeń.  
-- Wnioski z analizy opinii powinny być **uwzględniane przy aktualizacji deklaracji dostępności** i planów poprawy dostępności.  
-- Dane o zgłoszeniach i działaniach naprawczych warto ująć w **raporcie z monitorowania dostępności cyfrowej**, publikowanym co najmniej raz w roku.
+### 3.4. Badania, konsultacje i nieformalne testy z udziałem użytkowników
 
----
+Jeżeli potrzebne jest dokładniejsze poznanie doświadczeń i sposobu korzystania z informacji, usługi lub rozwiązania cyfrowego, organizacja może prowadzić badania, konsultacje i nieformalne testy z udziałem użytkowników.
+
+Badania opierają się na rzeczywistych lub reprezentatywnych sposobach i scenariuszach korzystania. Pozwalają rozpoznać zarówno rozwiązania dobrze oceniane przez użytkowników, jak i bariery, trudności oraz elementy wymagające poprawy.
+
+Badania z udziałem użytkowników uzupełniają inne metody oceny dostępności. Nie zastępują oceny zgodności z wymaganiami dostępności, jeżeli taka ocena jest potrzebna.
+
+### 3.5. Wykorzystywanie informacji z różnych źródeł
+
+Przy rozpoznawaniu doświadczeń użytkowników organizacja uwzględnia również informacje uzyskiwane w ramach bieżących kontaktów z użytkownikami, w szczególności zgłoszenia problemów z dostępnością, prośby o pomoc, uwagi przekazywane pracownikom oraz informacje pojawiające się w innych kanałach komunikacji.
+
+Pozyskiwanie opinii użytkowników nie zastępuje przyjmowania i obsługi zgłoszeń, żądań ani skarg dotyczących dostępności. Informacje uzyskane podczas ich obsługi mogą jednak stanowić źródło wiedzy o doświadczeniach użytkowników i powtarzających się problemach.
+
+### 3.6. Analiza opinii i doświadczeń użytkowników
+
+Organizacja analizuje pozyskane informacje w celu rozpoznawania mocnych i słabych stron dostępności oraz potrzeb i oczekiwań użytkowników.
+
+Analiza służy w szczególności:
+
+- rozpoznawaniu rozwiązań dobrze ocenianych przez użytkowników;
+- identyfikowaniu barier i trudności występujących podczas korzystania;
+- rozpoznawaniu powtarzających się problemów i potrzeb;
+- porównywaniu doświadczeń różnych grup użytkowników;
+- rozpoznawaniu możliwości i kierunków doskonalenia dostępności.
+
+Wyniki są interpretowane z uwzględnieniem sposobu pozyskania opinii, liczby i charakterystyki uczestników oraz zakresu informacji, których dotyczą.
+
+### 3.7. Wykorzystywanie wniosków do doskonalenia
+
+Organizacja wykorzystuje wnioski wynikające z doświadczeń i opinii użytkowników do doskonalenia dostępności informacji, usług i rozwiązań cyfrowych.
+
+Wnioski są przekazywane osobom i zespołom odpowiedzialnym za obszary, których dotyczą, i mogą stanowić podstawę do:
+
+- usuwania rozpoznanych barier;
+- poprawy treści, funkcjonalności i sposobów realizacji usług;
+- utrwalania i szerszego stosowania rozwiązań dobrze ocenianych przez użytkowników;
+- doskonalenia sposobów udzielania wsparcia;
+- planowania zmian i rozwoju informacji, usług i rozwiązań cyfrowych.
+
+Organizacja obserwuje, czy wprowadzone zmiany poprawiają doświadczenia użytkowników, a wyniki kolejnych badań i pozyskiwane opinie wykorzystuje do dalszego doskonalenia.
 
 ## 4. Uzasadnienie
 
-Formalne audyty i testy techniczne stanowią ważny element zapewniania dostępności cyfrowej, jednak nie zastąpią **bezpośredniego doświadczenia użytkowników**, którzy korzystają z usług publicznych na co dzień. Aktywne pozyskiwanie opinii od rzeczywistych użytkowników, w tym osób z niepełnosprawnościami, stanowi kluczowy element doskonalenia dostępności i pozwala na szybkie reagowanie na wykryte bariery.
+Spełnienie wymagań dostępności cyfrowej nie daje pełnej wiedzy o tym, jak użytkownicy rzeczywiście korzystają z informacji, usług i rozwiązań cyfrowych. Na ich doświadczenie wpływają nie tylko właściwości techniczne rozwiązania, lecz także między innymi zrozumiałość treści, łatwość wykonania zadania, przebieg usługi oraz możliwość skutecznego uzyskania potrzebnej informacji lub pomocy.
 
-Aktywne pozyskiwanie opinii:
+Opinie, uwagi i zgłoszenia użytkowników są ważnym źródłem wiedzy o rzeczywistym korzystaniu z informacji, usług i rozwiązań cyfrowych. Sygnalizowane przez użytkowników problemy pozwalają rozpoznawać bariery i trudności występujące w konkretnych sytuacjach, także takie, które nie zostały wcześniej zidentyfikowane. Informacje te mogą pochodzić zarówno z formalnych zgłoszeń dotyczących dostępności, jak i z bieżących kontaktów z użytkownikami, próśb o pomoc, uwag, komentarzy i innych form przekazywania informacji zwrotnej.
 
-- pozwala wykryć problemy, których testy automatyczne nie identyfikują,  
-- buduje zaufanie do instytucji publicznych,  
-- sprzyja uczeniu się organizacyjnemu i podnoszeniu dojrzałości w zakresie dostępności,  
-- umożliwia udoskonalanie działań naprawczych i rozwojowych,  
-- **realizuje zasadę dostępności jako procesu**, a nie jednorazowego działania,  
-- **umożliwia użytkownikom aktywne uczestnictwo** w doskonaleniu usług publicznych,  
-- **pozwala na szybsze wykrycie i usunięcie barier**, które mogą nie być widoczne w testach automatycznych,  
-- **stanowi dowód należytej staranności** w przypadku kontroli lub rozpatrywania skarg dotyczących dostępności cyfrowej.
+Wiedzę pochodzącą ze spontanicznych opinii i zgłoszeń warto uzupełniać przez aktywne pozyskiwanie informacji od użytkowników. Ankiety, badania satysfakcji, konsultacje oraz nieformalne testy pozwalają organizacji celowo poznawać doświadczenia różnych grup użytkowników, również wtedy, gdy sami nie zgłaszają problemów. Pozwalają także pytać nie tylko o napotykane trudności, lecz również o ogólną ocenę korzystania z rozwiązania, jego mocne strony, oczekiwania użytkowników i możliwości dalszego doskonalenia.
+
+Szczególne znaczenie ma poznawanie doświadczeń osób o zróżnicowanych potrzebach i sposobach korzystania z rozwiązań cyfrowych, w tym osób korzystających z technologii wspomagających. Badania, konsultacje i nieformalne testy z udziałem użytkowników mogą ujawniać zależności i trudności, które nie są widoczne podczas samej oceny zgodności z wymaganiami dostępności. Nie zastępują jednak takiej oceny, lecz dostarczają innego rodzaju wiedzy — o rzeczywistym korzystaniu z rozwiązania.
+
+Wartość pozyskiwanych opinii zależy od ich wykorzystania. Analiza doświadczeń użytkowników pozwala organizacji rozpoznawać mocne i słabe strony dostępności, identyfikować powtarzające się problemy i potrzeby oraz określać kierunki zmian. Wnioski mogą służyć zarówno usuwaniu barier i poprawianiu rozwiązań, jak i utrwalaniu oraz szerszemu stosowaniu praktyk dobrze ocenianych przez użytkowników.
+
+Systematyczne poznawanie doświadczeń i satysfakcji użytkowników tworzy mechanizm uczenia się na podstawie rzeczywistego korzystania z informacji, usług i rozwiązań cyfrowych. Pozwala włączać perspektywę użytkowników w bieżące doskonalenie dostępności.
 
 ---
 
