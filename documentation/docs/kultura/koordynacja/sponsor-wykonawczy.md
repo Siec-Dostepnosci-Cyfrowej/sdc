@@ -8,17 +8,17 @@ keywords: [kultura organizacyjna, zarządzanie, koordynator ds. dostępności cy
 tags: [kultura organizacyjna, zarządzanie, koordynator ds. dostępności cyfrowej, zespół ds. dostępności cyfrowej, koordynacja dostępnością cyfrową]
 opracowanie: Stefan Wajda
 data_zgloszenia: 21 grudnia 2025 r.
-ostatnia_aktualizacja: 21 grudnia 2025 r.
+ostatnia_aktualizacja: 18 października 2026 r.
 wersja_robocza: true
 ---
 
 ## 1. Charakter roli
 
-Sponsor wykonawczy ds. dostępności pełni rolę **strategiczną i decyzyjną** w zakresie zapewniania dostępności w [nazwa podmiotu].
+Sponsor wykonawczy ds. dostępności pełni rolę strategiczną i decyzyjną w zakresie zapewniania dostępności w [nazwa podmiotu].
 
-Rola sponsora wykonawczego polega na zapewnieniu, aby działania związane z dostępnością – w tym dostępnością cyfrową – posiadały **realne wsparcie kierownicze**, odpowiedni priorytet oraz warunki do skutecznego wdrażania zmian organizacyjnych.
+Rola sponsora wykonawczego polega na zapewnieniu, aby działania związane z dostępnością – w tym dostępnością cyfrową – posiadały realne wsparcie kierownicze, odpowiedni priorytet oraz warunki do skutecznego wdrażania zmian organizacyjnych.
 
-Sponsor wykonawczy nie realizuje zadań operacyjnych ani koordynacyjnych. Jego rolą jest **umożliwianie i wzmacnianie działań koordynatora oraz zespołu ds. dostępności**.
+Sponsor wykonawczy nie realizuje zadań operacyjnych ani koordynacyjnych. Jego rolą jest umożliwianie i wzmacnianie działań koordynatora oraz zespołu ds. dostępności.
 
 ---
 
@@ -30,7 +30,7 @@ Celem roli sponsora wykonawczego ds. dostępności jest:
 - zapewnienie ciągłości i stabilności tych działań,
 - usuwanie barier organizacyjnych i decyzyjnych, które ograniczają skuteczność koordynacji dostępności.
 
-Sponsor wykonawczy odpowiada za to, aby dostępność była traktowana jako **element jakości funkcjonowania organizacji**, a nie jako zagadnienie poboczne lub wyłącznie formalne.
+Sponsor wykonawczy odpowiada za to, aby dostępność była traktowana jako element jakości funkcjonowania organizacji, a nie jako zagadnienie poboczne lub wyłącznie formalne.
 
 ---
 
@@ -48,19 +48,19 @@ Sponsor wykonawczy odpowiada za to, aby dostępność była traktowana jako **el
 
 Sponsor wykonawczy ds. dostępności odpowiada w szczególności za:
 
-1. **Nadanie priorytetu dostępności**
+1. Nadanie priorytetu dostępności
    - uwzględnianie dostępności w kierunkach działania i decyzjach kierowniczych,
    - wzmacnianie znaczenia dostępności w komunikacji wewnętrznej.
 
-2. **Zapewnienie warunków organizacyjnych**
+2. Zapewnienie warunków organizacyjnych
    - wspieranie tworzenia i utrzymywania struktur koordynacyjnych,
    - zapewnienie możliwości przeznaczenia czasu i zasobów na działania związane z dostępnością.
 
-3. **Wsparcie decyzyjne**
+3. Wsparcie decyzyjne
    - rozstrzyganie kwestii wymagających decyzji na poziomie kierowniczym,
    - wspieranie Koordynatora w sytuacjach wymagających interwencji zarządczej.
 
-4. **Nadzór i odpowiedzialność**
+4. Nadzór i odpowiedzialność
    - przyjmowanie informacji i rekomendacji dotyczących stanu dostępności,
    - monitorowanie postępów i kierunków zmian.
 
@@ -110,4 +110,4 @@ Bez aktywnego i świadomego wsparcia sponsora wykonawczego:
 - działania zespołu ds. dostępności mogą mieć charakter wyłącznie opiniodawczy,
 - dostępność może pozostać na poziomie deklaratywnym.
 
-Obecność sponsora wykonawczego zapewnia, że dostępność staje się **rzeczywistym elementem zarządzania organizacją**.
+Obecność sponsora wykonawczego zapewnia, że dostępność staje się rzeczywistym elementem zarządzania organizacją.
