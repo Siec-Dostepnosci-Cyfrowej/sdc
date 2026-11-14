@@ -188,7 +188,7 @@ Dokumentacja oceny określa odpowiednio:
 - rodzaj oceny — planową albo doraźną;
 - cel;
 - czas przeprowadzenia oceny;
-- wykonawcę;
+- oceniającego;
 - zakres wymagań;
 - zakres funkcjonalny;
 - zakres strukturalny;
