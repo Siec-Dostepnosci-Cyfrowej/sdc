@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "build": "docusaurus build",
+    "build:sprite": "node scripts/build-images-sprite.js",
     "clear": "docusaurus clear",
     "deploy": "docusaurus deploy",
     "docusaurus": "docusaurus",
