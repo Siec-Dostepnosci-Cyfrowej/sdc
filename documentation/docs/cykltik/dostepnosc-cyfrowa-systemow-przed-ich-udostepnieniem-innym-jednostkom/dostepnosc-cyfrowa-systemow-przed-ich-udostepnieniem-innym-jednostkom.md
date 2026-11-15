@@ -1,6 +1,6 @@
 ---
 id: dostepnosc-cyfrowa-systemow-przed-ich-udostepnieniem-innym-jednostkom
-title: Zapewnienie dostępności cyfrowej systemów i aplikacji przed ich udostępnieniem innym jednostkom
+title: Zapewnienie dostępności cyfrowej rozwiązań informatycznych udostępnianych innym podmiotom
 sidebar_label: Zalecenie
 sidebar_position: 0
 keywords: [dostępność cyfrowa]
@@ -13,36 +13,39 @@ wersja_robocza: true
 
 ## 1. Cel zalecenia
 
-Zapobieganie rozpowszechnianiu systemów i aplikacji z barierami dostępności cyfrowej
+Zapobieganie rozpowszechnianiu systemów i aplikacji z barierami dostępności cyfrowej oraz określenie odpowiedzialności za zachowanie ich dostępności po udostępnieniu.
 
 ---
 
 ## 2. Zalecenie
 
-Organizacja, która udostępnia innym podmiotom system lub aplikację stworzone na własne potrzeby, samodzielnie albo przez wykonawcę, zapewnia dostępność cyfrową udostępnianego rozwiązania. Przed jego przekazaniem weryfikuje spełnienie wymagań dostępności właściwych dla danego rodzaju oprogramowania, usuwa stwierdzone niezgodności i dokumentuje wyniki weryfikacji. Zasada ta obejmuje także udostępnianie nieodpłatne.
-
-W umowie, porozumieniu lub zasadach udostępniania organizacja określa podział zadań związanych z utrzymaniem dostępności, usuwaniem zgłaszanych barier i rozwojem rozwiązania. Ustalenia wskazują odpowiedzialność za oprogramowanie przekazane odbiorcy oraz za zmiany wynikające z jego konfiguracji, integracji, modyfikacji i wprowadzanych treści.
-
-Wymagania te stosuje się również przy dalszym udostępnianiu rozwiązania oraz wtedy, gdy organizacja wskazuje je innym podmiotom jako narzędzie realizacji zadań, bez przekazywania im oprogramowania.
+Organizacja zapewnia dostępność cyfrową systemów i aplikacji udostępnianych innym podmiotom, również nieodpłatnie. Przed udostępnieniem weryfikuje spełnienie wymagań dostępności, usuwa stwierdzone niezgodności i dokumentuje wyniki. W umowie, porozumieniu lub zasadach udostępniania określa odpowiedzialność za utrzymanie dostępności, usuwanie barier oraz zmiany i kolejne wersje rozwiązania.
 
 ---
 ## 3. Rekomendacje
 
- 1. Sprawdzenie rozwiązania przed udostępnieniem. Weryfikacja obejmuje funkcje i pełne procesy wykonywane przez użytkowników, w tym pracowników obsługujących system. Uwzględnia testy ręczne i współpracę z technologiami asystującymi, a także dostępność formularzy, generowanych dokumentów oraz instrukcji. Sam wynik testu automatycznego nie stanowi wystarczającego potwierdzenia dostępności.
-
- 2. Przekazanie wyników weryfikacji. Odbiorca otrzymuje dokumentację wskazującą badaną wersję, zakres i datę badania, zastosowane wymagania oraz wyniki sprawdzenia poprawek. Dokumentacja określa również warunki konfiguracji i użytkowania istotne dla zachowania dostępności.
-
- 3. Ustalenie zasad obsługi barier. Strony wskazują, kto przyjmuje zgłoszenia, kto wykonuje i finansuje poprawki oraz w jakich terminach. Określają także sposób potwierdzania skuteczności napraw i przekazywania ich wszystkim odbiorcom, których dotyczy problem.
-
- 4. Utrzymanie dostępności kolejnych wersji. Każda aktualizacja podlega sprawdzeniu w zakresie wprowadzonych zmian i ich wpływu na istniejące funkcje. Zasady współpracy określają okres wsparcia oraz sposób postępowania po jego zakończeniu, w tym możliwość dalszego utrzymania i poprawiania rozwiązania przez odbiorcę lub wskazany przez niego podmiot.
-
- 5. Weryfikacja po wdrożeniu u odbiorcy. Podmiot wdrażający sprawdza dostępność rozwiązania w swoim środowisku, z uwzględnieniem konfiguracji, integracji i własnych zmian. Zapewnia również dostępność wprowadzanych przez siebie treści. Badanie wersji przekazanej przez wytwórcę nie zastępuje sprawdzenia skutków lokalnego wdrożenia.
-
- 6. Zachowanie zasad przy dalszym wykorzystaniu. Podmiot przekazujący rozwiązanie kolejnym jednostkom przekazuje również dokumentację dostępności i ustala odpowiedzialność za jego dalsze utrzymanie. Przed wskazaniem systemu jako narzędzia realizacji zadań sprawdza, czy weryfikacja obejmowała funkcje, z których mają korzystać te jednostki, oraz czy zapewniono obsługę zgłaszanych przez nie barier.
+ 1. Zakres udostępniania
  
+ Organizacja stosuje zalecenie zarówno przy przekazywaniu oprogramowania do wdrożenia, jak i przy udostępnianiu dostępu do działającego systemu, także wskazanego innym podmiotom do realizacji zadań. Podmiot udostępniający rozwiązanie kolejnym odbiorcom zachowuje te zasady i przekazuje dokumentację dostępności.
+
+ 2. Weryfikacja i dokumentacja
+ 
+Organizacja bada pełne procesy wykonywane przez użytkowników, w tym pracowników, oraz formularze, generowane dokumenty i instrukcje. Łączy testy ręczne i sprawdzenie współpracy z technologiami asystującymi z testami automatycznymi. Odbiorcy przekazuje dostępną cyfrowo dokumentację zawierającą wersję rozwiązania, datę i zakres badania, zastosowane wymagania, wyniki sprawdzenia poprawek oraz wskazówki dotyczące konfiguracji.
+
+ 3. Zgłaszanie i usuwanie barier
+ 
+ Podmiot wdrażający sprawdza dostępność po konfiguracji, integracji i własnych modyfikacjach oraz zapewnia dostępność wprowadzanych treści. Podmiot przygotowujący aktualizację bada zmiany i ich wpływ na dotychczasowe funkcje przed udostępnieniem nowej wersji. Przy wspólnym systemie strony przypisują zadania odpowiednio do swoich możliwości zmiany oprogramowania, ustawień i treści.
+
+ 4. Wdrożenie i kolejne wersje
+
+ Podmiot wdrażający sprawdza dostępność po konfiguracji, integracji i własnych modyfikacjach oraz zapewnia dostępność wprowadzanych treści. Podmiot przygotowujący aktualizację bada zmiany i ich wpływ na dotychczasowe funkcje przed udostępnieniem nowej wersji. Przy wspólnym systemie strony przypisują zadania odpowiednio do swoich możliwości zmiany oprogramowania, ustawień i treści.
+
+ 5. Ciągłość utrzymania
+ 
+Strony określają okres wsparcia i zasady postępowania po jego zakończeniu. Jeżeli utrzymanie przejmuje odbiorca lub wskazany przez niego podmiot, ustalają warunki dostępu do kodu źródłowego, dokumentacji technicznej i niezbędnych uprawnień. Jeżeli dalsze utrzymanie nie jest możliwe, odbiorca planuje przejście do innego dostępnego rozwiązania.
+
+  
  ---
 ## 4. Uzasadnienie
 
-Rozwiązanie sprawdzone organizacyjnie w jednej jednostce może być przydatne innym, ale samo powodzenie wdrożenia nie potwierdza jego dostępności. Przekazanie oprogramowania z barierami powoduje powielanie tych samych problemów i kosztów ich usuwania. Ma to szczególne znaczenie, gdy kolejne jednostki mają korzystać z systemu do wykonywania powierzonych im zadań.
-
-Weryfikacja przed udostępnieniem pozwala usunąć błędy u źródła. Jasny podział zadań zapewnia natomiast, że po przekazaniu rozwiązania wiadomo, kto odpowiada za naprawę, aktualizację i zachowanie dostępności w konkretnym wdrożeniu.
+Udane wdrożenie w jednej organizacji nie potwierdza dostępności cyfrowej rozwiązania, a jego dalsze udostępnianie może powielać bariery i koszty napraw. Weryfikacja przed udostępnieniem pozwala usunąć błędy u źródła, co ma szczególne znaczenie, gdy odbiorcy muszą korzystać ze wskazanego systemu do realizacji zadań. Jasny podział odpowiedzialności ogranicza ryzyko pozostawienia ich z problemami, których nie mogą samodzielnie usunąć.
