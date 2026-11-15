@@ -70,7 +70,7 @@ Obejmuje to w szczególności:
 
 Organizacja umożliwia kandydatom składanie aplikacji drogą elektroniczną. Zapewnia dostępność cyfrową sposobu składania aplikacji oraz przekazuje kandydatom jednoznaczne informacje o sposobie i warunkach aplikowania. Możliwość aplikowania drogą elektroniczną nie wyklucza innych sposobów składania zgłoszeń.
 
-Jeżeli organizacja korzysta z zewnętrznych platform, usług lub wykonawców, uwzględnia ich dostępność przy wyborze rozwiązania i organizowaniu procesu rekrutacji.
+Jeżeli organizacja korzysta z zewnętrznych platform, usług lub wykonawców, określa wymagania dotyczące dostępności i weryfikuje ich spełnienie przed wykorzystaniem rozwiązania. W razie wystąpienia bariery zapewnia dostępny sposób wykonania danej czynności, bez pogorszenia sytuacji kandydata i przerzucania na niego obowiązku uzgodnienia rozwiązania z dostawcą.
 
 ### 3.4. Dostępne postępowanie kwalifikacyjne
 
@@ -84,7 +84,7 @@ Organizacja:
 - zapewnia potrzebne dostosowania, jeżeli są konieczne do udziału w postępowaniu;
 - stosuje rozwiązania alternatywne, jeżeli wykorzystywane narzędzie lub forma postępowania nie może zostać odpowiednio dostosowana.
 
-Dostosowanie sposobu udziału nie zmienia wymagań dotyczących kwalifikacji ani kryteriów oceny związanych z wykonywaniem pracy na danym stanowisku.
+Dostosowanie umożliwia rzetelną ocenę kwalifikacji i kompetencji istotnych dla wykonywania pracy na danym stanowisku. Organizacja weryfikuje, czy przyjęte kryteria i metody oceny nie prowadzą do oceniania ograniczeń wynikających z bariery zamiast kompetencji kandydata. Korzystanie z dostosowania nie jest samo w sobie podstawą obniżenia oceny.
 
 ### 3.5. Dostępne wdrażanie do pracy
 
@@ -96,9 +96,12 @@ W ramach wdrażania zapewnia w szczególności:
 - dostępność dokumentów elektronicznych, instrukcji, materiałów szkoleniowych i innych treści potrzebnych do rozpoczęcia pracy;
 - dostępność szkoleń i komunikacji związanej z wdrażaniem;
 - możliwość korzystania z potrzebnych technologii wspomagających i konfiguracji;
+- sprawdzenie możliwości wykonania przez pracownika podstawowych czynności w wykorzystywanych systemach, w tym logowania, uwierzytelniania i korzystania ze wsparcia technicznego;
 - informację o sposobie zgłaszania potrzeb i problemów związanych z dostępnością oraz uzyskiwania wsparcia.
 
-Znane organizacji potrzeby pracownika związane z dostępnością są uwzględniane odpowiednio wcześnie, aby potrzebne rozwiązania mogły być przygotowane przed rozpoczęciem pracy lub bez zbędnej zwłoki.
+Znane organizacji potrzeby pracownika związane z dostępnością są uwzględniane odpowiednio wcześnie, aby potrzebne rozwiązania mogły być przygotowane przed rozpoczęciem pracy.
+
+Potrzeby zgłoszone z wyprzedzeniem są uwzględniane na etapie przygotowania wdrożenia, tak aby niezbędne rozwiązania były gotowe przed rozpoczęciem pracy. Jeżeli docelowe rozwiązanie nie jest jeszcze dostępne, organizacja uzgadnia z pracownikiem skuteczne rozwiązanie przejściowe oraz termin wdrożenia rozwiązania docelowego. Potrzeby ujawnione później są rozpatrywane bez zbędnej zwłoki
 
 ### 3.6. Rozwiązywanie problemów z dostępnością
 
@@ -117,14 +120,20 @@ W ocenie może uwzględniać w szczególności:
 - zgłaszane potrzeby i sposób ich obsługi;
 - doświadczenia kandydatów i nowych pracowników;
 - skuteczność zapewnianych dostosowań;
+- terminowość zapewnienia dostosowań oraz ich skuteczność w umożliwieniu udziału w danym etapie rekrutacji lub wdrażania;
 - powtarzające się bariery wymagające zmian organizacyjnych lub technicznych.
 
 Wyniki oceny są wykorzystywane do doskonalenia kolejnych procesów rekrutacji i wdrażania.
+
+Informacje o indywidualnych potrzebach są przekazywane wyłącznie osobom, którym są niezbędne do organizacji dostosowań. Wnioski z oceny procesu przedstawia się w sposób chroniący prywatność kandydatów i pracowników.
+
 ---
 
 ## 4. Uzasadnienie
 
 Rekrutacja i wdrażanie pracowników są w coraz większym stopniu realizowane z wykorzystaniem rozwiązań cyfrowych. Ogłoszenia o pracy, formularze aplikacyjne, komunikacja z kandydatami, spotkania i rozmowy prowadzone zdalnie, testy i zadania kwalifikacyjne, a następnie systemy informatyczne, dokumenty elektroniczne i materiały szkoleniowe wykorzystywane podczas wdrażania mogą tworzyć bariery uniemożliwiające lub utrudniające osobom z niepełnosprawnościami udział w tych procesach.
+
+Dostępność cyfrowa stanowi jeden z warunków rzeczywistego uczestnictwa kandydatów i pracowników w procesach rekrutacji i wdrażania do pracy. Jej znaczenie należy rozpatrywać w szerszym kontekście dostępności tych procesów, obejmującym również uwarunkowania organizacyjne, informacyjno-komunikacyjne i architektoniczne. Zapewnienie dostępności cyfrowej nie eliminuje barier występujących w pozostałych obszarach, ale usuwa istotną grupę przeszkód w dostępie do zatrudnienia i podejmowaniu pracy.
 
 Możliwość składania aplikacji drogą elektroniczną ogranicza bariery związane z koniecznością osobistego dostarczania dokumentów lub korzystania wyłącznie z tradycyjnych sposobów komunikacji. Samo udostępnienie kanału elektronicznego nie oznacza jednak zapewnienia dostępności cyfrowej. Znaczenie ma również dostępność wykorzystywanych narzędzi, formularzy, informacji i sposobu przekazywania dokumentów.
 
