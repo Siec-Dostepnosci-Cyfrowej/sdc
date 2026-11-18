@@ -1,6 +1,6 @@
 ---
 id: nadzor-dostepnosci-cyfrowej-w-jednostkach
-title: Wsparcie i koordynacja zapewniania dostępności cyfrowej w organizacji wielopodmiotowej
+title: Wsparcie i koordynacja zapewniania dostępności cyfrowej w organizacji działającej z udziałem wielu jednostek lub podmiotów
 sidebar_label: Projekt zalecenia
 sidebar_position: 0
 keywords: [dostępność cyfrowa, wsparcie, nadzór, podmioty powiązane, jednostki organizacyjne]
@@ -13,18 +13,18 @@ wersja_robocza: true
 
  ## 1. Cel zalecenia 
 
-Skuteczne zapewnianie dostępności cyfrowej przez jednostki organizacji wielopodmiotowej dzięki zapewnianiu warunków potrzebnych do wykonywania ich obowiązków, organizowaniu wsparcia i współpracy, wykorzystaniu możliwości wspólnego działania oraz odpowiedniemu korzystaniu z kompetencji organizacji
+Wzmacnianie zdolności jednostek i podmiotów do zapewniania dostępności cyfrowej przez organizowanie wsparcia i współpracy, wspólne wykorzystywanie zasobów i kompetencji oraz rozwiązywanie problemów wymagających wspólnego działania.
 
  ## 2. Zalecenie 
 
-Organizacja wielopodmiotowa i jej jednostki współdziałają w zapewnianiu dostępności cyfrowej, odpowiednio do swoich ról i odpowiedzialności. Organizacja zapewnia warunki i wsparcie potrzebne jednostkom, organizuje współpracę i wspólne działania oraz wykorzystuje swoje kompetencje do skutecznego rozwiązywania problemów dostępności cyfrowej.
+W organizacji działającej z udziałem wielu jednostek lub podmiotów organizacja oraz uczestniczące w realizacji jej zadań jednostki i podmioty współdziałają w zapewnianiu dostępności cyfrowej, odpowiednio do swoich ról i zakresu odpowiedzialności. Organizacja zapewnia warunki i wsparcie potrzebne do realizacji tych zadań, koordynuje współpracę i w ramach swoich kompetencji pomaga rozwiązywać problemy wymagające wspólnego działania.
 
  ## 3. Rekomendacje 
  ### 3.1. Rola organizacji i zakres działania 
 
 Organizacja wykorzystuje możliwości wynikające ze swojej roli do wspierania jednostek, koordynowania współpracy i wspólnych działań oraz – jeżeli ma odpowiednie kompetencje – do kontroli lub nadzoru.
 
-Zalecenie dotyczy organizacji, która wykonuje swoje zadania z udziałem wielu organizacyjnie lub prawnie wyodrębnionych jednostek albo podmiotów i pełni wobec nich określoną rolę.
+Zalecenie dotyczy organizacji lub organu, który wykonuje swoje zadania z udziałem wielu organizacyjnie lub prawnie wyodrębnionych jednostek lub podmiotów i pełni wobec nich określoną rolę. W dalszej części zalecenia określenie „jednostki” obejmuje także te podmioty.
 
 Rola ta może wynikać z przepisów prawa, funkcji organizatora, organu prowadzącego lub podmiotu tworzącego, z podziału zadań, umowy, porozumienia albo innej podstawy właściwej dla danej relacji.
 
@@ -134,15 +134,11 @@ Zalecenie nie stanowi podstawy prawnej do działania wobec jednostek i nie tworz
 
  ## 5. Uzasadnienie 
 
-Na potrzeby zalecenia określenie  „organizacja wielopodmiotowa”  oznacza umownie organizację lub organ wykonujący zadania z udziałem wielu organizacyjnie lub prawnie wyodrębnionych jednostek albo podmiotów i pełniący wobec nich określoną rolę.
+Rola organizacji wobec poszczególnych jednostek może być różna. Współpraca nie wymaga hierarchicznego podporządkowania jednostek. Zakres działań organizacji wynika z charakteru danej relacji, a nadzór jest możliwy tylko wtedy, gdy organizacja ma do tego odpowiednie kompetencje.
 
-Nie jest to odrębna kategoria prawna. Określenie nie oznacza również jednolitej hierarchicznej struktury ani jednakowego rodzaju relacji ze wszystkimi jednostkami.
+Gdy kilka jednostek ma podobne potrzeby, organizacja może zapewnić im dostęp do wiedzy, narzędzi i pomocy specjalistów. Jeżeli problem z dostępnością cyfrową ma wspólną przyczynę, organizacja może skoordynować działania potrzebne do jej usunięcia.
 
-Rola organizacji wobec poszczególnych jednostek może być różna. Dlatego zakres działania wynika z charakteru danej relacji oraz posiadanych kompetencji. Nadzór jest jednym z możliwych sposobów działania i może być stosowany tylko wtedy, gdy organizacja ma odpowiednie kompetencje.
-
-Organizacja działająca z wieloma jednostkami może łączyć podobne potrzeby, organizować wspólne wsparcie, udostępniać wiedzę i narzędzia oraz pomagać rozwiązywać problemy występujące w kilku miejscach.
-
-Takie działanie nie zmienia odpowiedzialności jednostek za realizację ich obowiązków. Pozwala natomiast wykorzystać wspólne zasoby i możliwości organizacji tam, gdzie może to poprawić skuteczność zapewniania dostępności cyfrowej.
+Każda jednostka zachowuje odpowiedzialność za wykonanie swoich obowiązków. Wspólne korzystanie z zasobów i kompetencji ułatwia jednostkom zapewnianie dostępności cyfrowej, zwłaszcza gdy rozwiązanie problemu przekracza możliwości jednej z nich.
 
  ## 6. Powiązania z innymi dokumentami Sieci 
 
